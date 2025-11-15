@@ -1,0 +1,19 @@
+{
+  "product_urls": [
+    "sample://espresso-machine",
+    "sample://smart-kettle"
+  ],
+  "selectors": {
+    "review_container": ".review-card",
+    "title": ".review-title",
+    "body": ".review-body",
+    "rating": ".review-rating",
+    "author": ".review-author",
+    "date": ".review-date",
+    "next_page": ".next-page",
+    "item_name": ".product-title"
+  },
+  "max_pages_per_product": 5,
+  "delay_seconds": 0.2,
+  "output_dir": "../data/demo_reviews"
+}
