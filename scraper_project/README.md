@@ -1,65 +1,77 @@
-# Review Scraper Demo
+# Review Scraper
 
-A configurable scraper that harvests product reviews across multiple detail pages and stores them in a machine-learning-friendly layout. It ships with synthetic HTML so you can run the end-to-end pipeline without hitting live websites.
+This folder contains the tooling that collects product reviews, walks through
+pagination, and saves the results in JSONL/CSV form for later analysis. The
+project includes a tiny synthetic catalogue so the pipeline can be exercised
+without touching the network, plus CLI switches for real-world runs.
 
-## Features
-- Per-product pagination with pluggable CSS selectors.
-- Optional embedded sample data for offline testing.
-- Normalized outputs: JSONL per item plus aggregate JSONL and CSV index.
-- CLI configuration via flags or JSON config file.
+## Capabilities
+- Configurable CSS selectors for every review field.
+- Pagination limits and polite delays per product.
+- Optional embedded HTML snapshots for offline runs.
+- Machine-readable outputs: one JSONL per product and aggregate CSV/JSONL files.
 
 ## Requirements
-- Python 3.10+
-- `requests` and `beautifulsoup4` (install via `pip install -r requirements.txt`).
-
-## Quick Start
-1. Install dependencies:
+- Python 3.10 or newer.
+- Dependencies listed in `requirements.txt`:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
-2. Run the scraper against the embedded sample pages:
+## First Run (sample data)
 
 ```bash
-python scraper/demo_scraper.py --config scraper/configs/sample_config.json --use-sample-data --output-dir data/sample_run
+python3 scraper/demo_scraper.py \
+  --config scraper/configs/sample_config.json \
+  --use-sample-data \
+  --output-dir data/sample_run
 ```
 
-3. Inspect the generated files under `data/sample_run`:
-- `raw/<item_id>.jsonl`: review records for a single product.
-- `aggregate/all_reviews.jsonl`: concatenated corpus.
-- `aggregate/review_index.csv`: item-level counts for bookkeeping.
+Artifacts will appear in `data/sample_run/raw/` (per-item JSONL files) and
+`data/sample_run/aggregate/` (combined corpus and index CSV).
 
-## Customizing for a Real Site
-- Copy `scraper/configs/sample_config.json` and update `product_urls` with real product review URLs.
-- Adjust selectors so they match the site markup (use browser dev tools to inspect). Each selector supports any CSS expression recognized by BeautifulSoup.
-- Respect the target site's robots.txt, rate limits, and Terms of Service. Increase `delay_seconds` or add your own retry/backoff to stay polite.
-- Remove the `--use-sample-data` flag and ensure `product_urls` use `http(s)` when scraping real pages.
+## Scraping a Live Page
+1. Inspect the target site with browser dev tools and note the CSS selectors for
+   review cards, titles, ratings, etc.
+2. Save those selectors in a JSON file, for example:
 
-## CLI Flags
-- `--config`: Path to JSON config (defaults to the embedded sample config if omitted).
-- `--output-dir`: Overrides the config output path.
-- `--use-sample-data`: Forces the scraper to pull HTML from the embedded dataset. Useful for tests.
-
-## JSON Config Schema
 ```jsonc
 {
-  "product_urls": ["https://example.com/item-a/reviews", "https://example.com/item-b/reviews"],
-  "selectors": {
-    "review_container": ".review-card",
-    "title": ".review-title",
-    "body": ".review-body",
-    "rating": ".review-rating",
-    "author": ".review-author",
-    "date": ".review-date",
-    "next_page": "a.next",
-    "item_name": "h1.product-title"
-  },
-  "max_pages_per_product": 5,
-  "delay_seconds": 1.0,
-  "output_dir": "../data/reviews",
-  "user_agent": "Mozilla/5.0 ..."
+  "review_container": ".review",
+  "title": ".review__title",
+  "body": ".review__text",
+  "rating": ".review__rating span",
+  "author": ".review__author",
+  "date": "time",
+  "next_page": "a.next",
+  "item_name": "h1.product-name"
 }
 ```
 
-Feel free to extend `scraper/demo_scraper.py` with custom storage backends (e.g., database writers) or additional metadata hooks for downstream ML experiments.
+3. Run the scraper against one or more URLs (repeat `--product-url` to add more
+   items):
+
+```bash
+python3 scraper/demo_scraper.py \
+  --product-url https://example.com/widget/reviews \
+  --selector-config /path/to/selectors.json \
+  --max-pages 3 \
+  --output-dir data/widget_run
+```
+
+When at least one URL uses `http` or `https`, the script automatically switches
+to real network requests. Use the `--use-sample-data` flag only when every URL
+starts with `sample://`.
+
+## CLI Reference
+- `--config`: Load a full JSON config (URLs, selectors, limits, etc.).
+- `--product-url`: Add a single product page from the command line.
+- `--selector-config`: Provide only the selector overrides you want to change.
+- `--max-pages`: Limit pagination depth per product.
+- `--output-dir`: Override where JSON/CSV files are written.
+- `--use-sample-data`: Force usage of bundled HTML files.
+
+Keep the target site's policies in mind: obey robots.txt, rate limits, and any
+legal restrictions. Extend `demo_scraper.py` with authentication headers or
+browser automation if a site requires them.

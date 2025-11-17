@@ -1,7 +1,8 @@
-"""Self-contained review scraper demo with optional sample data.
+"""Compact product-review scraper built for reproducible experiments.
 
-The script demonstrates how to orchestrate multi-item scraping while keeping
-selectors configurable and storage structured for ML experiments.
+The module keeps every moving part (selectors, pagination, and storage) under
+source control so it is easy to tweak for a new marketplace without rewriting
+the core loop.
 """
 
 from __future__ import annotations
@@ -295,10 +296,28 @@ def build_arg_parser() -> argparse.ArgumentParser:
 		help="Path to JSON config with product URLs and selectors",
 	)
 	parser.add_argument(
+		"--product-url",
+		action="append",
+		dest="product_urls",
+		help="Product or listing URL to scrape. Repeat for multiple items.",
+	)
+	parser.add_argument(
 		"--output-dir",
 		type=Path,
 		default=None,
 		help="Override output directory defined in the config",
+	)
+	parser.add_argument(
+		"--max-pages",
+		type=int,
+		default=None,
+		help="Limit number of paginated review pages per product",
+	)
+	parser.add_argument(
+		"--selector-config",
+		type=Path,
+		default=None,
+		help="Path to JSON fragment overriding CSS selectors (same schema as selectors)",
 	)
 	parser.add_argument(
 		"--use-sample-data",
@@ -308,27 +327,45 @@ def build_arg_parser() -> argparse.ArgumentParser:
 	return parser
 
 
-def load_config(args: argparse.Namespace) -> ScraperConfig:
+
+def _load_selector_overrides(path: Path) -> SelectorConfig:
+	raw = json.loads(path.read_text())
+	return SelectorConfig.from_dict(raw)
+
+
+def load_config(args: argparse.Namespace) -> tuple[ScraperConfig, bool]:
 	if args.config:
 		config = ScraperConfig.from_json(args.config)
 	else:
 		config = ScraperConfig(
 			product_urls=["sample://espresso-machine", "sample://smart-kettle"],
 		)
+	if args.product_urls:
+		config.product_urls = args.product_urls
 	if args.output_dir:
 		config.output_dir = str(args.output_dir)
+	if args.max_pages is not None:
+		config.max_pages_per_product = args.max_pages
+	if args.selector_config:
+		config.selectors = _load_selector_overrides(args.selector_config)
+
+	force_sample_mode = False
 	if args.use_sample_data:
 		for url in config.product_urls:
 			if not url.startswith("sample://"):
 				raise ValueError("Sample mode expects product URLs starting with sample://")
-	return config
+		force_sample_mode = True
+	else:
+		force_sample_mode = all(url.startswith("sample://") for url in config.product_urls)
+
+	return config, force_sample_mode
 
 
 def main() -> None:
 	parser = build_arg_parser()
 	args = parser.parse_args()
-	config = load_config(args)
-	scraper = ReviewScraper(config, use_sample_data=args.use_sample_data or not args.config)
+	config, use_sample_data = load_config(args)
+	scraper = ReviewScraper(config, use_sample_data=use_sample_data)
 	reviews = scraper.scrape_all()
 	aggregate_path = save_reviews(reviews, Path(config.output_dir))
 	print(f"Stored {len(reviews)} reviews -> {aggregate_path}")
