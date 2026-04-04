@@ -16,3 +16,4 @@ venv/
 # Data outputs (regenerate via scraper)
 scraper_project/data/aggregate/
 scraper_project/data/raw/
+

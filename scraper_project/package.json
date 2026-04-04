@@ -1,0 +1,20 @@
+{
+  "name": "scraper_project",
+  "version": "1.0.0",
+  "description": "This folder contains the tooling that collects product reviews, walks through pagination, and saves the results in JSONL/CSV form for later analysis. The project includes a tiny synthetic catalogue so the pipeline can be exercised without touching the network, plus CLI switches for real-world runs.",
+  "main": "listing_ids_capture.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrape_product":"node collect_category_ids.js",
+    "scrape_review_def": "node collection_auto_rawData.js --concurrency=3",
+    "previous_scrapes": "node collection_auto_rawData.js --list-runs",
+    "scrape_help": "node -e \"console.log('Available scripts:\\n- npm run scrape -> collect product IDs from category URLs in categories.txt\\n- npm run scrape_review_def -> collect reviews with default concurrency 3\\n- npm run previous_scrapes -> list previous review runs\\n- node collection_auto_rawData.js --resume-run=<runId> -> resume a previous run\\n- node collection_auto_rawData.js --failed-only -> retry failed jobs from latest failed list\\n- node collection_auto_rawData.js --categories=<slug1,slug2> -> only selected categories\\n- node collection_auto_rawData.js --products=<id1,id2> -> only selected product IDs\\n- node collection_auto_rawData.js --concurrency=<n> -> override worker count\\n- you can combine filters, for example: node collection_auto_rawData.js --categories=mobilya --products=734699208,734700038 --concurrency=4')\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.59.1"
+  }
+}

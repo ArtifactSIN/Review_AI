@@ -1,0 +1,8 @@
+node_modules/
+logs/
+raw_data/
+product_ids/*.json
+*.partial.json
+*.log
+.DS_Store
+.env

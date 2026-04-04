@@ -1,0 +1,841 @@
+const fs = require("fs");
+const path = require("path");
+const { chromium } = require("playwright");
+
+const PRODUCT_IDS_DIR = path.join(__dirname, "product_ids");
+const RAW_DATA_DIR = path.join(__dirname, "raw_data");
+const LOGS_DIR = path.join(__dirname, "logs");
+
+const REVIEW_CONCURRENCY = 3;
+const REVIEW_DELAY_MS = 350;
+const REVIEW_MAX_PAGES = 500;
+const REVIEW_SORT_ORDER = "RECENT";
+const REVIEW_TAG = "tümü";
+const CHECKPOINT_EVERY_PAGES = 5;
+const REVIEW_RETRY_ATTEMPTS = 3;
+const REVIEW_RETRY_DELAY_MS = 1200;
+
+let isShuttingDown = false;
+const activeReviewRuns = new Map();
+const runStamp = new Date().toISOString().replace(/[:.]/g, "-");
+const runId = `review_run_${runStamp}`;
+const logFilePath = path.join(LOGS_DIR, `${runId}.log`);
+const summaryFilePath = path.join(LOGS_DIR, `${runId}_summary.json`);
+const failedJobsRunFilePath = path.join(LOGS_DIR, `${runId}_failed_jobs.json`);
+const failedJobsLatestPath = path.join(LOGS_DIR, `failed_jobs_latest.json`);
+const statusFilePath = path.join(LOGS_DIR, `current_status.json`);
+
+const runStats = {
+  runId,
+  startedAt: new Date().toISOString(),
+  finishedAt: null,
+  totalJobsQueued: 0,
+  completed: 0,
+  skippedExisting: 0,
+  failed: 0,
+  partialSaved: 0,
+  resumedFromPartial: 0,
+  zeroReviewProducts: 0,
+  totalReviewsCollected: 0,
+  activeWorkers: 0,
+  filters: {
+    categories: null,
+    products: null,
+    concurrency: REVIEW_CONCURRENCY,
+    failedOnly: false,
+    failedFile: null,
+  }
+};
+
+const failedJobs = [];
+
+for (const dir of [RAW_DATA_DIR, LOGS_DIR]) {
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
+}
+
+function appendLogLine(level, args) {
+  const line = `[${new Date().toISOString()}] [${level}] ${args.map(formatLogArg).join(" ")}\n`;
+  fs.appendFileSync(logFilePath, line, "utf8");
+}
+
+function formatLogArg(arg) {
+  if (typeof arg === "string") return arg;
+  try {
+    return JSON.stringify(arg);
+  } catch {
+    return String(arg);
+  }
+}
+
+const originalConsoleLog = console.log.bind(console);
+const originalConsoleError = console.error.bind(console);
+const originalConsoleWarn = console.warn.bind(console);
+
+console.log = (...args) => {
+  appendLogLine("INFO", args);
+  originalConsoleLog(...args);
+};
+
+console.error = (...args) => {
+  appendLogLine("ERROR", args);
+  originalConsoleError(...args);
+};
+
+console.warn = (...args) => {
+  appendLogLine("WARN", args);
+  originalConsoleWarn(...args);
+};
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function sanitizeFileName(name) {
+  return String(name)
+    .replace(/[^a-zA-Z0-9-_]+/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "") || "output";
+}
+
+function ensureDir(dirPath) {
+  if (!fs.existsSync(dirPath)) {
+    fs.mkdirSync(dirPath, { recursive: true });
+  }
+}
+
+function parseCliArgs(argv) {
+  const options = {
+    categories: null,
+    products: null,
+    concurrency: REVIEW_CONCURRENCY,
+    failedOnly: false,
+    failedFile: null,
+    listRuns: false,
+    resumeRun: null,
+    };
+
+  for (const arg of argv) {
+    if (arg.startsWith("--categories=")) {
+      options.categories = new Set(
+        arg
+          .slice("--categories=".length)
+          .split(",")
+          .map(x => sanitizeFileName(x.trim()))
+          .filter(Boolean)
+      );
+    } else if (arg.startsWith("--products=")) {
+      options.products = new Set(
+        arg
+          .slice("--products=".length)
+          .split(",")
+          .map(x => String(x).trim())
+          .filter(Boolean)
+      );
+    } else if (arg.startsWith("--concurrency=")) {
+      const n = Number(arg.slice("--concurrency=".length));
+      if (Number.isFinite(n) && n > 0) {
+        options.concurrency = Math.floor(n);
+      }
+    } else if (arg === "--failed-only") {
+      options.failedOnly = true;
+    } else if (arg.startsWith("--failed-file=")) {
+      options.failedFile = arg.slice("--failed-file=".length).trim() || null;
+    }
+    else if (arg === "--list-runs") {
+    options.listRuns = true;
+    } else if (arg.startsWith("--resume-run=")) {
+    options.resumeRun = arg.slice("--resume-run=".length).trim() || null;
+    }
+  }
+
+  return options;
+}
+
+function buildReviewPageUrl(productId) {
+  return `https://www.n11.com/product-reviews/${productId}`;
+}
+
+function buildReviewApiUrl(productId, currentPage) {
+  const url = new URL(`https://www.n11.com/getProductReviews/${productId}`);
+  url.searchParams.set("currentPage", String(currentPage));
+  url.searchParams.set("sortOrder", REVIEW_SORT_ORDER);
+  url.searchParams.set("tag", REVIEW_TAG);
+  return url.toString();
+}
+
+function getCategoryOutputDir(categorySlug) {
+  const dir = path.join(RAW_DATA_DIR, sanitizeFileName(categorySlug));
+  ensureDir(dir);
+  return dir;
+}
+
+function getReviewOutputPath(categorySlug, productId) {
+  return path.join(getCategoryOutputDir(categorySlug), `${sanitizeFileName(productId)}_reviews.json`);
+}
+
+function getPartialReviewOutputPath(categorySlug, productId) {
+  return path.join(getCategoryOutputDir(categorySlug), `${sanitizeFileName(productId)}_reviews.partial.json`);
+}
+
+function writeFailedJobsFiles() {
+  const payload = {
+    runId,
+    updatedAt: new Date().toISOString(),
+    failedCount: failedJobs.length,
+    jobs: failedJobs,
+  };
+
+  fs.writeFileSync(failedJobsRunFilePath, JSON.stringify(payload, null, 2), "utf8");
+  fs.writeFileSync(failedJobsLatestPath, JSON.stringify(payload, null, 2), "utf8");
+}
+
+function recordFailedJob(job, error, extra = {}) {
+  const { categorySlug, productId } = job;
+  failedJobs.push({
+    categorySlug,
+    productId,
+    error: error ? String(error?.stack || error?.message || error) : "Unknown error",
+    recordedAt: new Date().toISOString(),
+    ...extra,
+  });
+  runStats.failed += 1;
+  writeFailedJobsFiles();
+}
+
+function writeRunSummary() {
+  const payload = {
+    ...runStats,
+    failedJobsFile: failedJobsRunFilePath,
+    logFile: logFilePath,
+  };
+  fs.writeFileSync(summaryFilePath, JSON.stringify(payload, null, 2), "utf8");
+}
+
+function writeCurrentStatus(extra = {}) {
+  const active = Array.from(activeReviewRuns.entries()).map(([, activeRun]) => ({
+    categorySlug: activeRun.categorySlug,
+    productId: activeRun.productId,
+    pagesSeen: Array.from(activeRun.state.pagesSeen).sort((a, b) => a - b),
+    reviewCountUnique: activeRun.state.byReviewId.size,
+  }));
+
+  const payload = {
+    runId,
+    updatedAt: new Date().toISOString(),
+    isShuttingDown,
+    totals: {
+      totalJobsQueued: runStats.totalJobsQueued,
+      completed: runStats.completed,
+      skippedExisting: runStats.skippedExisting,
+      failed: runStats.failed,
+      partialSaved: runStats.partialSaved,
+      resumedFromPartial: runStats.resumedFromPartial,
+      zeroReviewProducts: runStats.zeroReviewProducts,
+      totalReviewsCollected: runStats.totalReviewsCollected,
+      activeWorkers: runStats.activeWorkers,
+    },
+    filters: runStats.filters,
+    active,
+    ...extra,
+  };
+
+  fs.writeFileSync(statusFilePath, JSON.stringify(payload, null, 2), "utf8");
+}
+
+function loadJobsFromFailedFile(failedFilePath, options = {}) {
+  const jobs = [];
+  if (!failedFilePath || !fs.existsSync(failedFilePath)) {
+    return jobs;
+  }
+
+  const payload = JSON.parse(fs.readFileSync(failedFilePath, "utf8"));
+  const entries = Array.isArray(payload?.jobs) ? payload.jobs : [];
+
+  for (const entry of entries) {
+    const categorySlug = sanitizeFileName(entry?.categorySlug || "");
+    const productId = String(entry?.productId || "").trim();
+    if (!categorySlug || !productId) continue;
+
+    if (options.categories && !options.categories.has(categorySlug)) continue;
+    if (options.products && !options.products.has(productId)) continue;
+
+    jobs.push({ categorySlug, productId });
+  }
+
+  return jobs;
+}
+
+function dedupeJobs(jobs) {
+  const out = [];
+  const seen = new Set();
+
+  for (const job of jobs) {
+    const key = `${job.categorySlug}:${job.productId}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push(job);
+  }
+
+  return out;
+}
+
+function getReviewSummaryFiles() {
+  if (!fs.existsSync(LOGS_DIR)) {
+    return [];
+  }
+
+  return fs.readdirSync(LOGS_DIR)
+    .filter(file => file.endsWith("_summary.json"))
+    .map(file => path.join(LOGS_DIR, file))
+    .sort();
+}
+
+function safeReadJson(filePath) {
+  try {
+    return JSON.parse(fs.readFileSync(filePath, "utf8"));
+  } catch {
+    return null;
+  }
+}
+
+function listPreviousRuns() {
+  const files = getReviewSummaryFiles();
+
+  if (files.length === 0) {
+    console.log("[RUNS] no previous summary files found.");
+    return;
+  }
+
+  console.log("[RUNS] previous review runs:");
+  for (const filePath of files) {
+    const summary = safeReadJson(filePath);
+    if (!summary) continue;
+
+    const total = Number(summary.totalJobsQueued || 0);
+    const completed = Number(summary.completed || 0);
+    const skippedExisting = Number(summary.skippedExisting || 0);
+    const failed = Number(summary.failed || 0);
+    const accounted = completed + skippedExisting + failed;
+    const incomplete = Math.max(0, total - accounted);
+
+    console.log(
+      `- runId=${summary.runId} | startedAt=${summary.startedAt} | queued=${total} completed=${completed} skipped=${skippedExisting} failed=${failed} incomplete=${incomplete}`
+    );
+  }
+}
+
+function resolveRunSummaryPath(resumeRun) {
+  if (!resumeRun) {
+    return null;
+  }
+
+  if (fs.existsSync(resumeRun)) {
+    return resumeRun;
+  }
+
+  const candidate = path.join(LOGS_DIR, `${resumeRun}_summary.json`);
+  if (fs.existsSync(candidate)) {
+    return candidate;
+  }
+
+  return null;
+}
+
+function mergeResumeOptions(options, summary) {
+  const merged = { ...options };
+  const filters = summary?.filters || {};
+
+  if (!merged.categories && Array.isArray(filters.categories)) {
+    merged.categories = new Set(filters.categories.map(x => sanitizeFileName(x)).filter(Boolean));
+  }
+
+  if (!merged.products && Array.isArray(filters.products)) {
+    merged.products = new Set(filters.products.map(x => String(x).trim()).filter(Boolean));
+  }
+
+  if ((!merged.concurrency || merged.concurrency === REVIEW_CONCURRENCY) &&
+      Number.isFinite(filters.concurrency) &&
+      filters.concurrency > 0) {
+    merged.concurrency = Math.floor(filters.concurrency);
+  }
+
+  return merged;
+}
+
+function loadJobsForResumeRun(options) {
+  const summaryPath = resolveRunSummaryPath(options.resumeRun);
+  if (!summaryPath) {
+    throw new Error(`Could not resolve resume run: ${options.resumeRun}`);
+  }
+
+  const summary = safeReadJson(summaryPath);
+  if (!summary) {
+    throw new Error(`Could not read run summary: ${summaryPath}`);
+  }
+
+  const mergedOptions = mergeResumeOptions(options, summary);
+
+  const allJobs = loadProductIdJobs({
+    ...mergedOptions,
+    failedOnly: false,
+    failedFile: null,
+    listRuns: false,
+    resumeRun: null,
+  });
+
+  const pendingJobs = allJobs.filter(
+    job => !fs.existsSync(getReviewOutputPath(job.categorySlug, job.productId))
+  );
+
+  return {
+    summary,
+    summaryPath,
+    jobs: pendingJobs,
+    mergedOptions,
+  };
+}
+
+function loadProductIdJobs(options = {}) {
+  if (options.failedOnly) {
+    const failedPath = options.failedFile || failedJobsLatestPath;
+    return dedupeJobs(loadJobsFromFailedFile(failedPath, options));
+  }
+
+  const jobs = [];
+
+  if (!fs.existsSync(PRODUCT_IDS_DIR)) {
+    return jobs;
+  }
+
+  const files = fs.readdirSync(PRODUCT_IDS_DIR)
+    .filter(file => file.endsWith(".json") && !file.endsWith(".partial.json"));
+
+  for (const file of files) {
+    const fullPath = path.join(PRODUCT_IDS_DIR, file);
+    const payload = JSON.parse(fs.readFileSync(fullPath, "utf8"));
+
+    let categorySlug = sanitizeFileName(payload?.slug || file.replace(/_ids\.json$/i, ""));
+    if (!categorySlug) {
+      categorySlug = sanitizeFileName(file.replace(/\.json$/i, ""));
+    }
+
+    if (options.categories && !options.categories.has(categorySlug)) {
+      continue;
+    }
+
+    const ids = Array.isArray(payload?.ids)
+      ? payload.ids
+      : Array.isArray(payload)
+        ? payload
+        : [];
+
+    for (const rawId of ids) {
+      const productId = String(rawId).trim();
+      if (!productId) continue;
+
+      if (options.products && !options.products.has(productId)) {
+        continue;
+      }
+
+      jobs.push({
+        categorySlug,
+        productId,
+      });
+    }
+  }
+
+  return dedupeJobs(jobs);
+}
+
+function loadPartialReviewState(categorySlug, productId) {
+  const partialPath = getPartialReviewOutputPath(categorySlug, productId);
+  if (!fs.existsSync(partialPath)) {
+    return null;
+  }
+
+  try {
+    const payload = JSON.parse(fs.readFileSync(partialPath, "utf8"));
+    const byReviewId = new Map();
+
+    if (Array.isArray(payload?.reviews)) {
+      for (const review of payload.reviews) {
+        if (review?.id == null) continue;
+        byReviewId.set(String(review.id), review);
+      }
+    }
+
+    const pagesSeen = new Set(
+      Array.isArray(payload?.pagesSeen)
+        ? payload.pagesSeen.map(Number).filter(Number.isFinite)
+        : []
+    );
+
+    return {
+      byReviewId,
+      pagesSeen,
+      meta: {
+        sortOrder: payload?.meta?.sortOrder ?? REVIEW_SORT_ORDER,
+        tag: payload?.meta?.tag ?? REVIEW_TAG,
+        itemsPerPage: payload?.meta?.itemsPerPage ?? null,
+        pageCount: payload?.meta?.pageCount ?? null,
+        totalCount: payload?.meta?.totalCount ?? null,
+      }
+    };
+  } catch (err) {
+    console.error(`[PARTIAL LOAD ERROR] ${categorySlug}/${productId}`);
+    console.error(err);
+    return null;
+  }
+}
+
+async function fetchReviewPage(page, productId, currentPage) {
+  const targetUrl = buildReviewApiUrl(productId, currentPage);
+
+  return await page.evaluate(async (url) => {
+    const res = await fetch(url, {
+      credentials: "include",
+      headers: {
+        "Accept": "application/json, text/plain, */*",
+        "X-Requested-With": "XMLHttpRequest"
+      }
+    });
+
+    const text = await res.text();
+
+    let json = null;
+    try {
+      json = JSON.parse(text);
+    } catch {}
+
+    return {
+      ok: res.ok,
+      status: res.status,
+      json
+    };
+  }, targetUrl);
+}
+
+async function fetchReviewPageWithRetry(page, productId, currentPage) {
+  let lastError = null;
+
+  for (let attempt = 1; attempt <= REVIEW_RETRY_ATTEMPTS; attempt++) {
+    try {
+      const payload = await fetchReviewPage(page, productId, currentPage);
+
+      if (!payload.ok) {
+        throw new Error(`HTTP ${payload.status} at page=${currentPage} attempt=${attempt}`);
+      }
+
+      const json = payload.json;
+      const list = json?.productFeedBackReviewList;
+      if (!Array.isArray(list)) {
+        throw new Error(`Invalid payload at page=${currentPage} attempt=${attempt}`);
+      }
+
+      return payload;
+    } catch (err) {
+      lastError = err;
+      console.warn(`[retry] productId=${productId} page=${currentPage} attempt=${attempt}/${REVIEW_RETRY_ATTEMPTS}`);
+
+      if (attempt < REVIEW_RETRY_ATTEMPTS) {
+        await sleep(REVIEW_RETRY_DELAY_MS * attempt);
+      }
+    }
+  }
+
+  throw lastError || new Error(`Failed after retries for productId=${productId} page=${currentPage}`);
+}
+
+function savePartialReviewResult(categorySlug, productId, state) {
+  const outputPath = getPartialReviewOutputPath(categorySlug, productId);
+  const partialResult = {
+    categorySlug,
+    productId,
+    partial: true,
+    collectedAt: new Date().toISOString(),
+    pagesSeen: Array.from(state.pagesSeen).sort((a, b) => a - b),
+    reviewCountUnique: state.byReviewId.size,
+    reviews: Array.from(state.byReviewId.values()),
+    meta: state.meta,
+  };
+
+  fs.writeFileSync(outputPath, JSON.stringify(partialResult, null, 2), "utf8");
+  runStats.partialSaved += 1;
+  console.log(`[REVIEW PARTIAL SAVED] ${outputPath}`);
+}
+
+async function collectReviewsForProduct(page, job) {
+  const { categorySlug, productId } = job;
+  const activeKey = `${categorySlug}:${productId}`;
+  const resumedState = loadPartialReviewState(categorySlug, productId);
+
+  const state = resumedState || {
+    byReviewId: new Map(),
+    pagesSeen: new Set(),
+    meta: {
+      sortOrder: REVIEW_SORT_ORDER,
+      tag: REVIEW_TAG,
+      itemsPerPage: null,
+      pageCount: null,
+      totalCount: null,
+    }
+  };
+
+  const startPage = state.pagesSeen.size > 0
+    ? Math.max(...Array.from(state.pagesSeen)) + 1
+    : 1;
+
+  if (resumedState) {
+    runStats.resumedFromPartial += 1;
+  }
+
+  activeReviewRuns.set(activeKey, {
+    categorySlug,
+    productId,
+    state,
+  });
+  writeCurrentStatus({ event: "product_started", categorySlug, productId, startPage });
+
+  console.log(`\n[START REVIEW] category=${categorySlug} productId=${productId} startPage=${startPage}`);
+
+  for (let currentPage = startPage; currentPage <= REVIEW_MAX_PAGES; currentPage++) {
+    if (isShuttingDown) {
+      console.log(`[review ${categorySlug}/${productId}] interrupt detected, stopping.`);
+      break;
+    }
+
+    const payload = await fetchReviewPageWithRetry(page, productId, currentPage);
+
+    const json = payload.json;
+    const list = json?.productFeedBackReviewList;
+
+    if (json?.pagination?.itemsPerPage != null) state.meta.itemsPerPage = json.pagination.itemsPerPage;
+    if (json?.pagination?.pageCount != null) state.meta.pageCount = json.pagination.pageCount;
+    if (json?.pagination?.totalCount != null) state.meta.totalCount = json.pagination.totalCount;
+
+    state.pagesSeen.add(currentPage);
+
+    for (const review of list) {
+      if (review?.id == null) continue;
+      const key = String(review.id);
+      if (!state.byReviewId.has(key)) {
+        state.byReviewId.set(key, review);
+      }
+    }
+
+    console.log(`[review ${categorySlug}/${productId}] page=${currentPage} +${list.length} reviews (unique=${state.byReviewId.size})`);
+    writeCurrentStatus({ event: "page_completed", categorySlug, productId, currentPage });
+
+    if (currentPage % CHECKPOINT_EVERY_PAGES === 0) {
+      savePartialReviewResult(categorySlug, productId, state);
+    }
+
+    const lastPage = Boolean(json?.pagination?.lastPage);
+    const pageCount = json?.pagination?.pageCount ?? null;
+
+    if (lastPage) break;
+    if (pageCount && currentPage >= pageCount) break;
+    if (list.length === 0) break;
+
+    await sleep(REVIEW_DELAY_MS + Math.floor(Math.random() * 120));
+  }
+
+  activeReviewRuns.delete(activeKey);
+
+  return {
+    categorySlug,
+    productId,
+    collectedAt: new Date().toISOString(),
+    resumedFromPartial: Boolean(resumedState),
+    pagesSeen: Array.from(state.pagesSeen).sort((a, b) => a - b),
+    reviewCountUnique: state.byReviewId.size,
+    noReviews: state.byReviewId.size === 0,
+    reviews: Array.from(state.byReviewId.values()),
+    meta: state.meta,
+  };
+}
+
+function saveReviewResult(result) {
+  const outputPath = getReviewOutputPath(result.categorySlug, result.productId);
+  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), "utf8");
+
+  const partialPath = getPartialReviewOutputPath(result.categorySlug, result.productId);
+  if (fs.existsSync(partialPath)) {
+    fs.unlinkSync(partialPath);
+  }
+
+  runStats.completed += 1;
+  runStats.totalReviewsCollected += result.reviewCountUnique;
+  if (result.reviewCountUnique === 0) {
+    runStats.zeroReviewProducts += 1;
+  }
+  writeCurrentStatus({ event: "product_saved", categorySlug: result.categorySlug, productId: result.productId, noReviews: result.reviewCountUnique === 0 });
+
+  console.log(`[REVIEW SAVED] ${outputPath}`);
+}
+
+function saveAllActiveReviewPartials() {
+  for (const [, activeRun] of activeReviewRuns.entries()) {
+    const { categorySlug, productId, state } = activeRun;
+    try {
+      savePartialReviewResult(categorySlug, productId, state);
+    } catch (err) {
+      console.error(`[REVIEW PARTIAL SAVE ERROR] ${categorySlug}/${productId}`);
+      console.error(err);
+    }
+  }
+  writeCurrentStatus({ event: "partials_saved" });
+}
+
+async function processReview(browser, job) {
+  const { productId } = job;
+  const context = await browser.newContext();
+  const page = await context.newPage();
+
+  try {
+    await page.goto(buildReviewPageUrl(productId), {
+      waitUntil: "domcontentloaded",
+      timeout: 60000
+    });
+    await sleep(1200);
+
+    const result = await collectReviewsForProduct(page, job);
+    saveReviewResult(result);
+  } finally {
+    await context.close();
+  }
+}
+
+async function runWorkers(browser, jobs, concurrency = REVIEW_CONCURRENCY) {
+  const queue = [...jobs];
+
+  async function worker(workerId) {
+    runStats.activeWorkers += 1;
+    while (queue.length > 0) {
+      if (isShuttingDown) {
+        console.log(`[REVIEW WORKER ${workerId}] shutdown detected, exiting.`);
+        writeCurrentStatus({ event: "worker_shutdown", workerId });
+        runStats.activeWorkers -= 1;
+        writeCurrentStatus({ event: "worker_exited", workerId });
+        return;
+      }
+
+      const job = queue.shift();
+      if (!job) break;
+
+      const { categorySlug, productId } = job;
+
+      if (fs.existsSync(getReviewOutputPath(categorySlug, productId))) {
+        runStats.skippedExisting += 1;
+        console.log(`[REVIEW WORKER ${workerId}] skip existing ${categorySlug}/${productId}`);
+        writeCurrentStatus({ event: "skip_existing", categorySlug, productId, workerId });
+        continue;
+      }
+
+      console.log(`\n[REVIEW WORKER ${workerId}] starting ${categorySlug}/${productId}`);
+
+      try {
+        await processReview(browser, job);
+      } catch (err) {
+        console.error(`[REVIEW ERROR] ${categorySlug}/${productId}`);
+        console.error(err);
+        recordFailedJob(job, err);
+        writeCurrentStatus({ event: "job_failed", categorySlug, productId, workerId });
+      }
+    }
+
+    runStats.activeWorkers -= 1;
+    writeCurrentStatus({ event: "worker_exited", workerId });
+  }
+
+  const workers = Array.from({ length: concurrency }, (_, i) => worker(i + 1));
+  await Promise.all(workers);
+}
+
+process.on("SIGINT", () => {
+  if (isShuttingDown) {
+    console.log("\n[INTERRUPT] shutdown already in progress...");
+    return;
+  }
+
+  isShuttingDown = true;
+  console.log("\n[INTERRUPT] Ctrl+C received. Saving partial reviews...");
+  saveAllActiveReviewPartials();
+  writeFailedJobsFiles();
+  writeRunSummary();
+  writeCurrentStatus({ event: "sigint" });
+});
+
+(async () => {
+  const options = parseCliArgs(process.argv.slice(2));
+  if (options.listRuns) {
+  listPreviousRuns();
+  return;
+    }
+  let effectiveOptions = options;
+  let jobs = [];
+  let resumedFromRunId = null;
+
+  if (options.resumeRun) {
+    const resumePayload = loadJobsForResumeRun(options);
+    effectiveOptions = resumePayload.mergedOptions;
+    jobs = resumePayload.jobs;
+    resumedFromRunId = resumePayload.summary?.runId || options.resumeRun;
+    console.log(`[RESUME] summary file: ${resumePayload.summaryPath}`);
+    console.log(`[RESUME] continuing from runId=${resumedFromRunId}`);
+  }
+
+  runStats.filters = {
+    categories: effectiveOptions.categories ? Array.from(effectiveOptions.categories) : null,
+    products: effectiveOptions.products ? Array.from(effectiveOptions.products) : null,
+    concurrency: effectiveOptions.concurrency,
+    failedOnly: effectiveOptions.failedOnly,
+    failedFile: effectiveOptions.failedFile,
+    resumeRun: resumedFromRunId,
+  };
+
+  console.log(`[RUN] id=${runId}`);
+  console.log(`[RUN] log file: ${logFilePath}`);
+  console.log(`[RUN] summary file: ${summaryFilePath}`);
+
+  const browser = await chromium.launch({ headless: false });
+
+  try {
+    if (!options.resumeRun) {
+      jobs = loadProductIdJobs(effectiveOptions);
+    }
+
+    runStats.totalJobsQueued = jobs.length;
+    writeCurrentStatus({ event: "run_started", queued: jobs.length });
+    console.log(`[REVIEWS] loaded ${jobs.length} review jobs from ${PRODUCT_IDS_DIR}`);
+
+    if (effectiveOptions.categories) {
+      console.log(`[REVIEWS] category filter: ${Array.from(effectiveOptions.categories).join(", ")}`);
+    }
+    if (effectiveOptions.products) {
+      console.log(`[REVIEWS] product filter: ${Array.from(effectiveOptions.products).join(", ")}`);
+    }
+    if (effectiveOptions.failedOnly) {
+      console.log(`[REVIEWS] failed-only mode enabled${effectiveOptions.failedFile ? ` using ${effectiveOptions.failedFile}` : ""}`);
+    }
+    if (resumedFromRunId) {
+      console.log(`[REVIEWS] resume mode enabled from ${resumedFromRunId}`);
+    }
+    console.log(`[REVIEWS] concurrency: ${effectiveOptions.concurrency}`);
+
+    await runWorkers(browser, jobs, effectiveOptions.concurrency);
+
+    console.log("\nAll review jobs finished.");
+  } catch (err) {
+    console.error("[FATAL] review scraping failed");
+    console.error(err);
+  } finally {
+    runStats.finishedAt = new Date().toISOString();
+    writeFailedJobsFiles();
+    writeRunSummary();
+    writeCurrentStatus({ event: "run_finished" });
+    await browser.close();
+  }
+})();
