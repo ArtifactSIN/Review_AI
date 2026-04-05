@@ -1,0 +1,94 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "733205606",
+  "collectedAt": "2026-04-05T15:04:12.458Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Harika",
+      "createDate": 1725085968370,
+      "createdDate": "31/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101217355,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** K***",
+      "oldScore": 0,
+      "productId": 544977203,
+      "productSubTitle": "Colgate Hassasiyete Pro Çözüm Beyazlatıcı Sensitive Diş Macunu 2 x 75 ML",
+      "productTitle": "Colgate Hassasiyete Pro Çözüm Beyazlatıcı Sensitive Diş Macunu 2 x 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "kaytika",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürünü begendim ancak kutu üzerindeki seri numarası ile içerisindeki diş macununun seri numarası yani üretim numarası birbirinden farklı bu konu kafamı karıştırdı.",
+      "createDate": 1671011123408,
+      "createdDate": "14/12/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5091227374,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/12/14/61/15/00/96/93/84/13/23/66/08421279231063641713.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/22/12/14/61/15/00/96/93/84/13/23/66/08421279231063641713.png",
+        "https://n11scdn.akamaized.net/a1/{0}/22/12/14/65/37/54/56/35/00/60/21/59/55028354931259688706.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Süleyman SEZER",
+      "oldScore": 0,
+      "productId": 544977203,
+      "productSubTitle": "Colgate Hassasiyete Pro Çözüm Beyazlatıcı Sensitive Diş Macunu 2 x 75 ML",
+      "productTitle": "Colgate Hassasiyete Pro Çözüm Beyazlatıcı Sensitive Diş Macunu 2 x 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 1390505,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/12/14/61/15/00/96/93/84/13/23/66/08421279231063641713.png"
+        },
+        {
+          "id": 1390507,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/12/14/65/37/54/56/35/00/60/21/59/55028354931259688706.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "kaytika",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/12/14/61/15/00/96/93/84/13/23/66/08421279231063641713.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/12/14/61/15/00/96/93/84/13/23/66/08421279231063641713.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

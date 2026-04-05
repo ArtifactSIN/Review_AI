@@ -1,0 +1,59 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "423878690",
+  "collectedAt": "2026-04-05T15:06:00.694Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "temiz içerik, güzel ürün",
+      "createDate": 1705435483674,
+      "createdDate": "16/01/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097625234,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/01/16/90/33/34/37/94/32/25/82/05/26976342630408175470.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/01/16/90/33/34/37/94/32/25/82/05/26976342630408175470.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ö*** G***",
+      "oldScore": 0,
+      "productId": 571258860,
+      "productSubTitle": "Weleda Deniz Tuzu Mineralli Organik Diş Macunu 75ml",
+      "productTitle": "Weleda Deniz Tuzu Mineralli Organik Diş Macunu 75ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 3218369,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/01/16/90/33/34/37/94/32/25/82/05/26976342630408175470.png"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Sachane",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/01/16/90/33/34/37/94/32/25/82/05/26976342630408175470.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/01/16/90/33/34/37/94/32/25/82/05/26976342630408175470.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

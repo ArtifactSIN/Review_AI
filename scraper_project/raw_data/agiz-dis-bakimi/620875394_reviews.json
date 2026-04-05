@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "620875394",
+  "collectedAt": "2026-04-05T15:08:13.996Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "çok iyi ürün",
+      "createDate": 1762871352799,
+      "createdDate": "11/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105655461,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** ö***",
+      "oldScore": 0,
+      "productId": 601474277,
+      "productSubTitle": "Oral-B Bambu Diş Fırçası Krem",
+      "productTitle": "Oral-B Bambu Diş Fırçası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "vitamanya",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

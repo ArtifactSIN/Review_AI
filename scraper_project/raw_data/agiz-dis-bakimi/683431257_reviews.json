@@ -1,0 +1,80 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "683431257",
+  "collectedAt": "2026-04-05T15:02:29.595Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Standart, görselleki ile aynı ürün geldi. Teşekkürler.",
+      "createDate": 1737390905373,
+      "createdDate": "20/01/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103426443,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** u*** a***",
+      "oldScore": 0,
+      "productId": 645646758,
+      "productSubTitle": "Tepe Arayüz Fırçası 2 Numara 8'li 0.5 MM Kırmızı Kırmızı",
+      "productTitle": "Tepe Arayüz Fırçası 2 Numara 8'li 0.5 MM Kırmızı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "enuygunecza",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Markaya güvenerek aldık, bizi yanıltmadı. Bu kadar ince numara eczanelerde bulunmuyor.",
+      "createDate": 1698661262579,
+      "createdDate": "30/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096216694,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Hasan Basri Esgün",
+      "oldScore": 0,
+      "productId": 574543576,
+      "productSubTitle": "Tepe Arayüz Fırçası 2 Numara 8'li 0.5 MM Kırmızı Kırmızı",
+      "productTitle": "Tepe Arayüz Fırçası 2 Numara 8'li 0.5 MM Kırmızı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "welldermo",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

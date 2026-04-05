@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "658448030",
+  "collectedAt": "2026-04-05T15:07:00.474Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Kızım severek kullanıyor",
+      "createDate": 1753300442531,
+      "createdDate": "23/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104892301,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** s***",
+      "oldScore": 0,
+      "productId": 658448030,
+      "productSubTitle": "Oral White Color Kids Çocuklara Özel Hassas Diş İpi ",
+      "productTitle": "Oral White Color Kids Çocuklara Özel Hassas Diş İpi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Oral-White-TR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

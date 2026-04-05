@@ -1,0 +1,110 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "729397096",
+  "collectedAt": "2026-04-05T15:03:25.423Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Ürünü belki soft üründür medium başlığın büyüklük numarasıdır diye düşündüm ürün ağzımı kanattı diş etime zarar verdi.",
+      "createDate": 1590155110379,
+      "createdDate": "22/05/2020",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5079012425,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Dilek Çakir",
+      "oldScore": 0,
+      "productId": 329514215,
+      "productSubTitle": "Oral-B 3-Effect Maxi Clean 1+1 Diş Fırçası Medium Beyaz - Yeşil",
+      "productTitle": "Oral-B 3-Effect Maxi Clean 1+1 Diş Fırçası Medium",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "eldekikus",
+      "title": "kafalarına göre mal yolluyorlar",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "ürün güzel tavsiye ederim",
+      "createDate": 1518158506306,
+      "createdDate": "09/02/2018",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5065245264,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "i*** d***",
+      "oldScore": 0,
+      "productId": 220892343,
+      "productSubTitle": "Oral-B 3-Effect Maxi Clean 1+1 Diş Fırçası Medium Beyaz - Yeşil",
+      "productTitle": "Oral-B 3-Effect Maxi Clean 1+1 Diş Fırçası Medium",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Tambenlik",
+      "title": "güzel ürün",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "harika bir ürün",
+      "createDate": 1483025343172,
+      "createdDate": "29/12/2016",
+      "getirSeller": false,
+      "helpfulVoteCount": 2,
+      "id": 5060656215,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ugur hanay",
+      "oldScore": 0,
+      "productId": 26462035,
+      "productSubTitle": "Stoklarımız anlık güncellenmektedir",
+      "productTitle": "Oral B 3 Effect Maxi Clean 1+1 Diş Fırçası Orta",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "prenseskozmetik",
+      "title": "süper hızlı kargo",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

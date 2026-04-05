@@ -1,0 +1,59 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "678607893",
+  "collectedAt": "2026-04-05T15:06:07.185Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Kullandığım ürün.",
+      "createDate": 1766073126335,
+      "createdDate": "18/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106001877,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/18/90/55/14/19/00/28/46/94/72/68185490414847871062.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/12/18/90/55/14/19/00/28/46/94/72/68185490414847871062.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 678607893,
+      "productSubTitle": "Colgate Max White Charcoal Kömür Beyazlatıcı Florürlü Diş Macunu 2 x 75 ML",
+      "productTitle": "Colgate Max White Charcoal Kömür Beyazlatıcı Florürlü Diş Macunu 2 x 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8136669,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/18/90/55/14/19/00/28/46/94/72/68185490414847871062.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "demiralp",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/18/90/55/14/19/00/28/46/94/72/68185490414847871062.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/18/90/55/14/19/00/28/46/94/72/68185490414847871062.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

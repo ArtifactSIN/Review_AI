@@ -1,0 +1,110 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "723914979",
+  "collectedAt": "2026-04-05T15:03:19.451Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Güzel",
+      "createDate": 1741283589884,
+      "createdDate": "06/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103858650,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** k***",
+      "oldScore": 0,
+      "productId": 598603501,
+      "productSubTitle": "Oral-B Pro Junior Çürük Önleyici Koruma Diş Macunu 75 ML",
+      "productTitle": "Oral-B Pro Junior Çürük Önleyici Koruma Diş Macunu 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "evkiba",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "guzel",
+      "createDate": 1731938144063,
+      "createdDate": "18/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102526620,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** ş***",
+      "oldScore": 0,
+      "productId": 598603501,
+      "productSubTitle": "Oral-B Pro Junior Çürük Önleyici Koruma Diş Macunu 75 ML",
+      "productTitle": "Oral-B Pro Junior Çürük Önleyici Koruma Diş Macunu 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "evkiba",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Çocuk memnun ama tadi biraz aci dedi.",
+      "createDate": 1717326946523,
+      "createdDate": "02/06/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099979206,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "İ*** A***",
+      "oldScore": 0,
+      "productId": 598603501,
+      "productSubTitle": "Oral-B Pro Junior Çürük Önleyici Koruma Diş Macunu 75 ML",
+      "productTitle": "Oral-B Pro Junior Çürük Önleyici Koruma Diş Macunu 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "evkiba",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "661422932",
+  "collectedAt": "2026-04-05T15:05:55.433Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Beklediğim gibi değil mentol kokusu bile yok",
+      "createDate": 1702891158655,
+      "createdDate": "18/12/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097142944,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 585261520,
+      "productSubTitle": "Dentasave Diş Macunu Ağız Kokusu Çinko75 Ml X 2",
+      "productTitle": "Dentasave Diş Macunu Ağız Kokusu Çinko75 Ml X 2",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "DüvenciToptan",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

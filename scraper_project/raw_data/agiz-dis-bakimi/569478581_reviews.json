@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "569478581",
+  "collectedAt": "2026-04-05T15:07:21.913Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Beklediğim gibi geldi. Teşekkür ederim",
+      "createDate": 1714399806280,
+      "createdDate": "29/04/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099369059,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Aysun Taskin",
+      "oldScore": 0,
+      "productId": 566464997,
+      "productSubTitle": "Oral-b Şarjlı Ve Pilli Diş Fırçası Uyumlu Yedek Başlık Sb-17a 4 A",
+      "productTitle": "Oral-b Şarjlı Ve Pilli Diş Fırçası Uyumlu Yedek Başlık Sb-17a 4 A",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "LOVYCO",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

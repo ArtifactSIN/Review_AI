@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "423878454",
+  "collectedAt": "2026-04-05T15:06:09.514Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Ürün içeriği temiz ve güzel, nane aromasını direk hissediyosunuz, fazla köpürmüyor hatta hiç köpürmüypr, gayet güzel",
+      "createDate": 1697469826775,
+      "createdDate": "16/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5095921764,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ö*** G***",
+      "oldScore": 0,
+      "productId": 576810305,
+      "productSubTitle": "Weleda Bitki Özlü Organik Diş Macunu 75ml",
+      "productTitle": "Weleda Bitki Özlü Organik Diş Macunu 75ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "PHARMASTORE",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

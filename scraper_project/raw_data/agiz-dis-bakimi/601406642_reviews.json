@@ -1,0 +1,110 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "601406642",
+  "collectedAt": "2026-04-05T15:02:30.942Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Güzel",
+      "createDate": 1775031972168,
+      "createdDate": "01/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106728150,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775031972168,
+      "maskedBuyerName": "H*** E***",
+      "oldScore": 0,
+      "productId": 687281168,
+      "productSubTitle": "Rocs Sensitive Plus Gum Care Diş Macunu 94 G",
+      "productTitle": "Rocs Sensitive Plus Gum Care Diş Macunu 94 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KırmızıBeyaz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ürün",
+      "createDate": 1725291652075,
+      "createdDate": "02/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101243524,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** B***",
+      "oldScore": 0,
+      "productId": 592745759,
+      "productSubTitle": "Rocs Sensitive Plus Gum Care Diş Macunu 94 G",
+      "productTitle": "Rocs Sensitive Plus Gum Care Diş Macunu 94 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "eczkapında",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "güzel ürün",
+      "createDate": 1708971024422,
+      "createdDate": "26/02/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098237340,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Y*** E***",
+      "oldScore": 0,
+      "productId": 592745759,
+      "productSubTitle": "Rocs Sensitive Plus Gum Care Diş Macunu 94 G",
+      "productTitle": "Rocs Sensitive Plus Gum Care Diş Macunu 94 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "eczkapında",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

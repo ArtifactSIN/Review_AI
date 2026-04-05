@@ -1,0 +1,89 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "588070321",
+  "collectedAt": "2026-04-05T15:04:36.714Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çok güzel , Herzaman Kullandığım Ürün .",
+      "createDate": 1774440535158,
+      "createdDate": "25/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106653011,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/53/83/30/02/87/31/37/93/53/91434984812769722660.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/25/53/83/30/02/87/31/37/93/53/91434984812769722660.png"
+      ],
+      "lastModifiedDate": 1774440535158,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 588070321,
+      "productSubTitle": "Colgate Optic White Beyazlatıcı Diş Macunu 3 x 125 ML",
+      "productTitle": "Colgate Optic White Beyazlatıcı Diş Macunu 3 x 125 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8508204,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/53/83/30/02/87/31/37/93/53/91434984812769722660.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "oztoptan",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/53/83/30/02/87/31/37/93/53/91434984812769722660.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/53/83/30/02/87/31/37/93/53/91434984812769722660.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "teşekkürler",
+      "createDate": 1757677917461,
+      "createdDate": "12/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105207162,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "c*** u***",
+      "oldScore": 0,
+      "productId": 654983777,
+      "productSubTitle": "Colgate Optic White Beyazlatıcı Diş Macunu 3 x 125 ML",
+      "productTitle": "Colgate Optic White Beyazlatıcı Diş Macunu 3 x 125 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "kaytika",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

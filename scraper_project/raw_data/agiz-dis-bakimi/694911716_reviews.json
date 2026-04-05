@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "694911716",
+  "collectedAt": "2026-04-05T15:07:04.226Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "hızlı gönderi",
+      "createDate": 1733161955900,
+      "createdDate": "02/12/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102797327,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** k***",
+      "oldScore": 0,
+      "productId": 633874017,
+      "productSubTitle": "Dentasave Klorhex Yoğun Diş Eti Bakımı Diş Macunu 3 x 75 ML",
+      "productTitle": "Dentasave Klorhex Yoğun Diş Eti Bakımı Diş Macunu 3 x 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ParkFarma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "671421872",
+  "collectedAt": "2026-04-05T15:08:13.089Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Diş Plakları ve Diş Yüzeyini temizleme üzerine üretildiği için beyaz dişler, parlak dişler ile günlük diş bakımı açısından ürün birden fazla etkiye sahip olarak karşımıza çıkıyor. Boykotlu ürün olmayışı da memnun edici bir ürün oldu.",
+      "createDate": 1772737490031,
+      "createdDate": "05/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106529923,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 671421872,
+      "productSubTitle": "Pierre Cardin PC-T10001 Döner Başlıklı Elektrikli Diş Fırçası",
+      "productTitle": "Pierre Cardin PC-T10001 Döner Başlıklı Elektrikli Diş Fırçası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ReyonKozmetik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

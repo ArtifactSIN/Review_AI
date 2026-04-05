@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "560213421",
+  "collectedAt": "2026-04-05T15:03:37.259Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Ürün orjinal tavsiye ederim",
+      "createDate": 1704347826229,
+      "createdDate": "04/01/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097422855,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ş*** A***",
+      "oldScore": 0,
+      "productId": 593603631,
+      "productSubTitle": null,
+      "productTitle": "Signal Beyazlatıcı Sistem Diş Macunu 75 ML x 2",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Polybotum",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

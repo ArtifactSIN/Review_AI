@@ -1,0 +1,80 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "650268323",
+  "collectedAt": "2026-04-05T15:05:45.318Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Üründen çok memnunum kaç yıldır kullanıyorum",
+      "createDate": 1760443830129,
+      "createdDate": "14/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105411563,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 650268323,
+      "productSubTitle": "Herbadent Bitki Özlü Flörürsüz Diş Macunu 3 x 50 ML + Hmd Sabun 125 G",
+      "productTitle": "Herbadent Bitki Özlü Flörürsüz Diş Macunu 3 x 50 ML + Hmd Sabun 125 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "HMD-BitkiselKozmetik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ilk defa bir diş macununa bu kadar devam ettim. çok beğendiğim bir ürün.",
+      "createDate": 1754215004265,
+      "createdDate": "03/08/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104960004,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "c*** k***",
+      "oldScore": 0,
+      "productId": 650268323,
+      "productSubTitle": "Herbadent Bitki Özlü Flörürsüz Diş Macunu 3 x 50 ML + Hmd Sabun 125 G",
+      "productTitle": "Herbadent Bitki Özlü Flörürsüz Diş Macunu 3 x 50 ML + Hmd Sabun 125 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HMD-BitkiselKozmetik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

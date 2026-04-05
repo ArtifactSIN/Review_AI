@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "723276194",
+  "collectedAt": "2026-04-05T15:06:46.924Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çok birşey fark etmedim ve bir süre sonra rengi değişiyor ürünün.Pahalı.",
+      "createDate": 1768309060802,
+      "createdDate": "13/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106200601,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "semih çakır",
+      "oldScore": 0,
+      "productId": 606331258,
+      "productSubTitle": "Glimo Pi Probiyotikli Doğal Diş Macunu 75 ML",
+      "productTitle": "Glimo Pi Probiyotikli Doğal Diş Macunu 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "EnPaDermokozmetik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

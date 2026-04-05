@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "633103782",
+  "collectedAt": "2026-04-05T15:05:20.270Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel kaliteli ve yerli ürün teşekkürler",
+      "createDate": 1770492804568,
+      "createdDate": "07/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106357485,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "c*** y***",
+      "oldScore": 0,
+      "productId": 633103782,
+      "productSubTitle": "Oral White Cleaning Pro Ekstra Beyazlık Nane Ferahlığı Diş Macunu 75 ML",
+      "productTitle": "Oral White Cleaning Pro Ekstra Beyazlık Nane Ferahlığı Diş Macunu 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Oral-White-TR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

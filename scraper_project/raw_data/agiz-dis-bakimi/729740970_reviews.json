@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "729740970",
+  "collectedAt": "2026-04-05T15:05:03.181Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "güzel ürün sesi oldukça az.",
+      "createDate": 1700242582149,
+      "createdDate": "17/11/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096612116,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** U***",
+      "oldScore": 0,
+      "productId": 586282647,
+      "productSubTitle": "Xiaomi Mijia Sonic Elektrikli Diş Fırçası T300 Usb",
+      "productTitle": "Xiaomi Mijia Sonic Elektrikli Diş Fırçası T300 Usb",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Hallow",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

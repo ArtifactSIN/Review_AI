@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "728001592",
+  "collectedAt": "2026-04-05T15:06:12.135Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Dr tavsiyesi ile aldım çok iyi",
+      "createDate": 1752331782570,
+      "createdDate": "12/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104810398,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "T*** F*** K*** A***",
+      "oldScore": 0,
+      "productId": 647546374,
+      "productSubTitle": "Oral-B İO Series 3 Şarjlı Diş Fırçası Pembe",
+      "productTitle": "Oral-B İO Series 3 Şarjlı Diş Fırçası Pembe",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TAZOSUN",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

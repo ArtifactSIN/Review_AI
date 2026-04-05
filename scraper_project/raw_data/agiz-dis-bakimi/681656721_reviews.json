@@ -1,0 +1,110 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "681656721",
+  "collectedAt": "2026-04-05T15:05:03.355Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel beğendim",
+      "createDate": 1766005341561,
+      "createdDate": "18/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106001052,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** R***",
+      "oldScore": 0,
+      "productId": 681656721,
+      "productSubTitle": "T-Brush Metal Çelik Dil Temizleyicisi Gri",
+      "productTitle": "T-Brush Metal Çelik Dil Temizleyicisi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "kaykozmed",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Güzel ürün",
+      "createDate": 1720527757142,
+      "createdDate": "09/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100486634,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "MEHMET ARSLANTURK",
+      "oldScore": 0,
+      "productId": 602743410,
+      "productSubTitle": "T-Brush Metal Çelik Dil Temizleyicisi Gri",
+      "productTitle": "T-Brush Metal Çelik Dil Temizleyicisi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FarmaReyon",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "dil fırçasını tercih ederim bir etkisini görmedim",
+      "createDate": 1719247790721,
+      "createdDate": "24/06/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100266247,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 602743410,
+      "productSubTitle": "T-Brush Metal Çelik Dil Temizleyicisi Gri",
+      "productTitle": "T-Brush Metal Çelik Dil Temizleyicisi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "FarmaReyon",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

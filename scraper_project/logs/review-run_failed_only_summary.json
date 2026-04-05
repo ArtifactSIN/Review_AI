@@ -1,26 +1,26 @@
 {
   "runId": "review-run_failed_only",
-  "startedAt": "2026-04-05T12:16:06.680Z",
-  "finishedAt": "2026-04-05T12:16:33.402Z",
-  "totalJobsQueued": 12,
-  "completed": 12,
+  "startedAt": "2026-04-05T15:44:03.268Z",
+  "finishedAt": "2026-04-05T15:44:09.404Z",
+  "totalJobsQueued": 1,
+  "completed": 1,
   "skippedExisting": 0,
   "failed": 0,
-  "partialSaved": 1,
-  "resumedFromPartial": 12,
-  "zeroReviewProducts": 2,
-  "totalReviewsCollected": 130,
+  "partialSaved": 0,
+  "resumedFromPartial": 0,
+  "zeroReviewProducts": 0,
+  "totalReviewsCollected": 10,
   "activeWorkers": 0,
   "filters": {
     "categories": null,
     "products": null,
-    "concurrency": 3,
+    "concurrency": 10,
     "failedOnly": true,
     "failedFile": null,
     "resumeRun": null,
     "name": null,
     "mode": "failed-only"
   },
-  "failedJobsFile": "/Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only_failed_jobs.json",
-  "logFile": "/Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only.log"
+  "failedJobsFile": "/mnt/c/Developer/Review_AI/scraper_project/logs/review-run_failed_only_failed_jobs.json",
+  "logFile": "/mnt/c/Developer/Review_AI/scraper_project/logs/review-run_failed_only.log"
 }

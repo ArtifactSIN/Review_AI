@@ -279,3 +279,19 @@ All review jobs finished.
 [2026-04-05T12:16:33.393Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/356339984_reviews.json
 [2026-04-05T12:16:33.402Z] [INFO] 
 All review jobs finished.
+[2026-04-05T15:44:03.271Z] [INFO] [RUN] id=review-run_failed_only
+[2026-04-05T15:44:03.274Z] [INFO] [RUN] log file: /mnt/c/Developer/Review_AI/scraper_project/logs/review-run_failed_only.log
+[2026-04-05T15:44:03.275Z] [INFO] [RUN] summary file: /mnt/c/Developer/Review_AI/scraper_project/logs/review-run_failed_only_summary.json
+[2026-04-05T15:44:03.744Z] [INFO] [REVIEWS] loaded 1 review jobs from /mnt/c/Developer/Review_AI/scraper_project/product_ids
+[2026-04-05T15:44:03.745Z] [INFO] [REVIEWS] failed-only mode enabled
+[2026-04-05T15:44:03.746Z] [INFO] [REVIEWS] run is tracked as failed-only mode under runId=review-run_failed_only
+[2026-04-05T15:44:03.748Z] [INFO] [REVIEWS] concurrency: 10
+[2026-04-05T15:44:03.751Z] [INFO] 
+[REVIEW WORKER 1] starting agiz-dis-bakimi/459130031
+[2026-04-05T15:44:08.533Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=459130031 startPage=1
+[2026-04-05T15:44:08.767Z] [INFO] [review agiz-dis-bakimi/459130031] page=1 +8 reviews (unique=8)
+[2026-04-05T15:44:09.365Z] [INFO] [review agiz-dis-bakimi/459130031] page=2 +2 reviews (unique=10)
+[2026-04-05T15:44:09.377Z] [INFO] [REVIEW SAVED] /mnt/c/Developer/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/459130031_reviews.json
+[2026-04-05T15:44:09.398Z] [INFO] 
+All review jobs finished.

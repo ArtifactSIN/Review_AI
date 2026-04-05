@@ -1,0 +1,80 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "596639078",
+  "collectedAt": "2026-04-05T15:07:03.878Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çok güzel geldi diş etlerime çok pahalı ama",
+      "createDate": 1731238571592,
+      "createdDate": "10/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102351746,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 596639078,
+      "productSubTitle": "Buccotherm Hassas Diş Etleri için Organik Diş Macunu 75 ML",
+      "productTitle": "Buccotherm Hassas Diş Etleri için Organik Diş Macunu 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "ELİN15",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Gerçekten çok sağlıklı ve doğal tekrar alacağım",
+      "createDate": 1711988826812,
+      "createdDate": "01/04/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098914235,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** s***",
+      "oldScore": 0,
+      "productId": 556464812,
+      "productSubTitle": "Buccotherm Hassas Diş Etleri için Organik Diş Macunu 75 ML",
+      "productTitle": "Buccotherm Hassas Diş Etleri için Organik Diş Macunu 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "VİTAMERA",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

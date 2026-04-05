@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "685112089",
+  "collectedAt": "2026-04-05T15:08:19.928Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "sürekli kulandığım ve çok menun olduğum için tekrar sipariş verdim",
+      "createDate": 1765213781049,
+      "createdDate": "08/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105910160,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "mehmet sönmez",
+      "oldScore": 0,
+      "productId": 685112089,
+      "productSubTitle": "Fixodent Diş Protez Yapıştırıcı Krem Complete Ekstra Ferah 47 Gr ",
+      "productTitle": "Fixodent Diş Protez Yapıştırıcı Krem Complete Ekstra Ferah 47 Gr",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "kaytika",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

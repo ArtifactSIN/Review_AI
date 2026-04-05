@@ -1,0 +1,119 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "718035694",
+  "collectedAt": "2026-04-05T15:06:32.967Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "her zaman kullandığım macun güzel",
+      "createDate": 1714066701384,
+      "createdDate": "25/04/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099302480,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/25/55/34/34/75/33/70/67/04/87/88321965623502325199.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/04/25/55/34/34/75/33/70/67/04/87/88321965623502325199.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 458881050,
+      "productSubTitle": "Eurofresh Aloe Vera Gel Diş Macunu 112 G",
+      "productTitle": "Eurofresh Aloe Vera Gel Diş Macunu 112 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 4511417,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/25/55/34/34/75/33/70/67/04/87/88321965623502325199.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Nihalkozmetik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/25/55/34/34/75/33/70/67/04/87/88321965623502325199.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/25/55/34/34/75/33/70/67/04/87/88321965623502325199.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "İçinde kimyasal yok tamamen doğal",
+      "createDate": 1661799631467,
+      "createdDate": "29/08/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5090294562,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Neşe Barut",
+      "oldScore": 0,
+      "productId": 463731623,
+      "productSubTitle": "Eurofresh Aloe Vera Gel Diş Macunu 112 G",
+      "productTitle": "Eurofresh Aloe Vera Gel Diş Macunu 112 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "birlesmisyatirim",
+      "title": "Kimyasaldan uzak. Harika bir dişmacunu",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Hep kullandığım bir ürün tavsiyee ederim , kokusuda güzel, hemde organik",
+      "createDate": 1618654505763,
+      "createdDate": "17/04/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5085049627,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ruk Aydin",
+      "oldScore": 0,
+      "productId": 431428609,
+      "productSubTitle": "Eurofresh Aloe Vera Gel Diş Macunu 112 G",
+      "productTitle": "Eurofresh Aloe Vera Gel Diş Macunu 112 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "EdalıBijuteri",
+      "title": "Organik diş macunu",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

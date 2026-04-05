@@ -1,0 +1,119 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "529955777",
+  "collectedAt": "2026-04-05T15:07:53.817Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "teşekkürler",
+      "createDate": 1765290180321,
+      "createdDate": "09/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105918837,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** M***",
+      "oldScore": 0,
+      "productId": 569479160,
+      "productSubTitle": "Lovyco 3d White 4’lü Oral-B Uyumlu Dış Fırçası Yedek Başlığı",
+      "productTitle": "Lovyco 3d White 4’lü Oral-B Uyumlu Dış Fırçası Yedek Başlığı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "OridentTR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürün başarılı teşekkürler.",
+      "createDate": 1740738509323,
+      "createdDate": "28/02/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103795431,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/28/53/41/00/11/28/44/56/23/13/61930317652384171150.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/02/28/53/41/00/11/28/44/56/23/13/61930317652384171150.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** A***",
+      "oldScore": 0,
+      "productId": 569479160,
+      "productSubTitle": "Lovyco 3d White 4’lü Oral-B Uyumlu Dış Fırçası Yedek Başlığı",
+      "productTitle": "Lovyco 3d White 4’lü Oral-B Uyumlu Dış Fırçası Yedek Başlığı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6906609,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/28/53/41/00/11/28/44/56/23/13/61930317652384171150.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "OridentTR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/28/53/41/00/11/28/44/56/23/13/61930317652384171150.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/28/53/41/00/11/28/44/56/23/13/61930317652384171150.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel iş görür",
+      "createDate": 1740208220355,
+      "createdDate": "22/02/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103745814,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** T***",
+      "oldScore": 0,
+      "productId": 569479160,
+      "productSubTitle": "Lovyco 3d White 4’lü Oral-B Uyumlu Dış Fırçası Yedek Başlığı",
+      "productTitle": "Lovyco 3d White 4’lü Oral-B Uyumlu Dış Fırçası Yedek Başlığı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "OridentTR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "731750819",
+  "collectedAt": "2026-04-05T15:07:36.137Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "ÜRÜN ÇOK KULLANIŞLI",
+      "createDate": 1634808690408,
+      "createdDate": "21/10/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5087164763,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ahmet Darı",
+      "oldScore": 0,
+      "productId": 487720083,
+      "productSubTitle": "One Drop Only Dil Temizleyici Beyaz - Mavi",
+      "productTitle": "One Drop Only Dil Temizleyici",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Kozkiba",
+      "title": "KALİTELİ",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürün gerçekten harika. dil temizliği için mükemmel seçim bence",
+      "createDate": 1634807031015,
+      "createdDate": "21/10/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5087162509,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Y*** T***",
+      "oldScore": 0,
+      "productId": 487720083,
+      "productSubTitle": "One Drop Only Dil Temizleyici Beyaz - Mavi",
+      "productTitle": "One Drop Only Dil Temizleyici",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Kozkiba",
+      "title": "Mükemmel ürün",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Güzel ürün biraz pahalı sadece",
+      "createDate": 1620212697116,
+      "createdDate": "05/05/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5085280890,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Zafer Gezen",
+      "oldScore": 0,
+      "productId": 487720083,
+      "productSubTitle": "One Drop Only Dil Temizleyici Beyaz - Mavi",
+      "productTitle": "One Drop Only Dil Temizleyici",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Kozkiba",
+      "title": "kaliteli ürün",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

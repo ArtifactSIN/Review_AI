@@ -1,0 +1,80 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "718819731",
+  "collectedAt": "2026-04-05T15:02:33.562Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Kaliteli ucuz ve hızlı kargo için teşekkürler",
+      "createDate": 1770556467557,
+      "createdDate": "08/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106364113,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "Mithat Balıkçı",
+      "oldScore": 0,
+      "productId": 719468697,
+      "productSubTitle": "Corega Pro Guard & Ortodontik Diş Protezi Temizleyici 30 Tablet ",
+      "productTitle": "Corega Pro Guard & Ortodontik Diş Protezi Temizleyici 30 Tablet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Cosmetica",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "diş teli tedavisi sonrasi sabitleyici plaklarim icin aldim cok guzel temizledi ilk gune dondu plak",
+      "createDate": 1770065495953,
+      "createdDate": "02/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106326031,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "S*** K***",
+      "oldScore": 0,
+      "productId": 719468697,
+      "productSubTitle": "Corega Pro Guard & Ortodontik Diş Protezi Temizleyici 30 Tablet ",
+      "productTitle": "Corega Pro Guard & Ortodontik Diş Protezi Temizleyici 30 Tablet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Cosmetica",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

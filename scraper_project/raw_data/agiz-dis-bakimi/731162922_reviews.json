@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "731162922",
+  "collectedAt": "2026-04-05T15:04:36.258Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Beğendim",
+      "createDate": 1774458394639,
+      "createdDate": "25/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106650641,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774458394639,
+      "maskedBuyerName": "e*** ş***",
+      "oldScore": 0,
+      "productId": 731162922,
+      "productSubTitle": "Sensidax Platınum Serıes-diş Fırçası-orta Sert-medıum-koruma Kapağı Gri",
+      "productTitle": "Sensidax Platınum Serıes-diş Fırçası-orta Sert-medıum-koruma Kapağı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SENSİDAX",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "647820252",
+  "collectedAt": "2026-04-05T15:08:30.153Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Tam istediğimiz gibiydi. Teşekkür ederiz",
+      "createDate": 1773832891605,
+      "createdDate": "18/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106613001,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773832891605,
+      "maskedBuyerName": "D*** Y***",
+      "oldScore": 0,
+      "productId": 662203834,
+      "productSubTitle": "Oral-B Pro Cross Action X-Filament Diş Fırçası Başlığı 2'li",
+      "productTitle": "Oral-B Pro Cross Action X-Filament Diş Fırçası Başlığı 2'li",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "hemenbitsin",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürünün orjinal olduğunu düşünmüyorum.Orjinal oral b başlıklarından renkli lastik çıkar bundan çıkmadı zaten lastik için yivli bölümde yok.Çin sitelerinde görüyordum sanırım o ürünlerden.Tavsiye etmiyorum.Fotoğraftaki soldaki orjinal kendi sitesinin ürünü sağdaki burdan aldığım.",
+      "createDate": 1763561621858,
+      "createdDate": "19/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105738505,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/19/60/35/90/27/23/15/48/24/50/93937764765312303570.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/11/19/60/35/90/27/23/15/48/24/50/93937764765312303570.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "O*** A***",
+      "oldScore": 0,
+      "productId": 645444446,
+      "productSubTitle": "Oral-B Pro Cross Action X-Filament Diş Fırçası Başlığı 2'li",
+      "productTitle": "Oral-B Pro Cross Action X-Filament Diş Fırçası Başlığı 2'li",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7987798,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/19/60/35/90/27/23/15/48/24/50/93937764765312303570.jpg"
+        }
+      ],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "AYKILIÇDİJİTAL",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/19/60/35/90/27/23/15/48/24/50/93937764765312303570.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/19/60/35/90/27/23/15/48/24/50/93937764765312303570.jpg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Satıcı eksik ürün gönderdi",
+      "createDate": 1740483892984,
+      "createdDate": "25/02/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103765316,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "mesut tekindemir",
+      "oldScore": 0,
+      "productId": 645444446,
+      "productSubTitle": "Oral-B Pro Cross Action X-Filament Diş Fırçası Başlığı 2'li",
+      "productTitle": "Oral-B Pro Cross Action X-Filament Diş Fırçası Başlığı 2'li",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AYKILIÇDİJİTAL",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

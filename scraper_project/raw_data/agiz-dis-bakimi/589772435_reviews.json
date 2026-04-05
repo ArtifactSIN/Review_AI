@@ -1,0 +1,80 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "589772435",
+  "collectedAt": "2026-04-05T15:07:05.213Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "farklı ölçüler gönderilmiş",
+      "createDate": 1759389532804,
+      "createdDate": "02/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105335318,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "T*** U***",
+      "oldScore": 0,
+      "productId": 589772435,
+      "productSubTitle": "Aktident Arayüz Fırça Seti Karışık 4'lü Çok Renkli",
+      "productTitle": "Aktident Arayüz Fırça Seti Karışık 4'lü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "guzel. lakin çabuk kırılıyor lakin harika calisiyor",
+      "createDate": 1746302755669,
+      "createdDate": "03/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104326123,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ferdi Akdemir",
+      "oldScore": 0,
+      "productId": 589772435,
+      "productSubTitle": "Aktident Arayüz Fırça Seti Karışık 4'lü Çok Renkli",
+      "productTitle": "Aktident Arayüz Fırça Seti Karışık 4'lü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}
