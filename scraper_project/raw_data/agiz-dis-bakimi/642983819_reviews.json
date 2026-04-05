@@ -1,0 +1,119 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "642983819",
+  "collectedAt": "2026-04-05T10:59:02.597Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Yıllardır beğenerek kullandığım ürün. Hızlı ve son kullanma tarihi iyi geldi. 👍",
+      "createDate": 1745783807230,
+      "createdDate": "27/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104268474,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 642983819,
+      "productSubTitle": "LR Microsilver Plus Diş Macunu 75 ML x 4",
+      "productTitle": "LR Microsilver Plus Diş Macunu 75 ML x 4",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AÇI_pazar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "hızlı teslimat",
+      "createDate": 1743880859829,
+      "createdDate": "05/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104093459,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ö*** Z*** Ü***",
+      "oldScore": 0,
+      "productId": 642983819,
+      "productSubTitle": "LR Microsilver Plus Diş Macunu 75 ML x 4",
+      "productTitle": "LR Microsilver Plus Diş Macunu 75 ML x 4",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AÇI_pazar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Her zaman satın aldığım ürün memnunum",
+      "createDate": 1738840171184,
+      "createdDate": "06/02/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103589199,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/06/63/47/95/55/07/51/87/93/38/52903968512325301855.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/02/06/63/47/95/55/07/51/87/93/38/52903968512325301855.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n*** k***",
+      "oldScore": 0,
+      "productId": 642983819,
+      "productSubTitle": "LR Microsilver Plus Diş Macunu 75 ML x 4",
+      "productTitle": "LR Microsilver Plus Diş Macunu 75 ML x 4",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6796547,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/06/63/47/95/55/07/51/87/93/38/52903968512325301855.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AÇI_pazar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/06/63/47/95/55/07/51/87/93/38/52903968512325301855.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/06/63/47/95/55/07/51/87/93/38/52903968512325301855.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

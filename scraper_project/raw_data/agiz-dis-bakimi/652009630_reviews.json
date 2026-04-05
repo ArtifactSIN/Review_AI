@@ -1,0 +1,89 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "652009630",
+  "collectedAt": "2026-04-05T10:54:16.668Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "İlk defa aldım orjinalliğini doğrulayabiliyormuyuz bilmiyorum, netten baktım ama doğrulama konusunda bilgi bulamadım.Bir defa kullandım hafif yumuşak bir tadı var.",
+      "createDate": 1748602030053,
+      "createdDate": "30/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104537909,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** E***",
+      "oldScore": 0,
+      "productId": 652009630,
+      "productSubTitle": "Parodontax Diş Eti Güçlendirme ve Koruma Beyazlatıcı Diş Macunu 75 ML",
+      "productTitle": "Parodontax Diş Eti Güçlendirme ve Koruma Beyazlatıcı Diş Macunu 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Sürekli kullandığım bir ürün, memnun kaldım.",
+      "createDate": 1747825789630,
+      "createdDate": "21/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104460188,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/21/87/39/87/99/34/05/90/78/91/47050805446089854256.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/05/21/87/39/87/99/34/05/90/78/91/47050805446089854256.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "N*** Ç***",
+      "oldScore": 0,
+      "productId": 652009630,
+      "productSubTitle": "Parodontax Diş Eti Güçlendirme ve Koruma Beyazlatıcı Diş Macunu 75 ML",
+      "productTitle": "Parodontax Diş Eti Güçlendirme ve Koruma Beyazlatıcı Diş Macunu 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7239627,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/21/87/39/87/99/34/05/90/78/91/47050805446089854256.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/21/87/39/87/99/34/05/90/78/91/47050805446089854256.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/21/87/39/87/99/34/05/90/78/91/47050805446089854256.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

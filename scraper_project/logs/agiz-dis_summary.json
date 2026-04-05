@@ -1,0 +1,28 @@
+{
+  "runId": "agiz-dis",
+  "startedAt": "2026-04-05T12:41:32.098Z",
+  "finishedAt": null,
+  "totalJobsQueued": 602,
+  "completed": 14,
+  "skippedExisting": 0,
+  "failed": 0,
+  "partialSaved": 8,
+  "resumedFromPartial": 3,
+  "zeroReviewProducts": 2,
+  "totalReviewsCollected": 449,
+  "activeWorkers": 3,
+  "filters": {
+    "categories": [
+      "agiz-dis-bakimi"
+    ],
+    "products": null,
+    "concurrency": 3,
+    "failedOnly": false,
+    "failedFile": null,
+    "resumeRun": "agiz-dis",
+    "name": "agiz-dis",
+    "mode": "normal"
+  },
+  "failedJobsFile": "/Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/agiz-dis_failed_jobs.json",
+  "logFile": "/Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/agiz-dis.log"
+}

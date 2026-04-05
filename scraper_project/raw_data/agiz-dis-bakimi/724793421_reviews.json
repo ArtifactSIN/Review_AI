@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "724793421",
+  "collectedAt": "2026-04-05T10:55:46.131Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Dr tavsiyesiyle aldım en uygun buradaydı. Hızlı ve sorunsuz geldi. Teşekkür ederim",
+      "createDate": 1722023562939,
+      "createdDate": "26/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100706068,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** t***",
+      "oldScore": 0,
+      "productId": 605508279,
+      "productSubTitle": "Oral-B Essential Mint Floss Diş İpi 50 M",
+      "productTitle": "Oral-B Essential Mint Floss Diş İpi 50 M",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Recete",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "729269036",
+  "collectedAt": "2026-04-05T10:45:55.390Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "iyi",
+      "createDate": 1773934657138,
+      "createdDate": "19/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106615727,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773934657138,
+      "maskedBuyerName": "T*** a***",
+      "oldScore": 0,
+      "productId": 690619799,
+      "productSubTitle": "Direct Nexus Şarj Edilebilir Elektrikli Diş Fırçası",
+      "productTitle": "Direct Nexus Şarj Edilebilir Elektrikli Diş Fırçası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Farmahanem",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün mor renk istememe rağmen mavi geldi hediye aldığım için iadede edemiyorum karşı tarafa mahcup olduk ürün anlatıldığı gibi güzel tek sıkıntı renk seçimi yapmamıza rağmen yanlış gelmesi",
+      "createDate": 1767434740692,
+      "createdDate": "03/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106127891,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "m*** d***",
+      "oldScore": 0,
+      "productId": 690619799,
+      "productSubTitle": "Direct Nexus Şarj Edilebilir Elektrikli Diş Fırçası",
+      "productTitle": "Direct Nexus Şarj Edilebilir Elektrikli Diş Fırçası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "Farmahanem",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "kaliteli duruyor eczanecimizin tavsiyesiyle aldık",
+      "createDate": 1766782152142,
+      "createdDate": "26/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106072508,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/26/57/00/23/93/81/70/82/90/29/12219648754773345069.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/12/26/57/00/23/93/81/70/82/90/29/12219648754773345069.png",
+        "https://n11scdn.akamaized.net/a1/{0}/25/12/26/47/70/89/47/57/08/23/72/74/4130103688990735834.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "y*** y***",
+      "oldScore": 0,
+      "productId": 690619799,
+      "productSubTitle": "Direct Nexus Şarj Edilebilir Elektrikli Diş Fırçası",
+      "productTitle": "Direct Nexus Şarj Edilebilir Elektrikli Diş Fırçası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8171339,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/26/57/00/23/93/81/70/82/90/29/12219648754773345069.png"
+        },
+        {
+          "id": 8171340,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/26/47/70/89/47/57/08/23/72/74/4130103688990735834.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Farmahanem",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/26/57/00/23/93/81/70/82/90/29/12219648754773345069.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/26/57/00/23/93/81/70/82/90/29/12219648754773345069.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

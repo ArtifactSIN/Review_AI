@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "646974558",
+  "collectedAt": "2026-04-05T10:57:25.337Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "güzel",
+      "createDate": 1751037204803,
+      "createdDate": "27/06/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104718300,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 636546467,
+      "productSubTitle": "Oral-B Pro-3D White Çay ve Kahve İçenler İçin Diş Macunu 75 ML",
+      "productTitle": "Oral-B Pro-3D White Çay ve Kahve İçenler İçin Diş Macunu 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "OralBTürkiye",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

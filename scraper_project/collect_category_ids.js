@@ -12,6 +12,9 @@ const MAX_REPEAT_PAGES = 3;
 const MAX_PAGES_PER_CATEGORY = 200;
 const CONCURRENCY = 3;
 
+const MAX_TASKS_PER_PAGE = 10;
+const MAX_CONSECUTIVE_WORKER_ERRORS = 3;
+
 let isShuttingDown = false;
 const activeCategoryRuns = new Map();
 
@@ -20,7 +23,7 @@ if (!fs.existsSync(OUTPUT_DIR)) {
 }
 
 function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 function readCategoryUrls() {
@@ -31,7 +34,7 @@ function readCategoryUrls() {
   return fs
     .readFileSync(INPUT_FILE, "utf8")
     .split(/\r?\n/)
-    .map(x => x.trim())
+    .map((x) => x.trim())
     .filter(Boolean);
 }
 
@@ -56,9 +59,9 @@ async function fetchListingPage(page, url) {
     const res = await fetch(targetUrl, {
       credentials: "include",
       headers: {
-        "Accept": "application/json, text/plain, */*",
-        "X-Requested-With": "XMLHttpRequest"
-      }
+        Accept: "application/json, text/plain, */*",
+        "X-Requested-With": "XMLHttpRequest",
+      },
     });
 
     const text = await res.text();
@@ -72,7 +75,7 @@ async function fetchListingPage(page, url) {
       ok: res.ok,
       status: res.status,
       text,
-      json
+      json,
     };
   }, url);
 }
@@ -80,14 +83,14 @@ async function fetchListingPage(page, url) {
 function extractListingIds(payload) {
   const ids = payload?.json?.data?.listingProductIds;
   if (Array.isArray(ids)) {
-    return ids.map(x => String(x)).filter(Boolean);
+    return ids.map((x) => String(x)).filter(Boolean);
   }
 
   // fallback
   const items = payload?.json?.data?.adbiddingProductListingItems;
   if (Array.isArray(items)) {
     return items
-      .map(item => item?.id ?? item?.productId ?? null)
+      .map((item) => item?.id ?? item?.productId ?? null)
       .filter(Boolean)
       .map(String);
   }
@@ -146,7 +149,9 @@ async function collectIdsForCategory(page, categoryUrl) {
 
     if (signature === previousSignature) {
       repeatCount += 1;
-      console.log(`[${slug}] repeated content at pg=${pg} (${repeatCount}/${MAX_REPEAT_PAGES})`);
+      console.log(
+        `[${slug}] repeated content at pg=${pg} (${repeatCount}/${MAX_REPEAT_PAGES})`,
+      );
 
       if (repeatCount >= MAX_REPEAT_PAGES) {
         console.log(`[${slug}] repeat threshold reached, stopping.`);
@@ -166,7 +171,9 @@ async function collectIdsForCategory(page, categoryUrl) {
       }
     }
 
-    console.log(`[${slug}] pg=${pg} +${addedThisPage} new, unique total=${uniqueIds.size}`);
+    console.log(
+      `[${slug}] pg=${pg} +${addedThisPage} new, unique total=${uniqueIds.size}`,
+    );
 
     if (uniqueIds.size >= TARGET_UNIQUE_IDS) {
       console.log(`[${slug}] reached target ${TARGET_UNIQUE_IDS}, stopping.`);
@@ -184,7 +191,7 @@ async function collectIdsForCategory(page, categoryUrl) {
     collectedAt: new Date().toISOString(),
     targetUniqueIds: TARGET_UNIQUE_IDS,
     uniqueCount: uniqueIds.size,
-    ids: Array.from(uniqueIds)
+    ids: Array.from(uniqueIds),
   };
 }
 
@@ -216,40 +223,91 @@ function saveAllActivePartials() {
   }
 }
 
-async function processCategory(browser, categoryUrl) {
-  const context = await browser.newContext();
+async function createWorkerPage(context) {
   const page = await context.newPage();
-
-  try {
-    await page.goto("https://www.n11.com", { waitUntil: "domcontentloaded", timeout: 60000 });
-    await sleep(1500);
-
-    const result = await collectIdsForCategory(page, categoryUrl);
-    saveCategoryResult(result);
-  } finally {
-    await context.close();
-  }
+  page.setDefaultNavigationTimeout(60000);
+  return page;
 }
 
-async function runWithConcurrency(browser, categoryUrls, concurrency = CONCURRENCY) {
+async function processCategory(page, categoryUrl) {
+  await page.goto("https://www.n11.com", {
+    waitUntil: "domcontentloaded",
+    timeout: 60000,
+  });
+  await sleep(1500);
+
+  const result = await collectIdsForCategory(page, categoryUrl);
+  saveCategoryResult(result);
+}
+
+async function runWithConcurrency(
+  context,
+  categoryUrls,
+  concurrency = CONCURRENCY,
+) {
   const queue = [...categoryUrls];
 
-  async function worker(workerId) {
-    while (queue.length > 0) {
-      if (isShuttingDown) {
-        console.log(`[WORKER ${workerId}] shutdown detected, exiting.`);
-        return;
+  async function recycleWorkerPage(workerId, page, reason) {
+    try {
+      if (page && !page.isClosed()) {
+        await page.close().catch(() => {});
       }
+    } finally {
+      const nextPage = await createWorkerPage(context);
+      console.log(`[WORKER ${workerId}] page recycled (${reason}).`);
+      return nextPage;
+    }
+  }
 
-      const categoryUrl = queue.shift();
-      if (!categoryUrl) return;
+  async function worker(workerId) {
+    let page = await createWorkerPage(context);
+    let tasksOnCurrentPage = 0;
+    let consecutiveErrors = 0;
 
-      console.log(`\n[WORKER ${workerId}] starting ${categoryUrl}`);
-      try {
-        await processCategory(browser, categoryUrl);
-      } catch (err) {
-        console.error(`[ERROR] ${categoryUrl}`);
-        console.error(err);
+    try {
+      while (queue.length > 0) {
+        if (isShuttingDown) {
+          console.log(`[WORKER ${workerId}] shutdown detected, exiting.`);
+          return;
+        }
+
+        const categoryUrl = queue.shift();
+        if (!categoryUrl) return;
+
+        console.log(`\n[WORKER ${workerId}] starting ${categoryUrl}`);
+
+        try {
+          await processCategory(page, categoryUrl);
+          tasksOnCurrentPage += 1;
+          consecutiveErrors = 0;
+        } catch (err) {
+          consecutiveErrors += 1;
+          console.error(`[ERROR] ${categoryUrl}`);
+          console.error(err);
+
+          if (consecutiveErrors >= MAX_CONSECUTIVE_WORKER_ERRORS) {
+            page = await recycleWorkerPage(
+              workerId,
+              page,
+              `consecutive errors=${consecutiveErrors}`,
+            );
+            consecutiveErrors = 0;
+            tasksOnCurrentPage = 0;
+          }
+        }
+
+        if (tasksOnCurrentPage >= MAX_TASKS_PER_PAGE) {
+          page = await recycleWorkerPage(
+            workerId,
+            page,
+            `task limit reached (${tasksOnCurrentPage})`,
+          );
+          tasksOnCurrentPage = 0;
+        }
+      }
+    } finally {
+      if (page && !page.isClosed()) {
+        await page.close().catch(() => {});
       }
     }
   }
@@ -272,17 +330,30 @@ process.on("SIGINT", () => {
 (async () => {
   const categoryUrls = readCategoryUrls();
 
-  const browser = await chromium.launch({
-    headless: false
-  });
+  const context = await chromium.launchPersistentContext(
+    path.join(__dirname, ".pw-user"),
+    {
+      headless: false,
+      args: [
+        "--disable-backgrounding-occluded-windows",
+        "--disable-renderer-backgrounding",
+        "--disable-features=CalculateNativeWinOcclusion",
+        "--disable-dev-shm-usage",
+        "--no-first-run",
+        "--no-default-browser-check",
+        "--disable-popup-blocking",
+      ],
+      viewport: { width: 1200, height: 800 },
+    },
+  );
 
   try {
-    await runWithConcurrency(browser, categoryUrls, CONCURRENCY);
+    await runWithConcurrency(context, categoryUrls, CONCURRENCY);
   } catch (err) {
     console.error("[FATAL] category scraping failed");
     console.error(err);
   } finally {
-    await browser.close();
+    await context.close();
   }
 
   console.log("\nAll categories finished.");

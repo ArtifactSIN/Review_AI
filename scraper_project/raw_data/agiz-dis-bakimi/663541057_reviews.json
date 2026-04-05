@@ -1,0 +1,149 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "663541057",
+  "collectedAt": "2026-04-05T10:50:29.865Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 4,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çok iyi, yerli ürün boykotçular için ideal",
+      "createDate": 1774553109119,
+      "createdDate": "26/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106675967,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774553109119,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 663541057,
+      "productSubTitle": "Dentasave Klorhex Günlük Bakım Diş Macunu 4 x 75 ML",
+      "productTitle": "Dentasave Klorhex Günlük Bakım Diş Macunu 4 x 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "HappyCenter",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Çok iyi",
+      "createDate": 1771881021228,
+      "createdDate": "24/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106469383,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "C*** O***",
+      "oldScore": 0,
+      "productId": 663541057,
+      "productSubTitle": "Dentasave Klorhex Günlük Bakım Diş Macunu 4 x 75 ML",
+      "productTitle": "Dentasave Klorhex Günlük Bakım Diş Macunu 4 x 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HappyCenter",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "güzel",
+      "createDate": 1765910297634,
+      "createdDate": "16/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105954191,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/16/89/43/55/41/13/91/36/05/70/36970493205848604744.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/12/16/89/43/55/41/13/91/36/05/70/36970493205848604744.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** h***",
+      "oldScore": 0,
+      "productId": 663541057,
+      "productSubTitle": "Dentasave Klorhex Günlük Bakım Diş Macunu 4 x 75 ML",
+      "productTitle": "Dentasave Klorhex Günlük Bakım Diş Macunu 4 x 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8111310,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/16/89/43/55/41/13/91/36/05/70/36970493205848604744.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HappyCenter",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/16/89/43/55/41/13/91/36/05/70/36970493205848604744.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/16/89/43/55/41/13/91/36/05/70/36970493205848604744.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "orjinal ürün paketleme kötü",
+      "createDate": 1763384677983,
+      "createdDate": "17/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105719403,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 694912634,
+      "productSubTitle": "Dentasave Klorhex Günlük Bakım Diş Macunu 4 x 75 ML",
+      "productTitle": "Dentasave Klorhex Günlük Bakım Diş Macunu 4 x 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "vitamanya",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 4
+  }
+}

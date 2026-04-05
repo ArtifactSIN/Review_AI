@@ -1,0 +1,119 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "576205990",
+  "collectedAt": "2026-04-05T10:51:23.454Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Kaliteli ürün",
+      "createDate": 1765450859464,
+      "createdDate": "11/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105936629,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** A*** T***",
+      "oldScore": 0,
+      "productId": 576205990,
+      "productSubTitle": "Sensodyne Promine Aktif Diş Minesi Kalkanı Naneli Diş Macunu 2 x 75 ML",
+      "productTitle": "Sensodyne Promine Aktif Diş Minesi Kalkanı Naneli Diş Macunu 2 x 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Haleon",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "orjinal",
+      "createDate": 1763551144067,
+      "createdDate": "19/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105733681,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/19/51/84/03/43/87/15/97/58/97/82344055720209892671.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/11/19/51/84/03/43/87/15/97/58/97/82344055720209892671.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "tugay avcar",
+      "oldScore": 0,
+      "productId": 576205990,
+      "productSubTitle": "Sensodyne Promine Aktif Diş Minesi Kalkanı Naneli Diş Macunu 2 x 75 ML",
+      "productTitle": "Sensodyne Promine Aktif Diş Minesi Kalkanı Naneli Diş Macunu 2 x 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7992958,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/19/51/84/03/43/87/15/97/58/97/82344055720209892671.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Haleon",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/19/51/84/03/43/87/15/97/58/97/82344055720209892671.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/19/51/84/03/43/87/15/97/58/97/82344055720209892671.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "başarılı bir ürün severek kullanıyorum",
+      "createDate": 1724136714890,
+      "createdDate": "20/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101042075,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** Y***",
+      "oldScore": 0,
+      "productId": 576205990,
+      "productSubTitle": "Sensodyne Promine Aktif Diş Minesi Kalkanı Naneli Diş Macunu 2 x 75 ML",
+      "productTitle": "Sensodyne Promine Aktif Diş Minesi Kalkanı Naneli Diş Macunu 2 x 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Haleon",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

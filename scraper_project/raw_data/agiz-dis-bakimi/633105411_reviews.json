@@ -1,0 +1,128 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "633105411",
+  "collectedAt": "2026-04-05T10:48:56.874Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "hızlı gönderim sağlam kargolama",
+      "createDate": 1774968261377,
+      "createdDate": "31/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106705747,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/61/17/26/31/25/01/82/24/68/59210299264858763629.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/31/61/17/26/31/25/01/82/24/68/59210299264858763629.png"
+      ],
+      "lastModifiedDate": 1774968261377,
+      "maskedBuyerName": "R*** T***",
+      "oldScore": 0,
+      "productId": 633105411,
+      "productSubTitle": "Oral White Aktif Karbonlu Diş Beyazlatma Tozu 50 G",
+      "productTitle": "Oral White Aktif Karbonlu Diş Beyazlatma Tozu 50 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8538633,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/61/17/26/31/25/01/82/24/68/59210299264858763629.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Oral-White-TR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/61/17/26/31/25/01/82/24/68/59210299264858763629.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/61/17/26/31/25/01/82/24/68/59210299264858763629.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün güzel tavsiye ederim.",
+      "createDate": 1773846889276,
+      "createdDate": "18/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106606529,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/18/55/41/14/67/26/64/60/47/11/52256760424048541258.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/18/55/41/14/67/26/64/60/47/11/52256760424048541258.jpg"
+      ],
+      "lastModifiedDate": 1773846889276,
+      "maskedBuyerName": "M*** K***",
+      "oldScore": 0,
+      "productId": 633105411,
+      "productSubTitle": "Oral White Aktif Karbonlu Diş Beyazlatma Tozu 50 G",
+      "productTitle": "Oral White Aktif Karbonlu Diş Beyazlatma Tozu 50 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8483209,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/18/55/41/14/67/26/64/60/47/11/52256760424048541258.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Oral-White-TR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/18/55/41/14/67/26/64/60/47/11/52256760424048541258.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/18/55/41/14/67/26/64/60/47/11/52256760424048541258.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Çok beğenddim",
+      "createDate": 1756891765911,
+      "createdDate": "03/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105113184,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "İ*** Y*** Ş***",
+      "oldScore": 0,
+      "productId": 633105411,
+      "productSubTitle": "Oral White Aktif Karbonlu Diş Beyazlatma Tozu 50 G",
+      "productTitle": "Oral White Aktif Karbonlu Diş Beyazlatma Tozu 50 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Oral-White-TR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

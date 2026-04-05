@@ -1,0 +1,80 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "583645346",
+  "collectedAt": "2026-04-05T10:52:32.818Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "kargo kayboldu 3 gundur kimse ile muhattap olamiyorum,herkes bekleyin diyor. 2 tane aldim ikisi de kayboldu. urunler elime ulasmadigi halde ulasildi gözüküyor, ptt kargo ile teslimat noktasina siparis vermistim . kamerraya bakmak ve ptt ile konusmak 2 saatlik iş degil ama 3 gundur bekliyorum bir cevap icin..",
+      "createDate": 1757670157330,
+      "createdDate": "12/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105204322,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 659914610,
+      "productSubTitle": "Oral-B İO Series 3 Şarjlı Diş Fırçası Siyah",
+      "productTitle": "Oral-B İO Series 3 Şarjlı Diş Fırçası Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "AYKILIÇDİJİTAL",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Mükemmel bir ürün. Oral b vitality kullanıyordum yıllardır. Bu diş fırçası çağ atlamış. Önde bir leke vardı. Orayı biraz fazladan fırçaladım. Gitti çoğu. Birkaç gün diş etim dinlensin tekrar yapacağım tamamen gidecek.",
+      "createDate": 1745340900881,
+      "createdDate": "22/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5104233135,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1745384918837,
+      "maskedBuyerName": "ali ugur",
+      "oldScore": 0,
+      "productId": 659914610,
+      "productSubTitle": "Oral-B İO Series 3 Şarjlı Diş Fırçası Siyah",
+      "productTitle": "Oral-B İO Series 3 Şarjlı Diş Fırçası Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AYKILIÇDİJİTAL",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

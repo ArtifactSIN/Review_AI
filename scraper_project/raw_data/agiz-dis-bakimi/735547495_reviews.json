@@ -1,0 +1,89 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "735547495",
+  "collectedAt": "2026-04-05T11:51:10.863Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel ürün kaliteli",
+      "createDate": 1769203628144,
+      "createdDate": "24/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106260794,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/24/69/51/56/17/18/03/29/01/65/96798542187954914401.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/01/24/69/51/56/17/18/03/29/01/65/96798542187954914401.png"
+      ],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "H*** G***",
+      "oldScore": 0,
+      "productId": 562067666,
+      "productSubTitle": "Listerine Cool Mint Ağız Bakım Suyu 2x500 ML + 2x250 ML",
+      "productTitle": "Listerine Cool Mint Ağız Bakım Suyu 2x500 ML + 2x250 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8287750,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/24/69/51/56/17/18/03/29/01/65/96798542187954914401.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KenvueTürkiye",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/24/69/51/56/17/18/03/29/01/65/96798542187954914401.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/24/69/51/56/17/18/03/29/01/65/96798542187954914401.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Orijinal ürün, sıkıntı yok",
+      "createDate": 1674734707881,
+      "createdDate": "26/01/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5092010739,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Tayfun Akay",
+      "oldScore": 0,
+      "productId": 562067666,
+      "productSubTitle": "Listerine Cool Mint Ağız Bakım Suyu 2x500 ML + 2x250 ML",
+      "productTitle": "Listerine Cool Mint Ağız Bakım Suyu 2x500 ML + 2x250 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KenvueTürkiye",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

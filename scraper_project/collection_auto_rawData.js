@@ -17,16 +17,16 @@ const REVIEW_RETRY_DELAY_MS = 1200;
 
 let isShuttingDown = false;
 const activeReviewRuns = new Map();
-const runStamp = new Date().toISOString().replace(/[:.]/g, "-");
-const runId = `review_run_${runStamp}`;
-const logFilePath = path.join(LOGS_DIR, `${runId}.log`);
-const summaryFilePath = path.join(LOGS_DIR, `${runId}_summary.json`);
-const failedJobsRunFilePath = path.join(LOGS_DIR, `${runId}_failed_jobs.json`);
 const failedJobsLatestPath = path.join(LOGS_DIR, `failed_jobs_latest.json`);
 const statusFilePath = path.join(LOGS_DIR, `current_status.json`);
 
+let activeRunId = null;
+let logFilePath = null;
+let summaryFilePath = null;
+let failedJobsRunFilePath = null;
+
 const runStats = {
-  runId,
+  runId: null,
   startedAt: new Date().toISOString(),
   finishedAt: null,
   totalJobsQueued: 0,
@@ -56,6 +56,7 @@ for (const dir of [RAW_DATA_DIR, LOGS_DIR]) {
 }
 
 function appendLogLine(level, args) {
+  if (!logFilePath) return;
   const line = `[${new Date().toISOString()}] [${level}] ${args.map(formatLogArg).join(" ")}\n`;
   fs.appendFileSync(logFilePath, line, "utf8");
 }
@@ -114,6 +115,8 @@ function parseCliArgs(argv) {
     failedFile: null,
     listRuns: false,
     resumeRun: null,
+    name: null,
+    listAllRuns: false,
     };
 
   for (const arg of argv) {
@@ -148,9 +151,30 @@ function parseCliArgs(argv) {
     } else if (arg.startsWith("--resume-run=")) {
     options.resumeRun = arg.slice("--resume-run=".length).trim() || null;
     }
+    else if (arg.startsWith("--name=")) {
+      options.name = sanitizeFileName(arg.slice("--name=".length).trim()) || null;
+    } else if (arg === "--list-all-runs") {
+      options.listAllRuns = true;
+  }
   }
 
   return options;
+}
+
+function makeRunId(name, kind = "normal") {
+  const baseName = sanitizeFileName(name || "review-run");
+  if (kind === "failed-only") {
+    return `${baseName}_failed_only`;
+  }
+  return baseName;
+}
+
+function configureRunFiles(runId) {
+  activeRunId = runId;
+  runStats.runId = runId;
+  logFilePath = path.join(LOGS_DIR, `${runId}.log`);
+  summaryFilePath = path.join(LOGS_DIR, `${runId}_summary.json`);
+  failedJobsRunFilePath = path.join(LOGS_DIR, `${runId}_failed_jobs.json`);
 }
 
 function buildReviewPageUrl(productId) {
@@ -181,7 +205,7 @@ function getPartialReviewOutputPath(categorySlug, productId) {
 
 function writeFailedJobsFiles() {
   const payload = {
-    runId,
+    runId: activeRunId,
     updatedAt: new Date().toISOString(),
     failedCount: failedJobs.length,
     jobs: failedJobs,
@@ -222,7 +246,7 @@ function writeCurrentStatus(extra = {}) {
   }));
 
   const payload = {
-    runId,
+    runId: activeRunId,
     updatedAt: new Date().toISOString(),
     isShuttingDown,
     totals: {
@@ -300,7 +324,7 @@ function safeReadJson(filePath) {
   }
 }
 
-function listPreviousRuns() {
+function listPreviousRuns(includeCompleted = false) {
   const files = getReviewSummaryFiles();
 
   if (files.length === 0) {
@@ -308,7 +332,7 @@ function listPreviousRuns() {
     return;
   }
 
-  console.log("[RUNS] previous review runs:");
+  console.log(includeCompleted ? "[RUNS] all review runs:" : "[RUNS] previous incomplete review runs:");
   for (const filePath of files) {
     const summary = safeReadJson(filePath);
     if (!summary) continue;
@@ -319,9 +343,12 @@ function listPreviousRuns() {
     const failed = Number(summary.failed || 0);
     const accounted = completed + skippedExisting + failed;
     const incomplete = Math.max(0, total - accounted);
+    const show = includeCompleted || incomplete > 0 || summary.filters?.failedOnly;
+
+    if (!show) continue;
 
     console.log(
-      `- runId=${summary.runId} | startedAt=${summary.startedAt} | queued=${total} completed=${completed} skipped=${skippedExisting} failed=${failed} incomplete=${incomplete}`
+      `- runId=${summary.runId} | startedAt=${summary.startedAt} | queued=${total} completed=${completed} skipped=${skippedExisting} failed=${failed} incomplete=${incomplete}${summary.filters?.failedOnly ? " | mode=failed-only" : ""}`
     );
   }
 }
@@ -375,7 +402,7 @@ function loadJobsForResumeRun(options) {
     throw new Error(`Could not read run summary: ${summaryPath}`);
   }
 
-  const mergedOptions = mergeResumeOptions(options, summary);
+  const mergedOptions = mergeResumeOptions({ ...options, name: summary?.runId || options.name }, summary);
 
   const allJobs = loadProductIdJobs({
     ...mergedOptions,
@@ -771,21 +798,34 @@ process.on("SIGINT", () => {
 (async () => {
   const options = parseCliArgs(process.argv.slice(2));
   if (options.listRuns) {
-  listPreviousRuns();
-  return;
-    }
+    listPreviousRuns(false);
+    return;
+  }
+
+  if (options.listAllRuns) {
+    listPreviousRuns(true);
+    return;
+  }
   let effectiveOptions = options;
   let jobs = [];
   let resumedFromRunId = null;
+  let runKind = options.failedOnly ? "failed-only" : "normal";
 
   if (options.resumeRun) {
     const resumePayload = loadJobsForResumeRun(options);
     effectiveOptions = resumePayload.mergedOptions;
     jobs = resumePayload.jobs;
     resumedFromRunId = resumePayload.summary?.runId || options.resumeRun;
+    runKind = resumePayload.summary?.filters?.failedOnly ? "failed-only" : "normal";
     console.log(`[RESUME] summary file: ${resumePayload.summaryPath}`);
     console.log(`[RESUME] continuing from runId=${resumedFromRunId}`);
   }
+
+  const targetRunId = options.resumeRun
+  ? resumedFromRunId
+  : makeRunId(effectiveOptions.name, runKind);
+
+  configureRunFiles(targetRunId);
 
   runStats.filters = {
     categories: effectiveOptions.categories ? Array.from(effectiveOptions.categories) : null,
@@ -794,9 +834,11 @@ process.on("SIGINT", () => {
     failedOnly: effectiveOptions.failedOnly,
     failedFile: effectiveOptions.failedFile,
     resumeRun: resumedFromRunId,
+    name: effectiveOptions.name,
+    mode: runKind,
   };
 
-  console.log(`[RUN] id=${runId}`);
+  console.log(`[RUN] id=${activeRunId}`);
   console.log(`[RUN] log file: ${logFilePath}`);
   console.log(`[RUN] summary file: ${summaryFilePath}`);
 
@@ -822,6 +864,9 @@ process.on("SIGINT", () => {
     }
     if (resumedFromRunId) {
       console.log(`[REVIEWS] resume mode enabled from ${resumedFromRunId}`);
+    }
+    if (effectiveOptions.failedOnly) {
+      console.log(`[REVIEWS] run is tracked as failed-only mode under runId=${activeRunId}`);
     }
     console.log(`[REVIEWS] concurrency: ${effectiveOptions.concurrency}`);
 

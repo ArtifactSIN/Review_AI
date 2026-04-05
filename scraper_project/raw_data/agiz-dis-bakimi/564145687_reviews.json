@@ -1,0 +1,80 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "564145687",
+  "collectedAt": "2026-04-05T10:49:52.651Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Beğendik...",
+      "createDate": 1775108743635,
+      "createdDate": "02/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106735506,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775108743635,
+      "maskedBuyerName": "İsmail Serdal Arın",
+      "oldScore": 0,
+      "productId": 564145687,
+      "productSubTitle": "Listerine Cool Mint Ağız Bakım Suyu 6 x 1 L",
+      "productTitle": "Listerine Cool Mint Ağız Bakım Suyu 6 x 1 L",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KenvueTürkiye",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Harika ürün. Çok kullanışlı",
+      "createDate": 1767729486275,
+      "createdDate": "06/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106156214,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "H*** O***",
+      "oldScore": 0,
+      "productId": 564145687,
+      "productSubTitle": "Listerine Cool Mint Ağız Bakım Suyu 6 x 1 L",
+      "productTitle": "Listerine Cool Mint Ağız Bakım Suyu 6 x 1 L",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KenvueTürkiye",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

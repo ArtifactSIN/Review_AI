@@ -1,0 +1,27 @@
+{
+  "runId": "review_run_2026-04-04T19-24-10-361Z",
+  "startedAt": "2026-04-04T19:24:10.362Z",
+  "finishedAt": null,
+  "totalJobsQueued": 2009,
+  "completed": 5,
+  "skippedExisting": 0,
+  "failed": 0,
+  "partialSaved": 17,
+  "resumedFromPartial": 0,
+  "zeroReviewProducts": 0,
+  "totalReviewsCollected": 275,
+  "activeWorkers": 3,
+  "filters": {
+    "categories": [
+      "agiz-dis-bakimi",
+      "aksesuar-ve-tuning"
+    ],
+    "products": null,
+    "concurrency": 3,
+    "failedOnly": false,
+    "failedFile": null,
+    "resumeRun": null
+  },
+  "failedJobsFile": "/Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review_run_2026-04-04T19-24-10-361Z_failed_jobs.json",
+  "logFile": "/Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review_run_2026-04-04T19-24-10-361Z.log"
+}

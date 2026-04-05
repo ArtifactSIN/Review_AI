@@ -1,0 +1,89 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "553590370",
+  "collectedAt": "2026-04-05T10:54:59.324Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "üründe magazada kalitesiz",
+      "createDate": 1734095084134,
+      "createdDate": "13/12/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102950147,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "İ*** B***",
+      "oldScore": 0,
+      "productId": 553590370,
+      "productSubTitle": "Opalescence Ultradent Go Hazır Kalıp Nane Diş Beyazlatma 8'li",
+      "productTitle": "Opalescence Ultradent Go Hazır Kalıp Nane Diş Beyazlatma 8'li",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "coşkun_AVM",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Hızlı kargo",
+      "createDate": 1730991146269,
+      "createdDate": "07/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102305081,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/07/50/67/33/43/13/17/36/89/74/52692324405550665572.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/11/07/50/67/33/43/13/17/36/89/74/52692324405550665572.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 553590370,
+      "productSubTitle": "Opalescence Ultradent Go Hazır Kalıp Nane Diş Beyazlatma 8'li",
+      "productTitle": "Opalescence Ultradent Go Hazır Kalıp Nane Diş Beyazlatma 8'li",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6160315,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/07/50/67/33/43/13/17/36/89/74/52692324405550665572.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "coşkun_AVM",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/07/50/67/33/43/13/17/36/89/74/52692324405550665572.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/07/50/67/33/43/13/17/36/89/74/52692324405550665572.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

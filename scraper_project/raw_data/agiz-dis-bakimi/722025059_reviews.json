@@ -1,0 +1,59 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "722025059",
+  "collectedAt": "2026-04-05T10:56:02.217Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Dislerim o kadar beyazladi ki şaşkınlık içinde kaldim",
+      "createDate": 1746805528138,
+      "createdDate": "09/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104375560,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/09/65/25/67/05/09/02/19/12/23/63679028969995681075.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/05/09/65/25/67/05/09/02/19/12/23/63679028969995681075.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** m***",
+      "oldScore": 0,
+      "productId": 646476320,
+      "productSubTitle": "Crest 3D White Brilliance Diş Macunu 130 G",
+      "productTitle": "Crest 3D White Brilliance Diş Macunu 130 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7194044,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/09/65/25/67/05/09/02/19/12/23/63679028969995681075.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "vitamanya",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/09/65/25/67/05/09/02/19/12/23/63679028969995681075.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/09/65/25/67/05/09/02/19/12/23/63679028969995681075.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

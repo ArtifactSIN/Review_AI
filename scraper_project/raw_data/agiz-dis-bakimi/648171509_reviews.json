@@ -1,0 +1,80 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "648171509",
+  "collectedAt": "2026-04-05T10:54:12.232Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "TEŞEKKÜRLER",
+      "createDate": 1773649263924,
+      "createdDate": "16/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106596061,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773649263924,
+      "maskedBuyerName": "Ç*** G***",
+      "oldScore": 0,
+      "productId": 600608333,
+      "productSubTitle": "Oral-B Şarjlı Diş Fırçası Yedek Başlığı Cross Action X-Filament 4",
+      "productTitle": "Oral-B Şarjlı Diş Fırçası Yedek Başlığı Cross Action X-Filament 4",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "OralBTürkiye",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Teşekkürler.",
+      "createDate": 1769525950744,
+      "createdDate": "27/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106281443,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "Ç*** G***",
+      "oldScore": 0,
+      "productId": 600608333,
+      "productSubTitle": "Oral-B Şarjlı Diş Fırçası Yedek Başlığı Cross Action X-Filament 4",
+      "productTitle": "Oral-B Şarjlı Diş Fırçası Yedek Başlığı Cross Action X-Filament 4",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "OralBTürkiye",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

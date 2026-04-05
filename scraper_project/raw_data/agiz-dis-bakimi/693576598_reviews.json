@@ -1,0 +1,89 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "693576598",
+  "collectedAt": "2026-04-05T10:57:46.899Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Cok fikir edinemedim normal sakız gibi tadı agızda",
+      "createDate": 1725638208232,
+      "createdDate": "06/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101300030,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "O*** F***",
+      "oldScore": 0,
+      "productId": 473325318,
+      "productSubTitle": "Adınıza Faturalı Garantili Orjinal Ürün Hızlı Kargo",
+      "productTitle": "Freshies Doğal Nefes Tazeleyici 90 Kapsül",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "bebekvesaglik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "faydası nı gördüm, mide kokusunu alıyor, ürün fiyatı avantajlı adedine göre",
+      "createDate": 1724161991039,
+      "createdDate": "20/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101051012,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/20/68/28/27/74/39/94/39/27/07/46201547210431612896.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/08/20/68/28/27/74/39/94/39/27/07/46201547210431612896.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** B***",
+      "oldScore": 0,
+      "productId": 601404568,
+      "productSubTitle": "Freshies Doğal Nefes Tazeleyici 90 Kapsül",
+      "productTitle": "Freshies Doğal Nefes Tazeleyici 90 Kapsül",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 5454083,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/20/68/28/27/74/39/94/39/27/07/46201547210431612896.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "eczane_t",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/20/68/28/27/74/39/94/39/27/07/46201547210431612896.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/20/68/28/27/74/39/94/39/27/07/46201547210431612896.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

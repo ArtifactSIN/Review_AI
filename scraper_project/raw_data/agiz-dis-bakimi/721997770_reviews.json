@@ -1,0 +1,119 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "721997770",
+  "collectedAt": "2026-04-04T19:24:23.373Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Kargoya verilme süresi biraz uzamış olsa da fiyatı çok uyguna geldi. Orjinal ürün",
+      "createDate": 1774709437592,
+      "createdDate": "28/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106689108,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/28/57/12/06/53/70/57/44/97/58/22313716865006391090.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/28/57/12/06/53/70/57/44/97/58/22313716865006391090.jpg"
+      ],
+      "lastModifiedDate": 1774709437592,
+      "maskedBuyerName": "deniz yılmaz",
+      "oldScore": 0,
+      "productId": 721997770,
+      "productSubTitle": "Sensodyne Promine 6 +yaş Çocuk Diş Macunu 50ml - Bubble Gum Aromalı X 3 Adet Diş Minesi Bakımı ",
+      "productTitle": "Sensodyne Promine 6 +yaş Çocuk Diş Macunu 50ml - Bubble Gum Aromalı X 3 Adet Diş Minesi Bakımı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8531263,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/57/12/06/53/70/57/44/97/58/22313716865006391090.jpg"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Haleon",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/28/57/12/06/53/70/57/44/97/58/22313716865006391090.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/28/57/12/06/53/70/57/44/97/58/22313716865006391090.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Kampanya yapıyorsunuz sonra elimizde ürün stokta yok diye ürünü eksik gönderiyorsunuz biraz işinize özen gösterin olmayan ürünü satışa koymayın",
+      "createDate": 1774563936558,
+      "createdDate": "27/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106676382,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774563936558,
+      "maskedBuyerName": "R*** K***",
+      "oldScore": 0,
+      "productId": 721997770,
+      "productSubTitle": "Sensodyne Promine 6 +yaş Çocuk Diş Macunu 50ml - Bubble Gum Aromalı X 3 Adet Diş Minesi Bakımı ",
+      "productTitle": "Sensodyne Promine 6 +yaş Çocuk Diş Macunu 50ml - Bubble Gum Aromalı X 3 Adet Diş Minesi Bakımı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "Haleon",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Oğlum bayıldı sakız kokusuna ve tadına🥰🥰🥰mükemmel ürün",
+      "createDate": 1772479287920,
+      "createdDate": "02/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106506299,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "Gökçen Öztürkmen",
+      "oldScore": 0,
+      "productId": 721997770,
+      "productSubTitle": "Sensodyne Promine 6 +yaş Çocuk Diş Macunu 50ml - Bubble Gum Aromalı X 3 Adet Diş Minesi Bakımı ",
+      "productTitle": "Sensodyne Promine 6 +yaş Çocuk Diş Macunu 50ml - Bubble Gum Aromalı X 3 Adet Diş Minesi Bakımı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Haleon",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

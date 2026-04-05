@@ -1,0 +1,110 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "589920291",
+  "collectedAt": "2026-04-05T10:57:16.776Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Hızlı teslimat için çok teşekkür ederim. Çok acil ihtiyacım vardı. Sonderece özenle paketlenmiş. Ağız spreyleri çok yakarken, bu ürün hiç yakmadi ve çok rahatlattı. Tavsiye ederim",
+      "createDate": 1741623573238,
+      "createdDate": "10/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103889106,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n*** g***",
+      "oldScore": 0,
+      "productId": 589920291,
+      "productSubTitle": "Aftamed Gargara 150 ML",
+      "productTitle": "Aftamed Gargara 150 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "İyi gargara tavsiye ederim",
+      "createDate": 1731304742156,
+      "createdDate": "11/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102336579,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "i*** ç***",
+      "oldScore": 0,
+      "productId": 589920291,
+      "productSubTitle": "Aftamed Gargara 150 ML",
+      "productTitle": "Aftamed Gargara 150 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Çok iyi başarılı",
+      "createDate": 1726733469785,
+      "createdDate": "19/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101462041,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "i*** ç***",
+      "oldScore": 0,
+      "productId": 589920291,
+      "productSubTitle": "Aftamed Gargara 150 ML",
+      "productTitle": "Aftamed Gargara 150 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

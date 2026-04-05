@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "654910892",
+  "collectedAt": "2026-04-05T10:53:28.371Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "memnunum çok beğendim",
+      "createDate": 1766257624246,
+      "createdDate": "20/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106023782,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** Ş***",
+      "oldScore": 0,
+      "productId": 654910892,
+      "productSubTitle": "Oral-B iO Specialised Clean Beyaz Diş Fırçası Yedek Başlığı 2 Adet",
+      "productTitle": "Oral-B iO Specialised Clean Beyaz Diş Fırçası Yedek Başlığı 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AYKILIÇDİJİTAL",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

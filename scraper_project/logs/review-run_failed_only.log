@@ -1,0 +1,281 @@
+[2026-04-05T11:50:50.635Z] [INFO] [RUN] id=review-run_failed_only
+[2026-04-05T11:50:50.636Z] [INFO] [RUN] log file: /Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only.log
+[2026-04-05T11:50:50.636Z] [INFO] [RUN] summary file: /Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only_summary.json
+[2026-04-05T11:50:51.416Z] [INFO] [REVIEWS] loaded 174 review jobs from /Users/artifact/Developer/review_ai/Review_AI/scraper_project/product_ids
+[2026-04-05T11:50:51.416Z] [INFO] [REVIEWS] failed-only mode enabled
+[2026-04-05T11:50:51.416Z] [INFO] [REVIEWS] run is tracked as failed-only mode under runId=review-run_failed_only
+[2026-04-05T11:50:51.416Z] [INFO] [REVIEWS] concurrency: 3
+[2026-04-05T11:50:51.416Z] [INFO] 
+[REVIEW WORKER 1] starting agiz-dis-bakimi/638784697
+[2026-04-05T11:50:51.416Z] [INFO] 
+[REVIEW WORKER 2] starting agiz-dis-bakimi/599187933
+[2026-04-05T11:50:51.416Z] [INFO] 
+[REVIEW WORKER 3] starting agiz-dis-bakimi/636390944
+[2026-04-05T11:50:57.390Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=638784697 startPage=1
+[2026-04-05T11:50:58.027Z] [INFO] [review agiz-dis-bakimi/638784697] page=1 +8 reviews (unique=8)
+[2026-04-05T11:50:58.167Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=636390944 startPage=1
+[2026-04-05T11:50:58.198Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=599187933 startPage=1
+[2026-04-05T11:51:00.490Z] [INFO] [review agiz-dis-bakimi/636390944] page=1 +3 reviews (unique=3)
+[2026-04-05T11:51:00.491Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/636390944_reviews.json
+[2026-04-05T11:51:00.504Z] [INFO] 
+[REVIEW WORKER 3] starting agiz-dis-bakimi/593552175
+[2026-04-05T11:51:00.670Z] [INFO] [review agiz-dis-bakimi/599187933] page=1 +8 reviews (unique=8)
+[2026-04-05T11:51:00.947Z] [INFO] [review agiz-dis-bakimi/638784697] page=2 +3 reviews (unique=11)
+[2026-04-05T11:51:00.949Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/638784697_reviews.json
+[2026-04-05T11:51:00.953Z] [INFO] 
+[REVIEW WORKER 1] starting agiz-dis-bakimi/569479233
+[2026-04-05T11:51:02.604Z] [INFO] [review agiz-dis-bakimi/599187933] page=2 +8 reviews (unique=16)
+[2026-04-05T11:51:03.352Z] [INFO] [review agiz-dis-bakimi/599187933] page=3 +8 reviews (unique=24)
+[2026-04-05T11:51:03.962Z] [INFO] [review agiz-dis-bakimi/599187933] page=4 +8 reviews (unique=32)
+[2026-04-05T11:51:04.477Z] [INFO] [review agiz-dis-bakimi/599187933] page=5 +8 reviews (unique=40)
+[2026-04-05T11:51:04.478Z] [INFO] [REVIEW PARTIAL SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/599187933_reviews.partial.json
+[2026-04-05T11:51:04.960Z] [INFO] [review agiz-dis-bakimi/599187933] page=6 +8 reviews (unique=48)
+[2026-04-05T11:51:05.625Z] [INFO] [review agiz-dis-bakimi/599187933] page=7 +1 reviews (unique=49)
+[2026-04-05T11:51:05.626Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/599187933_reviews.json
+[2026-04-05T11:51:05.632Z] [INFO] 
+[REVIEW WORKER 2] starting agiz-dis-bakimi/735547495
+[2026-04-05T11:51:05.700Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=569479233 startPage=1
+[2026-04-05T11:51:05.926Z] [INFO] [review agiz-dis-bakimi/569479233] page=1 +8 reviews (unique=8)
+[2026-04-05T11:51:07.186Z] [INFO] [review agiz-dis-bakimi/569479233] page=2 +8 reviews (unique=16)
+[2026-04-05T11:51:07.924Z] [INFO] [review agiz-dis-bakimi/569479233] page=3 +8 reviews (unique=24)
+[2026-04-05T11:51:08.720Z] [INFO] [review agiz-dis-bakimi/569479233] page=4 +8 reviews (unique=32)
+[2026-04-05T11:51:09.359Z] [INFO] [review agiz-dis-bakimi/569479233] page=5 +8 reviews (unique=40)
+[2026-04-05T11:51:09.360Z] [INFO] [REVIEW PARTIAL SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/569479233_reviews.partial.json
+[2026-04-05T11:51:10.174Z] [INFO] [review agiz-dis-bakimi/569479233] page=6 +2 reviews (unique=42)
+[2026-04-05T11:51:10.175Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/569479233_reviews.json
+[2026-04-05T11:51:10.181Z] [INFO] 
+[REVIEW WORKER 1] starting agiz-dis-bakimi/736238170
+[2026-04-05T11:51:10.437Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=735547495 startPage=1
+[2026-04-05T11:51:10.863Z] [INFO] [review agiz-dis-bakimi/735547495] page=1 +2 reviews (unique=2)
+[2026-04-05T11:51:10.864Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/735547495_reviews.json
+[2026-04-05T11:51:10.867Z] [INFO] 
+[REVIEW WORKER 2] starting agiz-dis-bakimi/600608405
+[2026-04-05T11:51:12.616Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=593552175 startPage=1
+[2026-04-05T11:51:12.798Z] [INFO] [review agiz-dis-bakimi/593552175] page=1 +3 reviews (unique=3)
+[2026-04-05T11:51:12.799Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/593552175_reviews.json
+[2026-04-05T11:51:12.802Z] [INFO] 
+[REVIEW WORKER 3] starting agiz-dis-bakimi/739094614
+[2026-04-05T11:51:15.066Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=736238170 startPage=1
+[2026-04-05T11:51:15.338Z] [INFO] [review agiz-dis-bakimi/736238170] page=1 +2 reviews (unique=2)
+[2026-04-05T11:51:15.339Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/736238170_reviews.json
+[2026-04-05T11:51:15.348Z] [INFO] 
+[REVIEW WORKER 1] starting agiz-dis-bakimi/663780237
+[2026-04-05T11:51:16.293Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=600608405 startPage=1
+[2026-04-05T11:51:18.066Z] [INFO] [review agiz-dis-bakimi/600608405] page=1 +4 reviews (unique=4)
+[2026-04-05T11:51:18.067Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/600608405_reviews.json
+[2026-04-05T11:51:18.073Z] [INFO] 
+[REVIEW WORKER 2] starting agiz-dis-bakimi/736870197
+[2026-04-05T11:51:25.471Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=739094614 startPage=1
+[2026-04-05T11:51:25.727Z] [INFO] [review agiz-dis-bakimi/739094614] page=1 +8 reviews (unique=8)
+[2026-04-05T11:51:26.500Z] [INFO] [review agiz-dis-bakimi/739094614] page=2 +8 reviews (unique=16)
+[2026-04-05T11:51:26.885Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=663780237 startPage=1
+[2026-04-05T11:51:27.237Z] [INFO] [review agiz-dis-bakimi/739094614] page=3 +8 reviews (unique=24)
+[2026-04-05T11:51:27.247Z] [INFO] [review agiz-dis-bakimi/663780237] page=1 +5 reviews (unique=5)
+[2026-04-05T11:51:27.248Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/663780237_reviews.json
+[2026-04-05T11:51:27.253Z] [INFO] 
+[REVIEW WORKER 1] starting agiz-dis-bakimi/524029922
+[2026-04-05T11:51:28.015Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=736870197 startPage=1
+[2026-04-05T11:51:28.224Z] [INFO] [review agiz-dis-bakimi/739094614] page=4 +8 reviews (unique=32)
+[2026-04-05T11:51:28.782Z] [INFO] [review agiz-dis-bakimi/736870197] page=1 +8 reviews (unique=8)
+[2026-04-05T11:51:28.783Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/736870197_reviews.json
+[2026-04-05T11:51:28.789Z] [INFO] 
+[REVIEW WORKER 2] starting agiz-dis-bakimi/527398448
+[2026-04-05T11:51:29.648Z] [INFO] [review agiz-dis-bakimi/739094614] page=5 +3 reviews (unique=35)
+[2026-04-05T11:51:29.651Z] [INFO] [REVIEW PARTIAL SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/739094614_reviews.partial.json
+[2026-04-05T11:51:29.653Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/739094614_reviews.json
+[2026-04-05T11:51:29.665Z] [INFO] 
+[REVIEW WORKER 3] starting agiz-dis-bakimi/730511530
+[2026-04-05T11:51:33.822Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=524029922 startPage=1
+[2026-04-05T11:51:34.144Z] [INFO] [review agiz-dis-bakimi/524029922] page=1 +5 reviews (unique=5)
+[2026-04-05T11:51:34.146Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/524029922_reviews.json
+[2026-04-05T11:51:34.153Z] [INFO] 
+[REVIEW WORKER 1] starting agiz-dis-bakimi/733081776
+[2026-04-05T11:51:36.004Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=527398448 startPage=1
+[2026-04-05T11:51:36.405Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=730511530 startPage=1
+[2026-04-05T11:51:36.628Z] [INFO] [review agiz-dis-bakimi/730511530] page=1 +0 reviews (unique=0)
+[2026-04-05T11:51:36.630Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/730511530_reviews.json
+[2026-04-05T11:51:36.635Z] [INFO] 
+[REVIEW WORKER 3] starting agiz-dis-bakimi/607455095
+[2026-04-05T11:51:38.639Z] [INFO] [review agiz-dis-bakimi/527398448] page=1 +8 reviews (unique=8)
+[2026-04-05T11:51:39.291Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=733081776 startPage=1
+[2026-04-05T11:51:39.297Z] [INFO] [review agiz-dis-bakimi/527398448] page=2 +7 reviews (unique=15)
+[2026-04-05T11:51:39.298Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/527398448_reviews.json
+[2026-04-05T11:51:39.306Z] [INFO] 
+[REVIEW WORKER 2] starting agiz-dis-bakimi/663547470
+[2026-04-05T11:51:39.658Z] [INFO] [review agiz-dis-bakimi/733081776] page=1 +0 reviews (unique=0)
+[2026-04-05T11:51:39.659Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/733081776_reviews.json
+[2026-04-05T11:51:39.665Z] [INFO] 
+[REVIEW WORKER 1] starting agiz-dis-bakimi/634903125
+[2026-04-05T11:51:41.189Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=607455095 startPage=1
+[2026-04-05T11:51:41.355Z] [INFO] [review agiz-dis-bakimi/607455095] page=1 +8 reviews (unique=8)
+[2026-04-05T11:51:41.922Z] [INFO] [review agiz-dis-bakimi/607455095] page=2 +8 reviews (unique=16)
+[2026-04-05T11:51:42.507Z] [INFO] [review agiz-dis-bakimi/607455095] page=3 +3 reviews (unique=19)
+[2026-04-05T11:51:42.508Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/607455095_reviews.json
+[2026-04-05T11:51:42.512Z] [INFO] 
+[REVIEW WORKER 3] starting agiz-dis-bakimi/736534437
+[2026-04-05T11:51:42.628Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=663547470 startPage=1
+[2026-04-05T11:51:42.960Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=634903125 startPage=1
+[2026-04-05T11:51:42.979Z] [INFO] [review agiz-dis-bakimi/663547470] page=1 +0 reviews (unique=0)
+[2026-04-05T11:51:42.979Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/663547470_reviews.json
+[2026-04-05T11:51:42.984Z] [INFO] 
+[REVIEW WORKER 2] starting agiz-dis-bakimi/724324457
+[2026-04-05T11:51:43.106Z] [INFO] [review agiz-dis-bakimi/634903125] page=1 +8 reviews (unique=8)
+[2026-04-05T11:51:43.667Z] [INFO] [review agiz-dis-bakimi/634903125] page=2 +8 reviews (unique=16)
+[2026-04-05T11:51:43.667Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/634903125_reviews.json
+[2026-04-05T11:51:43.672Z] [INFO] 
+[REVIEW WORKER 1] starting agiz-dis-bakimi/437851870
+[2026-04-05T11:51:45.820Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=736534437 startPage=1
+[2026-04-05T11:51:46.248Z] [INFO] [review agiz-dis-bakimi/736534437] page=1 +0 reviews (unique=0)
+[2026-04-05T11:51:46.249Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/736534437_reviews.json
+[2026-04-05T11:51:46.257Z] [INFO] 
+[REVIEW WORKER 3] starting agiz-dis-bakimi/724337060
+[2026-04-05T11:51:46.287Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=724324457 startPage=1
+[2026-04-05T11:51:46.506Z] [INFO] [review agiz-dis-bakimi/724324457] page=1 +0 reviews (unique=0)
+[2026-04-05T11:51:46.506Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/724324457_reviews.json
+[2026-04-05T11:51:46.510Z] [INFO] 
+[REVIEW WORKER 2] starting agiz-dis-bakimi/600608100
+[2026-04-05T11:51:54.553Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=437851870 startPage=1
+[2026-04-05T11:51:59.430Z] [INFO] 
+[INTERRUPT] Ctrl+C received. Saving partial reviews...
+[2026-04-05T11:51:59.431Z] [INFO] [REVIEW PARTIAL SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/437851870_reviews.partial.json
+[2026-04-05T11:51:59.434Z] [INFO] 
+[INTERRUPT] shutdown already in progress...
+[2026-04-05T11:56:37.559Z] [INFO] [RUN] id=review-run_failed_only
+[2026-04-05T11:56:37.560Z] [INFO] [RUN] log file: /Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only.log
+[2026-04-05T11:56:37.560Z] [INFO] [RUN] summary file: /Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only_summary.json
+[2026-04-05T11:56:41.962Z] [INFO] [REVIEWS] loaded 0 review jobs from /Users/artifact/Developer/review_ai/Review_AI/scraper_project/product_ids
+[2026-04-05T11:56:41.962Z] [INFO] [REVIEWS] failed-only mode enabled
+[2026-04-05T11:56:41.962Z] [INFO] [REVIEWS] run is tracked as failed-only mode under runId=review-run_failed_only
+[2026-04-05T11:56:41.962Z] [INFO] [REVIEWS] concurrency: 3
+[2026-04-05T11:56:41.963Z] [INFO] 
+All review jobs finished.
+[2026-04-05T11:57:20.845Z] [INFO] [RUN] id=review-run_failed_only
+[2026-04-05T11:57:20.846Z] [INFO] [RUN] log file: /Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only.log
+[2026-04-05T11:57:20.846Z] [INFO] [RUN] summary file: /Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only_summary.json
+[2026-04-05T11:57:20.924Z] [INFO] [REVIEWS] loaded 0 review jobs from /Users/artifact/Developer/review_ai/Review_AI/scraper_project/product_ids
+[2026-04-05T11:57:20.925Z] [INFO] [REVIEWS] failed-only mode enabled
+[2026-04-05T11:57:20.925Z] [INFO] [REVIEWS] run is tracked as failed-only mode under runId=review-run_failed_only
+[2026-04-05T11:57:20.925Z] [INFO] [REVIEWS] concurrency: 3
+[2026-04-05T11:57:20.926Z] [INFO] 
+All review jobs finished.
+[2026-04-05T11:58:01.683Z] [INFO] [RUN] id=review-run_failed_only
+[2026-04-05T11:58:01.683Z] [INFO] [RUN] log file: /Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only.log
+[2026-04-05T11:58:01.683Z] [INFO] [RUN] summary file: /Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only_summary.json
+[2026-04-05T11:58:01.765Z] [INFO] [REVIEWS] loaded 0 review jobs from /Users/artifact/Developer/review_ai/Review_AI/scraper_project/product_ids
+[2026-04-05T11:58:01.765Z] [INFO] [REVIEWS] failed-only mode enabled
+[2026-04-05T11:58:01.765Z] [INFO] [REVIEWS] run is tracked as failed-only mode under runId=review-run_failed_only
+[2026-04-05T11:58:01.765Z] [INFO] [REVIEWS] concurrency: 3
+[2026-04-05T11:58:01.767Z] [INFO] 
+All review jobs finished.
+[2026-04-05T12:16:06.681Z] [INFO] [RUN] id=review-run_failed_only
+[2026-04-05T12:16:06.683Z] [INFO] [RUN] log file: /Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only.log
+[2026-04-05T12:16:06.683Z] [INFO] [RUN] summary file: /Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only_summary.json
+[2026-04-05T12:16:07.348Z] [INFO] [REVIEWS] loaded 12 review jobs from /Users/artifact/Developer/review_ai/Review_AI/scraper_project/product_ids
+[2026-04-05T12:16:07.349Z] [INFO] [REVIEWS] failed-only mode enabled
+[2026-04-05T12:16:07.349Z] [INFO] [REVIEWS] run is tracked as failed-only mode under runId=review-run_failed_only
+[2026-04-05T12:16:07.349Z] [INFO] [REVIEWS] concurrency: 3
+[2026-04-05T12:16:07.350Z] [INFO] 
+[REVIEW WORKER 1] starting agiz-dis-bakimi/437851870
+[2026-04-05T12:16:07.350Z] [INFO] 
+[REVIEW WORKER 2] starting agiz-dis-bakimi/687293456
+[2026-04-05T12:16:07.350Z] [INFO] 
+[REVIEW WORKER 3] starting agiz-dis-bakimi/560965160
+[2026-04-05T12:16:11.377Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=437851870 startPage=1
+[2026-04-05T12:16:11.542Z] [INFO] [review agiz-dis-bakimi/437851870] page=1 +6 reviews (unique=6)
+[2026-04-05T12:16:11.545Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/437851870_reviews.json
+[2026-04-05T12:16:11.557Z] [INFO] 
+[REVIEW WORKER 1] starting agiz-dis-bakimi/724337060
+[2026-04-05T12:16:12.538Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=687293456 startPage=1
+[2026-04-05T12:16:12.849Z] [INFO] [review agiz-dis-bakimi/687293456] page=1 +2 reviews (unique=2)
+[2026-04-05T12:16:12.851Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/687293456_reviews.json
+[2026-04-05T12:16:12.857Z] [INFO] 
+[REVIEW WORKER 2] starting agiz-dis-bakimi/600608100
+[2026-04-05T12:16:13.473Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=560965160 startPage=3
+[2026-04-05T12:16:13.871Z] [INFO] [review agiz-dis-bakimi/560965160] page=3 +5 reviews (unique=21)
+[2026-04-05T12:16:13.872Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/560965160_reviews.json
+[2026-04-05T12:16:13.879Z] [INFO] 
+[REVIEW WORKER 3] starting agiz-dis-bakimi/578912523
+[2026-04-05T12:16:18.088Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=724337060 startPage=1
+[2026-04-05T12:16:18.199Z] [INFO] [review agiz-dis-bakimi/724337060] page=1 +0 reviews (unique=0)
+[2026-04-05T12:16:18.201Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/724337060_reviews.json
+[2026-04-05T12:16:18.213Z] [INFO] 
+[REVIEW WORKER 1] starting agiz-dis-bakimi/647036986
+[2026-04-05T12:16:18.352Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=578912523 startPage=1
+[2026-04-05T12:16:18.542Z] [INFO] [review agiz-dis-bakimi/578912523] page=1 +8 reviews (unique=8)
+[2026-04-05T12:16:18.544Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/578912523_reviews.json
+[2026-04-05T12:16:18.549Z] [INFO] 
+[REVIEW WORKER 3] starting agiz-dis-bakimi/686359269
+[2026-04-05T12:16:19.967Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=600608100 startPage=1
+[2026-04-05T12:16:20.223Z] [INFO] [review agiz-dis-bakimi/600608100] page=1 +1 reviews (unique=1)
+[2026-04-05T12:16:20.224Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/600608100_reviews.json
+[2026-04-05T12:16:20.232Z] [INFO] 
+[REVIEW WORKER 2] starting agiz-dis-bakimi/731910029
+[2026-04-05T12:16:21.832Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=647036986 startPage=1
+[2026-04-05T12:16:21.994Z] [INFO] [review agiz-dis-bakimi/647036986] page=1 +5 reviews (unique=5)
+[2026-04-05T12:16:21.996Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/647036986_reviews.json
+[2026-04-05T12:16:22.000Z] [INFO] 
+[REVIEW WORKER 1] starting agiz-dis-bakimi/356339984
+[2026-04-05T12:16:22.048Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=686359269 startPage=1
+[2026-04-05T12:16:23.097Z] [INFO] [review agiz-dis-bakimi/686359269] page=1 +8 reviews (unique=8)
+[2026-04-05T12:16:23.643Z] [INFO] [review agiz-dis-bakimi/686359269] page=2 +2 reviews (unique=10)
+[2026-04-05T12:16:23.647Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/686359269_reviews.json
+[2026-04-05T12:16:23.659Z] [INFO] 
+[REVIEW WORKER 3] starting agiz-dis-bakimi/603344133
+[2026-04-05T12:16:27.566Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=356339984 startPage=1
+[2026-04-05T12:16:27.685Z] [INFO] [review agiz-dis-bakimi/356339984] page=1 +8 reviews (unique=8)
+[2026-04-05T12:16:28.269Z] [INFO] [review agiz-dis-bakimi/356339984] page=2 +8 reviews (unique=16)
+[2026-04-05T12:16:28.369Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=731910029 startPage=1
+[2026-04-05T12:16:28.461Z] [INFO] [review agiz-dis-bakimi/731910029] page=1 +0 reviews (unique=0)
+[2026-04-05T12:16:28.463Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/731910029_reviews.json
+[2026-04-05T12:16:28.470Z] [INFO] 
+[REVIEW WORKER 2] starting agiz-dis-bakimi/709358655
+[2026-04-05T12:16:28.594Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=603344133 startPage=1
+[2026-04-05T12:16:28.926Z] [INFO] [review agiz-dis-bakimi/356339984] page=3 +8 reviews (unique=24)
+[2026-04-05T12:16:30.056Z] [INFO] [review agiz-dis-bakimi/603344133] page=1 +8 reviews (unique=8)
+[2026-04-05T12:16:30.600Z] [INFO] [review agiz-dis-bakimi/603344133] page=2 +8 reviews (unique=16)
+[2026-04-05T12:16:31.113Z] [INFO] [review agiz-dis-bakimi/603344133] page=3 +8 reviews (unique=24)
+[2026-04-05T12:16:31.583Z] [INFO] 
+[START REVIEW] category=agiz-dis-bakimi productId=709358655 startPage=1
+[2026-04-05T12:16:31.723Z] [INFO] [review agiz-dis-bakimi/709358655] page=1 +6 reviews (unique=6)
+[2026-04-05T12:16:31.725Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/709358655_reviews.json
+[2026-04-05T12:16:31.833Z] [INFO] [review agiz-dis-bakimi/603344133] page=4 +8 reviews (unique=32)
+[2026-04-05T12:16:32.492Z] [INFO] [review agiz-dis-bakimi/603344133] page=5 +8 reviews (unique=40)
+[2026-04-05T12:16:32.493Z] [INFO] [REVIEW PARTIAL SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/603344133_reviews.partial.json
+[2026-04-05T12:16:33.093Z] [INFO] [review agiz-dis-bakimi/603344133] page=6 +4 reviews (unique=44)
+[2026-04-05T12:16:33.094Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/603344133_reviews.json
+[2026-04-05T12:16:33.392Z] [INFO] [review agiz-dis-bakimi/356339984] page=4 +3 reviews (unique=27)
+[2026-04-05T12:16:33.393Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/356339984_reviews.json
+[2026-04-05T12:16:33.402Z] [INFO] 
+All review jobs finished.

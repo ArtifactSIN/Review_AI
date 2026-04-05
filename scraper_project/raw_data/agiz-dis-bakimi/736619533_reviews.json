@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "736619533",
+  "collectedAt": "2026-04-04T19:29:25.722Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürünler kaliteli",
+      "createDate": 1775157379289,
+      "createdDate": "02/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106735643,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775157379289,
+      "maskedBuyerName": "F*** G***",
+      "oldScore": 0,
+      "productId": 736619533,
+      "productSubTitle": "Agarta Doğal Florürsüz Misvak Aktif Nane Diş Macunu 3 x 100 ML",
+      "productTitle": "Agarta Doğal Florürsüz Misvak Aktif Nane Diş Macunu 3 x 100 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "defnebebek",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

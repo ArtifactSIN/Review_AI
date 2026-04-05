@@ -1,0 +1,24 @@
+{
+  "runId": "review_run_2026-04-04T19-31-53-523Z",
+  "startedAt": "2026-04-04T19:31:53.523Z",
+  "finishedAt": "2026-04-04T19:32:32.786Z",
+  "totalJobsQueued": 2,
+  "completed": 2,
+  "skippedExisting": 0,
+  "failed": 0,
+  "partialSaved": 7,
+  "resumedFromPartial": 1,
+  "zeroReviewProducts": 0,
+  "totalReviewsCollected": 287,
+  "activeWorkers": 0,
+  "filters": {
+    "categories": null,
+    "products": null,
+    "concurrency": 3,
+    "failedOnly": true,
+    "failedFile": null,
+    "resumeRun": null
+  },
+  "failedJobsFile": "/Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review_run_2026-04-04T19-31-53-523Z_failed_jobs.json",
+  "logFile": "/Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review_run_2026-04-04T19-31-53-523Z.log"
+}

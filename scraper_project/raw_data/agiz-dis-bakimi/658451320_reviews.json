@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "658451320",
+  "collectedAt": "2026-04-05T10:49:07.698Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Ürün ne yazık ki bozuk geldi Süreç devam ediyor kontrol ediyorlar Başımıza iş çıktı Uğraşıp durucaz Gidip denemeden alınmaz bu model İnternette herkes io2 den şikayetçi",
+      "createDate": 1774449734166,
+      "createdDate": "25/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106648776,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774449734166,
+      "maskedBuyerName": "K*** I***",
+      "oldScore": 0,
+      "productId": 658451320,
+      "productSubTitle": "Oral-b İo 2 Şarjlı Diş Fırçası - Siyah ",
+      "productTitle": "Oral-b İo 2 Şarjlı Diş Fırçası - Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "OralBTürkiye",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

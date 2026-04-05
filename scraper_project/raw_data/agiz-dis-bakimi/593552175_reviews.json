@@ -1,0 +1,110 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "593552175",
+  "collectedAt": "2026-04-05T11:51:12.798Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Gayet güzel...",
+      "createDate": 1772643506103,
+      "createdDate": "04/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106516339,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "Ü*** K***",
+      "oldScore": 0,
+      "productId": 593552175,
+      "productSubTitle": "3d Maxcare - 3 Boyutlu Temiizlik Oral-b Uyumlu Diş Fırçası Başlığı + Fırça Koruma Kapağı",
+      "productTitle": "3d Maxcare - 3 Boyutlu Temiizlik Oral-b Uyumlu Diş Fırçası Başlığı + Fırça Koruma Kapağı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "VolHauz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Harika ürün teşekkürler.",
+      "createDate": 1737439330631,
+      "createdDate": "21/01/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103432230,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** s*** t***",
+      "oldScore": 0,
+      "productId": 593552175,
+      "productSubTitle": "3d Maxcare - 3 Boyutlu Temiizlik Oral-b Uyumlu Diş Fırçası Başlığı + Fırça Koruma Kapağı",
+      "productTitle": "3d Maxcare - 3 Boyutlu Temiizlik Oral-b Uyumlu Diş Fırçası Başlığı + Fırça Koruma Kapağı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "VolHauz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Süper beğendim 👍",
+      "createDate": 1731082855257,
+      "createdDate": "08/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102324099,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** B***",
+      "oldScore": 0,
+      "productId": 593552175,
+      "productSubTitle": "3d Maxcare - 3 Boyutlu Temiizlik Oral-b Uyumlu Diş Fırçası Başlığı + Fırça Koruma Kapağı",
+      "productTitle": "3d Maxcare - 3 Boyutlu Temiizlik Oral-b Uyumlu Diş Fırçası Başlığı + Fırça Koruma Kapağı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "VolHauz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

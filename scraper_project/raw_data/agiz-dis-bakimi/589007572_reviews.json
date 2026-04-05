@@ -1,0 +1,119 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "589007572",
+  "collectedAt": "2026-04-05T10:52:38.701Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ÜRÜN ANLATILDIĞI GİBİ",
+      "createDate": 1775128771110,
+      "createdDate": "02/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106734929,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/02/80/35/07/05/91/24/48/01/98/22067755837596712967.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/04/02/80/35/07/05/91/24/48/01/98/22067755837596712967.png"
+      ],
+      "lastModifiedDate": 1775128771110,
+      "maskedBuyerName": "TİMUR GÖRKEM KILIÇ",
+      "oldScore": 0,
+      "productId": 589007572,
+      "productSubTitle": "Signal White Now Lekesiz Beyazlık Diş Macunu 4 x 75 ML",
+      "productTitle": "Signal White Now Lekesiz Beyazlık Diş Macunu 4 x 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8555083,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/80/35/07/05/91/24/48/01/98/22067755837596712967.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Unilever",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/02/80/35/07/05/91/24/48/01/98/22067755837596712967.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/02/80/35/07/05/91/24/48/01/98/22067755837596712967.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ürün",
+      "createDate": 1761919104697,
+      "createdDate": "31/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105555675,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "mustafa esenkaya",
+      "oldScore": 0,
+      "productId": 589007572,
+      "productSubTitle": "Signal White Now Lekesiz Beyazlık Diş Macunu 4 x 75 ML",
+      "productTitle": "Signal White Now Lekesiz Beyazlık Diş Macunu 4 x 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Unilever",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Devamlı kullandığımız bir marka... Gayet yeterli etki ediyor...",
+      "createDate": 1741170307536,
+      "createdDate": "05/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103843310,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Cem Ata",
+      "oldScore": 0,
+      "productId": 589007572,
+      "productSubTitle": "Signal White Now Lekesiz Beyazlık Diş Macunu 4 x 75 ML",
+      "productTitle": "Signal White Now Lekesiz Beyazlık Diş Macunu 4 x 75 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Unilever",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "731861749",
+  "collectedAt": "2026-04-05T12:42:23.455Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Güzel diş macunu",
+      "createDate": 1754228361303,
+      "createdDate": "03/08/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104954270,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "b*** i***",
+      "oldScore": 0,
+      "productId": 665857145,
+      "productSubTitle": "Colgate Total Profesyonel Diş Eti Sağlığı Diş Macunu 2 x 50 ML",
+      "productTitle": "Colgate Total Profesyonel Diş Eti Sağlığı Diş Macunu 2 x 50 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KişiselBakımMerkezi",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

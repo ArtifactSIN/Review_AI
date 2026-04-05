@@ -1,0 +1,50 @@
+{
+  "categorySlug": "agiz-dis-bakimi",
+  "productId": "600608100",
+  "collectedAt": "2026-04-05T12:16:20.223Z",
+  "resumedFromPartial": true,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Ürün eksiksiz ve güzel bir şekilde paketlenmiş şekilde teslim aldım emeği geçenlere teşekkür ediyorum",
+      "createDate": 1731606815217,
+      "createdDate": "14/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102455500,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "abdullah Aydın",
+      "oldScore": 0,
+      "productId": 636778694,
+      "productSubTitle": "Oral-B Şarjlı Diş Fırçası Yedek Başlığı Cross Action X-Filament 4 Adet Ürün",
+      "productTitle": "Oral-B Şarjlı Diş Fırçası Yedek Başlığı Cross Action X-Filament 4 Adet Ürün",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Myparfumeri",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}
