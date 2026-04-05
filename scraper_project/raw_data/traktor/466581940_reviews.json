@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "466581940",
+  "collectedAt": "2026-04-05T14:35:12.606Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "urun cok ii",
+      "createDate": 1703746323432,
+      "createdDate": "28/12/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097325362,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "-hakan  -miroğlu ",
+      "oldScore": 0,
+      "productId": 466581940,
+      "productSubTitle": "28 Mm Remork Çeki Demiri Kancalı Uzun",
+      "productTitle": "28 Mm Remork Çeki Demiri Kancalı Uzun",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "sediroto",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

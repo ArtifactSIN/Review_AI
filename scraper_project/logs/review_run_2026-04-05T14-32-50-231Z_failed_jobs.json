@@ -1,0 +1,37 @@
+{
+  "runId": "review_run_2026-04-05T14-32-50-231Z",
+  "updatedAt": "2026-04-05T14:48:42.330Z",
+  "failedCount": 5,
+  "jobs": [
+    {
+      "categorySlug": "traktor",
+      "productId": "733845180",
+      "error": "page.evaluate: TypeError: Failed to fetch\n    at eval (eval at evaluate (:302:30), <anonymous>:2:23)\n    at UtilityScript.evaluate (<anonymous>:304:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at fetchReviewPage (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:496:21)\n    at fetchReviewPageWithRetry (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:525:29)\n    at async collectReviewsForProduct (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:609:21)\n    at async processReview (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:704:20)\n    at async worker (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:740:9)\n    at async runWorkers (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:754:3)\n    at async /mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:828:5",
+      "recordedAt": "2026-04-05T14:36:29.963Z"
+    },
+    {
+      "categorySlug": "traktor",
+      "productId": "728192571",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.n11.com/product-reviews/728192571\", waiting until \"domcontentloaded\"\u001b[22m\n\n    at processReview (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:698:16)\n    at async worker (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:740:9)\n    at async runWorkers (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:754:3)\n    at async /mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:828:5",
+      "recordedAt": "2026-04-05T14:37:56.186Z"
+    },
+    {
+      "categorySlug": "traktor",
+      "productId": "714886493",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.n11.com/product-reviews/714886493\", waiting until \"domcontentloaded\"\u001b[22m\n\n    at processReview (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:698:16)\n    at async worker (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:740:9)\n    at async runWorkers (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:754:3)\n    at async /mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:828:5",
+      "recordedAt": "2026-04-05T14:39:27.373Z"
+    },
+    {
+      "categorySlug": "traktor",
+      "productId": "710332666",
+      "error": "page.goto: net::ERR_TIMED_OUT at https://www.n11.com/product-reviews/710332666\nCall log:\n\u001b[2m  - navigating to \"https://www.n11.com/product-reviews/710332666\", waiting until \"domcontentloaded\"\u001b[22m\n\n    at processReview (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:698:16)\n    at async worker (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:740:9)\n    at async runWorkers (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:754:3)\n    at async /mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:828:5",
+      "recordedAt": "2026-04-05T14:40:04.423Z"
+    },
+    {
+      "categorySlug": "traktor",
+      "productId": "548766572",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.n11.com/product-reviews/548766572\", waiting until \"domcontentloaded\"\u001b[22m\n\n    at processReview (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:698:16)\n    at async worker (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:740:9)\n    at async runWorkers (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:754:3)\n    at async /mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:828:5",
+      "recordedAt": "2026-04-05T14:48:42.306Z"
+    }
+  ]
+}

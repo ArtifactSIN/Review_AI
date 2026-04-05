@@ -1,0 +1,80 @@
+{
+  "categorySlug": "traktor",
+  "productId": "592385797",
+  "collectedAt": "2026-04-05T14:42:39.737Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "ürün branda değil, normal bı çadır, orjinalı almanızı tavsiye ediyorum",
+      "createDate": 1624695359695,
+      "createdDate": "26/06/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5085999824,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "salih göktürk",
+      "oldScore": 0,
+      "productId": 437376874,
+      "productSubTitle": "New Holland Traktör Gölgelik - Emniyet Brandası",
+      "productTitle": "New Holland Traktör Gölgelik - Emniyet Brandası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "ziraatdunyasi",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürün açıklamadaki gibi geldi saglam ve baglama ipide var. Newholland 60-66 için aldım uyum sagladı ama boyu 2 3 cm daha uzun olsa daha güzel olurmuş. Birde baglantı delikleri biraz az bazı yerlerde eksik kaldı.",
+      "createDate": 1620756158214,
+      "createdDate": "11/05/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5085403169,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 437376874,
+      "productSubTitle": "New Holland Traktör Gölgelik - Emniyet Brandası",
+      "productTitle": "New Holland Traktör Gölgelik - Emniyet Brandası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "ziraatdunyasi",
+      "title": "Ürün",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

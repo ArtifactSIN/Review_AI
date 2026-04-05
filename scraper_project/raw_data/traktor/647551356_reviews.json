@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "647551356",
+  "collectedAt": "2026-04-05T14:34:42.872Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Teşekkür ediyorum. Hediye kalemide aldım. Yalnız iki ek yerinin arasına düğme gibi bişey koysanız iyi olur.",
+      "createDate": 1745254417985,
+      "createdDate": "21/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104227952,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 647551356,
+      "productSubTitle": "Massey Ferguson 285 S Kabinli Lüx Branda ",
+      "productTitle": "Massey Ferguson 285 S Kabinli Lüx Branda",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DENİZLERTRAKTÖR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

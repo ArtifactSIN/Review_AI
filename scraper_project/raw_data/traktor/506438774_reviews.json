@@ -1,0 +1,59 @@
+{
+  "categorySlug": "traktor",
+  "productId": "506438774",
+  "collectedAt": "2026-04-05T14:44:32.181Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Gzel idare eder",
+      "createDate": 1752413560243,
+      "createdDate": "13/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104828305,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/13/64/49/12/21/84/35/36/19/24/74965303848214613633.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/07/13/77/72/53/73/99/06/86/06/49/23311335925381415063.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Mehmet Emin ALA",
+      "oldScore": 0,
+      "productId": 506438774,
+      "productSubTitle": "New Holland Tt 50 Kaborta Brandası Lüks Tip Kabinsiz",
+      "productTitle": "New Holland Tt 50 Kaborta Brandası Lüks Tip Kabinsiz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7446219,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/13/77/72/53/73/99/06/86/06/49/23311335925381415063.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/13/64/49/12/21/84/35/36/19/24/74965303848214613633.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/13/64/49/12/21/84/35/36/19/24/74965303848214613633.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

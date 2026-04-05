@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "528975982",
+  "collectedAt": "2026-04-05T14:45:50.039Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Kaliteli ürün göndermişler sağolsunlar.",
+      "createDate": 1748609477570,
+      "createdDate": "30/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104536115,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** y***",
+      "oldScore": 0,
+      "productId": 528975982,
+      "productSubTitle": "Massey Ferguson 175 Yan Arma Kabartmali Takim",
+      "productTitle": "Massey Ferguson 175 Yan Arma Kabartmali Takim",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

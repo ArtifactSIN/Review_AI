@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "549643794",
+  "collectedAt": "2026-04-05T14:34:09.343Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "135 massey Ferguson 'a tam 9ldu",
+      "createDate": 1684005872030,
+      "createdDate": "13/05/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5093657349,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** b*** k***",
+      "oldScore": 0,
+      "productId": 549643794,
+      "productSubTitle": "Ispirli Massey Ferguson 240S/260 G/266 G/277 G/288 G Takviye Vites Topuzu",
+      "productTitle": "Ispirli Massey Ferguson 240S/260 G/266 G/277 G/288 G Takviye Vites Topuzu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "533452859",
+  "collectedAt": "2026-04-05T14:45:54.266Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürünler fotoğraf daki gibi satıcı tavsiye ederim alacak kişilere şimdiden hayırlı olsun",
+      "createDate": 1652112937927,
+      "createdDate": "09/05/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5089496934,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Kayhan Kocaaslan",
+      "oldScore": 0,
+      "productId": 533452859,
+      "productSubTitle": "Massey Ferguson 240 S Efsane - 260 G Açilir Kabut Takozu 2 Adet",
+      "productTitle": "Massey Ferguson 240 S Efsane - 260 G Açilir Kabut Takozu 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": "satıcı tavsiye",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

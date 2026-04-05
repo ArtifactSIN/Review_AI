@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "493571705",
+  "collectedAt": "2026-04-05T14:46:43.971Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Orijinal ürün",
+      "createDate": 1648541756205,
+      "createdDate": "29/03/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5089164060,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "N*** D***",
+      "oldScore": 0,
+      "productId": 493571705,
+      "productSubTitle": "Massey Feruson 3050/3060/266/277/288 Mazot Filitresi",
+      "productTitle": "Massey Feruson 3050/3060/266/277/288 Mazot Filitresi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "505150243",
+  "collectedAt": "2026-04-05T14:44:45.774Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "sorunsuz geldi",
+      "createDate": 1714733281754,
+      "createdDate": "03/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099439977,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ş*** E***",
+      "oldScore": 0,
+      "productId": 505150243,
+      "productSubTitle": "12 V Sanel Konjektör Reglatör",
+      "productTitle": "12 V Sanel Konjektör Reglatör",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

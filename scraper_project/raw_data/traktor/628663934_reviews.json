@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "628663934",
+  "collectedAt": "2026-04-05T14:45:11.534Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün güzel tavsiye ederim",
+      "createDate": 1771595779298,
+      "createdDate": "20/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106452415,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "-*** -***",
+      "oldScore": 0,
+      "productId": 628663934,
+      "productSubTitle": "Massey Ferguson 240 S Efsane/260 G/ 266 G Köşeli Çmurluk Takımı ",
+      "productTitle": "Massey Ferguson 240 S Efsane/260 G/ 266 G Köşeli Çmurluk Takımı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

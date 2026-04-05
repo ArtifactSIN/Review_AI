@@ -1,0 +1,80 @@
+{
+  "categorySlug": "traktor",
+  "productId": "525258454",
+  "collectedAt": "2026-04-05T14:44:12.882Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "fiyat performans",
+      "createDate": 1708589205336,
+      "createdDate": "22/02/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098148081,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** Y***",
+      "oldScore": 0,
+      "productId": 525258454,
+      "productSubTitle": "Massey Ferguson 240 S -260 -266 Ön Çamurluk Sağ-Sol Takim 4X2",
+      "productTitle": "Massey Ferguson 240 S -260 -266 Ön Çamurluk Sağ-Sol Takim 4X2",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün çok güzel ve kaliteli 750.16 lastik ebatı için uygun",
+      "createDate": 1667907634131,
+      "createdDate": "08/11/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5090837112,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 525258454,
+      "productSubTitle": "Massey Ferguson 240 S -260 -266 Ön Çamurluk Sağ-Sol Takim 4X2",
+      "productTitle": "Massey Ferguson 240 S -260 -266 Ön Çamurluk Sağ-Sol Takim 4X2",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": "Traktör çamurluk ",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

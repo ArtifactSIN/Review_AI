@@ -1,0 +1,64 @@
+{
+  "categorySlug": "traktor",
+  "productId": "527298189",
+  "collectedAt": "2026-04-05T14:44:52.014Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "paketleme hatali vidalar parcayi kirmiş",
+      "createDate": 1680084669935,
+      "createdDate": "29/03/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5092925772,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/03/29/66/17/29/15/02/56/66/84/78/64632602292178145101.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/23/03/29/66/17/29/15/02/56/66/84/78/64632602292178145101.png",
+        "https://n11scdn.akamaized.net/a1/{0}/23/03/29/60/72/00/59/65/37/38/99/18/5580877592974870462.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Serkan çavdar",
+      "oldScore": 0,
+      "productId": 527298189,
+      "productSubTitle": "Massey Ferguson 148 Yan Arma Kabartmali Takim",
+      "productTitle": "Massey Ferguson 148 Yan Arma Kabartmali Takim",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 1808000,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/03/29/66/17/29/15/02/56/66/84/78/64632602292178145101.png"
+        },
+        {
+          "id": 1808001,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/03/29/60/72/00/59/65/37/38/99/18/5580877592974870462.png"
+        }
+      ],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/03/29/66/17/29/15/02/56/66/84/78/64632602292178145101.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/03/29/66/17/29/15/02/56/66/84/78/64632602292178145101.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

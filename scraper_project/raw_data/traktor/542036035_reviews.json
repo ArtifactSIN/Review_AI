@@ -1,0 +1,80 @@
+{
+  "categorySlug": "traktor",
+  "productId": "542036035",
+  "collectedAt": "2026-04-05T14:45:02.195Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün eksik ve kirli geldi daha önce denenmiş iade edicem",
+      "createDate": 1732598426708,
+      "createdDate": "26/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102662779,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** a***",
+      "oldScore": 0,
+      "productId": 542036035,
+      "productSubTitle": "Massey Ferguson 2615 Kaborta  Brandası",
+      "productTitle": "Massey Ferguson 2615 Kaborta  Brandası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "2021 model 2615 e uygun değil ayna için delik yok motora binerken tutmaç var onun için de delik yok sol ayna ve tutmacı söküp çaresine bakacağız",
+      "createDate": 1707215761770,
+      "createdDate": "06/02/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097895173,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "yavuz savaş",
+      "oldScore": 0,
+      "productId": 542036035,
+      "productSubTitle": "Massey Ferguson 2615 Kaborta  Brandası",
+      "productTitle": "Massey Ferguson 2615 Kaborta  Brandası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

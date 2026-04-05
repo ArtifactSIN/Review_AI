@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "572881940",
+  "collectedAt": "2026-04-05T14:45:37.204Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "teşekkürler",
+      "createDate": 1692296331084,
+      "createdDate": "17/08/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094948109,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** A***",
+      "oldScore": 0,
+      "productId": 572881940,
+      "productSubTitle": "MASSEY FERGUSON  165/175/265/285 MAZOT HORTUMU ÖRGÜLÜ 75 CM ",
+      "productTitle": "MASSEY FERGUSON  165/175/265/285 MAZOT HORTUMU ÖRGÜLÜ 75 CM",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

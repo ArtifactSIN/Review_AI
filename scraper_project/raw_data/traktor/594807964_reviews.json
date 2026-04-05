@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "594807964",
+  "collectedAt": "2026-04-05T14:45:12.176Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün Resimdeki gibi güzel. Sağlam bir şekilde elime ulaştı.",
+      "createDate": 1727586803026,
+      "createdDate": "29/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101650862,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Halil Eren Kaya",
+      "oldScore": 0,
+      "productId": 594807964,
+      "productSubTitle": "Massey Ferguson 240 S Efsane/260 G / 266 G /288 G Plaka Lambası ",
+      "productTitle": "Massey Ferguson 240 S Efsane/260 G / 266 G /288 G Plaka Lambası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

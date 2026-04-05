@@ -1,0 +1,110 @@
+{
+  "categorySlug": "traktor",
+  "productId": "571626910",
+  "collectedAt": "2026-04-05T14:44:26.395Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün iyi",
+      "createDate": 1747119291960,
+      "createdDate": "13/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104397257,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** A***",
+      "oldScore": 0,
+      "productId": 571626910,
+      "productSubTitle": "HATTAT TRAKTÖR 240 S / 266 G / 285  KUYRUK MİL KAPAĞI ",
+      "productTitle": "HATTAT TRAKTÖR 240 S / 266 G / 285  KUYRUK MİL KAPAĞI",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Traktöre uygun bir güvenlik elamanı.",
+      "createDate": 1739451239805,
+      "createdDate": "13/02/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103660480,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "h*** g***",
+      "oldScore": 0,
+      "productId": 571626910,
+      "productSubTitle": "HATTAT TRAKTÖR 240 S / 266 G / 285  KUYRUK MİL KAPAĞI ",
+      "productTitle": "HATTAT TRAKTÖR 240 S / 266 G / 285  KUYRUK MİL KAPAĞI",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Kaliteli",
+      "createDate": 1734194529842,
+      "createdDate": "14/12/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102995259,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 571626910,
+      "productSubTitle": "HATTAT TRAKTÖR 240 S / 266 G / 285  KUYRUK MİL KAPAĞI ",
+      "productTitle": "HATTAT TRAKTÖR 240 S / 266 G / 285  KUYRUK MİL KAPAĞI",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

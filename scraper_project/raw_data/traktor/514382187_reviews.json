@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "514382187",
+  "collectedAt": "2026-04-05T14:46:02.277Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Paketleme güzeldi kargo hızlıydı Ürün görseldeki gibiydi ayrıca hediye için teşekkürler",
+      "createDate": 1647882721953,
+      "createdDate": "21/03/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5089102003,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Mikail Yumuş",
+      "oldScore": 0,
+      "productId": 514382187,
+      "productSubTitle": "İspirli Massey Ferguson 240 S Disk Fren - 260 G El Fren Halatı Kısa Sol",
+      "productTitle": "İspirli Massey Ferguson 240 S Disk Fren - 260 G El Fren Halatı Kısa Sol",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": "Ürün görseldeki gibiydi satıcı ve kargo çok hızlıydı ",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

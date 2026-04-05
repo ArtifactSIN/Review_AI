@@ -1,0 +1,25 @@
+{
+  "runId": "review_run_2026-04-05T14-30-24-281Z",
+  "updatedAt": "2026-04-05T14:31:11.058Z",
+  "failedCount": 3,
+  "jobs": [
+    {
+      "categorySlug": "traktor",
+      "productId": "535156040",
+      "error": "page.goto: Target page, context or browser has been closed\nCall log:\n\u001b[2m  - navigating to \"https://www.n11.com/product-reviews/535156040\", waiting until \"domcontentloaded\"\u001b[22m\n\n    at processReview (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:698:16)\n    at async worker (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:740:9)\n    at async runWorkers (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:754:3)\n    at async /mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:828:5",
+      "recordedAt": "2026-04-05T14:31:10.988Z"
+    },
+    {
+      "categorySlug": "traktor",
+      "productId": "732529152",
+      "error": "page.goto: Target page, context or browser has been closed\nCall log:\n\u001b[2m  - navigating to \"https://www.n11.com/product-reviews/732529152\", waiting until \"domcontentloaded\"\u001b[22m\n\n    at processReview (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:698:16)\n    at async worker (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:740:9)\n    at async runWorkers (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:754:3)\n    at async /mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:828:5",
+      "recordedAt": "2026-04-05T14:31:11.015Z"
+    },
+    {
+      "categorySlug": "traktor",
+      "productId": "559091643",
+      "error": "page.goto: Target page, context or browser has been closed\nCall log:\n\u001b[2m  - navigating to \"https://www.n11.com/product-reviews/559091643\", waiting until \"domcontentloaded\"\u001b[22m\n\n    at processReview (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:698:16)\n    at async worker (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:740:9)\n    at async runWorkers (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:754:3)\n    at async /mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:828:5",
+      "recordedAt": "2026-04-05T14:31:11.033Z"
+    }
+  ]
+}

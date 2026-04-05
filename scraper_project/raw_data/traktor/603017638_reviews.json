@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "603017638",
+  "collectedAt": "2026-04-05T14:45:21.845Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ford 3000 traktör için aldım gayet güzel",
+      "createDate": 1744746760173,
+      "createdDate": "15/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104181563,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "f*** A***",
+      "oldScore": 0,
+      "productId": 603017638,
+      "productSubTitle": "Ford 3000/5000 Traktör Arka Mafsallı Far ",
+      "productTitle": "Ford 3000/5000 Traktör Arka Mafsallı Far",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

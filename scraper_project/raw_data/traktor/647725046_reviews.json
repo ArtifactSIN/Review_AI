@@ -1,0 +1,80 @@
+{
+  "categorySlug": "traktor",
+  "productId": "647725046",
+  "collectedAt": "2026-04-05T14:34:49.414Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Balatalar güzel ve orjinal",
+      "createDate": 1765915555494,
+      "createdDate": "16/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105982791,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "T*** A***",
+      "oldScore": 0,
+      "productId": 647725046,
+      "productSubTitle": "Massey Ferguson 135-148-240 Fren Balatası Takımı Takımı Kale ",
+      "productTitle": "Massey Ferguson 135-148-240 Fren Balatası Takımı Takımı Kale",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DENİZLERTRAKTÖR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "siparişi bugün teslim aldım, hediye kalem için teşekkürler.",
+      "createDate": 1750857402427,
+      "createdDate": "25/06/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104693651,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ayhan Ayhan",
+      "oldScore": 0,
+      "productId": 647725046,
+      "productSubTitle": "Massey Ferguson 135-148-240 Fren Balatası Takımı Takımı Kale ",
+      "productTitle": "Massey Ferguson 135-148-240 Fren Balatası Takımı Takımı Kale",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DENİZLERTRAKTÖR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

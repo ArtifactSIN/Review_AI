@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "591993102",
+  "collectedAt": "2026-04-05T14:45:12.108Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ornjinal ürün. Paketleme mükemmel. Hediyesi için çok teşekkürler.",
+      "createDate": 1736453012265,
+      "createdDate": "09/01/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103353401,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "h*** g***",
+      "oldScore": 0,
+      "productId": 591993102,
+      "productSubTitle": "Hattat 240 S Hava Filitresi İç -dış Takım ",
+      "productTitle": "Hattat 240 S Hava Filitresi İç -dış Takım",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "categorySlug": "traktor",
+  "productId": "504018860",
+  "collectedAt": "2026-04-05T14:46:03.893Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün anlatıldığı gibi",
+      "createDate": 1700385582055,
+      "createdDate": "19/11/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096637828,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/11/19/72/60/83/18/08/05/16/29/79/63519978223525710327.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/23/11/19/72/60/83/18/08/05/16/29/79/63519978223525710327.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 504018860,
+      "productSubTitle": "Massey Ferguson 240 S Ön Teker Poryasi",
+      "productTitle": "Massey Ferguson 240 S Ön Teker Poryasi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 2738908,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/11/19/72/60/83/18/08/05/16/29/79/63519978223525710327.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/11/19/72/60/83/18/08/05/16/29/79/63519978223525710327.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/11/19/72/60/83/18/08/05/16/29/79/63519978223525710327.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

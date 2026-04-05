@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "648654846",
+  "collectedAt": "2026-04-05T14:34:16.273Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kaliteli bir urun tam uyum sagladi 135 massey ferguson icin",
+      "createDate": 1774712714755,
+      "createdDate": "28/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106690805,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774712714755,
+      "maskedBuyerName": "OSMAN HAŞİM CAN",
+      "oldScore": 0,
+      "productId": 648654846,
+      "productSubTitle": "Ölçüsan 4249632 - Mazot Depo Göstergesi - Fiat İle Uyumlu",
+      "productTitle": "Ölçüsan 4249632 - Mazot Depo Göstergesi - Fiat İle Uyumlu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "PerenTraktörParça",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

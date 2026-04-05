@@ -1,0 +1,149 @@
+{
+  "categorySlug": "traktor",
+  "productId": "555337542",
+  "collectedAt": "2026-04-05T14:47:50.897Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 4,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "idare eder",
+      "createDate": 1738787720072,
+      "createdDate": "05/02/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103592309,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 555337542,
+      "productSubTitle": "TRAKTÖR TAKIM SANDIĞI (TURUNCU)",
+      "productTitle": "TRAKTÖR TAKIM SANDIĞI (TURUNCU)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AYASTİCARET",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün iş görür lakin boyası iyi değil hemen çıkacak gibi duruyor",
+      "createDate": 1732396907497,
+      "createdDate": "24/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5102632435,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** S***",
+      "oldScore": 0,
+      "productId": 555337542,
+      "productSubTitle": "TRAKTÖR TAKIM SANDIĞI (TURUNCU)",
+      "productTitle": "TRAKTÖR TAKIM SANDIĞI (TURUNCU)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "AYASTİCARET",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "iyi satııcıı teşekkürler",
+      "createDate": 1728893330757,
+      "createdDate": "14/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5101863275,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "HASAN HUSEYİN ŞAHİNGÖZ",
+      "oldScore": 0,
+      "productId": 555337542,
+      "productSubTitle": "TRAKTÖR TAKIM SANDIĞI (TURUNCU)",
+      "productTitle": "TRAKTÖR TAKIM SANDIĞI (TURUNCU)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AYASTİCARET",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "tam istedigim bi urun",
+      "createDate": 1711768940971,
+      "createdDate": "30/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5098872123,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/30/89/23/87/77/46/45/94/29/09/48647476404405976791.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/03/30/89/23/87/77/46/45/94/29/09/48647476404405976791.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** A***",
+      "oldScore": 0,
+      "productId": 555337542,
+      "productSubTitle": "TRAKTÖR TAKIM SANDIĞI (TURUNCU)",
+      "productTitle": "TRAKTÖR TAKIM SANDIĞI (TURUNCU)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 4288694,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/30/89/23/87/77/46/45/94/29/09/48647476404405976791.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AYASTİCARET",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/30/89/23/87/77/46/45/94/29/09/48647476404405976791.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/30/89/23/87/77/46/45/94/29/09/48647476404405976791.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 4
+  }
+}

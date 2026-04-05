@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "495126784",
+  "collectedAt": "2026-04-05T14:44:01.702Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ufacık ürün geldi çok şirin soru cevapta 40-15 gelicek demişler başka bi müşteriye bana 30-15 geldi sanırım ölçmedim",
+      "createDate": 1635241478162,
+      "createdDate": "26/10/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5087241459,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Enbiya Talha ÖZTÜRK",
+      "oldScore": 0,
+      "productId": 495126784,
+      "productSubTitle": "Massey Ferguson Takim Kutusu Tüm Modeller",
+      "productTitle": "Massey Ferguson Takim Kutusu Tüm Modeller",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

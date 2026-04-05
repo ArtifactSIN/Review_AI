@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "517482612",
+  "collectedAt": "2026-04-05T14:46:07.275Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "1 yilda yiprandi",
+      "createDate": 1732446153747,
+      "createdDate": "24/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102637335,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** T***",
+      "oldScore": 0,
+      "productId": 517482612,
+      "productSubTitle": "Massey Ferguson 285 S Kabinli Tip Kaborta Brandası",
+      "productTitle": "Massey Ferguson 285 S Kabinli Tip Kaborta Brandası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

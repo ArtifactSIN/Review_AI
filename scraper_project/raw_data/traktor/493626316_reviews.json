@@ -1,0 +1,110 @@
+{
+  "categorySlug": "traktor",
+  "productId": "493626316",
+  "collectedAt": "2026-04-05T14:44:00.058Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Güzel",
+      "createDate": 1773909204626,
+      "createdDate": "19/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106617807,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773909204626,
+      "maskedBuyerName": "ömer soykan",
+      "oldScore": 0,
+      "productId": 493626316,
+      "productSubTitle": "Massey Ferguson 4-Lü Flaşör Anahtri",
+      "productTitle": "Massey Ferguson 4-Lü Flaşör Anahtri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ürün memnun kaldım herkesin emeğine saglik",
+      "createDate": 1687465620256,
+      "createdDate": "22/06/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094220324,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** K***",
+      "oldScore": 0,
+      "productId": 493626316,
+      "productSubTitle": "Massey Ferguson 4-Lü Flaşör Anahtri",
+      "productTitle": "Massey Ferguson 4-Lü Flaşör Anahtri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "İyi",
+      "createDate": 1686308493195,
+      "createdDate": "09/06/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094032282,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ö*** s***",
+      "oldScore": 0,
+      "productId": 493626316,
+      "productSubTitle": "Massey Ferguson 4-Lü Flaşör Anahtri",
+      "productTitle": "Massey Ferguson 4-Lü Flaşör Anahtri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

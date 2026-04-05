@@ -1,0 +1,80 @@
+{
+  "categorySlug": "traktor",
+  "productId": "509289807",
+  "collectedAt": "2026-04-05T14:44:44.685Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "iş görür kaliteli 135 Massey",
+      "createDate": 1761835517018,
+      "createdDate": "30/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105553271,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "cemil uslu",
+      "oldScore": 0,
+      "productId": 509289807,
+      "productSubTitle": "Massey Ferguson 135/148/165/175 Pal Kontak Komple",
+      "productTitle": "Massey Ferguson 135/148/165/175 Pal Kontak Komple",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "mf 135 e tam oldu",
+      "createDate": 1684006042924,
+      "createdDate": "13/05/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5093663024,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** b*** k***",
+      "oldScore": 0,
+      "productId": 509289807,
+      "productSubTitle": "Massey Ferguson 135/148/165/175 Pal Kontak Komple",
+      "productTitle": "Massey Ferguson 135/148/165/175 Pal Kontak Komple",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

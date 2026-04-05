@@ -1,0 +1,110 @@
+{
+  "categorySlug": "traktor",
+  "productId": "604142073",
+  "collectedAt": "2026-04-05T14:44:32.557Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "yedek olsun diye almıştım. orijinal Hattat marka. resimdekinin aynısı geldi",
+      "createDate": 1767810722097,
+      "createdDate": "07/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106158592,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "u*** k***",
+      "oldScore": 0,
+      "productId": 604142073,
+      "productSubTitle": "Massey Ferguson 135/148/240 S /255 T Filitre Seti Hattat ",
+      "productTitle": "Massey Ferguson 135/148/240 S /255 T Filitre Seti Hattat",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Motorun yag saati geldi degiştik motor çalisiyor",
+      "createDate": 1757022915272,
+      "createdDate": "05/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105159316,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "-*** -***",
+      "oldScore": 0,
+      "productId": 604142073,
+      "productSubTitle": "Massey Ferguson 135/148/240 S /255 T Filitre Seti Hattat ",
+      "productTitle": "Massey Ferguson 135/148/240 S /255 T Filitre Seti Hattat",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "sorunsuz",
+      "createDate": 1720760095756,
+      "createdDate": "12/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100531321,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Mehmet ersoy",
+      "oldScore": 0,
+      "productId": 604142073,
+      "productSubTitle": "Massey Ferguson 135/148/240 S /255 T Filitre Seti Hattat ",
+      "productTitle": "Massey Ferguson 135/148/240 S /255 T Filitre Seti Hattat",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

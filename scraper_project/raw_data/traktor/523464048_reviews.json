@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "523464048",
+  "collectedAt": "2026-04-05T14:44:01.885Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok kaliteli güzel ürün herkese tavsiye ederim",
+      "createDate": 1723007439172,
+      "createdDate": "07/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100863408,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Mustafa Paşa",
+      "oldScore": 0,
+      "productId": 523464048,
+      "productSubTitle": "Ford 3000 - 5000 Kaput Mandali Krom",
+      "productTitle": "Ford 3000 - 5000 Kaput Mandali Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "akcaticaret",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "categorySlug": "traktor",
+  "productId": "574881229",
+  "collectedAt": "2026-04-05T14:34:50.528Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "hasarlı paket",
+      "createDate": 1747172430787,
+      "createdDate": "14/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104407270,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Sabri Yağız",
+      "oldScore": 0,
+      "productId": 574881229,
+      "productSubTitle": "Fiat Newholland Traktör Çamurluk Plastik Paçaliği Paçalik Sağ - Sol",
+      "productTitle": "Fiat Newholland Traktör Çamurluk Plastik Paçaliği Paçalik Sağ - Sol",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "KARAGÖZOTOMOTİV",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "teşekkürler",
+      "createDate": 1696100311335,
+      "createdDate": "30/09/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5095549910,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Kadir Cetni",
+      "oldScore": 0,
+      "productId": 574881229,
+      "productSubTitle": "Fiat Newholland Traktör Çamurluk Plastik Paçaliği Paçalik Sağ - Sol",
+      "productTitle": "Fiat Newholland Traktör Çamurluk Plastik Paçaliği Paçalik Sağ - Sol",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KARAGÖZOTOMOTİV",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Orijinal parçaya serviste iki katı para vermeye gerek yok bu parçanın bi reflektör kısmını beğenmedim fazla parlamıyor onun harici yeterli bi ürün güzel...",
+      "createDate": 1658212916144,
+      "createdDate": "19/07/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 2,
+      "id": 5090011416,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** A***",
+      "oldScore": 0,
+      "productId": 513057342,
+      "productSubTitle": "TÜM MODELLERE UYUMLUDUR",
+      "productTitle": "Fiat Newholland Traktör Çamurluk Plastik Paçaliği Paçalik Sağ - Sol",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "OtoMirza55",
+      "title": "Beğendim ben",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

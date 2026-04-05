@@ -1,0 +1,119 @@
+{
+  "categorySlug": "traktor",
+  "productId": "538885163",
+  "collectedAt": "2026-04-05T14:33:03.625Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Görsel olarak güzel",
+      "createDate": 1714113728186,
+      "createdDate": "26/04/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099311320,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "b*** y***",
+      "oldScore": 0,
+      "productId": 538885163,
+      "productSubTitle": "Fiat Traktör 450-480-540-640 Ön Panjur Bakaliti Armali",
+      "productTitle": "Fiat Traktör 450-480-540-640 Ön Panjur Bakaliti Armali",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KARAGÖZOTOMOTİV",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Fotoğraflarda neyse o hiçbir sıkıntı yaşamadım güzel ürün 👍",
+      "createDate": 1674826351456,
+      "createdDate": "27/01/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5092036712,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 538885163,
+      "productSubTitle": "Fiat Traktör 450-480-540-640 Ön Panjur Bakaliti Armali",
+      "productTitle": "Fiat Traktör 450-480-540-640 Ön Panjur Bakaliti Armali",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KARAGÖZOTOMOTİV",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün tam da söylendiği gibi kaliteli ve birebir istediğim şekilde geldi. Traktöre sorunsuz bir şekilde montajını gerçekleştirdim.",
+      "createDate": 1672255146304,
+      "createdDate": "28/12/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5091514378,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/12/28/86/12/61/09/89/40/47/73/63/07323032634393054962.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/22/12/28/86/12/61/09/89/40/47/73/63/07323032634393054962.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 538885163,
+      "productSubTitle": "Fiat Traktör 450-480-540-640 Ön Panjur Bakaliti Armali",
+      "productTitle": "Fiat Traktör 450-480-540-640 Ön Panjur Bakaliti Armali",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 1437709,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/12/28/86/12/61/09/89/40/47/73/63/07323032634393054962.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KARAGÖZOTOMOTİV",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/12/28/86/12/61/09/89/40/47/73/63/07323032634393054962.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/12/28/86/12/61/09/89/40/47/73/63/07323032634393054962.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

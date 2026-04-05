@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "589941239",
+  "collectedAt": "2026-04-05T14:45:25.143Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kaliteli ürün",
+      "createDate": 1753125122939,
+      "createdDate": "21/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104873838,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** u***",
+      "oldScore": 0,
+      "productId": 589941239,
+      "productSubTitle": "Hattat 295 Kaborta Brandası Lüks Tip Kabinli ",
+      "productTitle": "Hattat 295 Kaborta Brandası Lüks Tip Kabinli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

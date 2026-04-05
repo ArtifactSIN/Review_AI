@@ -1,0 +1,26 @@
+{
+  "runId": "review_run_2026-04-05T14-32-50-231Z",
+  "startedAt": "2026-04-05T14:32:50.231Z",
+  "finishedAt": "2026-04-05T14:48:42.330Z",
+  "totalJobsQueued": 978,
+  "completed": 973,
+  "skippedExisting": 0,
+  "failed": 5,
+  "partialSaved": 0,
+  "resumedFromPartial": 0,
+  "zeroReviewProducts": 732,
+  "totalReviewsCollected": 577,
+  "activeWorkers": 0,
+  "filters": {
+    "categories": [
+      "traktor"
+    ],
+    "products": null,
+    "concurrency": 6,
+    "failedOnly": false,
+    "failedFile": null,
+    "resumeRun": "review_run_2026-04-05T14-30-24-281Z"
+  },
+  "failedJobsFile": "/mnt/c/Developer/Review_AI/scraper_project/logs/review_run_2026-04-05T14-32-50-231Z_failed_jobs.json",
+  "logFile": "/mnt/c/Developer/Review_AI/scraper_project/logs/review_run_2026-04-05T14-32-50-231Z.log"
+}

@@ -1,0 +1,110 @@
+{
+  "categorySlug": "traktor",
+  "productId": "566217709",
+  "collectedAt": "2026-04-05T14:34:31.331Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "tavsiye ederim",
+      "createDate": 1760811230794,
+      "createdDate": "18/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105453919,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 566217709,
+      "productSubTitle": "Snc Traktör Kuyruk Mili Frezesi Erkek Yerli",
+      "productTitle": "snc Traktör Kuyruk Mili Frezesi Erkek Yerli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SANCIOĞLUHIRDAVAT",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "hızlı kargo. iletişimden memnun kaldım",
+      "createDate": 1722204929162,
+      "createdDate": "29/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100725544,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ayhan Akkuş",
+      "oldScore": 0,
+      "productId": 566217709,
+      "productSubTitle": "Snc Traktör Kuyruk Mili Frezesi Erkek Yerli",
+      "productTitle": "snc Traktör Kuyruk Mili Frezesi Erkek Yerli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SANCIOĞLUHIRDAVAT",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ÜRÜN GÜZEL, MEMNUN KALDIM",
+      "createDate": 1689399168673,
+      "createdDate": "15/07/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094481616,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ERKAN ER",
+      "oldScore": 0,
+      "productId": 566217709,
+      "productSubTitle": "Snc Traktör Kuyruk Mili Frezesi Erkek Yerli",
+      "productTitle": "snc Traktör Kuyruk Mili Frezesi Erkek Yerli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "SANCIOĞLUHIRDAVAT",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

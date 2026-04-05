@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "507634131",
+  "collectedAt": "2026-04-05T14:46:48.925Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Henüz takmadım ama sitede yazan ürünün aynısı geldi. satıcı ilgisi için teşekkür.",
+      "createDate": 1732733126865,
+      "createdDate": "27/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102698444,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "B*** S***",
+      "oldScore": 0,
+      "productId": 507634131,
+      "productSubTitle": "Massey Ferguson 260 G-3060 Hidrolik Yan Çeki Kolu",
+      "productTitle": "Massey Ferguson 260 G-3060 Hidrolik Yan Çeki Kolu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

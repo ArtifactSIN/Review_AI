@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "568352826",
+  "collectedAt": "2026-04-05T14:34:16.921Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Hızlı ve düzenli istediğim gibi geldi",
+      "createDate": 1744352910660,
+      "createdDate": "11/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104143712,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 568352826,
+      "productSubTitle": "Steyr Mazot Depo Kapağı 1885566 ",
+      "productTitle": "Steyr Mazot Depo Kapağı 1885566",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "parçasanayi",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

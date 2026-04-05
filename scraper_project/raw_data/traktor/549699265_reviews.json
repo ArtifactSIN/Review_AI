@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "549699265",
+  "collectedAt": "2026-04-05T14:45:27.995Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün güzel satıcı da kargo da hızlıydı",
+      "createDate": 1723817967985,
+      "createdDate": "16/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101003852,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** D***",
+      "oldScore": 0,
+      "productId": 549699265,
+      "productSubTitle": "Ispirli Hattat 285 S Yan Yazi Takimi 549699265",
+      "productTitle": "Ispirli Hattat 285 S Yan Yazi Takimi 549699265",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

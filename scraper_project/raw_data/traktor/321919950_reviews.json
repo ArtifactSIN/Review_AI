@@ -1,0 +1,80 @@
+{
+  "categorySlug": "traktor",
+  "productId": "321919950",
+  "collectedAt": "2026-04-05T14:33:30.039Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün aynı kargolama hızlı gönderilen hediyeler için ayrıca teşekkürler hayırlı işler",
+      "createDate": 1699119787086,
+      "createdDate": "04/11/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5096364557,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 321919950,
+      "productSubTitle": "Pilot Traktör Koltuk Traktör Koltuğu Pilot Koltuk",
+      "productTitle": "Pilot Traktör Koltuk Traktör Koltuğu Pilot Koltuk",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SAYINTİCARETBURDUR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Evet istediğim gibiydi neyse o geldi",
+      "createDate": 1588618973847,
+      "createdDate": "04/05/2020",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5078388359,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 321919950,
+      "productSubTitle": "Pilot Traktör Koltuk Traktör Koltuğu Pilot Koltuk",
+      "productTitle": "Pilot Traktör Koltuk Traktör Koltuğu Pilot Koltuk",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SAYINTİCARETBURDUR",
+      "title": "Çok iyi",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

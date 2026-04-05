@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "477900930",
+  "collectedAt": "2026-04-05T14:34:01.050Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Uzun süredir arıyordum, fiyat gerçekten uygun ve doğru ürünü gönderdiğiniz için teşekkürler",
+      "createDate": 1633366302483,
+      "createdDate": "04/10/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5086928910,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "tanju büyük",
+      "oldScore": 0,
+      "productId": 477900930,
+      "productSubTitle": "Ford Traktör 3000-3600-5000-6600-6610 Marş Motoru Dinamo",
+      "productTitle": "Ford Traktör 3000-3600-5000-6600-6610 Marş Motoru Dinamo",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "akcaticaret",
+      "title": "teşekkürler ",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

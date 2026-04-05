@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "546668802",
+  "collectedAt": "2026-04-05T14:44:45.608Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "İkinci kez aldım ürün gayet kaliteli",
+      "createDate": 1720993936312,
+      "createdDate": "15/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100562878,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** Y***",
+      "oldScore": 0,
+      "productId": 546668802,
+      "productSubTitle": "Tümosan 6055 / 6065 Kabinli Tip Kaborta Brandası",
+      "productTitle": "Tümosan 6055 / 6065 Kabinli Tip Kaborta Brandası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "categorySlug": "traktor",
+  "productId": "496546168",
+  "collectedAt": "2026-04-05T14:44:17.294Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "teşekkürler",
+      "createDate": 1723353898557,
+      "createdDate": "11/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100920402,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "D*** K***",
+      "oldScore": 0,
+      "productId": 496546168,
+      "productSubTitle": "Massey Ferguson Cav Tip Mazot Filtresi",
+      "productTitle": "Massey Ferguson Cav Tip Mazot Filtresi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürün üzerinde marka yazmıyor. ama hızlı kargolama.",
+      "createDate": 1675523998986,
+      "createdDate": "04/02/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5092152680,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "FERHAT UYDURAN",
+      "oldScore": 0,
+      "productId": 496546168,
+      "productSubTitle": "Massey Ferguson Cav Tip Mazot Filtresi",
+      "productTitle": "Massey Ferguson Cav Tip Mazot Filtresi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "güzel fiyatına göre",
+      "createDate": 1648494074222,
+      "createdDate": "28/03/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5089162464,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Mustafa Kılıç",
+      "oldScore": 0,
+      "productId": 496546168,
+      "productSubTitle": "Massey Ferguson Cav Tip Mazot Filtresi",
+      "productTitle": "Massey Ferguson Cav Tip Mazot Filtresi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": "güzel",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

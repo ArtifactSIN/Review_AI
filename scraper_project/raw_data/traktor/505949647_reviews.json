@@ -1,0 +1,110 @@
+{
+  "categorySlug": "traktor",
+  "productId": "505949647",
+  "collectedAt": "2026-04-05T14:44:26.006Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "alinir5",
+      "createDate": 1726112173840,
+      "createdDate": "12/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101384052,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** A***",
+      "oldScore": 0,
+      "productId": 505949647,
+      "productSubTitle": "Massey Ferguson 240 S / 285 Radyatör  Kapğı",
+      "productTitle": "Massey Ferguson 240 S / 285 Radyatör  Kapğı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "urunu hemen kargoladılar",
+      "createDate": 1709053525624,
+      "createdDate": "27/02/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098255531,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "h*** n***",
+      "oldScore": 0,
+      "productId": 505949647,
+      "productSubTitle": "Massey Ferguson 240 S / 285 Radyatör  Kapğı",
+      "productTitle": "Massey Ferguson 240 S / 285 Radyatör  Kapğı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "285s ye denemedim inşallah olur.",
+      "createDate": 1686307029498,
+      "createdDate": "09/06/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094024290,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "F*** Ş***",
+      "oldScore": 0,
+      "productId": 505949647,
+      "productSubTitle": "Massey Ferguson 240 S / 285 Radyatör  Kapğı",
+      "productTitle": "Massey Ferguson 240 S / 285 Radyatör  Kapğı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

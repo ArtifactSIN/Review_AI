@@ -1,0 +1,80 @@
+{
+  "categorySlug": "traktor",
+  "productId": "539989489",
+  "collectedAt": "2026-04-05T14:33:58.898Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "mükemmel",
+      "createDate": 1734118252447,
+      "createdDate": "13/12/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102984554,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "İ*** K***",
+      "oldScore": 0,
+      "productId": 539989489,
+      "productSubTitle": "Massey Ferguson 240 S Efsane/ 260 G Direksiyon Orta Kapak",
+      "productTitle": "Massey Ferguson 240 S Efsane/ 260 G Direksiyon Orta Kapak",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Kargom 2 günde geldi hemen. Güzel paketleme yapmışlar, ürün çok kaliteli ve güzel güvenilir bir site güvenebilirsiniz.",
+      "createDate": 1719506271301,
+      "createdDate": "27/06/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100333900,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Halil Eren Kaya",
+      "oldScore": 0,
+      "productId": 539989489,
+      "productSubTitle": "Massey Ferguson 240 S Efsane/ 260 G Direksiyon Orta Kapak",
+      "productTitle": "Massey Ferguson 240 S Efsane/ 260 G Direksiyon Orta Kapak",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

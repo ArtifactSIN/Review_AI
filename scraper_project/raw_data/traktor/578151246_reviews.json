@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "578151246",
+  "collectedAt": "2026-04-05T14:45:24.116Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün için teşekkürler Tek eksiği keşke 2. Fotoğraftaki yerlerde de sabitleme lastiği olsaydı",
+      "createDate": 1691595180462,
+      "createdDate": "09/08/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094837465,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** C***",
+      "oldScore": 0,
+      "productId": 578151246,
+      "productSubTitle": "Hattat 280 G Kaborta Brandası",
+      "productTitle": "Hattat 280 G Kaborta Brandası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

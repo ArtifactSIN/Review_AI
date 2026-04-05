@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "647550460",
+  "collectedAt": "2026-04-05T14:34:44.384Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün kaliteli güzel memnum kaldım aracıma taktım tavsiye ederim.",
+      "createDate": 1771994305434,
+      "createdDate": "25/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106477028,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "Ziya Karagöz",
+      "oldScore": 0,
+      "productId": 647550460,
+      "productSubTitle": "Massey Ferguson 266 Gold Sağdan Egzoz Kabinli Lüx Brandası ",
+      "productTitle": "Massey Ferguson 266 Gold Sağdan Egzoz Kabinli Lüx Brandası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DENİZLERTRAKTÖR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

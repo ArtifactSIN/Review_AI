@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "604919933",
+  "collectedAt": "2026-04-05T14:34:55.543Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürünler birebir aynı tavsiye ederim",
+      "createDate": 1743076366628,
+      "createdDate": "27/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104019248,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 604919933,
+      "productSubTitle": "Tümosan Yağ Bakım  Seti",
+      "productTitle": "Tümosan Yağ Bakım  Seti",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "erbilotomotiv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "categorySlug": "traktor",
+  "productId": "494237385",
+  "collectedAt": "2026-04-05T14:45:07.102Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün elime ulaştı takmadım daha sağlam gözüküyor zamanlama harika ayrıca burdan da yurt içi kargoya teşekkürlerimi sunuyorum",
+      "createDate": 1737655364736,
+      "createdDate": "23/01/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103477185,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** ö***",
+      "oldScore": 0,
+      "productId": 494237385,
+      "productSubTitle": "Massey Ferguson 240 S Hararet  Saati",
+      "productTitle": "Massey Ferguson 240 S Hararet  Saati",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürün sorunsuz ulasti. henuz kullanmadim ama sorunsuz calisacagina eminim",
+      "createDate": 1713798239111,
+      "createdDate": "22/04/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099236734,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/22/61/80/82/67/66/72/07/95/71/76335630295840408091.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/04/22/61/80/82/67/66/72/07/95/71/76335630295840408091.png",
+        "https://n11scdn.akamaized.net/a1/{0}/24/04/22/58/42/28/75/14/80/64/60/38/43752500958684991321.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Memduh Kula",
+      "oldScore": 0,
+      "productId": 494237385,
+      "productSubTitle": "Massey Ferguson 240 S Hararet  Saati",
+      "productTitle": "Massey Ferguson 240 S Hararet  Saati",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 4482365,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/22/61/80/82/67/66/72/07/95/71/76335630295840408091.png"
+        },
+        {
+          "id": 4482366,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/22/58/42/28/75/14/80/64/60/38/43752500958684991321.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/22/61/80/82/67/66/72/07/95/71/76335630295840408091.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/22/61/80/82/67/66/72/07/95/71/76335630295840408091.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

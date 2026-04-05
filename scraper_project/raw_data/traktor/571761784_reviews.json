@@ -1,0 +1,59 @@
+{
+  "categorySlug": "traktor",
+  "productId": "571761784",
+  "collectedAt": "2026-04-05T14:46:40.244Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "cabuk kargo eldi isimizede yaradi guvenerek alabilirsiniz",
+      "createDate": 1708519676860,
+      "createdDate": "21/02/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098145446,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/21/73/74/75/07/38/23/92/16/17/85008229250808302074.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/02/21/73/74/75/07/38/23/92/16/17/85008229250808302074.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** h***",
+      "oldScore": 0,
+      "productId": 571761784,
+      "productSubTitle": "NEWHOLLAND TÜM MODELLER  SPREY KABORTA BOYASI MAVİ ",
+      "productTitle": "NEWHOLLAND TÜM MODELLER  SPREY KABORTA BOYASI MAVİ",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 3949419,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/21/73/74/75/07/38/23/92/16/17/85008229250808302074.png"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/21/73/74/75/07/38/23/92/16/17/85008229250808302074.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/21/73/74/75/07/38/23/92/16/17/85008229250808302074.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

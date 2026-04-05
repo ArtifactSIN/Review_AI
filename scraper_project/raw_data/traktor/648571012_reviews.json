@@ -1,0 +1,64 @@
+{
+  "categorySlug": "traktor",
+  "productId": "648571012",
+  "collectedAt": "2026-04-05T14:45:16.129Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün tam istediğim gibi sağlam 29 cm uzunluğu var sanırım bir adet daha sipariş vereceğim. Mağazanın küçük hediyesi için ayrıca teşekkür ederim",
+      "createDate": 1770203554627,
+      "createdDate": "04/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106331342,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/04/90/27/34/13/99/90/88/88/45/35897132915347114271.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/02/04/90/27/34/13/99/90/88/88/45/35897132915347114271.jpg",
+        "https://n11scdn.akamaized.net/a1/{0}/26/02/04/78/90/00/14/67/22/18/27/66/1780829442488186713.jpg"
+      ],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "H*** K***",
+      "oldScore": 0,
+      "productId": 648571012,
+      "productSubTitle": "Peren Traktör 825663m1+825663u - Koyu Kırmızı Küçük Takım Kutusu ",
+      "productTitle": "Peren Traktör 825663m1+825663u - Koyu Kırmızı Küçük Takım Kutusu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8314541,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/04/90/27/34/13/99/90/88/88/45/35897132915347114271.jpg"
+        },
+        {
+          "id": 8314542,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/04/78/90/00/14/67/22/18/27/66/1780829442488186713.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "PerenTraktörParça",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/04/90/27/34/13/99/90/88/88/45/35897132915347114271.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/04/90/27/34/13/99/90/88/88/45/35897132915347114271.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "traktor",
+  "productId": "564645697",
+  "collectedAt": "2026-04-05T14:35:02.916Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "mf 135 tam uyuyor..",
+      "createDate": 1684006022432,
+      "createdDate": "13/05/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5093659428,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** b*** k***",
+      "oldScore": 0,
+      "productId": 564645697,
+      "productSubTitle": "Massey Ferguson 135 Kilometre Saati",
+      "productTitle": "Massey Ferguson 135 Kilometre Saati",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KARAGÖZOTOMOTİV",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "öncelikle ürünü çok beğendim kargoda hızlı geldi 2 günde birde kargonun yaninda hediyeler göndermiş satıcı çok teşekkür ederim",
+      "createDate": 1663311874871,
+      "createdDate": "16/09/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5090417762,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Eren Eryılmaz Eryılmaz",
+      "oldScore": 0,
+      "productId": 521815478,
+      "productSubTitle": "Massey Ferguson 135 Kilometre Saati",
+      "productTitle": "Massey Ferguson 135 Kilometre Saati",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": "mf 135-148 km saati\nmf135-148 km saati",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "502785626",
+  "collectedAt": "2026-04-05T14:46:27.543Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel, sağlam, kalın diş bir orta kol",
+      "createDate": 1730723581501,
+      "createdDate": "04/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102201347,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** O*** D***",
+      "oldScore": 0,
+      "productId": 502785626,
+      "productSubTitle": "Massey Ferguson 266 G Orta Kol Kalın Diş",
+      "productTitle": "Massey Ferguson 266 G Orta Kol Kalın Diş",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

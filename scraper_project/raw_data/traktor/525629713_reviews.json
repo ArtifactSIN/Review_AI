@@ -1,0 +1,110 @@
+{
+  "categorySlug": "traktor",
+  "productId": "525629713",
+  "collectedAt": "2026-04-05T14:44:21.504Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "guzel begendik",
+      "createDate": 1719736609650,
+      "createdDate": "30/06/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100377308,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "f*** y***",
+      "oldScore": 0,
+      "productId": 525629713,
+      "productSubTitle": "Massey Ferguson 265 S Yan Yazi Takimi",
+      "productTitle": "Massey Ferguson 265 S Yan Yazi Takimi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "sorunsuz",
+      "createDate": 1716150462842,
+      "createdDate": "19/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099734219,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** İ***",
+      "oldScore": 0,
+      "productId": 525629713,
+      "productSubTitle": "Massey Ferguson 265 S Yan Yazi Takimi",
+      "productTitle": "Massey Ferguson 265 S Yan Yazi Takimi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürün gerçekten güzel ve orijinal gibi yazılar yeni tip kaliteli duruyor tam takım halde geldi teşekkür ediyoruz",
+      "createDate": 1694719054844,
+      "createdDate": "14/09/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5095318974,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "h*** y***",
+      "oldScore": 0,
+      "productId": 525629713,
+      "productSubTitle": "Massey Ferguson 265 S Yan Yazi Takimi",
+      "productTitle": "Massey Ferguson 265 S Yan Yazi Takimi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

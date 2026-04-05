@@ -1,0 +1,89 @@
+{
+  "categorySlug": "traktor",
+  "productId": "569660120",
+  "collectedAt": "2026-04-05T14:34:26.921Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün kalitesi güzel",
+      "createDate": 1729985352248,
+      "createdDate": "27/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5102084844,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/27/90/90/47/41/21/82/89/34/22/54885219893611810074.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/10/27/90/90/47/41/21/82/89/34/22/54885219893611810074.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 569660120,
+      "productSubTitle": "GÖSTERGE TABLOSU BOŞ ÜÇLÜ (YENİ MODEL)",
+      "productTitle": "GÖSTERGE TABLOSU BOŞ ÜÇLÜ (YENİ MODEL)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6030892,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/27/90/90/47/41/21/82/89/34/22/54885219893611810074.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KARAGÖZOTOMOTİV",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/27/90/90/47/41/21/82/89/34/22/54885219893611810074.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/27/90/90/47/41/21/82/89/34/22/54885219893611810074.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "gayet güzel",
+      "createDate": 1710490138659,
+      "createdDate": "15/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5098548169,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "T*** K*** A***",
+      "oldScore": 0,
+      "productId": 569660120,
+      "productSubTitle": "GÖSTERGE TABLOSU BOŞ ÜÇLÜ (YENİ MODEL)",
+      "productTitle": "GÖSTERGE TABLOSU BOŞ ÜÇLÜ (YENİ MODEL)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "KARAGÖZOTOMOTİV",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

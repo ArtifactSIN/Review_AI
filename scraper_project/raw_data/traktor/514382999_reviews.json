@@ -1,0 +1,80 @@
+{
+  "categorySlug": "traktor",
+  "productId": "514382999",
+  "collectedAt": "2026-04-05T14:45:08.538Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "tsklr",
+      "createDate": 1721999059542,
+      "createdDate": "26/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100693894,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 514382999,
+      "productSubTitle": "İspirli Massey Ferguson 240 S Disk Fren - 260 G El Fren Halatı Uzun Sağ",
+      "productTitle": "İspirli Massey Ferguson 240 S Disk Fren - 260 G El Fren Halatı Uzun Sağ",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Paketleme güzeldi Hediye için teşekkürler",
+      "createDate": 1647882958077,
+      "createdDate": "21/03/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5089099516,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Mikail Yumuş",
+      "oldScore": 0,
+      "productId": 514382999,
+      "productSubTitle": "İspirli Massey Ferguson 240 S Disk Fren - 260 G El Fren Halatı Uzun Sağ",
+      "productTitle": "İspirli Massey Ferguson 240 S Disk Fren - 260 G El Fren Halatı Uzun Sağ",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": "Ürün görseldeki gibiydi satıcı ve kargo çok hızlıydı ",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

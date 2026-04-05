@@ -1,0 +1,110 @@
+{
+  "categorySlug": "traktor",
+  "productId": "507107869",
+  "collectedAt": "2026-04-05T14:44:02.087Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Fiyatına göre iyi. Çokta kalın değil. Traktörün marka model bıldırırsenız tam uyumlu gelır",
+      "createDate": 1747917479860,
+      "createdDate": "22/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104482164,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 507107869,
+      "productSubTitle": "Massey Ferguson 240 S Kamuflaf Tip Kaborta Brandası",
+      "productTitle": "Massey Ferguson 240 S Kamuflaf Tip Kaborta Brandası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün güzel.",
+      "createDate": 1731340641772,
+      "createdDate": "11/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102379766,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "T*** U***",
+      "oldScore": 0,
+      "productId": 507107869,
+      "productSubTitle": "Massey Ferguson 240 S Kamuflaf Tip Kaborta Brandası",
+      "productTitle": "Massey Ferguson 240 S Kamuflaf Tip Kaborta Brandası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "kısa geldi niye oldu anlamadık ama taktık 3 cm daha uzun olsa hiç sıkıntı yoktu ama kalitesi güzel",
+      "createDate": 1678122212880,
+      "createdDate": "06/03/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5092552605,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ö*** d***",
+      "oldScore": 0,
+      "productId": 507107869,
+      "productSubTitle": "Massey Ferguson 240 S Kamuflaf Tip Kaborta Brandası",
+      "productTitle": "Massey Ferguson 240 S Kamuflaf Tip Kaborta Brandası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "categorySlug": "traktor",
+  "productId": "546378757",
+  "collectedAt": "2026-04-05T14:45:03.677Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "urun yerine tıpatıp oturdu ama fabrikadan gelenle biraz hamur farki var kullanip göreceğim",
+      "createDate": 1739524569785,
+      "createdDate": "14/02/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103673310,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "T*** E*** A***",
+      "oldScore": 0,
+      "productId": 546378757,
+      "productSubTitle": "Massey Ferguson 285 / 276 Kabin Içi Paspas Takımı",
+      "productTitle": "Massey Ferguson 285 / 276 Kabin Içi Paspas Takımı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "güzel bir ürün göründüğünden güzel bir ürün kesinleikle tavsiye ederim",
+      "createDate": 1675332296266,
+      "createdDate": "02/02/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5092122202,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/02/02/78/41/66/92/76/29/32/70/60/37376202333534372564.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/23/02/02/78/41/66/92/76/29/32/70/60/37376202333534372564.png",
+        "https://n11scdn.akamaized.net/a1/{0}/23/02/02/61/58/98/55/09/00/84/54/25/87223404089015187307.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "B*** A*** Y***",
+      "oldScore": 0,
+      "productId": 546378757,
+      "productSubTitle": "Massey Ferguson 285 / 276 Kabin Içi Paspas Takımı",
+      "productTitle": "Massey Ferguson 285 / 276 Kabin Içi Paspas Takımı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 1563608,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/02/02/78/41/66/92/76/29/32/70/60/37376202333534372564.png"
+        },
+        {
+          "id": 1563609,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/02/02/61/58/98/55/09/00/84/54/25/87223404089015187307.png"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/02/02/78/41/66/92/76/29/32/70/60/37376202333534372564.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/02/02/78/41/66/92/76/29/32/70/60/37376202333534372564.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

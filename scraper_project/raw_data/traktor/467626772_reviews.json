@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "467626772",
+  "collectedAt": "2026-04-05T14:34:46.988Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün güzel satıcı ilgileniyor",
+      "createDate": 1681769891020,
+      "createdDate": "18/04/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5093277175,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "F*** C***",
+      "oldScore": 0,
+      "productId": 467626772,
+      "productSubTitle": "1909130-5113297-Zp 597-Cs 1489 H Hidrolik  Filtresi",
+      "productTitle": "1909130-5113297-Zp 597-Cs 1489 H Hidrolik  Filtresi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "erbilotomotiv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "categorySlug": "traktor",
+  "productId": "569605181",
+  "collectedAt": "2026-04-05T14:34:27.592Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok teşekkür ederim",
+      "createDate": 1728386609538,
+      "createdDate": "08/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101790927,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 569605181,
+      "productSubTitle": "SNC Zirai Yaylı Pim 8mm 50 Adet YERLİ",
+      "productTitle": "SNC Zirai Yaylı Pim 8mm 50 Adet YERLİ",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SANCIOĞLUHIRDAVAT",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ürün",
+      "createDate": 1720432098600,
+      "createdDate": "08/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100472644,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** D***",
+      "oldScore": 0,
+      "productId": 569605181,
+      "productSubTitle": "SNC Zirai Yaylı Pim 8mm 50 Adet YERLİ",
+      "productTitle": "SNC Zirai Yaylı Pim 8mm 50 Adet YERLİ",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SANCIOĞLUHIRDAVAT",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "urun kaliteli uygun fiyat n11 indirimi ile çok uyguna geldi tesekkurler n11",
+      "createDate": 1691393912243,
+      "createdDate": "07/08/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094811016,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 569605181,
+      "productSubTitle": "SNC Zirai Yaylı Pim 8mm 50 Adet YERLİ",
+      "productTitle": "SNC Zirai Yaylı Pim 8mm 50 Adet YERLİ",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SANCIOĞLUHIRDAVAT",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

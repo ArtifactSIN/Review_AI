@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "537285244",
+  "collectedAt": "2026-04-05T14:46:51.141Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "3085 traktörüm için aldim oldu ancak çok ince bir plastiği var boyle bir ürün yaparken neden bu kadar ince yapılıyor anlamış degilim. Sonucunda bu traktörün çamurluk plastiği ve tarlada is görecek her an kırılabilir. Fiyatının ürünü degil.",
+      "createDate": 1697299685445,
+      "createdDate": "14/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5095862850,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "d*** y***",
+      "oldScore": 0,
+      "productId": 537285244,
+      "productSubTitle": "Massey Ferguson 285-266-277-288 Arka Kabin Çamurluk Plastiği Sol",
+      "productTitle": "Massey Ferguson 285-266-277-288 Arka Kabin Çamurluk Plastiği Sol",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

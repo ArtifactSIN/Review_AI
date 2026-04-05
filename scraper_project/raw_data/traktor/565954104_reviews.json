@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "565954104",
+  "collectedAt": "2026-04-05T14:35:01.633Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Urun guzel fiyatina gore cok cok iyi tavsiye ederim",
+      "createDate": 1761666522140,
+      "createdDate": "28/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105528291,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ilhan karamukoğlu",
+      "oldScore": 0,
+      "productId": 565954104,
+      "productSubTitle": "snc Gürex X20 Kolçaksız Traktör Koltuk Yerli",
+      "productTitle": "snc Gürex X20 Kolçaksız Traktör Koltuk Yerli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SANCIOĞLUHIRDAVAT",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

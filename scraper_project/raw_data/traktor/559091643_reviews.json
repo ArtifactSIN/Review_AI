@@ -1,0 +1,59 @@
+{
+  "categorySlug": "traktor",
+  "productId": "559091643",
+  "collectedAt": "2026-04-05T14:32:56.309Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Fena değil! 10 üzerinden 6",
+      "createDate": 1762371109357,
+      "createdDate": "05/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105603631,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/05/59/66/63/41/15/10/15/57/69/15664633009742433478.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/11/05/59/66/63/41/15/10/15/57/69/15664633009742433478.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Bayram Akyüz",
+      "oldScore": 0,
+      "productId": 559091643,
+      "productSubTitle": "YSS Pa110 5Açılı Kolçaklı ileri Geri Kızak Ayarlı Traktör Koltuğu",
+      "productTitle": "YSS Pa110 5Açılı Kolçaklı ileri Geri Kızak Ayarlı Traktör Koltuğu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7921510,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/05/59/66/63/41/15/10/15/57/69/15664633009742433478.jpg"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "YSSTRAKTORKOLTUK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/05/59/66/63/41/15/10/15/57/69/15664633009742433478.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/05/59/66/63/41/15/10/15/57/69/15664633009742433478.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "traktor",
+  "productId": "502788157",
+  "collectedAt": "2026-04-05T14:44:37.168Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "240 s devir daim özal marka. traktörüme taktım iyi gibi yani. inşallah sonradan antifriz kaçırmaz.",
+      "createDate": 1658768912604,
+      "createdDate": "25/07/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5090053746,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 502788157,
+      "productSubTitle": "Massey Ferguson 240 S Komple  Devirdaim",
+      "productTitle": "Massey Ferguson 240 S Komple  Devirdaim",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": "240 s devir daim",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Bilerek ve isteyerek aldım. Kalitesine güveniyorum.",
+      "createDate": 1639325485866,
+      "createdDate": "12/12/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5087917732,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Fethi ERCAN",
+      "oldScore": 0,
+      "productId": 502788157,
+      "productSubTitle": "Massey Ferguson 240 S Komple  Devirdaim",
+      "productTitle": "Massey Ferguson 240 S Komple  Devirdaim",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": "DAHA ÖNCE KULLANANLARDAN BİLDİĞİM BİR ÜRÜN",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

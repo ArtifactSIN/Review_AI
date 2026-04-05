@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "569639143",
+  "collectedAt": "2026-04-05T14:45:38.766Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Kaliteli duruyor 4065 e uydu",
+      "createDate": 1716224080263,
+      "createdDate": "20/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099748714,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "c*** b***",
+      "oldScore": 0,
+      "productId": 569639143,
+      "productSubTitle": "DEUTZ FAHR 4050/4055/4065 KABORTA BRANDASI KABİNLİ ",
+      "productTitle": "DEUTZ FAHR 4050/4055/4065 KABORTA BRANDASI KABİNLİ",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

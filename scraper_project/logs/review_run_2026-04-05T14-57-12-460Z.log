@@ -1,0 +1,38 @@
+[2026-04-05T14:57:12.464Z] [INFO] [RUN] id=review_run_2026-04-05T14-57-12-460Z
+[2026-04-05T14:57:12.467Z] [INFO] [RUN] log file: /mnt/c/Developer/Review_AI/scraper_project/logs/review_run_2026-04-05T14-57-12-460Z.log
+[2026-04-05T14:57:12.469Z] [INFO] [RUN] summary file: /mnt/c/Developer/Review_AI/scraper_project/logs/review_run_2026-04-05T14-57-12-460Z_summary.json
+[2026-04-05T14:57:12.642Z] [INFO] [REVIEWS] loaded 5 review jobs from /mnt/c/Developer/Review_AI/scraper_project/product_ids
+[2026-04-05T14:57:12.644Z] [INFO] [REVIEWS] failed-only mode enabled
+[2026-04-05T14:57:12.646Z] [INFO] [REVIEWS] concurrency: 3
+[2026-04-05T14:57:12.651Z] [INFO] 
+[REVIEW WORKER 1] starting traktor/733845180
+[2026-04-05T14:57:12.656Z] [INFO] 
+[REVIEW WORKER 2] starting traktor/728192571
+[2026-04-05T14:57:12.661Z] [INFO] 
+[REVIEW WORKER 3] starting traktor/714886493
+[2026-04-05T14:57:16.232Z] [INFO] 
+[START REVIEW] category=traktor productId=714886493 startPage=1
+[2026-04-05T14:57:16.428Z] [INFO] 
+[START REVIEW] category=traktor productId=733845180 startPage=1
+[2026-04-05T14:57:16.448Z] [INFO] [review traktor/714886493] page=1 +0 reviews (unique=0)
+[2026-04-05T14:57:16.458Z] [INFO] [REVIEW SAVED] /mnt/c/Developer/Review_AI/scraper_project/raw_data/traktor/714886493_reviews.json
+[2026-04-05T14:57:16.480Z] [INFO] 
+[REVIEW WORKER 3] starting traktor/710332666
+[2026-04-05T14:57:16.634Z] [INFO] [review traktor/733845180] page=1 +0 reviews (unique=0)
+[2026-04-05T14:57:16.649Z] [INFO] [REVIEW SAVED] /mnt/c/Developer/Review_AI/scraper_project/raw_data/traktor/733845180_reviews.json
+[2026-04-05T14:57:16.660Z] [INFO] 
+[REVIEW WORKER 1] starting traktor/548766572
+[2026-04-05T14:57:16.759Z] [INFO] 
+[START REVIEW] category=traktor productId=728192571 startPage=1
+[2026-04-05T14:57:16.929Z] [INFO] [review traktor/728192571] page=1 +0 reviews (unique=0)
+[2026-04-05T14:57:16.937Z] [INFO] [REVIEW SAVED] /mnt/c/Developer/Review_AI/scraper_project/raw_data/traktor/728192571_reviews.json
+[2026-04-05T14:57:19.995Z] [INFO] 
+[START REVIEW] category=traktor productId=548766572 startPage=1
+[2026-04-05T14:57:20.215Z] [INFO] [review traktor/548766572] page=1 +0 reviews (unique=0)
+[2026-04-05T14:57:20.232Z] [INFO] [REVIEW SAVED] /mnt/c/Developer/Review_AI/scraper_project/raw_data/traktor/548766572_reviews.json
+[2026-04-05T14:57:20.683Z] [INFO] 
+[START REVIEW] category=traktor productId=710332666 startPage=1
+[2026-04-05T14:57:20.879Z] [INFO] [review traktor/710332666] page=1 +0 reviews (unique=0)
+[2026-04-05T14:57:20.887Z] [INFO] [REVIEW SAVED] /mnt/c/Developer/Review_AI/scraper_project/raw_data/traktor/710332666_reviews.json
+[2026-04-05T14:57:20.902Z] [INFO] 
+All review jobs finished.

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "traktor",
+  "productId": "569853693",
+  "collectedAt": "2026-04-05T14:47:35.856Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Sorunsuz geldi orjinal urunse bu fiyat uygun",
+      "createDate": 1707667119225,
+      "createdDate": "11/02/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5097970904,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "-*** -***",
+      "oldScore": 0,
+      "productId": 569853693,
+      "productSubTitle": "Filtre Kiti Set New Holland Tt Serisi",
+      "productTitle": "Filtre Kiti Set New Holland Tt Serisi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "BİLEKTARIMCILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "çok güzel filtreler teşekkür ederim bilen tarım",
+      "createDate": 1701087786976,
+      "createdDate": "27/11/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5096779189,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** Ş***",
+      "oldScore": 0,
+      "productId": 569853693,
+      "productSubTitle": "Filtre Kiti Set New Holland Tt Serisi",
+      "productTitle": "Filtre Kiti Set New Holland Tt Serisi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BİLEKTARIMCILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

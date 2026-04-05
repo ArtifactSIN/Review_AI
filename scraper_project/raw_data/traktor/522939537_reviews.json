@@ -1,0 +1,50 @@
+{
+  "categorySlug": "traktor",
+  "productId": "522939537",
+  "collectedAt": "2026-04-05T14:44:53.400Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün görseldeki gibi kaliteli",
+      "createDate": 1714801715101,
+      "createdDate": "04/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099451638,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 522939537,
+      "productSubTitle": "Massey Ferguson 265 / 285 Üst Emaye Eğri Uçlu Egzoz",
+      "productTitle": "Massey Ferguson 265 / 285 Üst Emaye Eğri Uçlu Egzoz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İSPİRLİ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}
