@@ -1,0 +1,119 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "701486597",
+  "collectedAt": "2026-04-07T14:48:55.660Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Görsele aldanıp kendimiz pamukla yaparız diye aldanmayın. Bu kutu paketli ıslak mendilleri daha janti yapmak için konulan bir kutu",
+      "createDate": 1762604232919,
+      "createdDate": "08/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105636276,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "D*** S***",
+      "oldScore": 0,
+      "productId": 701486597,
+      "productSubTitle": "Babyjem Islak Mendil Kutusu Turkuaz / Beyaz",
+      "productTitle": "Babyjem Islak Mendil Kutusu Turkuaz / Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "Babyjem",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "çok güzel bir ürün",
+      "createDate": 1719318719581,
+      "createdDate": "25/06/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100280826,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** K*** Ö***",
+      "oldScore": 0,
+      "productId": 603276744,
+      "productSubTitle": "Islak Mendil Kutusu Turkuaz / Beyaz 8005",
+      "productTitle": "Islak Mendil Kutusu Turkuaz / Beyaz 8005",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BebeMango",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ben pamuk için kullanıyorum. kaliteli..",
+      "createDate": 1711404557981,
+      "createdDate": "26/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098770530,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/26/88/46/58/56/64/43/46/59/00/86965930879395805576.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/03/26/88/46/58/56/64/43/46/59/00/86965930879395805576.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Z*** T***",
+      "oldScore": 0,
+      "productId": 590788955,
+      "productSubTitle": "Babyjem Islak Mendil Kutusu Turkuaz / Beyaz",
+      "productTitle": "Babyjem Islak Mendil Kutusu Turkuaz / Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 4238166,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/26/88/46/58/56/64/43/46/59/00/86965930879395805576.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HooYoBaby",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/26/88/46/58/56/64/43/46/59/00/86965930879395805576.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/26/88/46/58/56/64/43/46/59/00/86965930879395805576.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

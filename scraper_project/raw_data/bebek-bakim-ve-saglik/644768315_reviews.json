@@ -1,0 +1,59 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "644768315",
+  "collectedAt": "2026-04-07T14:49:26.521Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün göründüğü gibi çok güzel ve kullanışlı",
+      "createDate": 1745833557880,
+      "createdDate": "28/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104280660,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/28/66/58/39/29/78/12/35/84/17/73099306653475947024.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/04/28/66/58/39/29/78/12/35/84/17/73099306653475947024.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "K*** G***",
+      "oldScore": 0,
+      "productId": 644768315,
+      "productSubTitle": "Kinder Baby Merlin Anne Bebek Bakım Çantası Bej",
+      "productTitle": "Kinder Baby Merlin Anne Bebek Bakım Çantası Bej",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7149307,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/28/66/58/39/29/78/12/35/84/17/73099306653475947024.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MinimodaBebek",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/28/66/58/39/29/78/12/35/84/17/73099306653475947024.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/28/66/58/39/29/78/12/35/84/17/73099306653475947024.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

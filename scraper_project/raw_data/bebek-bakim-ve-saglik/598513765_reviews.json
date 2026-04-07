@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "598513765",
+  "collectedAt": "2026-04-07T14:47:19.175Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "güzel paketleme sorunsuz teslimat teşekkürler",
+      "createDate": 1557318174449,
+      "createdDate": "08/05/2019",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5071526805,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** G***",
+      "oldScore": 0,
+      "productId": 247160982,
+      "productSubTitle": "Avene Enfant Çocuk Güneş Spreyi Spf 50+ 200 ML",
+      "productTitle": "Avene Enfant Çocuk Güneş Spreyi Spf 50+ 200 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "PHARMASTORE",
+      "title": "teşekkürler",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "648262807",
+  "collectedAt": "2026-04-07T14:53:57.935Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürünü sadece gece lambası olarak kullanırsınız",
+      "createDate": 1750345794842,
+      "createdDate": "19/06/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104637139,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "yılmaz karadeniz",
+      "oldScore": 0,
+      "productId": 648262807,
+      "productSubTitle": "Ultrasonik Hava Nemlendirici Vintage Şarjlı Led Işıklı Buhar Makinesi Aroma Difüzör 280ml 001 Yeşil",
+      "productTitle": "Ultrasonik Hava Nemlendirici Vintage Şarjlı Led Işıklı Buhar Makinesi Aroma Difüzör 280ml 001",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "AYDINİLETİSİMveHİZ.",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "ürün kalitesi çok iyi ama şarj az gidiyor",
+      "createDate": 1741081814832,
+      "createdDate": "04/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103823027,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Cengiz Emre",
+      "oldScore": 0,
+      "productId": 653539152,
+      "productSubTitle": "Ultrasonik Hava Nemlendirici Vintage Şarjlı Led Işıklı Buhar Makinesi Aroma Difüzör 280ml 001 Beyaz",
+      "productTitle": "Ultrasonik Hava Nemlendirici Vintage Şarjlı Led Işıklı Buhar Makinesi Aroma Difüzör 280ml 001",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BFTEKNO",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

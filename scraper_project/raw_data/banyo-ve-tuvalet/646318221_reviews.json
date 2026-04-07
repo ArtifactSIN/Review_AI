@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "646318221",
+  "collectedAt": "2026-04-07T14:11:57.235Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ıs gorur",
+      "createDate": 1762934799284,
+      "createdDate": "12/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105634946,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** i***",
+      "oldScore": 0,
+      "productId": 646318221,
+      "productSubTitle": "Zambak Plastik Star Çiftli Gırgır Z151",
+      "productTitle": "Zambak Plastik Star Çiftli Gırgır Z151",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "Dogus_Mutfak",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "kaliteli ürün beğendim",
+      "createDate": 1755100744098,
+      "createdDate": "13/08/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105005343,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Samet Yıldırım",
+      "oldScore": 0,
+      "productId": 646318221,
+      "productSubTitle": "Zambak Plastik Star Çiftli Gırgır Z151",
+      "productTitle": "Zambak Plastik Star Çiftli Gırgır Z151",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Dogus_Mutfak",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

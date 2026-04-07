@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "646703041",
+  "collectedAt": "2026-04-07T14:48:55.622Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "sanırım problem bizde sesi duyamadık",
+      "createDate": 1744038154585,
+      "createdDate": "07/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104103580,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "F*** K***",
+      "oldScore": 0,
+      "productId": 646703041,
+      "productSubTitle": "Fetal Doppler Bebek Kalp Atış Hızı Dedektörü Ultrason Kalp Atışı Atışı Monitörü",
+      "productTitle": "Fetal Doppler Bebek Kalp Atış Hızı Dedektörü Ultrason Kalp Atışı Atışı Monitörü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "medikalnet",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

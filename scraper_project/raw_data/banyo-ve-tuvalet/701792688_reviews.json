@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "701792688",
+  "collectedAt": "2026-04-07T14:09:03.654Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "müthiş bir ürün",
+      "createDate": 1774599422203,
+      "createdDate": "27/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106672881,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774599422203,
+      "maskedBuyerName": "S*** E***",
+      "oldScore": 0,
+      "productId": 701792688,
+      "productSubTitle": "Bora Kral Kelebek Kese Kalın Sert Banyo Kesesi",
+      "productTitle": "Bora Kral Kelebek Kese Kalın Sert Banyo Kesesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HanımağaMedikal",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "çok memmun kaldım.teşekkürlür.",
+      "createDate": 1753955899913,
+      "createdDate": "31/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104930468,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "T*** E*** Ö*** H***",
+      "oldScore": 0,
+      "productId": 423664998,
+      "productSubTitle": "Bora Kral Kelebek Kese Kalın Sert Banyo Kesesi",
+      "productTitle": "Bora Kral Kelebek Kese Kalın Sert Banyo Kesesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BoraGiyimMedikal",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

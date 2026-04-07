@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "661021306",
+  "collectedAt": "2026-04-07T14:11:28.456Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "guzel",
+      "createDate": 1766895332675,
+      "createdDate": "28/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106078322,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** d***",
+      "oldScore": 0,
+      "productId": 661021306,
+      "productSubTitle": "Mustela Gentle Cleansing Gel Yenidoğan Şampuan 500 Ml PKT.MUSTELA.009 ",
+      "productTitle": "Mustela Gentle Cleansing Gel Yenidoğan Şampuan 500 Ml PKT.MUSTELA.009",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HappyCenter",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "kokusu çok güzel",
+      "createDate": 1766859567368,
+      "createdDate": "27/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106078652,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 661021306,
+      "productSubTitle": "Mustela Gentle Cleansing Gel Yenidoğan Şampuan 500 Ml PKT.MUSTELA.009 ",
+      "productTitle": "Mustela Gentle Cleansing Gel Yenidoğan Şampuan 500 Ml PKT.MUSTELA.009",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HappyCenter",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

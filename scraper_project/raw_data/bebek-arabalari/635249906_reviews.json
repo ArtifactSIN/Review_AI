@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "635249906",
+  "collectedAt": "2026-04-07T14:37:24.970Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "teşekkür ederim.",
+      "createDate": 1727722605497,
+      "createdDate": "30/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101678664,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750660347934,
+      "maskedBuyerName": "Y*** D***",
+      "oldScore": 0,
+      "productId": 635249906,
+      "productSubTitle": "Bebek Arabası Eşya Poşet Malzeme Taşıma Askısı 2 Adet- Al4535 Siyah ",
+      "productTitle": "Bebek Arabası Eşya Poşet Malzeme Taşıma Askısı 2 Adet- Al4535 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ELEKTROMAXX",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

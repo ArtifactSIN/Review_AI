@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "635271900",
+  "collectedAt": "2026-04-07T14:33:44.494Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "İyi",
+      "createDate": 1728549611857,
+      "createdDate": "10/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101823923,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "K*** N***",
+      "oldScore": 0,
+      "productId": 603815165,
+      "productSubTitle": "Chicco Goody Xplus Bebek Arabası Bronze Lızard Re Lux 06087040320000 Brown",
+      "productTitle": "Chicco Goody Xplus Bebek Arabası Bronze Lızard Re Lux 06087040320000",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Chicco",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Güzel",
+      "createDate": 1728549508162,
+      "createdDate": "10/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101828111,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "K*** N***",
+      "oldScore": 0,
+      "productId": 603815165,
+      "productSubTitle": "Chicco Goody Xplus Bebek Arabası Bronze Lızard Re Lux 06087040320000 Brown",
+      "productTitle": "Chicco Goody Xplus Bebek Arabası Bronze Lızard Re Lux 06087040320000",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Chicco",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

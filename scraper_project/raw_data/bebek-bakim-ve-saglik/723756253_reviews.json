@@ -1,0 +1,110 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "723756253",
+  "collectedAt": "2026-04-07T14:48:37.394Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Hızlı kargolama kaliteli ürün",
+      "createDate": 1767824530969,
+      "createdDate": "08/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106164648,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "M*** H***",
+      "oldScore": 0,
+      "productId": 723756253,
+      "productSubTitle": "Septomer Serum Fizyolojik 5ML X 20 Flakon Spt-772252",
+      "productTitle": "Septomer Serum Fizyolojik 5ML X 20 Flakon Spt-772252",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "bebekvesaglik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Numuneler için teşekkürler. Güzel paketleme zor açabildim",
+      "createDate": 1765043370439,
+      "createdDate": "06/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105902067,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Y*** Y***",
+      "oldScore": 0,
+      "productId": 723756253,
+      "productSubTitle": "Septomer Serum Fizyolojik 5ML X 20 Flakon Spt-772252",
+      "productTitle": "Septomer Serum Fizyolojik 5ML X 20 Flakon Spt-772252",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "bebekvesaglik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "güzel ürün saglam geldi",
+      "createDate": 1711292909147,
+      "createdDate": "24/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098723345,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "D*** y***",
+      "oldScore": 0,
+      "productId": 592838717,
+      "productSubTitle": "Septomer Serum Fizyolojik 5ML X 20 Flakon Spt-772252",
+      "productTitle": "Septomer Serum Fizyolojik 5ML X 20 Flakon Spt-772252",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ebebek",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "718534897",
+  "collectedAt": "2026-04-07T14:52:38.019Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "fena değil",
+      "createDate": 1728663755945,
+      "createdDate": "11/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101843088,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/11/63/54/40/78/29/16/62/01/48/76905154310957122010.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/10/11/63/54/40/78/29/16/62/01/48/76905154310957122010.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "O*** T***",
+      "oldScore": 0,
+      "productId": 430881781,
+      "productSubTitle": "Sebamed Çok Yönlü Koruyuculu SPF50 Bebek Güneş Spreyi 2 x 200 ML",
+      "productTitle": "Sebamed Çok Yönlü Koruyuculu SPF50 Bebek Güneş Spreyi 2 x 200 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 5898566,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/11/63/54/40/78/29/16/62/01/48/76905154310957122010.png"
+        }
+      ],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "HappyCenter",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/11/63/54/40/78/29/16/62/01/48/76905154310957122010.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/11/63/54/40/78/29/16/62/01/48/76905154310957122010.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "565448984",
+  "collectedAt": "2026-04-07T14:38:08.440Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Kalitesine ve büyüklüğüne bayıldım. Teşekkürler",
+      "createDate": 1714681951744,
+      "createdDate": "02/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099430701,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750662933286,
+      "maskedBuyerName": "Y*** A***",
+      "oldScore": 0,
+      "productId": 565448984,
+      "productSubTitle": "Renkli Gökkuşağı Fermuarlı Müslin Bezi Puset Örtüsü Beyaz ",
+      "productTitle": "Renkli Gökkuşağı Fermuarlı Müslin Bezi Puset Örtüsü Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

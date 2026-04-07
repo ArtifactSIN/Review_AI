@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "573559742",
+  "collectedAt": "2026-04-07T14:12:44.467Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Malzemesi uyduruk",
+      "createDate": 1692475817969,
+      "createdDate": "19/08/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094971417,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750664921716,
+      "maskedBuyerName": "İ*** A***",
+      "oldScore": 0,
+      "productId": 573559742,
+      "productSubTitle": "Sevimli Ayıcık Bebek Ve Çocuk İçin Banyo Siperlik Şapka Sarı ",
+      "productTitle": "Sevimli Ayıcık Bebek Ve Çocuk İçin Banyo Siperlik Şapka Sarı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "Varansa",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

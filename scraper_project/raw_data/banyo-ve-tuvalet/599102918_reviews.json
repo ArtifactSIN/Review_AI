@@ -1,0 +1,149 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "599102918",
+  "collectedAt": "2026-04-07T14:10:37.255Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 4,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ürün",
+      "createDate": 1765096254604,
+      "createdDate": "07/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105905330,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/07/47/45/76/98/12/74/67/21/51/65444435155760233282.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/12/07/47/45/76/98/12/74/67/21/51/65444435155760233282.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 684413851,
+      "productSubTitle": "Dalin Mango ve Portakal Kokulu Köpük Sabun 200 ML x 2",
+      "productTitle": "Dalin Mango ve Portakal Kokulu Köpük Sabun 200 ML x 2",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8080439,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/07/47/45/76/98/12/74/67/21/51/65444435155760233282.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/07/47/45/76/98/12/74/67/21/51/65444435155760233282.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/07/47/45/76/98/12/74/67/21/51/65444435155760233282.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel hızlı kargolandı teşekkürler",
+      "createDate": 1764425763676,
+      "createdDate": "29/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105831336,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 684413851,
+      "productSubTitle": "Dalin Mango ve Portakal Kokulu Köpük Sabun 200 ML x 2",
+      "productTitle": "Dalin Mango ve Portakal Kokulu Köpük Sabun 200 ML x 2",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Kaliteli bir ürün",
+      "createDate": 1726913711464,
+      "createdDate": "21/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101525675,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "B*** Ç***",
+      "oldScore": 0,
+      "productId": 533711410,
+      "productSubTitle": "Dalin Mango ve Portakal Kokulu Köpük Sabun 200 ML x 2",
+      "productTitle": "Dalin Mango ve Portakal Kokulu Köpük Sabun 200 ML x 2",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "FARMAUCUZ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "10 numara ürün. Korumalı vaziyette gönderen hasarsız ulaşmasını sağlayan mağazaya teşekkürler.",
+      "createDate": 1700578156017,
+      "createdDate": "21/11/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096671263,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** H***",
+      "oldScore": 0,
+      "productId": 585848919,
+      "productSubTitle": "Dalin Mango ve Portakal Kokulu Köpük Sabun 200 ML x 2",
+      "productTitle": "Dalin Mango ve Portakal Kokulu Köpük Sabun 200 ML x 2",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KırmızıBeyaz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 4
+  }
+}

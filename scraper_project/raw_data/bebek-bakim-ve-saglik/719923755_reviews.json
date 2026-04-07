@@ -1,0 +1,119 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "719923755",
+  "collectedAt": "2026-04-07T14:44:06.799Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "İhtiyaç halinde kulkanmak için almıştım, fazla kullanmadık ama ipek yumuşaklığında beğendim .",
+      "createDate": 1761127662198,
+      "createdDate": "22/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105473767,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 589514988,
+      "productSubTitle": "Utalk Kurtsan Pudra 100gr",
+      "productTitle": "Utalk Kurtsan Pudra 100gr",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "tavsiye üzerine aldım inşallah iyi gelecek",
+      "createDate": 1751977744379,
+      "createdDate": "08/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104778133,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "İ*** P***",
+      "oldScore": 0,
+      "productId": 589514988,
+      "productSubTitle": "Utalk Kurtsan Pudra 100gr",
+      "productTitle": "Utalk Kurtsan Pudra 100gr",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürünü antibakteriyal olarak sipariş verdim normal olandan yolladılar. Kargo yavaş",
+      "createDate": 1749756388666,
+      "createdDate": "12/06/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104600034,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/12/59/43/02/67/06/53/92/24/07/22304530873732449629.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/06/12/59/43/02/67/06/53/92/24/07/22304530873732449629.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** K***",
+      "oldScore": 0,
+      "productId": 589514988,
+      "productSubTitle": "Utalk Kurtsan Pudra 100gr",
+      "productTitle": "Utalk Kurtsan Pudra 100gr",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7323523,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/12/59/43/02/67/06/53/92/24/07/22304530873732449629.jpg"
+        }
+      ],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/12/59/43/02/67/06/53/92/24/07/22304530873732449629.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/12/59/43/02/67/06/53/92/24/07/22304530873732449629.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

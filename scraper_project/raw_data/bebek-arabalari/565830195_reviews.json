@@ -1,0 +1,89 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "565830195",
+  "collectedAt": "2026-04-07T14:37:56.620Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Yumuşak ve bebekler için oldukça rahat 👍🏻",
+      "createDate": 1725397082984,
+      "createdDate": "03/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101259722,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750658974480,
+      "maskedBuyerName": "D*** B***",
+      "oldScore": 0,
+      "productId": 565830195,
+      "productSubTitle": "Müslin Puset Anakucağı Minderi Beyaz ",
+      "productTitle": "Müslin Puset Anakucağı Minderi Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "fotoğrafta göründüüğünden daha kaliteli, çok beğendim çok güzel",
+      "createDate": 1724884858467,
+      "createdDate": "29/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101167248,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/29/60/75/81/37/92/66/20/93/80/36101635185385032731.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/08/29/60/75/81/37/92/66/20/93/80/36101635185385032731.png"
+      ],
+      "lastModifiedDate": 1750658974480,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 565830195,
+      "productSubTitle": "Müslin Puset Anakucağı Minderi Beyaz ",
+      "productTitle": "Müslin Puset Anakucağı Minderi Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 5518666,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/29/60/75/81/37/92/66/20/93/80/36101635185385032731.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/29/60/75/81/37/92/66/20/93/80/36101635185385032731.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/29/60/75/81/37/92/66/20/93/80/36101635185385032731.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

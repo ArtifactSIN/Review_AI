@@ -1,0 +1,128 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "723480660",
+  "collectedAt": "2026-04-07T14:45:45.104Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "teşekkürler",
+      "createDate": 1767769550317,
+      "createdDate": "07/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106162253,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/07/77/95/08/57/29/80/52/60/79/34893379254019246115.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/01/07/77/95/08/57/29/80/52/60/79/34893379254019246115.png"
+      ],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "n*** t***",
+      "oldScore": 0,
+      "productId": 723480660,
+      "productSubTitle": "Bepanthol Baby Pişik Önleyici Merhem 100 gr 2 Adet",
+      "productTitle": "Bepanthol Baby Pişik Önleyici Merhem 100 gr 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8228851,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/07/77/95/08/57/29/80/52/60/79/34893379254019246115.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "bebekvesaglik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/07/77/95/08/57/29/80/52/60/79/34893379254019246115.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/07/77/95/08/57/29/80/52/60/79/34893379254019246115.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "güzel",
+      "createDate": 1767694457332,
+      "createdDate": "06/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106150014,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/06/84/15/47/79/82/79/56/06/29/72775300960112362059.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/01/06/84/15/47/79/82/79/56/06/29/72775300960112362059.png"
+      ],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "c*** Ö***",
+      "oldScore": 0,
+      "productId": 723480660,
+      "productSubTitle": "Bepanthol Baby Pişik Önleyici Merhem 100 gr 2 Adet",
+      "productTitle": "Bepanthol Baby Pişik Önleyici Merhem 100 gr 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8217774,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/06/84/15/47/79/82/79/56/06/29/72775300960112362059.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "bebekvesaglik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/06/84/15/47/79/82/79/56/06/29/72775300960112362059.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/06/84/15/47/79/82/79/56/06/29/72775300960112362059.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürünler özensiz paketlenmişti. Aras kargoda özensiz olarak getirmişti kargoyu.",
+      "createDate": 1767441785056,
+      "createdDate": "03/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106132451,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "Osman BAHADIR",
+      "oldScore": 0,
+      "productId": 723480660,
+      "productSubTitle": "Bepanthol Baby Pişik Önleyici Merhem 100 gr 2 Adet",
+      "productTitle": "Bepanthol Baby Pişik Önleyici Merhem 100 gr 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "bebekvesaglik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

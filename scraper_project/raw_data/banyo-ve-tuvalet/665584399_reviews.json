@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "665584399",
+  "collectedAt": "2026-04-07T14:11:16.490Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "oğlum için ladik XXL olması bizim için çok iyi oldu. başka lagzimliklari kullanamadı.buna hemen bir günde alıştı",
+      "createDate": 1764143735855,
+      "createdDate": "26/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105798841,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "T*** Ö***",
+      "oldScore": 0,
+      "productId": 665584399,
+      "productSubTitle": "Dolu Nüve Potty 2in1 Lazımlık Bej",
+      "productTitle": "Dolu Nüve Potty 2in1 Lazımlık Bej",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HappyCenter",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürün çok düzgün geldi, dayanikli guzel bir urun. çok renkli, cok sesli olanlar cocuklari korkutabiliyor, bu sade. sifon sesini de kolayca kapatabiliyorum. özenli paketlenmisti",
+      "createDate": 1759738310928,
+      "createdDate": "06/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105364110,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** k***",
+      "oldScore": 0,
+      "productId": 678068141,
+      "productSubTitle": "Dolu Nüve Potty 2in1 Lazımlık Bej",
+      "productTitle": "Dolu Nüve Potty 2in1 Lazımlık Bej",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Hepeğitim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

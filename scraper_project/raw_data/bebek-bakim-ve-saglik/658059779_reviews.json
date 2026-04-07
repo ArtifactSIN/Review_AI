@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "658059779",
+  "collectedAt": "2026-04-07T14:51:43.971Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "harikaaaa cok guzel kargoladi",
+      "createDate": 1771110524828,
+      "createdDate": "15/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106409120,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 726129997,
+      "productSubTitle": "Johnson's Baby Baby Aloe Vera Jel Yağ 200 ML",
+      "productTitle": "Johnson's Baby Baby Aloe Vera Jel Yağ 200 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KenvueTürkiye",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

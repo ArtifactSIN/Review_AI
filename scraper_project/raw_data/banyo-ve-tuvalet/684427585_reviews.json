@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "684427585",
+  "collectedAt": "2026-04-07T14:09:08.693Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün dökülmüş kapağı iyi kapatılmamış",
+      "createDate": 1754664470261,
+      "createdDate": "08/08/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104980559,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** S***",
+      "oldScore": 0,
+      "productId": 684427585,
+      "productSubTitle": "Dalin Nem Ve Koruma Saç Vücut Şampuanı 700 ML x 2 Adet",
+      "productTitle": "Dalin Nem Ve Koruma Saç Vücut Şampuanı 700 ML x 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

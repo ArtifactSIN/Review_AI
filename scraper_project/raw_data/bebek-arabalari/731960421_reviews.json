@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "731960421",
+  "collectedAt": "2026-04-07T14:32:34.461Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "harika bir araba",
+      "createDate": 1731503337952,
+      "createdDate": "13/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102416895,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "B*** A***",
+      "oldScore": 0,
+      "productId": 611751833,
+      "productSubTitle": "Kanz X-Go Silver Travel Sistem Bebek Arabası Gri",
+      "productTitle": "Kanz X-Go Silver Travel Sistem Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Ayhancocuk",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürün anlatıldığı gibi, ürün fiyatı piyasaya göre gayet uygun,mağaza iletişimi çok iyi, kargolama çok hızlı, ürün orjinal, hiç düşünmeden sipariş verebilirsiniz.",
+      "createDate": 1620728586358,
+      "createdDate": "11/05/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5085394021,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "K*** Ö***",
+      "oldScore": 0,
+      "productId": 458523791,
+      "productSubTitle": "Kanz X-Go Silver Travel Bebek Arabası Gri",
+      "productTitle": "Kanz X-Go Silver Travel Sistem Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Çocukistan",
+      "title": "Başarılı",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

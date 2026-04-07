@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "564350704",
+  "collectedAt": "2026-04-07T14:12:42.838Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün güzel kaliteli",
+      "createDate": 1726523047024,
+      "createdDate": "17/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101450324,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** v***",
+      "oldScore": 0,
+      "productId": 564350704,
+      "productSubTitle": "Süngerli Çocuk Klozet Adaptörü Tuvalet Eğitici Alıştırıcı",
+      "productTitle": "Süngerli Çocuk Klozet Adaptörü Tuvalet Eğitici Alıştırıcı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "generalali",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel hızlı kargo",
+      "createDate": 1679313255042,
+      "createdDate": "20/03/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5092785671,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Emrah TUNCA",
+      "oldScore": 0,
+      "productId": 564350704,
+      "productSubTitle": "Süngerli Çocuk Klozet Adaptörü Tuvalet Eğitici Alıştırıcı",
+      "productTitle": "Süngerli Çocuk Klozet Adaptörü Tuvalet Eğitici Alıştırıcı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "generalali",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

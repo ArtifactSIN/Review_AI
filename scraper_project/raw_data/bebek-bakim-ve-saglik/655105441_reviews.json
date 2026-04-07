@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "655105441",
+  "collectedAt": "2026-04-07T14:47:07.399Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Harika ürün. Çok kullanışlı",
+      "createDate": 1767728669860,
+      "createdDate": "06/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106153388,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "H*** O***",
+      "oldScore": 0,
+      "productId": 655105441,
+      "productSubTitle": "Bepanthol Baby Pişik Kremi 100Gr",
+      "productTitle": "Bepanthol Baby Pişik Kremi 100Gr",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "dermoaktif",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "orijinal ve son kullanma tarihi 2 yıl sonrası bir ürün gönderildi. teşekkürler",
+      "createDate": 1764092575823,
+      "createdDate": "25/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105797467,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** k***",
+      "oldScore": 0,
+      "productId": 655105441,
+      "productSubTitle": "Bepanthol Baby Pişik Kremi 100Gr",
+      "productTitle": "Bepanthol Baby Pişik Kremi 100Gr",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "dermoaktif",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

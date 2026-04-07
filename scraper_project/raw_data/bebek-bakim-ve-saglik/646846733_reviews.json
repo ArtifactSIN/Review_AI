@@ -1,0 +1,149 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "646846733",
+  "collectedAt": "2026-04-07T14:42:53.215Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 4,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Hızlı kargo",
+      "createDate": 1767443763693,
+      "createdDate": "03/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106133016,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "E*** C*** K***",
+      "oldScore": 0,
+      "productId": 646846733,
+      "productSubTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "productTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Uygun fiyata aldik.",
+      "createDate": 1763749299968,
+      "createdDate": "21/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105756582,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/21/81/09/68/13/38/15/71/37/35/29037915589217304695.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/11/21/81/09/68/13/38/15/71/37/35/29037915589217304695.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** U***",
+      "oldScore": 0,
+      "productId": 646846733,
+      "productSubTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "productTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8003463,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/21/81/09/68/13/38/15/71/37/35/29037915589217304695.png"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/21/81/09/68/13/38/15/71/37/35/29037915589217304695.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/21/81/09/68/13/38/15/71/37/35/29037915589217304695.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün güzel",
+      "createDate": 1747435621929,
+      "createdDate": "17/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104433643,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "fatih kahraman",
+      "oldScore": 0,
+      "productId": 646846733,
+      "productSubTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "productTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "çok iyi ve uygun fiyatlı ürün",
+      "createDate": 1672005483443,
+      "createdDate": "26/12/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5091453036,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 556209082,
+      "productSubTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "productTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FarmaLogic",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 4
+  }
+}

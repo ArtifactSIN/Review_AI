@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "572878119",
+  "collectedAt": "2026-04-07T14:36:06.516Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "cok guzel ana kucağına taktim oldu ama buyuk arabalarada olur kucuk degil boyutu satici da cok hizli kargoladi",
+      "createDate": 1690711930563,
+      "createdDate": "30/07/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094707911,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750661628812,
+      "maskedBuyerName": "S*** H***",
+      "oldScore": 0,
+      "productId": 572878119,
+      "productSubTitle": "Siyah Bebek Arabası Sinekliği Tüm Bebek Arabalarına Uyumludur Siyah ",
+      "productTitle": "Siyah Bebek Arabası Sinekliği Tüm Bebek Arabalarına Uyumludur Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "YazarStore",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "çok kaliteli değil",
+      "createDate": 1690197713360,
+      "createdDate": "24/07/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094616359,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750661628812,
+      "maskedBuyerName": "A*** S***",
+      "oldScore": 0,
+      "productId": 572878119,
+      "productSubTitle": "Siyah Bebek Arabası Sinekliği Tüm Bebek Arabalarına Uyumludur Siyah ",
+      "productTitle": "Siyah Bebek Arabası Sinekliği Tüm Bebek Arabalarına Uyumludur Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "YazarStore",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

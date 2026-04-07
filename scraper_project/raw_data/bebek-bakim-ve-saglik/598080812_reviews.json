@@ -1,0 +1,110 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "598080812",
+  "collectedAt": "2026-04-07T14:49:42.124Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kokusu güzel beğendim",
+      "createDate": 1732662290295,
+      "createdDate": "27/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102680945,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** k***",
+      "oldScore": 0,
+      "productId": 598080812,
+      "productSubTitle": "INCIA %100 Doğal Bebek Çamaşır Sabunu Bitkisel Deterjan Kendinden Yumuşatıcılı Lavanta 750 ML",
+      "productTitle": "INCIA %100 Doğal Bebek Çamaşır Sabunu Bitkisel Deterjan Kendinden Yumuşatıcılı Lavanta 750 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "INCIA",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Çok sıvı formda (gereksiz pahalı)",
+      "createDate": 1731327600705,
+      "createdDate": "11/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102365683,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** Ö***",
+      "oldScore": 0,
+      "productId": 597290466,
+      "productSubTitle": "INCIA %100 Doğal Bebek Çamaşır Sabunu Bitkisel Deterjan Kendinden Yumuşatıcılı Lavanta 750 ML",
+      "productTitle": "INCIA %100 Doğal Bebek Çamaşır Sabunu Bitkisel Deterjan Kendinden Yumuşatıcılı Lavanta 750 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FarmaBrika",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Başarılı Mağaza, Hızlı Kargo, Güzel Ürün. Teşekkürler.",
+      "createDate": 1633005550498,
+      "createdDate": "30/09/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5086882111,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** M***",
+      "oldScore": 0,
+      "productId": 417187405,
+      "productSubTitle": "INCIA %100 Doğal Bebek Çamaşır Sabunu Bitkisel Deterjan Kendinden Yumuşatıcılı Lavanta 750 ML",
+      "productTitle": "INCIA %100 Doğal Bebek Çamaşır Sabunu Bitkisel Deterjan Kendinden Yumuşatıcılı Lavanta 750 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Sachane",
+      "title": "Güzel",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

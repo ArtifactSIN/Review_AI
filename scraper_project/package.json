@@ -17,7 +17,10 @@
     "failed_scrapes_4": "node collection_auto_rawData.js --failed-only --concurrency=4",
     "resume_help": "node -e \"console.log('Resume examples:\n- node collection_auto_rawData.js --resume-run=<runId>\n- node collection_auto_rawData.js --resume-run=<runId> --concurrency=4\n- node collection_auto_rawData.js --resume-run=<runId> --categories=mobilya\n- node collection_auto_rawData.js --resume-run=<runId> --products=734699208,734700038')\"",
     "failed_help": "node -e \"console.log('Failed-run examples:\n- node collection_auto_rawData.js --failed-only\n- node collection_auto_rawData.js --failed-only --concurrency=4\n- node collection_auto_rawData.js --failed-only --name=my-failed-run\n- node collection_auto_rawData.js --failed-only --failed-file=logs/failed_jobs_latest.json')\"",
-    "named_run_help": "node -e \"console.log('Named run examples:\n- node collection_auto_rawData.js --name=my-run\n- node collection_auto_rawData.js --name=my-run --categories=mobilya\n- node collection_auto_rawData.js --name=my-run --products=734699208,734700038\n- node collection_auto_rawData.js --name=my-run --categories=mobilya --concurrency=4')\""
+    "named_run_help": "node -e \"console.log('Named run examples:\n- node collection_auto_rawData.js --name=my-run\n- node collection_auto_rawData.js --name=my-run --categories=mobilya\n- node collection_auto_rawData.js --name=my-run --products=734699208,734700038\n- node collection_auto_rawData.js --name=my-run --categories=mobilya --concurrency=4')\"",
+    "scrape_arda": "node collection_auto_rawData.js --team=arda",
+    "scrape_tugce": "node collection_auto_rawData.js --team=tugce",
+    "scrape_havvagul": "node collection_auto_rawData.js --team=havvagul"
   },
   "keywords": [],
   "author": "",

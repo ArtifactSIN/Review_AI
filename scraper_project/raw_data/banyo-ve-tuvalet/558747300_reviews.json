@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "558747300",
+  "collectedAt": "2026-04-07T14:10:55.875Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Aras kargo selge şubesi gördüğüm en berbat ve beceriksiz kargo günlerce bebeğinizin yatağını beklettikten sonra firmaya geri göndermişler Gerekçe olarak eksik adres demişler. Komik olan ne biliyor musunuz bir gün önce aynı adresle aynı kargo bize farklı ürün getirdi 🤪 Trajikomik bir durum beceriksizliklerine kılıf arayan işini düzgün yapmayan insanlarla dolu bir şube.",
+      "createDate": 1684787698247,
+      "createdDate": "22/05/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5093790234,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750658933509,
+      "maskedBuyerName": "Serdar Güner",
+      "oldScore": 0,
+      "productId": 558747300,
+      "productSubTitle": "Bebek Banyo Şapkası Siperi Köpük Siperlik Pembe Çok Renkli ",
+      "productTitle": "Bebek Banyo Şapkası Siperi Köpük Siperlik Pembe Çok Renkli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "MatesStore",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

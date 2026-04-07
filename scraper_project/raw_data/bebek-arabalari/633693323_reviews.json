@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "633693323",
+  "collectedAt": "2026-04-07T14:40:42.562Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Ürün güzel orjinal kaliteli ama gri diye sipariş ettik siyah geldi bunun dışında sorun yok",
+      "createDate": 1766095260005,
+      "createdDate": "19/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106004282,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** k***",
+      "oldScore": 0,
+      "productId": 653974244,
+      "productSubTitle": "Maxi-Cosi Lara2 Essential Graphite Kabin Tipi Bebek Arabası Essential Graphite",
+      "productTitle": "Maxi-Cosi Lara2 Essential Graphite Kabin Tipi Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "uygunlarbebek",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "kaliteli ürün iyi fiyat hızlı teslimat",
+      "createDate": 1706477071029,
+      "createdDate": "29/01/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097801241,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** y***",
+      "oldScore": 0,
+      "productId": 583164617,
+      "productSubTitle": "Maxi-Cosi Lara2 Essential Graphite Kabin Tipi Bebek Arabası Essential Graphite",
+      "productTitle": "Maxi-Cosi Lara2 Essential Graphite Kabin Tipi Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "EmperorTeknoloji",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

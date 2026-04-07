@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "669863710",
+  "collectedAt": "2026-04-07T14:49:04.476Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "beğendim güzel ürün",
+      "createDate": 1774692203907,
+      "createdDate": "28/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106681541,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774692203907,
+      "maskedBuyerName": "A*** K***",
+      "oldScore": 0,
+      "productId": 669863710,
+      "productSubTitle": "Yeni Doğan Seti Mavi",
+      "productTitle": "Yeni Doğan Seti Mavi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "WeeBaby",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

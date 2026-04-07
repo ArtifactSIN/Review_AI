@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "661003684",
+  "collectedAt": "2026-04-07T14:51:07.646Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün çok güzel aylardır beklediğim bir ürün performansı da güzek lakin keşke içinde temizlemek için küçük bir fırça da olsaydı bir başka modelin var bunda da olmasını beklerdim",
+      "createDate": 1769176578512,
+      "createdDate": "23/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106261818,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "R*** K***",
+      "oldScore": 0,
+      "productId": 661003684,
+      "productSubTitle": "Babyhope H-031 - 5 Kademeli Elektrikli Bebek & Çocuk Burun Aspiratörü 0-12 Yaş Uyumlu Temizleme Cihazı Beyaz",
+      "productTitle": "Babyhope H-031 - 5 Kademeli Elektrikli Bebek & Çocuk Burun Aspiratörü 0-12 Yaş Uyumlu Temizleme Cihazı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Babyhope",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

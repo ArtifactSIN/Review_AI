@@ -1,0 +1,128 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "597605186",
+  "collectedAt": "2026-04-07T14:53:10.894Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Kokusu çok hoş",
+      "createDate": 1767554549732,
+      "createdDate": "04/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106139562,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "M*** B***",
+      "oldScore": 0,
+      "productId": 597605186,
+      "productSubTitle": "Bgt Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası 150Ml",
+      "productTitle": "Bgt Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası 150Ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "İyi",
+      "createDate": 1762602970639,
+      "createdDate": "08/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105635078,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/08/80/84/49/97/25/91/65/15/66/9387954764378386840.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/11/08/80/84/49/97/25/91/65/15/66/9387954764378386840.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** k***",
+      "oldScore": 0,
+      "productId": 597605186,
+      "productSubTitle": "Bgt Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası 150Ml",
+      "productTitle": "Bgt Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası 150Ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7938233,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/08/80/84/49/97/25/91/65/15/66/9387954764378386840.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/08/80/84/49/97/25/91/65/15/66/9387954764378386840.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/08/80/84/49/97/25/91/65/15/66/9387954764378386840.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Kızım için severek kullandığımız bir koku. Satıcıda sağlam bir şekilde patpata sarılı , kutuda yollamış.",
+      "createDate": 1709902887493,
+      "createdDate": "08/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098425148,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/08/84/54/72/02/03/67/41/97/80/14528411990265908847.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/03/08/84/54/72/02/03/67/41/97/80/14528411990265908847.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 597605186,
+      "productSubTitle": "Bgt Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası 150Ml",
+      "productTitle": "Bgt Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası 150Ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 4080110,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/08/84/54/72/02/03/67/41/97/80/14528411990265908847.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/08/84/54/72/02/03/67/41/97/80/14528411990265908847.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/08/84/54/72/02/03/67/41/97/80/14528411990265908847.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

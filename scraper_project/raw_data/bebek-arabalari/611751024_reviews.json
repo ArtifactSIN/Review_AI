@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "611751024",
+  "collectedAt": "2026-04-07T14:33:53.435Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "2 buçuk sene kullandık bi problem olmadı küçük bir arızası olmuştu firmaya götürdük halletiler ücretsiz sağolsunlar. Biraz bize ağır ve geniş geldi sadece.",
+      "createDate": 1770121873181,
+      "createdDate": "03/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106331156,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "S*** Ç***",
+      "oldScore": 0,
+      "productId": 611751024,
+      "productSubTitle": "Rose Mose 605 Canopy Çift Yönlü Travel Sistem Bebek Arabası Altın - Kahverengi",
+      "productTitle": "Rose Mose 605 Canopy Çift Yönlü Travel Sistem Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Ayhancocuk",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "658351801",
+  "collectedAt": "2026-04-07T14:48:38.296Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "hızlı ve sorunsuz geldi.",
+      "createDate": 1746201412178,
+      "createdDate": "02/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104322953,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "k*** k***",
+      "oldScore": 0,
+      "productId": 602056068,
+      "productSubTitle": "SEBAMED SUN Güneş Kremi 50+ SPF 75",
+      "productTitle": "SEBAMED SUN Güneş Kremi 50+ SPF 75",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "07AKDENİZKOZMETİK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "552764038",
+  "collectedAt": "2026-04-07T14:53:58.805Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Benim kargo evime gelmedi kargoya gitim siparişim geri gitti ne arama var ne de kargom ulaştı",
+      "createDate": 1683643150520,
+      "createdDate": "09/05/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5093584971,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Mustafa Ayzit",
+      "oldScore": 0,
+      "productId": 552764038,
+      "productSubTitle": "Buhar Aleti Kristali Mini",
+      "productTitle": "Buhar Aleti Kristali Mini",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "medikalnet",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "639857710",
+  "collectedAt": "2026-04-07T14:09:42.573Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "guzel ve özenli paketlenmiş beğendim",
+      "createDate": 1638366195008,
+      "createdDate": "01/12/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5087778026,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** S***",
+      "oldScore": 0,
+      "productId": 513517909,
+      "productSubTitle": "UNI-24472",
+      "productTitle": "Uni Baby Boyasız Bebek Şampuanı 3 x 700 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ebebek",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Evet ürün güzel paketlenerek gönderilmişti",
+      "createDate": 1636472923376,
+      "createdDate": "09/11/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5087427467,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "SÜMEYYE POLAT UÇKUN",
+      "oldScore": 0,
+      "productId": 513517909,
+      "productSubTitle": "UNI-24472",
+      "productTitle": "Uni Baby Boyasız Bebek Şampuanı 3 x 700 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ebebek",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Elinize saglik paketleme güzeldi.",
+      "createDate": 1541087210948,
+      "createdDate": "01/11/2018",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5068495329,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "-burhan -kürüm",
+      "oldScore": 0,
+      "productId": 309085447,
+      "productSubTitle": "Uni Baby Boyasız Bebek Şampuanı 3 x 700 ML",
+      "productTitle": "Uni Baby Boyasız Bebek Şampuanı 3 x 700 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "bazar58",
+      "title": "süper",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "693261805",
+  "collectedAt": "2026-04-07T14:51:06.175Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Urun güneş sütü ama gunes kremi yaziyor arkadaşlar n11 bunu düzeltmeliydi firmaya sorduğumda bunun kendilerinden kaynaklanmadığını söyledi çünkü gunes kremi sanip almayin",
+      "createDate": 1624468422659,
+      "createdDate": "23/06/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5085971062,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "hilal yıldırım",
+      "oldScore": 0,
+      "productId": 496262882,
+      "productSubTitle": "Sebamed Baby Sun Care Çok Yönlü Güneş Sütü SPF 50 100 ML",
+      "productTitle": "Sebamed Baby Sun Care Çok Yönlü Güneş Sütü SPF 50 100 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "Dirdavita",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

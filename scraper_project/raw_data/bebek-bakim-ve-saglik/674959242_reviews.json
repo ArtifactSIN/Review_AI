@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "674959242",
+  "collectedAt": "2026-04-07T14:45:08.247Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "urun cok guzel herkese tavsiye ederim",
+      "createDate": 1764420515007,
+      "createdDate": "29/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105835608,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** E*** A***",
+      "oldScore": 0,
+      "productId": 674959242,
+      "productSubTitle": "Sudocrem Pişik Kremi 250 gr x 2 Adet ",
+      "productTitle": "Sudocrem Pişik Kremi 250 gr x 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "OnurMarket",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

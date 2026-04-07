@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "737297038",
+  "collectedAt": "2026-04-07T14:54:48.837Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "paketleme güzeldi teşekkürler",
+      "createDate": 1620246288346,
+      "createdDate": "05/05/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5085299418,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Turan Kurtcuk",
+      "oldScore": 0,
+      "productId": 340406068,
+      "productSubTitle": "Nivea Baby Hassas Bebek Yağı 200 ML",
+      "productTitle": "Nivea Baby Hassas Bebek Yağı 200 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "PHARMASTORE",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

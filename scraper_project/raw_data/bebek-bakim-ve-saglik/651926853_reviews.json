@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "651926853",
+  "collectedAt": "2026-04-07T14:49:32.307Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "yanak ve bıyık çok iyi alıyor ama sakal yönünden midir bilmiyorum boyun kısmını çok iyi almıyor epey uğraşsam da kör bıçakla traş olmuşum gibi görüntü oluşuyor.",
+      "createDate": 1773584979904,
+      "createdDate": "15/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106588510,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773584979904,
+      "maskedBuyerName": "Necip Harmanci",
+      "oldScore": 0,
+      "productId": 651926853,
+      "productSubTitle": "VGR V-390 Sakal Kesme Makinesi Kablosuz ",
+      "productTitle": "VGR V-390 Sakal Kesme Makinesi Kablosuz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "DAHAUYGUNYOK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

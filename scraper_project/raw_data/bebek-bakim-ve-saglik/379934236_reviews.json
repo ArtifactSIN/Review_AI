@@ -1,0 +1,110 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "379934236",
+  "collectedAt": "2026-04-07T14:48:35.686Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "kullanışlı",
+      "createDate": 1696861822517,
+      "createdDate": "09/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5095685636,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 540232022,
+      "productSubTitle": "Bebeten Zarf Pudra 50 G",
+      "productTitle": "Bebeten Zarf Pudra 50 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "bebekvesaglik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Öncelikle, elimizde kalan boş pudra kutularını, pakette satın alıp doldurmak ekonomik açıdan fayda sağlıyor. Kokusu güzel, yumuşaklığı ideal.",
+      "createDate": 1643617574953,
+      "createdDate": "31/01/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5088564426,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ipek imirlioğlu",
+      "oldScore": 0,
+      "productId": 379934236,
+      "productSubTitle": "Bebeten Zarf Pudra 50 G",
+      "productTitle": "Bebeten Zarf Pudra 50 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "kozmekan",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "poşette olduğu için fiyatı uygun, refill olarak kullanıyorum",
+      "createDate": 1633956030829,
+      "createdDate": "11/10/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5087015219,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "D*** Ü***",
+      "oldScore": 0,
+      "productId": 329101472,
+      "productSubTitle": "Bebeten Zarf Pudra 50 G",
+      "productTitle": "Bebeten Zarf Pudra 50 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "HobiParfumeri",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

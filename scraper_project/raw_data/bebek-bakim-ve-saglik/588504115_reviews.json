@@ -1,0 +1,119 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "588504115",
+  "collectedAt": "2026-04-07T14:49:07.714Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "iyi",
+      "createDate": 1772631489167,
+      "createdDate": "04/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106518874,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "E*** İ***",
+      "oldScore": 0,
+      "productId": 588504115,
+      "productSubTitle": "Anchor Bebek Tırnak Makası 605 Çok Renkli",
+      "productTitle": "Anchor Bebek Tırnak Makası 605",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Farmasi/ısparta",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "çok güzel küçük hediye için teşekkür ederim çok nazik düşünce",
+      "createDate": 1763211426108,
+      "createdDate": "15/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105700331,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/15/86/24/80/11/22/48/74/29/24/3578109437712878695.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/11/15/86/24/80/11/22/48/74/29/24/3578109437712878695.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ö*** K***",
+      "oldScore": 0,
+      "productId": 588504115,
+      "productSubTitle": "Anchor Bebek Tırnak Makası 605 Çok Renkli",
+      "productTitle": "Anchor Bebek Tırnak Makası 605",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7976280,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/15/86/24/80/11/22/48/74/29/24/3578109437712878695.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Farmasi/ısparta",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/15/86/24/80/11/22/48/74/29/24/3578109437712878695.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/15/86/24/80/11/22/48/74/29/24/3578109437712878695.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Güzel",
+      "createDate": 1728716998885,
+      "createdDate": "12/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101862005,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "p*** k***",
+      "oldScore": 0,
+      "productId": 603105650,
+      "productSubTitle": "Anchor Bebek Tırnak Makası 605 Çok Renkli",
+      "productTitle": "Anchor Bebek Tırnak Makası 605",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ETP_Eticaret",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

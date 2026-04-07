@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "560945698",
+  "collectedAt": "2026-04-07T14:11:45.215Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Orjinal ürün",
+      "createDate": 1730703243356,
+      "createdDate": "04/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102234052,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** e***",
+      "oldScore": 0,
+      "productId": 560945698,
+      "productSubTitle": "Babysanft Çocuk Şampuanı 200 ml",
+      "productTitle": "Babysanft Çocuk Şampuanı 200 ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "E-GrossMarket",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

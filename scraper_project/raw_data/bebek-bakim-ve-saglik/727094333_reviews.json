@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "727094333",
+  "collectedAt": "2026-04-07T14:48:30.050Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Güvenilir satıcı",
+      "createDate": 1747052029226,
+      "createdDate": "12/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104390471,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** s***",
+      "oldScore": 0,
+      "productId": 628768347,
+      "productSubTitle": "Loobex ME-3140 Hava Nemlendirici Buhar Makinesi",
+      "productTitle": "Loobex ME-3140 Hava Nemlendirici Buhar Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "evimponcik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Sıkıntısız ulaştı. Üründe herhangi bir problem yok. Görevini yerine getiriyor.",
+      "createDate": 1728166886330,
+      "createdDate": "06/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101766956,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** B***",
+      "oldScore": 0,
+      "productId": 628768347,
+      "productSubTitle": "Loobex ME-3140 Hava Nemlendirici Buhar Makinesi",
+      "productTitle": "Loobex ME-3140 Hava Nemlendirici Buhar Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "evimponcik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

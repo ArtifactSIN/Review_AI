@@ -1,0 +1,89 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "568042741",
+  "collectedAt": "2026-04-07T14:44:52.642Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Gayet kaliteli ve güzel",
+      "createDate": 1763408799359,
+      "createdDate": "17/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105723221,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/17/50/09/95/78/34/40/61/89/09/93374271448333504329.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/11/17/50/09/95/78/34/40/61/89/09/93374271448333504329.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ş*** G***",
+      "oldScore": 0,
+      "productId": 568042741,
+      "productSubTitle": "İpek Bebek Temizleme Pamuğu 12 x 60'lı",
+      "productTitle": "İpek Bebek Temizleme Pamuğu 12 x 60'lı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7979449,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/17/50/09/95/78/34/40/61/89/09/93374271448333504329.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "kaytika",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/17/50/09/95/78/34/40/61/89/09/93374271448333504329.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/17/50/09/95/78/34/40/61/89/09/93374271448333504329.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün çok güzel yumuşak kaliteli",
+      "createDate": 1676651838523,
+      "createdDate": "17/02/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5092329904,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** k***",
+      "oldScore": 0,
+      "productId": 568042741,
+      "productSubTitle": "İpek Bebek Temizleme Pamuğu 12 x 60'lı",
+      "productTitle": "İpek Bebek Temizleme Pamuğu 12 x 60'lı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "kaytika",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "565449410",
+  "collectedAt": "2026-04-07T14:38:02.402Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "urunu begendik",
+      "createDate": 1690471875155,
+      "createdDate": "27/07/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094665560,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750656044099,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 565449410,
+      "productSubTitle": "Balon Müslin Bezi Puset Örtüsü Fermuarlı Çok Renkli ",
+      "productTitle": "Balon Müslin Bezi Puset Örtüsü Fermuarlı Çok Renkli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün gayet güzel pusete tam oldu ve hızlı kargo",
+      "createDate": 1685710995403,
+      "createdDate": "02/06/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5093945920,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750656044099,
+      "maskedBuyerName": "F*** B***",
+      "oldScore": 0,
+      "productId": 565449410,
+      "productSubTitle": "Balon Müslin Bezi Puset Örtüsü Fermuarlı Çok Renkli ",
+      "productTitle": "Balon Müslin Bezi Puset Örtüsü Fermuarlı Çok Renkli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

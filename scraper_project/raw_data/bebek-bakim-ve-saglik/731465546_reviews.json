@@ -1,0 +1,110 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "731465546",
+  "collectedAt": "2026-04-07T14:43:05.713Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Hiç beğenmedim, asla işini yapmıyor. Yorumlara inanıpta almıştım çok pişmanım bu kadar para verdiğime",
+      "createDate": 1721160754070,
+      "createdDate": "16/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100582968,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "N*** A***",
+      "oldScore": 0,
+      "productId": 605882743,
+      "productSubTitle": "Bblüv Trimö Pilli Tırnak Törpüsü Beyaz",
+      "productTitle": "Bblüv Trimö Pilli Tırnak Törpüsü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "n11",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": ".Aslında bu kadar parası yüksek olup daha iyi bir performans beklerdim maalesef o kadar güçlü değil Çok çabuk duruyor motoru güçlü değil",
+      "createDate": 1674286756730,
+      "createdDate": "21/01/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5091927146,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Serhat Tığlı",
+      "oldScore": 0,
+      "productId": 498561843,
+      "productSubTitle": "Bblüv Trimö Pilli Tırnak Törpüsü Beyaz",
+      "productTitle": "Bblüv Trimö Pilli Tırnak Törpüsü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "welcomebaby",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Bazı yorumlar kafamı karıştırmıştı, özellikle kısaltma değil ama düzeltme yapabiliyor şeklinde olanlar. Ben keserken makasa kaptırmaktan korktuğum bebeğimin tırnaklarını kısaltmak için almıştım, bugğn elime geçti, gelir gelmez denedim. 2 dakikada 10 parmak mis gibi kısaldı ve düzeltildi. Bu amaçla almak isteten herkese öneririm.",
+      "createDate": 1646927533268,
+      "createdDate": "10/03/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5089010702,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Serkan Gülkoparan",
+      "oldScore": 0,
+      "productId": 498561843,
+      "productSubTitle": "Bblüv Trimö Pilli Tırnak Törpüsü Beyaz",
+      "productTitle": "Bblüv Trimö Pilli Tırnak Törpüsü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "welcomebaby",
+      "title": "Tam beklediğim gibi",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

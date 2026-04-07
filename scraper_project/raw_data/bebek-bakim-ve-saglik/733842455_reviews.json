@@ -1,0 +1,89 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "733842455",
+  "collectedAt": "2026-04-07T14:41:51.843Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel",
+      "createDate": 1774956729230,
+      "createdDate": "31/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106704132,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/67/97/52/77/60/22/00/99/34/16400205191459717987.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/31/67/97/52/77/60/22/00/99/34/16400205191459717987.png"
+      ],
+      "lastModifiedDate": 1774956729230,
+      "maskedBuyerName": "E*** İ***",
+      "oldScore": 0,
+      "productId": 735857643,
+      "productSubTitle": "Nimo Bebekler İçin Elektrikli Burun Aspiratörü Çok Renkli",
+      "productTitle": "Nimo Bebekler İçin Elektrikli Burun Aspiratörü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8534397,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/67/97/52/77/60/22/00/99/34/16400205191459717987.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MediTune",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/67/97/52/77/60/22/00/99/34/16400205191459717987.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/67/97/52/77/60/22/00/99/34/16400205191459717987.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "muhteşem bir ürün hem 1 aylık bebeğim hem de 3 yaşında ki çocuğum için aldım çok memnun kaldım 3 yaşındaki çocuğum hiç burun temizletmezdi ama bununla kendi bile temizliyebiliyor çok hoşuna gitti",
+      "createDate": 1774267932434,
+      "createdDate": "23/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106627936,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774267932434,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 735857643,
+      "productSubTitle": "Nimo Bebekler İçin Elektrikli Burun Aspiratörü Çok Renkli",
+      "productTitle": "Nimo Bebekler İçin Elektrikli Burun Aspiratörü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MediTune",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

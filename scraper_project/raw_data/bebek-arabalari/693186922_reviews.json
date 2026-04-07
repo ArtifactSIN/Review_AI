@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "693186922",
+  "collectedAt": "2026-04-07T14:33:04.748Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Herkese bu güzel mağazayı tavsiye ediyorum",
+      "createDate": 1575306696991,
+      "createdDate": "02/12/2019",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5075207500,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Eymen Hicazi",
+      "oldScore": 0,
+      "productId": 321787360,
+      "productSubTitle": "Doona+ Oto Koltuğu & Bebek Arabası Royal Blue",
+      "productTitle": "Doona+ Oto Koltuğu & Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Ayhancocuk",
+      "title": "Mükemmel",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Tek hareketle katlanıp kullanabilirsiniz....",
+      "createDate": 1573746637393,
+      "createdDate": "14/11/2019",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5074727570,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** A***",
+      "oldScore": 0,
+      "productId": 321787360,
+      "productSubTitle": "Doona+ Oto Koltuğu & Bebek Arabası Royal Blue",
+      "productTitle": "Doona+ Oto Koltuğu & Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Ayhancocuk",
+      "title": "Kullanışlı Ürün ",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

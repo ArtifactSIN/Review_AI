@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "699396985",
+  "collectedAt": "2026-04-07T14:47:11.772Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok güzel",
+      "createDate": 1773757048447,
+      "createdDate": "17/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106597534,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773757048447,
+      "maskedBuyerName": "E*** A***",
+      "oldScore": 0,
+      "productId": 699396985,
+      "productSubTitle": "Bebek Burun Yıkama Şırıngası 4'lü Nazal Aspiratör Şırınga Temizleme Aparatı Çok Renkli",
+      "productTitle": "Bebek Burun Yıkama Şırıngası 4'lü Nazal Aspiratör Şırınga Temizleme Aparatı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AuraVital",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

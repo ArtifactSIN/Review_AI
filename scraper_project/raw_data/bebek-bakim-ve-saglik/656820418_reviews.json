@@ -1,0 +1,149 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "656820418",
+  "collectedAt": "2026-04-07T14:50:49.500Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 4,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün kullandıkça göreceğiz",
+      "createDate": 1753593967193,
+      "createdDate": "27/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104913415,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "B*** T*** Ç***",
+      "oldScore": 0,
+      "productId": 656820418,
+      "productSubTitle": "Bebsi Silikon Burun Aspiratörü Turuncu",
+      "productTitle": "Bebsi Silikon Burun Aspiratörü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "binbirçeşitürün",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "güzel",
+      "createDate": 1731665586994,
+      "createdDate": "15/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102462844,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/15/61/11/82/09/16/89/17/27/32/72315784416247593407.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/11/15/61/11/82/09/16/89/17/27/32/72315784416247593407.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "z*** ö***",
+      "oldScore": 0,
+      "productId": 562271708,
+      "productSubTitle": "Bebsi Silikon Burun Aspiratörü Turuncu",
+      "productTitle": "Bebsi Silikon Burun Aspiratörü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6242404,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/15/61/11/82/09/16/89/17/27/32/72315784416247593407.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BurdaBebekShop",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/15/61/11/82/09/16/89/17/27/32/72315784416247593407.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/15/61/11/82/09/16/89/17/27/32/72315784416247593407.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "güzel",
+      "createDate": 1729938593835,
+      "createdDate": "26/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102070436,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Y*** A***",
+      "oldScore": 0,
+      "productId": 562271708,
+      "productSubTitle": "Bebsi Silikon Burun Aspiratörü Turuncu",
+      "productTitle": "Bebsi Silikon Burun Aspiratörü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BurdaBebekShop",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "güzel",
+      "createDate": 1714756746168,
+      "createdDate": "03/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099452861,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 562271708,
+      "productSubTitle": "Bebsi Silikon Burun Aspiratörü Turuncu",
+      "productTitle": "Bebsi Silikon Burun Aspiratörü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BurdaBebekShop",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 4
+  }
+}

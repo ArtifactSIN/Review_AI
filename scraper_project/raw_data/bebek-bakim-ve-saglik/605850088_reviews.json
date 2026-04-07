@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "605850088",
+  "collectedAt": "2026-04-07T14:51:38.985Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "her zaman kullandigim marka",
+      "createDate": 1771569063348,
+      "createdDate": "20/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106450651,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "s*** k***",
+      "oldScore": 0,
+      "productId": 633186623,
+      "productSubTitle": "Cansınbant Bez Yarabandı 300 Adet",
+      "productTitle": "Cansınbant Bez Yarabandı 300 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Linaisguvenligi",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

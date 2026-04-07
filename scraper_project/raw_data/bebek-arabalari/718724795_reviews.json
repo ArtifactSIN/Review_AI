@@ -1,0 +1,59 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "718724795",
+  "collectedAt": "2026-04-07T14:30:56.125Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Bebeğim için aldım kalıteli duruyor bebek doğunca kullanıcaz surmesi şimdilik güzel kullandıkça anlıycaz",
+      "createDate": 1771944795655,
+      "createdDate": "24/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106469498,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/24/58/47/16/83/86/59/71/73/60/84760149138663425501.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/02/24/58/47/16/83/86/59/71/73/60/84760149138663425501.jpg"
+      ],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "Hilal Çelebi",
+      "oldScore": 0,
+      "productId": 718724795,
+      "productSubTitle": "4 Bayb Cool Siyah Travel Sistem Bebek Arabası  (PUSETSİZ) Siyah",
+      "productTitle": "4 Bayb Cool Siyah Travel Sistem Bebek Arabası  (PUSETSİZ)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8398744,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/24/58/47/16/83/86/59/71/73/60/84760149138663425501.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "4Baby",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/24/58/47/16/83/86/59/71/73/60/84760149138663425501.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/24/58/47/16/83/86/59/71/73/60/84760149138663425501.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "599613190",
+  "collectedAt": "2026-04-07T14:37:41.523Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Ürün açıklamasında puset hediyeli yazıyordu, ancak sadece bebek arabası gönderildi. Satıcıya mesaj atmama rağmen hiçbir şekilde geri dönüş yapılmadı. İlanda açıkça vaat edilen ürün gönderilmediği için Tüketici Hakem Heyeti’ne başvuruda bulundum. Alışveriş yapacak kişilerin dikkatli olmasını öneririm. Güvenilir bir satış deneyimi olmadı.adı sanı bilinmeyen kargo ile yolluyorlar ürün 2 haftada teslim edilmiyor",
+      "createDate": 1754050546954,
+      "createdDate": "01/08/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104941348,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 611750318,
+      "productSubTitle": "Prego Axis 360 Derece Dönebilen Oturma Üniteli Çift Yönlü Bebek Yeşil",
+      "productTitle": "Prego Axis 360 Derece Dönebilen Oturma Üniteli Çift Yönlü Bebek",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "MinimodaBebek",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,495 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "663408198",
+  "collectedAt": "2026-04-07T14:52:45.697Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1,
+    2
+  ],
+  "reviewCountUnique": 14,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Makul",
+      "createDate": 1774977108019,
+      "createdDate": "31/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106712314,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/47/01/49/02/32/90/54/85/37/05687332927332959817.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/31/47/01/49/02/32/90/54/85/37/05687332927332959817.jpg"
+      ],
+      "lastModifiedDate": 1774977108019,
+      "maskedBuyerName": "K*** K***",
+      "oldScore": 0,
+      "productId": 651924192,
+      "productSubTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon Şeffaf",
+      "productTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8543570,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/47/01/49/02/32/90/54/85/37/05687332927332959817.jpg"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/47/01/49/02/32/90/54/85/37/05687332927332959817.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/47/01/49/02/32/90/54/85/37/05687332927332959817.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Kutu içeriği tam geldi",
+      "createDate": 1770142397357,
+      "createdDate": "03/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106326984,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "i*** k***",
+      "oldScore": 0,
+      "productId": 651924192,
+      "productSubTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon Şeffaf",
+      "productTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "dışarıdan uyguna aldik yenidoğan için kullanacağım",
+      "createDate": 1745347267511,
+      "createdDate": "22/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104234769,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** s***",
+      "oldScore": 0,
+      "productId": 651924192,
+      "productSubTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon Şeffaf",
+      "productTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "gayet başarılı ürün",
+      "createDate": 1733662501606,
+      "createdDate": "08/12/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102899927,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** y***",
+      "oldScore": 0,
+      "productId": 474217414,
+      "productSubTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon Şeffaf",
+      "productTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "KırmızıBeyaz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Kalitesini beğendim. Kullanışlı",
+      "createDate": 1730960906721,
+      "createdDate": "07/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102292494,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "V*** G*** U***",
+      "oldScore": 0,
+      "productId": 583481503,
+      "productSubTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon Şeffaf",
+      "productTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "vitaminvadisi",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "çocuğumuz doğduğundan beri burnunu temizlemek için güvenle kullanıyoruz.",
+      "createDate": 1729713068947,
+      "createdDate": "23/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102030419,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/23/88/83/52/40/22/52/06/20/64/06851952717048034605.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/10/23/88/83/52/40/22/52/06/20/64/06851952717048034605.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Y*** I***",
+      "oldScore": 0,
+      "productId": 474217414,
+      "productSubTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon Şeffaf",
+      "productTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 5999635,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/23/88/83/52/40/22/52/06/20/64/06851952717048034605.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KırmızıBeyaz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/23/88/83/52/40/22/52/06/20/64/06851952717048034605.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/23/88/83/52/40/22/52/06/20/64/06851952717048034605.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Güzel hep kullandığımız ürün",
+      "createDate": 1724362811574,
+      "createdDate": "23/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101085213,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/23/78/61/23/28/18/79/55/84/13/64086087038663674855.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/08/23/78/61/23/28/18/79/55/84/13/64086087038663674855.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "O*** G***",
+      "oldScore": 0,
+      "productId": 474217414,
+      "productSubTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon Şeffaf",
+      "productTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 5476930,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/23/78/61/23/28/18/79/55/84/13/64086087038663674855.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KırmızıBeyaz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/23/78/61/23/28/18/79/55/84/13/64086087038663674855.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/23/78/61/23/28/18/79/55/84/13/64086087038663674855.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "güzel paketliydi sağlam geldi",
+      "createDate": 1719983088510,
+      "createdDate": "03/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100414667,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** a***",
+      "oldScore": 0,
+      "productId": 581952869,
+      "productSubTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon Şeffaf",
+      "productTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Haleon",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel",
+      "createDate": 1717468973200,
+      "createdDate": "04/06/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099996765,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "g*** a***",
+      "oldScore": 0,
+      "productId": 581952869,
+      "productSubTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon Şeffaf",
+      "productTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Haleon",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Bebeğimizin burnunu açmak için kullanıyoruz memnunuz",
+      "createDate": 1716798380905,
+      "createdDate": "27/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099860501,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/27/69/75/76/25/09/40/32/25/78/21716157170648039620.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/05/27/69/75/76/25/09/40/32/25/78/21716157170648039620.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** y***",
+      "oldScore": 0,
+      "productId": 581952869,
+      "productSubTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon Şeffaf",
+      "productTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 4795780,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/27/69/75/76/25/09/40/32/25/78/21716157170648039620.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Haleon",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/27/69/75/76/25/09/40/32/25/78/21716157170648039620.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/27/69/75/76/25/09/40/32/25/78/21716157170648039620.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "hızlı teslimat",
+      "createDate": 1713198594412,
+      "createdDate": "15/04/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099098818,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/15/68/79/05/63/52/97/21/78/34/77398074005831958739.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/04/15/68/79/05/63/52/97/21/78/34/77398074005831958739.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** Ç*** E***",
+      "oldScore": 0,
+      "productId": 581952869,
+      "productSubTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon Şeffaf",
+      "productTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 4415508,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/15/68/79/05/63/52/97/21/78/34/77398074005831958739.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Haleon",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/15/68/79/05/63/52/97/21/78/34/77398074005831958739.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/15/68/79/05/63/52/97/21/78/34/77398074005831958739.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Bebeğim için sürekli kullandığım ürün memnunum teşekkürler",
+      "createDate": 1705902945781,
+      "createdDate": "22/01/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097700846,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "N*** A***",
+      "oldScore": 0,
+      "productId": 474217414,
+      "productSubTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon Şeffaf",
+      "productTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KırmızıBeyaz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Hızlı teslimat güzel pketleme en iyi fiyat n11 farkı",
+      "createDate": 1698267470396,
+      "createdDate": "25/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096179002,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/10/25/88/13/41/37/33/42/29/27/17/82603485384762241769.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/23/10/25/88/13/41/37/33/42/29/27/17/82603485384762241769.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** K***",
+      "oldScore": 0,
+      "productId": 534459843,
+      "productSubTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon Şeffaf",
+      "productTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 2621070,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/25/88/13/41/37/33/42/29/27/17/82603485384762241769.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MAYNATURA",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/10/25/88/13/41/37/33/42/29/27/17/82603485384762241769.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/10/25/88/13/41/37/33/42/29/27/17/82603485384762241769.jpg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "7 yıl önce de bu ürünü kullanmistim oğlum için şimdide kızım için kullanıyorum memnunuz tavsiye ederim",
+      "createDate": 1644655448714,
+      "createdDate": "12/02/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5088731016,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 474217414,
+      "productSubTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon Şeffaf",
+      "productTitle": "Otribebe Monodoz Deniz Suyu 5 ML 20 Flakon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KırmızıBeyaz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 2,
+    "totalCount": 14
+  }
+}

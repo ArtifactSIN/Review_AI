@@ -1,0 +1,89 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "589654656",
+  "collectedAt": "2026-04-07T14:53:14.704Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çok beğendim teşekkürler",
+      "createDate": 1765846690282,
+      "createdDate": "16/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105979976,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/16/74/75/00/59/07/07/44/82/26/12087929635082817236.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/12/16/74/75/00/59/07/07/44/82/26/12087929635082817236.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "d*** y***",
+      "oldScore": 0,
+      "productId": 589654656,
+      "productSubTitle": "Dalin Bebe Yağı 200 ML",
+      "productTitle": "Dalin Bebe Yağı 200 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8127452,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/16/74/75/00/59/07/07/44/82/26/12087929635082817236.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/16/74/75/00/59/07/07/44/82/26/12087929635082817236.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/16/74/75/00/59/07/07/44/82/26/12087929635082817236.jpg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "ürün biraz pahalı ama ürün kalitesi güzel. ciltte ipeksi bir his oluşturuyor. cildi besleyip koruyor.beğendim tavsiye ederim.ürünün paketlemesi çok sağlam özenliydi.herhangibir hasar yoktu.akma, çatlama vs...sürat kargo kuryesi zamanında sorunsuz olarak teslim etti.emeği geçenlere teşekkürler.",
+      "createDate": 1652161172359,
+      "createdDate": "10/05/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5089499014,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ü*** g***",
+      "oldScore": 0,
+      "productId": 538674210,
+      "productSubTitle": "Dalin Bebe Yağı 200 ML",
+      "productTitle": "Dalin Bebe Yağı 200 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "FarmaGross",
+      "title": "ürün biraz pahalı ama kalitesi güzel.",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "654323708",
+  "collectedAt": "2026-04-07T14:50:09.608Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "urun gayet hizli geldi",
+      "createDate": 1739809925046,
+      "createdDate": "17/02/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103700565,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "D*** B***",
+      "oldScore": 0,
+      "productId": 560946088,
+      "productSubTitle": "Hipp Babysanft Bebek Bakım Yağı 200 ml",
+      "productTitle": "Hipp Babysanft Bebek Bakım Yağı 200 ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "E-GrossMarket",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

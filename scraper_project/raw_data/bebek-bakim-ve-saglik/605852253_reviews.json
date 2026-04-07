@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "605852253",
+  "collectedAt": "2026-04-07T14:53:37.234Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Elimize ulaştı çok teşekkür ederiz paketlemesi gayet iyiydi.",
+      "createDate": 1748589939252,
+      "createdDate": "30/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104524899,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 605852253,
+      "productSubTitle": "Nivea Sun SPF50+ Nemlendirici Güneş Spreyi 200 ML + Nivea Sun SPF50+ Kids Oyun Hassas Spreyi 200 ML",
+      "productTitle": "Nivea Sun SPF50+ Nemlendirici Güneş Spreyi 200 ML + Nivea Sun SPF50+ Kids Oyun Hassas Spreyi 200 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

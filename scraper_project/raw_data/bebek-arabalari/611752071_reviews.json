@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "611752071",
+  "collectedAt": "2026-04-07T14:34:23.761Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürünler gayet guzel ve saglam tavsiye ederim",
+      "createDate": 1711199585416,
+      "createdDate": "23/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098708721,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Tunahan Harputcu",
+      "oldScore": 0,
+      "productId": 523732110,
+      "productSubTitle": "Baby Home 946 Travel Sistem Bebek Arabası + 560 Oyun Parkı Park Yatak Füme - Siyah",
+      "productTitle": "Baby Home 946 Travel Sistem Bebek Arabası + 560 Oyun Parkı Park Yatak",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Ayhancocuk",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün gayet kaliteli ve güzel Fiyat politikasıda gayet uygun Teşekkürler Ayhan Bebe",
+      "createDate": 1643634717778,
+      "createdDate": "31/01/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5088586103,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Emre MALAS",
+      "oldScore": 0,
+      "productId": 523732110,
+      "productSubTitle": "Baby Home 946 Travel Sistem Bebek Arabası + 560 Oyun Parkı Park Yatak Füme - Siyah",
+      "productTitle": "Baby Home 946 Travel Sistem Bebek Arabası + 560 Oyun Parkı Park Yatak",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Ayhancocuk",
+      "title": "Süper Alan pişman olmaz",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

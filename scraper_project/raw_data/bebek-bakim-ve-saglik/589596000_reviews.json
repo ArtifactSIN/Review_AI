@@ -1,0 +1,149 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "589596000",
+  "collectedAt": "2026-04-07T14:46:43.484Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 4,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Mük",
+      "createDate": 1775201472243,
+      "createdDate": "03/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106743271,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/03/60/13/48/61/61/64/96/63/13/47893731386985723868.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/04/03/60/13/48/61/61/64/96/63/13/47893731386985723868.jpg"
+      ],
+      "lastModifiedDate": 1775201472243,
+      "maskedBuyerName": "I*** Ç***",
+      "oldScore": 0,
+      "productId": 589596000,
+      "productSubTitle": "STERIMAR HIPERTONIK YETISKIN 50 ML",
+      "productTitle": "STERIMAR HIPERTONIK YETISKIN 50 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8560097,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/03/60/13/48/61/61/64/96/63/13/47893731386985723868.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/03/60/13/48/61/61/64/96/63/13/47893731386985723868.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/03/60/13/48/61/61/64/96/63/13/47893731386985723868.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "surekli kullaniyoruz memnunuz",
+      "createDate": 1765569263059,
+      "createdDate": "12/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105951281,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 589596000,
+      "productSubTitle": "STERIMAR HIPERTONIK YETISKIN 50 ML",
+      "productTitle": "STERIMAR HIPERTONIK YETISKIN 50 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "2023 Üretim geldi, bu satıcıdan önermiyorum",
+      "createDate": 1760013343080,
+      "createdDate": "09/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105384030,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** E***",
+      "oldScore": 0,
+      "productId": 589596000,
+      "productSubTitle": "STERIMAR HIPERTONIK YETISKIN 50 ML",
+      "productTitle": "STERIMAR HIPERTONIK YETISKIN 50 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "bebeklerim için kullandigim urunden memnunum bir de yetişkinler için olani kullanmak istedik kendimize de başarılı",
+      "createDate": 1698528585044,
+      "createdDate": "29/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096232695,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 569819865,
+      "productSubTitle": "STERIMAR HIPERTONIK YETISKIN 50 ML",
+      "productTitle": "STERIMAR HIPERTONIK YETISKIN 50 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MeliyaKozmetik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 4
+  }
+}

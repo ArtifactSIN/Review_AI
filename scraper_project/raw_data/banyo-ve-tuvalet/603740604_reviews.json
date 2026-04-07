@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "603740604",
+  "collectedAt": "2026-04-07T14:12:22.882Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "özenli bir gönderimdi teşekkürler",
+      "createDate": 1738073049471,
+      "createdDate": "28/01/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103519804,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 603740604,
+      "productSubTitle": "Vienev 3Lü Set Fileli Yenidoğan Küvet Seti Pembe",
+      "productTitle": "Vienev 3Lü Set Fileli Yenidoğan Küvet Seti Pembe",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Vienev",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

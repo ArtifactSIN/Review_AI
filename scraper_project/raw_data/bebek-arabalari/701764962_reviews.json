@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "701764962",
+  "collectedAt": "2026-04-07T14:40:57.286Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün kaliteli.Kullanımı rahat.3 yaşındaki oğlum için aldım.Kendi arabamızı kaybetmiştik Açıklamada 25 kg taşır yazınca bunu almak istedim fakat kullanma klavuzunda 18 kg a kadar yazıyor.Yinede taşır diye ümit ediyorum.",
+      "createDate": 1770547452951,
+      "createdDate": "08/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106362019,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "n*** ç***",
+      "oldScore": 0,
+      "productId": 692613245,
+      "productSubTitle": "Maxi Taxi Cosmos Baston Bebek Arabası Sarı Sarı",
+      "productTitle": "Maxi Taxi Cosmos Baston Bebek Arabası Sarı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Freebaby",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Beklediğimden daha iyi geldi iyi ki almışız sağlam bir ürün diğer baston bebek arabalarından daha kaliteli kesinlikle taviyemdir 👍🏻",
+      "createDate": 1757052937400,
+      "createdDate": "05/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105160307,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Melike Akyıldız",
+      "oldScore": 0,
+      "productId": 692613245,
+      "productSubTitle": "Maxi Taxi Cosmos Baston Bebek Arabası Sarı Sarı",
+      "productTitle": "Maxi Taxi Cosmos Baston Bebek Arabası Sarı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Freebaby",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

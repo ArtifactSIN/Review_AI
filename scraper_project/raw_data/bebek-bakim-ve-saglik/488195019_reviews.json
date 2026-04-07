@@ -1,0 +1,133 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "488195019",
+  "collectedAt": "2026-04-07T14:47:27.064Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "İyi",
+      "createDate": 1722445624339,
+      "createdDate": "31/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100772709,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** Ç***",
+      "oldScore": 0,
+      "productId": 540940055,
+      "productSubTitle": "Chicco Fırça Tarak Seti Pembe",
+      "productTitle": "Chicco Fırça Tarak Seti",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "bebekvesaglik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Piyasadakilerden çok bir farkı yok. Keçi kılı olan dökülüyo tararken.",
+      "createDate": 1710936764202,
+      "createdDate": "20/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098640280,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/20/80/33/34/89/00/59/66/45/08/43183398499768450733.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/03/20/80/33/34/89/00/59/66/45/08/43183398499768450733.png",
+        "https://n11scdn.akamaized.net/a1/{0}/24/03/20/86/61/86/22/92/92/27/18/63/57729315733200222718.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** E***",
+      "oldScore": 0,
+      "productId": 540940055,
+      "productSubTitle": "Chicco Fırça Tarak Seti Pembe",
+      "productTitle": "Chicco Fırça Tarak Seti",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 4174513,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/20/80/33/34/89/00/59/66/45/08/43183398499768450733.png"
+        },
+        {
+          "id": 4174514,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/20/86/61/86/22/92/92/27/18/63/57729315733200222718.png"
+        }
+      ],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "bebekvesaglik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/20/80/33/34/89/00/59/66/45/08/43183398499768450733.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/20/80/33/34/89/00/59/66/45/08/43183398499768450733.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Rengi tatli yumusak",
+      "createDate": 1708601551466,
+      "createdDate": "22/02/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098170062,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/22/87/88/01/03/11/99/53/93/22/05704451721622827752.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/02/22/87/88/01/03/11/99/53/93/22/05704451721622827752.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** S***",
+      "oldScore": 0,
+      "productId": 540940055,
+      "productSubTitle": "Chicco Fırça Tarak Seti Pembe",
+      "productTitle": "Chicco Fırça Tarak Seti",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 3961558,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/22/87/88/01/03/11/99/53/93/22/05704451721622827752.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "bebekvesaglik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/22/87/88/01/03/11/99/53/93/22/05704451721622827752.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/22/87/88/01/03/11/99/53/93/22/05704451721622827752.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

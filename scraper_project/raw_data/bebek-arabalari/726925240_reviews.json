@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "726925240",
+  "collectedAt": "2026-04-07T14:35:24.960Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "mağazalara göre fiyatı uygun ve kalitesi gayet iyi tavsiye edelim",
+      "createDate": 1666249221436,
+      "createdDate": "20/10/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5090671700,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ramazan Karadoğan",
+      "oldScore": 0,
+      "productId": 542993407,
+      "productSubTitle": "4 baby active gold travel sistem",
+      "productTitle": "4 Baby Active Plus Gold Çift Yönlü Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "bebeci",
+      "title": "gayet güzel bir araba kullanışlı",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

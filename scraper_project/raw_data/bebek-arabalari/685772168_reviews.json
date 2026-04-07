@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "685772168",
+  "collectedAt": "2026-04-07T14:31:10.578Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Fiyatına göre çok iyi güzel kullanışlı sağlam geldi tavsiye ediyorum eşimde çok beğendi",
+      "createDate": 1758536799417,
+      "createdDate": "22/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105272102,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Bilal Incekol",
+      "oldScore": 0,
+      "productId": 685772168,
+      "productSubTitle": "Moony Baby Suit Tam Yatar Hafif Baston Bebek Arabası - Baston Puset Kahverengi Antrasit",
+      "productTitle": "Moony Baby Suit Tam Yatar Hafif Baston Bebek Arabası - Baston Puset Kahverengi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "kocabebe",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "611752998",
+  "collectedAt": "2026-04-07T14:34:08.182Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "urun gayet iyi fiyatina gore hak ediyor gercekten beşiği kuramadım yerim olmadigi icin",
+      "createDate": 1679579561276,
+      "createdDate": "23/03/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5092842615,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/03/23/50/19/71/21/60/59/08/04/21/3583397386552196446.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/23/03/23/50/19/71/21/60/59/08/04/21/3583397386552196446.png",
+        "https://n11scdn.akamaized.net/a1/{0}/23/03/23/70/83/59/62/90/42/40/45/34/493122544247718661.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Turan Kara",
+      "oldScore": 0,
+      "productId": 510935671,
+      "productSubTitle": "Baby Home Single-to Travel Sistem Bebek Arabası + Maya Anne Yanı Bebek Sepeti Beşik Altın - Kahverengi",
+      "productTitle": "Baby Home Single-to Travel Sistem Bebek Arabası + Maya Anne Yanı Bebek Sepeti Beşik",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 1777112,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/03/23/50/19/71/21/60/59/08/04/21/3583397386552196446.png"
+        },
+        {
+          "id": 1777113,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/03/23/70/83/59/62/90/42/40/45/34/493122544247718661.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Ayhancocuk",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/03/23/50/19/71/21/60/59/08/04/21/3583397386552196446.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/03/23/50/19/71/21/60/59/08/04/21/3583397386552196446.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürünüm çok güzel geldi elinize kolunuza sağlık paketlemesi falan herşeyi çok güzeldi bol kazançlar diliyorum.",
+      "createDate": 1676456274304,
+      "createdDate": "15/02/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5092299770,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Fazilet Yiğit",
+      "oldScore": 0,
+      "productId": 510935671,
+      "productSubTitle": "Baby Home Single-to Travel Sistem Bebek Arabası + Maya Anne Yanı Bebek Sepeti Beşik Altın - Kahverengi",
+      "productTitle": "Baby Home Single-to Travel Sistem Bebek Arabası + Maya Anne Yanı Bebek Sepeti Beşik",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Ayhancocuk",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "640313134",
+  "collectedAt": "2026-04-07T14:46:06.306Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Skt yazmıyor.",
+      "createDate": 1745863525532,
+      "createdDate": "28/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104288800,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/28/67/31/56/85/52/25/19/18/08/31836003755850875724.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/04/28/67/31/56/85/52/25/19/18/08/31836003755850875724.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "İ*** G***",
+      "oldScore": 0,
+      "productId": 640313134,
+      "productSubTitle": "Sebamed Baby Çok Yönlü Koruyucu Güneş Spreyi Spf50 200 Ml 2 Adet",
+      "productTitle": "Sebamed Baby Çok Yönlü Koruyucu Güneş Spreyi Spf50 200 Ml 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7155512,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/28/67/31/56/85/52/25/19/18/08/31836003755850875724.png"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/28/67/31/56/85/52/25/19/18/08/31836003755850875724.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/28/67/31/56/85/52/25/19/18/08/31836003755850875724.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "güzel cok uyguna geldi",
+      "createDate": 1740831279272,
+      "createdDate": "01/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103800189,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ü*** D***",
+      "oldScore": 0,
+      "productId": 640313134,
+      "productSubTitle": "Sebamed Baby Çok Yönlü Koruyucu Güneş Spreyi Spf50 200 Ml 2 Adet",
+      "productTitle": "Sebamed Baby Çok Yönlü Koruyucu Güneş Spreyi Spf50 200 Ml 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "611753097",
+  "collectedAt": "2026-04-07T14:34:15.119Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "genel olarak iyi",
+      "createDate": 1680238348261,
+      "createdDate": "31/03/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5092968709,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Yasin Bi Ziyan",
+      "oldScore": 0,
+      "productId": 570969079,
+      "productSubTitle": "Baby Home Yeni Ekonomi Paket 8 In 1 1010 Travel Sistem Bebek Arabası 340 Anne Yanı Bebek Sepeti Beşik Altın - Siyah",
+      "productTitle": "Baby Home Yeni Ekonomi Paket 8 In 1 1010 Travel Sistem Bebek Arabası 340 Anne Yanı Bebek Sepeti Beşik",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "Ayhancocuk",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

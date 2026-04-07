@@ -1,0 +1,89 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "662879429",
+  "collectedAt": "2026-04-07T14:45:20.104Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok iyi",
+      "createDate": 1748716431805,
+      "createdDate": "31/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104547104,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 598356331,
+      "productSubTitle": "Jack N Jill Doğal Muz Aromalı Diş Macunu 50 gr x 2 Adet ",
+      "productTitle": "Jack N Jill Doğal Muz Aromalı Diş Macunu 50 gr x 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HappyCenter",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel kaliteli",
+      "createDate": 1737129487032,
+      "createdDate": "17/01/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103418847,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/17/63/19/85/54/39/25/93/98/05/15698844883553857873.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/01/17/63/19/85/54/39/25/93/98/05/15698844883553857873.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** g***",
+      "oldScore": 0,
+      "productId": 598356331,
+      "productSubTitle": "Jack N Jill Doğal Muz Aromalı Diş Macunu 50 gr x 2 Adet ",
+      "productTitle": "Jack N Jill Doğal Muz Aromalı Diş Macunu 50 gr x 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6719425,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/17/63/19/85/54/39/25/93/98/05/15698844883553857873.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HappyCenter",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/17/63/19/85/54/39/25/93/98/05/15698844883553857873.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/17/63/19/85/54/39/25/93/98/05/15698844883553857873.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "631470002",
+  "collectedAt": "2026-04-07T14:50:41.171Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "urun gelmedi",
+      "createDate": 1673277905335,
+      "createdDate": "09/01/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5091707611,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "N*** P***",
+      "oldScore": 0,
+      "productId": 453945252,
+      "productSubTitle": "Hanymish Kulak Çubuğu 100'Lü",
+      "productTitle": "Hanymish Kulak Çubuğu 100'Lü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "balcıhouse",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürünler güzel paketlenmiş fiyat olarakda çok uygun",
+      "createDate": 1606308896002,
+      "createdDate": "25/11/2020",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5082784307,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Hasan Balcı",
+      "oldScore": 0,
+      "productId": 453945252,
+      "productSubTitle": "Hanymish Kulak Çubuğu 100'Lü",
+      "productTitle": "Hanymish Kulak Çubuğu 100'Lü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "balcıhouse",
+      "title": "kaliteli ve uygun fiyatlı ",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

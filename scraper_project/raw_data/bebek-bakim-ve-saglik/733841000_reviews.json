@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "733841000",
+  "collectedAt": "2026-04-07T14:42:43.204Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Hizli kargo güzel paketlenmişti fayda ediyormu bilmiyorum bir kere kullndim daha",
+      "createDate": 1771519101355,
+      "createdDate": "19/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106437976,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "İ*** C***",
+      "oldScore": 0,
+      "productId": 731392737,
+      "productSubTitle": "Nurse Harveys Gg Damla 20 Ml",
+      "productTitle": "Nurse Harveys Gg Damla 20 Ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "vitamanya",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

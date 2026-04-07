@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "643178989",
+  "collectedAt": "2026-04-07T14:12:46.024Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "gayet başarılı orijinal",
+      "createDate": 1748444136172,
+      "createdDate": "28/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104511499,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 643178989,
+      "productSubTitle": "Ecowell Organik Bebe Şampuanı 300 ML x 2 + Organik Bebe Yağı",
+      "productTitle": "Ecowell Organik Bebe Şampuanı 300 ML x 2 + Organik Bebe Yağı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "bahçeorganik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Güzel",
+      "createDate": 1735069684682,
+      "createdDate": "24/12/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103144069,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "k*** Ö***",
+      "oldScore": 0,
+      "productId": 638258254,
+      "productSubTitle": "Ecowell Organik Bebe Şampuanı 300 ML x 2 + Organik Bebe Yağı",
+      "productTitle": "Ecowell Organik Bebe Şampuanı 300 ML x 2 + Organik Bebe Yağı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "JackN'JillTR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

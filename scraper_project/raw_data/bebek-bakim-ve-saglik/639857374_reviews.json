@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "639857374",
+  "collectedAt": "2026-04-07T14:54:01.023Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kargo o kadar kötüydü ki içindeki spreyler hrp dökülmüştü krsinlikle almayın",
+      "createDate": 1735847208348,
+      "createdDate": "02/01/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103271428,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Nurcan Soysal",
+      "oldScore": 0,
+      "productId": 639857374,
+      "productSubTitle": "Uni Baby Kolay Tarama Spreyi 200 ML x 6 Adet",
+      "productTitle": "Uni Baby Kolay Tarama Spreyi 200 ML x 6 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Sahte ürün",
+      "createDate": 1695820629697,
+      "createdDate": "27/09/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5095502427,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ş*** K***",
+      "oldScore": 0,
+      "productId": 565699570,
+      "productSubTitle": "Uni Baby Kolay Tarama Spreyi 200 ML x 6 Adet",
+      "productTitle": "Uni Baby Kolay Tarama Spreyi 200 ML x 6 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "ikiel_company",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

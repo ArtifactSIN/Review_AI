@@ -1,0 +1,89 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "725424042",
+  "collectedAt": "2026-04-07T14:32:56.716Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Ürün çok kaliteli istediğimiz her opsiyon var",
+      "createDate": 1771958122198,
+      "createdDate": "24/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106473077,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/24/49/01/22/02/26/18/77/31/65/2976211710709117202.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/02/24/49/01/22/02/26/18/77/31/65/2976211710709117202.jpg"
+      ],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "Hasan anıl Duran",
+      "oldScore": 0,
+      "productId": 721040013,
+      "productSubTitle": "Prego Canyon Koldan Çift Yönlü Bebek Arabası 2430 Gri",
+      "productTitle": "Prego Canyon Koldan Çift Yönlü Bebek Arabası 2430",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8410458,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/24/49/01/22/02/26/18/77/31/65/2976211710709117202.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ArdaToysAksehir",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/24/49/01/22/02/26/18/77/31/65/2976211710709117202.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/24/49/01/22/02/26/18/77/31/65/2976211710709117202.jpg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Daha bugün geldi henüz dışarda kullanmadım ama hem sağlam hem kullanışlı çok belli 3 gün içinde geldi satıcı da çok ilgiliydi Allah razı olsun 💐",
+      "createDate": 1764179885925,
+      "createdDate": "26/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105808024,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** S***",
+      "oldScore": 0,
+      "productId": 721040014,
+      "productSubTitle": "Prego Canyon Koldan Çift Yönlü Bebek Arabası 2430 Siyah",
+      "productTitle": "Prego Canyon Koldan Çift Yönlü Bebek Arabası 2430",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ArdaToysAksehir",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

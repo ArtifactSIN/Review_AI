@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "681364590",
+  "collectedAt": "2026-04-07T14:46:47.009Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "11.11'de ekstra indirimlerle uyguna geldi. Hizli kargo ve hediye icin tesekkurler.",
+      "createDate": 1510567017731,
+      "createdDate": "13/11/2017",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5064093947,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** K***",
+      "oldScore": 0,
+      "productId": 73044218,
+      "productSubTitle": "Mağazamızdaki Tüm Ürünler Orijinal Faturalıdır |GlobalCiltBakım",
+      "productTitle": "Mustela 1-2-3 Vitamin Barrier Pişik Kremi 100 ML + 50 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Dermoshops",
+      "title": "Hizli Kargo İlgili Magaza",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

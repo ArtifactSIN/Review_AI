@@ -1,0 +1,59 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "598883998",
+  "collectedAt": "2026-04-07T14:38:07.941Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "İyi fena değil",
+      "createDate": 1736793235496,
+      "createdDate": "13/01/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103376788,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/13/52/54/47/82/42/88/27/75/27/2247148043444009736.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/01/13/52/54/47/82/42/88/27/75/27/2247148043444009736.png"
+      ],
+      "lastModifiedDate": 1750658983707,
+      "maskedBuyerName": "a*** k***",
+      "oldScore": 0,
+      "productId": 598883998,
+      "productSubTitle": "Penguen Müslin Puset Örtüsü Fermuarlı Beyaz ",
+      "productTitle": "Penguen Müslin Puset Örtüsü Fermuarlı Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6696406,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/13/52/54/47/82/42/88/27/75/27/2247148043444009736.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/13/52/54/47/82/42/88/27/75/27/2247148043444009736.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/13/52/54/47/82/42/88/27/75/27/2247148043444009736.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

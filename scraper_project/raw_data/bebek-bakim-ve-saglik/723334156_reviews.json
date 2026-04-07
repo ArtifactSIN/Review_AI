@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "723334156",
+  "collectedAt": "2026-04-07T14:50:00.464Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok güzel",
+      "createDate": 1774536989715,
+      "createdDate": "26/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106664877,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774536989715,
+      "maskedBuyerName": "S*** K***",
+      "oldScore": 0,
+      "productId": 728878327,
+      "productSubTitle": "Uni Baby Bahar Çiçekleri Kolonya 150 Ml",
+      "productTitle": "Uni Baby Bahar Çiçekleri Kolonya 150 Ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ŞAH-MARGIDATOPTAN",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "731251698",
+  "collectedAt": "2026-04-07T14:48:52.227Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "daha dogum yapmadim kullanamdim bilmiyorum kullaninca yorumumu guncelleyecegim",
+      "createDate": 1697619292260,
+      "createdDate": "18/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5095973052,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "C*** K***",
+      "oldScore": 0,
+      "productId": 578462530,
+      "productSubTitle": "Mustela Cold Cream İçeren Besleyici Ve Nemlendirici 101 Ml",
+      "productTitle": "Mustela Cold Cream İçeren Besleyici Ve Nemlendirici 101 Ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ParkFarma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Çokda iyi nemlendirmiyor ama kokusuz doğal oluşu güzel",
+      "createDate": 1696889569574,
+      "createdDate": "10/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5095694024,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/10/10/54/54/53/52/61/34/88/67/72/65965693282913006372.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/23/10/10/54/54/53/52/61/34/88/67/72/65965693282913006372.jpg",
+        "https://n11scdn.akamaized.net/a1/{0}/23/10/10/54/52/18/47/60/14/70/61/45/95738325272696603900.jpg",
+        "https://n11scdn.akamaized.net/a1/{0}/23/10/10/80/79/82/61/03/19/64/51/99/56671890983024807345.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "d*** l***",
+      "oldScore": 0,
+      "productId": 578462530,
+      "productSubTitle": "Mustela Cold Cream İçeren Besleyici Ve Nemlendirici 101 Ml",
+      "productTitle": "Mustela Cold Cream İçeren Besleyici Ve Nemlendirici 101 Ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 2503708,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/10/54/54/53/52/61/34/88/67/72/65965693282913006372.jpg"
+        },
+        {
+          "id": 2503709,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/10/54/52/18/47/60/14/70/61/45/95738325272696603900.jpg"
+        },
+        {
+          "id": 2503710,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/10/80/79/82/61/03/19/64/51/99/56671890983024807345.jpg"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "ParkFarma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/10/10/54/54/53/52/61/34/88/67/72/65965693282913006372.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/10/10/54/54/53/52/61/34/88/67/72/65965693282913006372.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

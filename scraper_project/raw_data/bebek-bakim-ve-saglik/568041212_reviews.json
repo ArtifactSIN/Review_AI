@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "568041212",
+  "collectedAt": "2026-04-07T14:49:55.362Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Sağlam geldi",
+      "createDate": 1731312051983,
+      "createdDate": "11/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102365343,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** K***",
+      "oldScore": 0,
+      "productId": 568041212,
+      "productSubTitle": "İpek Maxi Bebe Temizleme Pamuğu 16 Adet",
+      "productTitle": "İpek Maxi Bebe Temizleme Pamuğu 16 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "kaytika",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

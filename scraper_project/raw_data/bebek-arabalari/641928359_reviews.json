@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "641928359",
+  "collectedAt": "2026-04-07T14:33:36.682Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Bebek arabası ucuza geldi",
+      "createDate": 1741851983707,
+      "createdDate": "13/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103910269,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "İ*** Ü***",
+      "oldScore": 0,
+      "productId": 640268212,
+      "productSubTitle": "Bagi Zero Bebek Arabası Grey Grey",
+      "productTitle": "Bagi Zero Bebek Arabası Grey",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ebebek",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

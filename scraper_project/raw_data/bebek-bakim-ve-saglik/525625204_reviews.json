@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "525625204",
+  "collectedAt": "2026-04-07T14:53:34.145Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün cok severek kullanıyorum ve memnunum ama sktsi 2 ay kalan ürünü göndermelerini etik bulmadım sonuçta bebeklerde kullanılan bir ürün",
+      "createDate": 1692253181077,
+      "createdDate": "17/08/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094940050,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** E***",
+      "oldScore": 0,
+      "productId": 525625204,
+      "productSubTitle": "Merby's Nursery Pişik Önleyici Krem 100 ML",
+      "productTitle": "Merby's Nursery Pişik Önleyici Krem 100 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "silverbiotics",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

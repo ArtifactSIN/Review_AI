@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "714390966",
+  "collectedAt": "2026-04-07T14:31:35.029Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Harika görünüyor biz çok beğendik yaklaşık 3 ay araştırdım hem kullanım kolaylığı hem hafifliği hem fiyatı ile mükemmel ürün",
+      "createDate": 1758740812550,
+      "createdDate": "24/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105287760,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "FURKAN UYMAZ",
+      "oldScore": 0,
+      "productId": 700167682,
+      "productSubTitle": "Prego Aria Plus Travel Bebek Arabası Siyah",
+      "productTitle": "Prego Aria Plus Travel Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Annesininbebişi",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

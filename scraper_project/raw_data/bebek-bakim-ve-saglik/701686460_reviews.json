@@ -1,0 +1,149 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "701686460",
+  "collectedAt": "2026-04-07T14:52:16.982Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 4,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "iyi",
+      "createDate": 1774741601135,
+      "createdDate": "29/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106692159,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/29/64/56/26/12/13/91/75/79/87/72609215547159199233.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/29/64/56/26/12/13/91/75/79/87/72609215547159199233.png"
+      ],
+      "lastModifiedDate": 1774741601135,
+      "maskedBuyerName": "T*** Ü***",
+      "oldScore": 0,
+      "productId": 701686460,
+      "productSubTitle": "Mustela Hydra Bebe Günlük Kullanıma Uygun Vücut Losyonu 300ml",
+      "productTitle": "Mustela Hydra Bebe Günlük Kullanıma Uygun Vücut Losyonu 300ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8531961,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/29/64/56/26/12/13/91/75/79/87/72609215547159199233.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Dermoshops",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/29/64/56/26/12/13/91/75/79/87/72609215547159199233.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/29/64/56/26/12/13/91/75/79/87/72609215547159199233.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Kargo 1 günde teslim edildi mükemmel hizmet",
+      "createDate": 1746017365729,
+      "createdDate": "30/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104296990,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "mehmet ünsal",
+      "oldScore": 0,
+      "productId": 655608635,
+      "productSubTitle": "Mustela Hydra Bebe Günlük Kullanıma Uygun Vücut Losyonu 300ml",
+      "productTitle": "Mustela Hydra Bebe Günlük Kullanıma Uygun Vücut Losyonu 300ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "dermoaktif",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürün çok güzel bir şekilde elime geldi",
+      "createDate": 1744059171334,
+      "createdDate": "07/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104103098,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** G*** B***",
+      "oldScore": 0,
+      "productId": 655608635,
+      "productSubTitle": "Mustela Hydra Bebe Günlük Kullanıma Uygun Vücut Losyonu 300ml",
+      "productTitle": "Mustela Hydra Bebe Günlük Kullanıma Uygun Vücut Losyonu 300ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "dermoaktif",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "güzel hızlı gönderim",
+      "createDate": 1741858925977,
+      "createdDate": "13/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103903366,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "özerk öz",
+      "oldScore": 0,
+      "productId": 655608635,
+      "productSubTitle": "Mustela Hydra Bebe Günlük Kullanıma Uygun Vücut Losyonu 300ml",
+      "productTitle": "Mustela Hydra Bebe Günlük Kullanıma Uygun Vücut Losyonu 300ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "dermoaktif",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 4
+  }
+}

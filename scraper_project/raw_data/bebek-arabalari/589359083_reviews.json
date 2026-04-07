@@ -1,0 +1,110 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "589359083",
+  "collectedAt": "2026-04-07T14:31:16.709Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Harika bir kılıf",
+      "createDate": 1761118467558,
+      "createdDate": "22/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105473049,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 589359083,
+      "productSubTitle": "Bebek Müslin Oto Koltuk Puset Kılıfı Lastikli Beyaz ",
+      "productTitle": "Bebek Müslin Oto Koltuk Puset Kılıfı Lastikli Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "İyi",
+      "createDate": 1727982234994,
+      "createdDate": "03/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101734033,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750656068307,
+      "maskedBuyerName": "Ö*** d***",
+      "oldScore": 0,
+      "productId": 589359083,
+      "productSubTitle": "Bebek Müslin Oto Koltuk Puset Kılıfı Lastikli Beyaz ",
+      "productTitle": "Bebek Müslin Oto Koltuk Puset Kılıfı Lastikli Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Pamuklu gayet güzel",
+      "createDate": 1714937532154,
+      "createdDate": "05/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099478392,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750656068307,
+      "maskedBuyerName": "c*** u***",
+      "oldScore": 0,
+      "productId": 589359083,
+      "productSubTitle": "Bebek Müslin Oto Koltuk Puset Kılıfı Lastikli Beyaz ",
+      "productTitle": "Bebek Müslin Oto Koltuk Puset Kılıfı Lastikli Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

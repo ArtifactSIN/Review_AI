@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "606656203",
+  "collectedAt": "2026-04-07T14:33:44.823Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Harika bir ürün tavsiye ederim",
+      "createDate": 1734197558093,
+      "createdDate": "14/12/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102993331,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** Y***",
+      "oldScore": 0,
+      "productId": 611750324,
+      "productSubTitle": "Baby Home - 810 XTİ Çift Yönlü Bebek Arabası Altın - Siyah",
+      "productTitle": "Baby Home - 810 XTİ Çift Yönlü Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Ayhancocuk",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

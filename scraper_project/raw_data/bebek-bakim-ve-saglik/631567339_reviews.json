@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "631567339",
+  "collectedAt": "2026-04-07T14:53:56.618Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "beklediğimden küçük oyuncak gibi görünüyor paket iyi faturalandırma iyi",
+      "createDate": 1759330822096,
+      "createdDate": "01/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105332417,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ayşe Demir",
+      "oldScore": 0,
+      "productId": 631567339,
+      "productSubTitle": "Hanymish Fırça Tarak Seti Pembe",
+      "productTitle": "Hanymish Fırça Tarak Seti",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "IKIBE",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

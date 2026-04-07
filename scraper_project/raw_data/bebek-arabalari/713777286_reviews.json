@@ -1,0 +1,99 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "713777286",
+  "collectedAt": "2026-04-07T14:35:41.979Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "İlk kullanımda katlama mekanizma kiliti açılmayınca zorlayıp kırmış bulunduk. paranızı daha farklı değerlendirin derim",
+      "createDate": 1775388405556,
+      "createdDate": "05/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106753095,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775388405556,
+      "maskedBuyerName": "Ö*** T***",
+      "oldScore": 0,
+      "productId": 713777286,
+      "productSubTitle": "4Baby AB-482 Cool Travel Sistem Bebek Arabası Siyah",
+      "productTitle": "4Baby AB-482 Cool Travel Sistem Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "4Baby",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Çok iyi paketlenmişti ve beklediğimden güzel geldi",
+      "createDate": 1760985753076,
+      "createdDate": "20/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105459994,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/20/61/82/78/35/40/83/31/86/88/41812328863419512358.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/10/20/61/82/78/35/40/83/31/86/88/41812328863419512358.jpg",
+        "https://n11scdn.akamaized.net/a1/{0}/25/10/20/53/96/60/65/89/41/15/87/60/68021223526231423672.jpg",
+        "https://n11scdn.akamaized.net/a1/{0}/25/10/20/80/76/00/39/82/63/52/37/17/55921051145089562899.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Emine Dilsiz",
+      "oldScore": 0,
+      "productId": 645758599,
+      "productSubTitle": "4Baby AB-482 Cool Travel Sistem Bebek Arabası Siyah",
+      "productTitle": "4Baby AB-482 Cool Travel Sistem Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7821531,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/20/61/82/78/35/40/83/31/86/88/41812328863419512358.jpg"
+        },
+        {
+          "id": 7821532,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/20/53/96/60/65/89/41/15/87/60/68021223526231423672.jpg"
+        },
+        {
+          "id": 7821533,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/20/80/76/00/39/82/63/52/37/17/55921051145089562899.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SBABYTURKİYE",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/20/61/82/78/35/40/83/31/86/88/41812328863419512358.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/20/61/82/78/35/40/83/31/86/88/41812328863419512358.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

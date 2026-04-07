@@ -1,0 +1,89 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "672605403",
+  "collectedAt": "2026-04-07T14:45:58.838Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "bebeğime severek kullanıyorum kokusu harika",
+      "createDate": 1770037997867,
+      "createdDate": "02/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106321233,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/02/83/38/72/30/54/50/60/87/53/65167454329561725528.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/02/02/83/38/72/30/54/50/60/87/53/65167454329561725528.png"
+      ],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "E*** A***",
+      "oldScore": 0,
+      "productId": 672605403,
+      "productSubTitle": "Uni Baby Sıvı Çamaşır Deterjanı 1500ml Aktif+yumuşatıcı 1500ml Hassas/hipo",
+      "productTitle": "Uni Baby Sıvı Çamaşır Deterjanı 1500ml Aktif+yumuşatıcı 1500ml Hassas/hipo",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8308588,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/02/83/38/72/30/54/50/60/87/53/65167454329561725528.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İLOVYA",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/02/83/38/72/30/54/50/60/87/53/65167454329561725528.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/02/83/38/72/30/54/50/60/87/53/65167454329561725528.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ptlak geldi yazık gunah paketlememişler bile",
+      "createDate": 1763209908103,
+      "createdDate": "15/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105697788,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "f*** ş***",
+      "oldScore": 0,
+      "productId": 672605403,
+      "productSubTitle": "Uni Baby Sıvı Çamaşır Deterjanı 1500ml Aktif+yumuşatıcı 1500ml Hassas/hipo",
+      "productTitle": "Uni Baby Sıvı Çamaşır Deterjanı 1500ml Aktif+yumuşatıcı 1500ml Hassas/hipo",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "İLOVYA",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

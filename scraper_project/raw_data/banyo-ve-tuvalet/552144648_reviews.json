@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "552144648",
+  "collectedAt": "2026-04-07T14:12:48.712Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Sakın almayın tırnakları çıtır çıtır kırılıyor.Bu kadar adi olacağını düşünmemiştim.",
+      "createDate": 1752156853625,
+      "createdDate": "10/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104800913,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 552144648,
+      "productSubTitle": "MooieBaby's Katlanabilir Çocuk Tuvaleti, Carry Potty,Pembe",
+      "productTitle": "MooieBaby's Katlanabilir Çocuk Tuvaleti, Carry Potty,Pembe",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "MooieBabys",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

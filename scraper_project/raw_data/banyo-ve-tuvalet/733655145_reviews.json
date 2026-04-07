@@ -1,0 +1,59 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "733655145",
+  "collectedAt": "2026-04-07T14:11:08.959Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Güzel geldi korunaklı uyguna aldım",
+      "createDate": 1731349636137,
+      "createdDate": "11/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102383032,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/11/68/56/07/53/62/09/81/62/30/98373616896332643140.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/11/11/68/56/07/53/62/09/81/62/30/98373616896332643140.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "-*** -***",
+      "oldScore": 0,
+      "productId": 583824341,
+      "productSubTitle": "Mustela Saç Pullanmalarına Karşı Cradle Cap Krem 40 ML + Şampuan 150 ML",
+      "productTitle": "Mustela Saç Pullanmalarına Karşı Cradle Cap Krem 40 ML + Şampuan 150 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6198165,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/11/68/56/07/53/62/09/81/62/30/98373616896332643140.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BEYAZECZA",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/11/68/56/07/53/62/09/81/62/30/98373616896332643140.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/11/68/56/07/53/62/09/81/62/30/98373616896332643140.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

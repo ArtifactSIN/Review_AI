@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "645739731",
+  "collectedAt": "2026-04-07T14:38:08.194Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Üründen sokukler var kesinlikle 300 tl hakedecek bir urun degil, urun ince kis bebekleri icin tavsiye etmem. Kuponla aldigimdan iade etmiyorum",
+      "createDate": 1734626926251,
+      "createdDate": "19/12/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103057297,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750656122284,
+      "maskedBuyerName": "S*** E***",
+      "oldScore": 0,
+      "productId": 645739731,
+      "productSubTitle": "Fırfırlı Tek Bebek Örtü Puset Örtüsü Puset Ana Kucağı Örtüsü Gri ",
+      "productTitle": "Fırfırlı Tek Bebek Örtü Puset Örtüsü Puset Ana Kucağı Örtüsü Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

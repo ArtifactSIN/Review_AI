@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "723614938",
+  "collectedAt": "2026-04-07T14:52:35.038Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Müthiş kaliteli",
+      "createDate": 1772897261580,
+      "createdDate": "07/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106540882,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772897261580,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 723614938,
+      "productSubTitle": "Sınomarın E.n.t. Deniz Suyu Burun Spreyi 200 Ml 5206892100278 Çok Renkli",
+      "productTitle": "Sınomarın E.n.t. Deniz Suyu Burun Spreyi 200 Ml 5206892100278",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FARMAZANEM",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

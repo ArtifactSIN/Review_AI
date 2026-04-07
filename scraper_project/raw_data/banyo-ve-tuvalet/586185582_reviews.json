@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "586185582",
+  "collectedAt": "2026-04-07T14:09:19.997Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Hızlı teslimat. Güzel. Hediye için teşekkürler.",
+      "createDate": 1764416205949,
+      "createdDate": "29/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105833662,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "N*** T***",
+      "oldScore": 0,
+      "productId": 586185582,
+      "productSubTitle": "Malzek Lüx Bebek Küvet Yıkama Filesi Battal Boy Katlanır Küvetlere Uyumlu",
+      "productTitle": "Malzek Lüx Bebek Küvet Yıkama Filesi Battal Boy Katlanır Küvetlere Uyumlu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "YazarStore",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

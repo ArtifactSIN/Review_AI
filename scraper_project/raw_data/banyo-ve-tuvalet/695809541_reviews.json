@@ -1,0 +1,110 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "695809541",
+  "collectedAt": "2026-04-07T14:09:29.885Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "cok kullanisli bir urun,kuvette yikamak zor oluyordu",
+      "createDate": 1772619431550,
+      "createdDate": "04/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106512394,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 695809541,
+      "productSubTitle": "Home Silikon Bebek Yıkama Küveti, Fileli Soft Bebek Yıkama Banyo Küveti, Bebek Yıkama Oturağı Gri",
+      "productTitle": "Home Silikon Bebek Yıkama Küveti, Fileli Soft Bebek Yıkama Banyo Küveti, Bebek Yıkama Oturağı Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BuluttaBul",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Sıkıntısız alışveriş",
+      "createDate": 1768509427940,
+      "createdDate": "15/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106219258,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "F*** A***",
+      "oldScore": 0,
+      "productId": 695809541,
+      "productSubTitle": "Home Silikon Bebek Yıkama Küveti, Fileli Soft Bebek Yıkama Banyo Küveti, Bebek Yıkama Oturağı Gri",
+      "productTitle": "Home Silikon Bebek Yıkama Küveti, Fileli Soft Bebek Yıkama Banyo Küveti, Bebek Yıkama Oturağı Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BuluttaBul",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "harika geldi bu fiyata almak benim için şanstı büyük kolaylık olacağını düşünüyorum",
+      "createDate": 1764238634787,
+      "createdDate": "27/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105809713,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ebru Gök",
+      "oldScore": 0,
+      "productId": 695809541,
+      "productSubTitle": "Home Silikon Bebek Yıkama Küveti, Fileli Soft Bebek Yıkama Banyo Küveti, Bebek Yıkama Oturağı Gri",
+      "productTitle": "Home Silikon Bebek Yıkama Küveti, Fileli Soft Bebek Yıkama Banyo Küveti, Bebek Yıkama Oturağı Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BuluttaBul",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "709923494",
+  "collectedAt": "2026-04-07T14:11:11.194Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1,
+    2
+  ],
+  "reviewCountUnique": 11,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün güzel",
+      "createDate": 1775272033981,
+      "createdDate": "04/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106751916,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/04/60/75/01/93/97/16/04/16/53/3543517311581141156.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/04/04/60/75/01/93/97/16/04/16/53/3543517311581141156.png"
+      ],
+      "lastModifiedDate": 1775272033981,
+      "maskedBuyerName": "T*** Y*** B***",
+      "oldScore": 0,
+      "productId": 709923494,
+      "productSubTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "productTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8566265,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/04/60/75/01/93/97/16/04/16/53/3543517311581141156.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/04/60/75/01/93/97/16/04/16/53/3543517311581141156.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/04/60/75/01/93/97/16/04/16/53/3543517311581141156.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün deforme olmuş şekilde geldi patlata da sarılmış ama dökülmüş ağız kısmı hasarlı kullanırken de dökülüyor yeni teslim aldım zaten. Nasıl yapacağız bu sorunu? Hediyelere çok şaşırdım çok da mutlu oldum tester atopik krem ve çok güzel pareo gibi büyük bir şey gönderilmiş. Müşteri memnuniyeti açısından mükemmel",
+      "createDate": 1759666257420,
+      "createdDate": "05/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105351890,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/05/55/01/34/71/70/18/30/64/36/82445513339143866409.jpeg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/10/05/55/01/34/71/70/18/30/64/36/82445513339143866409.jpeg",
+        "https://n11scdn.akamaized.net/a1/{0}/25/10/05/63/29/42/61/42/93/48/09/29/67930892910833941739.jpeg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** K***",
+      "oldScore": 0,
+      "productId": 643140140,
+      "productSubTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "productTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7756347,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/05/55/01/34/71/70/18/30/64/36/82445513339143866409.jpeg"
+        },
+        {
+          "id": 7756348,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/05/63/29/42/61/42/93/48/09/29/67930892910833941739.jpeg"
+        }
+      ],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "Aloanne",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/05/55/01/34/71/70/18/30/64/36/82445513339143866409.jpeg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/05/55/01/34/71/70/18/30/64/36/82445513339143866409.jpeg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Sürekli aldığımız ürün",
+      "createDate": 1739019763090,
+      "createdDate": "08/02/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103618912,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "F*** E***",
+      "oldScore": 0,
+      "productId": 643165819,
+      "productSubTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "productTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "enuygunecza",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Kokusu ve kalitesi tartışılmaz",
+      "createDate": 1731270077177,
+      "createdDate": "10/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102364291,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/10/46/68/25/24/37/51/01/24/90/37556779331464639620.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/11/10/46/68/25/24/37/51/01/24/90/37556779331464639620.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "d*** k***",
+      "oldScore": 0,
+      "productId": 631593270,
+      "productSubTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "productTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6189778,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/10/46/68/25/24/37/51/01/24/90/37556779331464639620.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Kozvit",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/10/46/68/25/24/37/51/01/24/90/37556779331464639620.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/10/46/68/25/24/37/51/01/24/90/37556779331464639620.jpg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Kokusu çok güzel",
+      "createDate": 1731268363556,
+      "createdDate": "10/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102364525,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/10/49/30/23/48/49/75/56/97/17/46015690195323866344.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/11/10/49/30/23/48/49/75/56/97/17/46015690195323866344.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "d*** ö***",
+      "oldScore": 0,
+      "productId": 631593270,
+      "productSubTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "productTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6187491,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/10/49/30/23/48/49/75/56/97/17/46015690195323866344.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Kozvit",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/10/49/30/23/48/49/75/56/97/17/46015690195323866344.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/10/49/30/23/48/49/75/56/97/17/46015690195323866344.jpg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Kokusu nemlendirmesi cok güzel",
+      "createDate": 1731268139306,
+      "createdDate": "10/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102360642,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/10/51/86/15/18/10/64/68/06/84/82344865566822911968.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/11/10/51/86/15/18/10/64/68/06/84/82344865566822911968.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** ö***",
+      "oldScore": 0,
+      "productId": 631593270,
+      "productSubTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "productTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6192453,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/10/51/86/15/18/10/64/68/06/84/82344865566822911968.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Kozvit",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/10/51/86/15/18/10/64/68/06/84/82344865566822911968.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/10/51/86/15/18/10/64/68/06/84/82344865566822911968.jpg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Kokusu cok güzel",
+      "createDate": 1728548862128,
+      "createdDate": "10/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101825014,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/10/54/45/14/01/69/97/85/86/63/42696948390341948502.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/10/10/54/45/14/01/69/97/85/86/63/42696948390341948502.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "D*** Ö***",
+      "oldScore": 0,
+      "productId": 598768926,
+      "productSubTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "productTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 5883957,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/10/54/45/14/01/69/97/85/86/63/42696948390341948502.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DerKoz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/10/54/45/14/01/69/97/85/86/63/42696948390341948502.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/10/54/45/14/01/69/97/85/86/63/42696948390341948502.jpg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Çok güzel kokuyor çok begendim",
+      "createDate": 1724851509470,
+      "createdDate": "28/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101162308,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/28/73/30/53/05/34/89/67/98/11/18643982041459572607.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/08/28/73/30/53/05/34/89/67/98/11/18643982041459572607.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "D*** Ö***",
+      "oldScore": 0,
+      "productId": 631593270,
+      "productSubTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "productTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 5516561,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/28/73/30/53/05/34/89/67/98/11/18643982041459572607.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Kozvit",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/28/73/30/53/05/34/89/67/98/11/18643982041459572607.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/28/73/30/53/05/34/89/67/98/11/18643982041459572607.jpg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "orjinal geldi",
+      "createDate": 1718964947001,
+      "createdDate": "21/06/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100220145,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** K***",
+      "oldScore": 0,
+      "productId": 576045480,
+      "productSubTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "productTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Kozmela",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Gayet memnunum dışarıda kullanmak için pratik ya da biri çocuğu öptü hemen çaktırmadan silebilirsiniz",
+      "createDate": 1711372370174,
+      "createdDate": "25/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5098751446,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/25/57/82/18/22/72/20/23/12/13/69130203408650551986.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/03/25/57/82/18/22/72/20/23/12/13/69130203408650551986.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "B*** A***",
+      "oldScore": 0,
+      "productId": 598768926,
+      "productSubTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "productTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 4228190,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/25/57/82/18/22/72/20/23/12/13/69130203408650551986.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DerKoz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/25/57/82/18/22/72/20/23/12/13/69130203408650551986.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/25/57/82/18/22/72/20/23/12/13/69130203408650551986.jpg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürün güzel paketkenmişti. Görseldekinin aynısı teslim edildi. Teşekkürler. Kargo da daha hızlı olursa iyi olur.",
+      "createDate": 1710495344013,
+      "createdDate": "15/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098544739,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** d***",
+      "oldScore": 0,
+      "productId": 569171148,
+      "productSubTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "productTitle": "Mustela Durulama Gerektirmeyen Temizleme Sıvısı 300 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FARMAUCUZ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 2,
+    "totalCount": 11
+  }
+}

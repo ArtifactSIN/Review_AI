@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "586459362",
+  "collectedAt": "2026-04-07T14:37:40.201Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Plastiği orta seviye ama işimizi gördü kabin boy bebek arabamızın mama sehpası yoktu",
+      "createDate": 1709406315150,
+      "createdDate": "02/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098336661,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "N*** D***",
+      "oldScore": 0,
+      "productId": 586459362,
+      "productSubTitle": "Bebek Arabası Biberon Şişe Tutucu Telefon Standlı Sehpa - Al4006",
+      "productTitle": "Bebek Arabası Biberon Şişe Tutucu Telefon Standlı Sehpa - Al4006",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "ELEKTROMAXX",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

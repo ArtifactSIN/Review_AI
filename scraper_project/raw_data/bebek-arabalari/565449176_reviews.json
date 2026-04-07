@@ -1,0 +1,89 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "565449176",
+  "collectedAt": "2026-04-07T14:37:58.155Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "muslin ince tam yaz icin",
+      "createDate": 1714989230866,
+      "createdDate": "06/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099484135,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/06/75/94/73/67/63/89/13/67/16/63739868741318261502.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/05/06/75/94/73/67/63/89/13/67/16/63739868741318261502.png"
+      ],
+      "lastModifiedDate": 1750657673910,
+      "maskedBuyerName": "C*** Y***",
+      "oldScore": 0,
+      "productId": 565449176,
+      "productSubTitle": "Prenses Müslin Bezi Puset Örtüsü Fermuarlı Beyaz ",
+      "productTitle": "Prenses Müslin Bezi Puset Örtüsü Fermuarlı Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 4604019,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/06/75/94/73/67/63/89/13/67/16/63739868741318261502.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/06/75/94/73/67/63/89/13/67/16/63739868741318261502.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/06/75/94/73/67/63/89/13/67/16/63739868741318261502.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "fiyati pahalı",
+      "createDate": 1712535218250,
+      "createdDate": "08/04/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099027666,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750657673910,
+      "maskedBuyerName": "K*** Y***",
+      "oldScore": 0,
+      "productId": 565449176,
+      "productSubTitle": "Prenses Müslin Bezi Puset Örtüsü Fermuarlı Beyaz ",
+      "productTitle": "Prenses Müslin Bezi Puset Örtüsü Fermuarlı Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

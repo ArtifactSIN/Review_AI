@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "736529231",
+  "collectedAt": "2026-04-07T14:45:57.412Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "güzel",
+      "createDate": 1744715280807,
+      "createdDate": "15/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104173975,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "R*** Y***",
+      "oldScore": 0,
+      "productId": 588406828,
+      "productSubTitle": "Sinomarin Mini Spray 50 Ml",
+      "productTitle": "Sinomarin Mini Spray 50 Ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FarmaLogic",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "sorunsuz teslim adım",
+      "createDate": 1711023237103,
+      "createdDate": "21/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098665181,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** B*** Ç***",
+      "oldScore": 0,
+      "productId": 566428520,
+      "productSubTitle": "Sinomarin Mini Spray 50 Ml",
+      "productTitle": "Sinomarin Mini Spray 50 Ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "eczkapında",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

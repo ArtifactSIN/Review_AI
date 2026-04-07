@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "648274991",
+  "collectedAt": "2026-04-07T14:53:00.742Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel ürün",
+      "createDate": 1770649881514,
+      "createdDate": "09/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106360699,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 648274991,
+      "productSubTitle": "Ultrasonik 1000 Ml Hava Nemlendirici Ortam Nemlendirici Renkli Led Gece Lambası Aroma Difüzörü 001 Yeşil",
+      "productTitle": "Ultrasonik 1000 Ml Hava Nemlendirici Ortam Nemlendirici Renkli Led Gece Lambası Aroma Difüzörü 001",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AYDINİLETİSİMveHİZ.",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "tesekkurler",
+      "createDate": 1766126807494,
+      "createdDate": "19/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106017053,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "F*** A***",
+      "oldScore": 0,
+      "productId": 648274991,
+      "productSubTitle": "Ultrasonik 1000 Ml Hava Nemlendirici Ortam Nemlendirici Renkli Led Gece Lambası Aroma Difüzörü 001 Yeşil",
+      "productTitle": "Ultrasonik 1000 Ml Hava Nemlendirici Ortam Nemlendirici Renkli Led Gece Lambası Aroma Difüzörü 001",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AYDINİLETİSİMveHİZ.",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

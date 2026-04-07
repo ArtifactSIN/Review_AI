@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "723574468",
+  "collectedAt": "2026-04-07T14:34:40.618Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "3 gün içinde geldi , Çok kaliteli bu fiyata şahane bir bebek arabası . Kolinin içinde geldi kurulumunu kolaylıkla yaptım gıcır gıcır fabrikadan yeni çıkma alacaklara tavsiyemdir bu kadar iyi beklemiyordum.👏🏻👌🏻",
+      "createDate": 1770129319479,
+      "createdDate": "03/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106321744,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "E*** K***",
+      "oldScore": 0,
+      "productId": 723574468,
+      "productSubTitle": "Yoyko City Seyahat Sistem Bebek Arabası 3 İn 1 Gri",
+      "productTitle": "Yoyko City Seyahat Sistem Bebek Arabası 3 İn 1",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "YoykoTurkey",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

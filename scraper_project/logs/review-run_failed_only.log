@@ -352,3 +352,42 @@ All review jobs finished.
 [2026-04-05T21:03:21.788Z] [INFO] [REVIEW SAVED] /mnt/c/Developer/Review_AI/scraper_project/raw_data/banyo-ve-ev-gerecleri/569337684_reviews.json
 [2026-04-05T21:03:21.810Z] [INFO] 
 All review jobs finished.
+[2026-04-07T14:20:54.950Z] [INFO] [RUN] id=review-run_failed_only
+[2026-04-07T14:20:54.951Z] [INFO] [RUN] log file: /Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only.log
+[2026-04-07T14:20:54.951Z] [INFO] [RUN] summary file: /Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only_summary.json
+[2026-04-07T14:20:55.351Z] [INFO] [REVIEWS] loaded 0 review jobs from /Users/artifact/Developer/review_ai/Review_AI/scraper_project/product_ids
+[2026-04-07T14:20:55.352Z] [INFO] [REVIEWS] failed-only mode enabled
+[2026-04-07T14:20:55.352Z] [INFO] [REVIEWS] run is tracked as failed-only mode under runId=review-run_failed_only
+[2026-04-07T14:20:55.352Z] [INFO] [REVIEWS] concurrency: 10
+[2026-04-07T14:20:56.093Z] [INFO] 
+All review jobs finished.
+[2026-04-07T15:00:49.530Z] [INFO] [RUN] id=review-run_failed_only
+[2026-04-07T15:00:49.537Z] [INFO] [RUN] log file: /Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only.log
+[2026-04-07T15:00:49.538Z] [INFO] [RUN] summary file: /Users/artifact/Developer/review_ai/Review_AI/scraper_project/logs/review-run_failed_only_summary.json
+[2026-04-07T15:00:49.923Z] [INFO] [REVIEWS] loaded 3 review jobs from /Users/artifact/Developer/review_ai/Review_AI/scraper_project/product_ids
+[2026-04-07T15:00:49.923Z] [INFO] [REVIEWS] failed-only mode enabled
+[2026-04-07T15:00:49.923Z] [INFO] [REVIEWS] run is tracked as failed-only mode under runId=review-run_failed_only
+[2026-04-07T15:00:49.924Z] [INFO] [REVIEWS] concurrency: 10
+[2026-04-07T15:00:50.608Z] [INFO] 
+[REVIEW WORKER 1] starting bebek-arabalari/606622575
+[2026-04-07T15:00:50.609Z] [INFO] 
+[REVIEW WORKER 2] starting bebek-arabalari/611752629
+[2026-04-07T15:00:50.610Z] [INFO] 
+[REVIEW WORKER 3] starting bebek-arabalari/294775484
+[2026-04-07T15:01:01.929Z] [INFO] 
+[START REVIEW] category=bebek-arabalari productId=611752629 startPage=1
+[2026-04-07T15:01:01.931Z] [INFO] 
+[START REVIEW] category=bebek-arabalari productId=294775484 startPage=1
+[2026-04-07T15:01:01.932Z] [INFO] 
+[START REVIEW] category=bebek-arabalari productId=606622575 startPage=1
+[2026-04-07T15:01:02.219Z] [INFO] [review bebek-arabalari/606622575] page=1 +1 reviews (unique=1)
+[2026-04-07T15:01:02.220Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/bebek-arabalari/606622575_reviews.json
+[2026-04-07T15:01:02.240Z] [INFO] [review bebek-arabalari/294775484] page=1 +8 reviews (unique=8)
+[2026-04-07T15:01:02.257Z] [INFO] [review bebek-arabalari/611752629] page=1 +8 reviews (unique=8)
+[2026-04-07T15:01:02.917Z] [INFO] [review bebek-arabalari/294775484] page=2 +4 reviews (unique=12)
+[2026-04-07T15:01:02.918Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/bebek-arabalari/294775484_reviews.json
+[2026-04-07T15:01:02.943Z] [INFO] [review bebek-arabalari/611752629] page=2 +8 reviews (unique=16)
+[2026-04-07T15:01:08.515Z] [INFO] [review bebek-arabalari/611752629] page=3 +2 reviews (unique=18)
+[2026-04-07T15:01:08.517Z] [INFO] [REVIEW SAVED] /Users/artifact/Developer/review_ai/Review_AI/scraper_project/raw_data/bebek-arabalari/611752629_reviews.json
+[2026-04-07T15:01:08.561Z] [INFO] 
+All review jobs finished.

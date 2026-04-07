@@ -1,0 +1,89 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "598350859",
+  "collectedAt": "2026-04-07T14:10:31.206Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "bebeğime kullanıyorum çok güzel gerçekten",
+      "createDate": 1774524891989,
+      "createdDate": "26/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106667565,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/48/90/96/03/28/38/01/45/81/51956155499548622238.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/26/48/90/96/03/28/38/01/45/81/51956155499548622238.png"
+      ],
+      "lastModifiedDate": 1774524891989,
+      "maskedBuyerName": "İ*** T***",
+      "oldScore": 0,
+      "productId": 654314219,
+      "productSubTitle": "Hipp Babysanft Bebek Saç Ve Vücut Banyo Jeli 400 ml x 2 Adet",
+      "productTitle": "Hipp Babysanft Bebek Saç Ve Vücut Banyo Jeli 400 ml x 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8519802,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/48/90/96/03/28/38/01/45/81/51956155499548622238.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "kaytika",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/48/90/96/03/28/38/01/45/81/51956155499548622238.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/48/90/96/03/28/38/01/45/81/51956155499548622238.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Kalite",
+      "createDate": 1762106142104,
+      "createdDate": "02/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105580114,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "İ*** U***",
+      "oldScore": 0,
+      "productId": 654314219,
+      "productSubTitle": "Hipp Babysanft Bebek Saç Ve Vücut Banyo Jeli 400 ml x 2 Adet",
+      "productTitle": "Hipp Babysanft Bebek Saç Ve Vücut Banyo Jeli 400 ml x 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "kaytika",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

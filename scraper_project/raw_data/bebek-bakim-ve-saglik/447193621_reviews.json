@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "447193621",
+  "collectedAt": "2026-04-07T14:53:02.458Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Yedek uc sart cok cabuk deforme oluyor cunku",
+      "createDate": 1725276736242,
+      "createdDate": "02/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101242178,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ç*** G***",
+      "oldScore": 0,
+      "productId": 447193621,
+      "productSubTitle": "Bblüv Trimö Pilli Tırnak Törpüsü Yedek Uç 12+ Ay",
+      "productTitle": "Bblüv Trimö Pilli Tırnak Törpüsü Yedek Uç 12+ Ay",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "welcomebaby",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Yedek uc sart hemen eskiyor",
+      "createDate": 1716722037142,
+      "createdDate": "26/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099842795,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ç*** G***",
+      "oldScore": 0,
+      "productId": 447193621,
+      "productSubTitle": "Bblüv Trimö Pilli Tırnak Törpüsü Yedek Uç 12+ Ay",
+      "productTitle": "Bblüv Trimö Pilli Tırnak Törpüsü Yedek Uç 12+ Ay",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "welcomebaby",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

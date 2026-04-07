@@ -1,0 +1,149 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "629109846",
+  "collectedAt": "2026-04-07T14:11:36.254Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 4,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Oğlum için aldım çok memnunum temizliği çok kolay",
+      "createDate": 1773056103620,
+      "createdDate": "09/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106550002,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773056103620,
+      "maskedBuyerName": "B*** K***",
+      "oldScore": 0,
+      "productId": 629109846,
+      "productSubTitle": "Baby Design Çocuk Klozet Adaptörü Klozet Aparatı Turkuaz",
+      "productTitle": "Baby Design Çocuk Klozet Adaptörü Klozet Aparatı Turkuaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Dogus_Mutfak",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "güzel ürün. daha önce de kullanmıştık",
+      "createDate": 1761555896541,
+      "createdDate": "27/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105514838,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/27/82/12/90/62/03/37/57/45/83/23750689339913646419.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/10/27/82/12/90/62/03/37/57/45/83/23750689339913646419.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** Ç***",
+      "oldScore": 0,
+      "productId": 629109846,
+      "productSubTitle": "Baby Design Çocuk Klozet Adaptörü Klozet Aparatı Turkuaz",
+      "productTitle": "Baby Design Çocuk Klozet Adaptörü Klozet Aparatı Turkuaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7862908,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/27/82/12/90/62/03/37/57/45/83/23750689339913646419.png"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Dogus_Mutfak",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/27/82/12/90/62/03/37/57/45/83/23750689339913646419.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/27/82/12/90/62/03/37/57/45/83/23750689339913646419.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Gayet güzel",
+      "createDate": 1748956897405,
+      "createdDate": "03/06/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104554033,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 629109846,
+      "productSubTitle": "Baby Design Çocuk Klozet Adaptörü Klozet Aparatı Turkuaz",
+      "productTitle": "Baby Design Çocuk Klozet Adaptörü Klozet Aparatı Turkuaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Dogus_Mutfak",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Çok sevdik temizlemesi de kolay",
+      "createDate": 1727768242289,
+      "createdDate": "01/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101682935,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "f*** k***",
+      "oldScore": 0,
+      "productId": 629109846,
+      "productSubTitle": "Baby Design Çocuk Klozet Adaptörü Klozet Aparatı Turkuaz",
+      "productTitle": "Baby Design Çocuk Klozet Adaptörü Klozet Aparatı Turkuaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Dogus_Mutfak",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 4
+  }
+}

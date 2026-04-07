@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "732265209",
+  "collectedAt": "2026-04-07T14:51:01.760Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "gayet güzel tavsiye ederim",
+      "createDate": 1741088827591,
+      "createdDate": "04/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103828403,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "emre külcü",
+      "oldScore": 0,
+      "productId": 599064886,
+      "productSubTitle": "Vicks Inhaler Burun Çubuğu 1 Gr",
+      "productTitle": "Vicks Inhaler Burun Çubuğu 1 Gr",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Dermoailem2",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Nadir bulunuyor biz çok memnunuz",
+      "createDate": 1729687814279,
+      "createdDate": "23/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102018823,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "N*** A***",
+      "oldScore": 0,
+      "productId": 599064886,
+      "productSubTitle": "Vicks Inhaler Burun Çubuğu 1 Gr",
+      "productTitle": "Vicks Inhaler Burun Çubuğu 1 Gr",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Dermoailem2",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "105045326",
+  "collectedAt": "2026-04-07T14:51:52.587Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "paket ürün kokusu ben begendim",
+      "createDate": 1510998966793,
+      "createdDate": "18/11/2017",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5064224992,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "neslihan kolay",
+      "oldScore": 0,
+      "productId": 105045326,
+      "productSubTitle": "Saubern Baby Hipoalerjenik Sıvı Çamaşır Yumuşatıcı 750 ML",
+      "productTitle": "Saubern Baby Hipoalerjenik Sıvı Çamaşır Yumuşatıcı 750 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TEİF",
+      "title": "🤗🤗🤗",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürünü kullandık, eşim çok beğendi. İndirimde olması çok iyi oldu.",
+      "createDate": 1510947541519,
+      "createdDate": "17/11/2017",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5064223718,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Muhammet Meral",
+      "oldScore": 0,
+      "productId": 105045326,
+      "productSubTitle": "Saubern Baby Hipoalerjenik Sıvı Çamaşır Yumuşatıcı 750 ML",
+      "productTitle": "Saubern Baby Hipoalerjenik Sıvı Çamaşır Yumuşatıcı 750 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TEİF",
+      "title": "Kibar Satıcı",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "492344061",
+  "collectedAt": "2026-04-07T14:12:35.998Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Tek elle rahatlıkla katlanıp açılabiliyor kolay taşınabilir oldukça sağlam çocuğumla birlikte kendimde kullanıyorum tavsiye ederim",
+      "createDate": 1639220609900,
+      "createdDate": "11/12/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5087931019,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 492344061,
+      "productSubTitle": "Bblüv Step Katlanabilen Eğitici Basamak Mavi",
+      "productTitle": "Bblüv Step Katlanabilen Eğitici Basamak Mavi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "welcomebaby",
+      "title": "Kullanışlı pratik",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

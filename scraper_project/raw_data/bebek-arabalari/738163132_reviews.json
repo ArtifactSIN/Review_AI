@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "738163132",
+  "collectedAt": "2026-04-07T14:32:01.434Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Çok güzel bi ürün çok güzel kutulu eksiksiz ve sağlam geldi",
+      "createDate": 1767726721704,
+      "createdDate": "06/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106154865,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 715380886,
+      "productSubTitle": "Bagi Neo 2 Bebek Arabası Greyson Greyson",
+      "productTitle": "Bagi Neo 2 Bebek Arabası Greyson",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "attabebek",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "720564173",
+  "collectedAt": "2026-04-07T14:09:33.544Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Çok beğendik",
+      "createDate": 1725776179867,
+      "createdDate": "08/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101319577,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/08/71/66/44/05/96/18/97/33/90/05966396427236230139.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/09/08/71/66/44/05/96/18/97/33/90/05966396427236230139.jpg"
+      ],
+      "lastModifiedDate": 1750705316380,
+      "maskedBuyerName": "S*** G***",
+      "oldScore": 0,
+      "productId": 633767997,
+      "productSubTitle": "Pilsan Eğitici Köpek Klozet Turuncu ",
+      "productTitle": "Pilsan Eğitici Köpek Klozet Turuncu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 5604621,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/08/71/66/44/05/96/18/97/33/90/05966396427236230139.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "n11",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/08/71/66/44/05/96/18/97/33/90/05966396427236230139.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/08/71/66/44/05/96/18/97/33/90/05966396427236230139.jpg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "ürün çok güzel resimdeki gibi aynısı ayrıca çocuklar çok sevdi biri 3 yaşında diğeri 1 buçuk kavga bile ettiler önce ben yapıcam benim bu diye kimseye vermem diye çok teşekkür ederiz:",
+      "createDate": 1608635840675,
+      "createdDate": "22/12/2020",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5083292941,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "G*** N***",
+      "oldScore": 0,
+      "productId": 458671519,
+      "productSubTitle": "Pilsan Eğitici Köpek Klozet",
+      "productTitle": "Pilsan Eğitici Köpek Klozet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "oyuncakgeldi",
+      "title": "Satıcı ilgili resimde anlatıldığı gibi ",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "562942748",
+  "collectedAt": "2026-04-07T14:11:47.053Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel",
+      "createDate": 1723992207886,
+      "createdDate": "18/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101025709,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "i*** ü***",
+      "oldScore": 0,
+      "productId": 562942748,
+      "productSubTitle": "Ezh 1207 %100 Pamuklu 4 Kat Bebek Banyo Havlusu 92 x 82 CM Mavi",
+      "productTitle": "Ezh 1207 %100 Pamuklu 4 Kat Bebek Banyo Havlusu 92 x 82 CM Mavi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İlkeBebe",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

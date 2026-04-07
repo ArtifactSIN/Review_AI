@@ -1,0 +1,59 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "732248375",
+  "collectedAt": "2026-04-07T14:32:38.682Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ürün fakat agır biraz",
+      "createDate": 1764765208290,
+      "createdDate": "03/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105878823,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/03/56/99/71/13/55/00/99/52/72/05964538112340673870.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/12/03/56/99/71/13/55/00/99/52/72/05964538112340673870.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** g***",
+      "oldScore": 0,
+      "productId": 670264701,
+      "productSubTitle": "Kanz N-go Travel Sistem Bebek Arabası Bej Antrasit - Siyah",
+      "productTitle": "Kanz N-go Travel Sistem Bebek Arabası Bej",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8073156,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/03/56/99/71/13/55/00/99/52/72/05964538112340673870.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "babymall",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/03/56/99/71/13/55/00/99/52/72/05964538112340673870.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/03/56/99/71/13/55/00/99/52/72/05964538112340673870.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

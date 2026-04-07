@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "718716190",
+  "collectedAt": "2026-04-07T14:35:05.183Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kargo çok çabuk elime ulaştı. Ürünü beğenerek aldım görselde ki gibi geliyor. tek sorunu fren kısmı kırık ve tekerleği takılan demiri eğilmiş, ilgili satıcıya hemen ilettim yeni parça gönderimi olacak dediler şuan bekliyorum herhangi bir mesaj gelmedi sadece müşteri hizmetleri aradı.",
+      "createDate": 1771153816864,
+      "createdDate": "15/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106403691,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "S*** O***",
+      "oldScore": 0,
+      "productId": 718716190,
+      "productSubTitle": "Artemis Çift Yönlü Bebek Arabası Taşıma Ayak Örtüsü Hediyeli Kahverengi Kahverengi",
+      "productTitle": "Artemis Çift Yönlü Bebek Arabası Taşıma Ayak Örtüsü Hediyeli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "4Baby",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "605253890",
+  "collectedAt": "2026-04-07T14:46:26.479Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "harika isini yapiyor sadece yapiskani daha kaliteli olabilir di",
+      "createDate": 1723315919912,
+      "createdDate": "10/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100920853,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "b*** a***",
+      "oldScore": 0,
+      "productId": 605253890,
+      "productSubTitle": "Şeffaf Kenar Koruyucu 2 M",
+      "productTitle": "Şeffaf Kenar Koruyucu 2 M",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Mialiva",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

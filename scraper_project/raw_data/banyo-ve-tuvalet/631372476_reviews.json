@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "631372476",
+  "collectedAt": "2026-04-07T14:12:20.255Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Harika her eve şart",
+      "createDate": 1755611250058,
+      "createdDate": "19/08/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105046435,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "b*** y***",
+      "oldScore": 0,
+      "productId": 631372476,
+      "productSubTitle": "Medikalcim Hasta Sandalyesi Deri Döşemeli Klozet Plastik Hunili Direk Wc Alaturka Tuvalet Üzerine Beyaz ",
+      "productTitle": "Medikalcim Hasta Sandalyesi Deri Döşemeli Klozet Plastik Hunili Direk Wc Alaturka Tuvalet Üzerine Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "YENİKALEMEDİKAL",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

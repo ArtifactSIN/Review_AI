@@ -1,0 +1,89 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "572484541",
+  "collectedAt": "2026-04-07T14:50:17.431Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Bu fiyata değmez içi falan cok ince yok bişey değil",
+      "createDate": 1705673823992,
+      "createdDate": "19/01/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097672542,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 572484541,
+      "productSubTitle": "Bebek Bakım Çantası Organizer Urcin",
+      "productTitle": "Bebek Bakım Çantası Organizer Urcin",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "HAMURHOME",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "çok kaliteli br kullanışlı buldum. anck oslak mendili 90lık faşan koymamak gerekiyor. top gibi oluyor çanta. daha az olan koyulabilir. dokusu deseni çok güzel. keşle daha önce alsaydım",
+      "createDate": 1701248479208,
+      "createdDate": "29/11/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096816484,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/11/29/70/64/08/24/92/58/47/34/08/68215847197121790232.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/23/11/29/70/64/08/24/92/58/47/34/08/68215847197121790232.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** A*** A***",
+      "oldScore": 0,
+      "productId": 572484541,
+      "productSubTitle": "Bebek Bakım Çantası Organizer Urcin",
+      "productTitle": "Bebek Bakım Çantası Organizer Urcin",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 2786502,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/11/29/70/64/08/24/92/58/47/34/08/68215847197121790232.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HAMURHOME",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/11/29/70/64/08/24/92/58/47/34/08/68215847197121790232.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/11/29/70/64/08/24/92/58/47/34/08/68215847197121790232.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

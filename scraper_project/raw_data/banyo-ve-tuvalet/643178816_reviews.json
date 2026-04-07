@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "643178816",
+  "collectedAt": "2026-04-07T14:12:44.257Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürünü beğenmedim hiç güzel değil verdiğim para boşa gitti",
+      "createDate": 1742302612977,
+      "createdDate": "18/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103950056,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n*** Y***",
+      "oldScore": 0,
+      "productId": 643178816,
+      "productSubTitle": "Ecowell Organik Bebek Tatilde Paketi Bebe Şampuanı 300 ML+ Bebek Güneş Kremi + Bebe Losyonu",
+      "productTitle": "Ecowell Organik Bebek Tatilde Paketi Bebe Şampuanı 300 ML+ Bebek Güneş Kremi + Bebe Losyonu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "bahçeorganik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

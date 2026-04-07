@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "641835117",
+  "collectedAt": "2026-04-07T14:45:45.344Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün tam istediğim gibi geldi, paketlenmesi ürün türüne uygun bir şekilde yapılmıştı. Teşekkür ediyorum.",
+      "createDate": 1772530330936,
+      "createdDate": "03/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106508884,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "Z*** K***",
+      "oldScore": 0,
+      "productId": 681345450,
+      "productSubTitle": "Mustela Baby Oil -100 ML",
+      "productTitle": "Mustela Baby Oil -100 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AvisMedikal",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

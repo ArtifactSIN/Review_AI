@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "652014218",
+  "collectedAt": "2026-04-07T14:50:44.759Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün oldukça güzel. Yetişkinler için olan ürünü pastırmalı bir kokuya sahip. Bunda öyle bir sorun yok",
+      "createDate": 1750594261326,
+      "createdDate": "22/06/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104674621,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "kamuran  avcı",
+      "oldScore": 0,
+      "productId": 602012544,
+      "productSubTitle": "La Roche Posay Anthelios Dermo Pediatrics Uvmune 400 Invisible Fluid Yüz Güneş Kremi Spf50+ 50ml",
+      "productTitle": "La Roche Posay Anthelios Dermo Pediatrics Uvmune 400 Invisible Fluid Yüz Güneş Kremi SPF50+ 50 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "LaRochePosay",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürünü çok beğendim. Teşekkürler",
+      "createDate": 1740423479976,
+      "createdDate": "24/02/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103759438,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** G***",
+      "oldScore": 0,
+      "productId": 602012544,
+      "productSubTitle": "La Roche Posay Anthelios Dermo Pediatrics Uvmune 400 Invisible Fluid Yüz Güneş Kremi Spf50+ 50ml",
+      "productTitle": "La Roche Posay Anthelios Dermo Pediatrics Uvmune 400 Invisible Fluid Yüz Güneş Kremi SPF50+ 50 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "LaRochePosay",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

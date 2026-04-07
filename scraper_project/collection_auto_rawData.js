@@ -14,11 +14,200 @@ const REVIEW_TAG = "tümü";
 const CHECKPOINT_EVERY_PAGES = 5;
 const REVIEW_RETRY_ATTEMPTS = 3;
 const REVIEW_RETRY_DELAY_MS = 1200;
+const MAX_CONSECUTIVE_WORKER_ERRORS = 5;
 
 let isShuttingDown = false;
 const activeReviewRuns = new Map();
 const failedJobsLatestPath = path.join(LOGS_DIR, `failed_jobs_latest.json`);
 const statusFilePath = path.join(LOGS_DIR, `current_status.json`);
+
+const TEAM_ASSIGNMENTS = {
+  arda: [
+    "kitap",
+    "dekorasyon-ve-aydinlatma",
+    "telefon-ve-aksesuarlari",
+    "ses-sistemleri-ve-navigasyon",
+    "motosiklet",
+    "kadin-bakim-urunleri",
+    "su-sporlari",
+    "yuz-ve-vucut-bakimi",
+    "cinsel-urunler",
+    "supermarket",
+    "beslenme-ve-mama-sandalyesi",
+    "bilgisayar",
+    "video-oyun-konsol",
+    "bebek-giyim",
+    "bireysel-ve-takim-sporlari",
+    "emzirme-urunleri",
+    "guzellik-salonu-ve-kuafor-urunleri",
+    "kis-sporlari",
+    "televizyon-ve-ses-sistemleri"
+  ],
+  tugce: [
+    "kadin-giyim-aksesuar",
+    "outdoor-ve-kamp",
+    "erkek-giyim-aksesuar",
+    "evcil-hayvan-urunleri",
+    "yedek-parca-otomobil",
+    "bisiklet-ve-scooter",
+    "elektrikli-ev-aletleri",
+    "lastik-ve-jant",
+    "mutfak-gerecleri",
+    "spor-giyim-ve-ayakkabi",
+    "avcilik-ve-balikcilik",
+    "erkek-bakim-urunleri",
+    "mobilya",
+    "bebek-bezi-ve-islak-mendil",
+    "biberon-ve-aksesuarlari",
+    "dugun-davet-organizasyon",
+    "fotograf-ve-kamera",
+    "ilginc-akilli-urunler",
+    "tekne-ve-yat-malzemeleri"
+  ],
+  havvagul: [
+    "parfum-ve-deodorant",
+    "saglik-ve-medikal-urunler",
+    "ev-tekstili",
+    "kirtasiye-ve-ofis",
+    "beyaz-esya",
+    "yetiskin-hobi-ve-oyun",
+    "muzik",
+    "sac-bakim-ve-sekillendirme",
+    "bebek-odasi-ve-park-yatak",
+    "makyaj",
+    "cocuk-oyuncaklari-ve-parti",
+    "fitness-ve-kondisyon",
+    "yapi-market-ve-bahce",
+    "bebek-guvenlik",
+    "dijital-kodlar-urunler",
+    "film",
+    "hamile-giyim",
+    "oto-koltugu-ve-ana-kucagi",
+    "yurutec-ve-yurume-yardimcilari",
+    "yasam-ve-etkinlik"
+  ],
+};
+
+function getAllCategorySlugsFromProductIds() {
+  if (!fs.existsSync(PRODUCT_IDS_DIR)) return [];
+
+  return fs.readdirSync(PRODUCT_IDS_DIR)
+    .filter(file => file.endsWith(".json") && !file.endsWith(".partial.json"))
+    .map(file => {
+      const fullPath = path.join(PRODUCT_IDS_DIR, file);
+      try {
+        const payload = JSON.parse(fs.readFileSync(fullPath, "utf8"));
+        let slug = sanitizeFileName(payload?.slug || file.replace(/_ids\.json$/i, "").replace(/\.json$/i, ""));
+        return slug;
+      } catch {
+        return null;
+      }
+    })
+    .filter(Boolean)
+    .sort();
+}
+
+function isCategoryCompleted(categorySlug) {
+  const productIdFile = path.join(PRODUCT_IDS_DIR, `${categorySlug}_ids.json`);
+
+  if (!fs.existsSync(productIdFile)) {
+    return false;
+  }
+
+  let payload;
+  try {
+    payload = JSON.parse(fs.readFileSync(productIdFile, "utf8"));
+  } catch {
+    return false;
+  }
+
+  const ids = Array.isArray(payload?.ids)
+    ? payload.ids
+    : Array.isArray(payload)
+      ? payload
+      : [];
+
+  if (ids.length === 0) return false;
+
+  for (const rawId of ids) {
+    const productId = String(rawId).trim();
+    if (!productId) continue;
+
+    const finalPath = getReviewOutputPath(categorySlug, productId);
+    if (!fs.existsSync(finalPath)) {
+      return false;
+    }
+  }
+
+  return true;
+}
+
+function getCategoryProductCount(categorySlug) {
+  const productIdFile = path.join(PRODUCT_IDS_DIR, `${categorySlug}_ids.json`);
+
+  if (!fs.existsSync(productIdFile)) {
+    return 0;
+  }
+
+  try {
+    const payload = JSON.parse(fs.readFileSync(productIdFile, "utf8"));
+    const ids = Array.isArray(payload?.ids)
+      ? payload.ids
+      : Array.isArray(payload)
+        ? payload
+        : [];
+
+    return ids.length;
+  } catch {
+    return 0;
+  }
+}
+
+function buildBalancedTeamAssignments() {
+  const teamLoads = {
+    arda: { totalProducts: 0, categories: [] },
+    tugce: { totalProducts: 0, categories: [] },
+    havvagul: { totalProducts: 0, categories: [] },
+  };
+
+  const remainingCategories = getRemainingCategories()
+    .map(categorySlug => ({
+      categorySlug,
+      productCount: getCategoryProductCount(categorySlug),
+    }))
+    .sort((a, b) => b.productCount - a.productCount);
+
+  for (const item of remainingCategories) {
+    const lightestTeam = Object.entries(teamLoads)
+      .sort((a, b) => a[1].totalProducts - b[1].totalProducts)[0][0];
+
+    teamLoads[lightestTeam].categories.push(item.categorySlug);
+    teamLoads[lightestTeam].totalProducts += item.productCount;
+  }
+
+  return teamLoads;
+}
+
+function printBalancedTeamAssignments() {
+  const assignments = buildBalancedTeamAssignments();
+
+  console.log("\n[BALANCED TEAM ASSIGNMENTS]");
+  for (const [teamName, info] of Object.entries(assignments)) {
+    console.log(`\n${teamName.toUpperCase()} | totalProducts=${info.totalProducts}`);
+    console.log(info.categories.join(", "));
+  }
+}
+
+function getCompletedCategories() {
+  const allCategories = getAllCategorySlugsFromProductIds();
+  return new Set(allCategories.filter(isCategoryCompleted));
+}
+
+function getRemainingCategories() {
+  const allCategories = getAllCategorySlugsFromProductIds();
+  const completed = getCompletedCategories();
+  return allCategories.filter(categorySlug => !completed.has(categorySlug));
+}
 
 let activeRunId = null;
 let logFilePath = null;
@@ -117,7 +306,9 @@ function parseCliArgs(argv) {
     resumeRun: null,
     name: null,
     listAllRuns: false,
-    };
+    team: null,
+    teamCategoryLimit: null,
+  };
 
   for (const arg of argv) {
     if (arg.startsWith("--categories=")) {
@@ -145,20 +336,41 @@ function parseCliArgs(argv) {
       options.failedOnly = true;
     } else if (arg.startsWith("--failed-file=")) {
       options.failedFile = arg.slice("--failed-file=".length).trim() || null;
-    }
-    else if (arg === "--list-runs") {
-    options.listRuns = true;
+    } else if (arg === "--list-runs") {
+      options.listRuns = true;
     } else if (arg.startsWith("--resume-run=")) {
-    options.resumeRun = arg.slice("--resume-run=".length).trim() || null;
-    }
-    else if (arg.startsWith("--name=")) {
+      options.resumeRun = arg.slice("--resume-run=".length).trim() || null;
+    } else if (arg.startsWith("--name=")) {
       options.name = sanitizeFileName(arg.slice("--name=".length).trim()) || null;
     } else if (arg === "--list-all-runs") {
       options.listAllRuns = true;
-  }
+    } else if (arg.startsWith("--team=")) {
+      options.team = sanitizeFileName(arg.slice("--team=".length).trim()).toLowerCase() || null;
+    } else if (/^\d+$/.test(arg)) {
+      const n = Number(arg);
+      if (Number.isFinite(n) && n > 0) {
+        options.teamCategoryLimit = Math.floor(n);
+      }
+    }
   }
 
   return options;
+}
+
+function resolveTeamCategories(teamName, limit = null) {
+  const normalizedTeam = sanitizeFileName(teamName || "").toLowerCase();
+  const assigned = TEAM_ASSIGNMENTS[normalizedTeam];
+
+  if (!assigned) {
+    throw new Error(`Unknown team name: ${teamName}`);
+  }
+
+  const assignedSet = new Set(assigned.map(x => sanitizeFileName(x)));
+  const remaining = getRemainingCategories().filter(category => assignedSet.has(category));
+
+  return Number.isFinite(limit) && limit > 0
+    ? remaining.slice(0, limit)
+    : remaining;
 }
 
 function makeRunId(name, kind = "normal") {
@@ -575,6 +787,24 @@ async function fetchReviewPageWithRetry(page, productId, currentPage) {
   throw lastError || new Error(`Failed after retries for productId=${productId} page=${currentPage}`);
 }
 
+async function createWorkerPage(context) {
+  const page = await context.newPage();
+  page.setDefaultNavigationTimeout(60000);
+  return page;
+}
+
+async function recycleWorkerPage(workerId, context, page, reason) {
+  try {
+    if (page && !page.isClosed()) {
+      await page.close().catch(() => {});
+    }
+  } finally {
+    const nextPage = await createWorkerPage(context);
+    console.log(`[REVIEW WORKER ${workerId}] page recycled (${reason}).`);
+    return nextPage;
+  }
+}
+
 function savePartialReviewResult(categorySlug, productId, state) {
   const outputPath = getPartialReviewOutputPath(categorySlug, productId);
   const partialResult = {
@@ -716,69 +946,90 @@ function saveAllActiveReviewPartials() {
   writeCurrentStatus({ event: "partials_saved" });
 }
 
-async function processReview(browser, job) {
+async function processReview(page, job) {
   const { productId } = job;
-  const context = await browser.newContext();
-  const page = await context.newPage();
 
-  try {
-    await page.goto(buildReviewPageUrl(productId), {
-      waitUntil: "domcontentloaded",
-      timeout: 60000
-    });
-    await sleep(1200);
+  await page.goto(buildReviewPageUrl(productId), {
+    waitUntil: "domcontentloaded",
+    timeout: 60000
+  });
+  await sleep(1200);
 
-    const result = await collectReviewsForProduct(page, job);
-    saveReviewResult(result);
-  } finally {
-    await context.close();
-  }
+  const result = await collectReviewsForProduct(page, job);
+  saveReviewResult(result);
 }
 
 async function runWorkers(browser, jobs, concurrency = REVIEW_CONCURRENCY) {
   const queue = [...jobs];
+  const context = await browser.newContext();
 
   async function worker(workerId) {
     runStats.activeWorkers += 1;
-    while (queue.length > 0) {
-      if (isShuttingDown) {
-        console.log(`[REVIEW WORKER ${workerId}] shutdown detected, exiting.`);
-        writeCurrentStatus({ event: "worker_shutdown", workerId });
-        runStats.activeWorkers -= 1;
-        writeCurrentStatus({ event: "worker_exited", workerId });
-        return;
+    let page = await createWorkerPage(context);
+    let tasksOnCurrentPage = 0;
+    let consecutiveErrors = 0;
+
+    try {
+      while (queue.length > 0) {
+        if (isShuttingDown) {
+          console.log(`[REVIEW WORKER ${workerId}] shutdown detected, exiting.`);
+          writeCurrentStatus({ event: "worker_shutdown", workerId });
+          return;
+        }
+
+        const job = queue.shift();
+        if (!job) break;
+
+        const { categorySlug, productId } = job;
+
+        if (fs.existsSync(getReviewOutputPath(categorySlug, productId))) {
+          runStats.skippedExisting += 1;
+          console.log(`[REVIEW WORKER ${workerId}] skip existing ${categorySlug}/${productId}`);
+          writeCurrentStatus({ event: "skip_existing", categorySlug, productId, workerId });
+          continue;
+        }
+
+        console.log(`\n[REVIEW WORKER ${workerId}] starting ${categorySlug}/${productId}`);
+
+        try {
+          await processReview(page, job);
+          tasksOnCurrentPage += 1;
+          consecutiveErrors = 0;
+        } catch (err) {
+          consecutiveErrors += 1;
+          console.error(`[REVIEW ERROR] ${categorySlug}/${productId}`);
+          console.error(err);
+          recordFailedJob(job, err);
+          writeCurrentStatus({ event: "job_failed", categorySlug, productId, workerId });
+
+          if (consecutiveErrors >= MAX_CONSECUTIVE_WORKER_ERRORS) {
+            page = await recycleWorkerPage(
+              workerId,
+              context,
+              page,
+              `consecutive errors=${consecutiveErrors}`
+            );
+            consecutiveErrors = 0;
+            tasksOnCurrentPage = 0;
+          }
+        }
+
       }
-
-      const job = queue.shift();
-      if (!job) break;
-
-      const { categorySlug, productId } = job;
-
-      if (fs.existsSync(getReviewOutputPath(categorySlug, productId))) {
-        runStats.skippedExisting += 1;
-        console.log(`[REVIEW WORKER ${workerId}] skip existing ${categorySlug}/${productId}`);
-        writeCurrentStatus({ event: "skip_existing", categorySlug, productId, workerId });
-        continue;
+    } finally {
+      if (page && !page.isClosed()) {
+        await page.close().catch(() => {});
       }
-
-      console.log(`\n[REVIEW WORKER ${workerId}] starting ${categorySlug}/${productId}`);
-
-      try {
-        await processReview(browser, job);
-      } catch (err) {
-        console.error(`[REVIEW ERROR] ${categorySlug}/${productId}`);
-        console.error(err);
-        recordFailedJob(job, err);
-        writeCurrentStatus({ event: "job_failed", categorySlug, productId, workerId });
-      }
+      runStats.activeWorkers -= 1;
+      writeCurrentStatus({ event: "worker_exited", workerId });
     }
-
-    runStats.activeWorkers -= 1;
-    writeCurrentStatus({ event: "worker_exited", workerId });
   }
 
-  const workers = Array.from({ length: concurrency }, (_, i) => worker(i + 1));
-  await Promise.all(workers);
+  try {
+    const workers = Array.from({ length: concurrency }, (_, i) => worker(i + 1));
+    await Promise.all(workers);
+  } finally {
+    await context.close().catch(() => {});
+  }
 }
 
 process.on("SIGINT", () => {
@@ -797,6 +1048,27 @@ process.on("SIGINT", () => {
 
 (async () => {
   const options = parseCliArgs(process.argv.slice(2));
+
+  if (options.team) {
+    const selectedCategories = resolveTeamCategories(options.team, options.teamCategoryLimit);
+
+    options.categories = new Set(selectedCategories);
+
+    if (!options.name) {
+      options.name = options.team;
+    }
+
+    console.log(`[TEAM MODE] team=${options.team}`);
+    console.log(`[TEAM MODE] assigned remaining categories count=${selectedCategories.length}`);
+
+    if (selectedCategories.length === 0) {
+      console.log(`[TEAM MODE] no remaining categories assigned to ${options.team}.`);
+      return;
+    }
+
+    console.log(`[TEAM MODE] categories: ${selectedCategories.join(", ")}`);
+  }
+
   if (options.listRuns) {
     listPreviousRuns(false);
     return;
@@ -806,6 +1078,7 @@ process.on("SIGINT", () => {
     listPreviousRuns(true);
     return;
   }
+
   let effectiveOptions = options;
   let jobs = [];
   let resumedFromRunId = null;

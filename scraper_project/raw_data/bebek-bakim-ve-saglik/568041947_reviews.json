@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "568041947",
+  "collectedAt": "2026-04-07T14:42:05.425Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürünle ilgili bir sorunum yok. Bebeğim soğsuğı günden beri bu markayı kullanıyorum. Gerçekten kaliteli fakat kargoya çok önceden verilmesine rağmen gelmedi. Bir de eve getirmediler şubeden teslim almak zorunda kaldım.",
+      "createDate": 1774373677788,
+      "createdDate": "24/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106633591,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774373677788,
+      "maskedBuyerName": "b*** t***",
+      "oldScore": 0,
+      "productId": 568041947,
+      "productSubTitle": "İpek Bebek Temizleme Pamuğu 24 x 60'lı",
+      "productTitle": "İpek Bebek Temizleme Pamuğu 24 x 60'lı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "kaytika",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

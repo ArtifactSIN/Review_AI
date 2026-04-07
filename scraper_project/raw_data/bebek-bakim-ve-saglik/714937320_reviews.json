@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "714937320",
+  "collectedAt": "2026-04-07T14:50:07.400Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel",
+      "createDate": 1773922123461,
+      "createdDate": "19/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106615825,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773922123461,
+      "maskedBuyerName": "-Dilek  -Duman",
+      "oldScore": 0,
+      "productId": 714937320,
+      "productSubTitle": "2li Nazal Burun Aspiratörü Yedek Uç 12'li",
+      "productTitle": "2li Nazal Burun Aspiratörü Yedek Uç 12'li",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Favorinne",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "307019951",
+  "collectedAt": "2026-04-07T14:31:38.162Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Taksitleri bitmeyen bebek arabası yapmışlar. Bu aldığım 4. Ön teker sistemi. Kısa sürede dağılmak üzere tasarlanmış. Satıcıya soru soruyorum sanarsın küçük dağları yaratmışlar.",
+      "createDate": 1650287950077,
+      "createdDate": "18/04/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5089333542,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750665431457,
+      "maskedBuyerName": "Mustafa Yanik",
+      "oldScore": 0,
+      "productId": 307019951,
+      "productSubTitle": "Weego Travel Sistem Bebek Arabası Uyumlu Ön Tekeri Siyah ",
+      "productTitle": "Weego Travel Sistem Bebek Arabası Uyumlu Ön Tekeri Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "TEİF",
+      "title": "Aidatlı bebek arabası",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün malzemesi iyi değil hemen kırılıyor, 140₺ verip yenisini almak zorundasınız, garantiye girmiyor.",
+      "createDate": 1594332914318,
+      "createdDate": "10/07/2020",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5080258581,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750665431457,
+      "maskedBuyerName": "Sezer Karabugul",
+      "oldScore": 0,
+      "productId": 307019951,
+      "productSubTitle": "Weego Travel Sistem Bebek Arabası Uyumlu Ön Tekeri Siyah ",
+      "productTitle": "Weego Travel Sistem Bebek Arabası Uyumlu Ön Tekeri Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "TEİF",
+      "title": "Tel maşa malzeme kalitesi",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

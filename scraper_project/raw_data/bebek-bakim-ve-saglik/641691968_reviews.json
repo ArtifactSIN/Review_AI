@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "641691968",
+  "collectedAt": "2026-04-07T14:54:02.114Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "paketleme cok kotu dökülmüştü hepsi",
+      "createDate": 1730738020426,
+      "createdDate": "04/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102243860,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** Ç***",
+      "oldScore": 0,
+      "productId": 641691968,
+      "productSubTitle": "Uni Baby Çiçeksi Ferahlık Bebek Kolonyası 150 Ml 2 Adet",
+      "productTitle": "Uni Baby Çiçeksi Ferahlık Bebek Kolonyası 150 Ml 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

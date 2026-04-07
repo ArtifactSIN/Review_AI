@@ -1,0 +1,149 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "568780524",
+  "collectedAt": "2026-04-07T14:37:57.172Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 4,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok güzel geldi",
+      "createDate": 1714481938929,
+      "createdDate": "30/04/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099388364,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750665500585,
+      "maskedBuyerName": "E*** A***",
+      "oldScore": 0,
+      "productId": 568780524,
+      "productSubTitle": "Fermuarlı Müslin Bezi Puset Örtüsü Gökkuşağı Beyaz ",
+      "productTitle": "Fermuarlı Müslin Bezi Puset Örtüsü Gökkuşağı Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün bana ulaşmadı",
+      "createDate": 1698778725834,
+      "createdDate": "31/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096283764,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750665500585,
+      "maskedBuyerName": "Ü*** A***",
+      "oldScore": 0,
+      "productId": 568780524,
+      "productSubTitle": "Fermuarlı Müslin Bezi Puset Örtüsü Gökkuşağı Beyaz ",
+      "productTitle": "Fermuarlı Müslin Bezi Puset Örtüsü Gökkuşağı Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "harikaaa cok kaliteli",
+      "createDate": 1690798195063,
+      "createdDate": "31/07/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094708096,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/07/31/69/05/37/27/55/08/71/50/95/38810309183283809560.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/23/07/31/69/05/37/27/55/08/71/50/95/38810309183283809560.png"
+      ],
+      "lastModifiedDate": 1750665500585,
+      "maskedBuyerName": "E*** A***",
+      "oldScore": 0,
+      "productId": 568780524,
+      "productSubTitle": "Fermuarlı Müslin Bezi Puset Örtüsü Gökkuşağı Beyaz ",
+      "productTitle": "Fermuarlı Müslin Bezi Puset Örtüsü Gökkuşağı Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 2243260,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/07/31/69/05/37/27/55/08/71/50/95/38810309183283809560.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/07/31/69/05/37/27/55/08/71/50/95/38810309183283809560.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/07/31/69/05/37/27/55/08/71/50/95/38810309183283809560.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "çok güzel",
+      "createDate": 1689252692742,
+      "createdDate": "13/07/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094449049,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750665500585,
+      "maskedBuyerName": "A*** E***",
+      "oldScore": 0,
+      "productId": 568780524,
+      "productSubTitle": "Fermuarlı Müslin Bezi Puset Örtüsü Gökkuşağı Beyaz ",
+      "productTitle": "Fermuarlı Müslin Bezi Puset Örtüsü Gökkuşağı Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Juniperus",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 4
+  }
+}

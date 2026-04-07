@@ -1,0 +1,119 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "595235053",
+  "collectedAt": "2026-04-07T14:48:35.522Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "aşırı yağlı bir ürün ama etkili olduğunu düşünüyorum kuru cildimiz için aldık. banyo sonrası da kuru ciltli bebegimde kullaniyorum. teşekkürler",
+      "createDate": 1754728010490,
+      "createdDate": "09/08/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104980277,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/09/58/95/61/92/42/25/88/09/39/9517952136818543375.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/08/09/58/95/61/92/42/25/88/09/39/9517952136818543375.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Z*** K***",
+      "oldScore": 0,
+      "productId": 595235053,
+      "productSubTitle": "Incia Atopiğe Eğilimli Ciltler İçin Yalancı İğde Yağlı Jel Krem 60 ML",
+      "productTitle": "INCIA %100 Doğal Atopiğe Eğilimli Ciltler İçin Jel Krem Çok Kuru Ciltler İçin Yalancı İğde Yağı 60 ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7537405,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/09/58/95/61/92/42/25/88/09/39/9517952136818543375.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "INCIA",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/09/58/95/61/92/42/25/88/09/39/9517952136818543375.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/09/58/95/61/92/42/25/88/09/39/9517952136818543375.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ben aldım krem onlar gönderdi roolon",
+      "createDate": 1732908627255,
+      "createdDate": "29/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102745067,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** Ş***",
+      "oldScore": 0,
+      "productId": 595235053,
+      "productSubTitle": "Incia Atopiğe Eğilimli Ciltler İçin Yalancı İğde Yağlı Jel Krem 60 ML",
+      "productTitle": "INCIA %100 Doğal Atopiğe Eğilimli Ciltler İçin Jel Krem Çok Kuru Ciltler İçin Yalancı İğde Yağı 60 ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "INCIA",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Beğendim",
+      "createDate": 1715890390555,
+      "createdDate": "16/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099692311,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** ç***",
+      "oldScore": 0,
+      "productId": 595235053,
+      "productSubTitle": "Incia Atopiğe Eğilimli Ciltler İçin Yalancı İğde Yağlı Jel Krem 60 ML",
+      "productTitle": "INCIA %100 Doğal Atopiğe Eğilimli Ciltler İçin Jel Krem Çok Kuru Ciltler İçin Yalancı İğde Yağı 60 ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "INCIA",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

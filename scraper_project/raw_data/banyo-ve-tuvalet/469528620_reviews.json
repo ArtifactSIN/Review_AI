@@ -1,0 +1,110 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "469528620",
+  "collectedAt": "2026-04-07T14:12:42.597Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün gayet güzel.",
+      "createDate": 1760023972723,
+      "createdDate": "09/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105385527,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "İ*** S***",
+      "oldScore": 0,
+      "productId": 469528620,
+      "productSubTitle": "Ecowell Organik Bebe Şampuanı 300 ML",
+      "productTitle": "Ecowell Organik Bebe Şampuanı 300 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "bahçeorganik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "harika kokusu var saçları da canlandırıyor",
+      "createDate": 1687122804634,
+      "createdDate": "19/06/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094160935,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 568543740,
+      "productSubTitle": "Ecowell Organik Bebe Şampuanı 300 ML",
+      "productTitle": "Ecowell Organik Bebe Şampuanı 300 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Himsjet",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün organik olduğu için çocuğuma aldım. Memnun kaldım. Teşekkürler.",
+      "createDate": 1655732710317,
+      "createdDate": "20/06/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5089835338,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ahmet Sezgin",
+      "oldScore": 0,
+      "productId": 469528620,
+      "productSubTitle": "Ecowell Organik Bebe Şampuanı 300 ML",
+      "productTitle": "Ecowell Organik Bebe Şampuanı 300 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "bahçeorganik",
+      "title": "ürünü öneriyorum ",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

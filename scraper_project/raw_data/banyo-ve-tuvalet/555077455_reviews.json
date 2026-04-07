@@ -1,0 +1,89 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "555077455",
+  "collectedAt": "2026-04-07T14:12:02.796Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Fena değil ama pahalı",
+      "createDate": 1774824188673,
+      "createdDate": "30/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106690098,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/79/29/70/92/94/93/00/86/82/28824764897879478196.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/30/79/29/70/92/94/93/00/86/82/28824764897879478196.png"
+      ],
+      "lastModifiedDate": 1774824188673,
+      "maskedBuyerName": "a*** k***",
+      "oldScore": 0,
+      "productId": 555077455,
+      "productSubTitle": "Yeşilmarka Doğal Bebek Şampuanı - Karpuz",
+      "productTitle": "Yeşilmarka Doğal Bebek Şampuanı - Karpuz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8532813,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/79/29/70/92/94/93/00/86/82/28824764897879478196.png"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "YeşilmarkaKurumsal",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/79/29/70/92/94/93/00/86/82/28824764897879478196.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/79/29/70/92/94/93/00/86/82/28824764897879478196.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "çocuklarımız için aldık kokusuna bayıldılar",
+      "createDate": 1697894784617,
+      "createdDate": "21/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096080390,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 577094886,
+      "productSubTitle": null,
+      "productTitle": "Yeşilmarka Doğal Bebek Şampuanı - Karpuz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "NebioğluKozmetik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

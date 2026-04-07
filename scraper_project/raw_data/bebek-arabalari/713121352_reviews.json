@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "713121352",
+  "collectedAt": "2026-04-07T14:40:11.699Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Kullanışlı araba",
+      "createDate": 1765310894392,
+      "createdDate": "09/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105930150,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "o*** ü***",
+      "oldScore": 0,
+      "productId": 713121352,
+      "productSubTitle": "Kraft Duplo İkiz Bebek Arabası Yeşil Yeşil",
+      "productTitle": "Kraft Duplo İkiz Bebek Arabası Yeşil",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Kraftbaby",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

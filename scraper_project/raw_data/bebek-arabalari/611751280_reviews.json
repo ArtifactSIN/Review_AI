@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "611751280",
+  "collectedAt": "2026-04-07T14:31:06.228Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "yatak resimdeki gibi değil. sünger bir yatak konmuş. müşteri aldatılmış.",
+      "createDate": 1701948895527,
+      "createdDate": "07/12/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5096962361,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Şevket kemal Özdemir",
+      "oldScore": 0,
+      "productId": 587535760,
+      "productSubTitle": "Baby Home 9 In 1 Full Takım 990 Travel Sistem Bebek Arabası 560 Oyun Parkı Yatak Beşik 330 Ev Tipi Ana Kucağı Siyah",
+      "productTitle": "Baby Home 9 In 1 Full Takım 990 Travel Sistem Bebek Arabası 560 Oyun Parkı Yatak Beşik 330 Ev Tipi Ana Kucağı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "Ayhancocuk",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

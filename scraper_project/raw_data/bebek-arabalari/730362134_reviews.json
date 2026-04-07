@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "730362134",
+  "collectedAt": "2026-04-07T14:32:45.710Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Beğendim çok araştırdım baya kaliteli ürün",
+      "createDate": 1771254322265,
+      "createdDate": "16/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106415872,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "T*** K***",
+      "oldScore": 0,
+      "productId": 721399430,
+      "productSubTitle": "Prego Canyon Travel Sistem Bebek Arabası 2430 + 0+ Oto Koltuğu Çift Yönlü, En1888 Sertifikalı, Kompakt Katlanabilir Siyah",
+      "productTitle": "Prego Canyon Travel Sistem Bebek Arabası 2430 + 0+ Oto Koltuğu Çift Yönlü, En1888 Sertifikalı, Kompakt Katlanabilir",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Ayhancocuk",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "teşekkürler",
+      "createDate": 1767429989297,
+      "createdDate": "03/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106128566,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "c*** d***",
+      "oldScore": 0,
+      "productId": 721399454,
+      "productSubTitle": "Prego Canyon Travel Sistem Bebek Arabası 2430 + 0+ Oto Koltuğu Çift Yönlü, En1888 Sertifikalı, Kompakt Katlanabilir Yeşil",
+      "productTitle": "Prego Canyon Travel Sistem Bebek Arabası 2430 + 0+ Oto Koltuğu Çift Yönlü, En1888 Sertifikalı, Kompakt Katlanabilir",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Ayhancocuk",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

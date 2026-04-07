@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "661217582",
+  "collectedAt": "2026-04-07T14:46:58.781Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "sonunda temiz bir pudra buldum hic kokusu yok nisasta gibi düşünün bir de hediye gondermisler sagolsunlar",
+      "createDate": 1774969202073,
+      "createdDate": "31/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106709823,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774969202073,
+      "maskedBuyerName": "f*** u***",
+      "oldScore": 0,
+      "productId": 661217582,
+      "productSubTitle": "Clooe Organik Bebek Pudrası 200gr - Organik İçerik, Ferahlatıcı Etki, Hassas Ciltlere Özel",
+      "productTitle": "Clooe Organik Bebek Pudrası 200gr - Organik İçerik, Ferahlatıcı Etki, Hassas Ciltlere Özel",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Clooe",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

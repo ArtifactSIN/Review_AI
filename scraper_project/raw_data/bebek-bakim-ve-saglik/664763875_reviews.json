@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "664763875",
+  "collectedAt": "2026-04-07T14:53:27.305Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "yorumlarda kokuyu o kadar övmüşlerdi ama hiç beklediğim gibi bir koku gelmedi beğenmedim.",
+      "createDate": 1772707457296,
+      "createdDate": "05/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106532507,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "F*** O***",
+      "oldScore": 0,
+      "productId": 664763875,
+      "productSubTitle": "Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası Sprey 2 X 150 Ml",
+      "productTitle": "Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası Sprey 2 X 150 Ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "harika",
+      "createDate": 1767370385079,
+      "createdDate": "02/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106127156,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "a*** a***",
+      "oldScore": 0,
+      "productId": 664763875,
+      "productSubTitle": "Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası Sprey 2 X 150 Ml",
+      "productTitle": "Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası Sprey 2 X 150 Ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mutlufiyatlar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

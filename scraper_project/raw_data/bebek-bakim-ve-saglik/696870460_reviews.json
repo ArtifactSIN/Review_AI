@@ -1,0 +1,110 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "696870460",
+  "collectedAt": "2026-04-07T14:49:14.771Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün güzel kaliteli, her zaman kullandığım bir üründür",
+      "createDate": 1774360158821,
+      "createdDate": "24/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106635170,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774360158821,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 696870460,
+      "productSubTitle": "Sinusnem Sinus Rinse Kit Edispharma Çocuk Beyaz",
+      "productTitle": "Sinusnem Sinus Rinse Kit Edispharma Çocuk",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ECZANEMYANIMDA",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "iyi ürün",
+      "createDate": 1743594502956,
+      "createdDate": "02/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104059193,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Muhammed karaca",
+      "oldScore": 0,
+      "productId": 578292412,
+      "productSubTitle": "Sinusnem Sinus Rinse Kit Edispharma Çocuk Beyaz",
+      "productTitle": "Sinusnem Sinus Rinse Kit Edispharma Çocuk",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "bebekvesaglik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "ürün sipariş ettiğim gün kargoya verildi ertesi gün ürünü teslim aldım firmaya teşekr ederim ürünümü bu kadar hızlı gönderdiği için çok beğendim",
+      "createDate": 1695846890252,
+      "createdDate": "27/09/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5095501120,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ö*** b*** a***",
+      "oldScore": 0,
+      "productId": 584616365,
+      "productSubTitle": null,
+      "productTitle": "Sinusnem Sinus Rinse Kit Edispharma Çocuk",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "eczapazar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "567556977",
+  "collectedAt": "2026-04-07T14:37:19.883Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Takma aparatı çok kötü ve tutma yerlerde deri hasarı gördü, kesinikle almayın, demir kısmı da çizer. Tutması için sık olması gerekiyor yoksa düşüyor, sıktığında da hasar yapar. Test etmeden satışa sunulan bir ürün",
+      "createDate": 1697822202403,
+      "createdDate": "20/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096053358,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750656061262,
+      "maskedBuyerName": "P*** K***",
+      "oldScore": 0,
+      "productId": 567556977,
+      "productSubTitle": "Bebek Arabası Biberon Bardak ve Telefon Tutucu Siyah AL2816 Siyah ",
+      "productTitle": "Bebek Arabası Biberon Bardak ve Telefon Tutucu Siyah AL2816 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "ELEKTROMAXX",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

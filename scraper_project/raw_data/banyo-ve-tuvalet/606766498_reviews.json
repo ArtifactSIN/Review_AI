@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "606766498",
+  "collectedAt": "2026-04-07T14:09:36.447Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "harika",
+      "createDate": 1729931655947,
+      "createdDate": "26/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102076079,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** g***",
+      "oldScore": 0,
+      "productId": 606766498,
+      "productSubTitle": "Bamm Bamm Korbell Uyumlu 2250 Bez Kapasiteli Poşet + Pembe Taşıma Kapsülü",
+      "productTitle": "Bamm Bamm Korbell Uyumlu 2250 Bez Kapasiteli Poşet + Pembe Taşıma Kapsülü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Global_Trader",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

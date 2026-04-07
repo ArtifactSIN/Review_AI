@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "611751507",
+  "collectedAt": "2026-04-07T14:34:06.069Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Bu mağazadan almanızı önermem.",
+      "createDate": 1699789430325,
+      "createdDate": "12/11/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096475972,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Y*** E*** I***",
+      "oldScore": 0,
+      "productId": 513054117,
+      "productSubTitle": "Prego 2032 Solo Travel Bebek Arabası Puset Simli Siyah",
+      "productTitle": "Prego 2032 Solo Travel Bebek Arabası Puset",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "ozenisbebe48",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "ürünün kaliteli kolay katlanıp açıla bilen yer kaplamayan ve uçak seyahatlerinde kabinde olması gayet güzel.",
+      "createDate": 1630934615581,
+      "createdDate": "06/09/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5086619848,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** K***",
+      "oldScore": 0,
+      "productId": 483891196,
+      "productSubTitle": "Prego 2032 Solo Travel Sistem Bebek Arabası Gri",
+      "productTitle": "Prego 2032 Solo Travel Bebek Arabası Puset",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Çocukistan",
+      "title": "prego solo bebek arabası ",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

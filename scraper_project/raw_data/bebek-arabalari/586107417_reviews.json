@@ -1,0 +1,99 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "586107417",
+  "collectedAt": "2026-04-07T14:36:10.374Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ilandaki ürünün aynısı 1 günde elime ulaştı teşekkürler",
+      "createDate": 1703593667945,
+      "createdDate": "26/12/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097281301,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1750661636067,
+      "maskedBuyerName": "E*** K***",
+      "oldScore": 0,
+      "productId": 586107417,
+      "productSubTitle": "Malzek Bebek Arabası Yağmurluğu Şeffaf ",
+      "productTitle": "Malzek Bebek Arabası Yağmurluğu Şeffaf",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "YazarStore",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürün gayet güzel arabayı istediğim şekilde kapladı",
+      "createDate": 1701512251349,
+      "createdDate": "02/12/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096878944,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/12/02/87/19/01/16/10/81/36/69/02/44843223407573945637.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/23/12/02/87/19/01/16/10/81/36/69/02/44843223407573945637.png",
+        "https://n11scdn.akamaized.net/a1/{0}/23/12/02/79/10/86/71/39/20/82/28/32/49125978570633887723.png",
+        "https://n11scdn.akamaized.net/a1/{0}/23/12/02/79/98/70/81/76/15/45/78/03/32032340362510028299.png"
+      ],
+      "lastModifiedDate": 1750661636067,
+      "maskedBuyerName": "Ömer AYTAŞ",
+      "oldScore": 0,
+      "productId": 586107417,
+      "productSubTitle": "Malzek Bebek Arabası Yağmurluğu Şeffaf ",
+      "productTitle": "Malzek Bebek Arabası Yağmurluğu Şeffaf",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 2788078,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/02/87/19/01/16/10/81/36/69/02/44843223407573945637.png"
+        },
+        {
+          "id": 2788079,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/02/79/10/86/71/39/20/82/28/32/49125978570633887723.png"
+        },
+        {
+          "id": 2788080,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/02/79/98/70/81/76/15/45/78/03/32032340362510028299.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "YazarStore",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/12/02/87/19/01/16/10/81/36/69/02/44843223407573945637.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/12/02/87/19/01/16/10/81/36/69/02/44843223407573945637.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

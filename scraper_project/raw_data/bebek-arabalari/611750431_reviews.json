@@ -1,0 +1,110 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "611750431",
+  "collectedAt": "2026-04-07T14:33:47.482Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "beklediğim gibi gayet iyi güzel",
+      "createDate": 1769621761131,
+      "createdDate": "28/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106297185,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 611750410,
+      "productSubTitle": "Diamond Baby Pearly Baston Bebek Arabası Kahverengi",
+      "productTitle": "Diamond Baby Pearly Baston Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "RENSBABY",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "güzel",
+      "createDate": 1710802750913,
+      "createdDate": "19/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098616906,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "K*** İ***",
+      "oldScore": 0,
+      "productId": 484616223,
+      "productSubTitle": "Diamond Baby Pearly Baston Bebek Arabası Gri",
+      "productTitle": "Diamond Baby Pearly Baston Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "RENSBABY",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "kumaş güzel",
+      "createDate": 1710802718266,
+      "createdDate": "19/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098614376,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "K*** İ***",
+      "oldScore": 0,
+      "productId": 484616223,
+      "productSubTitle": "Diamond Baby Pearly Baston Bebek Arabası Gri",
+      "productTitle": "Diamond Baby Pearly Baston Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "RENSBABY",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

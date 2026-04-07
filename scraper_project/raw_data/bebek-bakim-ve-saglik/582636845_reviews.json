@@ -1,0 +1,89 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "582636845",
+  "collectedAt": "2026-04-07T14:53:24.089Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Teşekkür ederim.",
+      "createDate": 1742319579080,
+      "createdDate": "18/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103929436,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "B*** A***",
+      "oldScore": 0,
+      "productId": 582636845,
+      "productSubTitle": "Fibrelle Tablet Tatlandırıcı Stevialı 300 Adet",
+      "productTitle": "Fibrelle Tablet Tatlandırıcı Stevialı 300 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Supplementler",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Lezzetli. beğendim",
+      "createDate": 1713465935945,
+      "createdDate": "18/04/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099161497,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/18/71/57/69/67/63/70/74/67/31/87125151958333174949.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/04/18/71/57/69/67/63/70/74/67/31/87125151958333174949.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "u*** e***",
+      "oldScore": 0,
+      "productId": 582636845,
+      "productSubTitle": "Fibrelle Tablet Tatlandırıcı Stevialı 300 Adet",
+      "productTitle": "Fibrelle Tablet Tatlandırıcı Stevialı 300 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 4450409,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/18/71/57/69/67/63/70/74/67/31/87125151958333174949.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Supplementler",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/18/71/57/69/67/63/70/74/67/31/87125151958333174949.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/18/71/57/69/67/63/70/74/67/31/87125151958333174949.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

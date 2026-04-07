@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "589376855",
+  "collectedAt": "2026-04-07T14:52:03.693Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Bir süredir kullanıyoruz kokusu olmaması güzel, önce mama sandalyesine falan sıkıyoruz biraz bekleyip alkalsüz ıslak mendille temizliyoruz",
+      "createDate": 1771597470966,
+      "createdDate": "20/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106444522,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "m*** p***",
+      "oldScore": 0,
+      "productId": 589376855,
+      "productSubTitle": "Yenidoğan Bebek Sterilizatör Alkolsüz Biberon Emzik Temizleyici Dezenfektan Sprey Set",
+      "productTitle": "Yenidoğan Bebek Sterilizatör Alkolsüz Biberon Emzik Temizleyici Dezenfektan Sprey Set",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DrKOCHERS",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Bebeğim için aldım. Kokusuz.",
+      "createDate": 1765740296491,
+      "createdDate": "14/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105974277,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** A***",
+      "oldScore": 0,
+      "productId": 589376855,
+      "productSubTitle": "Yenidoğan Bebek Sterilizatör Alkolsüz Biberon Emzik Temizleyici Dezenfektan Sprey Set",
+      "productTitle": "Yenidoğan Bebek Sterilizatör Alkolsüz Biberon Emzik Temizleyici Dezenfektan Sprey Set",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DrKOCHERS",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

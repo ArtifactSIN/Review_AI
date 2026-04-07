@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "582016834",
+  "collectedAt": "2026-04-07T14:39:58.148Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürünün tüm özelliklerini bilerek aldım . Her şeyi tam geldi kurduk bir sıkıntı görmedik . Kullanmamıza bir kaç ay var daha kullanınca yorumu güncellerim .",
+      "createDate": 1702471092397,
+      "createdDate": "13/12/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097062607,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "gözde çelebigiller",
+      "oldScore": 0,
+      "productId": 582016834,
+      "productSubTitle": "Pıerre Cardın Voyager Bebek Arabası Sıyah - Siyah Siyah",
+      "productTitle": "Pıerre Cardın Voyager Bebek Arabası Sıyah - Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "vetacocuk",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

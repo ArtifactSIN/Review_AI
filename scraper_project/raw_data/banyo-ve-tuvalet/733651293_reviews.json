@@ -1,0 +1,110 @@
+{
+  "categorySlug": "banyo-ve-tuvalet",
+  "productId": "733651293",
+  "collectedAt": "2026-04-07T14:10:26.552Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Çocuğun doğduğundan beri kullandığım ürün kaliteli güzel",
+      "createDate": 1719135737262,
+      "createdDate": "23/06/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100254054,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** s*** A***",
+      "oldScore": 0,
+      "productId": 589886746,
+      "productSubTitle": "Mustela Baby Şampuan 500 ML + Mustela Hair Styler & Skin Freshner 200 ML",
+      "productTitle": "Mustela Baby Şampuan 500 ML + Mustela Hair Styler & Skin Freshner 200 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "eczkapında",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "her zaman kullandığım ürünler mustela benim için bebek ürünlerinde başta geliyor, zaten 500 ml uzun süre gidiyor, yalniz şampuan bu sefer göz yakıyor kızım ağlıyor anlamadım sahte mi diye aklima gelmedi değil, o yüzden tekrar alirsam eczaneden almayı tercih ederim. spreyi saçları için kullanıyorum hem mis gibi bebek kokusu hem kolay taranmasina yardımcı oluyor.",
+      "createDate": 1701885200102,
+      "createdDate": "06/12/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096954123,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** E***",
+      "oldScore": 0,
+      "productId": 519885987,
+      "productSubTitle": "Mustela Baby Şampuan 500 ML + Mustela Hair Styler & Skin Freshner 200 ML",
+      "productTitle": "Mustela Baby Şampuan 500 ML + Mustela Hair Styler & Skin Freshner 200 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Farmavantaj",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Güzel ürün",
+      "createDate": 1701590487484,
+      "createdDate": "03/12/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096900152,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** B***",
+      "oldScore": 0,
+      "productId": 589886746,
+      "productSubTitle": "Mustela Baby Şampuan 500 ML + Mustela Hair Styler & Skin Freshner 200 ML",
+      "productTitle": "Mustela Baby Şampuan 500 ML + Mustela Hair Styler & Skin Freshner 200 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "eczkapında",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "694210238",
+  "collectedAt": "2026-04-07T14:49:07.666Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "iyi açıyor",
+      "createDate": 1732998018898,
+      "createdDate": "30/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102771131,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "G*** Ö***",
+      "oldScore": 0,
+      "productId": 581503737,
+      "productSubTitle": null,
+      "productTitle": "Quixx Extra Burun Spreyi Ferahlatıcı Etki 30 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FARMAZANEM",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "etkili urun",
+      "createDate": 1725229671336,
+      "createdDate": "02/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101239674,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 581503737,
+      "productSubTitle": null,
+      "productTitle": "Quixx Extra Burun Spreyi Ferahlatıcı Etki 30 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FARMAZANEM",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "burunu yakmıyor. az bir okaliptüs kokusu geliyor. işini yapıyor.",
+      "createDate": 1703603905306,
+      "createdDate": "26/12/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097284351,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "G*** Ö***",
+      "oldScore": 0,
+      "productId": 581503737,
+      "productSubTitle": null,
+      "productTitle": "Quixx Extra Burun Spreyi Ferahlatıcı Etki 30 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FARMAZANEM",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

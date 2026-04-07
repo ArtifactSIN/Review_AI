@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "735367468",
+  "collectedAt": "2026-04-07T14:46:49.763Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Güzel krem",
+      "createDate": 1730156619633,
+      "createdDate": "29/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102106542,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** u***",
+      "oldScore": 0,
+      "productId": 575518039,
+      "productSubTitle": "Mustela Stelatopia Emollient Face Cream Yüz Kremi 40 ml - YENİ AMBALAJ ",
+      "productTitle": "Mustela Stelatopia Emollient Face Cream Yüz Kremi 40 ml - YENİ AMBALAJ",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "farmasanal",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürün kutusu yırtık olarak elime ulastı",
+      "createDate": 1693048267860,
+      "createdDate": "26/08/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5095041548,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "F*** E*** D***",
+      "oldScore": 0,
+      "productId": 575518039,
+      "productSubTitle": "Mustela Stelatopia Emollient Face Cream Yüz Kremi 40 ml - YENİ AMBALAJ ",
+      "productTitle": "Mustela Stelatopia Emollient Face Cream Yüz Kremi 40 ml - YENİ AMBALAJ",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "farmasanal",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

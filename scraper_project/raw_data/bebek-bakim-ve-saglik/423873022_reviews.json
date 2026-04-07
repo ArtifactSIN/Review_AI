@@ -1,0 +1,89 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "423873022",
+  "collectedAt": "2026-04-07T14:51:25.080Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "22 aylık kızım için aldım. Herhangi bir çürüğü, şeker gibi abur cubur tüketmesi ya da gece beslenmesi olmadığı için florursuz ve temiz içerikli olan bu markayı tercih ettim. Üts den barkod sorgulayınca da orjinal olduğunu gördüm. Güzel paketlenmiş ve kısa sürede elime ulaştı",
+      "createDate": 1697646797059,
+      "createdDate": "18/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5095983810,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/10/18/46/48/75/53/54/37/35/26/80/38842164511149504872.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/23/10/18/72/27/54/84/27/49/03/21/11/57240843410008196138.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** A***",
+      "oldScore": 0,
+      "productId": 423873022,
+      "productSubTitle": "Weleda Bebek ve Çocuklar için Organik Diş Macunu 50 ML",
+      "productTitle": "Weleda Bebek ve Çocuklar için Organik Diş Macunu 50 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 2564923,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/18/72/27/54/84/27/49/03/21/11/57240843410008196138.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Kozmela",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/10/18/46/48/75/53/54/37/35/26/80/38842164511149504872.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/10/18/46/48/75/53/54/37/35/26/80/38842164511149504872.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürün ilanda anlatıldığı/gösterildiği gibidir",
+      "createDate": 1697462393905,
+      "createdDate": "16/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5095919555,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "R*** V***",
+      "oldScore": 0,
+      "productId": 423873022,
+      "productSubTitle": "Weleda Bebek ve Çocuklar için Organik Diş Macunu 50 ML",
+      "productTitle": "Weleda Bebek ve Çocuklar için Organik Diş Macunu 50 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Kozmela",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

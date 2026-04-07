@@ -1,0 +1,50 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "440160841",
+  "collectedAt": "2026-04-07T14:48:34.435Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün eve gelmeden iade edilmiş görünüyor. 20 gün oldu iade ücreti de hala yatmadı",
+      "createDate": 1673371212136,
+      "createdDate": "10/01/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5091722872,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Y*** A***",
+      "oldScore": 0,
+      "productId": 440160841,
+      "productSubTitle": "Green Clean Baby Organik Portakal Yağlı Bitkisel Biberon ve Emzik Temizleyici 2 x 500 ML",
+      "productTitle": "Green Clean Baby Organik Portakal Yağlı Bitkisel Biberon ve Emzik Temizleyici 2 x 500 ML",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "AlternatifPazar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

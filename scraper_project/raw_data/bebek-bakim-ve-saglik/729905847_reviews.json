@@ -1,0 +1,94 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "729905847",
+  "collectedAt": "2026-04-07T14:44:35.049Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün kaiteli. Rengi de güzel. Yalnız biraz büyük yapmışlar. Hani odadan odaya kendimizle gezdirelim, bebeğin işlerini rahat yapalım diye alıyoruz ya bunu? Biraz daha küçük olsa daha kullanışlı olurdu. Yani içine 10-15 adet bebek bezi girmek zorunda değil 😊",
+      "createDate": 1773240049589,
+      "createdDate": "11/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106562556,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/11/90/53/29/35/77/32/56/31/68/18828992294611602375.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/11/90/53/29/35/77/32/56/31/68/18828992294611602375.jpg",
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/11/62/42/19/16/00/98/78/46/92/03587271974119230753.jpg"
+      ],
+      "lastModifiedDate": 1773240049589,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 729905847,
+      "productSubTitle": "Figürlü Keçe Anne Bebek Bakım Çantası Yenidoğan İçin Organizer Taşınabilir Düzenleyici Zürafa",
+      "productTitle": "Figürlü Keçe Anne Bebek Bakım Çantası Yenidoğan İçin Organizer Taşınabilir Düzenleyici Zürafa",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8456351,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/11/90/53/29/35/77/32/56/31/68/18828992294611602375.jpg"
+        },
+        {
+          "id": 8456352,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/11/62/42/19/16/00/98/78/46/92/03587271974119230753.jpg"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "B.Enterprises",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/11/90/53/29/35/77/32/56/31/68/18828992294611602375.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/11/90/53/29/35/77/32/56/31/68/18828992294611602375.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "güzel ürün",
+      "createDate": 1770753718538,
+      "createdDate": "10/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106376216,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "C*** T***",
+      "oldScore": 0,
+      "productId": 729905847,
+      "productSubTitle": "Figürlü Keçe Anne Bebek Bakım Çantası Yenidoğan İçin Organizer Taşınabilir Düzenleyici Zürafa",
+      "productTitle": "Figürlü Keçe Anne Bebek Bakım Çantası Yenidoğan İçin Organizer Taşınabilir Düzenleyici Zürafa",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "B.Enterprises",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

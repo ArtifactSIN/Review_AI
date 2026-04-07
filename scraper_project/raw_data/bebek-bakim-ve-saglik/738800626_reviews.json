@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-bakim-ve-saglik",
+  "productId": "738800626",
+  "collectedAt": "2026-04-07T14:46:38.096Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "orijinal",
+      "createDate": 1764090651215,
+      "createdDate": "25/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105798201,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "i*** d***",
+      "oldScore": 0,
+      "productId": 681319414,
+      "productSubTitle": "Solante Pigmenta Tinted Güneş Koruyucu Losyon Spf 50+ 150 ml",
+      "productTitle": "Solante Pigmenta Tinted Güneş Koruyucu Losyon Spf 50+ 150 ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Dermoailem2",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "bildiğim ürün",
+      "createDate": 1750921836684,
+      "createdDate": "26/06/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104710956,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "mujdat bankaoğlu",
+      "oldScore": 0,
+      "productId": 681319414,
+      "productSubTitle": "Solante Pigmenta Tinted Güneş Koruyucu Losyon Spf 50+ 150 ml",
+      "productTitle": "Solante Pigmenta Tinted Güneş Koruyucu Losyon Spf 50+ 150 ml",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Dermoailem2",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

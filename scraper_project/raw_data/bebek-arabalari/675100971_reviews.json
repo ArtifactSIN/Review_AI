@@ -1,0 +1,59 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "675100971",
+  "collectedAt": "2026-04-07T14:39:20.674Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çok kullanışlı. Çok kaliteli. Tavsiye ederim.",
+      "createDate": 1758130177981,
+      "createdDate": "17/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105241077,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/17/55/33/69/12/29/12/05/84/96/8864057497612304048.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/09/17/55/33/69/12/29/12/05/84/96/8864057497612304048.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 675100971,
+      "productSubTitle": "Cybex Eezy S Twist+2 Kabin Boy 360 Derece Dönen Bebek Arabası Magic Black",
+      "productTitle": "Cybex Eezy S Twist+2 Kabin Boy 360 Derece Dönen Bebek Arabası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7700909,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/17/55/33/69/12/29/12/05/84/96/8864057497612304048.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "CybexOperaistanbul",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/17/55/33/69/12/29/12/05/84/96/8864057497612304048.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/17/55/33/69/12/29/12/05/84/96/8864057497612304048.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

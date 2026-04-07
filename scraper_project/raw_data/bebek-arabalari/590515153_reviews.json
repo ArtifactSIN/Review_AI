@@ -1,0 +1,80 @@
+{
+  "categorySlug": "bebek-arabalari",
+  "productId": "590515153",
+  "collectedAt": "2026-04-07T14:34:48.006Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "dolu dolu bir market poşetini taşıyamıyor ben biraz fazla koymuşum koptu ancak benim hatam. tahminimce 3 4 kg kadar bir ağırlık taşıyabilir.",
+      "createDate": 1774272664785,
+      "createdDate": "23/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106631819,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774272664785,
+      "maskedBuyerName": "m*** m*** ş***",
+      "oldScore": 0,
+      "productId": 590515153,
+      "productSubTitle": "Tarix Puset Kancası Bebek Arabası Askı Aparatı 2'li - Pembe",
+      "productTitle": "Tarix Puset Kancası Bebek Arabası Askı Aparatı 2'li - Pembe",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "EtiTicaret",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "1 tanesi bozuk geldi n11 telafi etti",
+      "createDate": 1727072556603,
+      "createdDate": "23/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101545990,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** A***",
+      "oldScore": 0,
+      "productId": 590515153,
+      "productSubTitle": "Tarix Puset Kancası Bebek Arabası Askı Aparatı 2'li - Pembe",
+      "productTitle": "Tarix Puset Kancası Bebek Arabası Askı Aparatı 2'li - Pembe",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "EtiTicaret",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}
