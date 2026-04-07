@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "689168665",
+  "collectedAt": "2026-04-05T19:24:41.091Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "fiyatına göre iyi hafif ve ucuz",
+      "createDate": 1764324700778,
+      "createdDate": "28/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105818587,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ş*** T***",
+      "oldScore": 0,
+      "productId": 686738875,
+      "productSubTitle": "Dilimler Ayakkabı Dolgu Taban Ortopedik Lacivert Kadın Dolgu Topuklu Ayakkabı-2735-lacivert 38",
+      "productTitle": "Dilimler Ayakkabı Dolgu Taban Ortopedik Lacivert Kadın Dolgu Topuklu Ayakkabı-2735-lacivert",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DilimlerAyakkabı",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "kullanışlı rahat bir kalibi var",
+      "createDate": 1721123094333,
+      "createdDate": "16/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100573128,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "G*** E***",
+      "oldScore": 0,
+      "productId": 612562408,
+      "productSubTitle": "Dolgu Taban Ortopedik Lacivert Kadın Dolgu Topuklu Ayakkabı-2735-lacivert 37",
+      "productTitle": "Dolgu Taban Ortopedik Lacivert Kadın Dolgu Topuklu Ayakkabı-2735-lacivert",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DilimlerAyakkabı",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

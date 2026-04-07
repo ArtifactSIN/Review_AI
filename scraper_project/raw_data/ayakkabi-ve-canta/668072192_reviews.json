@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "668072192",
+  "collectedAt": "2026-04-05T19:26:01.067Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "file olan yerinde defo vardi saglik olsun misteri hizletleri yardimci oldi",
+      "createDate": 1774883838069,
+      "createdDate": "30/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106700406,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774883838069,
+      "maskedBuyerName": "İ*** y***",
+      "oldScore": 0,
+      "productId": 668072167,
+      "productSubTitle": "Slazenger  KLARION Çocuk Cırt Cırtlı Mor  -  Pembe Günlük Spor  Ayakkabısı  33",
+      "productTitle": "Slazenger  KLARION Çocuk Cırt Cırtlı Mor  -  Pembe Günlük Spor  Ayakkabısı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "Slazenger",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Kaliteli güzel, tam numarası alınabilir.",
+      "createDate": 1765301682206,
+      "createdDate": "09/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105927704,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** A*** G***",
+      "oldScore": 0,
+      "productId": 668072192,
+      "productSubTitle": "Slazenger  KLARION Çocuk Cırt Cırtlı Mor  -  Pembe Günlük Spor  Ayakkabısı  34",
+      "productTitle": "Slazenger  KLARION Çocuk Cırt Cırtlı Mor  -  Pembe Günlük Spor  Ayakkabısı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Slazenger",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

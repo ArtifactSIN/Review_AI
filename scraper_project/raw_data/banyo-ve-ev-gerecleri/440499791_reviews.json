@@ -1,0 +1,110 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "440499791",
+  "collectedAt": "2026-04-05T20:21:08.811Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok ilginç kaliteli diye aldım damla damla su eksiltiyor , belli araliklar ile 2 3 saniye su alıyor , montaj hatası değil bundan eminiz",
+      "createDate": 1766518245553,
+      "createdDate": "23/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106046734,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** Ş***",
+      "oldScore": 0,
+      "productId": 440499791,
+      "productSubTitle": "VitrA 748-1700-01 Hela Taşı için Gömme Rezervuar 8 Cm yeni Ürün Beyaz",
+      "productTitle": "VitrA 748-1700-01 Hela Taşı için Gömme Rezervuar 8 Cm yeni Ürün Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "DECORART",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "mağaza eksik ürün göndermişti ama daha sonradan eksik üründe gönderildi",
+      "createDate": 1731956254158,
+      "createdDate": "18/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102534381,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1752223771942,
+      "maskedBuyerName": "e*** ç***",
+      "oldScore": 0,
+      "productId": 440499791,
+      "productSubTitle": "VitrA 748-1700-01 Hela Taşı için Gömme Rezervuar 8 Cm yeni Ürün Beyaz",
+      "productTitle": "VitrA 748-1700-01 Hela Taşı için Gömme Rezervuar 8 Cm yeni Ürün Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "DECORART",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "urun kalitesi belli tartışilmaz",
+      "createDate": 1676578001611,
+      "createdDate": "16/02/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5092308690,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1752223771942,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 440499791,
+      "productSubTitle": "VitrA 748-1700-01 Hela Taşı için Gömme Rezervuar 8 Cm yeni Ürün Beyaz",
+      "productTitle": "VitrA 748-1700-01 Hela Taşı için Gömme Rezervuar 8 Cm yeni Ürün Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DECORART",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "675979542",
+  "collectedAt": "2026-04-05T18:28:36.108Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "henüz denemedim ama çok güzel görünüyor...",
+      "createDate": 1775336240355,
+      "createdDate": "04/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106756369,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775336240355,
+      "maskedBuyerName": "B*** H***",
+      "oldScore": 0,
+      "productId": 675979542,
+      "productSubTitle": "Fujin Ajigo 195cm 05-5gr Teleskopik Lrf Aji Kamışı ",
+      "productTitle": "Fujin Ajigo 195cm 05-5gr Teleskopik Lrf Aji Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TonguçBalıkVeAvMalz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel kaliteli yer kaplamayan bir kamış.",
+      "createDate": 1773675430155,
+      "createdDate": "16/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106592488,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773675430155,
+      "maskedBuyerName": "T*** Y*** Ö***",
+      "oldScore": 0,
+      "productId": 675979542,
+      "productSubTitle": "Fujin Ajigo 195cm 05-5gr Teleskopik Lrf Aji Kamışı ",
+      "productTitle": "Fujin Ajigo 195cm 05-5gr Teleskopik Lrf Aji Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TonguçBalıkVeAvMalz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "vala harika bir paketleme ile teslim aldım ürünü çok teşekkür ederim",
+      "createDate": 1753703395365,
+      "createdDate": "28/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104913795,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Sefahan Bozdag",
+      "oldScore": 0,
+      "productId": 676590321,
+      "productSubTitle": "Fujin Ajigo 195cm 05-5gr Teleskopik Lrf Aji Kamışı ",
+      "productTitle": "Fujin Ajigo 195cm 05-5gr Teleskopik Lrf Aji Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ÇABUKAV",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

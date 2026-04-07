@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "638160824",
+  "collectedAt": "2026-04-05T18:44:47.183Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "İdare eder",
+      "createDate": 1748984173163,
+      "createdDate": "03/06/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104559241,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "C*** D***",
+      "oldScore": 0,
+      "productId": 638160824,
+      "productSubTitle": "Kendo 8248 No:4 Nikel Üçlü İğne 50 Adet ",
+      "productTitle": "Kendo 8248 No:4 Nikel Üçlü İğne 50 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Avgross",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

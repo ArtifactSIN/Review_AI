@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "661390372",
+  "collectedAt": "2026-04-05T19:17:32.678Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Kalitesi çok iyi bedavaya almışım gerçekten babam çok severek giyiyor",
+      "createDate": 1753287046310,
+      "createdDate": "23/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104885675,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** B***",
+      "oldScore": 0,
+      "productId": 661390361,
+      "productSubTitle": "Detector Hakiki Deri Ortopedik Delikli Erkek Günlük Ayakkabı 046 Kahverengi 42",
+      "productTitle": "Detector Hakiki Deri Ortopedik Delikli Erkek Günlük Ayakkabı 046 Kahverengi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DETECTOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

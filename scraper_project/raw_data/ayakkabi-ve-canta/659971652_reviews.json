@@ -1,0 +1,119 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "659971652",
+  "collectedAt": "2026-04-05T19:19:39.276Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "harika",
+      "createDate": 1763790651801,
+      "createdDate": "22/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105761572,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** H***",
+      "oldScore": 0,
+      "productId": 659971529,
+      "productSubTitle": "Adidas Run 60s 3.0 Erkek Spor Ayakkabı Ie3827 Ie3827 Gri Gri 39",
+      "productTitle": "Adidas Run 60s 3.0 Erkek Spor Ayakkabı Ie3827 Ie3827 Gri Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "pointspor",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Orijinal ürün. Tşk",
+      "createDate": 1751965004852,
+      "createdDate": "08/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104773994,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/08/60/97/15/41/83/14/61/82/65/32328897519885530861.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/07/08/60/97/15/41/83/14/61/82/65/32328897519885530861.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 666776319,
+      "productSubTitle": "Adidas Run 60s 3.0 Erkek Spor Ayakkabı Ie3827 Ie3827 Gri Gri 42",
+      "productTitle": "Adidas Run 60s 3.0 Erkek Spor Ayakkabı Ie3827 Ie3827 Gri Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7422259,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/08/60/97/15/41/83/14/61/82/65/32328897519885530861.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ArdaSporr",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/08/60/97/15/41/83/14/61/82/65/32328897519885530861.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/08/60/97/15/41/83/14/61/82/65/32328897519885530861.jpg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "süper tavsiyeederim",
+      "createDate": 1745869108143,
+      "createdDate": "28/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104282030,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** B***",
+      "oldScore": 0,
+      "productId": 659971651,
+      "productSubTitle": "Adidas Run 60s 3.0 Erkek Spor Ayakkabı Ie3827 Ie3827 Gri Gri 40",
+      "productTitle": "Adidas Run 60s 3.0 Erkek Spor Ayakkabı Ie3827 Ie3827 Gri Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "pointspor",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "639075132",
+  "collectedAt": "2026-04-05T18:36:03.172Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "0.16mm ürün 125 gr kurşun denedim gayet başarılı",
+      "createDate": 1771870888663,
+      "createdDate": "23/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106463193,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 639075132,
+      "productSubTitle": "Kendo Classic 8x 300m 0,16mm Multicolor Örgü İp Misina",
+      "productTitle": "Kendo Classic 8x 300m 0,16mm Multicolor Örgü İp Misina",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MARKABALIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

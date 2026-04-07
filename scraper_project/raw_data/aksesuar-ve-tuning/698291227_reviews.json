@@ -1,0 +1,149 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "698291227",
+  "collectedAt": "2026-04-05T17:29:34.653Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 4,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün güzel",
+      "createDate": 1773686099185,
+      "createdDate": "16/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106600850,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773686099185,
+      "maskedBuyerName": "L*** Ö***",
+      "oldScore": 0,
+      "productId": 698291227,
+      "productSubTitle": "Susuz Motor Temizleme Spreyi 500 Ml 2 Adet ",
+      "productTitle": "Susuz Motor Temizleme Spreyi 500 Ml 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "EnuygunBizde",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "faydalı",
+      "createDate": 1771662360900,
+      "createdDate": "21/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106452194,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "E*** Y***",
+      "oldScore": 0,
+      "productId": 698291227,
+      "productSubTitle": "Susuz Motor Temizleme Spreyi 500 Ml 2 Adet ",
+      "productTitle": "Susuz Motor Temizleme Spreyi 500 Ml 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "EnuygunBizde",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "henüz kullanmadım",
+      "createDate": 1763757925324,
+      "createdDate": "21/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105756594,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/21/73/22/08/59/70/36/97/74/59/25298129704977479105.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/11/21/73/22/08/59/70/36/97/74/59/25298129704977479105.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 698291227,
+      "productSubTitle": "Susuz Motor Temizleme Spreyi 500 Ml 2 Adet ",
+      "productTitle": "Susuz Motor Temizleme Spreyi 500 Ml 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8003469,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/21/73/22/08/59/70/36/97/74/59/25298129704977479105.png"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "EnuygunBizde",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/21/73/22/08/59/70/36/97/74/59/25298129704977479105.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/21/73/22/08/59/70/36/97/74/59/25298129704977479105.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "İş yapıyor.",
+      "createDate": 1759741565466,
+      "createdDate": "06/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105363803,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 698291227,
+      "productSubTitle": "Susuz Motor Temizleme Spreyi 500 Ml 2 Adet ",
+      "productTitle": "Susuz Motor Temizleme Spreyi 500 Ml 2 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "EnuygunBizde",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 4
+  }
+}

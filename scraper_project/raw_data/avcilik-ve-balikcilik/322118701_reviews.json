@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "322118701",
+  "collectedAt": "2026-04-05T18:40:49.150Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "360 kullanıyorum, oğluma da 330 unu aldım.ilginçtir yüzük koruma lastikleri yok.Yine de greenface",
+      "createDate": 1669402552528,
+      "createdDate": "25/11/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5090988410,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 556213307,
+      "productSubTitle": "Kudos Green Face Serisi 330Cm Olta Kamışı",
+      "productTitle": "Kudos Green Face Serisi 330Cm Olta Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": "kudos greenface",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "4X4 bir ürün herkese tavsiye ediyorum.",
+      "createDate": 1665756240618,
+      "createdDate": "14/10/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5090631012,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "senol yavuz",
+      "oldScore": 0,
+      "productId": 556213307,
+      "productSubTitle": "Kudos Green Face Serisi 330Cm Olta Kamışı",
+      "productTitle": "Kudos Green Face Serisi 330Cm Olta Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": "Kudos kamış harika bir ürün.3,60 vardı ,şimdide mutlu balıkçılıktan 3,30 m sini aldım en uygunu da m",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

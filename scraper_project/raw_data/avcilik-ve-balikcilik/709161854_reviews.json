@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "709161854",
+  "collectedAt": "2026-04-05T18:31:17.874Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Ürün hızlı ulaştı elime iş yapar fiyatına göre iyi plastik",
+      "createDate": 1753422836395,
+      "createdDate": "25/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104902345,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 566555959,
+      "productSubTitle": "Asr Balıkçı takım çantası 5038 16\" raflı",
+      "productTitle": "Asr Balıkçı takım çantası 5038 16\" raflı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ozserav",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

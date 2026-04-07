@@ -1,0 +1,89 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "721977231",
+  "collectedAt": "2026-04-05T19:14:13.551Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çeyizim için aldım çok güzelll",
+      "createDate": 1775032012993,
+      "createdDate": "01/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106725453,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775032012993,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 721977231,
+      "productSubTitle": "Madame Coco Huitre Valiz/bavul - Bej - Orta Boy 8684427033913 Ekru",
+      "productTitle": "Madame Coco Huitre Valiz/bavul - Bej - Orta Boy 8684427033913 Ekru",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MadameCoco",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "çok beğendim sağlamlığını bilmiyorum ama güzel duruyor iç fermuarlarını vs kaliteli buldum tekerlekleri mağazada oraya buraya gitmekten sanıyorum biraz kirliydi ama sildim sorun etmedim hızlı geldi memnunum",
+      "createDate": 1766531956874,
+      "createdDate": "24/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106048037,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/24/84/93/48/55/91/97/70/06/77/68591202741154460323.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/12/24/84/93/48/55/91/97/70/06/77/68591202741154460323.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "L*** E***",
+      "oldScore": 0,
+      "productId": 721977231,
+      "productSubTitle": "Madame Coco Huitre Valiz/bavul - Bej - Orta Boy 8684427033913 Ekru",
+      "productTitle": "Madame Coco Huitre Valiz/bavul - Bej - Orta Boy 8684427033913 Ekru",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8164461,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/24/84/93/48/55/91/97/70/06/77/68591202741154460323.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MadameCoco",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/24/84/93/48/55/91/97/70/06/77/68591202741154460323.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/24/84/93/48/55/91/97/70/06/77/68591202741154460323.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

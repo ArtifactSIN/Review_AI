@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "721977167",
+  "collectedAt": "2026-04-05T19:18:46.909Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Kaliteli çok güzel ürün",
+      "createDate": 1767462058539,
+      "createdDate": "03/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106130824,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "Sevkiye Zeynep Kaplan",
+      "oldScore": 0,
+      "productId": 721977167,
+      "productSubTitle": "Madame Coco Huitre Valiz/bavul - Lacivert - Orta Boy 8684427033968 Lacivert",
+      "productTitle": "Madame Coco Huitre Valiz/bavul - Lacivert - Orta Boy 8684427033968 Lacivert",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MadameCoco",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "645332907",
+  "collectedAt": "2026-04-05T19:24:30.510Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün yeşil olarak fotoraftaki görüldüğü gibi sipariş ettim 880 tl para verdim normalde başka renkleri 800 tl ama bana gönderilen grı hiç beğenmedim",
+      "createDate": 1774707807365,
+      "createdDate": "28/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106687563,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774707807365,
+      "maskedBuyerName": "O*** A***",
+      "oldScore": 0,
+      "productId": 645332907,
+      "productSubTitle": "Termal Alt Bölmeli+termal Matara Çantalı Kamp Balıkçı Çantası Haki ",
+      "productTitle": "Termal Alt Bölmeli+termal Matara Çantalı Kamp Balıkçı Çantası Haki",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "çanta-adresim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

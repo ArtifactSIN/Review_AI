@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "661651607",
+  "collectedAt": "2026-04-05T20:19:30.226Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün güzel",
+      "createDate": 1768499795412,
+      "createdDate": "15/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106218061,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "M*** Y***",
+      "oldScore": 0,
+      "productId": 661651607,
+      "productSubTitle": "2 Katlı Düzenleyici Mutfak Rafı Banyo Rafı, Dolap Tezgah Altı Evye Altı Deterjanlık - Siyah Siyah ",
+      "productTitle": "2 Katlı Düzenleyici Mutfak Rafı Banyo Rafı, Dolap Tezgah Altı Evye Altı Deterjanlık - Siyah Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Hemlife",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "sağlam",
+      "createDate": 1767890643354,
+      "createdDate": "08/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106172563,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "A*** T***",
+      "oldScore": 0,
+      "productId": 661651607,
+      "productSubTitle": "2 Katlı Düzenleyici Mutfak Rafı Banyo Rafı, Dolap Tezgah Altı Evye Altı Deterjanlık - Siyah Siyah ",
+      "productTitle": "2 Katlı Düzenleyici Mutfak Rafı Banyo Rafı, Dolap Tezgah Altı Evye Altı Deterjanlık - Siyah Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Hemlife",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

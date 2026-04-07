@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "615529784",
+  "collectedAt": "2026-04-05T19:19:34.360Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Orijinal zaten mağazaya güvenerek aldım. Daha önce Adidas bravada kullanıyordum ama Converse çok daha rahat ve tabiki çok şık duruyor ayakta.",
+      "createDate": 1773551763426,
+      "createdDate": "15/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106580643,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773551763426,
+      "maskedBuyerName": "A*** S*** Y***",
+      "oldScore": 0,
+      "productId": 615529780,
+      "productSubTitle": "Converse Ctas Lift Ox Kadın Günlük Ayakkabı 560250C Siyah 37",
+      "productTitle": "Converse Ctas Lift Ox Kadın Günlük Ayakkabı 560250C Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KORAYSPOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ayni modeli yiprandigi icin 2. kez aliyorun. yillardir converse kullanan biri olarak, platformun rahatligi bambaskaymis.Tavsiye ederim",
+      "createDate": 1742562134831,
+      "createdDate": "21/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103982994,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "T*** E*** A***",
+      "oldScore": 0,
+      "productId": 615529778,
+      "productSubTitle": "Converse Ctas Lift Ox Kadın Günlük Ayakkabı 560250C Siyah 39",
+      "productTitle": "Converse Ctas Lift Ox Kadın Günlük Ayakkabı 560250C Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KORAYSPOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

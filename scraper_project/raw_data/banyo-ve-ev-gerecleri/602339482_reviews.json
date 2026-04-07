@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "602339482",
+  "collectedAt": "2026-04-05T20:21:51.525Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Montaj yaparken ek conta takmak gerekiyor.Aksi halde dipten kaçırma yapabilir.",
+      "createDate": 1773940435764,
+      "createdDate": "19/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106619413,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773940435764,
+      "maskedBuyerName": "C*** Y***",
+      "oldScore": 0,
+      "productId": 602339482,
+      "productSubTitle": "Germany Eviye Batarya Borusu + Teflon Bant",
+      "productTitle": "Germany Eviye Batarya Borusu + Teflon Bant",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "YÜKSELİNŞAAT",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

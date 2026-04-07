@@ -1,0 +1,69 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "732467054",
+  "collectedAt": "2026-04-05T20:24:39.436Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok güzel ürün. güvenli alışveriş. tavsiye ederim.",
+      "createDate": 1773481648799,
+      "createdDate": "14/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106585055,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/14/87/24/22/94/01/77/02/44/67/03421925993591490010.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/14/87/24/22/94/01/77/02/44/67/03421925993591490010.png",
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/14/88/05/44/66/49/97/08/81/64/37690458456709051898.png",
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/14/64/19/29/06/63/16/10/78/11/58980733617962856877.png"
+      ],
+      "lastModifiedDate": 1773481648799,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 732467054,
+      "productSubTitle": "Larens Lüks Akıllı Dijital Duş Seti Metalik Gri",
+      "productTitle": "Larens Lüks Akıllı Dijital Duş Seti Metalik Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8466328,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/14/87/24/22/94/01/77/02/44/67/03421925993591490010.png"
+        },
+        {
+          "id": 8466329,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/14/88/05/44/66/49/97/08/81/64/37690458456709051898.png"
+        },
+        {
+          "id": 8466330,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/14/64/19/29/06/63/16/10/78/11/58980733617962856877.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "LarensHome",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/14/87/24/22/94/01/77/02/44/67/03421925993591490010.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/14/87/24/22/94/01/77/02/44/67/03421925993591490010.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

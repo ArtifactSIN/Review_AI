@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "699910657",
+  "collectedAt": "2026-04-05T18:42:57.226Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kötü kargolanmış, ancak ürün çok kaliteli ve ürüne bir zarar gelmemiş. teşekkürler",
+      "createDate": 1766618892860,
+      "createdDate": "25/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106057614,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "4*** T***",
+      "oldScore": 0,
+      "productId": 699910657,
+      "productSubTitle": "Remixon Trp-05 120cm Surf Tripod",
+      "productTitle": "Remixon Trp-05 120cm Surf Tripod",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İlkMevsim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "663197864",
+  "collectedAt": "2026-04-05T19:16:08.337Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Teşekkürler",
+      "createDate": 1745511396316,
+      "createdDate": "24/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104246087,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** İ*** Y***",
+      "oldScore": 0,
+      "productId": 653822260,
+      "productSubTitle": "Adidas Vl Court Base Kadın Spor Ayakkabı Id3715 Siyah 38.5",
+      "productTitle": "Adidas Vl Court Base Kadın Spor Ayakkabı Id3715 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FLO",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

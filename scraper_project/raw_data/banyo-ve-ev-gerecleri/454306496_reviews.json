@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "454306496",
+  "collectedAt": "2026-04-05T20:23:22.847Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "özensiz paketleme poşete sarıp gönderilmiş kutuya konulsaydı kırılmazdı kargoda kırılmış yada kırık göndermiş ola bilirler paketlenmesi çok özensiz di ama çöp kovası kaliteli kullanışlı kırık gelmesi durumunda bir sıkıntı yok",
+      "createDate": 1720098697995,
+      "createdDate": "04/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100437161,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1720098817308,
+      "maskedBuyerName": "Sinem Köknel",
+      "oldScore": 0,
+      "productId": 454306496,
+      "productSubTitle": "Follow Me Çöp Kovası Pedallı No:3 (20 Lt)",
+      "productTitle": "Follow Me Çöp Kovası Pedallı No:3 (20 Lt)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "7AYAPIMARKET",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

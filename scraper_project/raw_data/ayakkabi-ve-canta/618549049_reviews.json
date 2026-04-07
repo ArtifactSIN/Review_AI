@@ -1,0 +1,89 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "618549049",
+  "collectedAt": "2026-04-05T19:23:42.037Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Güzel kullanışlı bir ürün almak isteyenlere tavsiye ederim",
+      "createDate": 1723471850803,
+      "createdDate": "12/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100934422,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Aydın Coşkun",
+      "oldScore": 0,
+      "productId": 574693741,
+      "productSubTitle": "Dilimler Ayakkabı Tokalı Bej Kadın Günlük Ayakkabı-138-Bej 37",
+      "productTitle": "Dilimler Ayakkabı Tokalı Bej Kadın Günlük Ayakkabı-138-Bej",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DilimlerAyakkabı",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ayakkabı güzel",
+      "createDate": 1720883197661,
+      "createdDate": "13/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100551090,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/13/73/29/56/80/49/29/59/57/70/13333987991902860037.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/07/13/73/29/56/80/49/29/59/57/70/13333987991902860037.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** s***",
+      "oldScore": 0,
+      "productId": 574693741,
+      "productSubTitle": "Dilimler Ayakkabı Tokalı Bej Kadın Günlük Ayakkabı-138-Bej 37",
+      "productTitle": "Dilimler Ayakkabı Tokalı Bej Kadın Günlük Ayakkabı-138-Bej",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 5192848,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/13/73/29/56/80/49/29/59/57/70/13333987991902860037.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DilimlerAyakkabı",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/13/73/29/56/80/49/29/59/57/70/13333987991902860037.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/13/73/29/56/80/49/29/59/57/70/13333987991902860037.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

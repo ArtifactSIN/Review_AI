@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "593682908",
+  "collectedAt": "2026-04-05T19:22:02.392Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "beklenti üstü",
+      "createDate": 1711647571656,
+      "createdDate": "28/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098843404,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1746706687204,
+      "maskedBuyerName": "s*** e***",
+      "oldScore": 0,
+      "productId": 593682908,
+      "productSubTitle": "Dossimo Nova 55 Cm Gümüş - Gri Unisex Kabin Boy Valiz Gri ",
+      "productTitle": "Dossimo Nova 55 Cm Gümüş - Gri Unisex Kabin Boy Valiz Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Dossimo",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

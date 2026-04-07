@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "726241645",
+  "collectedAt": "2026-04-05T18:27:53.606Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "hemen deneme faslina gectim,kesinlikle guzel ve hissiyati iyi olan bir kamis",
+      "createDate": 1774182000516,
+      "createdDate": "22/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106630850,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774182000516,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 726241645,
+      "productSubTitle": "Fujin Theone 172cm 02-3gr 582sul Lrf Kamışı ",
+      "productTitle": "Fujin Theone 172cm 02-3gr 582sul Lrf Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "çok güzel ürün uygun fiyat teşekkürler",
+      "createDate": 1773509047500,
+      "createdDate": "14/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106583878,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773509047500,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 726241645,
+      "productSubTitle": "Fujin Theone 172cm 02-3gr 582sul Lrf Kamışı ",
+      "productTitle": "Fujin Theone 172cm 02-3gr 582sul Lrf Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

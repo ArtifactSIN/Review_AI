@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "696302346",
+  "collectedAt": "2026-04-05T19:24:20.295Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Tam istediğimiz gibi",
+      "createDate": 1769611542872,
+      "createdDate": "28/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106289634,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "EMİN AKARKAN",
+      "oldScore": 0,
+      "productId": 696302307,
+      "productSubTitle": "Muggo Salva Garantili Ortopedik Rahat Kalıp Deri Görünümlü Cırtlı Tek Bant Kadın Sandalet Kahverengi 39",
+      "productTitle": "Muggo Salva Garantili Ortopedik Rahat Kalıp Deri Görünümlü Cırtlı Tek Bant Kadın Sandalet Kahverengi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Muggo",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

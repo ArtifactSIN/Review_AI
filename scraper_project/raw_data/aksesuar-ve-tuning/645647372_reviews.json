@@ -1,0 +1,80 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "645647372",
+  "collectedAt": "2026-04-05T17:38:30.507Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Başarılı ürün",
+      "createDate": 1758058027100,
+      "createdDate": "17/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105227034,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "emrah colakoglu",
+      "oldScore": 0,
+      "productId": 642472410,
+      "productSubTitle": "Liqui Moly Synthoil Race Tech Gt1 10w60 5 L",
+      "productTitle": "Liqui Moly Synthoil Race Tech Gt1 10w60 5 L",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "otolojistikparcam",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "ürün güzel",
+      "createDate": 1741265099805,
+      "createdDate": "06/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103853966,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 642472410,
+      "productSubTitle": "Liqui Moly Synthoil Race Tech Gt1 10w60 5 L",
+      "productTitle": "Liqui Moly Synthoil Race Tech Gt1 10w60 5 L",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "otolojistikparcam",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

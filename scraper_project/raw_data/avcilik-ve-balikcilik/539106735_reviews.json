@@ -1,0 +1,119 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "539106735",
+  "collectedAt": "2026-04-05T18:34:26.292Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "iyiye benziyor",
+      "createDate": 1729929237621,
+      "createdDate": "26/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102069273,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/26/87/54/37/76/78/39/64/56/16/51466763160572019034.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/10/26/87/54/37/76/78/39/64/56/16/51466763160572019034.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** M***",
+      "oldScore": 0,
+      "productId": 539106735,
+      "productSubTitle": "Sasa Yumuşak Kalamar Zokası 5Li Set 5 Cm 4 Gr",
+      "productTitle": "Sasa Yumuşak Kalamar Zokası 5Li Set 5 Cm 4 Gr",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6029461,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/26/87/54/37/76/78/39/64/56/16/51466763160572019034.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "UcuzaAv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/26/87/54/37/76/78/39/64/56/16/51466763160572019034.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/26/87/54/37/76/78/39/64/56/16/51466763160572019034.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Deneyip görecegiz😁",
+      "createDate": 1673550432646,
+      "createdDate": "12/01/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5091775441,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 539106735,
+      "productSubTitle": "Sasa Yumuşak Kalamar Zokası 5Li Set 5 Cm 4 Gr",
+      "productTitle": "Sasa Yumuşak Kalamar Zokası 5Li Set 5 Cm 4 Gr",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "UcuzaAv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün görseldeki gibi geldi f/p ürünü denilebilir bence iş yapacaktır 👍",
+      "createDate": 1664725914958,
+      "createdDate": "02/10/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5090523989,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 539106735,
+      "productSubTitle": "Sasa Yumuşak Kalamar Zokası 5Li Set 5 Cm 4 Gr",
+      "productTitle": "Sasa Yumuşak Kalamar Zokası 5Li Set 5 Cm 4 Gr",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "UcuzaAv",
+      "title": "Sasa silikon Kalamar zoka",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

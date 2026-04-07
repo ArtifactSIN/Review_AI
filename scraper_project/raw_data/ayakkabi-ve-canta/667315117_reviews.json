@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "667315117",
+  "collectedAt": "2026-04-05T19:14:57.998Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Terlik beden olarak küçük ve lastik terlik olduğu halde hiç bir elastikiyet yok. Ayak 43 numara 45 sipariş verdim ayağım tam girmedi içine. Giyince adım atmanın imkanı yok. Taş gibi. Kestim çöpe attım.",
+      "createDate": 1774525793182,
+      "createdDate": "26/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5106665464,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774525793182,
+      "maskedBuyerName": "Erhan  Süveren",
+      "oldScore": 0,
+      "productId": 667314789,
+      "productSubTitle": "Gezer Yazlık Erkek No Fear Airblow Islak Zemine Uygun Günlük Ev Bahçe Havuz Terlik Siyah 45",
+      "productTitle": "Gezer Yazlık Erkek No Fear Airblow Islak Zemine Uygun Günlük Ev Bahçe Havuz Terlik Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "Gezer",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "uygun fiyat",
+      "createDate": 1760529597425,
+      "createdDate": "15/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105423112,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "İ*** Ö***",
+      "oldScore": 0,
+      "productId": 667314789,
+      "productSubTitle": "Gezer Yazlık Erkek No Fear Airblow Islak Zemine Uygun Günlük Ev Bahçe Havuz Terlik Siyah 45",
+      "productTitle": "Gezer Yazlık Erkek No Fear Airblow Islak Zemine Uygun Günlük Ev Bahçe Havuz Terlik Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Gezer",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

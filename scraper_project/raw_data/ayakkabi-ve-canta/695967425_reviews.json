@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "695967425",
+  "collectedAt": "2026-04-05T19:26:15.984Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Ayakkabıyı aldım güzel ama kalıbı giydiğim numaranın dılında kaldı küçük herhalde bir büyüğünü tekrar sipariş verecem",
+      "createDate": 1772081686562,
+      "createdDate": "26/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106484033,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "C*** U***",
+      "oldScore": 0,
+      "productId": 696777316,
+      "productSubTitle": "Timberland Motion Access Erkek Kahverengi Spor Ayakkabı Tb0a6djkens1 Kahverengi 43",
+      "productTitle": "Timberland Motion Access Erkek Kahverengi Spor Ayakkabı Tb0a6djkens1 Kahverengi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "INTERSPORT",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

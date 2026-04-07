@@ -1,0 +1,110 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "655308467",
+  "collectedAt": "2026-04-05T19:20:55.788Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ürün günlük kullanım için uygun",
+      "createDate": 1759234295111,
+      "createdDate": "30/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105319875,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** K***",
+      "oldScore": 0,
+      "productId": 655308467,
+      "productSubTitle": "Adelina Bags Erkek Siyah Hakiki Deri El Çantası Siyah ",
+      "productTitle": "Adelina Bags Erkek Siyah Hakiki Deri El Çantası Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AdelinaBags",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Kaliteli ürün",
+      "createDate": 1758231185684,
+      "createdDate": "19/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105245381,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** E***",
+      "oldScore": 0,
+      "productId": 655308467,
+      "productSubTitle": "Adelina Bags Erkek Siyah Hakiki Deri El Çantası Siyah ",
+      "productTitle": "Adelina Bags Erkek Siyah Hakiki Deri El Çantası Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AdelinaBags",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün çok güzel teşekkür ederim",
+      "createDate": 1756920803285,
+      "createdDate": "03/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105139300,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** y***",
+      "oldScore": 0,
+      "productId": 655308467,
+      "productSubTitle": "Adelina Bags Erkek Siyah Hakiki Deri El Çantası Siyah ",
+      "productTitle": "Adelina Bags Erkek Siyah Hakiki Deri El Çantası Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AdelinaBags",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

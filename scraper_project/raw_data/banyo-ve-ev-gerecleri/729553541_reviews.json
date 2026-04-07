@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "729553541",
+  "collectedAt": "2026-04-05T20:12:12.979Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Üründen memnun kaldım",
+      "createDate": 1774740520727,
+      "createdDate": "29/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106688194,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774740520727,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 729553541,
+      "productSubTitle": "Çok Katlı Tekerlekli Modüler Saklama Dolabı Şeffaf Kapaklı Çok Amaçlı Düzenleyici Krem ",
+      "productTitle": "Çok Katlı Tekerlekli Modüler Saklama Dolabı Şeffaf Kapaklı Çok Amaçlı Düzenleyici Krem",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "decorev",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

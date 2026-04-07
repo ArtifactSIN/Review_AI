@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "612503646",
+  "collectedAt": "2026-04-05T19:25:18.772Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Orijinal ürün.Numaranızı alın.Mağaza güvenilir ve iletişimi çok iyi.Tavsiye ederim.",
+      "createDate": 1772029435067,
+      "createdDate": "25/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5106474792,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "hacı hasan ünal",
+      "oldScore": 0,
+      "productId": 612503587,
+      "productSubTitle": "Caterpillar Colorado Kadın Deri Bot Tarçın 40 Tarçın",
+      "productTitle": "Caterpillar Colorado Kadın Deri Bot",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Elzemm",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "KALİTE...",
+      "createDate": 1642680311099,
+      "createdDate": "20/01/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5088441465,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "hayriye karaca",
+      "oldScore": 0,
+      "productId": 510993143,
+      "productSubTitle": "Caterpillar Colorado Kadın Deri Bot Siyah 35 Siyah Deri",
+      "productTitle": "Caterpillar Colorado Kadın Deri Bot",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Elzemm",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

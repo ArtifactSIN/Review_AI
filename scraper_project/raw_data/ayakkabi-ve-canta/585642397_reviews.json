@@ -1,0 +1,110 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "585642397",
+  "collectedAt": "2026-04-05T19:19:12.496Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün iyi ama para gözü küçük",
+      "createDate": 1763465149417,
+      "createdDate": "18/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105729201,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "G*** K***",
+      "oldScore": 0,
+      "productId": 585642397,
+      "productSubTitle": "Cengiz Pakel Lucia Kadın Cüzdan 65268-Siyah",
+      "productTitle": "Cengiz Pakel Lucia Kadın Cüzdan 65268-Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "CengizPakel",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ürün ancak hasarlı geldi.",
+      "createDate": 1722712900194,
+      "createdDate": "03/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100824488,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "F*** D*** B***",
+      "oldScore": 0,
+      "productId": 585642397,
+      "productSubTitle": "Cengiz Pakel Lucia Kadın Cüzdan 65268-Siyah",
+      "productTitle": "Cengiz Pakel Lucia Kadın Cüzdan 65268-Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "CengizPakel",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Gayet güzel",
+      "createDate": 1711308327066,
+      "createdDate": "24/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098728613,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "k*** n*** k***",
+      "oldScore": 0,
+      "productId": 585642397,
+      "productSubTitle": "Cengiz Pakel Lucia Kadın Cüzdan 65268-Siyah",
+      "productTitle": "Cengiz Pakel Lucia Kadın Cüzdan 65268-Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "CengizPakel",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

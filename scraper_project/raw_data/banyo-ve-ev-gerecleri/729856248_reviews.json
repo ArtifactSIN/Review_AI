@@ -1,0 +1,94 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "729856248",
+  "collectedAt": "2026-04-05T20:13:52.174Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "bataryanın alt çıkışından birisi dişi bozuk geldi ayri bir pirinç maşon ile çözmeye çalıştım ancak suyu açtığımda çıkış yerinden kaçırıyor",
+      "createDate": 1773925575625,
+      "createdDate": "19/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106612147,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773925575625,
+      "maskedBuyerName": "ali geçgül",
+      "oldScore": 0,
+      "productId": 729856248,
+      "productSubTitle": "Piano 5 Fonksiyonlu Kendinden Banyo Bataryalı Dijital Akıllı Robot Duş Seti Tepe Duş Seti Gri ",
+      "productTitle": "Piano 5 Fonksiyonlu Kendinden Banyo Bataryalı Dijital Akıllı Robot Duş Seti Tepe Duş Seti Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "VSArmatür",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Malzemelerin ve bataryanın kalitesi gayet güzel,tasarım olarak zaten çok hoş bir ürün tavsiye ederim...",
+      "createDate": 1773707220333,
+      "createdDate": "17/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106597370,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/17/49/38/59/68/51/17/62/72/49/17529429795120003926.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/17/49/38/59/68/51/17/62/72/49/17529429795120003926.jpg",
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/17/49/45/00/14/36/86/90/99/32/5356137522273498169.jpg"
+      ],
+      "lastModifiedDate": 1773707220333,
+      "maskedBuyerName": "Y*** E*** B***",
+      "oldScore": 0,
+      "productId": 729856248,
+      "productSubTitle": "Piano 5 Fonksiyonlu Kendinden Banyo Bataryalı Dijital Akıllı Robot Duş Seti Tepe Duş Seti Gri ",
+      "productTitle": "Piano 5 Fonksiyonlu Kendinden Banyo Bataryalı Dijital Akıllı Robot Duş Seti Tepe Duş Seti Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8470391,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/17/49/38/59/68/51/17/62/72/49/17529429795120003926.jpg"
+        },
+        {
+          "id": 8470392,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/17/49/45/00/14/36/86/90/99/32/5356137522273498169.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "VSArmatür",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/17/49/38/59/68/51/17/62/72/49/17529429795120003926.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/17/49/38/59/68/51/17/62/72/49/17529429795120003926.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

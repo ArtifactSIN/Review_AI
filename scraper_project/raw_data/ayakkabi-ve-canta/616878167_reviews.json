@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "616878167",
+  "collectedAt": "2026-04-05T19:24:56.236Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "İfade edildiği gibi çok güzel ve rahat ayakkabı.. Teşekkürler..",
+      "createDate": 1721321303667,
+      "createdDate": "18/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100608024,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1744717709874,
+      "maskedBuyerName": "R*** O***",
+      "oldScore": 0,
+      "productId": 616878168,
+      "productSubTitle": "Taşpınar %100 Deri Ortopedik Erkek Yazlık Rahat Günlük Çarık Ayakkabı 40-44 Füme 41",
+      "productTitle": "Taşpınar %100 Deri Ortopedik Erkek Yazlık Rahat Günlük Çarık Ayakkabı 40-44 Füme",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MTONLINE",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "güzrl ayakkabı hakiki deri",
+      "createDate": 1719244704581,
+      "createdDate": "24/06/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100266145,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1744717703417,
+      "maskedBuyerName": "o*** d***",
+      "oldScore": 0,
+      "productId": 616878167,
+      "productSubTitle": "Taşpınar %100 Deri Ortopedik Erkek Yazlık Rahat Günlük Çarık Ayakkabı 40-44 Füme 42",
+      "productTitle": "Taşpınar %100 Deri Ortopedik Erkek Yazlık Rahat Günlük Çarık Ayakkabı 40-44 Füme",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MTONLINE",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

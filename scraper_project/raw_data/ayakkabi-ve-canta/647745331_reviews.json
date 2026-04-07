@@ -1,0 +1,59 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "647745331",
+  "collectedAt": "2026-04-05T19:24:04.635Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kaliteli",
+      "createDate": 1762276538775,
+      "createdDate": "04/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105595703,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/04/57/43/63/19/46/14/46/22/38/37208376146068551162.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/11/04/57/43/63/19/46/14/46/22/38/37208376146068551162.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** K***",
+      "oldScore": 0,
+      "productId": 647745331,
+      "productSubTitle": "Termal Alt Bölmeli+termal Matara Çantalı Kamp,balıkçı Sırt Çantas Siyah ",
+      "productTitle": "Termal Alt Bölmeli+termal Matara Çantalı Kamp,balıkçı Sırt Çantas Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7914857,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/04/57/43/63/19/46/14/46/22/38/37208376146068551162.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "çanta-adresim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/04/57/43/63/19/46/14/46/22/38/37208376146068551162.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/04/57/43/63/19/46/14/46/22/38/37208376146068551162.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "antika-ve-koleksiyon",
+  "productId": "561839001",
+  "collectedAt": "2026-04-05T17:52:32.261Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "kaliteli teşekkürler",
+      "createDate": 1710414097801,
+      "createdDate": "14/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098523638,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "k*** b***",
+      "oldScore": 0,
+      "productId": 568528800,
+      "productSubTitle": "Mercan Çocuk Yayınları Mercan Çocuk Para Biriktiren Ahşap Kumbara",
+      "productTitle": "Parabox - 10.000tl Kumbara Para Biriktirme Kutusu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KİTAPTÜRKİYE",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

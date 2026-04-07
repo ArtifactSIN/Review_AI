@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "618178399",
+  "collectedAt": "2026-04-05T19:22:08.237Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel ve kullanışlı",
+      "createDate": 1773451507764,
+      "createdDate": "14/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106580999,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773451507764,
+      "maskedBuyerName": "Ü*** B***",
+      "oldScore": 0,
+      "productId": 618178399,
+      "productSubTitle": "Gezer Yazlık Islak Zemin Sabo Erkek Terlik - 554550751 Siyah 41",
+      "productTitle": "Gezer Yazlık Islak Zemin Sabo Erkek Terlik - 554550751 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Gezer",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

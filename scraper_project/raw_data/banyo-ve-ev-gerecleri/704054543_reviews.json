@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "704054543",
+  "collectedAt": "2026-04-05T20:15:01.171Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Düşünmeden alabilirsiniz. Eca’nın alt ürünü en az Eca kadar kaliteli. Fiyatıda piyasadan bayağı aşağı. En uygun mağazada 2600 lira iken 1800 aldım",
+      "createDate": 1772722934995,
+      "createdDate": "05/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106525718,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "H*** T***",
+      "oldScore": 0,
+      "productId": 704054543,
+      "productSubTitle": "Ar Lite 102118891 Eviye Bataryası",
+      "productTitle": "Ar Lite 102118891 Eviye Bataryası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KILIÇLARYAPI",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "689142647",
+  "collectedAt": "2026-04-05T18:33:27.759Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Beklentimden daha iyi . Hızlı ve hasarsız teslim edildi teşekkürler.",
+      "createDate": 1771355561191,
+      "createdDate": "17/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106429822,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "S*** D***",
+      "oldScore": 0,
+      "productId": 689142647,
+      "productSubTitle": "Kendo Kenshi Spin Fuji 2.05m 1-9gr Tele Lrf Kamışı ",
+      "productTitle": "Kendo Kenshi Spin Fuji 2.05m 1-9gr Tele Lrf Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Kalitesini belli ediyor.",
+      "createDate": 1765359159205,
+      "createdDate": "10/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105929169,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/10/62/44/50/43/33/87/17/88/90/27973127478313110858.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/12/10/62/44/50/43/33/87/17/88/90/27973127478313110858.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 689142647,
+      "productSubTitle": "Kendo Kenshi Spin Fuji 2.05m 1-9gr Tele Lrf Kamışı ",
+      "productTitle": "Kendo Kenshi Spin Fuji 2.05m 1-9gr Tele Lrf Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8096234,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/10/62/44/50/43/33/87/17/88/90/27973127478313110858.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/10/62/44/50/43/33/87/17/88/90/27973127478313110858.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/10/62/44/50/43/33/87/17/88/90/27973127478313110858.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün çok güzel magaza hızlı ama nasılsa iğne takacak yeri yok",
+      "createDate": 1757576468257,
+      "createdDate": "11/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105192576,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 689142647,
+      "productSubTitle": "Kendo Kenshi Spin Fuji 2.05m 1-9gr Tele Lrf Kamışı ",
+      "productTitle": "Kendo Kenshi Spin Fuji 2.05m 1-9gr Tele Lrf Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

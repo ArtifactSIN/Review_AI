@@ -1,0 +1,119 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "631590065",
+  "collectedAt": "2026-04-05T20:19:25.560Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Beğendim kullanımı be kurulumu kolay tavsiye ederim",
+      "createDate": 1733318876054,
+      "createdDate": "04/12/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102829981,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "o*** y***",
+      "oldScore": 0,
+      "productId": 606672911,
+      "productSubTitle": "Gazzella Squad Luxe Ütü Masası",
+      "productTitle": "Gazzella Squad Luxe Ütü Masası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MSEZEROLGROUP",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Anlatıldığı gibi, satıcı ilgili sağlam paketlenmişti✨",
+      "createDate": 1728892204118,
+      "createdDate": "14/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101881534,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/14/58/43/76/66/98/03/88/46/89/7610543193665457841.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/10/14/86/82/75/08/84/75/47/60/70/31085920878683271607.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** S***",
+      "oldScore": 0,
+      "productId": 606672911,
+      "productSubTitle": "Gazzella Squad Luxe Ütü Masası",
+      "productTitle": "Gazzella Squad Luxe Ütü Masası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 5916844,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/14/86/82/75/08/84/75/47/60/70/31085920878683271607.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MSEZEROLGROUP",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/14/58/43/76/66/98/03/88/46/89/7610543193665457841.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/14/58/43/76/66/98/03/88/46/89/7610543193665457841.jpg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Anlatıldığı gibi gayet kullanışlı ve sağlamm. Tavsiye ederim",
+      "createDate": 1721041489955,
+      "createdDate": "15/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100566120,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** S***",
+      "oldScore": 0,
+      "productId": 580408646,
+      "productSubTitle": "Gazzella Squad Luxe Ütü Masası",
+      "productTitle": "Gazzella Squad Luxe Ütü Masası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Hepsibendeki",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

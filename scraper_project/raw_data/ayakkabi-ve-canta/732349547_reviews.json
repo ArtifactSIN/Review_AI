@@ -1,0 +1,110 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "732349547",
+  "collectedAt": "2026-04-05T19:16:20.899Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün görseli güzel malzeme ikinci sınıf çakma deri gerçek deri ile alakası yok",
+      "createDate": 1775110025076,
+      "createdDate": "02/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106730846,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775110025076,
+      "maskedBuyerName": "Asım Kocatürk",
+      "oldScore": 0,
+      "productId": 732349547,
+      "productSubTitle": "Puma Easy Rider Mix Erkek Günlük Ayakkabı 39902501 Renkli Renkli Çok Renkli 43",
+      "productTitle": "Puma Easy Rider Mix Erkek Günlük Ayakkabı 39902501 Renkli Renkli Çok Renkli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Puma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Puma kalitesi..tam numara.. çok rahat",
+      "createDate": 1774030949965,
+      "createdDate": "20/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106621269,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774030949965,
+      "maskedBuyerName": "E*** ö***",
+      "oldScore": 0,
+      "productId": 732349545,
+      "productSubTitle": "Puma Easy Rider Mix Erkek Günlük Ayakkabı 39902501 Renkli Renkli Çok Renkli 42",
+      "productTitle": "Puma Easy Rider Mix Erkek Günlük Ayakkabı 39902501 Renkli Renkli Çok Renkli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Puma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürün kaliteli,zamanında ve güzel paketlenmiş geldi..Giydiğim no yı tercih ettim doğru yapmışım.Gönderici PUMA ya ve Aras kargoya teşekkürederim..",
+      "createDate": 1773425287081,
+      "createdDate": "13/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106580316,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773425287081,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 732349544,
+      "productSubTitle": "Puma Easy Rider Mix Erkek Günlük Ayakkabı 39902501 Renkli Renkli Çok Renkli 41",
+      "productTitle": "Puma Easy Rider Mix Erkek Günlük Ayakkabı 39902501 Renkli Renkli Çok Renkli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Puma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "612900764",
+  "collectedAt": "2026-04-05T19:19:11.022Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kaliteli ürünler beğendim",
+      "createDate": 1763910777512,
+      "createdDate": "23/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105774451,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "K*** A***",
+      "oldScore": 0,
+      "productId": 612900761,
+      "productSubTitle": "Slazenger ORIGIN I Erkek  Siyah / Kırmızı Günlük Spor Ayakkabısı   42",
+      "productTitle": "Slazenger ORIGIN I Erkek  Siyah / Kırmızı Günlük Spor Ayakkabısı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Slazenger",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "ÇOK SAĞLAM",
+      "createDate": 1729059334589,
+      "createdDate": "16/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101913269,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "G*** G***",
+      "oldScore": 0,
+      "productId": 583707942,
+      "productSubTitle": "Slazenger Orıgın I Sneaker Erkek Ayakkabı Siyah - Kırmızı Sa23Le113-506 Siyah - Kırmızı 41 41",
+      "productTitle": "Slazenger Orıgın I Sneaker Erkek Ayakkabı Siyah - Kırmızı Sa23Le113-506",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Slazenger",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Güzel",
+      "createDate": 1715711512345,
+      "createdDate": "14/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099645768,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** K***",
+      "oldScore": 0,
+      "productId": 583707942,
+      "productSubTitle": "Slazenger Orıgın I Sneaker Erkek Ayakkabı Siyah - Kırmızı Sa23Le113-506 Siyah - Kırmızı 41 41",
+      "productTitle": "Slazenger Orıgın I Sneaker Erkek Ayakkabı Siyah - Kırmızı Sa23Le113-506",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Slazenger",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

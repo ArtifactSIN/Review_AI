@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "695992553",
+  "collectedAt": "2026-04-05T19:17:32.972Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel orta boy",
+      "createDate": 1763895322894,
+      "createdDate": "23/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105769564,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** K***",
+      "oldScore": 0,
+      "productId": 695992553,
+      "productSubTitle": "Newish Polo Erkek Hakiki Deri Çapraz Uzun Askılı El Ve Omuz Çantası New100 - Kahverengi ",
+      "productTitle": "Newish Polo Erkek Hakiki Deri Çapraz Uzun Askılı El Ve Omuz Çantası New100 - Kahverengi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "NewishPolo",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

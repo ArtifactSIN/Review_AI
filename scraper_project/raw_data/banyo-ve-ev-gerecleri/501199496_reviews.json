@@ -1,0 +1,110 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "501199496",
+  "collectedAt": "2026-04-05T20:13:28.469Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün resimdeki gibi fiyat performansı gayet iyi paketleme süper kargo süper.. herkese tavsiye ederim.",
+      "createDate": 1773734904104,
+      "createdDate": "17/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106597084,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773734904104,
+      "maskedBuyerName": "n*** i***",
+      "oldScore": 0,
+      "productId": 501199496,
+      "productSubTitle": "Nyn Ahşap Askı Kalın Omuz Formlu Takım Elbise Ceket Askısı Ceviz",
+      "productTitle": "Nyn Ahşap Askı Kalın Omuz Formlu Takım Elbise Ceket Askısı Ceviz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AskıDünyası",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Çok kaliteli ürün geldi. Gerçekten çok begendim.",
+      "createDate": 1703050975352,
+      "createdDate": "20/12/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097173798,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "gökhan osmanoğlu",
+      "oldScore": 0,
+      "productId": 501199496,
+      "productSubTitle": "Nyn Ahşap Askı Kalın Omuz Formlu Takım Elbise Ceket Askısı Ceviz",
+      "productTitle": "Nyn Ahşap Askı Kalın Omuz Formlu Takım Elbise Ceket Askısı Ceviz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AskıDünyası",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün tam anlamıyla fiyasko kalın omuz askılı değil",
+      "createDate": 1672945771329,
+      "createdDate": "05/01/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 2,
+      "id": 5091645528,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** C***",
+      "oldScore": 0,
+      "productId": 501199496,
+      "productSubTitle": "Nyn Ahşap Askı Kalın Omuz Formlu Takım Elbise Ceket Askısı Ceviz",
+      "productTitle": "Nyn Ahşap Askı Kalın Omuz Formlu Takım Elbise Ceket Askısı Ceviz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "AskıDünyası",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

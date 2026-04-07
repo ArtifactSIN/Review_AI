@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "731196114",
+  "collectedAt": "2026-04-05T19:21:29.939Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Harika mikemmel",
+      "createDate": 1772384234799,
+      "createdDate": "01/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106501284,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "A*** V***",
+      "oldScore": 0,
+      "productId": 688696737,
+      "productSubTitle": "Skechers Mıcrospec Advance Oasıs Poınt Küçük Kız Çocuk Pembe Spor Ayakkabı 303657n Hpmt Pembe 26",
+      "productTitle": "Skechers Mıcrospec Advance Oasıs Poınt Küçük Kız Çocuk Pembe Spor Ayakkabı 303657n Hpmt Pembe",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Skechers",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Mğkemmel kızıma aldım çok memnun kaldım",
+      "createDate": 1763376106281,
+      "createdDate": "17/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105711291,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ahmet vural",
+      "oldScore": 0,
+      "productId": 688696734,
+      "productSubTitle": "Skechers Mıcrospec Advance Oasıs Poınt Küçük Kız Çocuk Pembe Spor Ayakkabı 303657n Hpmt Pembe 25",
+      "productTitle": "Skechers Mıcrospec Advance Oasıs Poınt Küçük Kız Çocuk Pembe Spor Ayakkabı 303657n Hpmt Pembe",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Skechers",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

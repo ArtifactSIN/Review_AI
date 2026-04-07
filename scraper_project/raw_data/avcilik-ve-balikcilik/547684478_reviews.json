@@ -1,0 +1,110 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "547684478",
+  "collectedAt": "2026-04-05T18:34:33.188Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "hem kaliteli hem hesaplı",
+      "createDate": 1721282916211,
+      "createdDate": "18/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100595671,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "TC Ali Başar",
+      "oldScore": 0,
+      "productId": 547684478,
+      "productSubTitle": "Firefly Çiftli Şamandıra Fosforu 2 x 50 Adet",
+      "productTitle": "Firefly Çiftli Şamandıra Fosforu 2 x 50 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SpotavOutdoor",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "orijinal paketinde ve firmanin poşetinin içinde sağlam bir şekilde teslim aldım. Saydım paketin içinden 50 adet çıktı. Her şey normaldi.",
+      "createDate": 1696863799197,
+      "createdDate": "09/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5095687488,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Adem Balkan",
+      "oldScore": 0,
+      "productId": 547684478,
+      "productSubTitle": "Firefly Çiftli Şamandıra Fosforu 2 x 50 Adet",
+      "productTitle": "Firefly Çiftli Şamandıra Fosforu 2 x 50 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SpotavOutdoor",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ezik bozuk dağılmış şekilde ulaştı elime marka önceden çok kaliteliydi ışığı mükemmeldi şimdi ortadan kırıp çakmakla ısınmazsa ışık felan vermiyo",
+      "createDate": 1682836706574,
+      "createdDate": "30/04/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5093452846,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 547684478,
+      "productSubTitle": "Firefly Çiftli Şamandıra Fosforu 2 x 50 Adet",
+      "productTitle": "Firefly Çiftli Şamandıra Fosforu 2 x 50 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "SpotavOutdoor",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

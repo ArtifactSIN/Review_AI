@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "641940535",
+  "collectedAt": "2026-04-05T19:20:00.622Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Tek kelimeyle harika. Bende kemik çıkıntısı olduğu halde çok rahat ve yumuşak deri.",
+      "createDate": 1736257667481,
+      "createdDate": "07/01/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103317614,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1747395479057,
+      "maskedBuyerName": "M*** Ö***",
+      "oldScore": 0,
+      "productId": 641873263,
+      "productSubTitle": "İç Dış Hakiki Deri Bağcıklı Ortopedik Kadın Günlük Ayakkabı Siyah 39",
+      "productTitle": "İç Dış Hakiki Deri Bağcıklı Ortopedik Kadın Günlük Ayakkabı Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "M&BCOLLECTİON",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "643940475",
+  "collectedAt": "2026-04-05T19:23:50.371Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "beklediğim gibi.çok güzel",
+      "createDate": 1770820622273,
+      "createdDate": "11/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106380979,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "D*** a***",
+      "oldScore": 0,
+      "productId": 643940475,
+      "productSubTitle": "Vans Old Skool Classic Unisex Siyah Sırt Çantası Düz Vn000h4yblk1 Siyah ",
+      "productTitle": "Vans Old Skool Classic Unisex Siyah Sırt Çantası Düz Vn000h4yblk1 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Superstep",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "torunumuza aldık, kullanıyor, memnun",
+      "createDate": 1767431111133,
+      "createdDate": "03/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106128271,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "M*** N***",
+      "oldScore": 0,
+      "productId": 643940475,
+      "productSubTitle": "Vans Old Skool Classic Unisex Siyah Sırt Çantası Düz Vn000h4yblk1 Siyah ",
+      "productTitle": "Vans Old Skool Classic Unisex Siyah Sırt Çantası Düz Vn000h4yblk1 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Superstep",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

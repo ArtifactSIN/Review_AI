@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "661587884",
+  "collectedAt": "2026-04-05T19:25:55.195Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kaliteli ürün hızlı kargolama uygun fiyata",
+      "createDate": 1763985652695,
+      "createdDate": "24/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105785761,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** e*** i***",
+      "oldScore": 0,
+      "productId": 661582303,
+      "productSubTitle": "Vans Rowley Classic Unisex Krem Sneaker 026 Vn000sf42lh1 Krem 39",
+      "productTitle": "Vans Rowley Classic Unisex Krem Sneaker 026 Vn000sf42lh1 Krem",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Superstep",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "gayet iyi",
+      "createDate": 1758872752107,
+      "createdDate": "26/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105280186,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "d*** a***",
+      "oldScore": 0,
+      "productId": 661587866,
+      "productSubTitle": "Vans Rowley Classic Unisex Krem Sneaker 026 Vn000sf42lh1 Krem 43",
+      "productTitle": "Vans Rowley Classic Unisex Krem Sneaker 026 Vn000sf42lh1 Krem",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Superstep",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

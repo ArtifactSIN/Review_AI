@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "679680053",
+  "collectedAt": "2026-04-05T18:29:45.267Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Gayet güzel görüldüğü gibi geldi",
+      "createDate": 1772451386067,
+      "createdDate": "02/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106502696,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "A*** Ü***",
+      "oldScore": 0,
+      "productId": 732123624,
+      "productSubTitle": "Fujin Sniper 2000 Lrf Olta Makinesi ",
+      "productTitle": "Fujin Sniper 2000 Lrf Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TonguçBalıkVeAvMalz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

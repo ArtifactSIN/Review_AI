@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "637207107",
+  "collectedAt": "2026-04-05T18:29:46.037Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çok güzel açılması kapanması istediğin uzunlukta kullanabilirsin.",
+      "createDate": 1747939224731,
+      "createdDate": "22/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104479270,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ethem ÖZGEN",
+      "oldScore": 0,
+      "productId": 637207107,
+      "productSubTitle": "Albastar Pole Fasten 720 Cm Uzunluğu Ayarlanabilir Karbon Göl Olta Kamışı ",
+      "productTitle": "Albastar Pole Fasten 720 Cm Uzunluğu Ayarlanabilir Karbon Göl Olta Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "balıkmarketim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

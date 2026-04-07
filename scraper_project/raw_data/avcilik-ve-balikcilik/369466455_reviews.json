@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "369466455",
+  "collectedAt": "2026-04-05T18:44:51.510Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "surf beklemeli avlarda tüm beklentilerinizi karşılayacak kalitede bir makine.",
+      "createDate": 1664436585878,
+      "createdDate": "29/09/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5090509613,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "salih orçun ılgın",
+      "oldScore": 0,
+      "productId": 369466455,
+      "productSubTitle": "Okuma 8K Carp Olta Makinesi",
+      "productTitle": "Okuma 8K Carp Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": "tüm ihtiyacınızı görecek kalitede bir makine",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "evet güzel kaliteli",
+      "createDate": 1640086470649,
+      "createdDate": "21/12/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5088062343,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Fuat Karcı Karcı",
+      "oldScore": 0,
+      "productId": 446949245,
+      "productSubTitle": "57739",
+      "productTitle": "Okuma 8K Carp Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SALMANAVSPOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "548376667",
+  "collectedAt": "2026-04-05T20:24:32.231Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "rezillik birsey montajı bile yapamıyorsunuz plastikleri ayrılıyor okadar basit ve kötü bir ürün ki para vermeye değmez",
+      "createDate": 1671765828635,
+      "createdDate": "23/12/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5091411601,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1752224784496,
+      "maskedBuyerName": "k*** g***",
+      "oldScore": 0,
+      "productId": 548376667,
+      "productSubTitle": "Tema Klozet Siamp Stoplu Basmalı Rezervuar İç Takım 22/101 Beyaz ",
+      "productTitle": "Tema Klozet Siamp Stoplu Basmalı Rezervuar İç Takım 22/101 Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "Proted-Tema",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "hayir .bozuk defolu ve bozuk geldi paketi yirtikdi. N11e yakismayan bir alışveriş oldu",
+      "createDate": 1519838487537,
+      "createdDate": "28/02/2018",
+      "getirSeller": false,
+      "helpfulVoteCount": 6,
+      "id": 5065503658,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1752224784495,
+      "maskedBuyerName": "Alperen kürşat akman",
+      "oldScore": 0,
+      "productId": 197429343,
+      "productSubTitle": "Tema Klozet Siamp Stoplu Basmalı Rezervuar İç Takım 22/101 Beyaz ",
+      "productTitle": "Tema Klozet Siamp Stoplu Basmalı Rezervuar İç Takım 22/101 Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "MAYTİCARET11",
+      "title": "defolu ve bozuk geldi ",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

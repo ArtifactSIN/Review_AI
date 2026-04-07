@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "139054180",
+  "collectedAt": "2026-04-05T20:18:30.542Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün kaliteli fiyatı uygun satıcı çok ilgili teşekkürler.",
+      "createDate": 1484656317300,
+      "createdDate": "17/01/2017",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5061057198,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1752040893889,
+      "maskedBuyerName": "atakan güner",
+      "oldScore": 0,
+      "productId": 139054180,
+      "productSubTitle": "Safell İç Kovalı Pedallı Tıbbi Atık Çöp Kovası Kırmızı 30 L Kırmızı ",
+      "productTitle": "Safell İç Kovalı Pedallı Tıbbi Atık Çöp Kovası Kırmızı 30 L Kırmızı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TEİF",
+      "title": "ürün yorumu",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün güzel kullanışlı fakat faturasi çıkmadı, sadece bir A4 kağıda sipariş detayının çıktısı alınmış o kadar..",
+      "createDate": 1479802857038,
+      "createdDate": "22/11/2016",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5059842374,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1752040893889,
+      "maskedBuyerName": "cüneyt küntay",
+      "oldScore": 0,
+      "productId": 139054180,
+      "productSubTitle": "Safell İç Kovalı Pedallı Tıbbi Atık Çöp Kovası Kırmızı 30 L Kırmızı ",
+      "productTitle": "Safell İç Kovalı Pedallı Tıbbi Atık Çöp Kovası Kırmızı 30 L Kırmızı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "TEİF",
+      "title": "fatura yok...",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

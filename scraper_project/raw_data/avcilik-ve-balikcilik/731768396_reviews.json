@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "731768396",
+  "collectedAt": "2026-04-05T18:47:17.734Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "guzel",
+      "createDate": 1772218409718,
+      "createdDate": "27/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106494328,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "M*** Ç***",
+      "oldScore": 0,
+      "productId": 731768396,
+      "productSubTitle": "Effe Silikon 7cm 3.6gr Glow Kalamar Zokası Hg3026 1 Adet",
+      "productTitle": "Effe Silikon 7cm 3.6gr Glow Kalamar Zokası Hg3026",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TonguçBalıkVeAvMalz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

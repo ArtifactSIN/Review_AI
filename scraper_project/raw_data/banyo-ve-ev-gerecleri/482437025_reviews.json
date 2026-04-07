@@ -1,0 +1,110 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "482437025",
+  "collectedAt": "2026-04-05T20:24:21.835Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "gayet kaliteli ürün",
+      "createDate": 1680280372392,
+      "createdDate": "31/03/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5092978097,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "K*** B***",
+      "oldScore": 0,
+      "productId": 482437025,
+      "productSubTitle": "Klikal Tırtıklı Vakum Poşeti Rulo 25 Cm 5 Metre",
+      "productTitle": "Klikal Tırtıklı Vakum Poşeti Rulo 25 Cm 5 Metre",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Klikal",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün işini gereğiyle yapıyor.",
+      "createDate": 1666706534401,
+      "createdDate": "25/10/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5090698780,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Aykut Öncü",
+      "oldScore": 0,
+      "productId": 482437025,
+      "productSubTitle": "Klikal Tırtıklı Vakum Poşeti Rulo 25 Cm 5 Metre",
+      "productTitle": "Klikal Tırtıklı Vakum Poşeti Rulo 25 Cm 5 Metre",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Klikal",
+      "title": "Kaliteli",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ama pahalı",
+      "createDate": 1665589218504,
+      "createdDate": "12/10/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5090605892,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ALİ RESULOĞLU",
+      "oldScore": 0,
+      "productId": 482437025,
+      "productSubTitle": "Klikal Tırtıklı Vakum Poşeti Rulo 25 Cm 5 Metre",
+      "productTitle": "Klikal Tırtıklı Vakum Poşeti Rulo 25 Cm 5 Metre",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Klikal",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

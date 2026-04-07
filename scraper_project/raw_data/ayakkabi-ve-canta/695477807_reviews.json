@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "695477807",
+  "collectedAt": "2026-04-05T19:22:18.743Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Aşırı tatlı",
+      "createDate": 1774351836883,
+      "createdDate": "24/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106633762,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774351836883,
+      "maskedBuyerName": "-*** -***",
+      "oldScore": 0,
+      "productId": 695474587,
+      "productSubTitle": "Vans Old Skool Bebek Pembe Çiçekli Spor Ayakkabı Vn000ctgzry1 Kırmızı 23.5",
+      "productTitle": "Vans Old Skool Bebek Pembe Çiçekli Spor Ayakkabı Vn000ctgzry1 Kırmızı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Superstep",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

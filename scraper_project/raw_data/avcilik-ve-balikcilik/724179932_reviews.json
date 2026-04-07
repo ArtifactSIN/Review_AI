@@ -1,0 +1,119 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "724179932",
+  "collectedAt": "2026-04-05T18:35:51.333Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "orijinal ürün. kaliteli duruyor",
+      "createDate": 1715433638796,
+      "createdDate": "11/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099590667,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/11/56/88/24/82/70/03/29/59/18/53840777455153138671.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/05/11/56/88/24/82/70/03/29/59/18/53840777455153138671.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "B*** N***",
+      "oldScore": 0,
+      "productId": 601433687,
+      "productSubTitle": "Okuma Revenger Rv-55 Fd  Olta Makinesi",
+      "productTitle": "Okuma Revenger Rv-55 Fd  Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 4655343,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/11/56/88/24/82/70/03/29/59/18/53840777455153138671.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ozdemiravmarket1",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/11/56/88/24/82/70/03/29/59/18/53840777455153138671.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/11/56/88/24/82/70/03/29/59/18/53840777455153138671.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "tek bilya yanıltmasın 6 bilyalı farklı marka üründen daha güzel çekim yapıyor.",
+      "createDate": 1698064386760,
+      "createdDate": "23/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096125608,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** G***",
+      "oldScore": 0,
+      "productId": 555431934,
+      "productSubTitle": "Okuma Revenger RV-55 FD Olta Makinesi",
+      "productTitle": "Okuma Revenger Rv-55 Fd  Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ForaSportif",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "daha deneme fırsatım olmadı ama çevirme çok yumuşak çalışmayan kısım yok",
+      "createDate": 1659555890367,
+      "createdDate": "03/08/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5090119574,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ahmet aba",
+      "oldScore": 0,
+      "productId": 550379848,
+      "productSubTitle": "ORJİNAL FATURALI ÜRÜN",
+      "productTitle": "Okuma Revenger Rv-55 Fd  Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "ALFABALIK",
+      "title": "rv-55",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

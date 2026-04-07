@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "634177993",
+  "collectedAt": "2026-04-05T18:36:26.509Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün cok güzel ve sağlam hediye için cok teşekkür ediyorum alacaklar terettüt etmeden alabilir iş yapar",
+      "createDate": 1774966755198,
+      "createdDate": "31/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106704778,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774966755198,
+      "maskedBuyerName": "R*** A***",
+      "oldScore": 0,
+      "productId": 634177993,
+      "productSubTitle": "Renk Değiştiren Işıklı Şamandıra Akıllı Olta Şamandrası 2gr ",
+      "productTitle": "Renk Değiştiren Işıklı Şamandıra Akıllı Olta Şamandrası 2gr",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BİL-TEKNİK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Harika",
+      "createDate": 1760544116127,
+      "createdDate": "15/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105433369,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "V*** T***",
+      "oldScore": 0,
+      "productId": 634177993,
+      "productSubTitle": "Renk Değiştiren Işıklı Şamandıra Akıllı Olta Şamandrası 2gr ",
+      "productTitle": "Renk Değiştiren Işıklı Şamandıra Akıllı Olta Şamandrası 2gr",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BİL-TEKNİK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

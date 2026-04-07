@@ -1,0 +1,119 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "734546723",
+  "collectedAt": "2026-04-05T19:24:55.303Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Ürün güzel ve rahat eşim beğendi. Bangladeş üretimi.",
+      "createDate": 1765705685408,
+      "createdDate": "14/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105973910,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/14/58/86/51/34/63/60/14/11/14/42950461605018451305.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/12/14/58/86/51/34/63/60/14/11/14/42950461605018451305.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** n***",
+      "oldScore": 0,
+      "productId": 685137298,
+      "productSubTitle": "Vans Filmore Siyah Kadın Sneaker Siyah 38.5",
+      "productTitle": "Vans Filmore Siyah Kadın Sneaker Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8118379,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/14/58/86/51/34/63/60/14/11/14/42950461605018451305.png"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "pointspor",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/14/58/86/51/34/63/60/14/11/14/42950461605018451305.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/14/58/86/51/34/63/60/14/11/14/42950461605018451305.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Teşekkürler",
+      "createDate": 1763490278592,
+      "createdDate": "18/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105725348,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "G*** B***",
+      "oldScore": 0,
+      "productId": 678121520,
+      "productSubTitle": "Vans Filmore Siyah Kadın Sneaker Siyah 37",
+      "productTitle": "Vans Filmore Siyah Kadın Sneaker Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "pointspor",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Orjinal gibi durmuyor",
+      "createDate": 1744404591614,
+      "createdDate": "11/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104150864,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1744404598173,
+      "maskedBuyerName": "H*** H*** A***",
+      "oldScore": 0,
+      "productId": 657892673,
+      "productSubTitle": "Vans Filmore Siyah Kadın Sneaker Siyah 38.5",
+      "productTitle": "Vans Filmore Siyah Kadın Sneaker Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "sporset",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

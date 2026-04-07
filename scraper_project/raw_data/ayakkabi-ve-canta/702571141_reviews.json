@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "702571141",
+  "collectedAt": "2026-04-05T19:25:56.492Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Cok guzel tam kalıp .",
+      "createDate": 1768492367230,
+      "createdDate": "15/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106216359,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "f*** t***",
+      "oldScore": 0,
+      "productId": 702399836,
+      "productSubTitle": "U.s. Polo Assn. Juno 5pr Vizon Kadın Sneaker 000000000102023066 VIZON 36",
+      "productTitle": "U.s. Polo Assn. Juno 5pr Vizon Kadın Sneaker 000000000102023066 VIZON",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FLO",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

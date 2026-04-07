@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "698570460",
+  "collectedAt": "2026-04-05T19:26:19.309Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel kullanışlı",
+      "createDate": 1765990129834,
+      "createdDate": "17/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105995175,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** s***",
+      "oldScore": 0,
+      "productId": 698570455,
+      "productSubTitle": "Jump 22233 21516 Unisex Sneaker Spor Ayakkabı - Beyaz 42",
+      "productTitle": "Jump 22233 21516 Unisex Sneaker Spor Ayakkabı - Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MarcaSpor",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

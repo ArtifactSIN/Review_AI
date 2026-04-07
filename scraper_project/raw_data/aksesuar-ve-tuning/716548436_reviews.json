@@ -1,0 +1,110 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "716548436",
+  "collectedAt": "2026-04-05T17:27:44.791Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün güzel ama köşe kısmı dikiş ipi kopmuş açılmış bende daha kullanmadan zimbaladım",
+      "createDate": 1775157386847,
+      "createdDate": "02/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106741290,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775157386847,
+      "maskedBuyerName": "Doğukan Çelikel",
+      "oldScore": 0,
+      "productId": 716548436,
+      "productSubTitle": "Ez&ber Oto Bagaj Çantası Bagaj Organizer Bagaj Düzenleyici Keçe",
+      "productTitle": "Ez&ber Oto Bagaj Çantası Bagaj Organizer Bagaj Düzenleyici Keçe",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "AltumedGlobal",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "cok memnunum",
+      "createDate": 1767871778067,
+      "createdDate": "08/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106167815,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "E*** b***",
+      "oldScore": 0,
+      "productId": 716548436,
+      "productSubTitle": "Ez&ber Oto Bagaj Çantası Bagaj Organizer Bagaj Düzenleyici Keçe",
+      "productTitle": "Ez&ber Oto Bagaj Çantası Bagaj Organizer Bagaj Düzenleyici Keçe",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AltumedGlobal",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "bence güzel",
+      "createDate": 1765883159361,
+      "createdDate": "16/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105986054,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "f*** y***",
+      "oldScore": 0,
+      "productId": 716548436,
+      "productSubTitle": "Ez&ber Oto Bagaj Çantası Bagaj Organizer Bagaj Düzenleyici Keçe",
+      "productTitle": "Ez&ber Oto Bagaj Çantası Bagaj Organizer Bagaj Düzenleyici Keçe",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AltumedGlobal",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

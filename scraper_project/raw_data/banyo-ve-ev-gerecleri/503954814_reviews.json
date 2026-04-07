@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "503954814",
+  "collectedAt": "2026-04-05T20:20:06.269Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün kaliteli, satıcı bir adet fazla göndermiş. Teşekkürler",
+      "createDate": 1703177390247,
+      "createdDate": "21/12/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097207588,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** K***",
+      "oldScore": 0,
+      "productId": 503954814,
+      "productSubTitle": "Nyn Ahşap 0-3 Yaş Bebek Elbise Askısı Naturel Renk 6 Adet",
+      "productTitle": "Nyn Ahşap 0-3 Yaş Bebek Elbise Askısı Naturel Renk 6 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AskıDünyası",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Kargolanma tipini çok sevemedim ama askı Beklediğimden çoook daha kaliteli geldi çok teşekkür ederim",
+      "createDate": 1702054629813,
+      "createdDate": "08/12/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096987153,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Züleyha BETON",
+      "oldScore": 0,
+      "productId": 503954814,
+      "productSubTitle": "Nyn Ahşap 0-3 Yaş Bebek Elbise Askısı Naturel Renk 6 Adet",
+      "productTitle": "Nyn Ahşap 0-3 Yaş Bebek Elbise Askısı Naturel Renk 6 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AskıDünyası",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

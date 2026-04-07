@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "595527968",
+  "collectedAt": "2026-04-05T18:46:15.599Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Urun guzele kaliteliye benziyor daha kullanmadim.",
+      "createDate": 1716806672876,
+      "createdDate": "27/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099859706,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Hakan KURT",
+      "oldScore": 0,
+      "productId": 595527968,
+      "productSubTitle": "Aldos Çapari Istavrit Çaparisi, Arnavut Çapari 8 No (5 Ad) Karışık",
+      "productTitle": "Aldos Çapari Istavrit Çaparisi, Arnavut Çapari 8 No (5 Ad)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Aldos_Sport_Fishing",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürün mükemmelköstek bağlantısı güzel çabuk kopması yok",
+      "createDate": 1713600772259,
+      "createdDate": "20/04/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099204508,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Göksel Baydar",
+      "oldScore": 0,
+      "productId": 595527968,
+      "productSubTitle": "Aldos Çapari Istavrit Çaparisi, Arnavut Çapari 8 No (5 Ad) Karışık",
+      "productTitle": "Aldos Çapari Istavrit Çaparisi, Arnavut Çapari 8 No (5 Ad)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Aldos_Sport_Fishing",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

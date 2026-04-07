@@ -1,0 +1,89 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "622781741",
+  "collectedAt": "2026-04-05T18:39:18.973Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "misina tam istediğim gibi kargo çok hızlı bir şekilde elime ulaştı paketleme gayet güzeldi teşekkür ederim süper kalite tşk",
+      "createDate": 1665509873097,
+      "createdDate": "11/10/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5090598269,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/10/11/91/65/65/14/96/00/75/02/46/28902528434740546969.jpeg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/22/10/11/91/65/65/14/96/00/75/02/46/28902528434740546969.jpeg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** K***",
+      "oldScore": 0,
+      "productId": 321589384,
+      "productSubTitle": "Sufix Elite Misina (321589384) Seçenek - Low Vıs Geen - 0.16 MM - 100 M - 2.2 KG",
+      "productTitle": "Sufix Elite Misina (321589384)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 1104988,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/10/11/91/65/65/14/96/00/75/02/46/28902528434740546969.jpeg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SurumMarket",
+      "title": "suffix",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/10/11/91/65/65/14/96/00/75/02/46/28902528434740546969.jpeg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/10/11/91/65/65/14/96/00/75/02/46/28902528434740546969.jpeg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Makinada kullandığım ürün.Gayet güzel",
+      "createDate": 1636718068336,
+      "createdDate": "12/11/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5087479572,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Selahattin KARABEY",
+      "oldScore": 0,
+      "productId": 321589384,
+      "productSubTitle": "Sufix Elite Misina (321589384) Seçenek - Low Vıs Geen - 0.16 MM - 100 M - 2.2 KG",
+      "productTitle": "Sufix Elite Misina (321589384)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SurumMarket",
+      "title": "Elite",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

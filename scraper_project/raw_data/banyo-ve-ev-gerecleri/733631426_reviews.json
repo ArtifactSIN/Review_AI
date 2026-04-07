@@ -1,0 +1,69 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "733631426",
+  "collectedAt": "2026-04-05T20:13:09.796Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Kaliteli, sağlam, güzel paketlenmiş, montajı kolay. Yeterli ağırlığa sahip. Satıcıya teşekkür ederim.",
+      "createDate": 1774711745378,
+      "createdDate": "28/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106688364,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/28/64/26/96/30/51/69/54/78/82/61021764030383305765.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/28/64/26/96/30/51/69/54/78/82/61021764030383305765.png",
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/28/79/33/42/76/40/12/37/26/81/12952766635129090898.png",
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/28/57/32/60/00/99/59/84/91/79/72440828875265167026.png"
+      ],
+      "lastModifiedDate": 1774711745378,
+      "maskedBuyerName": "Murat ÖZBEK",
+      "oldScore": 0,
+      "productId": 733631426,
+      "productSubTitle": "Nyn Ahşap Dış Budak Premıum Dilsiz Uşak Askılık Renk Sentetik Koyu Ceviz 1 Adet Açık Kahve ",
+      "productTitle": "Nyn Ahşap Dış Budak Premıum Dilsiz Uşak Askılık Renk Sentetik Koyu Ceviz 1 Adet Açık Kahve",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8525444,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/64/26/96/30/51/69/54/78/82/61021764030383305765.png"
+        },
+        {
+          "id": 8525445,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/79/33/42/76/40/12/37/26/81/12952766635129090898.png"
+        },
+        {
+          "id": 8525446,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/57/32/60/00/99/59/84/91/79/72440828875265167026.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AskıDünyası",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/28/64/26/96/30/51/69/54/78/82/61021764030383305765.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/28/64/26/96/30/51/69/54/78/82/61021764030383305765.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "599724839",
+  "collectedAt": "2026-04-05T17:41:34.512Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürünler çok kaliteli",
+      "createDate": 1746176636238,
+      "createdDate": "02/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104309215,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "yavuz önkol",
+      "oldScore": 0,
+      "productId": 599999553,
+      "productSubTitle": "S-dizayn Oto Koltuk Koruyucu Kılıf Füme Universal 2+1 Parça Ön Arka A+ Kalite",
+      "productTitle": "S-dizayn Oto Koltuk Koruyucu Kılıf Füme Universal 2+1 Parça Ön Arka A+ Kalite",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DRSTUNİNGİSTANBUL",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

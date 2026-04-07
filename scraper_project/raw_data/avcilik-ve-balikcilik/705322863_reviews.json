@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "705322863",
+  "collectedAt": "2026-04-05T18:29:07.475Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Kaliteli ürün fiyat performansına göre uygun",
+      "createDate": 1774506853983,
+      "createdDate": "26/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106656661,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774506853983,
+      "maskedBuyerName": "Rifat Dònmez",
+      "oldScore": 0,
+      "productId": 705322863,
+      "productSubTitle": "Okuma Cavalla Ultra Light Jigging Spin 198cm Max 40gr 2 Parça Olta Kamışı",
+      "productTitle": "Okuma Cavalla Ultra Light Jigging Spin 198cm Max 40gr 2 Parça Olta Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ALAMATRA",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

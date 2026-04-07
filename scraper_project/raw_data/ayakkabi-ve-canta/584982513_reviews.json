@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "584982513",
+  "collectedAt": "2026-04-05T19:25:45.766Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "beklediğim gibi kaliteli kullanışlı kibar",
+      "createDate": 1760597989061,
+      "createdDate": "16/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105434117,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "z*** s***",
+      "oldScore": 0,
+      "productId": 584982513,
+      "productSubTitle": "Jps-kadın 5 Bölmeli Ayarlanabilir Uzun Askılı Omuz Çantası 6 Bölmeli 28 X18 Cm 4023-jp Taş",
+      "productTitle": "Jps-kadın 5 Bölmeli Ayarlanabilir Uzun Askılı Omuz Çantası 6 Bölmeli 28 X18 Cm 4023-jp Taş",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "JustPolo",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

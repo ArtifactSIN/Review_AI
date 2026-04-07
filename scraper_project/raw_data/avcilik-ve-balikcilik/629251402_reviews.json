@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "629251402",
+  "collectedAt": "2026-04-05T18:47:16.383Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel ve sağlam daha önce kullandığım için tavsiye derim",
+      "createDate": 1756814184843,
+      "createdDate": "02/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105128938,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** N***",
+      "oldScore": 0,
+      "productId": 629251402,
+      "productSubTitle": "Sufix Advance Fluorocarbon Beyaz 91 Mt Misina Renk-Beden - Standart-0.31 MM",
+      "productTitle": "Sufix Advance Fluorocarbon Beyaz 91 Mt Misina",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "trançabalıkçılık",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "güzel",
+      "createDate": 1744350092854,
+      "createdDate": "11/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104139575,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "C*** C***",
+      "oldScore": 0,
+      "productId": 629251225,
+      "productSubTitle": "Sufix Advance Fluorocarbon Beyaz 91 Mt Misina Renk-Beden - Standart-0.28 MM",
+      "productTitle": "Sufix Advance Fluorocarbon Beyaz 91 Mt Misina",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "trançabalıkçılık",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

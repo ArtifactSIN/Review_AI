@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "622961787",
+  "collectedAt": "2026-04-05T18:37:33.624Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kaliteli görevini yerine getiriyor. kilo üstü gridayı taşa sürtmesine rağmen kopmadı hasar almadı. grida denize iade bu arada",
+      "createDate": 1727540215579,
+      "createdDate": "28/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101640722,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "v*** s***",
+      "oldScore": 0,
+      "productId": 622764586,
+      "productSubTitle": "Daiwa Tournament Fc Leader Misina (542716454)-0,33Mm 50M",
+      "productTitle": "Daiwa Tournament Fc Leader Misina (542716454)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SeafariStore",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

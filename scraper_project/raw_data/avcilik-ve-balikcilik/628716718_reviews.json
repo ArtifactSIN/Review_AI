@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "628716718",
+  "collectedAt": "2026-04-05T18:45:17.360Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "kullanmadım ama iyi görünüyor",
+      "createDate": 1726642460377,
+      "createdDate": "18/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101468138,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Cumhur Ercan",
+      "oldScore": 0,
+      "productId": 629249331,
+      "productSubTitle": "Okuma Epixor Lrf Ultra Light Game Spin 213cm 1-8gr 2 Parça Olta Kamışı",
+      "productTitle": "Okuma Epixor Lrf Ultra Light Game Spin 213cm 1-8gr 2 Parça Olta Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TETİK-DENİZ-AV",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

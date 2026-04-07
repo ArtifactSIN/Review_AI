@@ -1,0 +1,59 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "595520757",
+  "collectedAt": "2026-04-05T18:37:19.777Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok kaliteli görünüyor tavsiye ederim",
+      "createDate": 1719408970634,
+      "createdDate": "26/06/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100298644,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/26/66/85/34/24/82/96/19/46/94/83412118752212070763.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/06/26/66/85/34/24/82/96/19/46/94/83412118752212070763.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 595520757,
+      "productSubTitle": "Daiwa Strike Force 2500 Oslo Action Game 210cm 1-8gr Lrf Olta Seti ",
+      "productTitle": "Daiwa Strike Force 2500 Oslo Action Game 210cm 1-8gr Lrf Olta Seti",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 5059226,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/26/66/85/34/24/82/96/19/46/94/83412118752212070763.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BalkanlarAv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/26/66/85/34/24/82/96/19/46/94/83412118752212070763.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/26/66/85/34/24/82/96/19/46/94/83412118752212070763.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

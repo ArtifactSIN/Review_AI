@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "631904567",
+  "collectedAt": "2026-04-05T18:46:29.869Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "İyi",
+      "createDate": 1775249625530,
+      "createdDate": "03/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106751410,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775249625530,
+      "maskedBuyerName": "Rıdvan Aydemir",
+      "oldScore": 0,
+      "productId": 631904567,
+      "productSubTitle": "Mepps Aglia Olta Kaşığı Sarı-kırmızı No:1 Standart",
+      "productTitle": "Mepps Aglia Olta Kaşığı Sarı-kırmızı No:1",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SurumMarket",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

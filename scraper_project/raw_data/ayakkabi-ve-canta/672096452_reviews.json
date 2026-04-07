@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "672096452",
+  "collectedAt": "2026-04-05T19:14:33.405Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Mükemmel",
+      "createDate": 1773342814497,
+      "createdDate": "12/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106568488,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773342814497,
+      "maskedBuyerName": "Mert Erbaşaran",
+      "oldScore": 0,
+      "productId": 663197865,
+      "productSubTitle": "Adidas Vl Court Base Kadın Günlük Spor Ayakkabı C-adııd3715b10a00 Siyah 38",
+      "productTitle": "Adidas Vl Court Base Kadın Günlük Spor Ayakkabı C-adııd3715b10a00 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KORAYSPOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "kapite hisso guzel ufak tefek yapiskan izi vardi ama orijinal urun.",
+      "createDate": 1772255986644,
+      "createdDate": "28/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106494837,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 663197865,
+      "productSubTitle": "Adidas Vl Court Base Kadın Günlük Spor Ayakkabı C-adııd3715b10a00 Siyah 38",
+      "productTitle": "Adidas Vl Court Base Kadın Günlük Spor Ayakkabı C-adııd3715b10a00 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "KORAYSPOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

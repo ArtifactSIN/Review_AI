@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "726038093",
+  "collectedAt": "2026-04-05T19:18:19.214Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "kullandikca gorecegiz",
+      "createDate": 1599915610068,
+      "createdDate": "12/09/2020",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5081305285,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 432618430,
+      "productSubTitle": "Cengiz Pakel Hakiki Deri Erkek Cüzdan 27448-Siyah-Parlement (432618430)-27448-Siyah-Parlement Siyah - Parlement",
+      "productTitle": "Cengiz Pakel Hakiki Deri Erkek Cüzdan 27448-Siyah-Parlement (432618430)-27448-Siyah-Parlement",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "CengizPakel",
+      "title": "cengiz pakel erkek cuzdan",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "731835091",
+  "collectedAt": "2026-04-05T19:25:50.019Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "çok rahat ve güzel",
+      "createDate": 1773341880726,
+      "createdDate": "12/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106574093,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/12/56/55/61/39/74/14/58/30/42/46289518968358520332.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/12/56/55/61/39/74/14/58/30/42/46289518968358520332.png"
+      ],
+      "lastModifiedDate": 1773341880726,
+      "maskedBuyerName": "h*** k***",
+      "oldScore": 0,
+      "productId": 669840099,
+      "productSubTitle": "Skechers Bounder 2.0 Büyük Erkek Çocuk Mavi Spor Ayakkabı 403902l Nvlm Mavi 29",
+      "productTitle": "Skechers Bounder 2.0 Büyük Erkek Çocuk Mavi Spor Ayakkabı 403902l Nvlm Mavi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8463564,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/12/56/55/61/39/74/14/58/30/42/46289518968358520332.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Monosport",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/12/56/55/61/39/74/14/58/30/42/46289518968358520332.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/12/56/55/61/39/74/14/58/30/42/46289518968358520332.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürün güzel...",
+      "createDate": 1764913288012,
+      "createdDate": "05/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105890558,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "z*** v***",
+      "oldScore": 0,
+      "productId": 669836305,
+      "productSubTitle": "Skechers Bounder 2.0 Büyük Erkek Çocuk Mavi Spor Ayakkabı 403902l Nvlm Mavi 31",
+      "productTitle": "Skechers Bounder 2.0 Büyük Erkek Çocuk Mavi Spor Ayakkabı 403902l Nvlm Mavi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "sporset",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "cok kaliteli ve cok rahat gercek numaranizi alin",
+      "createDate": 1745867991644,
+      "createdDate": "28/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104276034,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "v*** d***",
+      "oldScore": 0,
+      "productId": 617915900,
+      "productSubTitle": "Skechers Bounder 2.0 Büyük Erkek Çocuk Mavi Spor Ayakkabı 403902l Nvlm Mavi 33",
+      "productTitle": "Skechers Bounder 2.0 Büyük Erkek Çocuk Mavi Spor Ayakkabı 403902l Nvlm Mavi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Skechers",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

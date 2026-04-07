@@ -1,0 +1,80 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "689089388",
+  "collectedAt": "2026-04-05T17:26:00.932Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün çok güzel beğenerek aldım",
+      "createDate": 1767122952000,
+      "createdDate": "30/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106102610,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** ö***",
+      "oldScore": 0,
+      "productId": 689089388,
+      "productSubTitle": "Woyax Magsafe Mıknatıslı Kablosuz Soğutmalı Şarjlı Promag Araç Içi Telefon Tutucu Araba Telefon Tutacağı Iphone/Android",
+      "productTitle": "Woyax Magsafe Mıknatıslı Kablosuz Soğutmalı Şarjlı Promag Araç Içi Telefon Tutucu Araba Telefon Tutacağı Iphone/Android",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "WoyaxDeji",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Fanı yetersiz ısınma yapıyor",
+      "createDate": 1763842013380,
+      "createdDate": "22/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105767522,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** a***",
+      "oldScore": 0,
+      "productId": 689089388,
+      "productSubTitle": "Woyax Magsafe Mıknatıslı Kablosuz Soğutmalı Şarjlı Promag Araç Içi Telefon Tutucu Araba Telefon Tutacağı Iphone/Android",
+      "productTitle": "Woyax Magsafe Mıknatıslı Kablosuz Soğutmalı Şarjlı Promag Araç Içi Telefon Tutucu Araba Telefon Tutacağı Iphone/Android",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "WoyaxDeji",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

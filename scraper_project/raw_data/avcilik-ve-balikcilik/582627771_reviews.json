@@ -1,0 +1,110 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "582627771",
+  "collectedAt": "2026-04-05T18:33:23.614Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün çok hafif ve sağlam klasik Shimano kalitesi",
+      "createDate": 1749028346993,
+      "createdDate": "04/06/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104563325,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "türker akgün",
+      "oldScore": 0,
+      "productId": 582627771,
+      "productSubTitle": "Shimano Sonora Boat Quiver 180 cm 50-150 gr Tekne Bot Kamışı ",
+      "productTitle": "Shimano Sonora Boat Quiver 180 cm 50-150 gr Tekne Bot Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Avgross",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Harika ürün. Kalitesi tartışılmaz...",
+      "createDate": 1730488581440,
+      "createdDate": "01/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102192610,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** A*** Y***",
+      "oldScore": 0,
+      "productId": 582627771,
+      "productSubTitle": "Shimano Sonora Boat Quiver 180 cm 50-150 gr Tekne Bot Kamışı ",
+      "productTitle": "Shimano Sonora Boat Quiver 180 cm 50-150 gr Tekne Bot Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Avgross",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Süper tavsiye ederim",
+      "createDate": 1729624262661,
+      "createdDate": "22/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102012958,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** A***",
+      "oldScore": 0,
+      "productId": 582627771,
+      "productSubTitle": "Shimano Sonora Boat Quiver 180 cm 50-150 gr Tekne Bot Kamışı ",
+      "productTitle": "Shimano Sonora Boat Quiver 180 cm 50-150 gr Tekne Bot Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "Avgross",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

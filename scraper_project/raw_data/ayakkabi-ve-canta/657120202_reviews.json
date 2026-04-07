@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "657120202",
+  "collectedAt": "2026-04-05T19:22:03.454Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "hatalı ürün",
+      "createDate": 1771705256937,
+      "createdDate": "21/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106461058,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "O*** A***",
+      "oldScore": 0,
+      "productId": 657120121,
+      "productSubTitle": "İç Dış Hakiki Deri Yumuşak Dolgu Taban Topuksuz Kadın Terlik Siyah 38",
+      "productTitle": "İç Dış Hakiki Deri Yumuşak Dolgu Taban Topuksuz Kadın Terlik Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "M&BCOLLECTİON",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "TESEKKUR EDERİM",
+      "createDate": 1756574621493,
+      "createdDate": "30/08/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105109738,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** Ç***",
+      "oldScore": 0,
+      "productId": 657120121,
+      "productSubTitle": "İç Dış Hakiki Deri Yumuşak Dolgu Taban Topuksuz Kadın Terlik Siyah 38",
+      "productTitle": "İç Dış Hakiki Deri Yumuşak Dolgu Taban Topuksuz Kadın Terlik Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "M&BCOLLECTİON",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "669671468",
+  "collectedAt": "2026-04-05T20:16:16.506Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "daha takmadım ama güzel ürün",
+      "createDate": 1756264163978,
+      "createdDate": "27/08/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105091219,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "C*** T***",
+      "oldScore": 0,
+      "productId": 669671468,
+      "productSubTitle": "Creavit Elegant Rim-off Asma Klozet + Yavaş Kapanır Kapak + VitrA Gömme Rezervuar Set",
+      "productTitle": "Creavit Elegant Rim-off Asma Klozet + Yavaş Kapanır Kapak + VitrA Gömme Rezervuar Set",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "evdeniste",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

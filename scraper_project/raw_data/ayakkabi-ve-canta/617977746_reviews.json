@@ -1,0 +1,128 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "617977746",
+  "collectedAt": "2026-04-05T19:20:08.746Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kalitelidir",
+      "createDate": 1774213254795,
+      "createdDate": "23/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106629110,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/23/49/69/42/11/63/60/74/30/20/77656102092669367556.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/23/49/69/42/11/63/60/74/30/20/77656102092669367556.png"
+      ],
+      "lastModifiedDate": 1774213254795,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 617977743,
+      "productSubTitle": "Slazenger EBBA I Çocuk Koyu Gri Sneaker  28",
+      "productTitle": "Slazenger EBBA I Çocuk Koyu Gri Sneaker",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8490716,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/23/49/69/42/11/63/60/74/30/20/77656102092669367556.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Slazenger",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/23/49/69/42/11/63/60/74/30/20/77656102092669367556.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/23/49/69/42/11/63/60/74/30/20/77656102092669367556.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "kaliteli",
+      "createDate": 1774213232533,
+      "createdDate": "23/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106627273,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/23/70/11/86/04/11/48/76/28/41/12316612853005137848.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/23/70/11/86/04/11/48/76/28/41/12316612853005137848.png"
+      ],
+      "lastModifiedDate": 1774213232533,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 617977746,
+      "productSubTitle": "Slazenger EBBA I Çocuk Koyu Gri Sneaker  29",
+      "productTitle": "Slazenger EBBA I Çocuk Koyu Gri Sneaker",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8485797,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/23/70/11/86/04/11/48/76/28/41/12316612853005137848.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Slazenger",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/23/70/11/86/04/11/48/76/28/41/12316612853005137848.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/23/70/11/86/04/11/48/76/28/41/12316612853005137848.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "biraz hafif geldi hızlı kargo",
+      "createDate": 1766294389297,
+      "createdDate": "21/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106028351,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** a***",
+      "oldScore": 0,
+      "productId": 617977743,
+      "productSubTitle": "Slazenger EBBA I Çocuk Koyu Gri Sneaker  28",
+      "productTitle": "Slazenger EBBA I Çocuk Koyu Gri Sneaker",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Slazenger",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

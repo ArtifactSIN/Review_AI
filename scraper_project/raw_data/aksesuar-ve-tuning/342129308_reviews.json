@@ -1,0 +1,80 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "342129308",
+  "collectedAt": "2026-04-05T17:23:58.438Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Birini krom renk istemiştim ama ikisi de siyah geldi maalesef istediğim gibi gelmedi",
+      "createDate": 1719503401911,
+      "createdDate": "27/06/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100333200,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** a***",
+      "oldScore": 0,
+      "productId": 342129308,
+      "productSubTitle": "2Adet Yeni Nesil Lüks Plakalıkconsept Plaka Çerçevesi 342129308",
+      "productTitle": "2Adet Yeni Nesil Lüks Plakalıkconsept Plaka Çerçevesi 342129308",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "CONSEPTOTOMARKET",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "yani güzel resimde görüldüğü gibi alt tabanı yumuşak malzeme çerçevesi biraz ser esnek malzeme",
+      "createDate": 1600445567370,
+      "createdDate": "18/09/2020",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5081415804,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 342129308,
+      "productSubTitle": "2Adet Yeni Nesil Lüks Plakalıkconsept Plaka Çerçevesi 342129308",
+      "productTitle": "2Adet Yeni Nesil Lüks Plakalıkconsept Plaka Çerçevesi 342129308",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "CONSEPTOTOMARKET",
+      "title": "lüks plakalık",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

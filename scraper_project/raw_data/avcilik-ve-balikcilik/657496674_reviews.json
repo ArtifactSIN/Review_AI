@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "657496674",
+  "collectedAt": "2026-04-05T18:30:47.110Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Bu fiyata harika bir ürün",
+      "createDate": 1771419750189,
+      "createdDate": "18/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106427893,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "ismail yakut",
+      "oldScore": 0,
+      "productId": 657496674,
+      "productSubTitle": "Remixon Blue Power 2000 S Lrf Olta Makinesi ",
+      "productTitle": "Remixon Blue Power 2000 S Lrf Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İlkMevsim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

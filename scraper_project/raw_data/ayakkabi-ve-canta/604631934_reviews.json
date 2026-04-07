@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "604631934",
+  "collectedAt": "2026-04-05T19:15:23.660Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "güzel kullanışlı",
+      "createDate": 1744555344010,
+      "createdDate": "13/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104161222,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1747819716977,
+      "maskedBuyerName": "M*** S*** S***",
+      "oldScore": 0,
+      "productId": 640296800,
+      "productSubTitle": "Armine 102 Kadın Omuz Kol Çantası ARMİNE-102-R9033 Vizon ",
+      "productTitle": "Armine 102 Kadın Omuz Kol Çantası ARMİNE-102-R9033 Vizon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ASC.TİCARET",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

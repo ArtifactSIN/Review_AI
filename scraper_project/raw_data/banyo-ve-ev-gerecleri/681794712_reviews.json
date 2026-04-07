@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "681794712",
+  "collectedAt": "2026-04-05T20:21:00.793Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Kaliteli bir ürün",
+      "createDate": 1761944889138,
+      "createdDate": "01/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105561346,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** Y***",
+      "oldScore": 0,
+      "productId": 681794712,
+      "productSubTitle": "Asilkrom As356 Çelik Eviye 50 x 40 CM",
+      "productTitle": "Asilkrom As356 Çelik Eviye 50 x 40 CM",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "YılmazAnkastre",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

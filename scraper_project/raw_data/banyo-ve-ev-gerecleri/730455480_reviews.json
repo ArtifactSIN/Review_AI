@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "730455480",
+  "collectedAt": "2026-04-05T20:22:30.271Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Kaliteli.",
+      "createDate": 1774811587498,
+      "createdDate": "29/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106695166,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774811587498,
+      "maskedBuyerName": "s*** G***",
+      "oldScore": 0,
+      "productId": 733981831,
+      "productSubTitle": "Marelli Fixo İnox Yapışkanlı Paslanmaz Askı Gri ",
+      "productTitle": "Marelli Fixo İnox Yapışkanlı Paslanmaz Askı Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "elaletionline",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

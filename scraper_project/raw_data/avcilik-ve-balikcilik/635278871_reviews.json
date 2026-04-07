@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "635278871",
+  "collectedAt": "2026-04-05T18:36:47.744Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Gayet güzel teşekkürler",
+      "createDate": 1768986584765,
+      "createdDate": "21/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106246405,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "a*** k***",
+      "oldScore": 0,
+      "productId": 635278871,
+      "productSubTitle": "Bauer Pro Red Surf 420 Cm Olta Kamışı",
+      "productTitle": "Bauer Pro Red Surf 420 Cm Olta Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "ÇABUKAV",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

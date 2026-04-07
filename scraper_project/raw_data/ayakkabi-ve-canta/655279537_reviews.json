@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "655279537",
+  "collectedAt": "2026-04-05T19:18:41.887Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "sorunsuz tereddüt etmeden alabilirsiniz",
+      "createDate": 1769462843173,
+      "createdDate": "27/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106280272,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "ş*** ö***",
+      "oldScore": 0,
+      "productId": 624859507,
+      "productSubTitle": "Skechers Escape Plan Trail Sandal - Fo Erkek Siyah Sandalet 237588 Bbk Siyah 42",
+      "productTitle": "Skechers Escape Plan Trail Sandal - Fo Erkek Siyah Sandalet 237588 Bbk Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Skechers",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Güzel. Tam kalıp numaranızı alabilirsiniz. Yalnız biraz eski model gibi. Umarım yapışkanları uzun dayanır",
+      "createDate": 1764785401462,
+      "createdDate": "03/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105879308,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "K*** K***",
+      "oldScore": 0,
+      "productId": 655279535,
+      "productSubTitle": "Skechers Escape Plan Trail Sandal - Fo Erkek Siyah Sandalet 237588 Bbk Siyah 43",
+      "productTitle": "Skechers Escape Plan Trail Sandal - Fo Erkek Siyah Sandalet 237588 Bbk Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Skechers",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

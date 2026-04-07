@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "575033167",
+  "collectedAt": "2026-04-05T18:44:31.150Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ölcüleri Yanlıs gonderıldıgı ıcın iade ettim",
+      "createDate": 1707914522161,
+      "createdDate": "14/02/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098006480,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1707914616578,
+      "maskedBuyerName": "M*** O***",
+      "oldScore": 0,
+      "productId": 575033167,
+      "productSubTitle": "Remixon Carbo-X  3.00m 60- 120gr Tele Kamış ",
+      "productTitle": "Remixon Carbo-X  3.00m 60- 120gr Tele Kamış",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "guzel alinacak urun kaliteli",
+      "createDate": 1704774108765,
+      "createdDate": "09/01/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097491689,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ahmet Özer",
+      "oldScore": 0,
+      "productId": 575033167,
+      "productSubTitle": "Remixon Carbo-X  3.00m 60- 120gr Tele Kamış ",
+      "productTitle": "Remixon Carbo-X  3.00m 60- 120gr Tele Kamış",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

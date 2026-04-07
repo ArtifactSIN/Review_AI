@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "650606559",
+  "collectedAt": "2026-04-05T20:17:57.536Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Tazyik için bu modeli seçtim mükemmel çıktı,teşekkürler",
+      "createDate": 1775146964969,
+      "createdDate": "02/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106734246,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775146964969,
+      "maskedBuyerName": "s*** n***",
+      "oldScore": 0,
+      "productId": 653023000,
+      "productSubTitle": "Grohe Tepe  Duşu New Tempesta Krom 20 CM 27541001",
+      "productTitle": "Grohe Tepe  Duşu New Tempesta Krom 20 CM 27541001",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DECOLOOK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

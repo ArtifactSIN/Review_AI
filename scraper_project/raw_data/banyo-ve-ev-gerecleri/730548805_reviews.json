@@ -1,0 +1,110 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "730548805",
+  "collectedAt": "2026-04-05T20:19:22.152Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "twsekkurler",
+      "createDate": 1767725395087,
+      "createdDate": "06/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106156163,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "M*** S*** D***",
+      "oldScore": 0,
+      "productId": 719747976,
+      "productSubTitle": "Artema Filitreli Çamaşır Musluğu A45228 2 Adet Krom ",
+      "productTitle": "Artema Filitreli Çamaşır Musluğu A45228 2 Adet Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "uygunbatarya",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "artema kalitesi",
+      "createDate": 1732199344555,
+      "createdDate": "21/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102590785,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1752231108520,
+      "maskedBuyerName": "A*** B***",
+      "oldScore": 0,
+      "productId": 476127442,
+      "productSubTitle": "Artema Filitreli Çamaşır Musluğu A45228 2 Adet Krom ",
+      "productTitle": "Artema Filitreli Çamaşır Musluğu A45228 2 Adet Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "NESTYAPI",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Montaj yapıldı kalitesinden emin değilim",
+      "createDate": 1728627356798,
+      "createdDate": "11/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101836526,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1752231108521,
+      "maskedBuyerName": "levent eski",
+      "oldScore": 0,
+      "productId": 603576069,
+      "productSubTitle": "Artema Filitreli Çamaşır Musluğu A45228 2 Adet Krom ",
+      "productTitle": "Artema Filitreli Çamaşır Musluğu A45228 2 Adet Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "korkmazyapimarket",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

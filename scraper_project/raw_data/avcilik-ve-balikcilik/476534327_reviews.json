@@ -1,0 +1,110 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "476534327",
+  "collectedAt": "2026-04-05T18:42:54.121Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ürünler",
+      "createDate": 1716858276437,
+      "createdDate": "28/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099869267,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** g***",
+      "oldScore": 0,
+      "productId": 476534327,
+      "productSubTitle": "Remixon 1X7 Çelik Tel (12'Li Paket)",
+      "productTitle": "Remixon 1X7 Çelik Tel (12'Li Paket)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Avgross",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Gayet güzel",
+      "createDate": 1715947449772,
+      "createdDate": "17/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099702853,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 476534327,
+      "productSubTitle": "Remixon 1X7 Çelik Tel (12'Li Paket)",
+      "productTitle": "Remixon 1X7 Çelik Tel (12'Li Paket)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Avgross",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Kaliteli ürün almanızı tavsiye ederim.",
+      "createDate": 1679663154427,
+      "createdDate": "24/03/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5092842036,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "barış ceylan",
+      "oldScore": 0,
+      "productId": 476534327,
+      "productSubTitle": "Remixon 1X7 Çelik Tel (12'Li Paket)",
+      "productTitle": "Remixon 1X7 Çelik Tel (12'Li Paket)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Avgross",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "673622373",
+  "collectedAt": "2026-04-05T19:22:50.874Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "gayet güzel",
+      "createDate": 1758378118865,
+      "createdDate": "20/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105255676,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 673622375,
+      "productSubTitle": "Kinetix Craw M  Erkek Günlük Spor Ayakkabı Siyah 42",
+      "productTitle": "Kinetix Craw M  Erkek Günlük Spor Ayakkabı Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "CemPekşenAyakkabı",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "hızlı kargolama",
+      "createDate": 1748274416689,
+      "createdDate": "26/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104506562,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 673622376,
+      "productSubTitle": "Kinetix Craw M  Erkek Günlük Spor Ayakkabı Siyah 43",
+      "productTitle": "Kinetix Craw M  Erkek Günlük Spor Ayakkabı Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "CemPekşenAyakkabı",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

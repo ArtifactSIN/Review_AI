@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "682253321",
+  "collectedAt": "2026-04-05T19:23:51.294Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel birşeye benziyor",
+      "createDate": 1774189688621,
+      "createdDate": "22/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106624630,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774189688621,
+      "maskedBuyerName": "A*** y***",
+      "oldScore": 0,
+      "productId": 682253321,
+      "productSubTitle": "Defacto Kadın Desenli Sırt Çantası F1556axnsbk27 Siyah ",
+      "productTitle": "Defacto Kadın Desenli Sırt Çantası F1556axnsbk27 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DeFacto",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

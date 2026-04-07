@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "407685073",
+  "collectedAt": "2026-04-05T18:44:24.815Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Orijinal ürün, hızlı gönderim. Güvenle alışveriş yapılabilecek doğru adres. Teşekkürler",
+      "createDate": 1599676896209,
+      "createdDate": "09/09/2020",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5081253464,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "mehmet tekin",
+      "oldScore": 0,
+      "productId": 407685073,
+      "productSubTitle": "Pachmayr Ortopedik Kabze Sig Sauer P226",
+      "productTitle": "Pachmayr Ortopedik Kabze Sig Sauer P226",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "RastgeleAv",
+      "title": "Hızlı gönderim, orijinal ürün",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

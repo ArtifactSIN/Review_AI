@@ -1,0 +1,89 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "735203646",
+  "collectedAt": "2026-04-05T17:39:55.139Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün sağlam ve eksiksiz geldi denemeden 5 puan vermek istemedi denedikten sonra yorumumu guncellerim",
+      "createDate": 1774773103494,
+      "createdDate": "29/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106689736,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/29/85/09/60/57/72/75/14/46/98/08874121738767255479.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/29/85/09/60/57/72/75/14/46/98/08874121738767255479.png"
+      ],
+      "lastModifiedDate": 1774773103494,
+      "maskedBuyerName": "İ*** K***",
+      "oldScore": 0,
+      "productId": 735203646,
+      "productSubTitle": "Protek Seramik Kaplama Speed Wax 2'li  Paketi",
+      "productTitle": "Protek Seramik Kaplama Speed Wax 2'li  Paketi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8522891,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/29/85/09/60/57/72/75/14/46/98/08874121738767255479.png"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "YMÇDETAILING",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/29/85/09/60/57/72/75/14/46/98/08874121738767255479.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/29/85/09/60/57/72/75/14/46/98/08874121738767255479.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "tafsiye üzerine aldım.",
+      "createDate": 1774348635712,
+      "createdDate": "24/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106637151,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774348635712,
+      "maskedBuyerName": "ö*** k***",
+      "oldScore": 0,
+      "productId": 735203646,
+      "productSubTitle": "Protek Seramik Kaplama Speed Wax 2'li  Paketi",
+      "productTitle": "Protek Seramik Kaplama Speed Wax 2'li  Paketi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "YMÇDETAILING",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

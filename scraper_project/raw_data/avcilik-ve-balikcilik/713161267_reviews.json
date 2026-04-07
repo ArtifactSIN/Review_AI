@@ -1,0 +1,89 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "713161267",
+  "collectedAt": "2026-04-05T18:47:00.339Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok iyi",
+      "createDate": 1775054940699,
+      "createdDate": "01/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106729077,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/71/58/61/19/89/31/44/89/15/78725516654634841074.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/04/01/71/58/61/19/89/31/44/89/15/78725516654634841074.png"
+      ],
+      "lastModifiedDate": 1775054940699,
+      "maskedBuyerName": "A*** H*** i***",
+      "oldScore": 0,
+      "productId": 713161239,
+      "productSubTitle": "Hanfish Gurt 4.5cm Lrf Silikon Yem Pink Glitter",
+      "productTitle": "Hanfish Gurt 4.5cm Lrf Silikon Yem",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8559216,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/71/58/61/19/89/31/44/89/15/78725516654634841074.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FoçalıAvMarket",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/71/58/61/19/89/31/44/89/15/78725516654634841074.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/71/58/61/19/89/31/44/89/15/78725516654634841074.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Durduğu yerde eriyor almayın arkadaşlar",
+      "createDate": 1773942132391,
+      "createdDate": "19/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106616885,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773942132391,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 713161114,
+      "productSubTitle": "Hanfish Gurt 4.5cm Lrf Silikon Yem Uv Tiger",
+      "productTitle": "Hanfish Gurt 4.5cm Lrf Silikon Yem",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "FoçalıAvMarket",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

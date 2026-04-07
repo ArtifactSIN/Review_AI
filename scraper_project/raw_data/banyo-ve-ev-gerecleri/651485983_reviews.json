@@ -1,0 +1,119 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "651485983",
+  "collectedAt": "2026-04-05T20:13:03.333Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Satıcı çok iyi. Ürün zaten kaliteli. sıfır paketli geldi.",
+      "createDate": 1770550239563,
+      "createdDate": "08/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106364861,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "K*** Y***",
+      "oldScore": 0,
+      "productId": 651485983,
+      "productSubTitle": "Grohe Eurosmart Tek Kollu Levha Mikser 1/2\" M-Boyut 23324003",
+      "productTitle": "Grohe Eurosmart Tek Kollu Levha Mikser 1/2\" M-Boyut 23324003",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DECOLOOK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Cuma günü sipariş verdim, Pazartesi teslim edildi. Satıcı DECOLOOK ürünü çok güzel ambalajlayıp faturası ile birlikte kargoya vermiş. 3 adet aldığım ürün hatasız ve çiziksiz bir şekilde gönderildi. Montajını kendim yaptım, çok güzel oldu. Decolook ve Aras kargoya çok teşekkür ederim. Her zaman tercih edeceğim işini çok iyi yapan bir mağaza...",
+      "createDate": 1764741129056,
+      "createdDate": "03/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105870052,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/03/75/95/47/56/63/14/10/48/57/43567156052789279443.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/12/03/46/28/25/90/68/48/80/53/82/98699868826396834704.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 651485983,
+      "productSubTitle": "Grohe Eurosmart Tek Kollu Levha Mikser 1/2\" M-Boyut 23324003",
+      "productTitle": "Grohe Eurosmart Tek Kollu Levha Mikser 1/2\" M-Boyut 23324003",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8068151,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/03/46/28/25/90/68/48/80/53/82/98699868826396834704.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DECOLOOK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/03/75/95/47/56/63/14/10/48/57/43567156052789279443.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/03/75/95/47/56/63/14/10/48/57/43567156052789279443.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Urun kalitesinden zaten suphem yoktu. magaza ve kargo calisanlarina da tesekkur ederim",
+      "createDate": 1741323422215,
+      "createdDate": "07/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103862154,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "o*** i***",
+      "oldScore": 0,
+      "productId": 552986939,
+      "productSubTitle": "Grohe Eurosmart Tek Kollu Levha Mikser 1/2\" M-Boyut 23324003",
+      "productTitle": "Grohe Eurosmart Tek Kollu Levha Mikser 1/2\" M-Boyut 23324003",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Banyome",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

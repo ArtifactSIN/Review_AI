@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "709852554",
+  "collectedAt": "2026-04-05T20:10:34.344Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün güzel tavsiye ediyorum",
+      "createDate": 1774724326288,
+      "createdDate": "28/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106687947,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774724326288,
+      "maskedBuyerName": "Ş*** O***",
+      "oldScore": 0,
+      "productId": 709852554,
+      "productSubTitle": "Porsima 5301 20 Li Ayakkabı Rampası Ayakkabı Düzenleyici Dolap İçi Organizer- Siyah Siyah ",
+      "productTitle": "Porsima 5301 20 Li Ayakkabı Rampası Ayakkabı Düzenleyici Dolap İçi Organizer- Siyah Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "TuruncuElma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ayakkabı dolabımı tam istediğim gibi düzenleyebildim; tabii ki bu ürün sayesinde! Paketleme ve kargo süresi harikaydı. 1 adet bile kırık gelmedi, hepsi sağlam.",
+      "createDate": 1766623384168,
+      "createdDate": "25/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106062559,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** Y***",
+      "oldScore": 0,
+      "productId": 709852554,
+      "productSubTitle": "Porsima 5301 20 Li Ayakkabı Rampası Ayakkabı Düzenleyici Dolap İçi Organizer- Siyah Siyah ",
+      "productTitle": "Porsima 5301 20 Li Ayakkabı Rampası Ayakkabı Düzenleyici Dolap İçi Organizer- Siyah Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TuruncuElma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

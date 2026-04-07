@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "523564454",
+  "collectedAt": "2026-04-05T20:16:44.103Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ve kaliteli.",
+      "createDate": 1759334702305,
+      "createdDate": "01/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105332717,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ş*** C***",
+      "oldScore": 0,
+      "productId": 523564454,
+      "productSubTitle": "Nyn Ahşap Barlı Pantolon Askısı Naturel Renk 6 Adet",
+      "productTitle": "Nyn Ahşap Barlı Pantolon Askısı Naturel Renk 6 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "AskıDünyası",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Gayet güzel ve kaliteli.",
+      "createDate": 1759334623107,
+      "createdDate": "01/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105334312,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ş*** C***",
+      "oldScore": 0,
+      "productId": 523564454,
+      "productSubTitle": "Nyn Ahşap Barlı Pantolon Askısı Naturel Renk 6 Adet",
+      "productTitle": "Nyn Ahşap Barlı Pantolon Askısı Naturel Renk 6 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AskıDünyası",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "629050054",
+  "collectedAt": "2026-04-05T20:19:39.477Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Orjinal",
+      "createDate": 1775114078257,
+      "createdDate": "02/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106733408,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775114078257,
+      "maskedBuyerName": "S*** Z*** İ***",
+      "oldScore": 0,
+      "productId": 629050054,
+      "productSubTitle": "Eca Spylos 102146071 Hareketli Sürgülü Duş Seti Krom ",
+      "productTitle": "Eca Spylos 102146071 Hareketli Sürgülü Duş Seti Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DUSHBOX",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Aynen Fotoğraftaki üründü. Sadece Eski Ürünlerde Krom Boruya takılan sabunluk vardı. Bu Modelde yok sanırım. Yinede teşekkürler.",
+      "createDate": 1769872079623,
+      "createdDate": "31/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106312079,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "M*** B***",
+      "oldScore": 0,
+      "productId": 629050054,
+      "productSubTitle": "Eca Spylos 102146071 Hareketli Sürgülü Duş Seti Krom ",
+      "productTitle": "Eca Spylos 102146071 Hareketli Sürgülü Duş Seti Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DUSHBOX",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

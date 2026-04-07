@@ -1,0 +1,89 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "592941076",
+  "collectedAt": "2026-04-05T18:29:33.232Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Güzel. Henüz deneme imkanım olmadı. sağlam şekilde ulaştı.",
+      "createDate": 1773767910090,
+      "createdDate": "17/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106598697,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/17/47/39/70/70/67/67/69/18/48/2130842622151144634.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/17/47/39/70/70/67/67/69/18/48/2130842622151144634.png"
+      ],
+      "lastModifiedDate": 1773767910090,
+      "maskedBuyerName": "B*** D***",
+      "oldScore": 0,
+      "productId": 592941076,
+      "productSubTitle": "Bauer Uzy Tele Carp 360 Cm 3.5 Lbs Sazan Kamış ",
+      "productTitle": "Bauer Uzy Tele Carp 360 Cm 3.5 Lbs Sazan Kamış",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8476889,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/17/47/39/70/70/67/67/69/18/48/2130842622151144634.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/17/47/39/70/70/67/67/69/18/48/2130842622151144634.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/17/47/39/70/70/67/67/69/18/48/2130842622151144634.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "çok iyi",
+      "createDate": 1751318093759,
+      "createdDate": "01/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104730082,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** Ö***",
+      "oldScore": 0,
+      "productId": 592941076,
+      "productSubTitle": "Bauer Uzy Tele Carp 360 Cm 3.5 Lbs Sazan Kamış ",
+      "productTitle": "Bauer Uzy Tele Carp 360 Cm 3.5 Lbs Sazan Kamış",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

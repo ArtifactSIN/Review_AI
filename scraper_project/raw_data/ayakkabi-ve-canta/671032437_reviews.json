@@ -1,0 +1,149 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "671032437",
+  "collectedAt": "2026-04-05T19:14:57.431Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 4,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "fiyat performans",
+      "createDate": 1775135052299,
+      "createdDate": "02/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106733883,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775135052299,
+      "maskedBuyerName": "N*** G***",
+      "oldScore": 0,
+      "productId": 671032437,
+      "productSubTitle": "Slazenger PARIS Çocuk Cırt Cırtlı Pembe Sneaker   35",
+      "productTitle": "Slazenger PARIS Çocuk Cırt Cırtlı Pembe Sneaker",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Slazenger",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "kalitelidir",
+      "createDate": 1774213203193,
+      "createdDate": "23/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106625299,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/23/54/88/00/56/85/34/88/18/67/54532409712258600390.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/23/54/88/00/56/85/34/88/18/67/54532409712258600390.png"
+      ],
+      "lastModifiedDate": 1774213203193,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 671032437,
+      "productSubTitle": "Slazenger PARIS Çocuk Cırt Cırtlı Pembe Sneaker   35",
+      "productTitle": "Slazenger PARIS Çocuk Cırt Cırtlı Pembe Sneaker",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8497351,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/23/54/88/00/56/85/34/88/18/67/54532409712258600390.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Slazenger",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/23/54/88/00/56/85/34/88/18/67/54532409712258600390.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/23/54/88/00/56/85/34/88/18/67/54532409712258600390.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Kalitesi güzel. Beğendik.",
+      "createDate": 1773859210361,
+      "createdDate": "18/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106612452,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773859210361,
+      "maskedBuyerName": "Y*** Ç***",
+      "oldScore": 0,
+      "productId": 671032433,
+      "productSubTitle": "Slazenger PARIS Çocuk Cırt Cırtlı Pembe Sneaker   34",
+      "productTitle": "Slazenger PARIS Çocuk Cırt Cırtlı Pembe Sneaker",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Slazenger",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Beğendik.",
+      "createDate": 1773859179166,
+      "createdDate": "18/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106606636,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773859179166,
+      "maskedBuyerName": "Y*** Ç***",
+      "oldScore": 0,
+      "productId": 671032369,
+      "productSubTitle": "Slazenger PARIS Çocuk Cırt Cırtlı Pembe Sneaker   32",
+      "productTitle": "Slazenger PARIS Çocuk Cırt Cırtlı Pembe Sneaker",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Slazenger",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 4
+  }
+}

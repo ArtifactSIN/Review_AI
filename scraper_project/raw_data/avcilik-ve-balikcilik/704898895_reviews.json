@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "704898895",
+  "collectedAt": "2026-04-05T18:43:12.307Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "beklediğimden de iyi çıktı",
+      "createDate": 1774535053185,
+      "createdDate": "26/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106669617,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774535053185,
+      "maskedBuyerName": "g*** ö***",
+      "oldScore": 0,
+      "productId": 704898895,
+      "productSubTitle": "Silikon Kurt Yem - 1,5g 45mm - Fishack - 10 Adet - Uv Silikon - Fluo Green - Karides Kokulu Diğer",
+      "productTitle": "Silikon Kurt Yem - 1,5g 45mm - Fishack - 10 Adet - Uv Silikon - Fluo Green - Karides Kokulu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AlanSanslı",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

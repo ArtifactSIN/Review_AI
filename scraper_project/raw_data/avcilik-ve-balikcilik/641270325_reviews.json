@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "641270325",
+  "collectedAt": "2026-04-05T18:44:12.514Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "İyi",
+      "createDate": 1763488458982,
+      "createdDate": "18/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105731030,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** K***",
+      "oldScore": 0,
+      "productId": 641270325,
+      "productSubTitle": "Berkley Powerbait Natural Glitter Trout Bait Garlic Sahte Yemi Fluorescent Orange - 50 Gr Fl Orange",
+      "productTitle": "Berkley Powerbait Natural Glitter Trout Bait Garlic Sahte Yemi Fluorescent Orange - 50 Gr",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "balıkmarketim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "guzel urun",
+      "createDate": 1745669294880,
+      "createdDate": "26/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104256588,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ü*** K***",
+      "oldScore": 0,
+      "productId": 641270325,
+      "productSubTitle": "Berkley Powerbait Natural Glitter Trout Bait Garlic Sahte Yemi Fluorescent Orange - 50 Gr Fl Orange",
+      "productTitle": "Berkley Powerbait Natural Glitter Trout Bait Garlic Sahte Yemi Fluorescent Orange - 50 Gr",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "balıkmarketim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

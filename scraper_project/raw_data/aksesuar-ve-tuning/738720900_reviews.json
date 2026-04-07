@@ -1,0 +1,50 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "738720900",
+  "collectedAt": "2026-04-05T17:40:09.179Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "fazla iş gurmez",
+      "createDate": 1716046558174,
+      "createdDate": "18/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099719733,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "b*** g***",
+      "oldScore": 0,
+      "productId": 594785443,
+      "productSubTitle": "Oto Çekme Halatı Çelik İzoleli Çeki Halatı 2 Ton",
+      "productTitle": "Oto Çekme Halatı Çelik İzoleli Çeki Halatı 2 Ton",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "DonatımOtomotiv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

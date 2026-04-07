@@ -1,0 +1,110 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "708854796",
+  "collectedAt": "2026-04-05T20:20:19.101Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürünün plastiği çok kaliteli değil ama iş görür. Ben beğendim.",
+      "createDate": 1773586674972,
+      "createdDate": "15/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106589199,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773586674972,
+      "maskedBuyerName": "Gökçen Ürpek",
+      "oldScore": 0,
+      "productId": 708854796,
+      "productSubTitle": "Porsima 204-10 Kadın Ve Çocuk Ayakkabı Saklama Kutusu - Şeffaf ",
+      "productTitle": "Porsima 204-10 Kadın Ve Çocuk Ayakkabı Saklama Kutusu - Şeffaf",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "TuruncuElma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "bütün kutular kırık geldi. sağlam tek bir ürün dahi yoktu.ince bir karton kutunun içine konmuştu. daha özenli kargolanabilir. iki taraflı mağduriyet yaşanıyor",
+      "createDate": 1773256720496,
+      "createdDate": "11/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106559443,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773256720496,
+      "maskedBuyerName": "e*** c*** a***",
+      "oldScore": 0,
+      "productId": 708854796,
+      "productSubTitle": "Porsima 204-10 Kadın Ve Çocuk Ayakkabı Saklama Kutusu - Şeffaf ",
+      "productTitle": "Porsima 204-10 Kadın Ve Çocuk Ayakkabı Saklama Kutusu - Şeffaf",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "TuruncuElma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "urunlerde kiriklar var",
+      "createDate": 1767520738306,
+      "createdDate": "04/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106136371,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "g*** ö***",
+      "oldScore": 0,
+      "productId": 708854796,
+      "productSubTitle": "Porsima 204-10 Kadın Ve Çocuk Ayakkabı Saklama Kutusu - Şeffaf ",
+      "productTitle": "Porsima 204-10 Kadın Ve Çocuk Ayakkabı Saklama Kutusu - Şeffaf",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "TuruncuElma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

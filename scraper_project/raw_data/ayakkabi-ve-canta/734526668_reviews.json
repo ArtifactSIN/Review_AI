@@ -1,0 +1,98 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "734526668",
+  "collectedAt": "2026-04-05T19:15:52.242Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "41 aldım",
+      "createDate": 1774884774259,
+      "createdDate": "30/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106700120,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/77/49/97/64/32/15/30/66/48/83467694200903219951.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/30/77/49/97/64/32/15/30/66/48/83467694200903219951.png"
+      ],
+      "lastModifiedDate": 1774884774259,
+      "maskedBuyerName": "M*** T***",
+      "oldScore": 0,
+      "productId": 734022035,
+      "productSubTitle": "Puma Anzurun Lıte Tdp Ayakkabı 405506 91 Gri 42",
+      "productTitle": "Puma Anzurun Lıte Tdp Ayakkabı 405506 91 Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8539629,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/77/49/97/64/32/15/30/66/48/83467694200903219951.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KORAYSPOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/77/49/97/64/32/15/30/66/48/83467694200903219951.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/77/49/97/64/32/15/30/66/48/83467694200903219951.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "kaliteli",
+      "createDate": 1774884647447,
+      "createdDate": "30/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106703101,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/68/35/42/32/44/35/44/20/83/34343750388284148543.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/30/68/35/42/32/44/35/44/20/83/34343750388284148543.png"
+      ],
+      "lastModifiedDate": 1774884647447,
+      "maskedBuyerName": "M*** T***",
+      "oldScore": 0,
+      "productId": 734022034,
+      "productSubTitle": "Puma Anzurun Lıte Tdp Ayakkabı 405506 91 Gri 41",
+      "productTitle": "Puma Anzurun Lıte Tdp Ayakkabı 405506 91 Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8535483,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/68/35/42/32/44/35/44/20/83/34343750388284148543.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KORAYSPOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/68/35/42/32/44/35/44/20/83/34343750388284148543.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/68/35/42/32/44/35/44/20/83/34343750388284148543.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

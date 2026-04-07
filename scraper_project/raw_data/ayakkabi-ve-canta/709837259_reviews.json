@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "709837259",
+  "collectedAt": "2026-04-05T19:22:38.267Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Şahane",
+      "createDate": 1774887760748,
+      "createdDate": "30/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106701885,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774887760748,
+      "maskedBuyerName": "y*** d***",
+      "oldScore": 0,
+      "productId": 709837147,
+      "productSubTitle": "Adidas Crazychaos 2000 Erkek Günlük Ayakkabı Jr6497 Kahverengi Kahverengi 46",
+      "productTitle": "Adidas Crazychaos 2000 Erkek Günlük Ayakkabı Jr6497 Kahverengi Kahverengi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KORAYSPOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

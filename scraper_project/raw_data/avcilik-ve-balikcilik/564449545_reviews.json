@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "564449545",
+  "collectedAt": "2026-04-05T18:45:53.372Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok memnunum",
+      "createDate": 1721387850995,
+      "createdDate": "19/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100611558,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ü*** t***",
+      "oldScore": 0,
+      "productId": 564449545,
+      "productSubTitle": "Cultiva 11606 Mebaru Dama Glow Lrf Jighead",
+      "productTitle": "Cultiva 11606 Mebaru Dama Glow Lrf Jighead",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürünün görselinde 1 gr görünüyordu bana 1.5 gr geldi firmayı beğeniyorum",
+      "createDate": 1710502694280,
+      "createdDate": "15/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098533497,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "bedri biberoğlu",
+      "oldScore": 0,
+      "productId": 564449545,
+      "productSubTitle": "Cultiva 11606 Mebaru Dama Glow Lrf Jighead",
+      "productTitle": "Cultiva 11606 Mebaru Dama Glow Lrf Jighead",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

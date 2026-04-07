@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "678467506",
+  "collectedAt": "2026-04-05T18:28:39.524Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Bir ürünü alırken herşey den önce ihtiyacının ne olduğuna karar vermelisin, İzmir körfezde avlanan bir balıkçı olarak benim ihtiyacımı fazlasıyla karşılıyor teşekkürler fujin..",
+      "createDate": 1760366970593,
+      "createdDate": "13/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105404644,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** İ***",
+      "oldScore": 0,
+      "productId": 678467506,
+      "productSubTitle": "Fujin Sniper 4000 Spin Olta Makinesi",
+      "productTitle": "Fujin Sniper 4000 Spin Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ÇABUKAV",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "güzel ürün fiyat performans ürünü",
+      "createDate": 1757093646771,
+      "createdDate": "05/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105164415,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "c*** i***",
+      "oldScore": 0,
+      "productId": 678467506,
+      "productSubTitle": "Fujin Sniper 4000 Spin Olta Makinesi",
+      "productTitle": "Fujin Sniper 4000 Spin Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ÇABUKAV",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

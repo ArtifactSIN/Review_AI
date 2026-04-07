@@ -1,0 +1,59 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "633562526",
+  "collectedAt": "2026-04-05T18:37:35.353Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün kurtlanmaya yakın gibi tozlanmaya başlamış",
+      "createDate": 1771167127024,
+      "createdDate": "15/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106406730,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/15/84/62/22/87/39/79/85/79/82/327963634318553759.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/02/15/84/62/22/87/39/79/85/79/82/327963634318553759.jpg"
+      ],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "murat PORTAKAL",
+      "oldScore": 0,
+      "productId": 633562526,
+      "productSubTitle": "Hedyex 5kg Sazan Küspesi Delikli Küp Mısır Küspesi Kare 5 Kg",
+      "productTitle": "Hedyex 5kg Sazan Küspesi Delikli Küp Mısır Küspesi Kare",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8363639,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/15/84/62/22/87/39/79/85/79/82/327963634318553759.jpg"
+        }
+      ],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "Hesapex",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/15/84/62/22/87/39/79/85/79/82/327963634318553759.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/15/84/62/22/87/39/79/85/79/82/327963634318553759.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

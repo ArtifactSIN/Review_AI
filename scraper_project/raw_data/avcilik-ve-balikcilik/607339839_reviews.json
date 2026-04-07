@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "607339839",
+  "collectedAt": "2026-04-05T18:38:51.377Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Erimi çok iyi i, farklı renklerini de aldım. Uzak atıl ve sert havalar için tavsiye ederim.",
+      "createDate": 1636132715577,
+      "createdDate": "05/11/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5087374918,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Tugrul Temel",
+      "oldScore": 0,
+      "productId": 485864779,
+      "productSubTitle": "Savage Gear Surf Seeker 10.5Cm 35G (485864779) White Pearl",
+      "productTitle": "Savage Gear Surf Seeker 10.5Cm 35G (485864779)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BalkanlarAv",
+      "title": "Harika",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Erimi çok iyi, uzak atışlar ve sert havalar için tavsiye eserim. 3 ayrı renk aldım.",
+      "createDate": 1636132573249,
+      "createdDate": "05/11/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5087380162,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Tugrul Temel",
+      "oldScore": 0,
+      "productId": 485864779,
+      "productSubTitle": "Savage Gear Surf Seeker 10.5Cm 35G (485864779) White Pearl",
+      "productTitle": "Savage Gear Surf Seeker 10.5Cm 35G (485864779)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BalkanlarAv",
+      "title": "Harika",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

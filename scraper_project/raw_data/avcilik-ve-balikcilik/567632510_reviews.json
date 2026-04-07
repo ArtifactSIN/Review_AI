@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "567632510",
+  "collectedAt": "2026-04-05T18:34:41.167Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "urun cok kalıtelı yag gıbı makina",
+      "createDate": 1772222948584,
+      "createdDate": "27/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106498153,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 567632510,
+      "productSubTitle": "Savage Favor Fv6000 Makina",
+      "productTitle": "Savage Favor Fv6000 Makina",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AlanSanslı",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürün tartışmasız mükemmel o tartışılamaz savage çünkü ama ptt kargo beş para etmez",
+      "createDate": 1756823756629,
+      "createdDate": "02/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105127125,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "-*** -***",
+      "oldScore": 0,
+      "productId": 567632510,
+      "productSubTitle": "Savage Favor Fv6000 Makina",
+      "productTitle": "Savage Favor Fv6000 Makina",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AlanSanslı",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "611507213",
+  "collectedAt": "2026-04-05T18:46:11.153Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Makine oldukça güzel. Daiwa kalitesi zaten.",
+      "createDate": 1739569640516,
+      "createdDate": "15/02/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103678942,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ÖNDER ÖZCAN",
+      "oldScore": 0,
+      "productId": 597584776,
+      "productSubTitle": "Daiwa Exceler 23 Lt 3000c Olta Makinası-9065",
+      "productTitle": "Daiwa Exceler 23 Lt 3000c Olta Makinası-9065",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Avlivari",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

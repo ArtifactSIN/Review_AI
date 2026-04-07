@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "666666869",
+  "collectedAt": "2026-04-05T18:41:50.177Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "beklediğim kalitede değil ama parasına göre iyi gibi",
+      "createDate": 1774244001602,
+      "createdDate": "23/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106627571,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774244001602,
+      "maskedBuyerName": "H*** B***",
+      "oldScore": 0,
+      "productId": 666666865,
+      "productSubTitle": "Pandora Jelly Soft Squid 7cm 4.3gr Kalamar Zokası 07",
+      "productTitle": "Pandora Jelly Soft Squid 7cm 4.3gr Kalamar Zokası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "680666632",
+  "collectedAt": "2026-04-05T20:23:59.208Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kapalı olduğu halde su akıtıyor",
+      "createDate": 1775171566564,
+      "createdDate": "03/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106742971,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775171566564,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 680666632,
+      "productSubTitle": "Mintev Çift Çubuk Kol Çıkışlı Lüx Taharet Musluğu Krom ",
+      "productTitle": "Mintev Çift Çubuk Kol Çıkışlı Lüx Taharet Musluğu Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "Mintev",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

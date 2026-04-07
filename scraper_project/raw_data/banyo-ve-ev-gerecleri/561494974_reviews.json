@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "561494974",
+  "collectedAt": "2026-04-05T20:15:09.318Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün şık ve kaliteli duruyor sacı ince düşünmüştüm ama gayet kalın öyle kolay ezilip eğilecek bir malzeme değil. kargo paketine 'kargo paketi ezilmeve hasar durumunda teslim almayınız' dye yazılmıştı ama kargo kartonu o kadar kalitesiz ve inceydi ki kargo aşamasında hasar alıp ezilmemesi çok zor. bu durumu farkettiğim için ezilmiş kargoyu teslim aldım sorun çıkmadı.41 46 nodan ulaştığım satıcıya da teşekkür ediyorum kurulum her aşamada yardımcı oldu çok kibar ilgili bir beyefendi.",
+      "createDate": 1766988607329,
+      "createdDate": "29/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106086673,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** A***",
+      "oldScore": 0,
+      "productId": 561494974,
+      "productSubTitle": "Sam Banyo Elmas Duş Seti Siyah",
+      "productTitle": "Sam Banyo Elmas Duş Seti Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SAMBANYO",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürün kalitesi tartışılmaz öyle üst düzey beklentiye girmeyin ama gayet güzel iş görüyor urunde kaliteli duruyor",
+      "createDate": 1729067093213,
+      "createdDate": "16/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101915213,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ibrahim özten",
+      "oldScore": 0,
+      "productId": 561494974,
+      "productSubTitle": "Sam Banyo Elmas Duş Seti Siyah",
+      "productTitle": "Sam Banyo Elmas Duş Seti Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SAMBANYO",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

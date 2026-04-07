@@ -1,0 +1,98 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "601471946",
+  "collectedAt": "2026-04-05T18:42:00.526Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Teşekkür ederim.",
+      "createDate": 1714254864609,
+      "createdDate": "28/04/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099334059,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/28/76/67/15/60/04/75/90/12/54/36548096855805019795.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/04/28/76/67/15/60/04/75/90/12/54/36548096855805019795.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** A***",
+      "oldScore": 0,
+      "productId": 601471946,
+      "productSubTitle": "Ryuji Dog Strike 9cm 11gr Su Üstü Maket Yem Trans İwashi Trans İwashi",
+      "productTitle": "Ryuji Dog Strike 9cm 11gr Su Üstü Maket Yem Trans İwashi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 4530052,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/28/76/67/15/60/04/75/90/12/54/36548096855805019795.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Avgross",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/28/76/67/15/60/04/75/90/12/54/36548096855805019795.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/28/76/67/15/60/04/75/90/12/54/36548096855805019795.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Kullandığım ürün, stok için aldım 👍",
+      "createDate": 1711628960885,
+      "createdDate": "28/03/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098824096,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/28/88/39/16/63/00/20/98/77/47/39042314256566697469.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/03/28/88/39/16/63/00/20/98/77/47/39042314256566697469.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** A***",
+      "oldScore": 0,
+      "productId": 601471946,
+      "productSubTitle": "Ryuji Dog Strike 9cm 11gr Su Üstü Maket Yem Trans İwashi Trans İwashi",
+      "productTitle": "Ryuji Dog Strike 9cm 11gr Su Üstü Maket Yem Trans İwashi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 4268867,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/28/88/39/16/63/00/20/98/77/47/39042314256566697469.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Avgross",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/28/88/39/16/63/00/20/98/77/47/39042314256566697469.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/28/88/39/16/63/00/20/98/77/47/39042314256566697469.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

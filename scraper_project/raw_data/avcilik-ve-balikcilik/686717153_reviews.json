@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "686717153",
+  "collectedAt": "2026-04-05T18:29:16.059Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel",
+      "createDate": 1766410524239,
+      "createdDate": "22/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106038607,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** A***",
+      "oldScore": 0,
+      "productId": 686717153,
+      "productSubTitle": "Hanfish Gurt 6cm Silikon Yem - Mix 3 7 Renk 6 Cm",
+      "productTitle": "Hanfish Gurt 6cm Silikon Yem - Mix 3 7 Renk",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "FoçalıAvMarket",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

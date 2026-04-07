@@ -1,0 +1,98 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "667459166",
+  "collectedAt": "2026-04-05T19:25:28.637Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel ve sağlam",
+      "createDate": 1764747042111,
+      "createdDate": "03/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105870905,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/03/60/26/72/32/29/95/99/76/85/86356731459030239316.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/12/03/60/26/72/32/29/95/99/76/85/86356731459030239316.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "İ*** D***",
+      "oldScore": 0,
+      "productId": 667314753,
+      "productSubTitle": "Gezer Erkek Çocuk Yazlık Pu Ev Banyo Bahçe Plaj Havuz Günlük Terlik Gri 29",
+      "productTitle": "Gezer Erkek Çocuk Yazlık Pu Ev Banyo Bahçe Plaj Havuz Günlük Terlik Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8072902,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/03/60/26/72/32/29/95/99/76/85/86356731459030239316.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Gezer",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/03/60/26/72/32/29/95/99/76/85/86356731459030239316.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/03/60/26/72/32/29/95/99/76/85/86356731459030239316.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "guzel",
+      "createDate": 1752659198494,
+      "createdDate": "16/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104834940,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/16/90/83/95/60/38/79/98/00/48/86122313923614296088.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/07/16/90/83/95/60/38/79/98/00/48/86122313923614296088.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "D*** Y***",
+      "oldScore": 0,
+      "productId": 667314643,
+      "productSubTitle": "Gezer Erkek Çocuk Yazlık Pu Ev Banyo Bahçe Plaj Havuz Günlük Terlik Gri 30",
+      "productTitle": "Gezer Erkek Çocuk Yazlık Pu Ev Banyo Bahçe Plaj Havuz Günlük Terlik Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7444599,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/16/90/83/95/60/38/79/98/00/48/86122313923614296088.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Gezer",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/16/90/83/95/60/38/79/98/00/48/86122313923614296088.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/16/90/83/95/60/38/79/98/00/48/86122313923614296088.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

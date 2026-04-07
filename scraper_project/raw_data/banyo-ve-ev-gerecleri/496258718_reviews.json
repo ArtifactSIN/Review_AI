@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "496258718",
+  "collectedAt": "2026-04-05T20:24:13.162Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün fiyatına göre gayet güzel. Fakat tezgah üstü değil. Duvar tipi lavabo.",
+      "createDate": 1664372002215,
+      "createdDate": "28/09/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5090502317,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Hasan Özkan",
+      "oldScore": 0,
+      "productId": 496258718,
+      "productSubTitle": "Karen Banyo Sense 45 x 30 CM Dolap Uyumlu Lavabo",
+      "productTitle": "Karen Banyo Sense 45 x 30 CM Dolap Uyumlu Lavabo",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "KARENBANYO",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

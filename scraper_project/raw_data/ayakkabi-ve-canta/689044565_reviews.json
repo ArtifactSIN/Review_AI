@@ -1,0 +1,149 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "689044565",
+  "collectedAt": "2026-04-05T19:19:00.419Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 4,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "harika çok şık.",
+      "createDate": 1762461013530,
+      "createdDate": "06/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105610462,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/06/68/33/28/85/85/16/18/26/07/26087862171401041622.jpeg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/11/06/54/03/47/13/82/15/09/58/61/73464494733951582959.jpeg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** c***",
+      "oldScore": 0,
+      "productId": 651944477,
+      "productSubTitle": "Vans Old Skool Siyah Sneaker Siyah 42",
+      "productTitle": "Vans Old Skool Siyah Sneaker Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7911313,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/06/54/03/47/13/82/15/09/58/61/73464494733951582959.jpeg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "athleticzone",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/06/68/33/28/85/85/16/18/26/07/26087862171401041622.jpeg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/06/68/33/28/85/85/16/18/26/07/26087862171401041622.jpeg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürünü eşime almıştık 1kere giydi yanlardan patladı eşim iade ile uğraşmak istemedi ürün çöp oldu ve kesinlikle orjinal değil.",
+      "createDate": 1745338796250,
+      "createdDate": "22/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104236352,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 665242701,
+      "productSubTitle": "Vans Old Skool Siyah Sneaker Siyah 42",
+      "productTitle": "Vans Old Skool Siyah Sneaker Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "DianSpor",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Oğlum için aldım ayakkabıyı çok beğendik orjinal ürün çokta rahat teşekkür ediyorum",
+      "createDate": 1743294130064,
+      "createdDate": "30/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104047497,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 651944476,
+      "productSubTitle": "Vans Old Skool Siyah Sneaker Siyah 36",
+      "productTitle": "Vans Old Skool Siyah Sneaker Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "athleticzone",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Çok hızlı kargo ve harika bir ayakkabı Mağaza fiyatının neredeyse yarısına geldi fiyat olarak teşekkürler n11",
+      "createDate": 1742492245234,
+      "createdDate": "20/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103981971,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** Ö***",
+      "oldScore": 0,
+      "productId": 651944479,
+      "productSubTitle": "Vans Old Skool Siyah Sneaker Siyah 40",
+      "productTitle": "Vans Old Skool Siyah Sneaker Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "athleticzone",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 4
+  }
+}

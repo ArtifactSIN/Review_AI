@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "732348462",
+  "collectedAt": "2026-04-05T19:15:13.287Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Tam numaranıza göre alın . Ayakkabı güzel ve çok rahat bu kadar rahat olmasını beklemiyordum .Tek sıkıntısı bağcıkları o da benim salakligim alırken bağcıklarına bakmadım onun dışında on numara ayakkabı",
+      "createDate": 1765289435912,
+      "createdDate": "09/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105924254,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 692751724,
+      "productSubTitle": "Puma 311723 Softride Exo Shift Spor Ayakkabı Siyah-beyaz Sıyah/beyaz 41",
+      "productTitle": "Puma 311723 Softride Exo Shift Spor Ayakkabı Siyah-beyaz Sıyah/beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "trisiss",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ayakkabı çok rahat mükemmel",
+      "createDate": 1762957170113,
+      "createdDate": "12/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105676918,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "f*** ö***",
+      "oldScore": 0,
+      "productId": 692772338,
+      "productSubTitle": "Puma 311723 Softride Exo Shift Spor Ayakkabı Siyah-beyaz Sıyah/beyaz 41",
+      "productTitle": "Puma 311723 Softride Exo Shift Spor Ayakkabı Siyah-beyaz Sıyah/beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SportOnex",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "679375600",
+  "collectedAt": "2026-04-05T20:12:05.822Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "parça kırık geldi acil olduğu için binbir türlü yapıştıcı ile yapıştırıp montaj yaptık.ayrıca ürün çok kalitesiz 10.sınıf malzemeden yapılmış",
+      "createDate": 1774629184656,
+      "createdDate": "27/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106682806,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774629184656,
+      "maskedBuyerName": "B*** D***",
+      "oldScore": 0,
+      "productId": 679375600,
+      "productSubTitle": "Japar Gömme Rezervuar Doldurma Flotör 1/2 Diğer ",
+      "productTitle": "Japar Gömme Rezervuar Doldurma Flotör 1/2 Diğer",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "AYDOĞDUYAPI",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "659529921",
+  "collectedAt": "2026-04-05T20:17:34.311Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çok soğuk havalarda normal havalardaki gibi çok sıcak yapamıyor su soğuk olduğu için. Ama çocukların soğuk sudan uzak kalmaması için su soğukken bile suyu el yüz yıkayacak kıvama çok rahat getiriyor. Eli yakacak seviyede olmuyor. Çocuklar tek başına bile yanmadan kullanabilir. Suyun şiddetini arttırdıkça su daha hızlı akacağı için daha az ısıtıyor. Ayrıca başka modellerde olmayan 3 kademeli ısıtma ayarı da ayrıca mevcut. Fena değil, güzel ürün.",
+      "createDate": 1770244046298,
+      "createdDate": "05/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106336282,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/05/48/58/56/33/07/67/56/40/40/24994695883334661780.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/02/05/48/58/56/33/07/67/56/40/40/24994695883334661780.jpg"
+      ],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "M*** A***",
+      "oldScore": 0,
+      "productId": 659529921,
+      "productSubTitle": "Smartgift SG-502 Ani Su Isıtıcı Musluk Alttan Giriş Elektrikli Sıcak Su Musluğu",
+      "productTitle": "Smartgift SG-502 Ani Su Isıtıcı Musluk Alttan Giriş Elektrikli Sıcak Su Musluğu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8324410,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/05/48/58/56/33/07/67/56/40/40/24994695883334661780.jpg"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Smartgift",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/05/48/58/56/33/07/67/56/40/40/24994695883334661780.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/05/48/58/56/33/07/67/56/40/40/24994695883334661780.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Harika",
+      "createDate": 1770191344881,
+      "createdDate": "04/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106329180,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "R*** Y***",
+      "oldScore": 0,
+      "productId": 659529921,
+      "productSubTitle": "Smartgift SG-502 Ani Su Isıtıcı Musluk Alttan Giriş Elektrikli Sıcak Su Musluğu",
+      "productTitle": "Smartgift SG-502 Ani Su Isıtıcı Musluk Alttan Giriş Elektrikli Sıcak Su Musluğu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Smartgift",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün tanıtıldığı gibi kaliteli, 2 adet almıştım test için tesisata bağladım denedim sorunsuz çalıştı tavsiye ederim.",
+      "createDate": 1770191292684,
+      "createdDate": "04/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106332716,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "RÜSTEM YILDIRIM",
+      "oldScore": 0,
+      "productId": 659529921,
+      "productSubTitle": "Smartgift SG-502 Ani Su Isıtıcı Musluk Alttan Giriş Elektrikli Sıcak Su Musluğu",
+      "productTitle": "Smartgift SG-502 Ani Su Isıtıcı Musluk Alttan Giriş Elektrikli Sıcak Su Musluğu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Smartgift",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

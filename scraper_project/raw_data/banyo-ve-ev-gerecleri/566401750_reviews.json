@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "566401750",
+  "collectedAt": "2026-04-05T20:17:21.306Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel",
+      "createDate": 1745755779890,
+      "createdDate": "27/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104272058,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "K*** A***",
+      "oldScore": 0,
+      "productId": 566401750,
+      "productSubTitle": "Tırtıklı Vakum Makinesi Poşeti- Torbası -20 X 30 Cm - 1 Kilo",
+      "productTitle": "Tırtıklı Vakum Makinesi Poşeti- Torbası -20 X 30 Cm - 1 Kilo",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İstanbul-Tcrt",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "gayet güzeldi yazıldığı gibiydi farklı bir olumsuz bir durum yoktu memnunum",
+      "createDate": 1743260783284,
+      "createdDate": "29/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104043724,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** G***",
+      "oldScore": 0,
+      "productId": 566401750,
+      "productSubTitle": "Tırtıklı Vakum Makinesi Poşeti- Torbası -20 X 30 Cm - 1 Kilo",
+      "productTitle": "Tırtıklı Vakum Makinesi Poşeti- Torbası -20 X 30 Cm - 1 Kilo",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İstanbul-Tcrt",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

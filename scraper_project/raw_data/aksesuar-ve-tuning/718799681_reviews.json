@@ -1,0 +1,50 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "718799681",
+  "collectedAt": "2026-04-05T17:41:36.977Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Hızlı teslimat kask camına uyguladım toz bile tutmuyor artık",
+      "createDate": 1767266695421,
+      "createdDate": "01/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106114914,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "m*** k***",
+      "oldScore": 0,
+      "productId": 718799681,
+      "productSubTitle": "Araç Seramik Kaplama Seti 4 Parça + Araç Seramik Wax Boya Parlatıcı",
+      "productTitle": "Araç Seramik Kaplama Seti 4 Parça + Araç Seramik Wax Boya Parlatıcı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MAGİCLUSTER",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

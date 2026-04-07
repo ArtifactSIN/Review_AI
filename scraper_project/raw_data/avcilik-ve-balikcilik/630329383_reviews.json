@@ -1,0 +1,128 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "630329383",
+  "collectedAt": "2026-04-05T18:28:35.358Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün çok şık ve kaliteli elime hızlı bir şekilde ulaştı kargolama huhteşem olmuş hasarsız bir şekilde isteğidiğim gibi gelmesi beni çok mutlu etti deneyimleyip perfonsı na bakacağım ürünü düşünüyorum ki çok başarılı imzalar atacak 😉",
+      "createDate": 1773754396097,
+      "createdDate": "17/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106601322,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/17/69/78/54/80/10/31/88/85/27/07577819771792439089.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/17/46/51/56/17/95/13/59/33/37/52143758696273654851.png"
+      ],
+      "lastModifiedDate": 1773754396097,
+      "maskedBuyerName": "R*** M***",
+      "oldScore": 0,
+      "productId": 630329383,
+      "productSubTitle": "Bauer Chakal 6000 Olta Makinesi",
+      "productTitle": "Bauer Chakal 6000 Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8472588,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/17/46/51/56/17/95/13/59/33/37/52143758696273654851.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "trançabalıkçılık",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/17/69/78/54/80/10/31/88/85/27/07577819771792439089.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/17/69/78/54/80/10/31/88/85/27/07577819771792439089.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Fiyatına göre fena değil ama çok ta beğenmedim açıkçası",
+      "createDate": 1752790585847,
+      "createdDate": "18/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104856207,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "G*** E***",
+      "oldScore": 0,
+      "productId": 655761133,
+      "productSubTitle": "Bauer Chakal 6000 Olta Makinesi",
+      "productTitle": "Bauer Chakal 6000 Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "avpazari",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "çok kaliteli degil orta derecede bir ürün",
+      "createDate": 1708532978353,
+      "createdDate": "21/02/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5098153670,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/21/59/36/29/29/19/02/17/06/59/5317007511614108728.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/02/21/59/36/29/29/19/02/17/06/59/5317007511614108728.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 594934241,
+      "productSubTitle": "Bauer Chakal 6000 Olta Makinesi",
+      "productTitle": "Bauer Chakal 6000 Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 3948819,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/21/59/36/29/29/19/02/17/06/59/5317007511614108728.png"
+        }
+      ],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "RingaOutdoor",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/21/59/36/29/29/19/02/17/06/59/5317007511614108728.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/21/59/36/29/29/19/02/17/06/59/5317007511614108728.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

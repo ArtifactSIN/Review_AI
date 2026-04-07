@@ -1,0 +1,80 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "708090084",
+  "collectedAt": "2026-04-05T17:39:40.976Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "2026 model toyota c-hr aracıma tam oldu, ürün kaliteli,satıcı ilgileniyor,tavsiye ederim",
+      "createDate": 1773085783075,
+      "createdDate": "09/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106551213,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773085783075,
+      "maskedBuyerName": "S*** E***",
+      "oldScore": 0,
+      "productId": 708090084,
+      "productSubTitle": "Toyota C-hr 2023 Sonrası Bagaj Havuzu Hybrid - Ses Sistemi Var ",
+      "productTitle": "Toyota C-hr 2023 Sonrası Bagaj Havuzu Hybrid - Ses Sistemi Var",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "WallTech-Store",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Biraz ince ama yinede fena değil güzel teşekkürler..",
+      "createDate": 1771429217832,
+      "createdDate": "18/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106431817,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "T*** C***",
+      "oldScore": 0,
+      "productId": 708090084,
+      "productSubTitle": "Toyota C-hr 2023 Sonrası Bagaj Havuzu Hybrid - Ses Sistemi Var ",
+      "productTitle": "Toyota C-hr 2023 Sonrası Bagaj Havuzu Hybrid - Ses Sistemi Var",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "WallTech-Store",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

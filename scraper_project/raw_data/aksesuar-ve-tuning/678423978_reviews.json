@@ -1,0 +1,50 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "678423978",
+  "collectedAt": "2026-04-05T17:34:44.968Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kokusu muazzam sevmeyen olabilir ama benim çok hoşuma gidiyor. orjinal ürün",
+      "createDate": 1771718511513,
+      "createdDate": "22/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106455135,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "m*** C*** e***",
+      "oldScore": 0,
+      "productId": 678423978,
+      "productSubTitle": "Areon Vent 7 Vanilla Araç Klima Kokusu ",
+      "productTitle": "Areon Vent 7 Vanilla Araç Klima Kokusu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AreonTürkiye",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

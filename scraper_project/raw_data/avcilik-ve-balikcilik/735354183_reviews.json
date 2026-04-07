@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "735354183",
+  "collectedAt": "2026-04-05T18:27:34.249Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Güzel urun",
+      "createDate": 1774222582845,
+      "createdDate": "23/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106626318,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774222582845,
+      "maskedBuyerName": "Mahmut Kale",
+      "oldScore": 0,
+      "productId": 663837700,
+      "productSubTitle": "Tabureli Balıkçı Takım Çantası - 4 Çekmeceli - Mavi",
+      "productTitle": "Tabureli Balıkçı Takım Çantası - 4 Çekmeceli - Mavi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SANTİSPARK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "fiyatını hak ediyor malzeme ler daha düzenli ve taşıması rahat",
+      "createDate": 1773705104253,
+      "createdDate": "17/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106597183,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773705104253,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 663837700,
+      "productSubTitle": "Tabureli Balıkçı Takım Çantası - 4 Çekmeceli - Mavi",
+      "productTitle": "Tabureli Balıkçı Takım Çantası - 4 Çekmeceli - Mavi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SANTİSPARK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

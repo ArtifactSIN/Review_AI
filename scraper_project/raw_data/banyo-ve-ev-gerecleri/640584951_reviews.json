@@ -1,0 +1,110 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "640584951",
+  "collectedAt": "2026-04-05T20:14:24.763Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kaliteli ürün",
+      "createDate": 1760161631766,
+      "createdDate": "11/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105396037,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** n*** A***",
+      "oldScore": 0,
+      "productId": 640584951,
+      "productSubTitle": "A3348001yp Artema 3 Fonksiyonlu El Duşu Krom ",
+      "productTitle": "A3348001yp Artema 3 Fonksiyonlu El Duşu Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "VİMARYAPI",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "3 kademeli orginal ürün",
+      "createDate": 1741418612163,
+      "createdDate": "08/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103869911,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1752155554963,
+      "maskedBuyerName": "M*** Ç***",
+      "oldScore": 0,
+      "productId": 647256294,
+      "productSubTitle": "A3348001yp Artema 3 Fonksiyonlu El Duşu Krom ",
+      "productTitle": "A3348001yp Artema 3 Fonksiyonlu El Duşu Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BAŞARIYAPITESİSAT",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "urun cok iyi",
+      "createDate": 1734902612140,
+      "createdDate": "23/12/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103118452,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1752155554963,
+      "maskedBuyerName": "R*** Ö*** K***",
+      "oldScore": 0,
+      "productId": 647256294,
+      "productSubTitle": "A3348001yp Artema 3 Fonksiyonlu El Duşu Krom ",
+      "productTitle": "A3348001yp Artema 3 Fonksiyonlu El Duşu Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BAŞARIYAPITESİSAT",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

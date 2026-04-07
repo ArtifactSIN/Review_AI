@@ -1,0 +1,110 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "612488423",
+  "collectedAt": "2026-04-05T19:23:55.700Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel sağlam cüzdan",
+      "createDate": 1751390090908,
+      "createdDate": "01/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104741859,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** o***",
+      "oldScore": 0,
+      "productId": 545236044,
+      "productSubTitle": "Modica Eretna - Hakiki Deri Bozuk Para Bölmeli Erkek Cüzdan Kahverengi",
+      "productTitle": "Modica Eretna - Hakiki Deri Bozuk Para Bölmeli Erkek Cüzdan",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Modaİncisi",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "cok büyük",
+      "createDate": 1727308901192,
+      "createdDate": "26/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101592023,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** a*** a***",
+      "oldScore": 0,
+      "productId": 612488421,
+      "productSubTitle": "Modica Eretna - Hakiki Deri Bozuk Para Bölmeli Erkek Cüzdan Siyah",
+      "productTitle": "Modica Eretna - Hakiki Deri Bozuk Para Bölmeli Erkek Cüzdan",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Modaİncisi",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ÜRÜN GÜZEL VE KULLANIŞLI GÖNÜL RAHATLIĞI İLE SİPARİŞ VEREBİLİRSİNİZ",
+      "createDate": 1683062428443,
+      "createdDate": "03/05/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5093491400,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ERTUĞ ÖZTEKİN",
+      "oldScore": 0,
+      "productId": 545236044,
+      "productSubTitle": "Modica Eretna - Hakiki Deri Bozuk Para Bölmeli Erkek Cüzdan Kahverengi",
+      "productTitle": "Modica Eretna - Hakiki Deri Bozuk Para Bölmeli Erkek Cüzdan",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Modaİncisi",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

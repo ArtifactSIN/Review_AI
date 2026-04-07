@@ -1,0 +1,110 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "664380332",
+  "collectedAt": "2026-04-05T19:20:12.557Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "İyi",
+      "createDate": 1764754680162,
+      "createdDate": "03/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105872013,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** c***",
+      "oldScore": 0,
+      "productId": 664380305,
+      "productSubTitle": "Tamamen Hakiki Deri Ve Topuk Yastıklı Sistemli Ortopedik Erkek Terlik Siyah-60 Siyah 45",
+      "productTitle": "Tamamen Hakiki Deri Ve Topuk Yastıklı Sistemli Ortopedik Erkek Terlik Siyah-60 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MAGICSHOES",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Çok güzel",
+      "createDate": 1761601301696,
+      "createdDate": "28/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105531228,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "y*** k***",
+      "oldScore": 0,
+      "productId": 664380300,
+      "productSubTitle": "Tamamen Hakiki Deri Ve Topuk Yastıklı Sistemli Ortopedik Erkek Terlik Siyah-60 Siyah 44",
+      "productTitle": "Tamamen Hakiki Deri Ve Topuk Yastıklı Sistemli Ortopedik Erkek Terlik Siyah-60 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MAGICSHOES",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "İyi",
+      "createDate": 1746798120427,
+      "createdDate": "09/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104374012,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** Ç***",
+      "oldScore": 0,
+      "productId": 664380314,
+      "productSubTitle": "Tamamen Hakiki Deri Ve Topuk Yastıklı Sistemli Ortopedik Erkek Terlik Siyah-60 Siyah 43",
+      "productTitle": "Tamamen Hakiki Deri Ve Topuk Yastıklı Sistemli Ortopedik Erkek Terlik Siyah-60 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MAGICSHOES",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "595749429",
+  "collectedAt": "2026-04-05T19:24:12.612Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Gayrt güzel ve kullanışlı",
+      "createDate": 1754058604901,
+      "createdDate": "01/08/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104949411,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** C*** D***",
+      "oldScore": 0,
+      "productId": 595749429,
+      "productSubTitle": "Rowan Kamuflaj Termal Termos Çantalı İçi Astarlı Kamp Ve Balıkçı Kamuflaj - Kahverengi ",
+      "productTitle": "Rowan Kamuflaj Termal Termos Çantalı İçi Astarlı Kamp Ve Balıkçı Kamuflaj - Kahverengi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "çanta-adresim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel Ürün",
+      "createDate": 1727554612007,
+      "createdDate": "28/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101620594,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1745851135593,
+      "maskedBuyerName": "H*** C***",
+      "oldScore": 0,
+      "productId": 595749429,
+      "productSubTitle": "Rowan Kamuflaj Termal Termos Çantalı İçi Astarlı Kamp Ve Balıkçı Kamuflaj - Kahverengi ",
+      "productTitle": "Rowan Kamuflaj Termal Termos Çantalı İçi Astarlı Kamp Ve Balıkçı Kamuflaj - Kahverengi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "çanta-adresim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

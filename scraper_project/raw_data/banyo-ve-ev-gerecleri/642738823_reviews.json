@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "642738823",
+  "collectedAt": "2026-04-05T20:21:40.102Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün, anlatıldığı gibi metal. Eksiksiz, sağlam olarak gönderildi.",
+      "createDate": 1751411466837,
+      "createdDate": "02/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104730978,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** T*** S***",
+      "oldScore": 0,
+      "productId": 642738823,
+      "productSubTitle": "Hymark 1080 Derece Dönebilen Evrensel 2 Modlu Robotik Kol Mutfak ",
+      "productTitle": "Hymark 1080 Derece Dönebilen Evrensel 2 Modlu Robotik Kol Mutfak",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HyMark",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

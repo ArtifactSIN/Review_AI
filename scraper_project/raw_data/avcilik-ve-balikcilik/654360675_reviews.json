@@ -1,0 +1,89 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "654360675",
+  "collectedAt": "2026-04-05T18:41:50.242Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Ürün güzel kullanip göreceğiz. ilandaki Ürün ile birebir aynısı olarak geldi",
+      "createDate": 1673094310571,
+      "createdDate": "07/01/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5091681002,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/01/07/82/18/11/05/18/82/29/38/77/23522466458513721554.jpeg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/23/01/07/90/27/64/90/47/90/32/58/49/7247246596950700147.jpeg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Tayfun Reyhan",
+      "oldScore": 0,
+      "productId": 386700491,
+      "productSubTitle": "Remixon Spider 1000M Multicolor Misina (386700491)-0,30Mm",
+      "productTitle": "Remixon Spider 1000M Multicolor Misina (386700491)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 1467820,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/07/90/27/64/90/47/90/32/58/49/7247246596950700147.jpeg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İlkMevsimEski",
+      "title": "Güzel misina",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/01/07/82/18/11/05/18/82/29/38/77/23522466458513721554.jpeg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/01/07/82/18/11/05/18/82/29/38/77/23522466458513721554.jpeg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "urun guzel ama satici yanlis renkli olani gondermis.",
+      "createDate": 1590246499986,
+      "createdDate": "23/05/2020",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5079054934,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 386700491,
+      "productSubTitle": "Remixon Spider 1000M Multicolor Misina (386700491)-0,30Mm",
+      "productTitle": "Remixon Spider 1000M Multicolor Misina (386700491)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "İlkMevsimEski",
+      "title": "yanlis renk",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

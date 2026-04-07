@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "636955645",
+  "collectedAt": "2026-04-05T18:31:49.354Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "orijinal ürün. spin yaparken çok rahat",
+      "createDate": 1775129858155,
+      "createdDate": "02/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106741255,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775129858155,
+      "maskedBuyerName": "H*** Ü***",
+      "oldScore": 0,
+      "productId": 636955645,
+      "productSubTitle": "Mustad L Beden Half Finger Casting Balıkçı Eldiveni Mavi - Siyah L",
+      "productTitle": "Mustad L Beden Half Finger Casting Balıkçı Eldiveni Mavi - Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Avgross",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

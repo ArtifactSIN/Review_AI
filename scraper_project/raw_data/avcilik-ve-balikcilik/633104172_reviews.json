@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "633104172",
+  "collectedAt": "2026-04-05T18:42:22.507Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ürün",
+      "createDate": 1771837792277,
+      "createdDate": "23/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106463709,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "İ*** T***",
+      "oldScore": 0,
+      "productId": 633104172,
+      "productSubTitle": "İkado Paslanmaz Fırdöndü 10 Lu Pk No:6",
+      "productTitle": "İkado Paslanmaz Fırdöndü 10 Lu Pk No:6",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "trançabalıkçılık",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ikado yerine başka marka göndermiş",
+      "createDate": 1756018230006,
+      "createdDate": "24/08/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105070894,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** C***",
+      "oldScore": 0,
+      "productId": 633104172,
+      "productSubTitle": "İkado Paslanmaz Fırdöndü 10 Lu Pk No:6",
+      "productTitle": "İkado Paslanmaz Fırdöndü 10 Lu Pk No:6",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "trançabalıkçılık",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

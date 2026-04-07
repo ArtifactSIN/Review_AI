@@ -1,0 +1,50 @@
+{
+  "categorySlug": "antika-ve-koleksiyon",
+  "productId": "575500406",
+  "collectedAt": "2026-04-05T17:52:22.800Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "beklediğim gibi geldi.",
+      "createDate": 1697209659946,
+      "createdDate": "13/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5095821770,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Selçuk Köse",
+      "oldScore": 0,
+      "productId": 575500406,
+      "productSubTitle": "Madeni Para 3'Lü Set 88632663",
+      "productTitle": "Madeni Para 3'Lü Set 88632663",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Alsatbaba",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

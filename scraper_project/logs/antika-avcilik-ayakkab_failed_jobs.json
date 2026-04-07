@@ -1,0 +1,13 @@
+{
+  "runId": "antika-avcilik-ayakkab",
+  "updatedAt": "2026-04-05T19:28:45.074Z",
+  "failedCount": 1,
+  "jobs": [
+    {
+      "categorySlug": "ayakkabi-ve-canta",
+      "productId": "700575126",
+      "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.n11.com/product-reviews/700575126\", waiting until \"domcontentloaded\"\u001b[22m\n\n    at processReview (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:725:16)\n    at async worker (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:767:9)\n    at async runWorkers (/mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:781:3)\n    at async /mnt/c/Developer/Review_AI/scraper_project/collection_auto_rawData.js:873:5",
+      "recordedAt": "2026-04-05T19:24:40.375Z"
+    }
+  ]
+}

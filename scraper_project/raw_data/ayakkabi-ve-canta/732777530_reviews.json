@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "732777530",
+  "collectedAt": "2026-04-05T19:17:10.168Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Orijinal İnci marka çanta, eşime hediye aldım, çok beğendi, tavsiye ediyorum.",
+      "createDate": 1773162270460,
+      "createdDate": "10/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106553444,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773162270460,
+      "maskedBuyerName": "ADEM UÇAR",
+      "oldScore": 0,
+      "productId": 732777530,
+      "productSubTitle": "İnci Incı Stn Luks Srt 6fx Siyah Kadın Sırt Çantası 000000000102203375 Siyah ",
+      "productTitle": "İnci Incı Stn Luks Srt 6fx Siyah Kadın Sırt Çantası 000000000102203375 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FLO",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "çok şık ve kullanışlı",
+      "createDate": 1772820146632,
+      "createdDate": "06/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106538911,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "F*** D***",
+      "oldScore": 0,
+      "productId": 733233320,
+      "productSubTitle": "İnci Incı Stn Luks Srt 6fx Siyah Kadın Sırt Çantası 000000000102203375 Siyah ",
+      "productTitle": "İnci Incı Stn Luks Srt 6fx Siyah Kadın Sırt Çantası 000000000102203375 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "INSTREET",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

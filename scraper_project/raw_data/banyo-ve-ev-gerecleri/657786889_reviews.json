@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "657786889",
+  "collectedAt": "2026-04-05T20:19:40.005Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Satıcıya ne kadar teşekkür etsem az o kadar çok soru sordum hepsine çok güzel cevaplar verdi. Ürünü harika kargolamış çok memnun kaldım kesinlikle tavsiye ederim. Decolook satıcısından alın pişman olmazsınız",
+      "createDate": 1767965154745,
+      "createdDate": "09/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106173347,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "yüsra emül",
+      "oldScore": 0,
+      "productId": 657786889,
+      "productSubTitle": "Grohe Minta Tek Kumandalı Eviye Bataryası 30274000",
+      "productTitle": "Grohe Minta Tek Kumandalı Eviye Bataryası 30274000",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DECOLOOK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Gayet güzel ama su sıçrıyor biraz yüksek geldi dikkat etmeli",
+      "createDate": 1749043205148,
+      "createdDate": "04/06/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5104562788,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Bülent KARSTARLI",
+      "oldScore": 0,
+      "productId": 657786889,
+      "productSubTitle": "Grohe Minta Tek Kumandalı Eviye Bataryası 30274000",
+      "productTitle": "Grohe Minta Tek Kumandalı Eviye Bataryası 30274000",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "DECOLOOK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

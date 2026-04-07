@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "618986952",
+  "collectedAt": "2026-04-05T19:22:27.340Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "mükemmel",
+      "createDate": 1774257121510,
+      "createdDate": "23/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106631356,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774257121510,
+      "maskedBuyerName": "s*** k***",
+      "oldScore": 0,
+      "productId": 618986952,
+      "productSubTitle": "Harley Davidson Laconia/hi/646 Bayan Çizme HD-025G0074-R0878 Koyu Kahverengi 39",
+      "productTitle": "Harley Davidson Laconia/hi/646 Bayan Çizme HD-025G0074-R0878 Koyu Kahverengi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DGN",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

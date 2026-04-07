@@ -1,0 +1,119 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "728719197",
+  "collectedAt": "2026-04-05T18:30:14.237Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün kaliteli ve hassas kullanımı kolay hediye için teşekkür ederim",
+      "createDate": 1763312971497,
+      "createdDate": "16/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105714303,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Fatih Cetin",
+      "oldScore": 0,
+      "productId": 651948840,
+      "productSubTitle": "Captain 1505 Matrix Tele Surf Kamış 150-250gr  360cm",
+      "productTitle": "Captain 1505 Matrix Tele Surf Kamış 150-250gr  360cm",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Balik_Store",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "arkadaşım da aynısı var güzel olta . sonuncusu nu ben almışım mağazanin stoğunda kalmamış.bunun içinde sevindim 😁",
+      "createDate": 1739212415948,
+      "createdDate": "10/02/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103630449,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/10/53/69/69/14/64/51/22/73/45/28769910352019633192.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/02/10/53/69/69/14/64/51/22/73/45/28769910352019633192.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 649217205,
+      "productSubTitle": "Captain 1505 Matrix Tele Surf Kamış 150-250gr Atar 360cm",
+      "productTitle": "Captain 1505 Matrix Tele Surf Kamış 150-250gr Atar 360cm",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6826267,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/10/53/69/69/14/64/51/22/73/45/28769910352019633192.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TURANLAROUTDOOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/10/53/69/69/14/64/51/22/73/45/28769910352019633192.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/10/53/69/69/14/64/51/22/73/45/28769910352019633192.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Çok erken elime geçti ve sağlam olarak teşekkürler",
+      "createDate": 1737465626599,
+      "createdDate": "21/01/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103447784,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "tunay kabaklı",
+      "oldScore": 0,
+      "productId": 650971023,
+      "productSubTitle": "Captain 1505 Matrix Tele Surf Kamış 150-250gr  360cm",
+      "productTitle": "Captain 1505 Matrix Tele Surf Kamış 150-250gr  360cm",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "balıkmarketim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

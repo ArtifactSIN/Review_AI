@@ -1,0 +1,110 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "649445055",
+  "collectedAt": "2026-04-05T18:33:53.621Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "kaliteli orjinal ürün",
+      "createDate": 1774937360604,
+      "createdDate": "31/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106703129,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774937360604,
+      "maskedBuyerName": "MEHMET ARSLAN",
+      "oldScore": 0,
+      "productId": 659632785,
+      "productSubTitle": "Gamakatsu Ls-5213n No:1 Nikel Olta İğnesi 25adet ",
+      "productTitle": "Gamakatsu Ls-5213n No:1 Nikel Olta İğnesi 25adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "balıkmarketim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "kaliteli orjinal ürün",
+      "createDate": 1774937265752,
+      "createdDate": "31/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106705519,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774937265752,
+      "maskedBuyerName": "MEHMET ARSLAN",
+      "oldScore": 0,
+      "productId": 659632785,
+      "productSubTitle": "Gamakatsu Ls-5213n No:1 Nikel Olta İğnesi 25adet ",
+      "productTitle": "Gamakatsu Ls-5213n No:1 Nikel Olta İğnesi 25adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "balıkmarketim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürün elime ulaşmadı kargo dağıtım dışı diye kargomu geri gönderdi alıcı paramı geri iade etmedi bir aydır saçma sapan bir döngünün içindeyim yani",
+      "createDate": 1768220308754,
+      "createdDate": "12/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106183593,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 659632785,
+      "productSubTitle": "Gamakatsu Ls-5213n No:1 Nikel Olta İğnesi 25adet ",
+      "productTitle": "Gamakatsu Ls-5213n No:1 Nikel Olta İğnesi 25adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "balıkmarketim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

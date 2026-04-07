@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "615652644",
+  "collectedAt": "2026-04-05T19:16:56.349Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Anneme aldım çok beğendi.",
+      "createDate": 1730477872256,
+      "createdDate": "01/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102184472,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "F*** D***",
+      "oldScore": 0,
+      "productId": 615652646,
+      "productSubTitle": "Slazenger ALISON I Kadın Cırt Cırtlı Siyah / Siyah Günlük Spor Ayakkabısı   40",
+      "productTitle": "Slazenger ALISON I Kadın Cırt Cırtlı Siyah / Siyah Günlük Spor Ayakkabısı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Slazenger",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

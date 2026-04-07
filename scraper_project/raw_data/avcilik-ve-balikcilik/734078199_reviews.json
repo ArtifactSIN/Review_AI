@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "734078199",
+  "collectedAt": "2026-04-05T18:37:58.430Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "çok iyi fiyat performans ürünü",
+      "createDate": 1767296404875,
+      "createdDate": "01/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106120715,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "S*** S***",
+      "oldScore": 0,
+      "productId": 677018494,
+      "productSubTitle": "Ryuji Aragon 300 Cm 50-150g Atarlı Karbon Teleskopik Kamış ",
+      "productTitle": "Ryuji Aragon 300 Cm 50-150g Atarlı Karbon Teleskopik Kamış",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "balıkmarketim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Harika gözüküyor deneyince görüçez inşallah",
+      "createDate": 1758463047707,
+      "createdDate": "21/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105267857,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Özgür Yarımkaş",
+      "oldScore": 0,
+      "productId": 677018494,
+      "productSubTitle": "Ryuji Aragon 300 Cm 50-150g Atarlı Karbon Teleskopik Kamış ",
+      "productTitle": "Ryuji Aragon 300 Cm 50-150g Atarlı Karbon Teleskopik Kamış",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "balıkmarketim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

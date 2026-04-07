@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "617047611",
+  "collectedAt": "2026-04-05T19:24:01.959Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "ürün ojinal",
+      "createDate": 1749075133534,
+      "createdDate": "05/06/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104568512,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 617047565,
+      "productSubTitle": "Dexter Navigator P619-11 Erkek Ayakkabı Kahverengi 42.5",
+      "productTitle": "Dexter Navigator P619-11 Erkek Ayakkabı Kahverengi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DexterTürkiye",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel",
+      "createDate": 1732896726201,
+      "createdDate": "29/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102735198,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1744717560117,
+      "maskedBuyerName": "K*** E*** Ü***",
+      "oldScore": 0,
+      "productId": 617047593,
+      "productSubTitle": "Dexter Navigator P619-11 Erkek Ayakkabı Kahverengi 43",
+      "productTitle": "Dexter Navigator P619-11 Erkek Ayakkabı Kahverengi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DexterTürkiye",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

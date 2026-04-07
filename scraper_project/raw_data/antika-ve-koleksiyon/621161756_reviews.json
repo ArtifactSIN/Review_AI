@@ -1,0 +1,50 @@
+{
+  "categorySlug": "antika-ve-koleksiyon",
+  "productId": "621161756",
+  "collectedAt": "2026-04-05T18:03:23.173Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "tarihi değeri var",
+      "createDate": 1735464926540,
+      "createdDate": "29/12/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103205673,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "l*** d***",
+      "oldScore": 0,
+      "productId": 621161756,
+      "productSubTitle": "5 Türk Lirası - 6. Emisyon Kağıt Para",
+      "productTitle": "5 Türk Lirası - 6. Emisyon Kağıt Para",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "gumrukesyalari",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

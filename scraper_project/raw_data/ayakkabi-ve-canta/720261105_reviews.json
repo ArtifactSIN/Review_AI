@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "720261105",
+  "collectedAt": "2026-04-05T19:27:10.352Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "guzel bir ayakkabi hotiç marka",
+      "createDate": 1774902413596,
+      "createdDate": "30/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106705657,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774902413596,
+      "maskedBuyerName": "f*** a***",
+      "oldScore": 0,
+      "productId": 720261090,
+      "productSubTitle": "Hotiç Erkek Deri Kahverengi Dikiş Detaylı Günlük Ayakkabı 02ayh311960a480 02ayh311960a480 Kahverengi 42",
+      "productTitle": "Hotiç Erkek Deri Kahverengi Dikiş Detaylı Günlük Ayakkabı 02ayh311960a480 02ayh311960a480 Kahverengi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Hotiç",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

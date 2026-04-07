@@ -1,0 +1,119 @@
+{
+  "categorySlug": "antika-ve-koleksiyon",
+  "productId": "586859781",
+  "collectedAt": "2026-04-05T18:03:23.649Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Gönderilen ürün kesinlikle çt ya da ççt değil. TEMİZ - T (Fine F) kategorisine belki girer. Kenar yırtıkları olan para çt/ççt olarak derecelendirilemez. Maalesef açıklamada yanlışlık olduğunu düşünüyorum.",
+      "createDate": 1735388569926,
+      "createdDate": "28/12/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103169194,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** D***",
+      "oldScore": 0,
+      "productId": 586859781,
+      "productSubTitle": "Rusya 3 Ruble 1905 Çt/Ççt Eski Yabancı Kağıt Para",
+      "productTitle": "Rusya 3 Ruble 1905 Çt/Ççt Eski Yabancı Kağıt Para",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "EdiAntik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Gayet iyi",
+      "createDate": 1725566043464,
+      "createdDate": "05/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101291259,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/05/46/99/43/52/44/04/05/26/34/76416621101301809041.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/09/05/46/99/43/52/44/04/05/26/34/76416621101301809041.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "O*** G***",
+      "oldScore": 0,
+      "productId": 586859781,
+      "productSubTitle": "Rusya 3 Ruble 1905 Çt/Ççt Eski Yabancı Kağıt Para",
+      "productTitle": "Rusya 3 Ruble 1905 Çt/Ççt Eski Yabancı Kağıt Para",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 5584429,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/05/46/99/43/52/44/04/05/26/34/76416621101301809041.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "EdiAntik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/05/46/99/43/52/44/04/05/26/34/76416621101301809041.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/05/46/99/43/52/44/04/05/26/34/76416621101301809041.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "çok eskimiş",
+      "createDate": 1716628091803,
+      "createdDate": "25/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099836160,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 586859781,
+      "productSubTitle": "Rusya 3 Ruble 1905 Çt/Ççt Eski Yabancı Kağıt Para",
+      "productTitle": "Rusya 3 Ruble 1905 Çt/Ççt Eski Yabancı Kağıt Para",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "EdiAntik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

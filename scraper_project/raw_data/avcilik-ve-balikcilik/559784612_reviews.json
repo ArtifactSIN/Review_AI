@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "559784612",
+  "collectedAt": "2026-04-05T18:37:30.564Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "gayet ilgili firma urunde guzel gonul rahatligi ile wliaveris yapabilirsiniz",
+      "createDate": 1675431841794,
+      "createdDate": "03/02/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5092136626,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "N*** T***",
+      "oldScore": 0,
+      "productId": 559784612,
+      "productSubTitle": "MODİBAGS 140 CM 4 GÖZ HAKİ OLTA ÇANTASI",
+      "productTitle": "MODİBAGS 140 CM 4 GÖZ HAKİ OLTA ÇANTASI",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "oltaçantası",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

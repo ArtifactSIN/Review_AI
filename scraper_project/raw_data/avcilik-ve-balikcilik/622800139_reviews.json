@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "622800139",
+  "collectedAt": "2026-04-05T18:43:37.390Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "sazan için aldım 0.37 mm .. ama aldığım başka markaların yanında ince kalıyor.. ip pürüzsüz ve Uzak atışlar için çok güzel sazan için 0.40 mm tavsiye ederim",
+      "createDate": 1764272214444,
+      "createdDate": "27/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105818030,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Mehmet Fatih YILDIZ",
+      "oldScore": 0,
+      "productId": 622800138,
+      "productSubTitle": "Pe Örgü 8X Ip 500 M Misina Ölçü :-Renk - 0.37 MM - 55.07 Lb - 25.00 KG-Yeşil",
+      "productTitle": "Pe Örgü 8X Ip 500 M Misina",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mercanmisina",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "fiyat performans ürünü tavsiye ederim",
+      "createDate": 1701011368631,
+      "createdDate": "26/11/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096745270,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "TC Serkan Boğazköy",
+      "oldScore": 0,
+      "productId": 547144101,
+      "productSubTitle": "Pe Örgü 8X Ip 500 M Misina Ölçü :-Renk - 0.20 MM - 25.33 Lg - 11.50 KG-Beyaz",
+      "productTitle": "Pe Örgü 8X Ip 500 M Misina",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "mercanmisina",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

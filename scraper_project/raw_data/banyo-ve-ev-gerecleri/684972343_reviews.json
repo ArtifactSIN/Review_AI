@@ -1,0 +1,89 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "684972343",
+  "collectedAt": "2026-04-05T20:15:47.730Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "sorunsuz geldi",
+      "createDate": 1775132014585,
+      "createdDate": "02/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106739920,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/02/70/38/05/01/74/68/71/78/93/56840683692228103764.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/04/02/70/38/05/01/74/68/71/78/93/56840683692228103764.png"
+      ],
+      "lastModifiedDate": 1775132014585,
+      "maskedBuyerName": "Mehmet Güreşci",
+      "oldScore": 0,
+      "productId": 684972343,
+      "productSubTitle": "Tema Bianco Tepe Duş Başlığı 55230 Krom ",
+      "productTitle": "Tema Bianco Tepe Duş Başlığı 55230 Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8559529,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/70/38/05/01/74/68/71/78/93/56840683692228103764.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Proted-Tema",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/02/70/38/05/01/74/68/71/78/93/56840683692228103764.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/02/70/38/05/01/74/68/71/78/93/56840683692228103764.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "guzel ilandaki urun geldi.",
+      "createDate": 1765227355831,
+      "createdDate": "08/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105921005,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1765295866976,
+      "maskedBuyerName": "M*** A*** K***",
+      "oldScore": 0,
+      "productId": 684972343,
+      "productSubTitle": "Tema Bianco Tepe Duş Başlığı 55230 Krom ",
+      "productTitle": "Tema Bianco Tepe Duş Başlığı 55230 Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Proted-Tema",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

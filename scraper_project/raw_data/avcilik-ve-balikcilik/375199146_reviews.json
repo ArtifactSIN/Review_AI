@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "375199146",
+  "collectedAt": "2026-04-05T18:39:55.106Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çok iyi. Teşekkürler.",
+      "createDate": 1580808307393,
+      "createdDate": "04/02/2020",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5076374325,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 375199146,
+      "productSubTitle": "Savage Gear Panıc Popper 13.5Cm 38G Suni Yem 01-Dirty Silver Mull",
+      "productTitle": "Savage Gear Panıc Popper 13.5Cm 38G Suni Yem 01-Dirty Silver Mull",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "çağlayanbalık",
+      "title": "Çok iyi.",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

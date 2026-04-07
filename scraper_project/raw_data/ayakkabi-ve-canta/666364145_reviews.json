@@ -1,0 +1,395 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "666364145",
+  "collectedAt": "2026-04-05T19:14:56.356Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1,
+    2
+  ],
+  "reviewCountUnique": 10,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kalite tavsiye ederim sadace biraz arkadan vuruyor onuda tabaniın altına biraz peçete koydum hallettim yumuşak hafif",
+      "createDate": 1774976133586,
+      "createdDate": "31/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106712877,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/66/13/38/90/45/28/45/11/66/51368220151181625635.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/31/66/13/38/90/45/28/45/11/66/51368220151181625635.png",
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/31/70/38/06/07/43/73/11/66/01/26831441390599189842.png",
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/31/56/73/96/30/27/73/93/13/60/52384330523026538981.png"
+      ],
+      "lastModifiedDate": 1774976133586,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 666364145,
+      "productSubTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz 41",
+      "productTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8543221,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/66/13/38/90/45/28/45/11/66/51368220151181625635.png"
+        },
+        {
+          "id": 8543222,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/70/38/06/07/43/73/11/66/01/26831441390599189842.png"
+        },
+        {
+          "id": 8543223,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/56/73/96/30/27/73/93/13/60/52384330523026538981.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KORAYSPOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/66/13/38/90/45/28/45/11/66/51368220151181625635.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/66/13/38/90/45/28/45/11/66/51368220151181625635.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "güzel ürün.",
+      "createDate": 1774535029584,
+      "createdDate": "26/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106665969,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774535029584,
+      "maskedBuyerName": "e*** M***",
+      "oldScore": 0,
+      "productId": 666364147,
+      "productSubTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz 43",
+      "productTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "KORAYSPOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Farklı ürün geldi bu beni biraz sinirlendirdi markanın kurumsallığına yakışmayan bir durum stoğuunuzda yoksa satmamalıydınız iade edildi",
+      "createDate": 1765022338308,
+      "createdDate": "06/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105897471,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/06/87/57/41/43/82/30/04/73/38/55788674339186651208.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/12/06/87/57/41/43/82/30/04/73/38/55788674339186651208.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ahmet Osman Çankal",
+      "oldScore": 0,
+      "productId": 737729449,
+      "productSubTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz 42",
+      "productTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8084210,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/06/87/57/41/43/82/30/04/73/38/55788674339186651208.jpg"
+        }
+      ],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "LUFIAN1",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/06/87/57/41/43/82/30/04/73/38/55788674339186651208.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/06/87/57/41/43/82/30/04/73/38/55788674339186651208.jpg"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Beklediğim gibi geldi",
+      "createDate": 1764487579740,
+      "createdDate": "30/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105839572,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "k*** k*** A***",
+      "oldScore": 0,
+      "productId": 677655741,
+      "productSubTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz 44",
+      "productTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "cexslippers",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "olumsuz yorum yazan kişi bendim. tekrar sipariş verdim elime ulaştı. kargo hızlı ürün kusursuz bu sefer mutluyum teşekkürler ❤️",
+      "createDate": 1763227468154,
+      "createdDate": "15/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105703668,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "D*** Ç***",
+      "oldScore": 0,
+      "productId": 737729450,
+      "productSubTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz 43",
+      "productTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "LUFIAN1",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürünü gönderirken neden kontrol etmiyorsunuz ? önünde beyazlik var resimde görünmese de giyildiği zaman insanı rahatsız ediyor. iadeyle uğraşmak zorunda kalıyoruz. hafta sonuna giyilecekti simdi yeni siparişin yetişeceği ne malum",
+      "createDate": 1762950861595,
+      "createdDate": "12/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105678107,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/12/51/02/06/86/39/55/75/55/44/96325650645964835049.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/11/12/51/02/06/86/39/55/75/55/44/96325650645964835049.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "D*** Ç***",
+      "oldScore": 0,
+      "productId": 737729450,
+      "productSubTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz 43",
+      "productTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7963004,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/12/51/02/06/86/39/55/75/55/44/96325650645964835049.png"
+        }
+      ],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "LUFIAN1",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/12/51/02/06/86/39/55/75/55/44/96325650645964835049.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/12/51/02/06/86/39/55/75/55/44/96325650645964835049.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "görseldeki ayakkabı gelmedi. Dikişsiz ve marka yazı kısmı farklı daha kutusundayken marka yazısı silik. vakit olsa iade ederdim.",
+      "createDate": 1762885535490,
+      "createdDate": "11/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105663915,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/11/75/29/58/43/26/53/07/93/55/67795034849360327988.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/11/11/75/29/58/43/26/53/07/93/55/67795034849360327988.png",
+        "https://n11scdn.akamaized.net/a1/{0}/25/11/11/86/94/08/89/45/42/92/60/61/53496722100777667924.png",
+        "https://n11scdn.akamaized.net/a1/{0}/25/11/11/57/00/04/14/78/50/30/28/45/8452564487800048208.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** T***",
+      "oldScore": 0,
+      "productId": 737729449,
+      "productSubTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz 42",
+      "productTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7949777,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/11/75/29/58/43/26/53/07/93/55/67795034849360327988.png"
+        },
+        {
+          "id": 7949778,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/11/86/94/08/89/45/42/92/60/61/53496722100777667924.png"
+        },
+        {
+          "id": 7949779,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/11/57/00/04/14/78/50/30/28/45/8452564487800048208.png"
+        }
+      ],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "LUFIAN1",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/11/75/29/58/43/26/53/07/93/55/67795034849360327988.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/11/75/29/58/43/26/53/07/93/55/67795034849360327988.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Çok şık ve kaliteli",
+      "createDate": 1759944710064,
+      "createdDate": "08/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105382866,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "EMRULLAH KAMÇİ",
+      "oldScore": 0,
+      "productId": 666364146,
+      "productSubTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz 42",
+      "productTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KORAYSPOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "kaliteli ürün beğendim",
+      "createDate": 1758538333938,
+      "createdDate": "22/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105267710,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/22/71/47/83/36/93/27/66/59/82/41641434898817073049.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/09/22/71/47/83/36/93/27/66/59/82/41641434898817073049.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 666364148,
+      "productSubTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz 44",
+      "productTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7719212,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/22/71/47/83/36/93/27/66/59/82/41641434898817073049.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KORAYSPOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/22/71/47/83/36/93/27/66/59/82/41641434898817073049.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/22/71/47/83/36/93/27/66/59/82/41641434898817073049.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "güzel",
+      "createDate": 1751660860939,
+      "createdDate": "04/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104763950,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/04/89/22/66/77/97/73/36/57/09/21750037828434349327.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/07/04/89/22/66/77/97/73/36/57/09/21750037828434349327.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "F*** Ş***",
+      "oldScore": 0,
+      "productId": 737729449,
+      "productSubTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz 42",
+      "productTitle": "Lufian 111230280 Tommy Erkek Sneaker Ayakkabısı Siyah Beyaz Siyah Beyaz Siyah - Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7414207,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/04/89/22/66/77/97/73/36/57/09/21750037828434349327.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "LUFIAN1",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/04/89/22/66/77/97/73/36/57/09/21750037828434349327.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/04/89/22/66/77/97/73/36/57/09/21750037828434349327.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 2,
+    "totalCount": 10
+  }
+}

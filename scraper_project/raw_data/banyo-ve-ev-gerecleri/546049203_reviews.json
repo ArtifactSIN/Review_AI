@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "546049203",
+  "collectedAt": "2026-04-05T20:24:19.794Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Bu mağazadan daha öncede gofrajlı vakum poşeti aldım, kalite belirgin düşmüş, 3 poşetten biri vakumlanamıyor, 100 ürün fiyatına 60 tane almış olduk",
+      "createDate": 1686247955515,
+      "createdDate": "08/06/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094028406,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "F*** Ü***",
+      "oldScore": 0,
+      "productId": 546049203,
+      "productSubTitle": "Klikal Gofrajlı Tırtıklı Çok Katmanlı Vakum Poşeti -Torbası 100 Adet - 15 x 20 CM",
+      "productTitle": "Klikal Gofrajlı Tırtıklı Çok Katmanlı Vakum Poşeti -Torbası 100 Adet - 15 x 20 CM",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "Klikal",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

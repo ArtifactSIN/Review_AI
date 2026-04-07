@@ -1,0 +1,80 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "725146306",
+  "collectedAt": "2026-04-05T17:31:03.558Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün çok güzel ve kaliteli. Bire bir uyumlu bagaj havuzuyla birlikte bu fiyata gayet ideal tavsiye ederim.",
+      "createDate": 1770307911849,
+      "createdDate": "05/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106347178,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "CENK DİNİBÜTÜNOĞLU",
+      "oldScore": 0,
+      "productId": 724789656,
+      "productSubTitle": "Rizline Togg T10f 2025 Sonrası Uyumlu 3d Havuzlu Paspas + 3d Bagaj Havuzu Set ",
+      "productTitle": "Rizline Togg T10f 2025 Sonrası Uyumlu 3d Havuzlu Paspas + 3d Bagaj Havuzu Set",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AHALİOTOAKSESUAR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel",
+      "createDate": 1768234961594,
+      "createdDate": "12/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106191944,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "a*** s***",
+      "oldScore": 0,
+      "productId": 724789656,
+      "productSubTitle": "Rizline Togg T10f 2025 Sonrası Uyumlu 3d Havuzlu Paspas + 3d Bagaj Havuzu Set ",
+      "productTitle": "Rizline Togg T10f 2025 Sonrası Uyumlu 3d Havuzlu Paspas + 3d Bagaj Havuzu Set",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AHALİOTOAKSESUAR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

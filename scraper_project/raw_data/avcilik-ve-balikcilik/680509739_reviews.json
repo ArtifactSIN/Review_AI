@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "680509739",
+  "collectedAt": "2026-04-05T18:46:32.956Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok güzel beğendim mükemmel teşekkür ederim",
+      "createDate": 1773670896419,
+      "createdDate": "16/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106593923,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773670896419,
+      "maskedBuyerName": "-Ercan -orta",
+      "oldScore": 0,
+      "productId": 680509739,
+      "productSubTitle": "Hanfish Plankton 5 Cm Lrf Silikon Yem Pearyl Pink Special Uv",
+      "productTitle": "Hanfish Plankton 5 Cm Lrf Silikon Yem Pearyl Pink Special",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TonguçBalıkVeAvMalz",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "ürün çok iyi",
+      "createDate": 1757672846650,
+      "createdDate": "12/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105204526,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ö*** g***",
+      "oldScore": 0,
+      "productId": 679829254,
+      "productSubTitle": "Hanfish Plankton 5 Cm Lrf Silikon Yem Pearyl Pink Special Uv",
+      "productTitle": "Hanfish Plankton 5 Cm Lrf Silikon Yem Pearyl Pink Special",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FECRFİSHİNG",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

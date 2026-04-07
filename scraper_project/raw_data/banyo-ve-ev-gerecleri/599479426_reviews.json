@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "599479426",
+  "collectedAt": "2026-04-05T20:22:07.868Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Tek kelime parasini hak ediyor.",
+      "createDate": 1774548940480,
+      "createdDate": "26/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106676108,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774548940480,
+      "maskedBuyerName": "B*** K***",
+      "oldScore": 0,
+      "productId": 599479426,
+      "productSubTitle": "Grohe Tempesta Cosmopolitan 100 El Duşu 2 Sprey 2757120e ",
+      "productTitle": "Grohe Tempesta Cosmopolitan 100 El Duşu 2 Sprey 2757120e",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Yütaş",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

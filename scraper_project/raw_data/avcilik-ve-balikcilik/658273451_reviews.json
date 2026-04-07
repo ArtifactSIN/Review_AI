@@ -1,0 +1,89 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "658273451",
+  "collectedAt": "2026-04-05T18:47:24.231Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "ürün güzel herhangi bir sıkıntı çıkmadı",
+      "createDate": 1761999061663,
+      "createdDate": "01/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105572812,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/01/63/19/11/30/49/89/53/77/21/55100710405274552160.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/11/01/63/19/11/30/49/89/53/77/21/55100710405274552160.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** Y***",
+      "oldScore": 0,
+      "productId": 581205860,
+      "productSubTitle": "Remixon Monster 7000 Surf Makara (RMNSTR7000)",
+      "productTitle": "Remixon Monster 7000 Surf Makara (RMNSTR7000)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7903205,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/01/63/19/11/30/49/89/53/77/21/55100710405274552160.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Resif",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/01/63/19/11/30/49/89/53/77/21/55100710405274552160.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/01/63/19/11/30/49/89/53/77/21/55100710405274552160.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürün güzel",
+      "createDate": 1700668288048,
+      "createdDate": "22/11/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096702444,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "B*** M*** E***",
+      "oldScore": 0,
+      "productId": 575221495,
+      "productSubTitle": "Remixon Monster 7000 Surf Makara (RMNSTR7000)",
+      "productTitle": "Remixon Monster 7000 Surf Makara (RMNSTR7000)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AdaAv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "577314405",
+  "collectedAt": "2026-04-05T20:22:28.190Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ekranı çalışmıyor ,yapışkanı güçlü değil ,macunu beş altı kerede anca sıkıyor. Bu fiyatı haketmiyor.",
+      "createDate": 1770728565853,
+      "createdDate": "10/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106371148,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 577314405,
+      "productSubTitle": "Arsimo Akıllı Uv Sterilizatör Diş Macunu Sıkacağı | Güneş Enerjili Uv Sterilizatör 4'Lü Diş Fırçası Diğer ",
+      "productTitle": "Arsimo Akıllı Uv Sterilizatör Diş Macunu Sıkacağı | Güneş Enerjili Uv Sterilizatör 4'Lü Diş Fırçası Diğer",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "MirBilişimHizmetleri",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürün çok güzel ve pratik kullanımlı. umarım vaat ettiğini yapıyordur.",
+      "createDate": 1698073787884,
+      "createdDate": "23/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5096127484,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1752150049847,
+      "maskedBuyerName": "M*** K***",
+      "oldScore": 0,
+      "productId": 577314405,
+      "productSubTitle": "Arsimo Akıllı Uv Sterilizatör Diş Macunu Sıkacağı | Güneş Enerjili Uv Sterilizatör 4'Lü Diş Fırçası Diğer ",
+      "productTitle": "Arsimo Akıllı Uv Sterilizatör Diş Macunu Sıkacağı | Güneş Enerjili Uv Sterilizatör 4'Lü Diş Fırçası Diğer",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MirBilişimHizmetleri",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

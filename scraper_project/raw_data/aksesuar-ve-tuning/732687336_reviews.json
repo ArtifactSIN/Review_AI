@@ -1,0 +1,50 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "732687336",
+  "collectedAt": "2026-04-05T17:40:54.315Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Sertifikasıyla geldi. Firmanın iletişimi de gayet güzel. 6kg'lıklarımı da 2kg'lıklarımı da buradan aldık. Kullanmak durumunda kalmam umarım",
+      "createDate": 1772743616211,
+      "createdDate": "05/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106528895,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "T. Onur Ovali",
+      "oldScore": 0,
+      "productId": 732687336,
+      "productSubTitle": "Denizcilik/marine Sörvey Sertifikalı 2 Kg Abc Kuru Kimyevi Tozlu Yangın Söndürme Tüpü ",
+      "productTitle": "Denizcilik/marine Sörvey Sertifikalı 2 Kg Abc Kuru Kimyevi Tozlu Yangın Söndürme Tüpü",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "metropolyangın",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

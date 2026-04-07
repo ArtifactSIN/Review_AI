@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "709853630",
+  "collectedAt": "2026-04-05T19:24:55.998Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Arkadaş 45 sipariş veriyorum sıkıyor açılır diyorum açılmıyor 46 sipariş vermeye korkuyordum kalıp mı dar diye 3 tane daha ayrı tip sipariş verdim hepsini çöpe atmak zorunda kaldım. Bu verdiğim 4.siparişi 46 sipariş verdim sanki 48 gibi. Ne yapacağımı şaşırdım. Ayakta ödem var düz tabanlık var topuk dikeni var.",
+      "createDate": 1761387584518,
+      "createdDate": "25/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105506202,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** S***",
+      "oldScore": 0,
+      "productId": 709853630,
+      "productSubTitle": "Detector İç Dış Hakiki Deri Ortopedik Ultra Rahat Şık Erkek Ayakkabı 1060 Siyah 46",
+      "productTitle": "Detector İç Dış Hakiki Deri Ortopedik Ultra Rahat Şık Erkek Ayakkabı 1060 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "DETECTOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

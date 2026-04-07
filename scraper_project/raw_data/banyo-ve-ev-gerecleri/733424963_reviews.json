@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "733424963",
+  "collectedAt": "2026-04-05T20:19:52.179Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürünü beğendim dış aksamı metal çok iyi kullanımı da çok mükemmel",
+      "createDate": 1772790001786,
+      "createdDate": "06/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106531543,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "ö*** k*** ö***",
+      "oldScore": 0,
+      "productId": 733424963,
+      "productSubTitle": "Eca Tiera Teleskobik Kolonlu Banyo Tepe Duş Sistemi Kare Takım 102158042 Krom ",
+      "productTitle": "Eca Tiera Teleskobik Kolonlu Banyo Tepe Duş Sistemi Kare Takım 102158042 Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SmartTeknikYapı",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Orginal ürün Kaliteli herkese tavsiye ederim .",
+      "createDate": 1757593671742,
+      "createdDate": "11/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105192691,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** ö***",
+      "oldScore": 0,
+      "productId": 648986961,
+      "productSubTitle": "Eca Tiera Teleskobik Kolonlu Banyo Tepe Duş Sistemi Kare Takım 102158042 Krom ",
+      "productTitle": "Eca Tiera Teleskobik Kolonlu Banyo Tepe Duş Sistemi Kare Takım 102158042 Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ECAWEBTR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

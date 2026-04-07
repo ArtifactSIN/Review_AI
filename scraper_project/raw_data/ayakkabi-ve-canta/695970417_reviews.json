@@ -1,0 +1,110 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "695970417",
+  "collectedAt": "2026-04-05T19:18:32.641Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Tam bir fiyat perfprmans ürünü yumuşacık ve rahat bir ayakkabı 1 numara büyük alınmalı",
+      "createDate": 1774538140042,
+      "createdDate": "26/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106669134,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774538140042,
+      "maskedBuyerName": "ı*** a***",
+      "oldScore": 0,
+      "productId": 695182015,
+      "productSubTitle": "Hummel Verona 212491-7172 Lacivert Unisex Günlük Spor Ayakkabı Lacivert 41",
+      "productTitle": "Hummel Verona 212491-7172 Lacivert Unisex Günlük Spor Ayakkabı Lacivert",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SPORNOKTASI",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "idare eder",
+      "createDate": 1764878903801,
+      "createdDate": "04/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105885323,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 695181726,
+      "productSubTitle": "Hummel Verona 212491-7172 Lacivert Unisex Günlük Spor Ayakkabı Lacivert 38",
+      "productTitle": "Hummel Verona 212491-7172 Lacivert Unisex Günlük Spor Ayakkabı Lacivert",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "SPORNOKTASI",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "idare eder",
+      "createDate": 1764878891946,
+      "createdDate": "04/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105888600,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 695181626,
+      "productSubTitle": "Hummel Verona 212491-7172 Lacivert Unisex Günlük Spor Ayakkabı Lacivert 37",
+      "productTitle": "Hummel Verona 212491-7172 Lacivert Unisex Günlük Spor Ayakkabı Lacivert",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "SPORNOKTASI",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

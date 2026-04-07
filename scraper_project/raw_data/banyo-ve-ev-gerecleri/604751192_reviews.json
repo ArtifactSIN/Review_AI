@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "604751192",
+  "collectedAt": "2026-04-05T20:20:21.107Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çok şık güzel ürün",
+      "createDate": 1764354543081,
+      "createdDate": "28/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105821790,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Z*** N*** T***",
+      "oldScore": 0,
+      "productId": 604751192,
+      "productSubTitle": "Finehome Sien Bambu Hazneli Sıvı Sabunluk Siyah",
+      "productTitle": "Finehome Sien Bambu Hazneli Sıvı Sabunluk Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "n11",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

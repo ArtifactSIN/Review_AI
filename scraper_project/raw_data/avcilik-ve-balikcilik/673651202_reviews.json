@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "673651202",
+  "collectedAt": "2026-04-05T18:40:11.471Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "kaliteli görünüyor",
+      "createDate": 1749729724441,
+      "createdDate": "12/06/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104601468,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "D*** Ö***",
+      "oldScore": 0,
+      "productId": 673651202,
+      "productSubTitle": "Effe Casper 200m Hayalet Misina Fluorocarbon Kaplı Şeffaf 0.40 MM",
+      "productTitle": "Effe Casper 200m Hayalet Misina Fluorocarbon Kaplı Şeffaf 0.40 MM",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Hesapex",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ÜRÜN GAYET GÜZEL VE İŞ YAPIYOR.",
+      "createDate": 1748601731527,
+      "createdDate": "30/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104530516,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "U*** D***",
+      "oldScore": 0,
+      "productId": 673651202,
+      "productSubTitle": "Effe Casper 200m Hayalet Misina Fluorocarbon Kaplı Şeffaf 0.40 MM",
+      "productTitle": "Effe Casper 200m Hayalet Misina Fluorocarbon Kaplı Şeffaf 0.40 MM",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Hesapex",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "707683461",
+  "collectedAt": "2026-04-05T20:19:28.313Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün 2mt değil 1mt , hortumu çok ,ince olduğu için aşırı tazyik yapıyor , ama şimdilik işimi görüyor",
+      "createDate": 1767974279189,
+      "createdDate": "09/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106176475,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "A*** O*** A***",
+      "oldScore": 0,
+      "productId": 707683461,
+      "productSubTitle": "Fause Yaylı Esnek Taharet Musluğu Hortumu 200 Cm Pirinç Somon Kdh105 Gri ",
+      "productTitle": "Fause Yaylı Esnek Taharet Musluğu Hortumu 200 Cm Pirinç Somon Kdh105 Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "yapımanya",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

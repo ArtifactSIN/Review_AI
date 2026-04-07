@@ -1,0 +1,119 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "630014185",
+  "collectedAt": "2026-04-05T18:44:26.083Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün kaliteli satıcı ilgili. 0.18 yerine 0.16 gönderilmiş ama bu da işimi görür yeniden sipariş edebilirim",
+      "createDate": 1767731764353,
+      "createdDate": "06/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106150992,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/06/68/87/24/35/15/65/10/43/19/01280531014249302188.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/01/06/68/87/24/35/15/65/10/43/19/01280531014249302188.jpg"
+      ],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "i*** a***",
+      "oldScore": 0,
+      "productId": 630014185,
+      "productSubTitle": "Blue Ocean 9x 150 M.yeşil İp Misina 0,18mm ",
+      "productTitle": "Blue Ocean 9x 150 M.yeşil İp Misina 0,18mm",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8219829,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/06/68/87/24/35/15/65/10/43/19/01280531014249302188.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "trançabalıkçılık",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/06/68/87/24/35/15/65/10/43/19/01280531014249302188.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/06/68/87/24/35/15/65/10/43/19/01280531014249302188.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Aras kargonun yeni uyguladığı alıcıyı peşinden koşturma uygulaması hoşunuza gidiyorsa alın",
+      "createDate": 1762267791406,
+      "createdDate": "04/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105589192,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Osman yürük yürük",
+      "oldScore": 0,
+      "productId": 630014185,
+      "productSubTitle": "Blue Ocean 9x 150 M.yeşil İp Misina 0,18mm ",
+      "productTitle": "Blue Ocean 9x 150 M.yeşil İp Misina 0,18mm",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "trançabalıkçılık",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "super bir ürün. satıcı her konuda yardimci oluyor. kendisine teşekkür ediyorum, her kese rast gele",
+      "createDate": 1739454312929,
+      "createdDate": "13/02/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103667868,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "B*** Ç***",
+      "oldScore": 0,
+      "productId": 630014185,
+      "productSubTitle": "Blue Ocean 9x 150 M.yeşil İp Misina 0,18mm ",
+      "productTitle": "Blue Ocean 9x 150 M.yeşil İp Misina 0,18mm",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "trançabalıkçılık",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

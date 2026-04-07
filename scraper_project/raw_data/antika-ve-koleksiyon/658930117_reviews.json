@@ -1,0 +1,50 @@
+{
+  "categorySlug": "antika-ve-koleksiyon",
+  "productId": "658930117",
+  "collectedAt": "2026-04-05T17:52:14.902Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "urunler umdugum gibiydi guzeldi ama söz verilmesine ragmen hediyem ciadi",
+      "createDate": 1768419071263,
+      "createdDate": "14/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106211967,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "MECİT YAŞAR",
+      "oldScore": 0,
+      "productId": 658930117,
+      "productSubTitle": "6. Emisyon 10 Türk Lirası. 2 Adet Değışık Harf Eski Koleksiyon Kağıt Para. Hobi Kağıt Para. ",
+      "productTitle": "6. Emisyon 10 Türk Lirası. 2 Adet Değışık Harf Eski Koleksiyon Kağıt Para. Hobi Kağıt Para.",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "40",
+      "scoreAsStar": 2,
+      "sellerNickname": "EdiAntik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

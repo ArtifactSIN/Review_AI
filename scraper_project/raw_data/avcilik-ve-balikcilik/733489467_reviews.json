@@ -1,0 +1,59 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "733489467",
+  "collectedAt": "2026-04-05T18:28:00.526Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok iyi",
+      "createDate": 1774518810385,
+      "createdDate": "26/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106668753,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/52/78/02/81/13/90/14/25/47/27192424829280239060.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/26/52/78/02/81/13/90/14/25/47/27192424829280239060.png"
+      ],
+      "lastModifiedDate": 1774518810385,
+      "maskedBuyerName": "A*** H*** i***",
+      "oldScore": 0,
+      "productId": 713125706,
+      "productSubTitle": "Hanfish Gurt 6cm Lrf Silikon Yem Bloodworm Uv",
+      "productTitle": "Hanfish Gurt 6cm Lrf Silikon Yem",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8520501,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/52/78/02/81/13/90/14/25/47/27192424829280239060.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FoçalıAvMarket",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/52/78/02/81/13/90/14/25/47/27192424829280239060.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/52/78/02/81/13/90/14/25/47/27192424829280239060.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

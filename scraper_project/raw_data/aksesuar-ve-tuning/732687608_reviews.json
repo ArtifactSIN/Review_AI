@@ -1,0 +1,89 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "732687608",
+  "collectedAt": "2026-04-05T17:18:29.634Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Mağza iltişimi iyi ben beğendim teşekkür ederim",
+      "createDate": 1775127882899,
+      "createdDate": "02/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106734424,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/02/72/32/74/13/65/88/26/78/25/51580646196586656707.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/04/02/72/32/74/13/65/88/26/78/25/51580646196586656707.png"
+      ],
+      "lastModifiedDate": 1775127882899,
+      "maskedBuyerName": "F*** Y***",
+      "oldScore": 0,
+      "productId": 732687608,
+      "productSubTitle": "Yangın Söndürme Tüpü Abc Tozlu 1kg Yeni Tarihli Tüv-türk Muayeneye Uyumlu Garantili ",
+      "productTitle": "Yangın Söndürme Tüpü Abc Tozlu 1kg Yeni Tarihli Tüv-türk Muayeneye Uyumlu Garantili",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8560079,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/72/32/74/13/65/88/26/78/25/51580646196586656707.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "metropolyangın",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/02/72/32/74/13/65/88/26/78/25/51580646196586656707.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/02/72/32/74/13/65/88/26/78/25/51580646196586656707.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün anlatıldığı gibi geldi. Sorun yok.",
+      "createDate": 1775060043091,
+      "createdDate": "01/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106728714,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775060043091,
+      "maskedBuyerName": "Şükrü ÇAĞLARSU",
+      "oldScore": 0,
+      "productId": 732687608,
+      "productSubTitle": "Yangın Söndürme Tüpü Abc Tozlu 1kg Yeni Tarihli Tüv-türk Muayeneye Uyumlu Garantili ",
+      "productTitle": "Yangın Söndürme Tüpü Abc Tozlu 1kg Yeni Tarihli Tüv-türk Muayeneye Uyumlu Garantili",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "metropolyangın",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

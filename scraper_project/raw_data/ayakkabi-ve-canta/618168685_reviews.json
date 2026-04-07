@@ -1,0 +1,128 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "618168685",
+  "collectedAt": "2026-04-05T19:14:50.271Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Çok beğendim",
+      "createDate": 1749677310050,
+      "createdDate": "12/06/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104590794,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "K*** D***",
+      "oldScore": 0,
+      "productId": 618168673,
+      "productSubTitle": "İgor 22Y KS10271-Tobby Solid Çocuk Sandalet - Sarı 21",
+      "productTitle": "İgor 22Y KS10271-Tobby Solid Çocuk Sandalet - Sarı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "pabucline",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Beğendim",
+      "createDate": 1747526056858,
+      "createdDate": "18/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104444759,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/18/76/30/67/75/59/74/07/81/36/03565925472153192326.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/05/18/76/30/67/75/59/74/07/81/36/03565925472153192326.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "D*** K***",
+      "oldScore": 0,
+      "productId": 618168675,
+      "productSubTitle": "İgor 22Y KS10271-Tobby Solid Çocuk Sandalet - Sarı 28",
+      "productTitle": "İgor 22Y KS10271-Tobby Solid Çocuk Sandalet - Sarı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7227741,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/18/76/30/67/75/59/74/07/81/36/03565925472153192326.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "pabucline",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/18/76/30/67/75/59/74/07/81/36/03565925472153192326.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/18/76/30/67/75/59/74/07/81/36/03565925472153192326.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Çok güzel",
+      "createDate": 1747526019580,
+      "createdDate": "18/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104440724,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/18/85/64/02/10/84/98/49/72/20/3117057448580067929.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/05/18/85/64/02/10/84/98/49/72/20/3117057448580067929.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "D*** K***",
+      "oldScore": 0,
+      "productId": 618168682,
+      "productSubTitle": "İgor 22Y KS10271-Tobby Solid Çocuk Sandalet - Sarı 29",
+      "productTitle": "İgor 22Y KS10271-Tobby Solid Çocuk Sandalet - Sarı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7228596,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/18/85/64/02/10/84/98/49/72/20/3117057448580067929.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "pabucline",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/18/85/64/02/10/84/98/49/72/20/3117057448580067929.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/18/85/64/02/10/84/98/49/72/20/3117057448580067929.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

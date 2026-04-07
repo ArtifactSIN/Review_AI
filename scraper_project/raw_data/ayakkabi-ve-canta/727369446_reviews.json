@@ -1,0 +1,98 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "727369446",
+  "collectedAt": "2026-04-05T19:25:21.424Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Biraz sert bi ayakkabı beğenmedim pek",
+      "createDate": 1774721464356,
+      "createdDate": "28/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106691860,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/28/83/17/59/35/80/61/33/82/66/87605692348679501644.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/28/83/17/59/35/80/61/33/82/66/87605692348679501644.jpg"
+      ],
+      "lastModifiedDate": 1774721464356,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 727369446,
+      "productSubTitle": "Renkli Desenli Cırtlı Kız Çocuk Sneaker 1842 P Beyaz 29",
+      "productTitle": "Renkli Desenli Cırtlı Kız Çocuk Sneaker 1842 P Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8523248,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/83/17/59/35/80/61/33/82/66/87605692348679501644.jpg"
+        }
+      ],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "AYAKMOD",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/28/83/17/59/35/80/61/33/82/66/87605692348679501644.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/28/83/17/59/35/80/61/33/82/66/87605692348679501644.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Kalitesi çok iyi değil",
+      "createDate": 1774721213880,
+      "createdDate": "28/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106688139,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/28/56/46/48/83/64/57/02/38/50/45989970853018451652.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/28/56/46/48/83/64/57/02/38/50/45989970853018451652.jpg"
+      ],
+      "lastModifiedDate": 1774721213880,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 727369446,
+      "productSubTitle": "Renkli Desenli Cırtlı Kız Çocuk Sneaker 1842 P Beyaz 29",
+      "productTitle": "Renkli Desenli Cırtlı Kız Çocuk Sneaker 1842 P Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8532014,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/56/46/48/83/64/57/02/38/50/45989970853018451652.jpg"
+        }
+      ],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "AYAKMOD",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/28/56/46/48/83/64/57/02/38/50/45989970853018451652.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/28/56/46/48/83/64/57/02/38/50/45989970853018451652.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

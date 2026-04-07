@@ -1,0 +1,119 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "640445330",
+  "collectedAt": "2026-04-05T18:31:24.300Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "gayet güzel",
+      "createDate": 1773954170139,
+      "createdDate": "20/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106618714,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/20/60/89/20/61/21/28/73/62/91/5686402985691859106.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/20/60/89/20/61/21/28/73/62/91/5686402985691859106.jpg"
+      ],
+      "lastModifiedDate": 1773954170139,
+      "maskedBuyerName": "Y*** A***",
+      "oldScore": 0,
+      "productId": 640445330,
+      "productSubTitle": "Sasa Fosforlu Parlak Kumaş Kalamar Zokası 6 Cm 3 Lü Set - Standart",
+      "productTitle": "Sasa Fosforlu Parlak Kumaş Kalamar Zokası 6 Cm 3 Lü Set",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8485015,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/20/60/89/20/61/21/28/73/62/91/5686402985691859106.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "UcuzaAv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/20/60/89/20/61/21/28/73/62/91/5686402985691859106.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/20/60/89/20/61/21/28/73/62/91/5686402985691859106.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "beklediğimden de güzel",
+      "createDate": 1773919826980,
+      "createdDate": "19/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106613447,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773919826980,
+      "maskedBuyerName": "gürsel özgür",
+      "oldScore": 0,
+      "productId": 640445330,
+      "productSubTitle": "Sasa Fosforlu Parlak Kumaş Kalamar Zokası 6 Cm 3 Lü Set - Standart",
+      "productTitle": "Sasa Fosforlu Parlak Kumaş Kalamar Zokası 6 Cm 3 Lü Set",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "UcuzaAv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "guzel urun",
+      "createDate": 1772218288671,
+      "createdDate": "27/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106489433,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "M*** Ç***",
+      "oldScore": 0,
+      "productId": 640445330,
+      "productSubTitle": "Sasa Fosforlu Parlak Kumaş Kalamar Zokası 6 Cm 3 Lü Set - Standart",
+      "productTitle": "Sasa Fosforlu Parlak Kumaş Kalamar Zokası 6 Cm 3 Lü Set",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "UcuzaAv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

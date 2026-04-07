@@ -1,0 +1,80 @@
+{
+  "categorySlug": "antika-ve-koleksiyon",
+  "productId": "630637532",
+  "collectedAt": "2026-04-05T18:03:05.922Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "istedigim urun aynisi",
+      "createDate": 1765525437203,
+      "createdDate": "12/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105942999,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "MECİT YAŞAR",
+      "oldScore": 0,
+      "productId": 630637532,
+      "productSubTitle": "6.emisyon 20 Turk Lirası Çil Eski Kağıt Para - 39963666b05143ac12 ",
+      "productTitle": "6.emisyon 20 Turk Lirası Çil Eski Kağıt Para - 39963666b05143ac12",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "EdiAntik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Teşekkür ederim",
+      "createDate": 1753094648777,
+      "createdDate": "21/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104874210,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 630637532,
+      "productSubTitle": "6.emisyon 20 Turk Lirası Çil Eski Kağıt Para - 39963666b05143ac12 ",
+      "productTitle": "6.emisyon 20 Turk Lirası Çil Eski Kağıt Para - 39963666b05143ac12",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "EdiAntik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "313337022",
+  "collectedAt": "2026-04-05T20:15:36.880Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel kaliteli ürün paketleme ve kargo sürecide iyiydi",
+      "createDate": 1768479548106,
+      "createdDate": "15/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106210147,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "Ceyhun Salvan",
+      "oldScore": 0,
+      "productId": 313337022,
+      "productSubTitle": "Grohe Grohtherm 800 Termostatik Duş Bataryası (34558000) Krom ",
+      "productTitle": "Grohe Grohtherm 800 Termostatik Duş Bataryası (34558000) Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Yütaş",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

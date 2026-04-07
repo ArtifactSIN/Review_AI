@@ -1,0 +1,89 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "728018668",
+  "collectedAt": "2026-04-05T20:16:52.025Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel ürün",
+      "createDate": 1775114032052,
+      "createdDate": "02/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106738953,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775114032052,
+      "maskedBuyerName": "Hasan Güven",
+      "oldScore": 0,
+      "productId": 728018668,
+      "productSubTitle": "Karteya Yapışkanlı Mutfak Rafı Baharatlık 3lü Metal Kağıt Havluluk Siyah Standlı Şık Mutfak Raf Seti Siyah ",
+      "productTitle": "Karteya Yapışkanlı Mutfak Rafı Baharatlık 3lü Metal Kağıt Havluluk Siyah Standlı Şık Mutfak Raf Seti Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "EYAGRUP",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Sağlam ve kullanışlı",
+      "createDate": 1774729975078,
+      "createdDate": "28/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106688191,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/28/77/66/79/19/85/76/20/14/94/28107897107865188401.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/28/77/66/79/19/85/76/20/14/94/28107897107865188401.jpg"
+      ],
+      "lastModifiedDate": 1774729975078,
+      "maskedBuyerName": "y*** k***",
+      "oldScore": 0,
+      "productId": 728018668,
+      "productSubTitle": "Karteya Yapışkanlı Mutfak Rafı Baharatlık 3lü Metal Kağıt Havluluk Siyah Standlı Şık Mutfak Raf Seti Siyah ",
+      "productTitle": "Karteya Yapışkanlı Mutfak Rafı Baharatlık 3lü Metal Kağıt Havluluk Siyah Standlı Şık Mutfak Raf Seti Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8532613,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/77/66/79/19/85/76/20/14/94/28107897107865188401.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "EYAGRUP",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/28/77/66/79/19/85/76/20/14/94/28107897107865188401.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/28/77/66/79/19/85/76/20/14/94/28107897107865188401.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

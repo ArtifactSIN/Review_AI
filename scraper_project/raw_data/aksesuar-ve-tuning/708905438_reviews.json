@@ -1,0 +1,50 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "708905438",
+  "collectedAt": "2026-04-05T17:24:21.115Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Yeni kullanmaya başladım bakacaz",
+      "createDate": 1775344669898,
+      "createdDate": "05/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106756035,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775344669898,
+      "maskedBuyerName": "s*** e***",
+      "oldScore": 0,
+      "productId": 708905438,
+      "productSubTitle": "Kia Sportage 2026 Model 5d Premium Ekstra Havuzlu Paspas Ve Bagaj Havuzu Set ",
+      "productTitle": "Kia Sportage 2026 Model 5d Premium Ekstra Havuzlu Paspas Ve Bagaj Havuzu Set",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "MatMaster",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

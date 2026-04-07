@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "633166699",
+  "collectedAt": "2026-04-05T18:41:34.444Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Hızlı kargo ve güvenli paketleme. Bir kere kullandık. Başka satıcıya aldığım ürün kargoya verilmedi ve satıcı cevap bile vermedi. ürünü iptal edip İlkmevsim satıcı dan aldım. Mesaj gönderip erken kargoya verilmesini rica ettim, hızlı cevap verdi ve hemen kargoya verdi. Çok teşekkür ederim.",
+      "createDate": 1774982262185,
+      "createdDate": "31/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106712622,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774982262185,
+      "maskedBuyerName": "M*** V***",
+      "oldScore": 0,
+      "productId": 633166699,
+      "productSubTitle": "Ryuji Diamond 3000 M Spin Olta Makinesi",
+      "productTitle": "Ryuji Diamond 3000 M Spin Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "İlkMevsim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün tam istediğim gibi",
+      "createDate": 1767021656327,
+      "createdDate": "29/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106088878,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** T***",
+      "oldScore": 0,
+      "productId": 633166699,
+      "productSubTitle": "Ryuji Diamond 3000 M Spin Olta Makinesi",
+      "productTitle": "Ryuji Diamond 3000 M Spin Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İlkMevsim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

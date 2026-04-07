@@ -1,0 +1,80 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "728589618",
+  "collectedAt": "2026-04-05T17:30:35.949Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Çok kaliteli paketlemesi her şeyi ile mükemmel",
+      "createDate": 1737604669571,
+      "createdDate": "23/01/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103473001,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** K***",
+      "oldScore": 0,
+      "productId": 595224425,
+      "productSubTitle": "Niken Volkswagen Caddy 2020+ Kromlu Cam Rüzgarlığı 2 Li ",
+      "productTitle": "Niken Volkswagen Caddy 2020+ Kromlu Cam Rüzgarlığı 2 Li",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "fstuning",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "kaliteli",
+      "createDate": 1732529928139,
+      "createdDate": "25/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102655200,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "F*** D***",
+      "oldScore": 0,
+      "productId": 595224425,
+      "productSubTitle": "Niken Volkswagen Caddy 2020+ Kromlu Cam Rüzgarlığı 2 Li ",
+      "productTitle": "Niken Volkswagen Caddy 2020+ Kromlu Cam Rüzgarlığı 2 Li",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "fstuning",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

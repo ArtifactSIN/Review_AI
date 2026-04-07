@@ -1,0 +1,110 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "645744001",
+  "collectedAt": "2026-04-05T18:36:43.142Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "bu gün deneme fırsatım oldu.su üstü değil, batıyor. su üstü diye milleti kekliyorlar.ama aksiyonu güzel:))",
+      "createDate": 1761579276897,
+      "createdDate": "27/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105524609,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 645744001,
+      "productSubTitle": "Sea Horse Dp-Skimmer 8,5cm 18gr Su Üstü Sahte Balık '+001",
+      "productTitle": "Sea Horse Dp-Skimmer 8,5cm 18gr Su Üstü Sahte Balık",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "FECRFİSHİNG",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "guzel",
+      "createDate": 1748604577413,
+      "createdDate": "30/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104531044,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "B*** A***",
+      "oldScore": 0,
+      "productId": 652151744,
+      "productSubTitle": "Sea Horse Dp-Skimmer 8,5cm 18gr Su Üstü Sahte Balık '+001",
+      "productTitle": "Sea Horse Dp-Skimmer 8,5cm 18gr Su Üstü Sahte Balık",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AdaAv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "birebir istedigim urunu gondermisler kaliteli urun belli kart icin tesekkurler magazayi kesinlikle tavsiye ederim",
+      "createDate": 1703510307476,
+      "createdDate": "25/12/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097265460,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1703511123982,
+      "maskedBuyerName": "nihat bayar",
+      "oldScore": 0,
+      "productId": 579664490,
+      "productSubTitle": "Sea Horse Dp-Skimmer 8,5cm 18gr Su Üstü Sahte Balık '+001",
+      "productTitle": "Sea Horse Dp-Skimmer 8,5cm 18gr Su Üstü Sahte Balık",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FoçalıAvMarket",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

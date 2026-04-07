@@ -1,0 +1,110 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "594455876",
+  "collectedAt": "2026-04-05T18:42:47.032Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "mükemmel",
+      "createDate": 1767647120023,
+      "createdDate": "06/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106148210,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "K*** K***",
+      "oldScore": 0,
+      "productId": 594455876,
+      "productSubTitle": "Ryuji Luna II 240 cm 4-30 gr Spin Kamış ",
+      "productTitle": "Ryuji Luna II 240 cm 4-30 gr Spin Kamış",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "İlkMevsim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürün çok şık ve kaliteli",
+      "createDate": 1757588915458,
+      "createdDate": "11/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105197935,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ö*** g***",
+      "oldScore": 0,
+      "productId": 594455876,
+      "productSubTitle": "Ryuji Luna II 240 cm 4-30 gr Spin Kamış ",
+      "productTitle": "Ryuji Luna II 240 cm 4-30 gr Spin Kamış",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İlkMevsim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "fiyat performans ürünü",
+      "createDate": 1757239507840,
+      "createdDate": "07/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105180852,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 568313166,
+      "productSubTitle": "Ryuji Luna II 240 cm 4-30 gr Spin Kamış ",
+      "productTitle": "Ryuji Luna II 240 cm 4-30 gr Spin Kamış",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "LİDERAV",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

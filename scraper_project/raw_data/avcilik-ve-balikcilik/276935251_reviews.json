@@ -1,0 +1,110 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "276935251",
+  "collectedAt": "2026-04-05T18:35:44.744Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün pratik kısa teleskopik ve kullanışlı koy çantana bagajına istediğin zaman çık balığa",
+      "createDate": 1765139769682,
+      "createdDate": "07/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105875637,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** Y*** R***",
+      "oldScore": 0,
+      "productId": 484795267,
+      "productSubTitle": "Daiwa Sensor Tele Serisi 300Cm Olta Kamışı",
+      "productTitle": "Daiwa Sensor Tele Serisi 300Cm Olta Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "LamosAv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "gayet şık bir kamış",
+      "createDate": 1764517110794,
+      "createdDate": "30/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105833768,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "y*** ş***",
+      "oldScore": 0,
+      "productId": 484795267,
+      "productSubTitle": "Daiwa Sensor Tele Serisi 300Cm Olta Kamışı",
+      "productTitle": "Daiwa Sensor Tele Serisi 300Cm Olta Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "LamosAv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "3/7/25 tarihinden beri kullanıyorum genelde 30-40gr jig atışı yapıyorum sert kullanmama rağmen hiçbir sorun olmadı yeni başlamama rağmen zarar görmedi kamış almak isteyenlere öneririm",
+      "createDate": 1763473324014,
+      "createdDate": "18/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105729305,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1764169722151,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 276935251,
+      "productSubTitle": "Daiwa Sensor Tele Serisi 300Cm Olta Kamışı",
+      "productTitle": "Daiwa Sensor Tele Serisi 300Cm Olta Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Avlivari",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "593353350",
+  "collectedAt": "2026-04-05T18:31:39.866Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "5-55 olması avantaj kaliteli kamış",
+      "createDate": 1769707249344,
+      "createdDate": "29/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106302270,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 593353350,
+      "productSubTitle": "Ryuji Red Fox 270 Cm 5-55gr 2 Parça Spin Kamışı",
+      "productTitle": "Ryuji Red Fox 270 Cm 5-55gr 2 Parça Spin Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BalkanlarAv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "güzel hafif ürün",
+      "createDate": 1761063714293,
+      "createdDate": "21/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105469889,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** Ç***",
+      "oldScore": 0,
+      "productId": 593353350,
+      "productSubTitle": "Ryuji Red Fox 270 Cm 5-55gr 2 Parça Spin Kamışı",
+      "productTitle": "Ryuji Red Fox 270 Cm 5-55gr 2 Parça Spin Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BalkanlarAv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

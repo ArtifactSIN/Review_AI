@@ -1,0 +1,119 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "489814185",
+  "collectedAt": "2026-04-05T19:21:14.366Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çok beğendim. Kaliteli deri çok güzel. hediye kalem de göndermişler çok teşekkürler",
+      "createDate": 1731583991338,
+      "createdDate": "14/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102441263,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/14/78/57/21/39/61/04/32/94/46/07808452132480238687.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/11/14/78/57/21/39/61/04/32/94/46/07808452132480238687.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ö*** B***",
+      "oldScore": 0,
+      "productId": 489814185,
+      "productSubTitle": "Grande 1414 Hakiki Deri Isme Özel Erkek Cüzdan & Kartlık Ve Kemer (489814185) Siyah",
+      "productTitle": "Grande 1414 Hakiki Deri Isme Özel Erkek Cüzdan & Kartlık Ve Kemer (489814185)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6226004,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/14/78/57/21/39/61/04/32/94/46/07808452132480238687.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HediyeHikayesi",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/14/78/57/21/39/61/04/32/94/46/07808452132480238687.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/14/78/57/21/39/61/04/32/94/46/07808452132480238687.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün süper kaliteli ve hoş birde çakmak vardı hediye ise çok teşekkür ederim.",
+      "createDate": 1729101177570,
+      "createdDate": "16/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101923967,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "K*** A***",
+      "oldScore": 0,
+      "productId": 489814185,
+      "productSubTitle": "Grande 1414 Hakiki Deri Isme Özel Erkek Cüzdan & Kartlık Ve Kemer (489814185) Siyah",
+      "productTitle": "Grande 1414 Hakiki Deri Isme Özel Erkek Cüzdan & Kartlık Ve Kemer (489814185)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HediyeHikayesi",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Devamli aldigim magaza her urunu kaliteli daima her konuda yarmdimci oldular. Teşekkürler",
+      "createDate": 1688639102288,
+      "createdDate": "06/07/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094326641,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Gökhan UZUN",
+      "oldScore": 0,
+      "productId": 489814185,
+      "productSubTitle": "Grande 1414 Hakiki Deri Isme Özel Erkek Cüzdan & Kartlık Ve Kemer (489814185) Siyah",
+      "productTitle": "Grande 1414 Hakiki Deri Isme Özel Erkek Cüzdan & Kartlık Ve Kemer (489814185)",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HediyeHikayesi",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

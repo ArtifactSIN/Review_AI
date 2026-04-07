@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "666197165",
+  "collectedAt": "2026-04-05T19:25:13.795Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün çok güzel tşk",
+      "createDate": 1774969132473,
+      "createdDate": "31/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106707123,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774969132473,
+      "maskedBuyerName": "Adnan DOĞAÇ",
+      "oldScore": 0,
+      "productId": 666197164,
+      "productSubTitle": "Detector Hakiki Deri Özel Dokulu Tasarım Ortopedik Ultra Hafif Erkek Ayakkabı Premium Serisi Siyah 43",
+      "productTitle": "Detector Hakiki Deri Özel Dokulu Tasarım Ortopedik Ultra Hafif Erkek Ayakkabı Premium Serisi Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DETECTOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürün beklediğim gibi",
+      "createDate": 1747860897681,
+      "createdDate": "21/05/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104466044,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 666197154,
+      "productSubTitle": "Detector Hakiki Deri Özel Dokulu Tasarım Ortopedik Ultra Hafif Erkek Ayakkabı Premium Serisi Siyah 42",
+      "productTitle": "Detector Hakiki Deri Özel Dokulu Tasarım Ortopedik Ultra Hafif Erkek Ayakkabı Premium Serisi Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "DETECTOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

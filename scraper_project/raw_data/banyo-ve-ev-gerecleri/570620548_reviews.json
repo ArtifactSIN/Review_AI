@@ -1,0 +1,89 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "570620548",
+  "collectedAt": "2026-04-05T20:14:39.196Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ince plastik yavaş kapak, creavit f/p ürünü, fiyatına değer",
+      "createDate": 1739246030677,
+      "createdDate": "11/02/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103643900,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** K***",
+      "oldScore": 0,
+      "productId": 638990718,
+      "productSubTitle": "Creavit TP325 Terra Asma Kanallı Klozet Yavaş Kapak",
+      "productTitle": "Creavit TP325 Terra Asma Kanallı Klozet Yavaş Kapak",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "ULUMAKYAPIMARKET",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "kargolama mükemmel. ürün kaliteli creavit diyecek bisey yok",
+      "createDate": 1726152183349,
+      "createdDate": "12/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101383745,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/12/81/43/69/19/32/50/35/53/42/6854162789233541777.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/09/12/81/43/69/19/32/50/35/53/42/6854162789233541777.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Z*** Z***",
+      "oldScore": 0,
+      "productId": 570620548,
+      "productSubTitle": "Creavit TP325 Terra Asma Kanallı Klozet Yavaş Kapak",
+      "productTitle": "Creavit TP325 Terra Asma Kanallı Klozet Yavaş Kapak",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 5648372,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/12/81/43/69/19/32/50/35/53/42/6854162789233541777.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "HaceYapıMalzemeleri",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/12/81/43/69/19/32/50/35/53/42/6854162789233541777.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/12/81/43/69/19/32/50/35/53/42/6854162789233541777.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

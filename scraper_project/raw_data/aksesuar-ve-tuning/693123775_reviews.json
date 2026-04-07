@@ -1,0 +1,80 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "693123775",
+  "collectedAt": "2026-04-05T17:38:02.934Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün iyi. Ancak; kargolama kötüydü kartonla ambalajlanıp düzgün gönderilebilirdi. Katlanıp poşete tıkılarak özensizce geldi maalesef. kat izi umarım düzelir.",
+      "createDate": 1773163527629,
+      "createdDate": "10/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106552883,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773163527629,
+      "maskedBuyerName": "m*** ç***",
+      "oldScore": 0,
+      "productId": 693123775,
+      "productSubTitle": "Toyota Corolla Uyumlu Deri Karbon Kapı Eşiği Koruyucu Bant 4 Adet ",
+      "productTitle": "Toyota Corolla Uyumlu Deri Karbon Kapı Eşiği Koruyucu Bant 4 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ototime",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "teşekkürler",
+      "createDate": 1767816108141,
+      "createdDate": "07/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5106158695,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "N*** A***",
+      "oldScore": 0,
+      "productId": 693123775,
+      "productSubTitle": "Toyota Corolla Uyumlu Deri Karbon Kapı Eşiği Koruyucu Bant 4 Adet ",
+      "productTitle": "Toyota Corolla Uyumlu Deri Karbon Kapı Eşiği Koruyucu Bant 4 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "ototime",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

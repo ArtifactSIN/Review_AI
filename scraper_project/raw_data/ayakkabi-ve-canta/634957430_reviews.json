@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "634957430",
+  "collectedAt": "2026-04-05T19:24:21.023Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Babama aldım beğendi 45 giyiyor tam oldu ayağına",
+      "createDate": 1775044176072,
+      "createdDate": "01/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106727860,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775044176072,
+      "maskedBuyerName": "harun türkoğlu",
+      "oldScore": 0,
+      "productId": 634957428,
+      "productSubTitle": "Slazenger Efrat Büyük Beden Erkek Sneaker Ayakkabı Koyu Gri 45",
+      "productTitle": "Slazenger Efrat Büyük Beden Erkek Sneaker Ayakkabı Koyu Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Slazenger",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

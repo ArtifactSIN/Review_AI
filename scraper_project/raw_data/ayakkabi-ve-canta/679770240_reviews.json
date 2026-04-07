@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "679770240",
+  "collectedAt": "2026-04-05T19:19:46.193Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "yumusak taban guzel",
+      "createDate": 1774357514843,
+      "createdDate": "24/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106634682,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774357514843,
+      "maskedBuyerName": "t*** B***",
+      "oldScore": 0,
+      "productId": 679770238,
+      "productSubTitle": "New Balance 480 Kadın Bej Spor Ayakkabı M480cr5 Krem 37.5",
+      "productTitle": "New Balance 480 Kadın Bej Spor Ayakkabı M480cr5 Krem",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KORAYSPOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ve rahat teşekkürler",
+      "createDate": 1773688983253,
+      "createdDate": "16/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106593941,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773688983253,
+      "maskedBuyerName": "A*** S*** A***",
+      "oldScore": 0,
+      "productId": 679770240,
+      "productSubTitle": "New Balance 480 Kadın Bej Spor Ayakkabı M480cr5 Krem 38.5",
+      "productTitle": "New Balance 480 Kadın Bej Spor Ayakkabı M480cr5 Krem",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KORAYSPOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

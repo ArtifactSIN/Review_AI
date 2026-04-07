@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "723180813",
+  "collectedAt": "2026-04-05T19:18:06.339Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "polikarbon özellikte olup diger meteryalli ürünlere göre daha dayanıklı bir ürün ,tavsiye ederim.",
+      "createDate": 1767905550668,
+      "createdDate": "08/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106172094,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "Z*** S***",
+      "oldScore": 0,
+      "productId": 723180813,
+      "productSubTitle": "Madame Coco Chest Valiz/bavul - Gümüş - Orta Boy 8684427217863 Çok Renkli",
+      "productTitle": "Madame Coco Chest Valiz/bavul - Gümüş - Orta Boy 8684427217863 Çok Renkli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MadameCoco",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

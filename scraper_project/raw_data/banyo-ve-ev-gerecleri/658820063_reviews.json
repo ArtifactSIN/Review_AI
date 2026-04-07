@@ -1,0 +1,110 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "658820063",
+  "collectedAt": "2026-04-05T20:23:45.357Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "klibede kullandım, güzel oldu.",
+      "createDate": 1758004750077,
+      "createdDate": "16/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105220495,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Turgut Gümüş",
+      "oldScore": 0,
+      "productId": 658820063,
+      "productSubTitle": "Sinkon K-30 Paslanmaz Karavan Eviye Sifon Dahil Krom 30 x 30",
+      "productTitle": "Sinkon K-30 Paslanmaz Karavan Eviye Sifon Dahil Krom 30 x 30",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "kulvaravm",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Mat renkli ancak üstünde zarar görmesin diye jelatini mevcut. Fp ürünü",
+      "createDate": 1757540224415,
+      "createdDate": "11/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105200162,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ilker akalın",
+      "oldScore": 0,
+      "productId": 658820063,
+      "productSubTitle": "Sinkon K-30 Paslanmaz Karavan Eviye Sifon Dahil Krom 30 x 30",
+      "productTitle": "Sinkon K-30 Paslanmaz Karavan Eviye Sifon Dahil Krom 30 x 30",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "kulvaravm",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "müthiş böyle parıl parıl ürün değil onlar krom kaplamadır zaten. ama kenarının keskinliğini de mi zımparalamaz insan? fabrikadan çıktığı gibi gönderilmiş sadece mavi bant var. iş görür mü görür",
+      "createDate": 1750933534508,
+      "createdDate": "26/06/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104706809,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "F*** y***",
+      "oldScore": 0,
+      "productId": 658820063,
+      "productSubTitle": "Sinkon K-30 Paslanmaz Karavan Eviye Sifon Dahil Krom 30 x 30",
+      "productTitle": "Sinkon K-30 Paslanmaz Karavan Eviye Sifon Dahil Krom 30 x 30",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "kulvaravm",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

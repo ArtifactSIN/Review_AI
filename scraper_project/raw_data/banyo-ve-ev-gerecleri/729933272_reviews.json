@@ -1,0 +1,59 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "729933272",
+  "collectedAt": "2026-04-05T20:22:33.658Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "tesekkur ederim",
+      "createDate": 1774638455885,
+      "createdDate": "27/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106681265,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/83/66/46/77/53/10/60/96/83/22483349077120533587.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/27/83/66/46/77/53/10/60/96/83/22483349077120533587.png"
+      ],
+      "lastModifiedDate": 1774638455885,
+      "maskedBuyerName": "A*** B***",
+      "oldScore": 0,
+      "productId": 729933272,
+      "productSubTitle": "Flex Siyah Kare Mutfak Eviye Bataryası Aç Kapa Kollu 360 Derece Döner Mutfak Batarya Siyah ",
+      "productTitle": "Flex Siyah Kare Mutfak Eviye Bataryası Aç Kapa Kollu 360 Derece Döner Mutfak Batarya Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8522929,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/83/66/46/77/53/10/60/96/83/22483349077120533587.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "VSArmatür",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/83/66/46/77/53/10/60/96/83/22483349077120533587.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/83/66/46/77/53/10/60/96/83/22483349077120533587.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

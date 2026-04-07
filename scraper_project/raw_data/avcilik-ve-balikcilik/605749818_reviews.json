@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "605749818",
+  "collectedAt": "2026-04-05T18:36:45.985Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Selam. Güzel ve ideal",
+      "createDate": 1698749945110,
+      "createdDate": "31/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096275969,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "T*** Ç***",
+      "oldScore": 0,
+      "productId": 566165281,
+      "productSubTitle": "Daiwa Sweepfire Mini 2.40M 20-50Gr Teleskopik Spin Olta Kamışı",
+      "productTitle": "Daiwa Sweepfire Mini 2.40M 20-50Gr Teleskopik Spin Olta Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SihirliOlta",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "daha önce 2,70 cm sini almıştım beğenmiştim. şimdi ise 2,40 cm sini aldım. ikiside hafif yormuyor .Alabalık avında şamandıralı takımda kullanmak için aldım Alacaklara tavsiye ederim",
+      "createDate": 1674123650469,
+      "createdDate": "19/01/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5091908450,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** Y***",
+      "oldScore": 0,
+      "productId": 362192812,
+      "productSubTitle": "Daiwa Sweepfire Mini 2.40M 20-50Gr Teleskopik Spin Olta Kamışı",
+      "productTitle": "Daiwa Sweepfire Mini 2.40M 20-50Gr Teleskopik Spin Olta Kamışı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

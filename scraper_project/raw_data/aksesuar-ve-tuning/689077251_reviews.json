@@ -1,0 +1,50 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "689077251",
+  "collectedAt": "2026-04-05T17:37:38.066Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Eh izdare eder",
+      "createDate": 1773849907985,
+      "createdDate": "18/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106604497,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773849907985,
+      "maskedBuyerName": "İ*** K***",
+      "oldScore": 0,
+      "productId": 689077251,
+      "productSubTitle": "Mucit Home Oto Detay Fırça Seti Araba İçi Dışı Ve Klima Temizleme İçin Farklı Ebatlar ",
+      "productTitle": "Mucit Home Oto Detay Fırça Seti Araba İçi Dışı Ve Klima Temizleme İçin Farklı Ebatlar",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "MucizeHome",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

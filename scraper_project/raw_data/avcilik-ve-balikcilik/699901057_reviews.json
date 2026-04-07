@@ -1,0 +1,59 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "699901057",
+  "collectedAt": "2026-04-05T18:33:37.325Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "parça bağlantı yeri tam oturmuyor bu normal mi",
+      "createDate": 1766756680414,
+      "createdDate": "26/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106072067,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/26/91/80/25/60/06/67/17/19/95/68926861509367543348.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/12/26/91/80/25/60/06/67/17/19/95/68926861509367543348.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 699901057,
+      "productSubTitle": "Ryuji Special 240 Cm 7-44 Gr Spin Kamış",
+      "productTitle": "Ryuji Special 240 Cm 7-44 Gr Spin Kamış",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8175378,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/26/91/80/25/60/06/67/17/19/95/68926861509367543348.png"
+        }
+      ],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "İlkMevsim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/26/91/80/25/60/06/67/17/19/95/68926861509367543348.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/26/91/80/25/60/06/67/17/19/95/68926861509367543348.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "567428195",
+  "collectedAt": "2026-04-05T18:46:43.709Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok büyük iğneler, onu yutacak kefalin lüfer kadar ağzı olması lazım",
+      "createDate": 1727941591500,
+      "createdDate": "03/10/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101728704,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 567428195,
+      "productSubTitle": "Hazır Takım Kıbrıs Oltası 10 Iğneli",
+      "productTitle": "Hazır Takım Kıbrıs Oltası 10 Iğneli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "BerkeBalıkAvı",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Renk Turuncu Hayırlı Olsun",
+      "createDate": 1727179432898,
+      "createdDate": "24/09/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101563832,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/24/81/97/19/79/04/40/38/55/26/3154388019757728751.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/09/24/81/97/19/79/04/40/38/55/26/3154388019757728751.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** Y***",
+      "oldScore": 0,
+      "productId": 567428195,
+      "productSubTitle": "Hazır Takım Kıbrıs Oltası 10 Iğneli",
+      "productTitle": "Hazır Takım Kıbrıs Oltası 10 Iğneli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 5743504,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/24/81/97/19/79/04/40/38/55/26/3154388019757728751.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BerkeBalıkAvı",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/24/81/97/19/79/04/40/38/55/26/3154388019757728751.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/24/81/97/19/79/04/40/38/55/26/3154388019757728751.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "izmirde arayıp bulamadığım kıbrıs olta. saçaklı olduğu için avcılığı artmış.",
+      "createDate": 1622703647038,
+      "createdDate": "03/06/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5085719208,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Emrehan Taşdelen",
+      "oldScore": 0,
+      "productId": 434243563,
+      "productSubTitle": "Hazır Takım Kıbrıs Oltası 10 Iğneli",
+      "productTitle": "Hazır Takım Kıbrıs Oltası 10 Iğneli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "gözdeav",
+      "title": "saçaklı kıbrıs oltası ",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

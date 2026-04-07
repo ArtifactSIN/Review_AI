@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "733816849",
+  "collectedAt": "2026-04-05T18:41:03.477Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çok Teşekkür ederim.Fitmadan önce bu ürünün büyük modelini almıştım hiç sorum etmeden iade aldılar sonra bunu aldım.Çok güzel paketlenerek ürünü göndermişlerdi.çok sağolun Allah İşinizi Gücünüzü Rastgetirsin.",
+      "createDate": 1774985699642,
+      "createdDate": "31/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106716854,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774985699642,
+      "maskedBuyerName": "F*** O***",
+      "oldScore": 0,
+      "productId": 733816849,
+      "productSubTitle": "Shimano Yasei Kauçuk Tor Balık Kepçesi Small",
+      "productTitle": "Shimano Yasei Kauçuk Tor Balık Kepçesi Small",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Avgross",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

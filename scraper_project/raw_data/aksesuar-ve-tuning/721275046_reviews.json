@@ -1,0 +1,59 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "721275046",
+  "collectedAt": "2026-04-05T17:36:44.083Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Nissan note 2011 aracıma taktım çok güzel oldu teşekkür ederim",
+      "createDate": 1774536182832,
+      "createdDate": "26/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106668671,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/61/48/61/78/73/08/49/25/14/71015833407757830699.jpeg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/26/61/48/61/78/73/08/49/25/14/71015833407757830699.jpeg"
+      ],
+      "lastModifiedDate": 1774536182832,
+      "maskedBuyerName": "Kamuran AKALIN",
+      "oldScore": 0,
+      "productId": 721275046,
+      "productSubTitle": "Carub Ara Atkı Oluksuz Metal Siyah 110x4x2 Cm 3 Ayaklı Br0761044 ",
+      "productTitle": "Carub Ara Atkı Oluksuz Metal Siyah 110x4x2 Cm 3 Ayaklı Br0761044",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8521004,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/61/48/61/78/73/08/49/25/14/71015833407757830699.jpeg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MarkaOnBir",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/61/48/61/78/73/08/49/25/14/71015833407757830699.jpeg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/61/48/61/78/73/08/49/25/14/71015833407757830699.jpeg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

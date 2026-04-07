@@ -1,0 +1,110 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "586704442",
+  "collectedAt": "2026-04-05T18:40:19.488Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "deneyemedim kış mevsimi olduğundan",
+      "createDate": 1772654970731,
+      "createdDate": "04/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106521515,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "N*** S***",
+      "oldScore": 0,
+      "productId": 586704442,
+      "productSubTitle": "Fladen Living Shrimp Karides 5 Li Glow Çapari No:6 İğne Standart",
+      "productTitle": "Fladen Living Shrimp Karides 5 Li Glow Çapari No:6 İğne",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürünü gece denedim.Hiç iş yapmadı.Tavsiye etmem.",
+      "createDate": 1769375283234,
+      "createdDate": "26/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106274376,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "F*** P***",
+      "oldScore": 0,
+      "productId": 586704442,
+      "productSubTitle": "Fladen Living Shrimp Karides 5 Li Glow Çapari No:6 İğne Standart",
+      "productTitle": "Fladen Living Shrimp Karides 5 Li Glow Çapari No:6 İğne",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "guzel urun daha denemedim fakat balikin bol oldugu yerde iş yapar gibi duruyor",
+      "createDate": 1765994895622,
+      "createdDate": "17/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105997076,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "U*** I***",
+      "oldScore": 0,
+      "productId": 586704442,
+      "productSubTitle": "Fladen Living Shrimp Karides 5 Li Glow Çapari No:6 İğne Standart",
+      "productTitle": "Fladen Living Shrimp Karides 5 Li Glow Çapari No:6 İğne",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

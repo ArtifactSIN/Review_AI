@@ -1,0 +1,59 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "615705720",
+  "collectedAt": "2026-04-05T19:25:23.569Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çok güzel tavsiye ediyorum 👍",
+      "createDate": 1760382843026,
+      "createdDate": "13/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105407294,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/13/70/91/17/69/94/38/20/38/73/56440543843121448869.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/10/13/70/91/17/69/94/38/20/38/73/56440543843121448869.jpg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 615705720,
+      "productSubTitle": "Jump 28792 Siyah - Fuşya Kadın Outdoor Spor Ayakkabı Bej 37",
+      "productTitle": "Jump 28792 Siyah - Fuşya Kadın Outdoor Spor Ayakkabı Bej",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7799275,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/13/70/91/17/69/94/38/20/38/73/56440543843121448869.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Gabria",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/13/70/91/17/69/94/38/20/38/73/56440543843121448869.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/13/70/91/17/69/94/38/20/38/73/56440543843121448869.jpg"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

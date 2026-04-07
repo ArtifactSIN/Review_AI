@@ -1,0 +1,110 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "695925305",
+  "collectedAt": "2026-04-05T18:28:39.678Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Gayet kaliteli, ebatları her türlü av için yeterli ve boşken dik durabiliyor. İçinde ana bölmeyi 2 parçaya bölen kısım da var",
+      "createDate": 1770887317421,
+      "createdDate": "12/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106382337,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "Sema Öztürk",
+      "oldScore": 0,
+      "productId": 695925305,
+      "productSubTitle": "Ryuji Pro Fisher Spin Balıkçı Çantası ",
+      "productTitle": "Ryuji Pro Fisher Spin Balıkçı Çantası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İlkMevsim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Harika bir balıkçılık çantası Her şeyi düşünmüşler sağlam ve kaliteli 💯👍🙏",
+      "createDate": 1764249261026,
+      "createdDate": "27/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105814170,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "CEM SUZER",
+      "oldScore": 0,
+      "productId": 695925305,
+      "productSubTitle": "Ryuji Pro Fisher Spin Balıkçı Çantası ",
+      "productTitle": "Ryuji Pro Fisher Spin Balıkçı Çantası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İlkMevsim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "mukkemmel",
+      "createDate": 1762362143454,
+      "createdDate": "05/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105607009,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "O*** U***",
+      "oldScore": 0,
+      "productId": 695925305,
+      "productSubTitle": "Ryuji Pro Fisher Spin Balıkçı Çantası ",
+      "productTitle": "Ryuji Pro Fisher Spin Balıkçı Çantası",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İlkMevsim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

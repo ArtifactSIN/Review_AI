@@ -295,3 +295,60 @@ All review jobs finished.
 [2026-04-05T15:44:09.377Z] [INFO] [REVIEW SAVED] /mnt/c/Developer/Review_AI/scraper_project/raw_data/agiz-dis-bakimi/459130031_reviews.json
 [2026-04-05T15:44:09.398Z] [INFO] 
 All review jobs finished.
+[2026-04-05T17:48:03.401Z] [INFO] [RUN] id=review-run_failed_only
+[2026-04-05T17:48:03.404Z] [INFO] [RUN] log file: /mnt/c/Developer/Review_AI/scraper_project/logs/review-run_failed_only.log
+[2026-04-05T17:48:03.405Z] [INFO] [RUN] summary file: /mnt/c/Developer/Review_AI/scraper_project/logs/review-run_failed_only_summary.json
+[2026-04-05T17:48:03.551Z] [INFO] [REVIEWS] loaded 0 review jobs from /mnt/c/Developer/Review_AI/scraper_project/product_ids
+[2026-04-05T17:48:03.553Z] [INFO] [REVIEWS] failed-only mode enabled
+[2026-04-05T17:48:03.555Z] [INFO] [REVIEWS] run is tracked as failed-only mode under runId=review-run_failed_only
+[2026-04-05T17:48:03.557Z] [INFO] [REVIEWS] concurrency: 10
+[2026-04-05T17:48:03.582Z] [INFO] 
+All review jobs finished.
+[2026-04-05T19:41:31.288Z] [INFO] [RUN] id=review-run_failed_only
+[2026-04-05T19:41:31.292Z] [INFO] [RUN] log file: /mnt/c/Developer/Review_AI/scraper_project/logs/review-run_failed_only.log
+[2026-04-05T19:41:31.295Z] [INFO] [RUN] summary file: /mnt/c/Developer/Review_AI/scraper_project/logs/review-run_failed_only_summary.json
+[2026-04-05T19:41:31.847Z] [INFO] [REVIEWS] loaded 1 review jobs from /mnt/c/Developer/Review_AI/scraper_project/product_ids
+[2026-04-05T19:41:31.849Z] [INFO] [REVIEWS] failed-only mode enabled
+[2026-04-05T19:41:31.851Z] [INFO] [REVIEWS] run is tracked as failed-only mode under runId=review-run_failed_only
+[2026-04-05T19:41:31.853Z] [INFO] [REVIEWS] concurrency: 3
+[2026-04-05T19:41:31.855Z] [INFO] 
+[REVIEW WORKER 1] starting ayakkabi-ve-canta/700575126
+[2026-04-05T19:41:37.100Z] [INFO] 
+[START REVIEW] category=ayakkabi-ve-canta productId=700575126 startPage=1
+[2026-04-05T19:41:37.496Z] [INFO] [review ayakkabi-ve-canta/700575126] page=1 +8 reviews (unique=8)
+[2026-04-05T19:41:38.284Z] [INFO] [review ayakkabi-ve-canta/700575126] page=2 +8 reviews (unique=16)
+[2026-04-05T19:41:38.978Z] [INFO] [review ayakkabi-ve-canta/700575126] page=3 +8 reviews (unique=24)
+[2026-04-05T19:41:39.640Z] [INFO] [review ayakkabi-ve-canta/700575126] page=4 +8 reviews (unique=32)
+[2026-04-05T19:41:40.384Z] [INFO] [review ayakkabi-ve-canta/700575126] page=5 +6 reviews (unique=38)
+[2026-04-05T19:41:40.392Z] [INFO] [REVIEW PARTIAL SAVED] /mnt/c/Developer/Review_AI/scraper_project/raw_data/ayakkabi-ve-canta/700575126_reviews.partial.json
+[2026-04-05T19:41:40.406Z] [INFO] [REVIEW SAVED] /mnt/c/Developer/Review_AI/scraper_project/raw_data/ayakkabi-ve-canta/700575126_reviews.json
+[2026-04-05T19:41:40.435Z] [INFO] 
+All review jobs finished.
+[2026-04-05T21:03:10.948Z] [INFO] [RUN] id=review-run_failed_only
+[2026-04-05T21:03:10.950Z] [INFO] [RUN] log file: /mnt/c/Developer/Review_AI/scraper_project/logs/review-run_failed_only.log
+[2026-04-05T21:03:10.952Z] [INFO] [RUN] summary file: /mnt/c/Developer/Review_AI/scraper_project/logs/review-run_failed_only_summary.json
+[2026-04-05T21:03:11.451Z] [INFO] [REVIEWS] loaded 2 review jobs from /mnt/c/Developer/Review_AI/scraper_project/product_ids
+[2026-04-05T21:03:11.453Z] [INFO] [REVIEWS] failed-only mode enabled
+[2026-04-05T21:03:11.455Z] [INFO] [REVIEWS] run is tracked as failed-only mode under runId=review-run_failed_only
+[2026-04-05T21:03:11.458Z] [INFO] [REVIEWS] concurrency: 10
+[2026-04-05T21:03:11.462Z] [INFO] 
+[REVIEW WORKER 1] starting banyo-ve-ev-gerecleri/658302631
+[2026-04-05T21:03:11.476Z] [INFO] 
+[REVIEW WORKER 2] starting banyo-ve-ev-gerecleri/569337684
+[2026-04-05T21:03:17.186Z] [INFO] 
+[START REVIEW] category=banyo-ve-ev-gerecleri productId=569337684 startPage=1
+[2026-04-05T21:03:17.422Z] [INFO] [review banyo-ve-ev-gerecleri/569337684] page=1 +8 reviews (unique=8)
+[2026-04-05T21:03:17.492Z] [INFO] 
+[START REVIEW] category=banyo-ve-ev-gerecleri productId=658302631 startPage=1
+[2026-04-05T21:03:17.726Z] [INFO] [review banyo-ve-ev-gerecleri/658302631] page=1 +1 reviews (unique=1)
+[2026-04-05T21:03:17.741Z] [INFO] [REVIEW SAVED] /mnt/c/Developer/Review_AI/scraper_project/raw_data/banyo-ve-ev-gerecleri/658302631_reviews.json
+[2026-04-05T21:03:18.078Z] [INFO] [review banyo-ve-ev-gerecleri/569337684] page=2 +8 reviews (unique=16)
+[2026-04-05T21:03:18.792Z] [INFO] [review banyo-ve-ev-gerecleri/569337684] page=3 +8 reviews (unique=24)
+[2026-04-05T21:03:19.494Z] [INFO] [review banyo-ve-ev-gerecleri/569337684] page=4 +8 reviews (unique=32)
+[2026-04-05T21:03:20.145Z] [INFO] [review banyo-ve-ev-gerecleri/569337684] page=5 +8 reviews (unique=40)
+[2026-04-05T21:03:20.165Z] [INFO] [REVIEW PARTIAL SAVED] /mnt/c/Developer/Review_AI/scraper_project/raw_data/banyo-ve-ev-gerecleri/569337684_reviews.partial.json
+[2026-04-05T21:03:21.057Z] [INFO] [review banyo-ve-ev-gerecleri/569337684] page=6 +8 reviews (unique=48)
+[2026-04-05T21:03:21.767Z] [INFO] [review banyo-ve-ev-gerecleri/569337684] page=7 +7 reviews (unique=55)
+[2026-04-05T21:03:21.788Z] [INFO] [REVIEW SAVED] /mnt/c/Developer/Review_AI/scraper_project/raw_data/banyo-ve-ev-gerecleri/569337684_reviews.json
+[2026-04-05T21:03:21.810Z] [INFO] 
+All review jobs finished.

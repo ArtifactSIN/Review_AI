@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "543281451",
+  "collectedAt": "2026-04-05T20:10:16.544Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çok faydalı kullanışlı",
+      "createDate": 1721931337777,
+      "createdDate": "25/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100686434,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** k***",
+      "oldScore": 0,
+      "productId": 543281451,
+      "productSubTitle": "Otobir 304 Engelli Tutunma Barı Tutamağı L Tutamak Krom",
+      "productTitle": "Otobir 304 Engelli Tutunma Barı Tutamağı L Tutamak Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "OtobirOtoAksesuar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "yasli kayınpederim için lazımdı işimi gördü sorun yok sağlam bir ürün",
+      "createDate": 1674325143890,
+      "createdDate": "21/01/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 1,
+      "id": 5091945656,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "r*** y***",
+      "oldScore": 0,
+      "productId": 543281451,
+      "productSubTitle": "Otobir 304 Engelli Tutunma Barı Tutamağı L Tutamak Krom",
+      "productTitle": "Otobir 304 Engelli Tutunma Barı Tutamağı L Tutamak Krom",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "OtobirOtoAksesuar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

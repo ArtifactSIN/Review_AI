@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "559784429",
+  "collectedAt": "2026-04-05T18:39:19.058Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "astarı biraz daha ağır olabilir yada içi pedli olabilirdi. çanta tasarımı artık değişmeli...",
+      "createDate": 1689363238879,
+      "createdDate": "14/07/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5094478393,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** g***",
+      "oldScore": 0,
+      "productId": 559784429,
+      "productSubTitle": "MODİBAGS 80 CM 2 GÖZ HAKİ OLTA ÇANTASI",
+      "productTitle": "MODİBAGS 80 CM 2 GÖZ HAKİ OLTA ÇANTASI",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "oltaçantası",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

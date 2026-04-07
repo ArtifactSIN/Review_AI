@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "728018665",
+  "collectedAt": "2026-04-05T20:15:32.368Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel",
+      "createDate": 1775074704274,
+      "createdDate": "01/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106729445,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775074704274,
+      "maskedBuyerName": "ş*** A***",
+      "oldScore": 0,
+      "productId": 728018665,
+      "productSubTitle": "Karteya Paslanmaz Yapışkanlı Siyah Metal Banyo Rafı Düzenleyici 4'lü Set Kancalı Duş Rafı Sabunluk Rafı Siyah ",
+      "productTitle": "Karteya Paslanmaz Yapışkanlı Siyah Metal Banyo Rafı Düzenleyici 4'lü Set Kancalı Duş Rafı Sabunluk Rafı Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "EYAGRUP",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

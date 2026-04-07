@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "734078104",
+  "collectedAt": "2026-04-05T18:30:50.359Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Paketleme süperdi, ürün bildiğim bir ürün, f/p tavsiye ederim",
+      "createDate": 1774373338244,
+      "createdDate": "24/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106634734,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774373338244,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 734078104,
+      "productSubTitle": "Ryuji Luna Iı 270 Cm 4-35g Atarlı Spin Kamış",
+      "productTitle": "Ryuji Luna Iı 270 Cm 4-35g Atarlı Spin Kamış",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "balıkmarketim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

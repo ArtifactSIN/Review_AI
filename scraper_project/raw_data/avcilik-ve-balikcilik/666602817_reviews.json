@@ -1,0 +1,149 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "666602817",
+  "collectedAt": "2026-04-05T18:32:52.221Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 4,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Resimde görüldüğü gibi kullanım açısından bakalım nasıl olacak",
+      "createDate": 1774727715377,
+      "createdDate": "28/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106691062,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/28/69/16/22/84/80/23/44/09/78/13781211041998289450.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/28/69/16/22/84/80/23/44/09/78/13781211041998289450.png"
+      ],
+      "lastModifiedDate": 1774727715377,
+      "maskedBuyerName": "S*** B***",
+      "oldScore": 0,
+      "productId": 666602817,
+      "productSubTitle": "Anchor İğne Çıkartma Ve İğne Bağlama Aparatı",
+      "productTitle": "Anchor İğne Çıkartma Ve İğne Bağlama Aparatı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8528647,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/69/16/22/84/80/23/44/09/78/13781211041998289450.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/28/69/16/22/84/80/23/44/09/78/13781211041998289450.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/28/69/16/22/84/80/23/44/09/78/13781211041998289450.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Teşekkürler",
+      "createDate": 1767261291396,
+      "createdDate": "01/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106117804,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 666602817,
+      "productSubTitle": "Anchor İğne Çıkartma Ve İğne Bağlama Aparatı",
+      "productTitle": "Anchor İğne Çıkartma Ve İğne Bağlama Aparatı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "bana karışık geldi kullanımı",
+      "createDate": 1762451392451,
+      "createdDate": "06/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105613280,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** c***",
+      "oldScore": 0,
+      "productId": 666602817,
+      "productSubTitle": "Anchor İğne Çıkartma Ve İğne Bağlama Aparatı",
+      "productTitle": "Anchor İğne Çıkartma Ve İğne Bağlama Aparatı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "İyi",
+      "createDate": 1759934734410,
+      "createdDate": "08/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105374595,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Ü*** S***",
+      "oldScore": 0,
+      "productId": 666602817,
+      "productSubTitle": "Anchor İğne Çıkartma Ve İğne Bağlama Aparatı",
+      "productTitle": "Anchor İğne Çıkartma Ve İğne Bağlama Aparatı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 4
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "715166720",
+  "collectedAt": "2026-04-05T18:39:31.829Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "beğendim",
+      "createDate": 1765281904913,
+      "createdDate": "09/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105920044,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** E*** B***",
+      "oldScore": 0,
+      "productId": 715166720,
+      "productSubTitle": "Hanfish Gurt 4.5cm 10 Adet Orak Kuyruk Silikon Yem Agt-112 Uv Camo 1 Adet",
+      "productTitle": "Hanfish Gurt 4.5cm 10 Adet Orak Kuyruk Silikon Yem Agt-112 Uv Camo",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TotemBalıkçılık",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

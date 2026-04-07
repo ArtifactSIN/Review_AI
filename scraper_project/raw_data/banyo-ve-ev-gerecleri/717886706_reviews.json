@@ -1,0 +1,124 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "717886706",
+  "collectedAt": "2026-04-05T20:20:08.830Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Fena değil",
+      "createDate": 1771501636942,
+      "createdDate": "19/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106442518,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "P*** C***",
+      "oldScore": 0,
+      "productId": 717886706,
+      "productSubTitle": "Porsima 5305 Çok Amaçlı Organizer 2 Çekmeceli Kozmetik Parfüm Krem Takı Makyaj Düzenleyici Cappuccino",
+      "productTitle": "Porsima 5305 Çok Amaçlı Organizer 2 Çekmeceli Kozmetik Parfüm Krem Takı Makyaj Düzenleyici Cappuccino",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "TuruncuElma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Harika bir ürün çok büyük degil ama ufakta degil.Baya bir dağiniklik topluyor.Birde çekmeceleri çok güzel derin baya ürün topluyor.Rengide çok tatlı.Paketlemede güzeldi.Hizlica geldi.E daha ne olsun.",
+      "createDate": 1770699329519,
+      "createdDate": "10/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106372408,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/10/73/08/33/01/21/03/78/83/15/24851987708805298512.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/02/10/73/08/33/01/21/03/78/83/15/24851987708805298512.png",
+        "https://n11scdn.akamaized.net/a1/{0}/26/02/10/65/66/14/06/68/16/33/84/72/25296656713808626283.png"
+      ],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "M*** A***",
+      "oldScore": 0,
+      "productId": 717886706,
+      "productSubTitle": "Porsima 5305 Çok Amaçlı Organizer 2 Çekmeceli Kozmetik Parfüm Krem Takı Makyaj Düzenleyici Cappuccino",
+      "productTitle": "Porsima 5305 Çok Amaçlı Organizer 2 Çekmeceli Kozmetik Parfüm Krem Takı Makyaj Düzenleyici Cappuccino",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8341860,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/10/73/08/33/01/21/03/78/83/15/24851987708805298512.png"
+        },
+        {
+          "id": 8341861,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/10/65/66/14/06/68/16/33/84/72/25296656713808626283.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TuruncuElma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/10/73/08/33/01/21/03/78/83/15/24851987708805298512.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/10/73/08/33/01/21/03/78/83/15/24851987708805298512.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Urun cok gÜzeldi",
+      "createDate": 1764168546443,
+      "createdDate": "26/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105806900,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "e*** S***",
+      "oldScore": 0,
+      "productId": 717886706,
+      "productSubTitle": "Porsima 5305 Çok Amaçlı Organizer 2 Çekmeceli Kozmetik Parfüm Krem Takı Makyaj Düzenleyici Cappuccino",
+      "productTitle": "Porsima 5305 Çok Amaçlı Organizer 2 Çekmeceli Kozmetik Parfüm Krem Takı Makyaj Düzenleyici Cappuccino",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TuruncuElma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

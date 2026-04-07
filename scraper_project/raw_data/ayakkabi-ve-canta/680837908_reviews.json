@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "680837908",
+  "collectedAt": "2026-04-05T19:24:02.810Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "harika",
+      "createDate": 1764955080176,
+      "createdDate": "05/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105888799,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "s*** h***",
+      "oldScore": 0,
+      "productId": 680837900,
+      "productSubTitle": "Skechers Megasurge 2.0 Büyük Erkek Çocuk Gri Işıklı Spor Ayakkabı 400165l Ccbk Gri 30",
+      "productTitle": "Skechers Megasurge 2.0 Büyük Erkek Çocuk Gri Işıklı Spor Ayakkabı 400165l Ccbk Gri",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Skechers",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

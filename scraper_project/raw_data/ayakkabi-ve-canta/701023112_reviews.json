@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "701023112",
+  "collectedAt": "2026-04-05T19:14:42.588Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ayakkabı tam uydu",
+      "createDate": 1763101096823,
+      "createdDate": "14/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105686616,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 701023112,
+      "productSubTitle": "Adidas Breaknet 3.0 El C Beyaz Erkek Çocuk Sneaker 000000000102267677 Beyaz-Sıyah 33",
+      "productTitle": "Adidas Breaknet 3.0 El C Beyaz Erkek Çocuk Sneaker 000000000102267677 Beyaz-Sıyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KORAYSPOR",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

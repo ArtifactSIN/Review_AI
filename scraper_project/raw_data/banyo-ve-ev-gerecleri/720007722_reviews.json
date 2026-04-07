@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "720007722",
+  "collectedAt": "2026-04-05T20:24:04.956Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Mükemmel kusursuz bir ürün geldi. Boyutu daha önce başka yerden aldığım sabunluklardan da büyük görselden cok daha güzel",
+      "createDate": 1774352106894,
+      "createdDate": "24/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106637301,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774352106894,
+      "maskedBuyerName": "D*** ö***",
+      "oldScore": 0,
+      "productId": 720007722,
+      "productSubTitle": "Gri Mermer Sıvı Sabunluk-gümüş Aksesuarlı ",
+      "productTitle": "Gri Mermer Sıvı Sabunluk-gümüş Aksesuarlı",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TMTDOĞALTAŞ",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

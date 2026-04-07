@@ -1,0 +1,80 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "727722955",
+  "collectedAt": "2026-04-05T17:23:51.523Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel ürün teşekkür ederim",
+      "createDate": 1775331128761,
+      "createdDate": "04/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106750249,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775331128761,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 727722955,
+      "productSubTitle": "100 Parça Oto Fastener Klip Tampon Kapı Pervazı Tutucu Raptiye Klips Seti Kutulu",
+      "productTitle": "100 Parça Oto Fastener Klip Tampon Kapı Pervazı Tutucu Raptiye Klips Seti Kutulu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MeyZone",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "güzel",
+      "createDate": 1772635997759,
+      "createdDate": "04/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106518973,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 727722955,
+      "productSubTitle": "100 Parça Oto Fastener Klip Tampon Kapı Pervazı Tutucu Raptiye Klips Seti Kutulu",
+      "productTitle": "100 Parça Oto Fastener Klip Tampon Kapı Pervazı Tutucu Raptiye Klips Seti Kutulu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MeyZone",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

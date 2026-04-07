@@ -1,0 +1,80 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "713020073",
+  "collectedAt": "2026-04-05T19:20:14.168Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Çok güzel arka bant cıkartıladabılıyor ıcı de cok sık",
+      "createDate": 1773777627805,
+      "createdDate": "17/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106606009,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773777627805,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 713019804,
+      "productSubTitle": "Puma Shıbuı Mule Sandalet 394883 01 Siyah 44",
+      "productTitle": "Puma Shıbuı Mule Sandalet 394883 01 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Puma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Kaliteeee",
+      "createDate": 1766427259973,
+      "createdDate": "22/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106039226,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "abdullah cengiz canikli",
+      "oldScore": 0,
+      "productId": 713020218,
+      "productSubTitle": "Puma Shıbuı Mule Sandalet 394883 01 Siyah 43",
+      "productTitle": "Puma Shıbuı Mule Sandalet 394883 01 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Puma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

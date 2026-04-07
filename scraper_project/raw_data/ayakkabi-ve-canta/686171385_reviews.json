@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "686171385",
+  "collectedAt": "2026-04-05T19:16:15.067Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "Ürünü piyasanın altında bir fiyata aldım teşekkürler.",
+      "createDate": 1765913661840,
+      "createdDate": "16/12/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105990452,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "emrah özdemir",
+      "oldScore": 0,
+      "productId": 686171375,
+      "productSubTitle": "Skechers Storm Blazer - Hydropolis Büyük Kız Çocuk Siyah Bot 303461l Bkhp Siyah 35",
+      "productTitle": "Skechers Storm Blazer - Hydropolis Büyük Kız Çocuk Siyah Bot 303461l Bkhp Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Skechers",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

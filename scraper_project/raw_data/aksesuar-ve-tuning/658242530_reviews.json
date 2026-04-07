@@ -1,0 +1,110 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "658242530",
+  "collectedAt": "2026-04-05T17:21:09.896Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "teşekkürler",
+      "createDate": 1774539423222,
+      "createdDate": "26/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106669183,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774539423222,
+      "maskedBuyerName": "F*** S***",
+      "oldScore": 0,
+      "productId": 658242530,
+      "productSubTitle": "Soldex 200Gr 0.75Mm 60/40 Lehim Teli",
+      "productTitle": "Soldex 200Gr 0.75Mm 60/40 Lehim Teli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "herbirivar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Kaliteli bir ürün teşekkür ederim",
+      "createDate": 1753112995821,
+      "createdDate": "21/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104872382,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** P***",
+      "oldScore": 0,
+      "productId": 658242530,
+      "productSubTitle": "Soldex 200Gr 0.75Mm 60/40 Lehim Teli",
+      "productTitle": "Soldex 200Gr 0.75Mm 60/40 Lehim Teli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "herbirivar",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Güzel ürün evveldede kullandım.",
+      "createDate": 1653167397247,
+      "createdDate": "22/05/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5089611841,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 539703767,
+      "productSubTitle": "Soldex 200Gr 0.75Mm 60/40 Lehim Teli",
+      "productTitle": "Soldex 200Gr 0.75Mm 60/40 Lehim Teli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "turnafor",
+      "title": "lehim teli 200gr ",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

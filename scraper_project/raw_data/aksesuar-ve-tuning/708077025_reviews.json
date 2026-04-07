@@ -1,0 +1,50 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "708077025",
+  "collectedAt": "2026-04-05T17:38:29.704Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Hızlı kargo bir poşete sarılaydı iyiydi",
+      "createDate": 1773053161055,
+      "createdDate": "09/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106545532,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773053161055,
+      "maskedBuyerName": "E*** T***",
+      "oldScore": 0,
+      "productId": 708077025,
+      "productSubTitle": "Kia Sportage 2026 3d Bagaj Havuzu ",
+      "productTitle": "Kia Sportage 2026 3d Bagaj Havuzu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "WallTech-Store",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

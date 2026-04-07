@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "607252600",
+  "collectedAt": "2026-04-05T18:34:25.460Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "İyi fiyat.",
+      "createDate": 1769015930305,
+      "createdDate": "21/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106243646,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "V*** T***",
+      "oldScore": 0,
+      "productId": 607252600,
+      "productSubTitle": "Hedyex 4nm Palet Yem Sazan Alabalık İçin Palet Yem 2 KG",
+      "productTitle": "Hedyex 4nm Palet Yem Sazan Alabalık İçin Palet Yem",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Hesapex",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Ürünü henüz kullanmadım ama bu fiyata gayet iyi bence. Mağaza ise çok ilgili. Teşekkürler.",
+      "createDate": 1722939454058,
+      "createdDate": "06/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100853219,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** A***",
+      "oldScore": 0,
+      "productId": 607252600,
+      "productSubTitle": "Hedyex 4nm Palet Yem Sazan Alabalık İçin Palet Yem 2 KG",
+      "productTitle": "Hedyex 4nm Palet Yem Sazan Alabalık İçin Palet Yem",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Hesapex",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

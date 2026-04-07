@@ -1,0 +1,103 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "666651133",
+  "collectedAt": "2026-04-05T20:16:29.626Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Piyasadaki en iyi tüy temizleme cihazı.",
+      "createDate": 1760496667272,
+      "createdDate": "15/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105423950,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/15/86/96/19/78/21/24/04/68/52/5549982342223476235.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/10/15/86/96/19/78/21/24/04/68/52/5549982342223476235.png",
+        "https://n11scdn.akamaized.net/a1/{0}/25/10/15/67/72/15/76/55/76/94/19/07/3892002045319794316.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "F*** T***",
+      "oldScore": 0,
+      "productId": 666651133,
+      "productSubTitle": "Philips GCA2100/20 Tüy Temizleme Makinesi",
+      "productTitle": "Philips GCA2100/20 Tüy Temizleme Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7804700,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/15/86/96/19/78/21/24/04/68/52/5549982342223476235.png"
+        },
+        {
+          "id": 7804701,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/15/67/72/15/76/55/76/94/19/07/3892002045319794316.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "hesaplimagaza",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/15/86/96/19/78/21/24/04/68/52/5549982342223476235.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/15/86/96/19/78/21/24/04/68/52/5549982342223476235.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Süper ürün şarjı çok uzun gidiyor",
+      "createDate": 1757351709627,
+      "createdDate": "08/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105178649,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/08/91/63/12/97/45/80/21/79/07/52878455746024457559.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/09/08/91/63/12/97/45/80/21/79/07/52878455746024457559.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "M*** E***",
+      "oldScore": 0,
+      "productId": 666651133,
+      "productSubTitle": "Philips GCA2100/20 Tüy Temizleme Makinesi",
+      "productTitle": "Philips GCA2100/20 Tüy Temizleme Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7658887,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/08/91/63/12/97/45/80/21/79/07/52878455746024457559.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "hesaplimagaza",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/08/91/63/12/97/45/80/21/79/07/52878455746024457559.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/08/91/63/12/97/45/80/21/79/07/52878455746024457559.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

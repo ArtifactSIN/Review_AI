@@ -1,0 +1,149 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "689647668",
+  "collectedAt": "2026-04-05T18:27:24.619Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 4,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "En uzun hali 5.40 olsaydı harika olurdu . 3,60/4.50/5.40 versiyonu üretilse devrim olur",
+      "createDate": 1764190072840,
+      "createdDate": "26/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105805684,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "C*** T***",
+      "oldScore": 0,
+      "productId": 689647668,
+      "productSubTitle": "Oskar Master Ayarlanabilir Göl Kamışı 720cm ",
+      "productTitle": "Oskar Master Ayarlanabilir Göl Kamışı 720cm",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "çok güzel",
+      "createDate": 1761992364938,
+      "createdDate": "01/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105567962,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "a*** k***",
+      "oldScore": 0,
+      "productId": 689647668,
+      "productSubTitle": "Oskar Master Ayarlanabilir Göl Kamışı 720cm ",
+      "productTitle": "Oskar Master Ayarlanabilir Göl Kamışı 720cm",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "cumartesi sipariş pazartesi akşam evde mutesem tahminimden daha iyi cikti çok beyendim harika 7.20 nin altinda istediğin boyda avlanabilirsin",
+      "createDate": 1760984501934,
+      "createdDate": "20/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105460548,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "haşim gül",
+      "oldScore": 0,
+      "productId": 689647668,
+      "productSubTitle": "Oskar Master Ayarlanabilir Göl Kamışı 720cm ",
+      "productTitle": "Oskar Master Ayarlanabilir Göl Kamışı 720cm",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Fiyatına göre gayet güzel",
+      "createDate": 1759861101485,
+      "createdDate": "07/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105374884,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/07/80/62/17/51/92/32/04/45/70/18513346435150557309.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/10/07/80/62/17/51/92/32/04/45/70/18513346435150557309.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 689647668,
+      "productSubTitle": "Oskar Master Ayarlanabilir Göl Kamışı 720cm ",
+      "productTitle": "Oskar Master Ayarlanabilir Göl Kamışı 720cm",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 7771287,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/07/80/62/17/51/92/32/04/45/70/18513346435150557309.png"
+        }
+      ],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/07/80/62/17/51/92/32/04/45/70/18513346435150557309.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/07/80/62/17/51/92/32/04/45/70/18513346435150557309.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 4
+  }
+}

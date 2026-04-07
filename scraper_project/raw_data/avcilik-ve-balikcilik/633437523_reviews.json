@@ -1,0 +1,110 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "633437523",
+  "collectedAt": "2026-04-05T18:36:56.653Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "güzel ürün",
+      "createDate": 1772549051242,
+      "createdDate": "03/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106514504,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "F*** Ö***",
+      "oldScore": 0,
+      "productId": 633437523,
+      "productSubTitle": "Fudo Tek İğne Gezer Takım 40 G",
+      "productTitle": "Fudo Tek İğne Gezer Takım 40 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "trançabalıkçılık",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Hızlı gönder paketleme güzel",
+      "createDate": 1761319304353,
+      "createdDate": "24/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105502366,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** H*** E***",
+      "oldScore": 0,
+      "productId": 633437523,
+      "productSubTitle": "Fudo Tek İğne Gezer Takım 40 G",
+      "productTitle": "Fudo Tek İğne Gezer Takım 40 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "trançabalıkçılık",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Balıklar Kaçmaz",
+      "createDate": 1724175258232,
+      "createdDate": "20/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101051843,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** Y***",
+      "oldScore": 0,
+      "productId": 633437523,
+      "productSubTitle": "Fudo Tek İğne Gezer Takım 40 G",
+      "productTitle": "Fudo Tek İğne Gezer Takım 40 G",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "trançabalıkçılık",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

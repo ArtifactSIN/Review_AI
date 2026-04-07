@@ -1,0 +1,110 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "672096418",
+  "collectedAt": "2026-04-05T19:18:50.542Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": false,
+      "contents": "eşime aldım çok beğendi.",
+      "createDate": 1750173942958,
+      "createdDate": "17/06/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104647021,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** k***",
+      "oldScore": 0,
+      "productId": 639422760,
+      "productSubTitle": "Adidas Crazychaos 2000 Kadın Günlük Ayakkabı Ih0308-beyaz Beyaz 36",
+      "productTitle": "Adidas Crazychaos 2000 Kadın Günlük Ayakkabı Ih0308-beyaz Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "INSTREET",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Çok güzel aşırı rahat bir ayakkabı.",
+      "createDate": 1731610100581,
+      "createdDate": "14/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102455817,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1748260544365,
+      "maskedBuyerName": "canan cetinkaya",
+      "oldScore": 0,
+      "productId": 632291813,
+      "productSubTitle": "Adidas Crazychaos 2000 Kadın Günlük Ayakkabı Ih0308-beyaz Beyaz 36.5",
+      "productTitle": "Adidas Crazychaos 2000 Kadın Günlük Ayakkabı Ih0308-beyaz Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TekemsporOnline",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Kaliteli",
+      "createDate": 1724694642437,
+      "createdDate": "26/08/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5101131769,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1748260580628,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 632291814,
+      "productSubTitle": "Adidas Crazychaos 2000 Kadın Günlük Ayakkabı Ih0308-beyaz Beyaz 36",
+      "productTitle": "Adidas Crazychaos 2000 Kadın Günlük Ayakkabı Ih0308-beyaz Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TekemsporOnline",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

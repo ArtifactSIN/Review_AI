@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "654944889",
+  "collectedAt": "2026-04-05T18:30:38.968Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün görüntü olarak çok güzel dokuması güzel kalama sesi güzel kalın tel metal kafa bence tam bir fiyat performans ürünü",
+      "createDate": 1775215543551,
+      "createdDate": "03/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106748818,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775215543551,
+      "maskedBuyerName": "M*** B***",
+      "oldScore": 0,
+      "productId": 654944889,
+      "productSubTitle": "Remixon Expert 3000 Spin Olta Makinesi ",
+      "productTitle": "Remixon Expert 3000 Spin Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "İlkMevsim",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "518991377",
+  "collectedAt": "2026-04-05T17:19:01.060Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "iş görür",
+      "createDate": 1736062544103,
+      "createdDate": "05/01/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103306855,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Emre YILMAZ",
+      "oldScore": 0,
+      "productId": 518991377,
+      "productSubTitle": "Kar Zinciri Pratik Sök Tak Takmatik Kar Buz Patinaj Zinciri 10 Lu",
+      "productTitle": "Kar Zinciri Pratik Sök Tak Takmatik Kar Buz Patinaj Zinciri 10 Lu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "hediyenibegen",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "ürünü çok beğendim kaliteli",
+      "createDate": 1643787526105,
+      "createdDate": "02/02/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5088603174,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "mustafa imren",
+      "oldScore": 0,
+      "productId": 518999279,
+      "productSubTitle": "Kar Zinciri Pratik Sök Tak Takmatik Kar Buz Patinaj Zinciri 10 Lu",
+      "productTitle": "Kar Zinciri Pratik Sök Tak Takmatik Kar Buz Patinaj Zinciri 10 Lu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "eryatex",
+      "title": "iyi",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

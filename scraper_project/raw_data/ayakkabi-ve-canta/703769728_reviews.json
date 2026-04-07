@@ -1,0 +1,110 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "703769728",
+  "collectedAt": "2026-04-05T19:16:38.119Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Tartışılmaz Camper kalitesi.",
+      "createDate": 1773639702525,
+      "createdDate": "16/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106594164,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773639702525,
+      "maskedBuyerName": "B*** A***",
+      "oldScore": 0,
+      "productId": 703769734,
+      "productSubTitle": "Camper Peu Pista GM Erkek Ayakkabı K300285-041 Siyah 43 43",
+      "productTitle": "Camper Peu Pista GM Erkek Ayakkabı K300285-041 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KlaudPremiumOutlet",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "kalite tavsiye ederim",
+      "createDate": 1772551589760,
+      "createdDate": "03/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106512983,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "B*** D***",
+      "oldScore": 0,
+      "productId": 718311185,
+      "productSubTitle": "Camper Peu Pista GM Erkek Ayakkabı K300285-041 Siyah 42 42",
+      "productTitle": "Camper Peu Pista GM Erkek Ayakkabı K300285-041 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "markastok",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "güzel ve orcinal ürün",
+      "createDate": 1762781922212,
+      "createdDate": "10/11/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105649975,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "g*** b***",
+      "oldScore": 0,
+      "productId": 704599522,
+      "productSubTitle": "Camper Peu Pista GM Erkek Ayakkabı K300285-041 Siyah 42 42",
+      "productTitle": "Camper Peu Pista GM Erkek Ayakkabı K300285-041 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AyakkabıOnline",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

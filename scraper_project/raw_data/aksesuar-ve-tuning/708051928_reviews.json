@@ -1,0 +1,80 @@
+{
+  "categorySlug": "aksesuar-ve-tuning",
+  "productId": "708051928",
+  "collectedAt": "2026-04-05T17:27:12.927Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Ürün daha önce kullandığım kalitede",
+      "createDate": 1770205567098,
+      "createdDate": "04/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106330999,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "Ömer Kuzucuoğlu",
+      "oldScore": 0,
+      "productId": 708051928,
+      "productSubTitle": "Rizline Renault Megane 4 Sedan 2024 Araca Özel Tasarım 3d Havuzlu Paspas ",
+      "productTitle": "Rizline Renault Megane 4 Sedan 2024 Araca Özel Tasarım 3d Havuzlu Paspas",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "WallTech-Store",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Araca tam oturdu tavsiye ederim",
+      "createDate": 1767276485264,
+      "createdDate": "01/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106113544,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "E*** Ö***",
+      "oldScore": 0,
+      "productId": 708051928,
+      "productSubTitle": "Rizline Renault Megane 4 Sedan 2024 Araca Özel Tasarım 3d Havuzlu Paspas ",
+      "productTitle": "Rizline Renault Megane 4 Sedan 2024 Araca Özel Tasarım 3d Havuzlu Paspas",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "WallTech-Store",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

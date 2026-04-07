@@ -1,0 +1,64 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "724913151",
+  "collectedAt": "2026-04-05T18:45:53.110Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Güzel bir açılır kapanır tutamak/ayak. Sert tok bir mandalı var.",
+      "createDate": 1775147701038,
+      "createdDate": "02/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106741912,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/02/64/65/46/24/41/97/01/24/45/42175660689331895516.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/04/02/64/65/46/24/41/97/01/24/45/42175660689331895516.png",
+        "https://n11scdn.akamaized.net/a1/{0}/26/04/02/63/14/91/84/28/88/47/56/46/38196252721911281813.png"
+      ],
+      "lastModifiedDate": 1775147701038,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 724913151,
+      "productSubTitle": "Hunthink Taktikal Katlanir El Tutamagi",
+      "productTitle": "Hunthink Taktikal Katlanir El Tutamagi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8556094,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/64/65/46/24/41/97/01/24/45/42175660689331895516.png"
+        },
+        {
+          "id": 8556095,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/63/14/91/84/28/88/47/56/46/38196252721911281813.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "SpotavOutdoor",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/02/64/65/46/24/41/97/01/24/45/42175660689331895516.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/02/64/65/46/24/41/97/01/24/45/42175660689331895516.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

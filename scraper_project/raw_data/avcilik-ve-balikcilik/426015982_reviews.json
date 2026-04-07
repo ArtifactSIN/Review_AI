@@ -1,0 +1,119 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "426015982",
+  "collectedAt": "2026-04-05T18:32:38.373Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Teşekkürler",
+      "createDate": 1697188549039,
+      "createdDate": "13/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5095818862,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "E*** A***",
+      "oldScore": 0,
+      "productId": 426015982,
+      "productSubTitle": "Antenli Merca, Sinarit, Trança Takımı Doğaçlama Fosforlu, Gezerli 50Gr",
+      "productTitle": "Antenli Merca, Sinarit, Trança Takımı Doğaçlama Fosforlu, Gezerli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "trançabalıkçılık",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Beklediğimden iyi",
+      "createDate": 1681246172225,
+      "createdDate": "11/04/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5093160429,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/04/11/73/77/92/52/81/75/10/88/63/95552405575488091410.jpeg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/23/04/11/73/77/92/52/81/75/10/88/63/95552405575488091410.jpeg"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 426015982,
+      "productSubTitle": "Antenli Merca, Sinarit, Trança Takımı Doğaçlama Fosforlu, Gezerli 50Gr",
+      "productTitle": "Antenli Merca, Sinarit, Trança Takımı Doğaçlama Fosforlu, Gezerli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 1847684,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/04/11/73/77/92/52/81/75/10/88/63/95552405575488091410.jpeg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "trançabalıkçılık",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/04/11/73/77/92/52/81/75/10/88/63/95552405575488091410.jpeg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/04/11/73/77/92/52/81/75/10/88/63/95552405575488091410.jpeg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürün göründüğü gibi",
+      "createDate": 1615470136697,
+      "createdDate": "11/03/2021",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5084542655,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "ABDULKADİR ÖZDEMİR",
+      "oldScore": 0,
+      "productId": 426015982,
+      "productSubTitle": "Antenli Merca, Sinarit, Trança Takımı Doğaçlama Fosforlu, Gezerli 50Gr",
+      "productTitle": "Antenli Merca, Sinarit, Trança Takımı Doğaçlama Fosforlu, Gezerli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "trançabalıkçılık",
+      "title": "güvenilir satici",
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

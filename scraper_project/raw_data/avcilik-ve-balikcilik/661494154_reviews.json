@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "661494154",
+  "collectedAt": "2026-04-05T18:35:58.882Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "teşekkürler güzel",
+      "createDate": 1775140011118,
+      "createdDate": "02/04/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106735576,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1775140011118,
+      "maskedBuyerName": "Murat Seymen",
+      "oldScore": 0,
+      "productId": 661494154,
+      "productSubTitle": "Shimano Nexave Fı 4000 Hg Spin Olta Makinesi",
+      "productTitle": "Shimano Nexave Fı 4000 Hg Spin Olta Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "FoçalıAvMarket",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

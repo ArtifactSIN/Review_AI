@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "496319704",
+  "collectedAt": "2026-04-05T20:20:42.737Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "severek kullabıyorum",
+      "createDate": 1713262416679,
+      "createdDate": "16/04/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099108650,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1752147144037,
+      "maskedBuyerName": "g*** Ş***",
+      "oldScore": 0,
+      "productId": 496319704,
+      "productSubTitle": "Metal Kancalı Mandal Askı 12 Li Beyaz - Gümüş ",
+      "productTitle": "Metal Kancalı Mandal Askı 12 Li Beyaz - Gümüş",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AskıDünyası",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Çamaşır asarken mandal olarak da kullanıyorum",
+      "createDate": 1696954481474,
+      "createdDate": "10/10/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5095718504,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1752147144037,
+      "maskedBuyerName": "N*** A***",
+      "oldScore": 0,
+      "productId": 496319704,
+      "productSubTitle": "Metal Kancalı Mandal Askı 12 Li Beyaz - Gümüş ",
+      "productTitle": "Metal Kancalı Mandal Askı 12 Li Beyaz - Gümüş",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AskıDünyası",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

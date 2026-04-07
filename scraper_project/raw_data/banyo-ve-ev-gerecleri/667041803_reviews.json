@@ -1,0 +1,110 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "667041803",
+  "collectedAt": "2026-04-05T20:15:27.743Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ürün",
+      "createDate": 1772726170936,
+      "createdDate": "05/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106531974,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "K*** K***",
+      "oldScore": 0,
+      "productId": 667041803,
+      "productSubTitle": "Madame Coco Nuage 2'li Baskılı Hurç - Beyaz/açık Mavi 8684427147689 Çok Renkli",
+      "productTitle": "Madame Coco Nuage 2'li Baskılı Hurç - Beyaz/açık Mavi 8684427147689 Çok Renkli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MadameCoco",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Mağazadansa burdan daha uyguna aldım",
+      "createDate": 1768160142107,
+      "createdDate": "11/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106188120,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "S*** A***",
+      "oldScore": 0,
+      "productId": 667041803,
+      "productSubTitle": "Madame Coco Nuage 2'li Baskılı Hurç - Beyaz/açık Mavi 8684427147689 Çok Renkli",
+      "productTitle": "Madame Coco Nuage 2'li Baskılı Hurç - Beyaz/açık Mavi 8684427147689 Çok Renkli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MadameCoco",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "ürün güzel geldi çok kaliteli ama kargo 1 haftadan fazla bekledim berbat",
+      "createDate": 1761163776125,
+      "createdDate": "22/10/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105480665,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "S*** K***",
+      "oldScore": 0,
+      "productId": 667041803,
+      "productSubTitle": "Madame Coco Nuage 2'li Baskılı Hurç - Beyaz/açık Mavi 8684427147689 Çok Renkli",
+      "productTitle": "Madame Coco Nuage 2'li Baskılı Hurç - Beyaz/açık Mavi 8684427147689 Çok Renkli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MadameCoco",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

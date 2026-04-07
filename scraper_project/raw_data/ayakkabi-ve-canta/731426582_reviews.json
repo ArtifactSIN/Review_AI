@@ -1,0 +1,94 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "731426582",
+  "collectedAt": "2026-04-05T19:17:49.825Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Takip ettiğim bir modeldi uyguna geldi teşekkür ederim.",
+      "createDate": 1741361727723,
+      "createdDate": "07/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103862978,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/07/50/83/02/73/11/60/49/81/32/13863926757997723278.jpg",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/25/03/07/50/83/02/73/11/60/49/81/32/13863926757997723278.jpg",
+        "https://n11scdn.akamaized.net/a1/{0}/25/03/07/59/51/54/27/03/87/41/41/01/07994201969190483868.jpg"
+      ],
+      "lastModifiedDate": 1748254599561,
+      "maskedBuyerName": "Ç*** Ö***",
+      "oldScore": 0,
+      "productId": 652936035,
+      "productSubTitle": "Skechers D'Lites  -  Glamour Feels Kadın Beyaz Sneakers 13087 Wsl Beyaz 39",
+      "productTitle": "Skechers D'Lites  -  Glamour Feels Kadın Beyaz Sneakers 13087 Wsl Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6931633,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/07/50/83/02/73/11/60/49/81/32/13863926757997723278.jpg"
+        },
+        {
+          "id": 6931634,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/07/59/51/54/27/03/87/41/41/01/07994201969190483868.jpg"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "pointspor",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/07/50/83/02/73/11/60/49/81/32/13863926757997723278.jpg",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/07/50/83/02/73/11/60/49/81/32/13863926757997723278.jpg"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Uyguna geldi",
+      "createDate": 1739340251377,
+      "createdDate": "12/02/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5103646049,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1748254594693,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 652936033,
+      "productSubTitle": "Skechers D'Lites  -  Glamour Feels Kadın Beyaz Sneakers 13087 Wsl Beyaz 38",
+      "productTitle": "Skechers D'Lites  -  Glamour Feels Kadın Beyaz Sneakers 13087 Wsl Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "pointspor",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

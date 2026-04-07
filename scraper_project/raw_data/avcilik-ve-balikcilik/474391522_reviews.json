@@ -1,0 +1,119 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "474391522",
+  "collectedAt": "2026-04-05T18:30:45.106Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Kaliteli bir ürün",
+      "createDate": 1745072550737,
+      "createdDate": "19/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104214003,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "B*** B***",
+      "oldScore": 0,
+      "productId": 474391522,
+      "productSubTitle": "Shimano Fx 2000 Fc Lrf Makinesi",
+      "productTitle": "Shimano Fx 2000 Fc Lrf Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Avgross",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "tartışılmaz bir marka",
+      "createDate": 1730788816532,
+      "createdDate": "05/11/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5102253108,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/05/84/35/72/62/77/68/72/06/87/12075718077486682085.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/24/11/05/84/35/72/62/77/68/72/06/87/12075718077486682085.png"
+      ],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "O*** G***",
+      "oldScore": 0,
+      "productId": 393149150,
+      "productSubTitle": "Shimano Fx 2000 Fc Lrf Makinesi",
+      "productTitle": "Shimano Fx 2000 Fc Lrf Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 6130855,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/05/84/35/72/62/77/68/72/06/87/12075718077486682085.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MUTLUBALIKÇILIK",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/05/84/35/72/62/77/68/72/06/87/12075718077486682085.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/05/84/35/72/62/77/68/72/06/87/12075718077486682085.png"
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Ürün güzel parasını hak ediyor.Satıcı ilgili kargom sağlam elime ulaştı.Satıcıya ve N11 e teşekkürler.Yalnız aras kargo ile çalışmaları hayal kırıklığı başka siparişlerim de vardı.O siparişlerim dün elime ulaştı.Aras kargo diğer kargo şirketinden bir gün sonra teslim etti.Satıcıya ve N11e teşekkürler",
+      "createDate": 1672832897794,
+      "createdDate": "04/01/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5091624270,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "m*** Y***",
+      "oldScore": 0,
+      "productId": 547857466,
+      "productSubTitle": "Shimano FX2000FC LRF Makine",
+      "productTitle": "Shimano Fx 2000 Fc Lrf Makinesi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "efefishing",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

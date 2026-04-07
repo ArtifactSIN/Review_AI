@@ -1,0 +1,119 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "597254022",
+  "collectedAt": "2026-04-05T18:31:44.974Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "gayet iyi",
+      "createDate": 1774463873576,
+      "createdDate": "25/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106650949,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/53/42/75/08/15/53/54/60/92/38653216777919773861.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/25/53/42/75/08/15/53/54/60/92/38653216777919773861.png"
+      ],
+      "lastModifiedDate": 1774463873576,
+      "maskedBuyerName": "ı*** ö***",
+      "oldScore": 0,
+      "productId": 597254022,
+      "productSubTitle": "Shufa Kurşunlu Kalamar Zokası 3.0 Gr 10'lu Set Sff8679120681401 3.0",
+      "productTitle": "Shufa Kurşunlu Kalamar Zokası 3.0 Gr 10'lu Set Sff8679120681401",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8506581,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/53/42/75/08/15/53/54/60/92/38653216777919773861.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "shufasports",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/53/42/75/08/15/53/54/60/92/38653216777919773861.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/53/42/75/08/15/53/54/60/92/38653216777919773861.png"
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Erim, aksiyon, renk ve malzeme kalitesi çok iyi.",
+      "createDate": 1771964818717,
+      "createdDate": "24/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106476880,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "T*** H***",
+      "oldScore": 0,
+      "productId": 597254022,
+      "productSubTitle": "Shufa Kurşunlu Kalamar Zokası 3.0 Gr 10'lu Set Sff8679120681401 3.0",
+      "productTitle": "Shufa Kurşunlu Kalamar Zokası 3.0 Gr 10'lu Set Sff8679120681401",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "shufasports",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Yanlış ürün gönderdiler iade etmem için kargoya gitmemi istiyor sistem .kargo ya gitmem zaten bana 500 TL ye maal olur oyuzden iadede etmedim boşu boşuna vakit kaybettim para kaybettim",
+      "createDate": 1758564420118,
+      "createdDate": "22/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105275856,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 597254022,
+      "productSubTitle": "Shufa Kurşunlu Kalamar Zokası 3.0 Gr 10'lu Set Sff8679120681401 3.0",
+      "productTitle": "Shufa Kurşunlu Kalamar Zokası 3.0 Gr 10'lu Set Sff8679120681401",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "20",
+      "scoreAsStar": 1,
+      "sellerNickname": "shufasports",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}

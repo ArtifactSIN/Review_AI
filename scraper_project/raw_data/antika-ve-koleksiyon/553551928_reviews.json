@@ -1,0 +1,80 @@
+{
+  "categorySlug": "antika-ve-koleksiyon",
+  "productId": "553551928",
+  "collectedAt": "2026-04-05T18:03:13.146Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Kuru ayrı, iğneler ayrı.",
+      "createDate": 1674544639700,
+      "createdDate": "24/01/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5091970019,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Deniz Şevki Kayabay",
+      "oldScore": 0,
+      "productId": 553551928,
+      "productSubTitle": "Omeniv 24 adet Özel Dikiş İğnesi Doğal Ahşap Pirinç Kutu",
+      "productTitle": "Omeniv 24 adet Özel Dikiş İğnesi Doğal Ahşap Pirinç Kutu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "Omeniv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Güzel ürün",
+      "createDate": 1670575416713,
+      "createdDate": "09/12/2022",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5091116347,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "H*** İ*** K***",
+      "oldScore": 0,
+      "productId": 553551928,
+      "productSubTitle": "Omeniv 24 adet Özel Dikiş İğnesi Doğal Ahşap Pirinç Kutu",
+      "productTitle": "Omeniv 24 adet Özel Dikiş İğnesi Doğal Ahşap Pirinç Kutu",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Omeniv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

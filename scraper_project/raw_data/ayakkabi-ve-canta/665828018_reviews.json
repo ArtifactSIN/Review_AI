@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "665828018",
+  "collectedAt": "2026-04-05T19:25:51.865Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok güzel ve şık bi çanta",
+      "createDate": 1769182172069,
+      "createdDate": "23/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106259294,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "E*** K***",
+      "oldScore": 0,
+      "productId": 665828018,
+      "productSubTitle": "Manuka Sandy Fiyonklu Çanta Acı Kahve Acı Kahve Acı Kahverengi",
+      "productTitle": "Manuka Sandy Fiyonklu Çanta Acı Kahve Acı Kahve Acı Kahverengi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Manuka",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "categorySlug": "antika-ve-koleksiyon",
+  "productId": "630645104",
+  "collectedAt": "2026-04-05T18:03:04.177Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Teşekkürler",
+      "createDate": 1753357382753,
+      "createdDate": "24/07/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104901313,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 630645104,
+      "productSubTitle": "Cumhuriyetin İlk Dönemi 7 Emisyon 100.000 Türk Lirası Koleksiyon Para",
+      "productTitle": "Cumhuriyetin İlk Dönemi 7 Emisyon 100.000 Türk Lirası Koleksiyon Para",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "EdiAntik",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

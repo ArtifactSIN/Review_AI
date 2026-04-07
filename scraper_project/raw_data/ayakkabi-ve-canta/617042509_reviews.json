@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "617042509",
+  "collectedAt": "2026-04-05T19:21:05.854Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "sunuldugu gibi, memnunum öneririm",
+      "createDate": 1721404523914,
+      "createdDate": "19/07/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5100611408,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1744716049972,
+      "maskedBuyerName": "kenan topçuoğlu",
+      "oldScore": 0,
+      "productId": 617042509,
+      "productSubTitle": "Luis Figo %100 Hakiki Deri Rahat Erkek Günlük Şeffaf Jel Taban El Yapımı Yazlık Vizon Spor Ayakkabı 40-44 Vizon 41",
+      "productTitle": "Luis Figo %100 Hakiki Deri Rahat Erkek Günlük Şeffaf Jel Taban El Yapımı Yazlık Vizon Spor Ayakkabı 40-44 Vizon",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "MTONLINE",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

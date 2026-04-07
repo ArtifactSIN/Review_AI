@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "732657933",
+  "collectedAt": "2026-04-05T20:21:39.964Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "fiyat performans ürünü memnun kaldım",
+      "createDate": 1772156089266,
+      "createdDate": "27/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106492502,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "İ*** a***",
+      "oldScore": 0,
+      "productId": 732657933,
+      "productSubTitle": "Porsima 0100 Kapaklı Gri-siyah Çöp Kutusu - Favori Banyo Ve Mutfak Çöp Kovası 10lt Siyah ",
+      "productTitle": "Porsima 0100 Kapaklı Gri-siyah Çöp Kutusu - Favori Banyo Ve Mutfak Çöp Kovası 10lt Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "TuruncuElma",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

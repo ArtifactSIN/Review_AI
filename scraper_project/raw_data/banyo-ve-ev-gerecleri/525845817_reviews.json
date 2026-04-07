@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "525845817",
+  "collectedAt": "2026-04-05T20:22:28.438Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "yanlış ürün gönderildi",
+      "createDate": 1743753411613,
+      "createdDate": "04/04/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104077708,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "Çiğdem Öztürk",
+      "oldScore": 0,
+      "productId": 525845817,
+      "productSubTitle": "Karen Banyo Motıon 45 CM Tezgah Üstü Çanak Lavabo",
+      "productTitle": "Karen Banyo Motıon 45 CM Tezgah Üstü Çanak Lavabo",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "KARENBANYO",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Çok şık tavsiye ederim",
+      "createDate": 1705609235077,
+      "createdDate": "18/01/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5097662722,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "i*** t***",
+      "oldScore": 0,
+      "productId": 525845817,
+      "productSubTitle": "Karen Banyo Motıon 45 CM Tezgah Üstü Çanak Lavabo",
+      "productTitle": "Karen Banyo Motıon 45 CM Tezgah Üstü Çanak Lavabo",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "KARENBANYO",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

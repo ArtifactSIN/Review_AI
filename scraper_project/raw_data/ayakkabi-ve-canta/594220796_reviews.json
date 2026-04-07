@@ -1,0 +1,59 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "594220796",
+  "collectedAt": "2026-04-05T19:18:53.957Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "ürün gayet guzel",
+      "createDate": 1774538422912,
+      "createdDate": "26/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106669337,
+      "imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/56/77/46/21/19/12/22/03/36/57907428627847266529.png",
+      "imageFilePathList": [
+        "https://n11scdn.akamaized.net/a1/{0}/26/03/26/56/77/46/21/19/12/22/03/36/57907428627847266529.png"
+      ],
+      "lastModifiedDate": 1774538422912,
+      "maskedBuyerName": "s*** A***",
+      "oldScore": 0,
+      "productId": 594220796,
+      "productSubTitle": "Adelina Bags Desenli Cüzdan Detaylı Omuz Çantası Ve Mekanizmalı Cüzdan Siyah ",
+      "productTitle": "Adelina Bags Desenli Cüzdan Detaylı Omuz Çantası Ve Mekanizmalı Cüzdan Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [
+        {
+          "id": 8519264,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/56/77/46/21/19/12/22/03/36/57907428627847266529.png"
+        }
+      ],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AdelinaBags",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      },
+      "imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/56/77/46/21/19/12/22/03/36/57907428627847266529.png",
+      "imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/56/77/46/21/19/12/22/03/36/57907428627847266529.png"
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

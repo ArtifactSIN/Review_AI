@@ -1,0 +1,80 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "582379800",
+  "collectedAt": "2026-04-05T20:17:46.590Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "İki kez sipariş verdim,gayet güzel .",
+      "createDate": 1773944450080,
+      "createdDate": "19/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106619076,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773944450080,
+      "maskedBuyerName": "İhsan Selim Beşikci",
+      "oldScore": 0,
+      "productId": 582379800,
+      "productSubTitle": "Siyah Ceket Askısı Takım Elbise Askısı 10 Adet",
+      "productTitle": "Siyah Ceket Askısı Takım Elbise Askısı 10 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Mankenistanbul",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": false,
+      "contents": "Kaliteli ürün",
+      "createDate": 1716656928986,
+      "createdDate": "25/05/2024",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5099835482,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "R*** O*** T***",
+      "oldScore": 0,
+      "productId": 537607667,
+      "productSubTitle": "Siyah Ceket Askısı Takım Elbise Askısı 10 Adet",
+      "productTitle": "Siyah Ceket Askısı Takım Elbise Askısı 10 Adet",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "sipahioglugroup",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

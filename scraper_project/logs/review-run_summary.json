@@ -1,0 +1,29 @@
+{
+  "runId": "review-run",
+  "startedAt": "2026-04-05T17:15:18.642Z",
+  "finishedAt": "2026-04-05T17:42:02.088Z",
+  "totalJobsQueued": 1009,
+  "completed": 1009,
+  "skippedExisting": 0,
+  "failed": 0,
+  "partialSaved": 1742,
+  "resumedFromPartial": 0,
+  "zeroReviewProducts": 122,
+  "totalReviewsCollected": 79321,
+  "activeWorkers": 0,
+  "filters": {
+    "categories": [
+      "aksesuar-ve-tuning",
+      "output"
+    ],
+    "products": null,
+    "concurrency": 10,
+    "failedOnly": false,
+    "failedFile": null,
+    "resumeRun": null,
+    "name": null,
+    "mode": "normal"
+  },
+  "failedJobsFile": "/mnt/c/Developer/Review_AI/scraper_project/logs/review-run_failed_jobs.json",
+  "logFile": "/mnt/c/Developer/Review_AI/scraper_project/logs/review-run.log"
+}

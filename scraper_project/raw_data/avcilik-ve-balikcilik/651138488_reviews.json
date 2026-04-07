@@ -1,0 +1,80 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "651138488",
+  "collectedAt": "2026-04-05T18:44:16.147Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 2,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "İYİ",
+      "createDate": 1759136920496,
+      "createdDate": "29/09/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5105316150,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "k*** e***",
+      "oldScore": 0,
+      "productId": 651138488,
+      "productSubTitle": "Lineaeffe Elastico 250 Mt Yem İpi ",
+      "productTitle": "Lineaeffe Elastico 250 Mt Yem İpi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "80",
+      "scoreAsStar": 4,
+      "sellerNickname": "BalkanlarAv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "denildigi gibi eksiksiz hatasiz geldi",
+      "createDate": 1743081923658,
+      "createdDate": "27/03/2025",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5104025443,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "n11 üyesi",
+      "oldScore": 0,
+      "productId": 651138488,
+      "productSubTitle": "Lineaeffe Elastico 250 Mt Yem İpi ",
+      "productTitle": "Lineaeffe Elastico 250 Mt Yem İpi",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "BalkanlarAv",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 2
+  }
+}

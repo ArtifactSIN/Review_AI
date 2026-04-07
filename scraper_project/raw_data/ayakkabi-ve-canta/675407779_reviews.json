@@ -1,0 +1,50 @@
+{
+  "categorySlug": "ayakkabi-ve-canta",
+  "productId": "675407779",
+  "collectedAt": "2026-04-05T19:25:19.013Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok güzel kullanilisli miklatisli citcitlidan daha iyi",
+      "createDate": 1773032660997,
+      "createdDate": "09/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106544294,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1773032660997,
+      "maskedBuyerName": "İSMAİL GÖNÜL",
+      "oldScore": 0,
+      "productId": 675407779,
+      "productSubTitle": "Newish Polo Erkek Mekanizmalı Mıknatıs Kapamalı Cüzdan Ve Kartlık New343 Siyah ",
+      "productTitle": "Newish Polo Erkek Mekanizmalı Mıknatıs Kapamalı Cüzdan Ve Kartlık New343 Siyah",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "NewishPolo",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

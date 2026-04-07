@@ -1,0 +1,50 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "664739738",
+  "collectedAt": "2026-04-05T20:21:07.032Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Çok güzel şık ve kullanışlı çok hızla elime ulaştı severek kullanıyorum teşekkür ederim",
+      "createDate": 1771992825935,
+      "createdDate": "25/02/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106476137,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870271767,
+      "maskedBuyerName": "N*** Ö***",
+      "oldScore": 0,
+      "productId": 664739738,
+      "productSubTitle": "Morponi 2'li Metal Standlı Süngerli Sabunluk Seti - Mutfak Sıvı Sabun Bulaşık Deterjanı Şişesi 400ml - Beyaz Beyaz",
+      "productTitle": "Morponi 2'li Metal Standlı Süngerli Sabunluk Seti - Mutfak Sıvı Sabun Bulaşık Deterjanı Şişesi 400ml - Beyaz Beyaz",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "morponi",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

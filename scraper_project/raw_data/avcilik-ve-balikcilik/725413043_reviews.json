@@ -1,0 +1,50 @@
+{
+  "categorySlug": "avcilik-ve-balikcilik",
+  "productId": "725413043",
+  "collectedAt": "2026-04-05T18:42:51.682Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 1,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "çok kaliteli ürün",
+      "createDate": 1774534921581,
+      "createdDate": "26/03/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106666831,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1774534921581,
+      "maskedBuyerName": "gürsel özgür",
+      "oldScore": 0,
+      "productId": 725413043,
+      "productSubTitle": "Yüzen Silikon Kurt - Glow Alabalık Yemi - 37mm - Peynir Kokulu - Kahverengi - Trout Bait Diğer",
+      "productTitle": "Yüzen Silikon Kurt - Glow Alabalık Yemi - 37mm - Peynir Kokulu - Kahverengi - Trout Bait",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "AlanSanslı",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 1
+  }
+}

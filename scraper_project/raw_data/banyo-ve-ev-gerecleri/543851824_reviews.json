@@ -1,0 +1,110 @@
+{
+  "categorySlug": "banyo-ve-ev-gerecleri",
+  "productId": "543851824",
+  "collectedAt": "2026-04-05T20:24:17.660Z",
+  "resumedFromPartial": false,
+  "pagesSeen": [
+    1
+  ],
+  "reviewCountUnique": 3,
+  "noReviews": false,
+  "reviews": [
+    {
+      "availableToBuy": true,
+      "contents": "Teşekkürler",
+      "createDate": 1769076688093,
+      "createdDate": "22/01/2026",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5106260105,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": 1772870269278,
+      "maskedBuyerName": "M*** M***",
+      "oldScore": 0,
+      "productId": 543851824,
+      "productSubTitle": "Laurastar Kireç Çözücü Granül - S Modeli",
+      "productTitle": "Laurastar Kireç Çözücü Granül - S Modeli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "100",
+      "scoreAsStar": 5,
+      "sellerNickname": "Hakman",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Çok pahalı yaw☹️",
+      "createDate": 1700834058676,
+      "createdDate": "24/11/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096739419,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** B***",
+      "oldScore": 0,
+      "productId": 543851824,
+      "productSubTitle": "Laurastar Kireç Çözücü Granül - S Modeli",
+      "productTitle": "Laurastar Kireç Çözücü Granül - S Modeli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "Hakman",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    },
+    {
+      "availableToBuy": true,
+      "contents": "Pahalı yaw",
+      "createDate": 1700506989911,
+      "createdDate": "20/11/2023",
+      "getirSeller": false,
+      "helpfulVoteCount": 0,
+      "id": 5096661103,
+      "imageFilePath": null,
+      "imageFilePathList": [],
+      "lastModifiedDate": null,
+      "maskedBuyerName": "A*** B***",
+      "oldScore": 0,
+      "productId": 543851824,
+      "productSubTitle": "Laurastar Kireç Çözücü Granül - S Modeli",
+      "productTitle": "Laurastar Kireç Çözücü Granül - S Modeli",
+      "resolveDate": null,
+      "resolved": false,
+      "resolverOperator": null,
+      "reviewImageDtos": [],
+      "score": "60",
+      "scoreAsStar": 3,
+      "sellerNickname": "Hakman",
+      "title": null,
+      "uselessVoteCount": 0,
+      "vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  ],
+  "meta": {
+    "sortOrder": "RECENT",
+    "tag": "tümü",
+    "itemsPerPage": 8,
+    "pageCount": 1,
+    "totalCount": 3
+  }
+}
