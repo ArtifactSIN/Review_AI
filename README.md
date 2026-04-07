@@ -1,26 +1,34 @@
-# Workspace Overview
+# AI-Powered Fake Review Detection System
 
-Two parallel efforts live in this repository. Keeping them side by side makes it
-easy to share data and notes without juggling multiple repos.
+This repository contains an AI/ML-based system for detecting fake and misleading reviews in e-commerce platforms.
 
-## application_to_2209/
-- Drafts, diagrams, and supporting material for the TÜBİTAK 2209-A proposal on
-  marketplace review authenticity.
-- No scraper code should land here so that paperwork stays clean.
+---
 
-## scraper_project/
-- Python tooling for gathering and organizing product reviews.
-- Includes:
-  - `scraper/` with runnable scripts (see `demo_scraper.py`).
-  - `data/` containing sample outputs plus scratch storage for new runs.
-  - `requirements.txt` for the scraper portion.
-  - `README.md` describing usage in detail.
+## 🌐 Language Selection
 
-### Run the scraper
-```bash
-cd scraper_project/scraper
-python3 demo_scraper.py --use-sample-data --output-dir ../data
-```
+- 🇬🇧 English → [README_EN.md](./README_EN.md)
+- 🇹🇷 Türkçe → [README_TR.md](./README_TR.md)
 
-Add new top-level folders as needed, but document their purpose here so future
-contributors know where things belong.
+---
+
+## 📌 Quick Summary
+
+This project consists of three main stages:
+
+1. Review Collection (Scraper)  
+2. Data Processing  
+3. AI / ML Detection System  
+
+The current repository mainly contains the **review collection module**, which is used to gather data for the AI system.
+
+---
+
+## 🚀 Current Status
+
+- Scraper system: ✅ Completed  
+- Data collection: 🔄 Ongoing  
+- ML system: 🚀 Planned  
+
+---
+
+👉 For full details, choose a language above.
