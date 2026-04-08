@@ -1,28 +1,59 @@
 {
-  "runId": "review-run_failed_only",
-  "updatedAt": "2026-04-07T15:01:08.564Z",
+  "runId": "havvagul",
+  "updatedAt": "2026-04-08T18:20:25.030Z",
   "isShuttingDown": false,
   "totals": {
-    "totalJobsQueued": 3,
-    "completed": 3,
+    "totalJobsQueued": 18276,
+    "completed": 586,
     "skippedExisting": 0,
     "failed": 0,
-    "partialSaved": 0,
+    "partialSaved": 65,
     "resumedFromPartial": 0,
-    "zeroReviewProducts": 0,
-    "totalReviewsCollected": 31,
-    "activeWorkers": 0
+    "zeroReviewProducts": 275,
+    "totalReviewsCollected": 4249,
+    "activeWorkers": 10
   },
   "filters": {
-    "categories": null,
+    "categories": [
+      "bebek-guvenlik",
+      "bebek-odasi-ve-park-yatak",
+      "beyaz-esya",
+      "cocuk-oyuncaklari-ve-parti",
+      "dijital-kodlar-urunler",
+      "ev-tekstili",
+      "film",
+      "fitness-ve-kondisyon",
+      "hamile-giyim",
+      "kirtasiye-ve-ofis",
+      "makyaj",
+      "muzik",
+      "oto-koltugu-ve-ana-kucagi",
+      "parfum-ve-deodorant",
+      "sac-bakim-ve-sekillendirme",
+      "saglik-ve-medikal-urunler",
+      "yapi-market-ve-bahce",
+      "yasam-ve-etkinlik",
+      "yetiskin-hobi-ve-oyun",
+      "yurutec-ve-yurume-yardimcilari"
+    ],
     "products": null,
     "concurrency": 10,
-    "failedOnly": true,
+    "failedOnly": false,
     "failedFile": null,
     "resumeRun": null,
-    "name": null,
-    "mode": "failed-only"
+    "name": "havvagul",
+    "mode": "normal"
   },
-  "active": [],
-  "event": "run_finished"
+  "active": [
+    {
+      "categorySlug": "bebek-guvenlik",
+      "productId": "328582810",
+      "pagesSeen": [],
+      "reviewCountUnique": 0
+    }
+  ],
+  "event": "product_saved",
+  "categorySlug": "bebek-guvenlik",
+  "productId": "603064479",
+  "noReviews": false
 }

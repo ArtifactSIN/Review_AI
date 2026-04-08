@@ -32,16 +32,15 @@ const TEAM_ASSIGNMENTS = {
     "su-sporlari",
     "yuz-ve-vucut-bakimi",
     "cinsel-urunler",
-    "supermarket",
     "beslenme-ve-mama-sandalyesi",
     "bilgisayar",
-    "video-oyun-konsol",
+    
     "bebek-giyim",
     "bireysel-ve-takim-sporlari",
     "emzirme-urunleri",
     "guzellik-salonu-ve-kuafor-urunleri",
     "kis-sporlari",
-    "televizyon-ve-ses-sistemleri"
+    
   ],
   tugce: [
     "kadin-giyim-aksesuar",
