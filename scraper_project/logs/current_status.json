@@ -1,16 +1,16 @@
 {
   "runId": "havvagul",
-  "updatedAt": "2026-04-08T18:20:25.030Z",
+  "updatedAt": "2026-04-08T18:20:29.157Z",
   "isShuttingDown": false,
   "totals": {
     "totalJobsQueued": 18276,
-    "completed": 586,
+    "completed": 593,
     "skippedExisting": 0,
     "failed": 0,
     "partialSaved": 65,
     "resumedFromPartial": 0,
-    "zeroReviewProducts": 275,
-    "totalReviewsCollected": 4249,
+    "zeroReviewProducts": 276,
+    "totalReviewsCollected": 4258,
     "activeWorkers": 10
   },
   "filters": {
@@ -47,13 +47,19 @@
   "active": [
     {
       "categorySlug": "bebek-guvenlik",
-      "productId": "328582810",
+      "productId": "65685744",
+      "pagesSeen": [],
+      "reviewCountUnique": 0
+    },
+    {
+      "categorySlug": "bebek-guvenlik",
+      "productId": "92164481",
       "pagesSeen": [],
       "reviewCountUnique": 0
     }
   ],
-  "event": "product_saved",
+  "event": "product_started",
   "categorySlug": "bebek-guvenlik",
-  "productId": "603064479",
-  "noReviews": false
+  "productId": "92164481",
+  "startPage": 1
 }
