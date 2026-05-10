@@ -2,5 +2,12 @@ node_modules/
 .DS_Store
 .env
 
-raw_data/
-logs/
+n11/raw_data/
+n11/logs/
+n11/.pw-user/
+trendyol/product_ids/
+trendyol/logs/
+trendyol/.pw-user/
+
+# Claude Code — local tooling (CLAUDE.md at root is committed separately)
+.claude/
