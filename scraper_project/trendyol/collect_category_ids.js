@@ -7,7 +7,7 @@ const { chromium } = require("playwright");
 const INPUT_FILE = path.join(__dirname, "categories.txt");
 const OUTPUT_DIR = path.join(__dirname, "product_ids");
 
-const TARGET_UNIQUE_IDS = 10000;
+const TARGET_UNIQUE_IDS = 1000;
 const START_PAGE = 1;
 const DELAY_MS = 400;
 const MAX_REPEAT_PAGES = 3;
@@ -15,21 +15,22 @@ const MAX_PAGES_PER_CATEGORY = 200;
 const MAX_TASKS_PER_PAGE = 10;
 const MAX_CONSECUTIVE_WORKER_ERRORS = 3;
 
-// Disable after confirming endpoints work.
-const DEBUG = true;
+const DEBUG = false;
 
 // ─── CLI args ─────────────────────────────────────────────────────────────────
 
 function parseArgs() {
   let concurrency = 3;
+  let status = false;
   for (const arg of process.argv.slice(2)) {
     const m = arg.match(/^--concurrency=(\d+)$/);
     if (m) concurrency = parseInt(m[1], 10);
+    if (arg === "--status") status = true;
   }
-  return { concurrency };
+  return { concurrency, status };
 }
 
-const { concurrency: CONCURRENCY } = parseArgs();
+const { concurrency: CONCURRENCY, status: SHOW_STATUS } = parseArgs();
 
 // ─── state ────────────────────────────────────────────────────────────────────
 
@@ -66,6 +67,31 @@ function buildPageUrl(categoryUrl, page) {
   const url = new URL(categoryUrl);
   url.searchParams.set("pi", String(page));
   return url.toString();
+}
+
+// ─── status command ───────────────────────────────────────────────────────────
+
+function printStatus(categoryUrls) {
+  let done = 0, partial = 0, pending = 0;
+  console.log(`\n[STATUS] ${categoryUrls.length} categories in categories.txt\n`);
+  for (const url of categoryUrls) {
+    const slug = slugFromCategoryUrl(url);
+    const donePath    = path.join(OUTPUT_DIR, `${slug}_ids.json`);
+    const partialPath = path.join(OUTPUT_DIR, `${slug}_ids.partial.json`);
+    if (fs.existsSync(donePath)) {
+      const data = JSON.parse(fs.readFileSync(donePath, "utf8"));
+      console.log(`  ✓ done     ${slug.padEnd(40)} ${data.uniqueCount} products`);
+      done++;
+    } else if (fs.existsSync(partialPath)) {
+      const data = JSON.parse(fs.readFileSync(partialPath, "utf8"));
+      console.log(`  ~ partial  ${slug.padEnd(40)} ${data.uniqueCount} products  (pg=${data.lastPage})`);
+      partial++;
+    } else {
+      console.log(`  ✗ pending  ${slug}`);
+      pending++;
+    }
+  }
+  console.log(`\nSummary: ${done} done, ${partial} partial, ${pending} pending\n`);
 }
 
 // ─── resume helpers ───────────────────────────────────────────────────────────
@@ -276,7 +302,6 @@ async function collectProductsForCategory(page, categoryUrl, resumeData) {
     categoryUrl,
     slug,
     collectedAt: new Date().toISOString(),
-    targetUniqueIds: TARGET_UNIQUE_IDS,
     uniqueCount: seen.size,
     products: Array.from(seen.values()),
   };
@@ -297,7 +322,6 @@ function savePartialResult(categoryUrl, seen, lastPage) {
     categoryUrl,
     slug,
     collectedAt: new Date().toISOString(),
-    targetUniqueIds: TARGET_UNIQUE_IDS,
     uniqueCount: seen.size,
     products: Array.from(seen.values()),
     lastPage,
@@ -416,6 +440,11 @@ process.on("SIGINT", () => {
 
 (async () => {
   const categoryUrls = readCategoryUrls();
+
+  if (SHOW_STATUS) {
+    printStatus(categoryUrls);
+    process.exit(0);
+  }
 
   const context = await chromium.launchPersistentContext(
     path.join(__dirname, ".pw-user"),

@@ -126,6 +126,81 @@ review URL = https://www.trendyol.com + product.url + /yorumlar
 
 Edit `trendyol/categories.txt` to add category URLs before running.
 
+### CLI Flags (`trendyol/collect_category_ids.js`)
+
+| Flag | Description |
+|---|---|
+| `--concurrency=<n>` | Worker count (default 3) |
+| `--status` | Print done/partial/pending for each category and exit |
+
+### Status Check
+
+```bash
+node trendyol/collect_category_ids.js --status
+```
+
+Prints each category with its state (done/partial/pending) and product count. No browser launched. Resume works automatically — completed categories are skipped, interrupted ones resume from last saved page.
+
+### General Review Schema
+
+Unified schema produced after scraping and transformation:
+
+```json
+{
+  "gid": 1,
+  "rid": "platform review id (contentId on Trendyol)",
+  "pid": "product id",
+  "seller": "seller name",
+  "comment": "review text",
+  "rating_score": 100,
+  "timestamp": "ISO string (createdAt ms → ISO)",
+  "customer_name": "masked buyer name",
+  "helpful_votes": 0,
+  "useless_votes": null,
+  "image_count": 2,
+  "resolved": null,
+  "category": "elbise-x-c56",
+  "platform": "trendyol",
+  "modifiedDate": "ISO string (lastModifiedAt ms → ISO)",
+  "label": null,
+  "label_confidence": null,
+  "is_elite": false,
+  "is_influencer": false,
+  "is_verified": true,
+  "trusted": true
+}
+```
+
+**Rating scale:** 0–100. 1 star = 20, 0.5 star = 10. 5 stars = 100.
+
+**Platform field mapping:**
+
+| Field | Trendyol source | n11 source |
+|---|---|---|
+| `rid` | `contentId` | review id |
+| `pid` | `id` | product id |
+| `helpful_votes` | `likesCount` | helpfulVoteCount |
+| `useless_votes` | null | uselessVoteCount |
+| `resolved` | null | resolved |
+| `is_elite` | `isElite` | null |
+| `is_influencer` | `isInfluencer` | null |
+| `is_verified` | `trusted` | null |
+
+**GID system:** Global sequential integer. Counter stored in `<platform>/logs/gid_counter.json` (`{ "next": N }`). Assigned at transformation time, never reused.
+
+**Excluded data store:** Fields excluded per platform (e.g. `language`, `culture`) saved alongside schema output:
+
+```json
+{
+  "gid_ref": 42,
+  "reason": "excluded_fields",
+  "platform": "trendyol",
+  "data": { "language": "tr", "culture": "tr-TR" }
+}
+```
+
+File: `<platform>/excluded_data/<category>/<pid>_excluded.json`
+
 ---
 
 ## Code Conventions
