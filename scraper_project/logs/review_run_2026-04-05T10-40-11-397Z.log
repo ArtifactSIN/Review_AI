@@ -1,4 +1,0 @@
-[2026-04-05T10:40:11.398Z] [INFO] [RUNS] previous review runs:
-[2026-04-05T10:40:11.399Z] [INFO] - runId=review_run_2026-04-04T19-24-10-361Z | startedAt=2026-04-04T19:24:10.362Z | queued=2009 completed=5 skipped=0 failed=0 incomplete=2004
-[2026-04-05T10:40:11.399Z] [INFO] - runId=review_run_2026-04-04T19-28-19-834Z | startedAt=2026-04-04T19:28:19.871Z | queued=2004 completed=11 skipped=0 failed=1 incomplete=1992
-[2026-04-05T10:40:11.399Z] [INFO] - runId=review_run_2026-04-04T19-31-53-523Z | startedAt=2026-04-04T19:31:53.523Z | queued=2 completed=2 skipped=0 failed=0 incomplete=0
