@@ -37,7 +37,7 @@ const RAW_DATA_DIR      = path.join(__dirname, "raw_data");
 const EXCLUDED_DATA_DIR = path.join(__dirname, "excluded_data");
 const LOGS_DIR          = path.join(__dirname, "logs");
 const SHARED_META_PATH  = path.join(LOGS_DIR, "shared_meta.json");
-const GID_COUNTER_PATH  = path.join(LOGS_DIR, "gid_counter.json");
+const GID_COUNTER_PATH  = path.join(__dirname, "..", "logs", "gid_counter.json");
 const USER_DATA_DIR     = path.join(__dirname, ".pw-user-reviews");
 
 // ── Bootstrap directories ─────────────────────────────────────────────────────
