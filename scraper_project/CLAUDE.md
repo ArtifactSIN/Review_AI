@@ -131,15 +131,32 @@ Edit `trendyol/categories.txt` to add category URLs before running.
 | Flag | Description |
 |---|---|
 | `--concurrency=<n>` | Worker count (default 3) |
-| `--status` | Print done/partial/pending for each category and exit |
+| `--status` | Print done/partial/pending for each category and exit (file-existence only) |
+| `--audit` | Health check: product count distribution, flags 0-product and low-count files, re-run suggestions |
+| `--min-products=<n>` | Treat files with fewer than N products as incomplete — re-scrapes them (seeds from existing products, restarts from page 1) |
 
-### Status Check
+### Status & Audit
 
 ```bash
-node trendyol/collect_category_ids.js --status
+node trendyol/collect_category_ids.js --status   # quick file-existence view
+node trendyol/collect_category_ids.js --audit    # full health check with distribution
 ```
 
-Prints each category with its state (done/partial/pending) and product count. No browser launched. Resume works automatically — completed categories are skipped, interrupted ones resume from last saved page.
+`--audit` shows product count distribution (0 / 1-9 / 10-49 / … / 1000+), flags suspect categories (0 products = likely failed scrape), and prints re-run commands.
+
+`--status` only checks file existence. Use `--audit` to find categories that exist but collected too few products.
+
+### Re-running Under-collected Categories
+
+```bash
+# Re-scrape all 0-product and 1-9 product categories:
+node trendyol/collect_category_ids.js --min-products=10
+
+# Re-scrape anything below 50 products:
+node trendyol/collect_category_ids.js --min-products=50
+```
+
+With `--min-products=N`, the scraper treats any `_ids.json` with fewer than N products as "not done." It loads existing products as a seed and re-scrapes from page 1, keeping all products found previously plus any new ones.
 
 ### General Review Schema
 

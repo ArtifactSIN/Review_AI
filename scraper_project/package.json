@@ -20,7 +20,12 @@
     "named_run_help": "node -e \"console.log('Named run examples:\n- node collection_auto_rawData.js --name=my-run\n- node collection_auto_rawData.js --name=my-run --categories=mobilya\n- node collection_auto_rawData.js --name=my-run --products=734699208,734700038\n- node collection_auto_rawData.js --name=my-run --categories=mobilya --concurrency=4')\"",
     "scrape_arda": "node collection_auto_rawData.js --team=arda",
     "scrape_tugce": "node collection_auto_rawData.js --team=tugce",
-    "scrape_havvagul": "node collection_auto_rawData.js --team=havvagul"
+    "scrape_havvagul": "node collection_auto_rawData.js --team=havvagul",
+    "scrape_ty_arda": "node trendyol/collection_auto_rawData.js --user=arda --team=arda",
+    "scrape_ty_tugce": "node trendyol/collection_auto_rawData.js --user=tugce --team=tugce",
+    "scrape_ty_havvagul": "node trendyol/collection_auto_rawData.js --user=havvagul --team=havvagul",
+    "scrape_ty_failed": "node trendyol/collection_auto_rawData.js --failed-only",
+    "scrape_ty_partial": "node trendyol/collection_auto_rawData.js --partial-only"
   },
   "keywords": [],
   "author": "",

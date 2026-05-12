@@ -10,6 +10,7 @@ const OUTPUT_DIR = path.join(__dirname, "product_ids");
 const TARGET_UNIQUE_IDS = 1000;
 const START_PAGE = 1;
 const DELAY_MS = 400;
+const API_SETTLE_MS = 4000;   // wait after page load for XHR responses to arrive
 const MAX_REPEAT_PAGES = 3;
 const MAX_PAGES_PER_CATEGORY = 200;
 const MAX_TASKS_PER_PAGE = 10;
@@ -22,15 +23,20 @@ const DEBUG = false;
 function parseArgs() {
   let concurrency = 3;
   let status = false;
+  let audit = false;
+  let minProducts = 0;
   for (const arg of process.argv.slice(2)) {
-    const m = arg.match(/^--concurrency=(\d+)$/);
-    if (m) concurrency = parseInt(m[1], 10);
+    const mConc = arg.match(/^--concurrency=(\d+)$/);
+    if (mConc) concurrency = parseInt(mConc[1], 10);
+    const mMin = arg.match(/^--min-products=(\d+)$/);
+    if (mMin) minProducts = parseInt(mMin[1], 10);
     if (arg === "--status") status = true;
+    if (arg === "--audit") audit = true;
   }
-  return { concurrency, status };
+  return { concurrency, status, audit, minProducts };
 }
 
-const { concurrency: CONCURRENCY, status: SHOW_STATUS } = parseArgs();
+const { concurrency: CONCURRENCY, status: SHOW_STATUS, audit: SHOW_AUDIT, minProducts: MIN_PRODUCTS } = parseArgs();
 
 // ─── state ────────────────────────────────────────────────────────────────────
 
@@ -50,16 +56,22 @@ function readCategoryUrls() {
   if (!fs.existsSync(INPUT_FILE)) {
     throw new Error(`Missing input file: ${INPUT_FILE}`);
   }
-  return fs
+  const all = fs
     .readFileSync(INPUT_FILE, "utf8")
     .split(/\r?\n/)
     .map((x) => x.trim())
     .filter(Boolean);
+  const seen = new Set();
+  const unique = all.filter((u) => (seen.has(u) ? false : seen.add(u)));
+  if (unique.length < all.length) {
+    console.log(`[WARN] categories.txt: ${all.length - unique.length} duplicate URLs removed`);
+  }
+  return unique;
 }
 
 function slugFromCategoryUrl(categoryUrl) {
   const url = new URL(categoryUrl);
-  const cleaned = url.pathname.replace(/^\/+|\/+$/g, "");
+  const cleaned = url.pathname.replace(/^\/+|\/+$/g, "").replace(/\//g, "-");
   return cleaned || "category";
 }
 
@@ -94,22 +106,131 @@ function printStatus(categoryUrls) {
   console.log(`\nSummary: ${done} done, ${partial} partial, ${pending} pending\n`);
 }
 
+// ─── audit command ────────────────────────────────────────────────────────────
+
+function printAudit(categoryUrls) {
+  const buckets = { 0: [], "1-9": [], "10-49": [], "50-99": [], "100-499": [], "500-999": [], "1000+": [] };
+  const pending = [];
+  const partial = [];
+
+  for (const url of categoryUrls) {
+    const slug = slugFromCategoryUrl(url);
+    const donePath    = path.join(OUTPUT_DIR, `${slug}_ids.json`);
+    const partialPath = path.join(OUTPUT_DIR, `${slug}_ids.partial.json`);
+
+    if (fs.existsSync(donePath)) {
+      const count = readDoneCount(slug) ?? 0;
+      if      (count === 0)     buckets[0].push({ slug, count, url });
+      else if (count < 10)      buckets["1-9"].push({ slug, count, url });
+      else if (count < 50)      buckets["10-49"].push({ slug, count, url });
+      else if (count < 100)     buckets["50-99"].push({ slug, count, url });
+      else if (count < 500)     buckets["100-499"].push({ slug, count, url });
+      else if (count < 1000)    buckets["500-999"].push({ slug, count, url });
+      else                      buckets["1000+"].push({ slug, count, url });
+    } else if (fs.existsSync(partialPath)) {
+      try {
+        const d = JSON.parse(fs.readFileSync(partialPath, "utf8"));
+        partial.push({ slug, count: d.uniqueCount ?? 0, lastPage: d.lastPage, url });
+      } catch { partial.push({ slug, count: 0, lastPage: "?", url }); }
+    } else {
+      pending.push({ slug, url });
+    }
+  }
+
+  console.log(`\n[AUDIT] ${categoryUrls.length} total categories\n`);
+
+  console.log("── Product count distribution ───────────────────────────────────────");
+  console.log(`  ${"0 products".padEnd(14)} ${buckets[0].length.toString().padStart(4)}  ← SUSPECT (scrape failed or truly empty)`);
+  console.log(`  ${"1-9".padEnd(14)} ${buckets["1-9"].length.toString().padStart(4)}  ← LOW (likely cut short)`);
+  console.log(`  ${"10-49".padEnd(14)} ${buckets["10-49"].length.toString().padStart(4)}`);
+  console.log(`  ${"50-99".padEnd(14)} ${buckets["50-99"].length.toString().padStart(4)}`);
+  console.log(`  ${"100-499".padEnd(14)} ${buckets["100-499"].length.toString().padStart(4)}`);
+  console.log(`  ${"500-999".padEnd(14)} ${buckets["500-999"].length.toString().padStart(4)}`);
+  console.log(`  ${"1000+ (capped)".padEnd(14)} ${buckets["1000+"].length.toString().padStart(4)}  ← hit TARGET_UNIQUE_IDS cap`);
+  console.log(`  ${"partial files".padEnd(14)} ${partial.length.toString().padStart(4)}`);
+  console.log(`  ${"pending (no file)".padEnd(14)} ${pending.length.toString().padStart(4)}`);
+  console.log("");
+
+  if (buckets[0].length > 0) {
+    console.log(`── 0-product categories (${buckets[0].length}) ─────────────────────────────────`);
+    for (const { slug } of buckets[0]) console.log(`  ✗ ${slug}`);
+    console.log("");
+  }
+
+  if (buckets["1-9"].length > 0) {
+    console.log(`── 1-9 product categories (${buckets["1-9"].length}) ──────────────────────────────`);
+    for (const { slug, count } of buckets["1-9"]) console.log(`  ! ${count.toString().padStart(3)} ${slug}`);
+    console.log("");
+  }
+
+  if (partial.length > 0) {
+    console.log(`── Partial files (${partial.length}) ────────────────────────────────────────`);
+    for (const { slug, count, lastPage } of partial)
+      console.log(`  ~ pg=${String(lastPage).padEnd(4)} ${count.toString().padStart(4)} products  ${slug}`);
+    console.log("");
+  }
+
+  if (pending.length > 0) {
+    console.log(`── Pending — no file (${pending.length}) ─────────────────────────────────────`);
+    for (const { slug } of pending) console.log(`  ✗ ${slug}`);
+    console.log("");
+  }
+
+  const suspect = buckets[0].length + buckets["1-9"].length + partial.length + pending.length;
+  console.log(`── Re-run recommendation ────────────────────────────────────────────`);
+  console.log(`  ${suspect} categories need attention.`);
+  if (suspect > 0) {
+    console.log(`  To re-run 0/low-count as if new:  node trendyol/collect_category_ids.js --min-products=10`);
+    console.log(`  To re-run everything below 50:    node trendyol/collect_category_ids.js --min-products=50`);
+  }
+  console.log("");
+}
+
 // ─── resume helpers ───────────────────────────────────────────────────────────
 
+function readDoneCount(slug) {
+  const p = path.join(OUTPUT_DIR, `${slug}_ids.json`);
+  if (!fs.existsSync(p)) return null;
+  try {
+    const d = JSON.parse(fs.readFileSync(p, "utf8"));
+    return d.uniqueCount ?? (Array.isArray(d.products) ? d.products.length : 0);
+  } catch { return 0; }
+}
+
 function isCategoryComplete(slug) {
-  return fs.existsSync(path.join(OUTPUT_DIR, `${slug}_ids.json`));
+  const count = readDoneCount(slug);
+  if (count === null) return false;
+  if (MIN_PRODUCTS > 0 && count < MIN_PRODUCTS) return false;
+  return true;
 }
 
 // Returns { products: [{id,url}], lastPage: N } or null.
+// When --min-products is set and a done file exists but is below threshold,
+// load its products as a base and restart from page 1 (lastPage: 0).
 function loadPartialData(slug) {
   const partialPath = path.join(OUTPUT_DIR, `${slug}_ids.partial.json`);
-  if (!fs.existsSync(partialPath)) return null;
-  try {
-    const data = JSON.parse(fs.readFileSync(partialPath, "utf8"));
-    if (data.partial && typeof data.lastPage === "number" && Array.isArray(data.products)) {
-      return { products: data.products, lastPage: data.lastPage };
+  if (fs.existsSync(partialPath)) {
+    try {
+      const data = JSON.parse(fs.readFileSync(partialPath, "utf8"));
+      if (data.partial && typeof data.lastPage === "number" && Array.isArray(data.products)) {
+        return { products: data.products, lastPage: data.lastPage };
+      }
+    } catch {}
+  }
+  // Under --min-products: done file exists but below threshold — re-run from pg 1, seed with existing
+  if (MIN_PRODUCTS > 0) {
+    const donePath = path.join(OUTPUT_DIR, `${slug}_ids.json`);
+    if (fs.existsSync(donePath)) {
+      try {
+        const data = JSON.parse(fs.readFileSync(donePath, "utf8"));
+        const count = data.uniqueCount ?? 0;
+        if (count < MIN_PRODUCTS && Array.isArray(data.products)) {
+          console.log(`[RECHECK] ${slug} has ${count} products < ${MIN_PRODUCTS}, re-scraping from pg=1`);
+          return { products: data.products, lastPage: 0 };
+        }
+      } catch {}
     }
-  } catch {}
+  }
   return null;
 }
 
@@ -206,7 +327,7 @@ async function scrapePageWithInterception(page, pageUrl, slug, pg) {
   }
 
   // Wait for in-flight XHRs (color-variants fire after the main products response)
-  await sleep(2500);
+  await sleep(API_SETTLE_MS);
 
   page.off("response", handler);
 
@@ -348,6 +469,14 @@ function saveAllActivePartials() {
 async function createWorkerPage(context) {
   const page = await context.newPage();
   page.setDefaultNavigationTimeout(30000);
+  // Block heavy resources — we only need API intercepts, not rendered content
+  await page.route("**/*", (route) => {
+    const type = route.request().resourceType();
+    if (["image", "stylesheet", "font", "media", "other"].includes(type)) {
+      return route.abort();
+    }
+    return route.continue();
+  });
   return page;
 }
 
@@ -446,18 +575,39 @@ process.on("SIGINT", () => {
     process.exit(0);
   }
 
+  if (SHOW_AUDIT) {
+    printAudit(categoryUrls);
+    process.exit(0);
+  }
+
+  if (MIN_PRODUCTS > 0) {
+    console.log(`[INFO] --min-products=${MIN_PRODUCTS}: categories with fewer products will be re-scraped`);
+  }
+
   const context = await chromium.launchPersistentContext(
     path.join(__dirname, ".pw-user"),
     {
       headless: false,
       args: [
-        "--disable-backgrounding-occluded-windows",
-        "--disable-renderer-backgrounding",
-        "--disable-features=CalculateNativeWinOcclusion",
+        // Anti-detection: hide navigator.webdriver and automation fingerprint
+        "--disable-blink-features=AutomationControlled",
+        // WSL/container stability
         "--disable-dev-shm-usage",
+        "--no-sandbox",
+        "--disable-setuid-sandbox",
+        // GPU: disable hardware, keep software rasterizer for non-headless rendering
+        "--disable-gpu",
+        // Suppress noise
         "--no-first-run",
         "--no-default-browser-check",
         "--disable-popup-blocking",
+        "--disable-extensions",
+        "--disable-sync",
+        "--disable-translate",
+        "--disable-notifications",
+        "--mute-audio",
+        // Memory: 512MB V8 heap — 256 was too tight and caused crashes on complex pages
+        "--js-flags=--max-old-space-size=512",
       ],
       viewport: { width: 1280, height: 900 },
     }
