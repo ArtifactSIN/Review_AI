@@ -39,7 +39,7 @@ function transformReview(raw, productId, categorySlug, gid) {
     rid:              String(raw.id ?? ''),
     pid:              String(productId),
     seller:           raw.sellerNickname    ?? null,
-    product_name:     null,
+    product_name:     raw.productTitle ?? raw.productSubTitle ?? null,
     comment:          raw.contents          ?? null,
     rating_score:     typeof raw.scoreAsStar === 'number' ? raw.scoreAsStar * 20 : null,
     timestamp:        parseN11Date(raw.createdDate),

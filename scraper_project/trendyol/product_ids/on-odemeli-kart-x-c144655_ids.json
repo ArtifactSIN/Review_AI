@@ -1,7 +1,278 @@
 {
   "categoryUrl": "https://www.trendyol.com/on-odemeli-kart-x-c144655",
   "slug": "on-odemeli-kart-x-c144655",
-  "collectedAt": "2026-05-12T00:49:23.945Z",
-  "uniqueCount": 0,
-  "products": []
+  "collectedAt": "2026-05-13T21:55:34.371Z",
+  "uniqueCount": 54,
+  "products": [
+    {
+      "id": "147893922",
+      "url": "/fups/kart-p-147893922?boutiqueId=61&merchantId=449982",
+      "name": "Kart"
+    },
+    {
+      "id": "947069709",
+      "url": "/umitaksoy/paycell-marka-kart-fiziki-mavi-mastercard-p-947069709?boutiqueId=61&merchantId=1009379",
+      "name": "Paycell Marka Kart Fiziki Mavi mastercard"
+    },
+    {
+      "id": "120113090",
+      "url": "/pokus/kart-p-120113090?boutiqueId=61&merchantId=409439",
+      "name": "Kart"
+    },
+    {
+      "id": "947075574",
+      "url": "/umitaksoy/paycell-marka-gamercard-siyah-visa-p-947075574?boutiqueId=61&merchantId=115213",
+      "name": "Paycell marka Gamercard siyah visa"
+    },
+    {
+      "id": "1048056996",
+      "url": "/genel-markalar/nfc-kart-ntag213-pvc-mat-10-adet-p-1048056996?boutiqueId=61&merchantId=1024436",
+      "name": "NFC Kart NTAG213 PVC Mat - 10 ADET"
+    },
+    {
+      "id": "1135105306",
+      "url": "/wificam/turkcell-4g-yillik-data-sim-kart-her-ay-8gb-4g-tekli-ve-ikili-kameralara-ozel-hat-p-1135105306?boutiqueId=61&merchantId=891703",
+      "name": "Turkcell 4g Yıllık Data Sim Kart Her Ay 8gb 4G Tekli Ve İkili Kameralara Özel Hat"
+    },
+    {
+      "id": "1084099832",
+      "url": "/fenerbahce/wireless-charger-p-1084099832?boutiqueId=61&merchantId=454",
+      "name": "WIRELESS CHARGER"
+    },
+    {
+      "id": "1131700809",
+      "url": "/manakart/nfc-dijital-silver-kartvizit-kisilestirilebilir-p-1131700809?boutiqueId=61&merchantId=1256700",
+      "name": "Nfc Dijital Silver Kartvizit (Kişileştirilebilir)"
+    },
+    {
+      "id": "1135110576",
+      "url": "/wificam/turkcell-4g-yillik-data-sim-kart-her-ay-500-gb-1-yillik-hat-p-1135110576?boutiqueId=61&merchantId=891703",
+      "name": "Turkcell 4g Yıllık Data Sim Kart Her Ay 500 gb 1 Yıllık Hat"
+    },
+    {
+      "id": "1141399220",
+      "url": "/turkcell/4g-yillik-data-sim-kart-her-ay-8gb-4g-tekli-ve-ikili-kameralara-ozel-hat-p-1141399220?boutiqueId=61&merchantId=1112252",
+      "name": "4g Yıllık Data Sim Kart Her Ay 8gb 4G Tekli Ve İkili Kameralara Özel Hat"
+    },
+    {
+      "id": "968365242",
+      "url": "/creamobile/kimizbiz-yapay-zeka-destekli-temassiz-tanitim-karti-ve-akilli-crm-asistani-p-968365242?boutiqueId=61&merchantId=1149555",
+      "name": "KimizBiz+ Yapay Zeka Destekli Temassız Tanıtım Kartı ve Akıllı CRM Asistanı"
+    },
+    {
+      "id": "980969798",
+      "url": "/fenerbahce/boyun-masaj-yastigi-p-980969798?boutiqueId=61&merchantId=454",
+      "name": "BOYUN MASAJ YASTIĞI"
+    },
+    {
+      "id": "981743675",
+      "url": "/lineer/fenerbahce-nfc-dijital-kartvizit-p-981743675?boutiqueId=61&merchantId=1141828",
+      "name": "Fenerbahçe NFC Dijital Kartvizit"
+    },
+    {
+      "id": "1064395699",
+      "url": "/dijitalim-pro/google-yorum-anahtarligi-dijital-kartvizit-yorum-standi-muhtesem-3-lu-set-p-1064395699?boutiqueId=61&merchantId=1204659",
+      "name": "GOOGLE YORUM ANAHTARLIĞI + DİJİTAL KARTVİZİT + YORUM STANDI MUHTEŞEM 3 LÜ SET"
+    },
+    {
+      "id": "1131699615",
+      "url": "/manakart/nfc-black-dijital-kartvizit-kisilestirilebilir-p-1131699615?boutiqueId=61&merchantId=1256700",
+      "name": "Nfc Black Dijital Kartvizit (Kişileştirilebilir)"
+    },
+    {
+      "id": "1131701851",
+      "url": "/manakart/nfc-dijittal-gold-kartvizit-kisilestirilebilir-p-1131701851?boutiqueId=61&merchantId=1256700",
+      "name": "Nfc Dijittal Gold Kartvizit (Kişileştirilebilir)"
+    },
+    {
+      "id": "1144502311",
+      "url": "/brf/defyasell-sanec-em4100-125-khz-rfid-kart-arduino-1228508-p-1144502311?boutiqueId=61&merchantId=1228508",
+      "name": "DefyaSell SANEC EM4100 125 KHZ RFID KART - Arduino 1228508"
+    },
+    {
+      "id": "1142632774",
+      "url": "/manakart/nfc-black-dijital-kartvizit-uzerine-gold-baski-kisilestirilebilir-p-1142632774?boutiqueId=61&merchantId=1256700",
+      "name": "Nfc Black Dijital Kartvizit Üzerine Gold Baskı (Kişileştirilebilir)"
+    },
+    {
+      "id": "1135108758",
+      "url": "/wificam/turkcell-4g-yillik-data-sim-kart-her-ay-250-gb-1-yillik-hat-p-1135108758?boutiqueId=61&merchantId=891703",
+      "name": "Turkcell 4g Yıllık Data Sim Kart Her Ay 250 gb 1 Yıllık Hat"
+    },
+    {
+      "id": "903842639",
+      "url": "/1001/kisilestirebilir-gold-nfc-dijital-kartvizit-p-903842639?boutiqueId=61&merchantId=145649",
+      "name": "Kişileştirebilir Gold NFC Dijital Kartvizit"
+    },
+    {
+      "id": "981743676",
+      "url": "/lineer/galatasaray-nfc-dijital-kartvizit-p-981743676?boutiqueId=61&merchantId=1141828",
+      "name": "Galatasaray NFC Dijital Kartvizit"
+    },
+    {
+      "id": "1135108446",
+      "url": "/wificam/turkcell-4g-yillik-data-sim-kart-her-ay-50-gb-1-yillik-hat-p-1135108446?boutiqueId=61&merchantId=891703",
+      "name": "Turkcell 4g Yıllık Data Sim Kart Her Ay 50 gb 1 Yıllık Hat"
+    },
+    {
+      "id": "877153741",
+      "url": "/kaptan-aksesuar/pokus-kart-on-odemeli-akilli-kart-temassiz-odeme-online-alisveris-uyumlu-guvenli-kullanim-p-877153741?boutiqueId=61&merchantId=622565",
+      "name": "Pokus Kart Ön Ödemeli Akıllı Kart Temassız Ödeme Online Alışveriş Uyumlu Güvenli Kullanım"
+    },
+    {
+      "id": "1144504762",
+      "url": "/brf/defyasell-gp-batteries-cr2032-5-li-kart-lityum-dugme-pil-3-volt-1228508-p-1144504762?boutiqueId=61&merchantId=1228508",
+      "name": "DefyaSell Gp Batteries Cr2032, 5'Li Kart, Lityum Düğme Pil, 3 Volt 1228508"
+    },
+    {
+      "id": "1135106743",
+      "url": "/wificam/turkcell-4g-yillik-data-sim-kart-her-ay-15gb-4g-4lu-kameralar-icin-yeterlidir-p-1135106743?boutiqueId=61&merchantId=891703",
+      "name": "Turkcell 4g Yıllık Data Sim Kart Her Ay 15gb 4G 4Lü Kameralar İçin Yeterlidir"
+    },
+    {
+      "id": "1144503921",
+      "url": "/brf/defyasell-gp-batteries-cr1632-1632-boy-lityum-dugme-pil-3-volt-5-li-kart-1228508-p-1144503921?boutiqueId=61&merchantId=1228508",
+      "name": "DefyaSell Gp Batteries Cr1632 1632 Boy Lityum Düğme Pil, 3 Volt, 5'Li Kart 1228508"
+    },
+    {
+      "id": "313666169",
+      "url": "/boker/boker-celik-rakam-941-12-mm-p-313666169?boutiqueId=61&merchantId=222411",
+      "name": "Boker Çelik Rakam 941 / 12 Mm"
+    },
+    {
+      "id": "1135104663",
+      "url": "/wificam/turkcell-4g-yillik-data-sim-kart-her-ay-5gb-4g-tekli-kameralara-ozel-hat-p-1135104663?boutiqueId=61&merchantId=891703",
+      "name": "Turkcell 4g Yıllık Data Sim Kart Her Ay 5gb 4G Tekli Kameralara Özel Hat"
+    },
+    {
+      "id": "1135108639",
+      "url": "/wificam/turkcell-4g-yillik-data-sim-kart-her-ay-150-gb-1-yillik-hat-p-1135108639?boutiqueId=61&merchantId=891703",
+      "name": "Turkcell 4g Yıllık Data Sim Kart Her Ay 150 gb 1 Yıllık Hat"
+    },
+    {
+      "id": "1144505426",
+      "url": "/brf/defyasell-yale-ysv-170-db2-dijital-kollu-kasa-mini-boy-siyah-1228508-p-1144505426?boutiqueId=61&merchantId=1228508",
+      "name": "DefyaSell Yale YSV/170/DB2 Dijital Kollu Kasa - Mini Boy - Siyah 1228508"
+    },
+    {
+      "id": "952299849",
+      "url": "/lineer/nfc-dijital-kartvizit-p-952299849?boutiqueId=61&merchantId=1141828",
+      "name": "NFC Dijital Kartvizit"
+    },
+    {
+      "id": "1135106978",
+      "url": "/wificam/turkcell-4g-yillik-data-sim-kart-her-ay-25gb-1-yillik-hat-p-1135106978?boutiqueId=61&merchantId=891703",
+      "name": "Turkcell 4g Yıllık Data Sim Kart Her Ay 25gb 1 Yıllık Hat"
+    },
+    {
+      "id": "1072359987",
+      "url": "/nealdin/gold-metal-nfc-kartvizit-ntag215-temassiz-nfc-kart-86-56-mm-540-b-p-1072359987?boutiqueId=61&merchantId=774008",
+      "name": "Gold Metal NFC Kartvizit – NTAG215 Temassız NFC Kart (86×56 mm, 540 B)"
+    },
+    {
+      "id": "991514137",
+      "url": "/mm/mmkart-p-991514137?boutiqueId=61&merchantId=1160700",
+      "name": "MMKart"
+    },
+    {
+      "id": "212080358",
+      "url": "/bms/dijtal-kartvizit-kart-siyah-p-212080358?boutiqueId=61&merchantId=518584",
+      "name": "Dijtal Kartvizit Kart Siyah"
+    },
+    {
+      "id": "954749051",
+      "url": "/lineer/nfc-dijital-kartvizit-p-954749051?boutiqueId=61&merchantId=1141828",
+      "name": "NFC Dijital Kartvizit"
+    },
+    {
+      "id": "1117150085",
+      "url": "/empressco/rahatlatici-boyun-masaj-yastigi-ile-konforunuzu-artirin-p-1117150085?boutiqueId=61&merchantId=1242118",
+      "name": "Rahatlatıcı Boyun Masaj Yastığı ile Konforunuzu Artırın"
+    },
+    {
+      "id": "1131732073",
+      "url": "/manakart/nfc-dijital-renkli-kartvizit-kisilestirilebilir-p-1131732073?boutiqueId=61&merchantId=1256700",
+      "name": "Nfc Dijital Renkli Kartvizit (Kişileştirilebilir)"
+    },
+    {
+      "id": "903843180",
+      "url": "/1001/kisilestirebilir-space-nfc-dijital-kartvizit-p-903843180?boutiqueId=61&merchantId=145649",
+      "name": "Kişileştirebilir Space NFC Dijital Kartvizit"
+    },
+    {
+      "id": "988471512",
+      "url": "/mm/dijital-isyeri-etiketi-p-988471512?boutiqueId=61&merchantId=1160700",
+      "name": "Dijital İşyeri Etiketi"
+    },
+    {
+      "id": "903842786",
+      "url": "/1001/kisilestirebilir-cream-nfc-dijital-kartvizit-p-903842786?boutiqueId=61&merchantId=145649",
+      "name": "Kişileştirebilir Cream NFC Dijital Kartvizit"
+    },
+    {
+      "id": "1131699146",
+      "url": "/manakart/akilli-bavul-karti-anlik-konum-bildirimi-p-1131699146?boutiqueId=61&merchantId=1256700",
+      "name": "Akıllı Bavul Kartı (Anlık Konum Bildirimi)"
+    },
+    {
+      "id": "1131698262",
+      "url": "/manakart/nfc-akilli-arac-karti-sigorta-muayene-gibi-periyodik-tarihleri-bildirim-p-1131698262?boutiqueId=61&merchantId=1256700",
+      "name": "Nfc Akıllı Araç Kartı (Sigorta,muayene Gibi Periyodik Tarihleri Bildirim)"
+    },
+    {
+      "id": "753777279",
+      "url": "/digital-card/standart-digital-card-p-753777279?boutiqueId=61&merchantId=806713",
+      "name": "Standart Digital Card"
+    },
+    {
+      "id": "313666174",
+      "url": "/bemis/kaucuklu-seyyar-priz-3-25a-disi-trifaze-p-313666174?boutiqueId=61&merchantId=222411",
+      "name": "Kauçuklu Seyyar Priz 3*25a Dişi Trifaze"
+    },
+    {
+      "id": "1131698770",
+      "url": "/manakart/akilli-arac-karti-sigort-muayene-gibi-periyodik-bakim-tarihlerinde-bildirim-p-1131698770?boutiqueId=61&merchantId=1256700",
+      "name": "Akıllı Araç Kartı (Sigort,muayene Gibi Periyodik Bakım Tarihlerinde Bildirim)"
+    },
+    {
+      "id": "1142642762",
+      "url": "/manakart/mana-tag-etiket-yesil-p-1142642762?boutiqueId=61&merchantId=1256700",
+      "name": "Mana Tag Etiket (YEŞİL)"
+    },
+    {
+      "id": "313662587",
+      "url": "/boker/boker-celik-rakam-941-10-mm-p-313662587?boutiqueId=61&merchantId=222411",
+      "name": "Boker Çelik Rakam 941 / 10 Mm"
+    },
+    {
+      "id": "237192975",
+      "url": "/bms/dijital-kartvizit-kart-beyaz-p-237192975?boutiqueId=61&merchantId=518584",
+      "name": "Dijital Kartvizit Kart Beyaz"
+    },
+    {
+      "id": "754500014",
+      "url": "/digital-card/anahtarlik-p-754500014?boutiqueId=61&merchantId=806713",
+      "name": "Anahtarlık"
+    },
+    {
+      "id": "988464280",
+      "url": "/mm/dijital-arac-etiketi-p-988464280?boutiqueId=61&merchantId=1160700",
+      "name": "Dijital Araç Etiketi"
+    },
+    {
+      "id": "1142642647",
+      "url": "/manakart/mana-tag-etiket-mavi-p-1142642647?boutiqueId=61&merchantId=1256700",
+      "name": "Mana Tag Etiket (MAVİ)"
+    },
+    {
+      "id": "345392123",
+      "url": "/astor/celik-tezgah-mengenesi-150-mm-p-345392123?boutiqueId=61&merchantId=222411",
+      "name": "Çelik Tezgah Mengenesi 150 Mm"
+    },
+    {
+      "id": "980972789",
+      "url": "/mm/dijital-telefon-kartviziti-p-980972789?boutiqueId=61&merchantId=1160700",
+      "name": "Dijital Telefon Kartviziti"
+    }
+  ]
 }

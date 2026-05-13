@@ -58,17 +58,19 @@ console = Console()
 # ─── launcher presets ─────────────────────────────────────────────────────────
 
 PRESETS = [
-    {"label": "Full Run",                "hint": "all pending categories, skip completed",         "concurrency": 3, "min_products": 0,   "mode": "run"},
-    {"label": "Re-check Empty   (< 10)", "hint": "re-scrape 0-9 product categories from page 1",  "concurrency": 3, "min_products": 10,  "mode": "run"},
-    {"label": "Re-check Low    (< 50)",  "hint": "re-scrape anything below 50 products",           "concurrency": 3, "min_products": 50,  "mode": "run"},
-    {"label": "Re-check Medium (< 200)", "hint": "re-scrape anything below 200 products",          "concurrency": 3, "min_products": 200, "mode": "run"},
-    {"label": "High Speed      (c=5)",   "hint": "5 parallel workers — fast connection only",      "concurrency": 5, "min_products": 0,   "mode": "run"},
-    {"label": "Audit Only",              "hint": "health check — no browser, print distribution",  "concurrency": 1, "min_products": 0,   "mode": "audit"},
-    {"label": "Status Only",             "hint": "file-existence check — no browser, very fast",   "concurrency": 1, "min_products": 0,   "mode": "status"},
-    {"label": "Custom...",               "hint": "set concurrency and min-products manually",       "concurrency": 3, "min_products": 0,   "mode": "custom"},
+    {"label": "Fill to 1000",        "hint": "re-scrape all categories with < 1000 products",          "concurrency": 3,  "min_products": 1000, "target": 0,    "mode": "run"},
+    {"label": "Expand to 2000 c=10", "hint": "collect up to 2000 per category — seeds from existing",  "concurrency": 10, "min_products": 2000, "target": 2000, "mode": "run"},
+    {"label": "Fix Names  c=5",      "hint": "backfill missing product names — 452 files affected",    "concurrency": 5,  "min_products": 0,    "target": 0,    "fix_names": True, "mode": "run"},
+    {"label": "Skip Completed",      "hint": "only scrape categories with no file yet",                "concurrency": 3,  "min_products": 0,    "target": 0,    "mode": "run"},
+    {"label": "Re-check Low (<50)",  "hint": "re-scrape categories below 50 products",                 "concurrency": 3,  "min_products": 50,   "target": 0,    "mode": "run"},
+    {"label": "Speed  c=4",          "hint": "4 parallel workers, fill to 1000",                       "concurrency": 4,  "min_products": 1000, "target": 0,    "mode": "run"},
+    {"label": "Speed  c=6",          "hint": "6 parallel workers, fill to 1000",                       "concurrency": 6,  "min_products": 1000, "target": 0,    "mode": "run"},
+    {"label": "Speed  c=8",          "hint": "8 parallel workers — high load",                         "concurrency": 8,  "min_products": 1000, "target": 0,    "mode": "run"},
+    {"label": "Custom...",           "hint": "set concurrency, target, and min-products manually",      "concurrency": 3,  "min_products": 0,    "target": 0,    "mode": "custom"},
 ]
 
-MIN_PRODUCTS_STEPS = [0, 5, 10, 25, 50, 100, 200, 300, 500]
+MIN_PRODUCTS_STEPS = [0, 5, 10, 25, 50, 100, 200, 300, 500, 1000, 2000]
+TARGET_STEPS       = [50, 100, 200, 300, 500, 750, 1000, 1500, 2000]
 
 # ─── state ────────────────────────────────────────────────────────────────────
 
@@ -83,22 +85,26 @@ class CategoryState:
         self.started_at = None
         self.finished_at = None
 
-    def progress_pct(self):
-        return min(100, int(self.total / TARGET * 100))
+    def progress_pct(self, target=1000):
+        if target <= 0:
+            target = 1000
+        return min(100, int(self.total / target * 100))
 
-    def eta_str(self):
+    def eta_str(self, target=1000):
+        if target <= 0:
+            target = 1000
         if self.status in ("done", "partial") or self.total == 0 or self.started_at is None:
             return "-"
         elapsed = time.time() - self.started_at
         rate = self.total / elapsed if elapsed > 0 else 0
         if rate == 0:
             return "?"
-        remaining = (TARGET - self.total) / rate
+        remaining = (target - self.total) / rate
         return str(timedelta(seconds=int(remaining)))
 
 
 class RunState:
-    def __init__(self):
+    def __init__(self, target=1000):
         self.categories = {}    # slug → CategoryState
         self.log_lines  = []
         self.log_max    = 30
@@ -106,6 +112,7 @@ class RunState:
         self.node_pid   = None
         self.finished   = False
         self.paused     = False
+        self.target     = target if target > 0 else 1000
         self.lock       = threading.Lock()
 
     def add_log(self, line):
@@ -129,10 +136,12 @@ class RunState:
 # ─── log parsing ──────────────────────────────────────────────────────────────
 
 RE_START    = re.compile(r"^\[START\]\s+(.+)$")
-RE_PROGRESS = re.compile(r"^\[(.+?)\]\s+pg=(\d+)\s+\+\d+\s+new,\s+total=(\d+)")
+RE_RESUME   = re.compile(r"^\[RESUME\]\s+(.+?)\s+from\s+pi=\d+")
+RE_PROGRESS = re.compile(r"^\[(.+?)\]\s+pi=(\d+)\s+\+\d+\s+new,\s+total=(\d+)")
 RE_SAVED    = re.compile(r"^\[SAVED\].+\((\d+)\s+products\)")
 RE_PARTIAL  = re.compile(r"^\[PARTIAL SAVED\].+?([^/]+)_ids\.partial\.json")
 RE_WORKER   = re.compile(r"^\[WORKER (\d+)\]\s+starting\s+(.+)$")
+RE_SKIP     = re.compile(r"^\[SKIP\]\s+(.+?)\s+already complete$")
 RE_ERROR    = re.compile(r"^\[ERROR\]\s+(.+)$")
 RE_DONE_CAT = re.compile(r"^\[SAVED\].+?([^/\\]+)_ids\.json")
 
@@ -162,14 +171,47 @@ def parse_line(line, state):
         state.update(f)
         return
 
+    m = RE_SKIP.match(line)
+    if m:
+        slug = m.group(1).strip()
+        ids_file = PRODUCT_IDS_DIR / f"{slug}_ids.json"
+        count = 0
+        if ids_file.exists():
+            try:
+                data  = json.loads(ids_file.read_text(encoding="utf-8"))
+                count = data.get("uniqueCount", len(data.get("products", data.get("ids", []))))
+            except Exception:
+                pass
+        def f(s, _slug=slug, _count=count):
+            if _slug not in s.categories:
+                s.categories[_slug] = CategoryState(_slug, "")
+            cat = s.categories[_slug]
+            cat.status      = "done"
+            cat.total       = _count
+            cat.finished_at = time.time()
+        state.update(f)
+        return
+
     m = RE_START.match(line)
     if m:
         slug = m.group(1).strip()
-        def f(s):
-            if slug not in s.categories:
-                s.categories[slug] = CategoryState(slug, "")
-            cat = s.categories[slug]
-            cat.status = "running"
+        def f(s, _slug=slug):
+            if _slug not in s.categories:
+                s.categories[_slug] = CategoryState(_slug, "")
+            cat = s.categories[_slug]
+            cat.status     = "running"
+            cat.started_at = time.time()
+        state.update(f)
+        return
+
+    m = RE_RESUME.match(line)
+    if m:
+        slug = m.group(1).strip()
+        def f(s, _slug=slug):
+            if _slug not in s.categories:
+                s.categories[_slug] = CategoryState(_slug, "")
+            cat = s.categories[_slug]
+            cat.status     = "running"
             cat.started_at = time.time()
         state.update(f)
         return
@@ -235,7 +277,7 @@ STATUS_STYLE = {
 }
 
 
-def build_active_table(cats):
+def build_active_table(cats, target=1000):
     running = [c for c in cats.values() if c.status == "running"]
     table = Table(box=box.SIMPLE_HEAVY, show_header=True, header_style="bold cyan")
     table.add_column("Category",  min_width=26)
@@ -249,14 +291,14 @@ def build_active_table(cats):
         table.add_row("[dim]No active workers[/dim]", "", "", "", "", "")
     else:
         for cat in running:
-            pct = f"{cat.progress_pct()}%" if cat.total > 0 else "-"
+            pct = f"{cat.progress_pct(target)}%" if cat.total > 0 else "-"
             table.add_row(
                 cat.slug,
                 str(cat.worker) if cat.worker else "-",
                 str(cat.page)   if cat.page   else "-",
                 str(cat.total)  if cat.total  else "-",
                 pct,
-                cat.eta_str(),
+                cat.eta_str(target),
             )
     return table
 
@@ -338,7 +380,7 @@ def build_display(state, node_proc):
     cats       = state.get_cats()
     log        = state.get_log()
     header     = build_header(state, node_proc)
-    active_tbl = build_active_table(cats)
+    active_tbl = build_active_table(cats, state.target)
     queue_tbl  = build_queue_table(cats)
     log_panel  = build_log_panel(log)
 
@@ -366,25 +408,56 @@ def build_display(state, node_proc):
 
 # ─── keyboard input ────────────────────────────────────────────────────────────
 
-def key_reader_thread(key_queue, stop_event):
+def _start_key_reader(key_queue, stop_event):
+    """Unified key reader for launcher and run mode. Returns daemon thread."""
     if not HAS_TERMIOS:
-        return
-    fd  = sys.stdin.fileno()
-    old = termios.tcgetattr(fd)
-    try:
-        tty.setcbreak(fd)
-        while not stop_event.is_set():
-            r, _, _ = sel_module.select([fd], [], [], 0.1)
-            if r:
-                ch = os.read(fd, 1)
-                key_queue.put(ch.decode("ascii", errors="replace").lower())
-    except Exception:
-        pass
-    finally:
+        return None
+
+    def _thread():
+        fd  = sys.stdin.fileno()
+        old = termios.tcgetattr(fd)
         try:
-            termios.tcsetattr(fd, termios.TCSADRAIN, old)
+            tty.setcbreak(fd)
+            while not stop_event.is_set():
+                r, _, _ = sel_module.select([fd], [], [], 0.05)
+                if not r:
+                    continue
+                ch = os.read(fd, 1)
+                if not ch:
+                    continue
+                if ch == b"\x1b":
+                    r2, _, _ = sel_module.select([fd], [], [], 0.15)
+                    if r2:
+                        ch2 = os.read(fd, 1)
+                        if ch2 == b"[":
+                            r3, _, _ = sel_module.select([fd], [], [], 0.15)
+                            if r3:
+                                ch3 = os.read(fd, 1).decode("ascii", errors="replace")
+                                key_queue.put({"A": "up", "B": "down", "C": "right", "D": "left"}.get(ch3, "esc"))
+                                continue
+                    key_queue.put("esc")
+                elif ch in (b"\r", b"\n"):
+                    key_queue.put("enter")
+                elif ch == b"\x03":
+                    key_queue.put("ctrl_c")
+                elif ch == b"\t":
+                    key_queue.put("tab")
+                else:
+                    try:
+                        key_queue.put(ch.decode("ascii", errors="replace").lower())
+                    except Exception:
+                        pass
         except Exception:
             pass
+        finally:
+            try:
+                termios.tcsetattr(fd, termios.TCSADRAIN, old)
+            except Exception:
+                pass
+
+    t = threading.Thread(target=_thread, daemon=True)
+    t.start()
+    return t
 
 # ─── subprocess management ────────────────────────────────────────────────────
 
@@ -400,7 +473,7 @@ def stdout_reader(proc, state, line_queue):
 
 # ─── run mode ─────────────────────────────────────────────────────────────────
 
-def run_dashboard(concurrency=3, min_products=0):
+def run_dashboard(concurrency=3, min_products=0, target=0, fix_names=False):
     if not NODE_SCRIPT.exists():
         console.print(f"[red]Not found: {NODE_SCRIPT}[/red]")
         sys.exit(1)
@@ -410,7 +483,8 @@ def run_dashboard(concurrency=3, min_products=0):
         console.print("[red]categories.txt is empty.[/red]")
         sys.exit(1)
 
-    state = RunState()
+    effective_target = target if target > 0 else 1000
+    state = RunState(target=effective_target)
     with state.lock:
         for url in cats_raw:
             slug = slug_from_url(url)
@@ -419,6 +493,10 @@ def run_dashboard(concurrency=3, min_products=0):
     cmd = ["node", str(NODE_SCRIPT), f"--concurrency={concurrency}"]
     if min_products > 0:
         cmd.append(f"--min-products={min_products}")
+    if target > 0:
+        cmd.append(f"--target={target}")
+    if fix_names:
+        cmd.append("--fix-names")
     console.print(f"[dim]Launching: {' '.join(cmd)}[/dim]")
 
     node_proc = subprocess.Popen(
@@ -433,8 +511,16 @@ def run_dashboard(concurrency=3, min_products=0):
     key_queue  = queue.Queue()
     stop_event = threading.Event()
 
+    # Capture terminal state before key reader sets cbreak; restored explicitly after run
+    old_term = None
+    if HAS_TERMIOS:
+        try:
+            old_term = termios.tcgetattr(sys.stdin.fileno())
+        except Exception:
+            pass
+
     threading.Thread(target=stdout_reader, args=(node_proc, state, line_queue), daemon=True).start()
-    threading.Thread(target=key_reader_thread, args=(key_queue, stop_event), daemon=True).start()
+    _start_key_reader(key_queue, stop_event)
 
     def shutdown(sig=None, frame=None):
         if state.paused:
@@ -452,56 +538,63 @@ def run_dashboard(concurrency=3, min_products=0):
 
     signal.signal(signal.SIGINT, shutdown)
 
-    with Live(console=console, refresh_per_second=2, screen=False) as live:
-        while True:
-            # Drain stdout
-            try:
-                while True:
-                    line = line_queue.get_nowait()
-                    if line is None:
-                        state.finished = True
-                        break
-                    parse_line(line, state)
-            except queue.Empty:
-                pass
-
-            # Handle keypresses
-            try:
-                while True:
-                    ch = key_queue.get_nowait()
-                    if ch == 'p' and node_proc.poll() is None:
-                        if state.paused:
-                            node_proc.send_signal(signal.SIGCONT)
-                            state.paused = False
-                            state.add_log("[DASHBOARD] Resumed.")
-                        else:
-                            node_proc.send_signal(signal.SIGSTOP)
-                            state.paused = True
-                            state.add_log("[DASHBOARD] Paused.")
-                    elif ch in ('q',):
-                        shutdown()
-            except queue.Empty:
-                pass
-
-            live.update(build_display(state, node_proc))
-
-            if state.finished or node_proc.poll() is not None:
-                time.sleep(0.5)
+    try:
+        with Live(console=console, refresh_per_second=2, screen=False) as live:
+            while True:
+                # Drain stdout
                 try:
                     while True:
                         line = line_queue.get_nowait()
                         if line is None:
+                            state.finished = True
                             break
                         parse_line(line, state)
                 except queue.Empty:
                     pass
+
+                # Handle keypresses
+                try:
+                    while True:
+                        ch = key_queue.get_nowait()
+                        if ch == "p" and node_proc.poll() is None:
+                            if state.paused:
+                                node_proc.send_signal(signal.SIGCONT)
+                                state.paused = False
+                                state.add_log("[DASHBOARD] Resumed.")
+                            else:
+                                node_proc.send_signal(signal.SIGSTOP)
+                                state.paused = True
+                                state.add_log("[DASHBOARD] Paused.")
+                        elif ch in ("q", "esc", "ctrl_c"):
+                            shutdown()
+                except queue.Empty:
+                    pass
+
                 live.update(build_display(state, node_proc))
-                break
 
-            time.sleep(0.5)
+                if state.finished or node_proc.poll() is not None:
+                    time.sleep(0.5)
+                    try:
+                        while True:
+                            line = line_queue.get_nowait()
+                            if line is None:
+                                break
+                            parse_line(line, state)
+                    except queue.Empty:
+                        pass
+                    live.update(build_display(state, node_proc))
+                    break
 
-    stop_event.set()
-    node_proc.wait()
+                time.sleep(0.5)
+    finally:
+        stop_event.set()
+        node_proc.wait()
+        if HAS_TERMIOS and old_term is not None:
+            try:
+                termios.tcsetattr(sys.stdin.fileno(), termios.TCSADRAIN, old_term)
+            except Exception:
+                pass
+
     show_status()
 
 # ─── status mode ──────────────────────────────────────────────────────────────
@@ -638,25 +731,26 @@ def get_quick_stats():
 
 
 def _build_node_cmd(cfg):
-    if cfg["mode"] == "audit":
-        return ["node", "collect_category_ids.js", "--audit"]
-    if cfg["mode"] == "status":
-        return ["node", "collect_category_ids.js", "--status"]
     cmd = ["node", "collect_category_ids.js", f"--concurrency={cfg['concurrency']}"]
     if cfg.get("min_products", 0) > 0:
         cmd.append(f"--min-products={cfg['min_products']}")
+    if cfg.get("target", 0) > 0:
+        cmd.append(f"--target={cfg['target']}")
+    if cfg.get("fix_names"):
+        cmd.append("--fix-names")
     return cmd
 
 
 
 class Launcher:
     def __init__(self):
-        self.idx            = 0
-        self.in_custom      = False
-        self.cfield         = 0   # 0 = concurrency, 1 = min_products
-        self.custom_conc    = 3
-        self.custom_min_idx = 0   # index into MIN_PRODUCTS_STEPS
-        self.stats          = get_quick_stats()
+        self.idx               = 0
+        self.in_custom         = False
+        self.cfield            = 0   # 0 = concurrency, 1 = min_products, 2 = target
+        self.custom_conc       = 3
+        self.custom_min_idx    = 0   # index into MIN_PRODUCTS_STEPS
+        self.custom_target_idx = 6   # index into TARGET_STEPS (default 1000)
+        self.stats             = get_quick_stats()
 
     # ── helpers ────────────────────────────────────────────────────────────────
 
@@ -665,6 +759,7 @@ class Launcher:
         if p["mode"] == "custom":
             p["concurrency"]  = self.custom_conc
             p["min_products"] = MIN_PRODUCTS_STEPS[self.custom_min_idx]
+            p["target"]       = TARGET_STEPS[self.custom_target_idx]
             p["mode"]         = "run"
         return p
 
@@ -708,8 +803,10 @@ class Launcher:
 
     def _custom_panel(self):
         mp     = MIN_PRODUCTS_STEPS[self.custom_min_idx]
+        tgt    = TARGET_STEPS[self.custom_target_idx]
         cs     = "bold cyan" if self.cfield == 0 else "white"
         ms     = "bold cyan" if self.cfield == 1 else "white"
+        ts     = "bold cyan" if self.cfield == 2 else "white"
 
         t = Text()
         t.append("\n  ↑↓ switch field   ←→ adjust value\n\n", style="dim")
@@ -723,6 +820,11 @@ class Launcher:
         if mp:
             t.append(f"   re-run if < {mp}", style="dim")
         t.append("\n\n", style="dim")
+
+        t.append("  Target         ", style="dim")
+        t.append("◄", style=ts); t.append(f"  {tgt}  ", style=ts); t.append("►", style=ts)
+        t.append("   max products per category\n\n", style="dim")
+
         t.append("  ENTER  confirm     ESC  cancel\n", style="dim")
         return Panel(t, title="[bold cyan]Custom Configuration[/bold cyan]", border_style="cyan")
 
@@ -755,49 +857,10 @@ class Launcher:
         )
         return layout
 
-    # ── key reading (background thread, same pattern as key_reader_thread) ────────
+    # ── key reading ────────────────────────────────────────────────────────────────
 
     def _start_key_thread(self, key_queue, stop_event):
-        def _thread():
-            fd  = sys.stdin.fileno()
-            old = termios.tcgetattr(fd)
-            try:
-                tty.setcbreak(fd)
-                while not stop_event.is_set():
-                    # Use raw fd in select — sys.stdin (TextIOWrapper) drains the OS
-                    # buffer on read(1), so subsequent select([sys.stdin]) sees no data
-                    # even though the TextIOWrapper internal buffer still has [A/B/C/D.
-                    r, _, _ = sel_module.select([fd], [], [], 0.1)
-                    if not r:
-                        continue
-                    ch = os.read(fd, 1)          # raw read, no TextIOWrapper buffering
-                    if ch == b"\x1b":
-                        r2, _, _ = sel_module.select([fd], [], [], 0.15)
-                        if r2:
-                            ch2 = os.read(fd, 1)
-                            if ch2 == b"[":
-                                r3, _, _ = sel_module.select([fd], [], [], 0.15)
-                                if r3:
-                                    ch3 = os.read(fd, 1).decode("ascii", errors="replace")
-                                    key_queue.put({"A": "up", "B": "down", "C": "right", "D": "left"}.get(ch3, "esc"))
-                                    continue
-                        key_queue.put("esc")
-                    elif ch in (b"\r", b"\n"):
-                        key_queue.put("enter")
-                    elif ch == b"\x03":
-                        key_queue.put("ctrl_c")
-                    elif ch == b"\t":
-                        key_queue.put("tab")
-                    else:
-                        key_queue.put(ch.decode("ascii", errors="replace").lower())
-            except Exception:
-                pass
-            finally:
-                try:
-                    termios.tcsetattr(fd, termios.TCSADRAIN, old)
-                except Exception:
-                    pass
-        threading.Thread(target=_thread, daemon=True).start()
+        _start_key_reader(key_queue, stop_event)
 
     # ── interaction loop ───────────────────────────────────────────────────────
 
@@ -832,17 +895,21 @@ class Launcher:
                         elif key in ("up", "k"):
                             self.cfield = max(0, self.cfield - 1)
                         elif key in ("down", "j", "tab"):
-                            self.cfield = min(1, self.cfield + 1)
+                            self.cfield = min(2, self.cfield + 1)
                         elif key in ("right", "l"):
                             if self.cfield == 0:
                                 self.custom_conc = min(10, self.custom_conc + 1)
-                            else:
+                            elif self.cfield == 1:
                                 self.custom_min_idx = min(len(MIN_PRODUCTS_STEPS) - 1, self.custom_min_idx + 1)
+                            else:
+                                self.custom_target_idx = min(len(TARGET_STEPS) - 1, self.custom_target_idx + 1)
                         elif key in ("left", "h"):
                             if self.cfield == 0:
                                 self.custom_conc = max(1, self.custom_conc - 1)
-                            else:
+                            elif self.cfield == 1:
                                 self.custom_min_idx = max(0, self.custom_min_idx - 1)
+                            else:
+                                self.custom_target_idx = max(0, self.custom_target_idx - 1)
                         elif key == "enter":
                             self.in_custom = False
                             result = self._resolve_cfg()
@@ -875,6 +942,7 @@ def main():
     # Parse explicit flags for direct (bypass-launcher) invocation
     concurrency  = None
     min_products = None
+    target       = None
     positional   = []
     for arg in args:
         m = re.match(r"^--concurrency=(\d+)$", arg)
@@ -883,6 +951,9 @@ def main():
         m = re.match(r"^--min-products=(\d+)$", arg)
         if m:
             min_products = int(m.group(1)); continue
+        m = re.match(r"^--target=(\d+)$", arg)
+        if m:
+            target = int(m.group(1)); continue
         positional.append(arg)
 
     subcmd = positional[0] if positional else None
@@ -899,7 +970,7 @@ def main():
         return
     if subcmd == "run" and concurrency is not None:
         # Direct launch: skip launcher when explicit flags are given
-        run_dashboard(concurrency=concurrency, min_products=min_products or 0)
+        run_dashboard(concurrency=concurrency, min_products=min_products or 0, target=target or 0)
         return
 
     # Interactive launcher
@@ -907,12 +978,12 @@ def main():
     if cfg is None:
         return  # user pressed Q
 
-    if cfg["mode"] == "audit":
-        subprocess.run(["node", str(NODE_SCRIPT), "--audit"], cwd=str(SCRIPT_DIR))
-    elif cfg["mode"] == "status":
-        show_status()
-    else:
-        run_dashboard(concurrency=cfg["concurrency"], min_products=cfg.get("min_products", 0))
+    run_dashboard(
+        concurrency=cfg["concurrency"],
+        min_products=cfg.get("min_products", 0),
+        target=cfg.get("target", 0),
+        fix_names=cfg.get("fix_names", False),
+    )
 
 
 if __name__ == "__main__":

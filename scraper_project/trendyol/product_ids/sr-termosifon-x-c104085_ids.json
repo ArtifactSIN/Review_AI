@@ -1,7 +1,1573 @@
 {
   "categoryUrl": "https://www.trendyol.com/sr/termosifon-x-c104085?os=1",
   "slug": "sr-termosifon-x-c104085",
-  "collectedAt": "2026-05-12T00:55:18.028Z",
-  "uniqueCount": 0,
-  "products": []
+  "collectedAt": "2026-05-13T21:56:31.630Z",
+  "uniqueCount": 313,
+  "products": [
+    {
+      "id": "2094743",
+      "url": "/demirdokum/dt4-titanium-kazan-65-litre-termosifon-p-2094743?boutiqueId=61&merchantId=775975",
+      "name": "DT4 Titanium Kazan 65 Litre Termosifon"
+    },
+    {
+      "id": "3753252",
+      "url": "/baymak/montaj-haric-aqua-konfor-65-lt-elektrikli-termosifon-p-3753252?boutiqueId=61&merchantId=106803",
+      "name": "(Montaj Hariç) Aqua Konfor 65 Lt. Elektrikli Termosifon"
+    },
+    {
+      "id": "184351826",
+      "url": "/finlux/fn-65-mk-65-lt-termosifon-p-184351826?boutiqueId=61&merchantId=288515",
+      "name": "Fn 65 Mk 65 Lt Termosifon"
+    },
+    {
+      "id": "759547310",
+      "url": "/vestel/termosifon-trm-50-ms-p-759547310?boutiqueId=61&merchantId=133078",
+      "name": "Termosifon Trm 50 Ms"
+    },
+    {
+      "id": "743655094",
+      "url": "/baymak/aqua-konfor-termosifon-65-lt-montaj-haric-p-743655094?boutiqueId=61&merchantId=106803",
+      "name": "Aqua Konfor Termosifon 65 Lt (MONTAJ HARİÇ)"
+    },
+    {
+      "id": "1136067571",
+      "url": "/termodinamik/td-ter-65-termosifon-gorsel-kusurlu-montaj-dahil-65-litre-p-1136067571?boutiqueId=61&merchantId=576363",
+      "name": "TD-TER 65 Termosifon | Görsel Kusurlu | Montaj Dahil | 65 Litre"
+    },
+    {
+      "id": "3725782",
+      "url": "/demirdokum/montaj-dahil-dt4-titanium-digital-65-lt-elk-ter-p-3725782?boutiqueId=61&merchantId=775975",
+      "name": "(Montaj Dahil) DT4 Titanium Digital 65 Lt. Elk. Ter."
+    },
+    {
+      "id": "773127890",
+      "url": "/baymak/aqua-konfor-65-lt-termosifon-p-773127890?boutiqueId=61&merchantId=699265",
+      "name": "AQUA KONFOR 65 LT TERMOSİFON"
+    },
+    {
+      "id": "102140979",
+      "url": "/demirdokum/dt4-titanium-50-lt-basic-elektrikli-termosifon-p-102140979?boutiqueId=61&merchantId=904008",
+      "name": "Dt4 Titanium 50 Lt Basic Elektrikli Termosifon"
+    },
+    {
+      "id": "143615295",
+      "url": "/baymak/aqua-konfor-silindirik-80-litre-elektrikli-termosifon-mtk-80-montaj-haric-p-143615295?boutiqueId=61&merchantId=106803",
+      "name": "Aqua Konfor Silindirik 80 Litre Elektrikli Termosifon Mtk-80 (MONTAJ HARİÇ)"
+    },
+    {
+      "id": "100129152",
+      "url": "/vestel/trm-80-ms-80-lt-mekanik-termosifon-p-100129152?boutiqueId=61&merchantId=133078",
+      "name": "TRM 80 MS 80 LT MEKANİK TERMOSİFON"
+    },
+    {
+      "id": "349937329",
+      "url": "/vestel/termosifon-trm-65-mk-p-349937329?boutiqueId=61&merchantId=505362",
+      "name": "Termosifon Trm 65 Mk"
+    },
+    {
+      "id": "3725781",
+      "url": "/demirdokum/montaj-dahil-dt4-titanium-80-lt-elektrikli-termosi-p-3725781?boutiqueId=61&merchantId=904008",
+      "name": "(Montaj Dahil) DT4 Titanium 80 Lt. Elektrikli Termosi."
+    },
+    {
+      "id": "184359683",
+      "url": "/finlux/fn-80-mk-80-lt-termosifon-p-184359683?boutiqueId=61&merchantId=112088",
+      "name": "Fn 80 Mk 80 Lt Termosifon"
+    },
+    {
+      "id": "1104775353",
+      "url": "/termodinamik/td-ter-65d-termosifon-gorsel-kusurlu-montaj-dahil-65-litre-p-1104775353?boutiqueId=61&merchantId=576363",
+      "name": "TD-TER 65D Termosifon | Görsel Kusurlu | Montaj Dahil | 65 Litre"
+    },
+    {
+      "id": "1104775379",
+      "url": "/termodinamik/td-ter-65d-termosifon-montaj-dahil-65-litre-p-1104775379?boutiqueId=61&merchantId=576363",
+      "name": "TD-TER 65D Termosifon | Montaj Dahil | 65 Litre"
+    },
+    {
+      "id": "331803056",
+      "url": "/regal/rgl-50-ms-mekanik-termosifon-p-331803056?boutiqueId=61&merchantId=587283",
+      "name": "RGL 50 MS Mekanik Termosifon"
+    },
+    {
+      "id": "86282174",
+      "url": "/demirdokum/dt4-titanium-basic-termosifon-65-lt-1800w-p-86282174?boutiqueId=61&merchantId=871988",
+      "name": "Dt4 Tıtanıum Basıc Termosifon 65 Lt-1800w"
+    },
+    {
+      "id": "221934163",
+      "url": "/baymak/aqua-konfor-100-litre-termosifon-mtk100-montaj-haric-p-221934163?boutiqueId=61&merchantId=106803",
+      "name": "Aqua Konfor 100 Litre Termosifon Mtk100 (montaj Hariç)"
+    },
+    {
+      "id": "957266762",
+      "url": "/baymak/aqua-x-led-priz-100-lt-termosifon-p-957266762?boutiqueId=61&merchantId=154954",
+      "name": "AQUA X-LED PRIZ. 100 LT TERMOSİFON"
+    },
+    {
+      "id": "3765055",
+      "url": "/baymak/aqua-konfor-50-lt-termosifon-p-3765055?boutiqueId=61&merchantId=687707",
+      "name": "AQUA KONFOR 50 LT TERMOSIFON"
+    },
+    {
+      "id": "957266744",
+      "url": "/baymak/aqua-x-led-priz-50-lt-termosifon-p-957266744?boutiqueId=61&merchantId=154954",
+      "name": "AQUA X-LED PRIZ. 50 LT TERMOSİFON"
+    },
+    {
+      "id": "2557370",
+      "url": "/regal/rgl-65-ms-1980-w-65-lt-termosifon-p-2557370?boutiqueId=61&merchantId=1247886",
+      "name": "RGL-65 MS 1980 W 65 Lt Termosifon"
+    },
+    {
+      "id": "957266777",
+      "url": "/baymak/aqua-x-led-priz-80-lt-termosifon-p-957266777?boutiqueId=61&merchantId=154954",
+      "name": "AQUA X-LED PRIZ. 80 LT TERMOSİFON"
+    },
+    {
+      "id": "3894946",
+      "url": "/arcelik/t-7380-b-80-lt-termosifon-p-3894946?boutiqueId=61&merchantId=1113694",
+      "name": "T 7380 B 80 Lt Termosifon"
+    },
+    {
+      "id": "323128915",
+      "url": "/regal/rgl-65-ms-mekanik-termosifon-p-323128915?boutiqueId=61&merchantId=106392",
+      "name": "RGL 65 MS Mekanik Termosifon"
+    },
+    {
+      "id": "3764908",
+      "url": "/ariston/montaj-haric-andris-lux-30-lt-tezgah-ustu-termosifon-p-3764908?boutiqueId=61&merchantId=117477",
+      "name": "(Montaj Hariç) Andris Lux 30 Lt. Tezgah Üstü Termosifon"
+    },
+    {
+      "id": "994332833",
+      "url": "/baymak/aqua-x-touch-100-lt-termosifon-p-994332833?boutiqueId=61&merchantId=202219",
+      "name": "AQUA X-TOUCH 100 LT TERMOSİFON"
+    },
+    {
+      "id": "3725768",
+      "url": "/demirdokum/montaj-dahil-dt4-titanium-digital-80-lt-elk-ter-p-3725768?boutiqueId=61&merchantId=904008",
+      "name": "(Montaj Dahil) DT4 Titanium Digital 80 Lt. Elk. Ter."
+    },
+    {
+      "id": "766069850",
+      "url": "/termodinamik/tdi-1923-elektrikli-sofben-11-kw-monofaze-8-lt-dk-rose-p-766069850?boutiqueId=61&merchantId=114807",
+      "name": "TDI-1923 Elektrikli Şofben, 11 kW Monofaze 8 lt/dk , Rose"
+    },
+    {
+      "id": "34661053",
+      "url": "/demirdokum/dt4-titanium-50-lt-basic-termosifon-p-34661053?boutiqueId=61&merchantId=904008",
+      "name": "Dt4 Titanium 50 Lt Basic Termosifon"
+    },
+    {
+      "id": "1096323053",
+      "url": "/alkancollection/elektrikli-su-isitici-p-1096323053?boutiqueId=61&merchantId=1229255",
+      "name": "Elektrikli Su Isıtıcı"
+    },
+    {
+      "id": "2807542",
+      "url": "/arcelik/t-7365-b-termosifon-p-2807542?boutiqueId=61&merchantId=1113694",
+      "name": "T 7365 B Termosifon"
+    },
+    {
+      "id": "3753247",
+      "url": "/baymak/aqua-konfor-80-lt-termosifon-p-3753247?boutiqueId=61&merchantId=1155584",
+      "name": "AQUA KONFOR 80 LT TERMOSİFON"
+    },
+    {
+      "id": "100128008",
+      "url": "/vestel/trm-65-ekh-termosifon-p-100128008?boutiqueId=61&merchantId=108515",
+      "name": "TRM 65 EKH Termosifon"
+    },
+    {
+      "id": "1138863045",
+      "url": "/demirdokum/dt4-digital-premium-65lt-termosifon-p-1138863045?boutiqueId=61&merchantId=1261601",
+      "name": "DT4 Digital premıum 65lt Termosifon"
+    },
+    {
+      "id": "4402167",
+      "url": "/demirdokum/montaj-dahil-dt4-titanium-digital-50-lt-elk-ter-p-4402167?boutiqueId=61&merchantId=904008",
+      "name": "(Montaj Dahil) DT4 Titanium Digital 50 Lt. Elk. Ter."
+    },
+    {
+      "id": "764520049",
+      "url": "/termodinamik/td-ter-60l-220v-termosifon-ucretsiz-montaj-p-764520049?boutiqueId=61&merchantId=114807",
+      "name": "Td-ter 60l 220v Termosifon (ÜCRETSİZ MONTAJ)"
+    },
+    {
+      "id": "957266955",
+      "url": "/baymak/aqua-x-led-priz-65-lt-termosifon-p-957266955?boutiqueId=61&merchantId=154954",
+      "name": "AQUA X-LED PRIZ. 65 LT TERMOSİFON"
+    },
+    {
+      "id": "3895229",
+      "url": "/demirdokum/montaj-dahil-dt4-titanium-50-lt-elektrikli-termosi-p-3895229?boutiqueId=61&merchantId=690444",
+      "name": "(Montaj Dahil) DT4 Titanium 50 Lt. Elektrikli Termosi."
+    },
+    {
+      "id": "157894570",
+      "url": "/demirdokum/dt4-basic-65-litre-termosifon-p-157894570?boutiqueId=61&merchantId=871988",
+      "name": "Dt4 Basic 65 Litre Termosifon"
+    },
+    {
+      "id": "348407665",
+      "url": "/demirdokum/termosifon-dt4-65-litre-p-348407665?boutiqueId=61&merchantId=871988",
+      "name": "Termosifon Dt4 65 Litre"
+    },
+    {
+      "id": "1065455889",
+      "url": "/aydogan-gunesten-isi/tek-gunes-paneli-ile-calisan-80-lt-termosifon-p-1065455889?boutiqueId=61&merchantId=1205007",
+      "name": "TEK GÜNEŞ PANELİ İLE ÇALIŞAN 80 LT TERMOSİFON"
+    },
+    {
+      "id": "994322685",
+      "url": "/baymak/aqua-x-touch-65-lt-termosifon-p-994322685?boutiqueId=61&merchantId=699265",
+      "name": "AQUA X-TOUCH 65 LT TERMOSİFON"
+    },
+    {
+      "id": "453932952",
+      "url": "/baymak/aqua-30-tu-30-litre-kapasiteli-tezgah-ustu-termosifon-p-453932952?boutiqueId=61&merchantId=687707",
+      "name": "Aqua 30 Tü 30 Litre Kapasiteli Tezgah Üstü Termosifon"
+    },
+    {
+      "id": "34661373",
+      "url": "/demirdokum/dt4-titanium-80-lt-basic-termosifon-p-34661373?boutiqueId=61&merchantId=904008",
+      "name": "Dt4 Titanium 80 Lt Basic Termosifon"
+    },
+    {
+      "id": "773441350",
+      "url": "/baymak/aqua-konfor-50-lt-termosifon-p-773441350?boutiqueId=61&merchantId=699265",
+      "name": "AQUA KONFOR 50 LT TERMOSİFON"
+    },
+    {
+      "id": "1136241679",
+      "url": "/tek-gunes-paneli-ile-calisan-termosifon/turkiyede-tek-bizde-80-lt-tek-gunes-paneli-ile-calisan-dc-ve-ac-giris-termosifon-p-1136241679?boutiqueId=61&merchantId=1205007",
+      "name": "TÜRKİYEDE TEK BİZDE 80 LT TEK GÜNEŞ PANELİ İLE ÇALIŞAN DC VE AC GİRİŞ TERMOSİFON"
+    },
+    {
+      "id": "932881538",
+      "url": "/daxom/ukdax-15dta-15-lt-tezgah-alti-termosifon-p-932881538?boutiqueId=61&merchantId=123827",
+      "name": "UKDAX-15DTA - 15 lt Tezgah Altı Termosifon"
+    },
+    {
+      "id": "876812287",
+      "url": "/termodinamik/td-65d-cift-tank-dijital-65-litre-termosifon-p-876812287?boutiqueId=61&merchantId=107352",
+      "name": "TD-65D Çift Tank Dijital 65 Litre Termosifon"
+    },
+    {
+      "id": "78479929",
+      "url": "/ariston/andris-15-lt-termosifon-tezgah-alti-montaj-haric-p-78479929?boutiqueId=61&merchantId=117477",
+      "name": "Andris 15 Lt Termosifon Tezgah Alti(MONTAJ HARİÇ)"
+    },
+    {
+      "id": "358424220",
+      "url": "/regal/rgl-80-ms-mekanik-termosifon-p-358424220?boutiqueId=61&merchantId=133691",
+      "name": "RGL 80 MS Mekanik Termosifon"
+    },
+    {
+      "id": "100127715",
+      "url": "/vestel/trm-65-mk-termosifon-p-100127715?boutiqueId=61&merchantId=505362",
+      "name": "TRM 65 MK Termosifon"
+    },
+    {
+      "id": "792376132",
+      "url": "/arcelik/t-7350-b-termosifon-p-792376132?boutiqueId=61&merchantId=1037448",
+      "name": "T 7350 B Termosifon"
+    },
+    {
+      "id": "994324612",
+      "url": "/baymak/aqua-x-touch-80-lt-termosifon-p-994324612?boutiqueId=61&merchantId=699265",
+      "name": "AQUA X-TOUCH 80 LT TERMOSİFON"
+    },
+    {
+      "id": "347405395",
+      "url": "/beko/bkt-800-b-standart-termosifon-p-347405395?boutiqueId=61&merchantId=367049",
+      "name": "Bkt 800 B Standart Termosifon"
+    },
+    {
+      "id": "989044898",
+      "url": "/termodinamik/td-ter-65-termosifon-montaj-dahil-65-litre-p-989044898?boutiqueId=61&merchantId=576363",
+      "name": "TD-TER 65 Termosifon | Montaj Dahil | 65 Litre"
+    },
+    {
+      "id": "3765193",
+      "url": "/ariston/montaj-haric-andris-lux-15-lt-tezgah-ustu-termosifon-p-3765193?boutiqueId=61&merchantId=687707",
+      "name": "(Montaj Hariç) Andris Lux 15 Lt. Tezgah Üstü Termosifon"
+    },
+    {
+      "id": "660001129",
+      "url": "/beko/bkt-650-b-65-l-termosifon-p-660001129?boutiqueId=61&merchantId=367049",
+      "name": "Bkt 650 B 65 L Termosifon"
+    },
+    {
+      "id": "212246530",
+      "url": "/ozkaracalar/40-lt-elektrikli-termosifon-turbostar-p-212246530?boutiqueId=61&merchantId=201070",
+      "name": "40 Lt Elektrikli Termosifon Turbostar"
+    },
+    {
+      "id": "3893891",
+      "url": "/demirdokum/dt4-titanium-65-lt-digital-termosifon-dd-dt4-p-3893891?boutiqueId=61&merchantId=840828",
+      "name": "Dt4 Titanium 65 Lt Digital Termosifon Dd-dt4"
+    },
+    {
+      "id": "2900428",
+      "url": "/beko/650-b-termosifon-p-2900428?boutiqueId=61&merchantId=1143753",
+      "name": "650 B Termosifon"
+    },
+    {
+      "id": "100128845",
+      "url": "/vestel/trm-80-ekh-termosifon-p-100128845?boutiqueId=61&merchantId=108515",
+      "name": "TRM 80 EKH Termosifon"
+    },
+    {
+      "id": "43910194",
+      "url": "/demirdokum/montaj-dahil-dt4-titanium-digital-80-lt-elk-termosifon-p-43910194?boutiqueId=61&merchantId=697888",
+      "name": "(Montaj Dahil) Dt4 Titanium Digital 80 Lt. Elk. Termosifon"
+    },
+    {
+      "id": "664243498",
+      "url": "/beko/bkt-500-sm-e-smart-termosifon-p-664243498?boutiqueId=61&merchantId=1052832",
+      "name": "Bkt 500 Sm E Smart Termosifon"
+    },
+    {
+      "id": "1065041150",
+      "url": "/tek-gunes-paneli-ile-calisan-termosifon/tek-gunes-paneli-ile-calisan-dc-ve-ac-girisli-80-lt-termosifon-p-1065041150?boutiqueId=61&merchantId=1205007",
+      "name": "Tek Güneş Paneli İle Çalışan Dc ve Ac Girişli 80 LT Termosifon"
+    },
+    {
+      "id": "810519887",
+      "url": "/demirdokum/demir-dokum-termosifon-65-lt-basic-p-810519887?boutiqueId=61&merchantId=405597",
+      "name": "DEMİR DÖKÜM TERMOSİFON 65 LT BASIC"
+    },
+    {
+      "id": "5974626",
+      "url": "/arcelik/t-7365-e-bs-65-litre-termosifon-p-5974626?boutiqueId=61&merchantId=1113694",
+      "name": "T 7365 E BS 65 Litre Termosifon"
+    },
+    {
+      "id": "4264450",
+      "url": "/baymak/aqua-konfor-65-litre-termosifon-p-4264450?boutiqueId=61&merchantId=106803",
+      "name": "Aqua Konfor 65 Litre Termosifon"
+    },
+    {
+      "id": "1144783962",
+      "url": "/termodinamik/td-ter-65-termosifon-gorsel-kusurlu-montaj-dahil-65-litre-p-1144783962?boutiqueId=61&merchantId=576363",
+      "name": "TD-TER 65 Termosifon | Görsel Kusurlu | Montaj Dahil | 65 Litre"
+    },
+    {
+      "id": "81312005",
+      "url": "/demirdokum/ddei-elektrikli-ani-su-isiticisi-24-kw-trifaze-p-81312005?boutiqueId=61&merchantId=1131191",
+      "name": "Ddeı Elektrikli Ani Su Isıtıcısı 24 Kw Trifaze"
+    },
+    {
+      "id": "979060708",
+      "url": "/daxom/ukdax-15dtu-tezgah-ustu-elektrikli-termosifon-p-979060708?boutiqueId=61&merchantId=123827",
+      "name": "UKDAX-15DTU Tezgah Üstü Elektrikli Termosifon"
+    },
+    {
+      "id": "182885372",
+      "url": "/vaillant/ved-pro-24-8-p-182885372?boutiqueId=61&merchantId=473689",
+      "name": "Ved Pro 24/8"
+    },
+    {
+      "id": "1102547339",
+      "url": "/esiyok/termosifon-p-1102547339?boutiqueId=61&merchantId=1044482",
+      "name": "Termosifon"
+    },
+    {
+      "id": "905492190",
+      "url": "/arcelik/t-7365-eco-65-lt-standart-termosifon-p-905492190?boutiqueId=61&merchantId=1226268",
+      "name": "T 7365 ECO 65 lt. Standart Termosifon"
+    },
+    {
+      "id": "3765194",
+      "url": "/baymak/montaj-haric-30-lt-yeni-tip-tezgah-alti-el-termosifon-p-3765194?boutiqueId=61&merchantId=343825",
+      "name": "(Montaj Hariç) 30 Lt. Yeni Tip Tezgah Altı El. Termosifon"
+    },
+    {
+      "id": "903750540",
+      "url": "/beko/bkt-500-e-bs-dijital-termosifon-p-903750540?boutiqueId=61&merchantId=1232437",
+      "name": "BKT 500 E BS Dijital Termosifon"
+    },
+    {
+      "id": "3753243",
+      "url": "/baymak/aqua-konfor-100-lt-termosifon-p-3753243?boutiqueId=61&merchantId=202219",
+      "name": "AQUA KONFOR 100 LT TERMOSİFON"
+    },
+    {
+      "id": "66161336",
+      "url": "/bosch/rdg5025tr-1800-w-1200-w-50-lt-termosifon-p-66161336?boutiqueId=61&merchantId=288340",
+      "name": "RDG5025TR 1800 W+1200 W 50 lt Termosifon"
+    },
+    {
+      "id": "305155616",
+      "url": "/erc/boyler-100-lt-termometreli-deri-kilifli-p-305155616?boutiqueId=61&merchantId=447244",
+      "name": "Boyler 100 Lt Termometreli Deri Kılıflı"
+    },
+    {
+      "id": "799130206",
+      "url": "/baymak/aqua-konfor-termosifon-65-lt-mtk-65-montaj-haric-p-799130206?boutiqueId=61&merchantId=460386",
+      "name": "AQUA KONFOR TERMOSİFON 65 LT MTK 65 ( MONTAJ HARİÇ)"
+    },
+    {
+      "id": "1078608089",
+      "url": "/aydogan-gunesten-isi/turkiyede-sadece-bizde-tek-gunes-paneli-ile-calisan-80-lt-termosifon-dc-ve-ac-giris-p-1078608089?boutiqueId=61&merchantId=1205007",
+      "name": "TÜRKİYEDE SADECE BİZDE TEK GÜNEŞ PANELİ İLE ÇALIŞAN 80 LT TERMOSİFON DC VE AC GİRİŞ"
+    },
+    {
+      "id": "2094719",
+      "url": "/arcelik/t-7350-e-bs-50-litre-termosifon-p-2094719?boutiqueId=61&merchantId=780159",
+      "name": "T 7350 E BS 50 Litre Termosifon"
+    },
+    {
+      "id": "66161339",
+      "url": "/bosch/rdg6525tr-1800-w-1200-w-65-lt-termosifon-p-66161339?boutiqueId=61&merchantId=288340",
+      "name": "RDG6525TR 1800 W+1200 W 65 lt Termosifon"
+    },
+    {
+      "id": "323353264",
+      "url": "/regal/rgl-80-mk-mekanik-termosifon-p-323353264?boutiqueId=61&merchantId=1205705",
+      "name": "Rgl 80 Mk Mekanik Termosifon"
+    },
+    {
+      "id": "4699118",
+      "url": "/regal/rgl-80-ms-1980-w-80-lt-termosifon-p-4699118?boutiqueId=61&merchantId=138641",
+      "name": "Rgl-80 Ms 1980 W 80 Lt Termosifon"
+    },
+    {
+      "id": "3725779",
+      "url": "/ariston/montaj-haric-pro1-r-80-lt-elektrikli-termosifon-p-3725779?boutiqueId=61&merchantId=343825",
+      "name": "(Montaj Hariç) Pro1 R 80 Lt. Elektrikli Termosifon"
+    },
+    {
+      "id": "702333122",
+      "url": "/derya/artemis-lion-7000-w-elektrikli-sohpen-p-702333122?boutiqueId=61&merchantId=189091",
+      "name": "Artemis Lion 7000 W Elektrikli Şohpen"
+    },
+    {
+      "id": "35622676",
+      "url": "/ariston/montaj-haric-pro-r-50-lt-elektrikli-termosifon-p-35622676?boutiqueId=61&merchantId=759962",
+      "name": "(Montaj Hariç) Pro R 50 Lt. Elektrikli Termosifon"
+    },
+    {
+      "id": "218050723",
+      "url": "/baymak/aqua-tezgah-alti-elekktrikli-termosifon-ta-15-montaj-haric-p-218050723?boutiqueId=61&merchantId=921239",
+      "name": "Aqua Tezgah Altı Elekktrikli Termosifon Ta-15 (MONTAJ HARİÇ)"
+    },
+    {
+      "id": "774432652",
+      "url": "/arcelik/t-7350-dj-digital-termosifon-p-774432652?boutiqueId=61&merchantId=780159",
+      "name": "T 7350 DJ Digital Termosifon"
+    },
+    {
+      "id": "666752936",
+      "url": "/arcelik/t-7380-b-standart-termosifon-p-666752936?boutiqueId=61&merchantId=780159",
+      "name": "T 7380 B Standart Termosifon"
+    },
+    {
+      "id": "214622337",
+      "url": "/baymak/aqua-30-ta-30-litre-kapasiteli-tezgah-alti-termosifon-p-214622337?boutiqueId=61&merchantId=690444",
+      "name": "Aqua 30 Ta 30 Litre Kapasiteli Tezgah Altı Termosifon"
+    },
+    {
+      "id": "741280532",
+      "url": "/baymak/15-lt-tezgah-ustu-termosifon-p-741280532?boutiqueId=61&merchantId=690444",
+      "name": "15 LT TEZGAH ÜSTÜ TERMOSİFON"
+    },
+    {
+      "id": "2807541",
+      "url": "/arcelik/t-7380-e-bs-termosifon-p-2807541?boutiqueId=61&merchantId=171771",
+      "name": "T 7380 E Bs Termosifon"
+    },
+    {
+      "id": "692825961",
+      "url": "/beko/bkt-500-b-standart-termosifon-p-692825961?boutiqueId=61&merchantId=1232437",
+      "name": "Bkt 500 B Standart Termosifon"
+    },
+    {
+      "id": "841676650",
+      "url": "/baymak/aqua-tezgah-alti-elekktrikli-termosifon-ta-30-montaj-haric-p-841676650?boutiqueId=61&merchantId=666953",
+      "name": "Aqua Tezgah Altı Elekktrikli Termosifon Ta-30 (MONTAJ HARİÇ)"
+    },
+    {
+      "id": "901340138",
+      "url": "/termodinamik/termosifon-td-tre-65d-cift-kazan-p-901340138?boutiqueId=61&merchantId=133691",
+      "name": "Termosifon Td-tre 65d Çift Kazan"
+    },
+    {
+      "id": "847741380",
+      "url": "/baymak/aqua-buffer-80-lt-tank-p-847741380?boutiqueId=61&merchantId=867999",
+      "name": "AQUA BUFFER 80 LT TANK"
+    },
+    {
+      "id": "335475237",
+      "url": "/baymak/aqua-konfor-100-lt-termoboyler-p-335475237?boutiqueId=61&merchantId=343825",
+      "name": "Aqua Konfor 100 lt Termoboyler"
+    },
+    {
+      "id": "62266609",
+      "url": "/bosch/rdg5024tr-50-litre-termosifon-p-62266609?boutiqueId=61&merchantId=1199651",
+      "name": "RDG5024TR 50 LİTRE TERMOSİFON"
+    },
+    {
+      "id": "1054076712",
+      "url": "/sistem-turkiye/boduc-boyler-ani-su-isitici-bakir-serpantinli-mini-boyler-p-1054076712?boutiqueId=61&merchantId=1193919",
+      "name": "Boduç Boyler, Ani Su Isıtıcı Bakır Serpantinli (Mini Boyler)"
+    },
+    {
+      "id": "928002355",
+      "url": "/arcelik/t-7365-eco-2000-w-65-lt-termosifon-p-928002355?boutiqueId=61&merchantId=1037448",
+      "name": "T 7365 Eco 2000 W 65 lt Termosifon"
+    },
+    {
+      "id": "354760546",
+      "url": "/baymak/aqua-termoboyler-80-litre-termosifon-montaj-haric-p-354760546?boutiqueId=61&merchantId=690444",
+      "name": "Aqua Termoboyler 80 Litre Termosifon (montaj Hariç)"
+    },
+    {
+      "id": "12696459",
+      "url": "/baymak/200-lt-aqua-boyler-cift-serpantinli-p-12696459?boutiqueId=61&merchantId=690444",
+      "name": "200 LT AQUA BOYLER ÇİFT SERPANTİNLİ"
+    },
+    {
+      "id": "245226099",
+      "url": "/arcelik/t-7365-e-bs-65-lt-dijital-koseli-termosifon-p-245226099?boutiqueId=61&merchantId=171771",
+      "name": "T 7365 E Bs - 65 Lt Dijital Köşeli Termosifon"
+    },
+    {
+      "id": "4266736",
+      "url": "/regal/rtr-65-ms-65-litre-mekanik-termosifon-rtr-65ms-p-4266736?boutiqueId=61&merchantId=984905",
+      "name": "Rtr-65 Ms 65 Litre Mekanik Termosifon Rtr-65ms"
+    },
+    {
+      "id": "768945054",
+      "url": "/demirdokum/dt4-titanium-80-lt-basic-termosifon-p-768945054?boutiqueId=61&merchantId=809536",
+      "name": "Dt4 Titanium 80 Lt Basic Termosifon"
+    },
+    {
+      "id": "785527540",
+      "url": "/beko/bkt-800-e-bs-dijital-termosifon-p-785527540?boutiqueId=61&merchantId=1232437",
+      "name": "BKT 800 E BS Dijital Termosifon"
+    },
+    {
+      "id": "752143903",
+      "url": "/ariston/montaj-haric-velis-evo-100-lt-elektrikli-termosifon-p-752143903?boutiqueId=61&merchantId=133935",
+      "name": "(Montaj Hariç) Velis Evo 100 Lt. Elektrikli Termosifon"
+    },
+    {
+      "id": "98085993",
+      "url": "/baymak/aqua-konfor-50-lt-termosifon-p-98085993?boutiqueId=61&merchantId=690444",
+      "name": "Aqua Konfor 50 Lt Termosifon"
+    },
+    {
+      "id": "93658659",
+      "url": "/profilo/trm8000-80-lt-termosifon-p-93658659?boutiqueId=61&merchantId=406835",
+      "name": "Trm8000 80 lt  Termosifon"
+    },
+    {
+      "id": "97237729",
+      "url": "/ariston/montaj-haric-andris-lux-10-lt-tezgah-ustu-termosifon-p-97237729?boutiqueId=61&merchantId=186057",
+      "name": "(Montaj Hariç) Andris Lux 10 Lt. Tezgah Üstü Termosifon"
+    },
+    {
+      "id": "994323013",
+      "url": "/baymak/aqua-x-touch-50-lt-termosifon-p-994323013?boutiqueId=61&merchantId=699265",
+      "name": "AQUA X-TOUCH 50 LT TERMOSİFON"
+    },
+    {
+      "id": "698363794",
+      "url": "/baymak/30-lt-termosifon-p-698363794?boutiqueId=61&merchantId=690444",
+      "name": "30 Lt Termosıfon"
+    },
+    {
+      "id": "642013297",
+      "url": "/baymak/200-lt-aqua-tek-serpantinli-hizli-boyler-p-642013297?boutiqueId=61&merchantId=343825",
+      "name": "200 Lt Aqua Tek Serpantinli Hızlı Boyler"
+    },
+    {
+      "id": "854032690",
+      "url": "/arcelik/t-7380-e-bs-termosifon-p-854032690?boutiqueId=61&merchantId=1037448",
+      "name": "T 7380 E Bs Termosifon"
+    },
+    {
+      "id": "211232667",
+      "url": "/ozkaracalar/60-lt-elektrikli-termosifon-turbostar-p-211232667?boutiqueId=61&merchantId=201070",
+      "name": "60 Lt Elektrikli Termosifon Turbostar"
+    },
+    {
+      "id": "1113017782",
+      "url": "/teka/montaj-dahil-sch-80-emaye-80-lt-silindirik-termosifon-p-1113017782?boutiqueId=61&merchantId=123827",
+      "name": "(Montaj Dahil) SCH 80 Emaye 80 Lt Silindirik Termosifon"
+    },
+    {
+      "id": "847653111",
+      "url": "/baymak/aqua-yer-tipi-120-lt-tek-serpantinli-boyler-p-847653111?boutiqueId=61&merchantId=460386",
+      "name": "AQUA YER TİPİ 120 LT TEK SERPANTİNLİ BOYLER"
+    },
+    {
+      "id": "703424448",
+      "url": "/demirdokum/dt4-titanium-basic-80-l-termosifon-p-703424448?boutiqueId=61&merchantId=690444",
+      "name": "Dt4 Titanium Basic 80 L Termosifon"
+    },
+    {
+      "id": "2900436",
+      "url": "/beko/650-e-bs-termosifon-p-2900436?boutiqueId=61&merchantId=542869",
+      "name": "650 E Bs Termosifon"
+    },
+    {
+      "id": "104003049",
+      "url": "/baymak/termoboyler-80-lt-p-104003049?boutiqueId=61&merchantId=343825",
+      "name": "Termoboyler 80 lt"
+    },
+    {
+      "id": "937264523",
+      "url": "/demirdokum/dt4-basic-65-litre-termosifon-p-937264523?boutiqueId=61&merchantId=1137925",
+      "name": "Dt4 Basic 65 Litre Termosifon"
+    },
+    {
+      "id": "357975292",
+      "url": "/ariston/andris-lux-30-5-30-lt-tezgah-ustu-termosifon-p-357975292?boutiqueId=61&merchantId=343825",
+      "name": "Andrıs Lux 30/5 30 Lt Tezgah Üstü Termosifon"
+    },
+    {
+      "id": "96135209",
+      "url": "/profilo/trm6505-65-litre-lcd-ekranli-termosifon-p-96135209?boutiqueId=61&merchantId=416701",
+      "name": "Trm6505 65 Litre Lcd Ekranlı Termosifon"
+    },
+    {
+      "id": "4402165",
+      "url": "/baymak/aqua-30-lt-tu-termsifon-md-p-4402165?boutiqueId=61&merchantId=690444",
+      "name": "AQUA 30 LT TU TERMSIFON (MD)"
+    },
+    {
+      "id": "82885411",
+      "url": "/baymak/aqua-konfor-termosifon-80-litre-p-82885411?boutiqueId=61&merchantId=1155584",
+      "name": "Aqua Konfor  Termosifon 80 litre"
+    },
+    {
+      "id": "3765145",
+      "url": "/baymak/montaj-haric-15-lt-yeni-tip-tezgah-alti-el-termosifon-p-3765145?boutiqueId=61&merchantId=690444",
+      "name": "(Montaj Hariç) 15 Lt. Yeni Tip Tezgah Altı El. Termosifon"
+    },
+    {
+      "id": "765477075",
+      "url": "/solimpeks/solitank-200-lt-tek-serpantinli-boyler-p-765477075?boutiqueId=61&merchantId=867712",
+      "name": "Solitank 200 Lt Tek Serpantinli Boyler"
+    },
+    {
+      "id": "3764914",
+      "url": "/ariston/montaj-haric-pro-r-100-lt-elektrikli-termosifon-p-3764914?boutiqueId=61&merchantId=186057",
+      "name": "(Montaj Hariç) Pro R 100 Lt. Elektrikli Termosifon"
+    },
+    {
+      "id": "769280296",
+      "url": "/solimpeks/solimpeks-ansg-1808-gunes-kollektoru-p-769280296?boutiqueId=61&merchantId=867712",
+      "name": "Solimpeks Ansg 1808 Güneş Kollektörü"
+    },
+    {
+      "id": "285688389",
+      "url": "/ariston/arisrton-andris-lux-tezgah-alti-termosifon-10-l-andris-lux-10-lt-p-285688389?boutiqueId=61&merchantId=117477",
+      "name": "Arisrton Andris Lux Tezgah Altı Termosifon 10 L Andris Lux 10 Lt."
+    },
+    {
+      "id": "1099361606",
+      "url": "/yesilev/termosifon-p-1099361606?boutiqueId=61&merchantId=1171291",
+      "name": "Termosifon"
+    },
+    {
+      "id": "4402166",
+      "url": "/baymak/montaj-haric-15-lt-yeni-tip-tezgah-ustu-el-termosifon-p-4402166?boutiqueId=61&merchantId=343825",
+      "name": "(Montaj Hariç) 15 Lt. Yeni Tip Tezgah Üstü El. Termosifon"
+    },
+    {
+      "id": "108999265",
+      "url": "/baymak/aqua-konfor-80-lt-termoboyler-p-108999265?boutiqueId=61&merchantId=690444",
+      "name": "Aqua Konfor 80 Lt. Termoboyler"
+    },
+    {
+      "id": "100331257",
+      "url": "/ariston/montaj-haric-pro1-r-100-lt-elektrikli-termosifon-p-100331257?boutiqueId=61&merchantId=343825",
+      "name": "(Montaj Hariç) Pro1 R 100 Lt. Elektrikli Termosifon"
+    },
+    {
+      "id": "320851143",
+      "url": "/erc/boyler-150-litre-termometreli-deri-kilifli-p-320851143?boutiqueId=61&merchantId=447244",
+      "name": "Boyler 150 Litre Termometreli Deri kılıflı"
+    },
+    {
+      "id": "1126042618",
+      "url": "/ekotek-isi-teknolojileri/ekotek-150-lt-termosifon-hydra-therm-serisi-p-1126042618?boutiqueId=61&merchantId=1252182",
+      "name": "EKOTEK 150 LT TERMOSİFON HYDRA THERM SERİSİ"
+    },
+    {
+      "id": "861575198",
+      "url": "/ariston/pro1-r-80v-1-8k-pl-eu-80-lt-silindirik-termosifon-p-861575198?boutiqueId=61&merchantId=690444",
+      "name": "PRO1 R 80V 1,8K PL EU 80 lt Silindirik Termosifon"
+    },
+    {
+      "id": "738535867",
+      "url": "/buderus/boyler-su-500-lt-buderus-p-738535867?boutiqueId=61&merchantId=160051",
+      "name": "Boyler Su 500 lt buderus"
+    },
+    {
+      "id": "334633903",
+      "url": "/baymak/200-lt-aqua-boyler-tek-serpantinli-p-334633903?boutiqueId=61&merchantId=343825",
+      "name": "200 lt Aqua Boyler (Tek Serpantinli)"
+    },
+    {
+      "id": "743306738",
+      "url": "/demirdokum/dt4-titanium-dijital-80-l-termosifon-p-743306738?boutiqueId=61&merchantId=690444",
+      "name": "DT4 Titanium Dijital 80 L Termosifon"
+    },
+    {
+      "id": "76955101",
+      "url": "/baymak/tezgahalti-termosifon-15-litre-kapasiteli-p-76955101?boutiqueId=61&merchantId=343825",
+      "name": "Tezgahaltı Termosifon 15 Litre Kapasiteli"
+    },
+    {
+      "id": "959786324",
+      "url": "/polar-iklimlendirme/boyler-p-959786324?boutiqueId=61&merchantId=1141763",
+      "name": "Boyler"
+    },
+    {
+      "id": "1110218035",
+      "url": "/baymak/aqua-konfor-65lt-termosifon-p-1110218035?boutiqueId=61&merchantId=690444",
+      "name": "AQUA KONFOR 65Lt Termosifon"
+    },
+    {
+      "id": "109267773",
+      "url": "/baymak/t80l-aqua-tek-serpantinli-80-l-hizli-boyler-montaj-haric-p-109267773?boutiqueId=61&merchantId=1155584",
+      "name": "T80l Aqua Tek Serpantinli 80 L Hızlı Boyler (MONTAJ HARİÇ)"
+    },
+    {
+      "id": "741280595",
+      "url": "/baymak/tezgah-alti-30-lt-termosifon-p-741280595?boutiqueId=61&merchantId=460386",
+      "name": "TEZGAH ALTI 30 LT TERMOSİFON"
+    },
+    {
+      "id": "176213458",
+      "url": "/baymak/aqua-konfor-65-lt-montaj-haric-titanium-silindirik-termosifon-p-176213458?boutiqueId=61&merchantId=414558",
+      "name": "Aqua Konfor 65 Lt (Montaj Hariç) Titanium Silindirik Termosifon"
+    },
+    {
+      "id": "1123939346",
+      "url": "/sprsun/150lt-litre-akumulasyon-tanki-buffer-tank-p-1123939346?boutiqueId=61&merchantId=1249105",
+      "name": "150LT (Litre) Akümülasyon Tankı Buffer Tank"
+    },
+    {
+      "id": "3753248",
+      "url": "/baymak/montaj-haric-aqua-80-lt-elektrikli-termoboyler-p-3753248?boutiqueId=61&merchantId=343825",
+      "name": "(Montaj Hariç) Aqua 80 Lt. Elektrikli TERMOBOYLER"
+    },
+    {
+      "id": "924781308",
+      "url": "/ayguven/buffer-boyler-full-set-200-lt-p-924781308?boutiqueId=61&merchantId=507244",
+      "name": "Buffer Boyler Full Set 200 Lt"
+    },
+    {
+      "id": "989520101",
+      "url": "/ayrstore/iceflow-flip-straw-pipetli-termos-bardak-0-88-litre-turuncu-murdum-tigerlily-plum-p-989520101?boutiqueId=61&merchantId=722124",
+      "name": "IceFlow Flip Straw Pipetli Termos Bardak, 0.88 Litre, Turuncu/Mürdüm(Tigerlily Plum)"
+    },
+    {
+      "id": "3765144",
+      "url": "/baymak/montaj-haric-30-lt-yeni-tip-tezgah-ustu-el-termosifon-p-3765144?boutiqueId=61&merchantId=106639",
+      "name": "(Montaj Hariç) 30 Lt. Yeni Tip Tezgah Üstü El. Termosifon"
+    },
+    {
+      "id": "974349380",
+      "url": "/baymak/aqua-x-led-prizmatik-100-lt-termosifon-p-974349380?boutiqueId=61&merchantId=109860",
+      "name": "AQUA X-LED PRIZMATIK 100 LT TERMOSIFON"
+    },
+    {
+      "id": "1140438054",
+      "url": "/baymak/50-lt-aqua-konfor-termosifon-p-1140438054?boutiqueId=61&merchantId=933225",
+      "name": "50 LT AQUA KONFOR TERMOSİFON"
+    },
+    {
+      "id": "3765066",
+      "url": "/ariston/montaj-haric-andris-lux-10-lt-tezgah-alti-termosifon-p-3765066?boutiqueId=61&merchantId=133935",
+      "name": "(Montaj Hariç) Andris Lux 10 Lt. Tezgah Altı Termosifon"
+    },
+    {
+      "id": "747526716",
+      "url": "/buderus/su300-lt-boyler-p-747526716?boutiqueId=61&merchantId=160051",
+      "name": "Su300 Lt Boyler"
+    },
+    {
+      "id": "1134219345",
+      "url": "/candan/akumulasyon-tanki-100-lt-p-1134219345?boutiqueId=61&merchantId=1152654",
+      "name": "Akumulasyon tankı 100 lt"
+    },
+    {
+      "id": "1115760228",
+      "url": "/genel-markalar/s-link-sl-tm1978-lacivert-330ml-ic-304-dis-201-paslanmaz-celik-kupa-p-1115760228?boutiqueId=61&merchantId=186651",
+      "name": "S-link SL-TM1978 Lacivert 330ML Iç 304 Dış 201 Paslanmaz Çelik Kupa"
+    },
+    {
+      "id": "3753242",
+      "url": "/baymak/montaj-haric-aqua-100-lt-elektrikli-termoboyler-p-3753242?boutiqueId=61&merchantId=106639",
+      "name": "(Montaj Hariç) Aqua 100 Lt. Elektrikli TERMOBOYLER"
+    },
+    {
+      "id": "12695709",
+      "url": "/baymak/200-lt-aqua-boyler-tek-serpantinli-p-12695709?boutiqueId=61&merchantId=690444",
+      "name": "200  LT AQUA BOYLER TEK SERPANTİNLİ"
+    },
+    {
+      "id": "354760504",
+      "url": "/baymak/aqua-termoboyler-100-litre-termosifon-montaj-haric-p-354760504?boutiqueId=61&merchantId=690444",
+      "name": "Aqua Termoboyler 100 Litre Termosifon (montaj Hariç)"
+    },
+    {
+      "id": "794223659",
+      "url": "/arcelik/t-7380-b-termosifon-p-794223659?boutiqueId=61&merchantId=1056344",
+      "name": "T 7380 B Termosifon"
+    },
+    {
+      "id": "354924342",
+      "url": "/baymak/aqua-termoboyler-65-litre-termosifon-p-354924342?boutiqueId=61&merchantId=690444",
+      "name": "Aqua Termoboyler 65 Litre Termosifon"
+    },
+    {
+      "id": "741278850",
+      "url": "/baymak/tezgah-alti-15-lt-termosifon-p-741278850?boutiqueId=61&merchantId=460386",
+      "name": "TEZGAH ALTI 15 LT TERMOSİFON"
+    },
+    {
+      "id": "741280659",
+      "url": "/baymak/tezgah-ustu-30-lt-termosifon-p-741280659?boutiqueId=61&merchantId=460386",
+      "name": "TEZGAH ÜSTÜ 30 LT TERMOSİFON"
+    },
+    {
+      "id": "91914862",
+      "url": "/baymak/aqua-konfor-65-lt-termoboyler-p-91914862?boutiqueId=61&merchantId=687707",
+      "name": "Aqua Konfor 65 Lt Termoboyler"
+    },
+    {
+      "id": "285369431",
+      "url": "/baymak/aqua-15-lt-tezgah-alti-termosifon-montaj-haric-p-285369431?boutiqueId=61&merchantId=687707",
+      "name": "Aqua 15 Lt Tezgah Altı Termosifon Montaj Hariç"
+    },
+    {
+      "id": "94564587",
+      "url": "/baymak/aqua-konfor-elektrikli-termosifon-50-lt-p-94564587?boutiqueId=61&merchantId=1155584",
+      "name": "Aqua Konfor Elektrikli Termosifon 50 lt"
+    },
+    {
+      "id": "1115105196",
+      "url": "/ayguven/boyler-200-lt-tek-serpantinli-termometreli-rezistans-girisli-anot-cubuklu-p-1115105196?boutiqueId=61&merchantId=507244",
+      "name": "BOYLER 200 LT TEK SERPANTİNLİ ( TERMOMETRELİ, REZİSTANS GİRİŞLİ, ANOT ÇUBUKLU)"
+    },
+    {
+      "id": "3723990",
+      "url": "/ariston/pro-65-litre-silindirik-termosifon-p-3723990?boutiqueId=61&merchantId=1177929",
+      "name": "Pro 65 Litre Silindirik Termosifon"
+    },
+    {
+      "id": "361798352",
+      "url": "/hediyeconcepti/led-gostergeli-akilli-termos-sise-500ml-p-361798352?boutiqueId=61&merchantId=578655",
+      "name": "Led Göstergeli Akıllı Termos Şişe 500ml"
+    },
+    {
+      "id": "334634393",
+      "url": "/baymak/160-lt-aqua-boyler-tek-serpantinli-p-334634393?boutiqueId=61&merchantId=1155584",
+      "name": "160 Lt Aqua Boyler tek Serpantinli"
+    },
+    {
+      "id": "769267106",
+      "url": "/solimpeks/solimpeks-solibuffer-100-lt-buffertank-p-769267106?boutiqueId=61&merchantId=867999",
+      "name": "Solimpeks Solibuffer 100 Lt Buffertank"
+    },
+    {
+      "id": "948382531",
+      "url": "/ariston/velis-pro-50-eu-50-lt-termosifon-p-948382531?boutiqueId=61&merchantId=186057",
+      "name": "Velis PRO 50 EU 50 lt Termosifon"
+    },
+    {
+      "id": "1142889318",
+      "url": "/baymak/100-lt-aqua-konfor-termosifon-p-1142889318?boutiqueId=61&merchantId=933225",
+      "name": "100 LT AQUA KONFOR TERMOSİFON"
+    },
+    {
+      "id": "1126094862",
+      "url": "/ekotek-isi-teknolojileri/ekotek-130-lt-termosifon-hydra-therm-serisi-p-1126094862?boutiqueId=61&merchantId=1252182",
+      "name": "EKOTEK 130 LT TERMOSİFON HYDRA THERM SERİSİ"
+    },
+    {
+      "id": "33868664",
+      "url": "/airfel/daikin-yogusmali-kombi-90-kapali-dirsek-logolu-p-33868664?boutiqueId=61&merchantId=1077743",
+      "name": "Daikin Yoğuşmalı Kombi 90° Kapalı Dirsek Logolu"
+    },
+    {
+      "id": "75728277",
+      "url": "/baymak/15-lt-tezgahalti-termosifon-p-75728277?boutiqueId=61&merchantId=690444",
+      "name": "15 Lt Tezgahaltı Termosifon"
+    },
+    {
+      "id": "12698709",
+      "url": "/baymak/120-lt-aqua-boyler-tek-serpantinli-p-12698709?boutiqueId=61&merchantId=343825",
+      "name": "120 LT AQUA BOYLER TEK SERPANTİNLİ"
+    },
+    {
+      "id": "741281126",
+      "url": "/baymak/aqua-konfor-65-lt-termoboyler-p-741281126?boutiqueId=61&merchantId=460386",
+      "name": "AQUA KONFOR 65 LT TERMOBOYLER"
+    },
+    {
+      "id": "770322838",
+      "url": "/solimpeks/24-lt-kapali-genlesme-tanki-p-770322838?boutiqueId=61&merchantId=867712",
+      "name": "24 Lt Kapalı Genleşme Tankı"
+    },
+    {
+      "id": "322905768",
+      "url": "/baymak/montaj-haric-aqua-konfor-65-lt-elektrikli-termosifon-p-322905768?boutiqueId=61&merchantId=690444",
+      "name": "(MONTAJ HARİÇ) Aqua Konfor 65 Lt Elektrikli Termosifon"
+    },
+    {
+      "id": "873001957",
+      "url": "/ekotec/etbh-200e-all-in-one-sicak-su-isi-pompasi-p-873001957?boutiqueId=61&merchantId=974467",
+      "name": "ETBH-200E ALL IN ONE SICAK SU ISI POMPASI"
+    },
+    {
+      "id": "273999072",
+      "url": "/dolce-vita/aqua-konfor-65-lt-c-enerji-sinifi-termosifon-p-273999072?boutiqueId=61&merchantId=279535",
+      "name": "Aqua Konfor 65 Lt C Enerji Sınıfı Termosifon"
+    },
+    {
+      "id": "35639801",
+      "url": "/baymak/aqua-cift-serpantinli-200-lt-boyler-p-35639801?boutiqueId=61&merchantId=1155584",
+      "name": "Aqua Çift Serpantinli 200 lt Boyler"
+    },
+    {
+      "id": "125089376",
+      "url": "/baymak/termosifon-65-lt-p-125089376?boutiqueId=61&merchantId=690444",
+      "name": "Termosifon 65 lt"
+    },
+    {
+      "id": "35622678",
+      "url": "/ariston/montaj-haric-pro1-r-65-lt-elektrikli-termosifon-p-35622678?boutiqueId=61&merchantId=186057",
+      "name": "(Montaj Hariç) Pro1 R 65 Lt. Elektrikli Termosifon"
+    },
+    {
+      "id": "280776949",
+      "url": "/ariston/andris-lux-15-lt-tezgah-alti-termosifon-montaj-haric-p-280776949?boutiqueId=61&merchantId=186057",
+      "name": "Andrıs Lux 15/ Lt Tezgah Altı Termosifon |(MONTAJ HARİÇ)"
+    },
+    {
+      "id": "3765171",
+      "url": "/ariston/montaj-haric-velis-evo-50-lt-elektrikli-termosifon-p-3765171?boutiqueId=61&merchantId=133935",
+      "name": "(Montaj Hariç) Velis Evo 50 Lt. Elektrikli Termosifon"
+    },
+    {
+      "id": "896603879",
+      "url": "/ayguven/boyler-100-lt-termometreli-rezistans-girisli-anot-cubuklu-p-896603879?boutiqueId=61&merchantId=507244",
+      "name": "BOYLER 100 LT ( TERMOMETRELİ , REZİSTANS GİRİŞLİ, ANOT ÇUBUKLU)"
+    },
+    {
+      "id": "33867630",
+      "url": "/bosch/yogusmali-kombi-baca-uzatmasi-50-cm-logolu-p-33867630?boutiqueId=61&merchantId=660641",
+      "name": "Yoğuşmalı Kombi Baca Uzatması 50 cm Logolu"
+    },
+    {
+      "id": "741281228",
+      "url": "/baymak/aqua-konfor-100-lt-termoboyler-p-741281228?boutiqueId=61&merchantId=690444",
+      "name": "AQUA KONFOR 100 LT TERMOBOYLER"
+    },
+    {
+      "id": "868932472",
+      "url": "/ayguven/boyler-160-lt-elektrikli-termometreli-anot-cubuklu-rezistans-dahil-p-868932472?boutiqueId=61&merchantId=507244",
+      "name": "Boyler 160 Lt Elektrikli ( Termometreli Anot Çubuklu, Rezistans Dahil)"
+    },
+    {
+      "id": "198068529",
+      "url": "/baymak/65-litre-termoboyler-p-198068529?boutiqueId=61&merchantId=690444",
+      "name": "65 Litre Termoboyler"
+    },
+    {
+      "id": "3765163",
+      "url": "/ariston/montaj-haric-pro-r-65-lt-elektrikli-termosifon-p-3765163?boutiqueId=61&merchantId=186057",
+      "name": "(Montaj Hariç) Pro R 65 Lt. Elektrikli Termosifon"
+    },
+    {
+      "id": "947703959",
+      "url": "/solaren-gunes-enerji-sistemleri/solaren-300-lt-tek-serpantinli-emaye-boyler-p-947703959?boutiqueId=61&merchantId=1134457",
+      "name": "SOLAREN 300 LT Tek Serpantinli Emaye Boyler"
+    },
+    {
+      "id": "900551100",
+      "url": "/baymak/tezgah-alti-elektrikli-termosifon-30lt-p-900551100?boutiqueId=61&merchantId=921239",
+      "name": "Tezgah Altı Elektrikli Termosifon 30LT"
+    },
+    {
+      "id": "1115760227",
+      "url": "/genel-markalar/s-link-sl-tm1981-lacivert-415ml-ic-304-dis-201-paslanmaz-celik-kupa-p-1115760227?boutiqueId=61&merchantId=1177397",
+      "name": "S-link SL-TM1981 Lacivert 415ML Iç 304 Dış 201 Paslanmaz Çelik Kupa"
+    },
+    {
+      "id": "1034452875",
+      "url": "/protherm/prt-300-d-300-lt-cift-serpantinli-boyler-p-1034452875?boutiqueId=61&merchantId=112819",
+      "name": "PRT-300 D 300 LT ÇİFT SERPANTİNLİ BOYLER"
+    },
+    {
+      "id": "34033728",
+      "url": "/airfel/daikin-yogusmali-kombi-baca-uzatmasi-100-cm-logolu-p-34033728?boutiqueId=61&merchantId=1190761",
+      "name": "Daikin Yoğuşmalı Kombi Baca Uzatması 100 cm Logolu"
+    },
+    {
+      "id": "1093094817",
+      "url": "/genel-markalar/everest-tm-20-gold-termal-macun-2-gr-p-1093094817?boutiqueId=61&merchantId=1219875",
+      "name": "Everest Tm-20, Gold Termal Macun (2 Gr)"
+    },
+    {
+      "id": "642007214",
+      "url": "/baymak/100-lt-aqua-tek-serpantinli-hizli-boyler-p-642007214?boutiqueId=61&merchantId=343825",
+      "name": "100 Lt Aqua Tek Serpantinli Hızlı Boyler"
+    },
+    {
+      "id": "286785828",
+      "url": "/elterm/sanal-boyler-rezistans-1-1-2-6w-crni-isitici-p-286785828?boutiqueId=61&merchantId=549789",
+      "name": "Şanal Boyler Rezistans 1 - 1/2 6w Crnı Isıtıcı"
+    },
+    {
+      "id": "445330933",
+      "url": "/baymak/jet-82-m-50-lt-tankli-hidrofor-depolu-flatorlu-p-445330933?boutiqueId=61&merchantId=109860",
+      "name": "Jet 82 M 50 LT Tanklı Hidrofor Depolu Flatörlü"
+    },
+    {
+      "id": "316146922",
+      "url": "/baymak/80-lt-aqua-boyler-tek-serpantinli-80-lt-tek-serpantin-p-316146922?boutiqueId=61&merchantId=690444",
+      "name": "80 Lt Aqua Boyler Tek Serpantinli 80 Lt Tek Serpantin"
+    },
+    {
+      "id": "361802163",
+      "url": "/hediyeconcepti/paslanmaz-celik-termal-kupa-p-361802163?boutiqueId=61&merchantId=578655",
+      "name": "Paslanmaz Çelik Termal Kupa"
+    },
+    {
+      "id": "361807970",
+      "url": "/hediyeconcepti/paslanmaz-celik-termal-kupa-p-361807970?boutiqueId=61&merchantId=578655",
+      "name": "Paslanmaz Çelik Termal Kupa"
+    },
+    {
+      "id": "1115760247",
+      "url": "/genel-markalar/s-link-sl-tm1981-beyaz-415ml-ic-304-dis-201-paslanmaz-celik-kupa-p-1115760247?boutiqueId=61&merchantId=107369",
+      "name": "S-link SL-TM1981 Beyaz 415ML Iç 304 Dış 201 Paslanmaz Çelik Kupa"
+    },
+    {
+      "id": "947087562",
+      "url": "/solaren-gunes-enerji-sistemleri/solaren-150lt-inox-gunes-enerjisi-deposu-p-947087562?boutiqueId=61&merchantId=1134457",
+      "name": "Solaren 150lt Inox Güneş Enerjisi Deposu"
+    },
+    {
+      "id": "3753249",
+      "url": "/baymak/montaj-haric-aqua-65-lt-elektrikli-termoboyler-p-3753249?boutiqueId=61&merchantId=106639",
+      "name": "(Montaj Hariç) Aqua 65 Lt. Elektrikli TERMOBOYLER"
+    },
+    {
+      "id": "1135058647",
+      "url": "/awox/termoplus-sofben-rota-anahatari-dugme-hedyie-p-1135058647?boutiqueId=61&merchantId=1164298",
+      "name": "TERMOPLUS-ŞOFBEN-ROTA-ANAHATARI+DÜĞME+HEDYİE"
+    },
+    {
+      "id": "12697709",
+      "url": "/baymak/100-lt-aqua-boyler-tek-serpantinli-p-12697709?boutiqueId=61&merchantId=690444",
+      "name": "100 LT AQUA BOYLER TEK SERPANTİNLİ"
+    },
+    {
+      "id": "361788442",
+      "url": "/hediyeconcepti/paslanmaz-celik-termal-kupa-p-361788442?boutiqueId=61&merchantId=578655",
+      "name": "Paslanmaz Çelik Termal Kupa"
+    },
+    {
+      "id": "1115760219",
+      "url": "/genel-markalar/s-link-sl-tm1981-turkuaz-415ml-ic-304-dis-201-paslanmaz-celik-kupa-p-1115760219?boutiqueId=61&merchantId=186651",
+      "name": "S-link SL-TM1981 Turkuaz 415ML Iç 304 Dış 201 Paslanmaz Çelik Kupa"
+    },
+    {
+      "id": "33869135",
+      "url": "/bosch/yogusmali-kombi-baca-uzatmasi-100-cm-logolu-p-33869135?boutiqueId=61&merchantId=131056",
+      "name": "Yoğuşmalı Kombi Baca Uzatması 100 cm Logolu"
+    },
+    {
+      "id": "34432052",
+      "url": "/baymak/yogusmali-kombi-baca-uzatmasi-50-cm-logolu-p-34432052?boutiqueId=61&merchantId=921239",
+      "name": "Yoğuşmalı Kombi Baca Uzatması 50 cm Logolu"
+    },
+    {
+      "id": "642009624",
+      "url": "/baymak/120-lt-aqua-tek-serpantinli-hizli-boyler-p-642009624?boutiqueId=61&merchantId=343825",
+      "name": "120 Lt Aqua Tek Serpantinli Hızlı Boyler"
+    },
+    {
+      "id": "1087940410",
+      "url": "/genel-markalar/paslanmaz-celik-3-lu-termos-seti-vakumlu-ve-8-saat-isi-koruma-p-1087940410?boutiqueId=61&merchantId=526754",
+      "name": "Paslanmaz Çelik 3’lü Termos Seti Vakumlu ve 8 Saat Isı Koruma"
+    },
+    {
+      "id": "896746892",
+      "url": "/ayguven/boyler-160-lt-tek-serpantinli-ve-elektrikli-anot-cubuklu-p-896746892?boutiqueId=61&merchantId=507244",
+      "name": "BOYLER 160 LT TEK SERPANTİNLİ VE ELEKTRİKLİ (ANOT ÇUBUKLU)"
+    },
+    {
+      "id": "747552257",
+      "url": "/buderus/snb-160-lt-boyler-p-747552257?boutiqueId=61&merchantId=160051",
+      "name": "SNB 160 lt boyler"
+    },
+    {
+      "id": "1136434713",
+      "url": "/yesilev/65-lt-termosifon-elektrikli-su-isitici-hizli-isitma-enerji-tasarruflu-p-1136434713?boutiqueId=61&merchantId=1261520",
+      "name": "65 LT Termosifon Elektrikli Su Isıtıcı – Hızlı Isıtma & Enerji Tasarruflu"
+    },
+    {
+      "id": "986748649",
+      "url": "/ayrstore/termos-paslanmaz-celik-termos-siyah-renk-3-bardakli-termos-seti-p-986748649?boutiqueId=61&merchantId=1164511",
+      "name": "Termos Paslanmaz Çelik Termos Siyah Renk 3 Bardaklı Termos Seti"
+    },
+    {
+      "id": "33889024",
+      "url": "/baymak/yogusmali-kombi-baca-uzatmasi-100-cm-logolu-p-33889024?boutiqueId=61&merchantId=921239",
+      "name": "Yoğuşmalı Kombi Baca Uzatması 100 cm Logolu"
+    },
+    {
+      "id": "771847497",
+      "url": "/solimpeks/solimpeks-300-lt-yatik-tsm-boyler-p-771847497?boutiqueId=61&merchantId=867712",
+      "name": "Solimpeks 300 Lt Yatık Tsm Boyler"
+    },
+    {
+      "id": "896741584",
+      "url": "/ayguven/boyler-200-lt-cift-serpantinli-termometreli-anot-cubuklu-rezistans-girisli-p-896741584?boutiqueId=61&merchantId=507244",
+      "name": "BOYLER 200 LT ÇİFT SERPANTİNLİ ( TERMOMETRELİ, ANOT ÇUBUKLU, REZİSTANS GİRİŞLİ)"
+    },
+    {
+      "id": "769278666",
+      "url": "/solimpeks/solimpeks-solibuffer-200-lt-buffertank-p-769278666?boutiqueId=61&merchantId=867999",
+      "name": "Solimpeks Solibuffer 200 Lt Buffertank"
+    },
+    {
+      "id": "989519475",
+      "url": "/ayrstore/x-level-x-juglarge-paslanmaz-celik-termos-1200ml-seyahat-termosu-1-2l-yesil-p-989519475?boutiqueId=61&merchantId=107175",
+      "name": "X-Level X-Juglarge Paslanmaz Çelik Termos 1200ml Seyahat Termosu 1.2L (Yeşil)"
+    },
+    {
+      "id": "873002765",
+      "url": "/ekotec/etbh-180e-all-in-one-sicak-su-isi-pompasi-p-873002765?boutiqueId=61&merchantId=974467",
+      "name": "Etbh-180e All In One Sıcak Su Isı Pompası"
+    },
+    {
+      "id": "986746792",
+      "url": "/ayrstore/3-bardakli-termos-seti-anneler-gunune-ozel-hediye-tasinabilir-sizdirmaz-isi-koruyucu-p-986746792?boutiqueId=61&merchantId=1164511",
+      "name": "3 Bardaklı Termos Seti Anneler Gününe Özel Hediye Taşınabilir Sızdırmaz Isı Koruyucu"
+    },
+    {
+      "id": "1142892753",
+      "url": "/yesilev/turkiyede-sadece-bizde-tek-gunes-paneli-ile-calisan-80-lt-termosifon-p-1142892753?boutiqueId=61&merchantId=1205007",
+      "name": "TÜRKİYEDE SADECE BİZDE TEK GÜNEŞ PANELİ İLE ÇALIŞAN 80 LT TERMOSİFON"
+    },
+    {
+      "id": "34432056",
+      "url": "/airfel/daikin-yogusmali-kombi-baca-uzatmasi-50-cm-logolu-p-34432056?boutiqueId=61&merchantId=351535",
+      "name": "Daikin Yoğuşmalı Kombi Baca Uzatması 50 cm Logolu"
+    },
+    {
+      "id": "335452281",
+      "url": "/baymak/100-lt-aqua-boyler-tek-serpatinli-p-335452281?boutiqueId=61&merchantId=343825",
+      "name": "100 lt Aqua Boyler Tek Serpatinli"
+    },
+    {
+      "id": "33869165",
+      "url": "/vaillant/yogusmali-kombi-90-kapali-dirsek-logolu-p-33869165?boutiqueId=61&merchantId=112819",
+      "name": "Yoğuşmalı Kombi 90° Kapalı Dirsek Logolu"
+    },
+    {
+      "id": "1087940873",
+      "url": "/mestore/sik-ve-dayanikli-3-bardakli-termos-seti-uzun-sure-isi-koruma-ozellikli-p-1087940873?boutiqueId=61&merchantId=526754",
+      "name": "Şık ve Dayanıklı 3 Bardaklı Termos Seti Uzun Süre Isı Koruma Özellikli"
+    },
+    {
+      "id": "4461519",
+      "url": "/baymak/aqua-15-tu-termosifon-p-4461519?boutiqueId=61&merchantId=109860",
+      "name": "AQUA 15 TU TERMOSIFON"
+    },
+    {
+      "id": "361815042",
+      "url": "/hediyeconcepti/led-gostergeli-akilli-termos-sise-500ml-p-361815042?boutiqueId=61&merchantId=578655",
+      "name": "Led Göstergeli Akıllı Termos Şişe 500ml"
+    },
+    {
+      "id": "34432033",
+      "url": "/baymak/yogusmali-kombi-90-kapali-dirsek-logolu-p-34432033?boutiqueId=61&merchantId=106639",
+      "name": "Yoğuşmalı Kombi 90° Kapalı Dirsek Logolu"
+    },
+    {
+      "id": "361808346",
+      "url": "/hediyeconcepti/paslanmaz-celik-termal-kupa-p-361808346?boutiqueId=61&merchantId=578655",
+      "name": "Paslanmaz Çelik Termal Kupa"
+    },
+    {
+      "id": "1113159102",
+      "url": "/ayguven/boyler-300-lt-cift-serpantinli-hijyenik-termometreli-rezistans-girisli-anot-cubuklu-p-1113159102?boutiqueId=61&merchantId=507244",
+      "name": "BOYLER 300 LT ÇİFT SERPANTİNLİ ( HİJYENİK,TERMOMETRELİ, REZİSTANS GİRİŞLİ,ANOT ÇUBUKLU)"
+    },
+    {
+      "id": "947709957",
+      "url": "/solaren-gunes-enerji-sistemleri/solaren-200lt-emaye-gunes-enerjisi-deposu-p-947709957?boutiqueId=61&merchantId=1134457",
+      "name": "Solaren 200LT Emaye Güneş Enerjisi Deposu"
+    },
+    {
+      "id": "34432062",
+      "url": "/bosch/yogusmali-kombi-45-acik-dirsek-logolu-p-34432062?boutiqueId=61&merchantId=660641",
+      "name": "Yoğuşmalı Kombi 45° Açık Dirsek Logolu"
+    },
+    {
+      "id": "986745202",
+      "url": "/ayrstore/celik-termos-bardak-seti-500-ml-kapasite-kaymaz-taban-hediye-kutulu-p-986745202?boutiqueId=61&merchantId=1164511",
+      "name": "Çelik Termos Bardak Seti | 500 Ml Kapasite, Kaymaz Taban, Hediye Kutulu"
+    },
+    {
+      "id": "1123940023",
+      "url": "/sprsun/260-lt-litre-akumulasyon-tanki-buffer-tank-p-1123940023?boutiqueId=61&merchantId=1249105",
+      "name": "260 Lt (Litre) Akümülasyon Tankı Buffer Tank"
+    },
+    {
+      "id": "39505154",
+      "url": "/buderus/boyler-snb-120-lt-p-39505154?boutiqueId=61&merchantId=160051",
+      "name": "Boyler Snb 120 Lt"
+    },
+    {
+      "id": "769263987",
+      "url": "/solimpeks/solimpeks-solibuffer-300-lt-buffertank-p-769263987?boutiqueId=61&merchantId=867999",
+      "name": "Solimpeks Solibuffer 300 Lt Buffertank"
+    },
+    {
+      "id": "747552801",
+      "url": "/buderus/snb-200-lt-boyler-p-747552801?boutiqueId=61&merchantId=160051",
+      "name": "SNB 200 lt boyler"
+    },
+    {
+      "id": "896736323",
+      "url": "/ayguven/boyler-160-lt-cift-serpantinli-termometreli-rezistans-girisli-anot-cubuklu-p-896736323?boutiqueId=61&merchantId=507244",
+      "name": "BOYLER 160 LT ÇİFT SERPANTİNLİ ( TERMOMETRELİ, REZİSTANS GİRİŞLİ, ANOT ÇUBUKLU)"
+    },
+    {
+      "id": "361381357",
+      "url": "/hediyeconcepti/paslanmaz-celik-termal-kupa-p-361381357?boutiqueId=61&merchantId=578655",
+      "name": "Paslanmaz Çelik Termal Kupa"
+    },
+    {
+      "id": "335943628",
+      "url": "/baymak/aqua-boyler-160-lt-cift-serpantinli-p-335943628?boutiqueId=61&merchantId=1155584",
+      "name": "Aqua Boyler 160 lt Çift Serpantinli"
+    },
+    {
+      "id": "131356252",
+      "url": "/unmak/80-lt-termo-boyler-utb-80-p-131356252?boutiqueId=61&merchantId=214193",
+      "name": "80 Lt. Termo Boyler Ütb-80"
+    },
+    {
+      "id": "1087941937",
+      "url": "/genel-markalar/trendlia-termos-paslanmaz-celik-termos-siyah-renk-3-bardakli-termos-seti-p-1087941937?boutiqueId=61&merchantId=1241213",
+      "name": "Trendlia Termos Paslanmaz Çelik Termos Siyah Renk 3 Bardaklı Termos Seti"
+    },
+    {
+      "id": "642012230",
+      "url": "/baymak/160-lt-aqua-tek-serpantinli-hizli-boyler-p-642012230?boutiqueId=61&merchantId=343825",
+      "name": "160 Lt Aqua Tek Serpantinli Hızlı Boyler"
+    },
+    {
+      "id": "1087938581",
+      "url": "/mestore/250ml-led-ekranli-paslanmaz-celik-akilli-termos-p-1087938581?boutiqueId=61&merchantId=526754",
+      "name": "250ml LED Ekranlı Paslanmaz Çelik Akıllı Termos"
+    },
+    {
+      "id": "940247195",
+      "url": "/protherm/prt-300-s-tek-serpantinli-boyler-p-940247195?boutiqueId=61&merchantId=112819",
+      "name": "Prt 300-s Tek Serpantinli Boyler"
+    },
+    {
+      "id": "1087938403",
+      "url": "/mestore/yuksek-isi-korumasina-sahip-tasinabilir-celik-termos-p-1087938403?boutiqueId=61&merchantId=526754",
+      "name": "Yüksek Isı Korumasına Sahip Taşınabilir Çelik Termos"
+    },
+    {
+      "id": "297376498",
+      "url": "/protherm/prt-200-s-tek-serpantinli-boyler-p-297376498?boutiqueId=61&merchantId=109426",
+      "name": "Prt 200-s Tek Serpantinli Boyler"
+    },
+    {
+      "id": "1113060221",
+      "url": "/ayguven/boyler-100-lt-tek-serpantinli-ve-rezistansli-hijyenik-anot-cubuklu-p-1113060221?boutiqueId=61&merchantId=507244",
+      "name": "BOYLER 100 LT TEK SERPANTİNLİ VE REZİSTANSLI ( HİJYENİK,ANOT ÇUBUKLU)"
+    },
+    {
+      "id": "769288832",
+      "url": "/solimpeks/solimpeks-ansg-2510-gunes-kollektoru-p-769288832?boutiqueId=61&merchantId=867712",
+      "name": "Solimpeks Ansg 2510 Güneş Kollektörü"
+    },
+    {
+      "id": "818182144",
+      "url": "/abb/analog-sicaklik-izleme-rolesi-p-818182144?boutiqueId=61&merchantId=959644",
+      "name": "Analog sıcaklık izleme rölesi"
+    },
+    {
+      "id": "361785232",
+      "url": "/hediyeconcepti/led-gostergeli-akilli-termos-sise-500ml-p-361785232?boutiqueId=61&merchantId=578655",
+      "name": "Led Göstergeli Akıllı Termos Şişe 500ml"
+    },
+    {
+      "id": "847364316",
+      "url": "/ozcmax/egzersizi-takip-edenn-sayacli-el-yayii-ay-8c-p-847364316?boutiqueId=61&merchantId=116042",
+      "name": "Egzersizi Takip Edenn Sayaçlı El Yayıı (aY) (8C)"
+    },
+    {
+      "id": "986745114",
+      "url": "/ayrstore/12-saat-sicak-24-saat-soguk-tutabilen-paslanmaz-termos-p-986745114?boutiqueId=61&merchantId=1164511",
+      "name": "12 Saat Sıcak, 24 Saat Soğuk Tutabilen Paslanmaz Termos"
+    },
+    {
+      "id": "986748730",
+      "url": "/ayrstore/termos-seti-paslanmaz-celik-3-bardakli-vakumlu-termos-set-500-ml-12-saate-kadar-isi-koruma-p-986748730?boutiqueId=61&merchantId=1164511",
+      "name": "Termos Seti Paslanmaz Çelik 3 Bardaklı Vakumlu Termos Set 500 Ml 12 Saate Kadar Isı Koruma"
+    },
+    {
+      "id": "1087937545",
+      "url": "/mestore/paslanmaz-termos-ve-ikili-bardak-seti-6-12-saat-sicak-soguk-tutma-p-1087937545?boutiqueId=61&merchantId=526754",
+      "name": "Paslanmaz Termos ve İkili Bardak Seti | 6-12 Saat Sıcak/Soğuk Tutma"
+    },
+    {
+      "id": "361794090",
+      "url": "/hediyeconcepti/led-gostergeli-akilli-termos-sise-500ml-p-361794090?boutiqueId=61&merchantId=578655",
+      "name": "Led Göstergeli Akıllı Termos Şişe 500ml"
+    },
+    {
+      "id": "1115760279",
+      "url": "/elba/s-link-sl-tm1982-gumus-470ml-ic-304-dis-201-paslanmaz-celik-kupa-p-1115760279?boutiqueId=61&merchantId=730785",
+      "name": "S-link SL-TM1982 Gümüş 470ML Iç 304 Dış 201 Paslanmaz Çelik Kupa"
+    },
+    {
+      "id": "896742322",
+      "url": "/ayguven/boyler-200-lt-termometreli-rezistans-girisli-anot-cubuklu-p-896742322?boutiqueId=61&merchantId=507244",
+      "name": "BOYLER 200 LT ( TERMOMETRELİ, REZİSTANS GİRİŞLİ, ANOT ÇUBUKLU)"
+    },
+    {
+      "id": "1115760244",
+      "url": "/elba/s-link-sl-tm1978-kirmizi-330ml-ic-304-dis-201-paslanmaz-celik-kupa-p-1115760244?boutiqueId=61&merchantId=730785",
+      "name": "S-link SL-TM1978 Kırmızı 330ML Iç 304 Dış 201 Paslanmaz Çelik Kupa"
+    },
+    {
+      "id": "896757707",
+      "url": "/ayguven/boyler-200-lt-tek-serpantinli-ve-elektrikli-p-896757707?boutiqueId=61&merchantId=507244",
+      "name": "BOYLER 200 LT TEK SERPANTİNLİ VE ELEKTRİKLİ"
+    },
+    {
+      "id": "1113053829",
+      "url": "/ayguven/boyler-300-lt-tek-serpantinli-hijyenik-termometreli-anot-cubuklu-rezistans-girisi-p-1113053829?boutiqueId=61&merchantId=507244",
+      "name": "BOYLER 300 LT TEK SERPANTİNLİ( HİJYENİK,TERMOMETRELİ, ANOT ÇUBUKLU, REZİSTANS GİRİŞİ)"
+    },
+    {
+      "id": "1115760242",
+      "url": "/elba/s-link-sl-tm1978-beyaz-330ml-ic-304-dis-201-paslanmaz-celik-kupa-p-1115760242?boutiqueId=61&merchantId=730785",
+      "name": "S-link SL-TM1978 Beyaz 330ML Iç 304 Dış 201 Paslanmaz Çelik Kupa"
+    },
+    {
+      "id": "34432054",
+      "url": "/vaillant/yogusmali-kombi-baca-uzatmasi-100-cm-logolu-p-34432054?boutiqueId=61&merchantId=106639",
+      "name": "Yoğuşmalı Kombi Baca Uzatması 100 cm Logolu"
+    },
+    {
+      "id": "1115760270",
+      "url": "/elba/s-link-sl-tm1981-kirmizi-415ml-ic-304-dis-201-paslanmaz-celik-kupa-p-1115760270?boutiqueId=61&merchantId=730785",
+      "name": "S-link SL-TM1981 Kırmızı 415ML Iç 304 Dış 201 Paslanmaz Çelik Kupa"
+    },
+    {
+      "id": "1137369469",
+      "url": "/saywin/sn-390-p-1137369469?boutiqueId=61&merchantId=1259010",
+      "name": "SN-390"
+    },
+    {
+      "id": "34432063",
+      "url": "/bosch/yogusmali-kombi-90-kapali-dirsek-logolu-p-34432063?boutiqueId=61&merchantId=106639",
+      "name": "Yoğuşmalı Kombi 90° Kapalı Dirsek Logolu"
+    },
+    {
+      "id": "361372226",
+      "url": "/hediyeconcepti/led-gostergeli-akilli-termos-sise-500ml-p-361372226?boutiqueId=61&merchantId=578655",
+      "name": "Led Göstergeli Akıllı Termos Şişe 500ml"
+    },
+    {
+      "id": "1087938601",
+      "url": "/mestore/304-celik-termos-seti-2-bardakli-500-ml-uzun-sure-isi-koruma-p-1087938601?boutiqueId=61&merchantId=526754",
+      "name": "304 Çelik Termos Seti | 2 Bardaklı, 500 ml, Uzun Süre Isı Koruma"
+    },
+    {
+      "id": "840401434",
+      "url": "/ozcmax/egzersizi-takip-edenn-sayacli-el-yayi-ay-p-840401434?boutiqueId=61&merchantId=116042",
+      "name": "Egzersizi Takip Edenn Sayaçlı El Yayı (aY)"
+    },
+    {
+      "id": "769280001",
+      "url": "/solimpeks/solimpeks-ansg-2108-gunes-kollektoru-p-769280001?boutiqueId=61&merchantId=867712",
+      "name": "Solimpeks Ansg 2108 Güneş Kollektörü"
+    },
+    {
+      "id": "1087938381",
+      "url": "/mestore/led-sicaklik-olcerli-250-ml-yalitimli-termos-sise-p-1087938381?boutiqueId=61&merchantId=526754",
+      "name": "LED Sıcaklık Ölçerli 250 ml Yalıtımlı Termos Şişe"
+    },
+    {
+      "id": "770331438",
+      "url": "/solimpeks/solibuffer-500-lt-buffertank-p-770331438?boutiqueId=61&merchantId=867712",
+      "name": "Solibuffer 500 Lt Buffertank"
+    },
+    {
+      "id": "34432039",
+      "url": "/vaillant/yogusmali-kombi-45-acik-dirsek-logolu-p-34432039?boutiqueId=61&merchantId=106639",
+      "name": "Yoğuşmalı Kombi 45° Açık Dirsek Logolu"
+    },
+    {
+      "id": "1087938737",
+      "url": "/mestore/uzun-sure-isi-koruma-saglayan-dijital-gostergeli-termos-p-1087938737?boutiqueId=61&merchantId=526754",
+      "name": "Uzun Süre Isı Koruma Sağlayan Dijital Göstergeli Termos"
+    },
+    {
+      "id": "1087936252",
+      "url": "/mestore/paslanmaz-celik-termos-seti-500-ml-kapasite-6-12-saat-isi-koruma-hediye-kutulu-p-1087936252?boutiqueId=61&merchantId=526754",
+      "name": "Paslanmaz Çelik Termos Seti | 500 ml Kapasite, 6-12 Saat Isı Koruma, Hediye Kutulu"
+    },
+    {
+      "id": "1138326110",
+      "url": "/ucuztekno/termos-paslanmaz-celik-termos-siyah-renk-3-bardakli-termos-seti-p-1138326110?boutiqueId=61&merchantId=1177407",
+      "name": "Termos Paslanmaz Çelik Termos Siyah Renk 3 Bardaklı Termos Seti"
+    },
+    {
+      "id": "1087937475",
+      "url": "/genel-markalar/isitma-sogutma-ozellikli-arac-bardakligi-cakmak-girisli-akilli-p-1087937475?boutiqueId=61&merchantId=526754",
+      "name": "Isıtma Soğutma Özellikli Araç Bardaklığı Çakmak Girişli Akıllı"
+    },
+    {
+      "id": "1087936846",
+      "url": "/mestore/arac-ici-isitici-sogutucu-bardaklik-60-c-isitma-4-c-sogutma-p-1087936846?boutiqueId=61&merchantId=526754",
+      "name": "Araç İçi Isıtıcı Soğutucu Bardaklık 60°C Isıtma -4°C Soğutma"
+    },
+    {
+      "id": "769289111",
+      "url": "/solimpeks/solimpeks-ansg-2517-yatik-gunes-kollektoru-p-769289111?boutiqueId=61&merchantId=867712",
+      "name": "Solimpeks Ansg 2517 (YATIK) Güneş Kollektörü"
+    },
+    {
+      "id": "1087936230",
+      "url": "/mestore/arac-ici-akilli-bardaklik-isitici-sogutucu-dijital-ekranli-p-1087936230?boutiqueId=61&merchantId=526754",
+      "name": "Araç İçi Akıllı Bardaklık Isıtıcı Soğutucu Dijital Ekranlı"
+    },
+    {
+      "id": "1135130359",
+      "url": "/ucuztekno/termos-seti-paslanmaz-celik-3-bardakli-vakumlu-termos-set-500-ml-12-saate-kadar-isi-koruma-p-1135130359?boutiqueId=61&merchantId=1177407",
+      "name": "Termos Seti Paslanmaz Çelik 3 Bardaklı Vakumlu Termos Set 500 Ml 12 Saate Kadar Isı Koruma"
+    },
+    {
+      "id": "1113511235",
+      "url": "/genel-markalar/isitma-sogutma-ozellikli-arac-bardakligi-cakmak-girisli-akilli-p-1113511235?boutiqueId=61&merchantId=1135222",
+      "name": "Isıtma Soğutma Özellikli Araç Bardaklığı Çakmak Girişli Akıllı"
+    },
+    {
+      "id": "1087937955",
+      "url": "/genel-markalar/dijital-ekranli-akilli-bardaklik-arac-ici-termal-isitici-sogutucu-p-1087937955?boutiqueId=61&merchantId=526754",
+      "name": "Dijital Ekranlı Akıllı Bardaklık Araç İçi Termal Isıtıcı Soğutucu"
+    },
+    {
+      "id": "896735271",
+      "url": "/ayguven/boyler-160-lt-termometreli-rezistans-girisli-anot-cubuklu-p-896735271?boutiqueId=61&merchantId=507244",
+      "name": "BOYLER 160 LT ( TERMOMETRELİ, REZİSTANS GİRİŞLİ, ANOT ÇUBUKLU)"
+    },
+    {
+      "id": "1124987720",
+      "url": "/genel-markalar/arac-ici-akilli-bardaklik-isitici-sogutucu-dijital-ekranli-p-1124987720?boutiqueId=61&merchantId=1231073",
+      "name": "Araç İçi Akıllı Bardaklık Isıtıcı Soğutucu Dijital Ekranlı"
+    },
+    {
+      "id": "34432048",
+      "url": "/protherm/hermetik-sofben-45-acik-dirsek-logolu-p-34432048?boutiqueId=61&merchantId=106639",
+      "name": "Hermetik Şofben 45° Açık Dirsek Logolu"
+    },
+    {
+      "id": "1113511476",
+      "url": "/ucuztekno/arac-ici-isitici-sogutucu-bardaklik-60-c-isitma-4-c-sogutma-p-1113511476?boutiqueId=61&merchantId=1135222",
+      "name": "Araç İçi Isıtıcı Soğutucu Bardaklık 60°C Isıtma -4°C Soğutma"
+    },
+    {
+      "id": "1113511373",
+      "url": "/genel-markalar/arac-ici-akilli-bardaklik-isitici-sogutucu-dijital-ekranli-p-1113511373?boutiqueId=61&merchantId=1135222",
+      "name": "Araç İçi Akıllı Bardaklık Isıtıcı Soğutucu Dijital Ekranlı"
+    },
+    {
+      "id": "1113510927",
+      "url": "/genel-markalar/dijital-ekranli-akilli-bardaklik-arac-ici-termal-isitici-sogutucu-p-1113510927?boutiqueId=61&merchantId=1241703",
+      "name": "Dijital Ekranlı Akıllı Bardaklık Araç İçi Termal Isıtıcı Soğutucu"
+    },
+    {
+      "id": "1124987115",
+      "url": "/renklime/arac-ici-isitici-sogutucu-bardaklik-60-c-isitma-4-c-sogutma-p-1124987115?boutiqueId=61&merchantId=1231073",
+      "name": "Araç İçi Isıtıcı Soğutucu Bardaklık 60°C Isıtma -4°C Soğutma"
+    },
+    {
+      "id": "1124988366",
+      "url": "/genel-markalar/isitma-sogutma-ozellikli-arac-bardakligi-cakmak-girisli-akilli-p-1124988366?boutiqueId=61&merchantId=1231073",
+      "name": "Isıtma Soğutma Özellikli Araç Bardaklığı Çakmak Girişli Akıllı"
+    },
+    {
+      "id": "1113510424",
+      "url": "/ucuztekno/araba-bardakligi-isitma-sogutma-ayarli-cakmak-girisli-akilli-model-p-1113510424?boutiqueId=61&merchantId=1135222",
+      "name": "Araba Bardaklığı Isıtma Soğutma Ayarlı Çakmak Girişli Akıllı Model"
+    },
+    {
+      "id": "1124987196",
+      "url": "/renklime/dijital-ekranli-akilli-bardaklik-arac-ici-termal-isitici-sogutucu-p-1124987196?boutiqueId=61&merchantId=1231073",
+      "name": "Dijital Ekranlı Akıllı Bardaklık Araç İçi Termal Isıtıcı Soğutucu"
+    },
+    {
+      "id": "1124978614",
+      "url": "/renklime/arac-ici-akilli-bardaklik-isitici-sogutucu-dijital-ekranli-p-1124978614?boutiqueId=61&merchantId=692727",
+      "name": "Araç İçi Akıllı Bardaklık Isıtıcı Soğutucu Dijital Ekranlı"
+    },
+    {
+      "id": "1111813213",
+      "url": "/ucuztekno/araba-bardakligi-isitma-sogutma-ayarli-cakmak-girisli-akilli-model-p-1111813213?boutiqueId=61&merchantId=1177407",
+      "name": "Araba Bardaklığı Isıtma Soğutma Ayarlı Çakmak Girişli Akıllı Model"
+    },
+    {
+      "id": "1124978857",
+      "url": "/renklime/dijital-ekranli-akilli-bardaklik-arac-ici-termal-isitici-sogutucu-p-1124978857?boutiqueId=61&merchantId=692727",
+      "name": "Dijital Ekranlı Akıllı Bardaklık Araç İçi Termal Isıtıcı Soğutucu"
+    },
+    {
+      "id": "1124980261",
+      "url": "/renklime/isitma-sogutma-ozellikli-arac-bardakligi-cakmak-girisli-akilli-p-1124980261?boutiqueId=61&merchantId=692727",
+      "name": "Isıtma Soğutma Özellikli Araç Bardaklığı Çakmak Girişli Akıllı"
+    },
+    {
+      "id": "1124979251",
+      "url": "/renklime/araba-bardakligi-isitma-sogutma-ayarli-cakmak-girisli-akilli-model-p-1124979251?boutiqueId=61&merchantId=692727",
+      "name": "Araba Bardaklığı Isıtma Soğutma Ayarlı Çakmak Girişli Akıllı Model"
+    },
+    {
+      "id": "1124988246",
+      "url": "/renklime/araba-bardakligi-isitma-sogutma-ayarli-cakmak-girisli-akilli-model-p-1124988246?boutiqueId=61&merchantId=1231073",
+      "name": "Araba Bardaklığı Isıtma Soğutma Ayarlı Çakmak Girişli Akıllı Model"
+    },
+    {
+      "id": "1120396761",
+      "url": "/ucuztekno/dijital-ekranli-akilli-bardaklik-arac-ici-termal-isitici-sogutucu-p-1120396761?boutiqueId=61&merchantId=1177407",
+      "name": "Dijital Ekranlı Akıllı Bardaklık Araç İçi Termal Isıtıcı Soğutucu"
+    },
+    {
+      "id": "1111813121",
+      "url": "/genel-markalar/arac-ici-isitici-sogutucu-bardaklik-60-c-isitma-4-c-sogutma-p-1111813121?boutiqueId=61&merchantId=1177407",
+      "name": "Araç İçi Isıtıcı Soğutucu Bardaklık 60°c Isıtma -4°c Soğutma"
+    },
+    {
+      "id": "1111812561",
+      "url": "/genel-markalar/arac-ici-akilli-bardaklik-isitici-sogutucu-dijital-ekranli-p-1111812561?boutiqueId=61&merchantId=1177407",
+      "name": "Araç İçi Akıllı Bardaklık Isıtıcı Soğutucu Dijital Ekranlı"
+    }
+  ]
 }

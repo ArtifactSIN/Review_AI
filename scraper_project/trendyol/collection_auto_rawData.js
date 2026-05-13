@@ -302,7 +302,7 @@ function savePartialState(slug, productId, productUrl, state) {
 // ── Save final result ─────────────────────────────────────────────────────────
 
 function saveFinalResult(job, state) {
-  const { categorySlug, productId, productUrl } = job;
+  const { categorySlug, productId, productUrl, productName } = job;
   const rawList  = Array.from(state.byReviewId.values());
   const gidStart = claimGidBlock(rawList.length || 1); // claim at least 1 even for zero-review products
 
@@ -320,6 +320,7 @@ function saveFinalResult(job, state) {
     categorySlug,
     productId,
     productUrl,
+    productName:  productName ?? null,
     collectedAt:  ts(),
     platform:     "trendyol",
     reviewCount:  reviews.length,
@@ -545,7 +546,7 @@ function loadJobsForSlugs(slugs, options) {
       const productUrl = typeof prod.url === "string" ? prod.url : "";
       if (!productId || !productUrl) continue;
       if (options.products && !options.products.has(productId)) continue;
-      jobs.push({ categorySlug: slug, productId, productUrl });
+      jobs.push({ categorySlug: slug, productId, productUrl, productName: prod.name ?? null });
     }
   }
   return jobs;
@@ -578,7 +579,7 @@ function loadPartialJobs(slugs) {
       const prod = Array.isArray(payload?.products)
         ? payload.products.find(p => sanitize(String(p.id)) === pidSanitized)
         : null;
-      if (prod) jobs.push({ categorySlug: slug, productId: String(prod.id), productUrl: prod.url });
+      if (prod) jobs.push({ categorySlug: slug, productId: String(prod.id), productUrl: prod.url, productName: prod.name ?? null });
     }
   }
   return jobs;

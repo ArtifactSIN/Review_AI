@@ -8,13 +8,11 @@ const INPUT_FILE = path.join(__dirname, "categories.txt");
 const OUTPUT_DIR = path.join(__dirname, "product_ids");
 
 const TARGET_UNIQUE_IDS = 1000;
-const START_PAGE = 1;
 const DELAY_MS = 400;
-const API_SETTLE_MS = 4000;   // wait after page load for XHR responses to arrive
-const MAX_REPEAT_PAGES = 3;
-const MAX_PAGES_PER_CATEGORY = 200;
 const MAX_TASKS_PER_PAGE = 10;
 const MAX_CONSECUTIVE_WORKER_ERRORS = 3;
+
+const API_BASE = "https://apigw.trendyol.com/discovery-sfint-search-service/api/search/products";
 
 const DEBUG = false;
 
@@ -25,18 +23,24 @@ function parseArgs() {
   let status = false;
   let audit = false;
   let minProducts = 0;
+  let target = 0;
+  let fixNames = false;
   for (const arg of process.argv.slice(2)) {
     const mConc = arg.match(/^--concurrency=(\d+)$/);
     if (mConc) concurrency = parseInt(mConc[1], 10);
     const mMin = arg.match(/^--min-products=(\d+)$/);
     if (mMin) minProducts = parseInt(mMin[1], 10);
+    const mTarget = arg.match(/^--target=(\d+)$/);
+    if (mTarget) target = parseInt(mTarget[1], 10);
     if (arg === "--status") status = true;
     if (arg === "--audit") audit = true;
+    if (arg === "--fix-names") fixNames = true;
   }
-  return { concurrency, status, audit, minProducts };
+  return { concurrency, status, audit, minProducts, target, fixNames };
 }
 
-const { concurrency: CONCURRENCY, status: SHOW_STATUS, audit: SHOW_AUDIT, minProducts: MIN_PRODUCTS } = parseArgs();
+const { concurrency: CONCURRENCY, status: SHOW_STATUS, audit: SHOW_AUDIT, minProducts: MIN_PRODUCTS, target: _TARGET_ARG, fixNames: FIX_NAMES } = parseArgs();
+const EFFECTIVE_TARGET = _TARGET_ARG > 0 ? _TARGET_ARG : TARGET_UNIQUE_IDS;
 
 // ─── state ────────────────────────────────────────────────────────────────────
 
@@ -75,11 +79,6 @@ function slugFromCategoryUrl(categoryUrl) {
   return cleaned || "category";
 }
 
-function buildPageUrl(categoryUrl, page) {
-  const url = new URL(categoryUrl);
-  url.searchParams.set("pi", String(page));
-  return url.toString();
-}
 
 // ─── status command ───────────────────────────────────────────────────────────
 
@@ -204,20 +203,30 @@ function isCategoryComplete(slug) {
   return true;
 }
 
-// Returns { products: [{id,url}], lastPage: N } or null.
-// When --min-products is set and a done file exists but is below threshold,
-// load its products as a base and restart from page 1 (lastPage: 0).
+function allNamesPresent(slug) {
+  const p = path.join(OUTPUT_DIR, `${slug}_ids.json`);
+  if (!fs.existsSync(p)) return true;
+  try {
+    const data = JSON.parse(fs.readFileSync(p, "utf8"));
+    const prods = Array.isArray(data.products) ? data.products : [];
+    return prods.every(prod => typeof prod.name === "string" && prod.name.length > 0);
+  } catch { return false; }
+}
+
+// Returns { products, lastPage, nextUrl } or null.
+// nextUrl: saved _links.next URL so resume continues exactly where it stopped.
+// When --min-products triggers a recheck, nextUrl is null → restarts from pi=1.
 function loadPartialData(slug) {
   const partialPath = path.join(OUTPUT_DIR, `${slug}_ids.partial.json`);
   if (fs.existsSync(partialPath)) {
     try {
       const data = JSON.parse(fs.readFileSync(partialPath, "utf8"));
       if (data.partial && typeof data.lastPage === "number" && Array.isArray(data.products)) {
-        return { products: data.products, lastPage: data.lastPage };
+        return { products: data.products, lastPage: data.lastPage, nextUrl: data.nextUrl || null };
       }
     } catch {}
   }
-  // Under --min-products: done file exists but below threshold — re-run from pg 1, seed with existing
+  // Under --min-products: done file exists but below threshold — re-run from pi=1, seed with existing
   if (MIN_PRODUCTS > 0) {
     const donePath = path.join(OUTPUT_DIR, `${slug}_ids.json`);
     if (fs.existsSync(donePath)) {
@@ -225,8 +234,8 @@ function loadPartialData(slug) {
         const data = JSON.parse(fs.readFileSync(donePath, "utf8"));
         const count = data.uniqueCount ?? 0;
         if (count < MIN_PRODUCTS && Array.isArray(data.products)) {
-          console.log(`[RECHECK] ${slug} has ${count} products < ${MIN_PRODUCTS}, re-scraping from pg=1`);
-          return { products: data.products, lastPage: 0 };
+          console.log(`[RECHECK] ${slug} has ${count} products < ${MIN_PRODUCTS}, re-scraping from pi=1`);
+          return { products: data.products, lastPage: 0, nextUrl: null };
         }
       } catch {}
     }
@@ -239,183 +248,147 @@ function deletePartialFile(slug) {
   if (fs.existsSync(partialPath)) fs.unlinkSync(partialPath);
 }
 
-// ─── product extraction ───────────────────────────────────────────────────────
+// ─── API helpers ──────────────────────────────────────────────────────────────
 
-// api/search/products → { products: [{id, url, name, ...}] }
-function extractFromSearchProducts(json) {
+function pathModelFromCategoryUrl(categoryUrl) {
+  const parts = new URL(categoryUrl).pathname.replace(/^\/+|\/+$/g, "").split("/");
+  return parts[parts.length - 1] || "";
+}
+
+function buildFirstPageUrlFromPathModel(pathModel) {
+  return `${API_BASE}?pi=1&pathModel=${encodeURIComponent(pathModel)}&channelId=1&storefrontId=1&culture=tr-TR`;
+}
+
+function buildFirstPageUrl(categoryUrl) {
+  return buildFirstPageUrlFromPathModel(pathModelFromCategoryUrl(categoryUrl));
+}
+
+async function detectCanonicalPathModel(page, categoryUrl) {
+  const fromUrl = pathModelFromCategoryUrl(categoryUrl);
+  try {
+    const finalUrl = page.url();
+    if (finalUrl && !finalUrl.startsWith("about:") && finalUrl !== categoryUrl) {
+      const detected = pathModelFromCategoryUrl(finalUrl);
+      if (detected && detected !== fromUrl) return detected;
+    }
+  } catch {}
+  return fromUrl;
+}
+
+// Direct API fetch — same pattern as n11's fetchListingPage
+async function fetchProductsPage(page, apiUrl) {
+  return await page.evaluate(async (url) => {
+    const res = await fetch(url, {
+      credentials: "include",
+      headers: {
+        "Accept": "application/json, text/plain, */*",
+        "x-requested-with": "XMLHttpRequest",
+      },
+    });
+    const text = await res.text();
+    let json = null;
+    try { json = JSON.parse(text); } catch {}
+    return { ok: res.ok, status: res.status, json };
+  }, apiUrl);
+}
+
+function extractProducts(json) {
   if (!Array.isArray(json?.products)) return [];
   const results = [];
   for (const item of json.products) {
-    const id = String(item.id ?? item.contentId ?? item.productId ?? "").trim();
-    const url = typeof item.url === "string" ? item.url : null;
-    if (id && url) results.push({ id, url });
+    const id   = String(item.id ?? item.contentId ?? item.productId ?? "").trim();
+    const url  = typeof item.url === "string" ? item.url : null;
+    const name = typeof item.name === "string" ? item.name.trim() || null : null;
+    if (id && url) results.push({ id, url, name });
   }
   return results;
 }
 
-// api/search/color-variants → { groupId: [{id, url, name, ...}] }
-function extractFromColorVariants(json) {
-  if (!json || typeof json !== "object" || Array.isArray(json)) return [];
-  const results = [];
-  for (const variants of Object.values(json)) {
-    if (!Array.isArray(variants)) continue;
-    for (const item of variants) {
-      const id = String(item.id ?? item.contentId ?? "").trim();
-      const url = typeof item.url === "string" ? item.url : null;
-      if (id && url) results.push({ id, url });
-    }
-  }
-  return results;
-}
-
-// ─── per-page scrape via network interception ─────────────────────────────────
-
-async function scrapePageWithInterception(page, pageUrl, slug, pg) {
-  const collected = new Map(); // id → {id, url}
-
-  const handler = async (response) => {
-    const url = response.url();
-    if (!url.includes("apigw.trendyol.com")) return;
-
-    const isProducts      = url.includes("/api/search/products");
-    const isColorVariants = url.includes("/api/search/color-variants");
-    if (!isProducts && !isColorVariants) return;
-
-    let bodyText;
-    try {
-      const buf = await response.body();
-      bodyText = buf.toString("utf-8");
-    } catch {
-      return;
-    }
-
-    if (DEBUG) {
-      console.log(`[DEBUG] ${url.slice(0, 120)}`);
-      console.log(`[DEBUG] body[0:300] ${bodyText.slice(0, 300)}`);
-    }
-
-    let json;
-    try {
-      json = JSON.parse(bodyText);
-    } catch {
-      return;
-    }
-
-    let products;
-    if (isProducts) {
-      products = extractFromSearchProducts(json);
-      if (DEBUG) console.log(`[DEBUG search/products] extracted ${products.length}`);
-    } else {
-      products = extractFromColorVariants(json);
-      if (DEBUG) console.log(`[DEBUG color-variants] extracted ${products.length}`);
-    }
-
-    for (const p of products) {
-      // Prefer entries that already have a url — don't overwrite with url-less ones
-      if (!collected.has(p.id) || !collected.get(p.id).url) {
-        collected.set(p.id, p);
-      }
-    }
-  };
-
-  page.on("response", handler);
-
-  try {
-    await page.goto(pageUrl, { waitUntil: "domcontentloaded", timeout: 30000 });
-  } catch {
-    console.log(`[${slug}] pg=${pg} nav timeout, using collected so far`);
-  }
-
-  // Wait for in-flight XHRs (color-variants fire after the main products response)
-  await sleep(API_SETTLE_MS);
-
-  page.off("response", handler);
-
-  if (DEBUG) console.log(`[DEBUG] pg=${pg} total after settle: ${collected.size}`);
-  return Array.from(collected.values());
-}
-
-// ─── category loop ────────────────────────────────────────────────────────────
+// ─── category scrape via direct API fetch + _links.next chain ─────────────────
 
 async function collectProductsForCategory(page, categoryUrl, resumeData) {
   const slug = slugFromCategoryUrl(categoryUrl);
   const seen = new Map();
-  let startPage = START_PAGE;
 
   if (resumeData) {
     for (const p of resumeData.products) {
       if (p.id) seen.set(p.id, p);
     }
-    startPage = resumeData.lastPage + 1;
   }
 
-  // runInfo shared by reference — saveAllActivePartials reads lastPage live
-  const runInfo = { seen, lastPage: startPage - 1 };
+  // runInfo shared by reference — saveAllActivePartials reads live
+  const runInfo = { seen, lastPage: 0, nextUrl: null };
   activeCategoryRuns.set(categoryUrl, runInfo);
 
+  // Navigate once to seed cookies; detect redirect-resolved pathModel for y-s categories
+  let canonicalPathModel = pathModelFromCategoryUrl(categoryUrl);
+  try {
+    await page.goto(categoryUrl, { waitUntil: "domcontentloaded", timeout: 30000 });
+    canonicalPathModel = await detectCanonicalPathModel(page, categoryUrl);
+    if (canonicalPathModel !== pathModelFromCategoryUrl(categoryUrl)) {
+      console.log(`[${slug}] pathModel remapped → ${canonicalPathModel}`);
+    }
+  } catch {
+    console.log(`[${slug}] nav timeout, continuing with fetch`);
+  }
+
   if (resumeData) {
-    console.log(`\n[RESUME] ${slug} from pg=${startPage} with ${seen.size} products loaded`);
+    console.log(`\n[RESUME] ${slug} from pi=${resumeData.lastPage + 1} with ${seen.size} pre-loaded`);
   } else {
     console.log(`\n[START] ${slug}`);
   }
 
-  let repeatCount = 0;
-  let previousSignature = null;
+  // Start from saved nextUrl if resuming, otherwise build page-1 URL from canonical pathModel
+  let nextUrl = resumeData?.nextUrl || buildFirstPageUrlFromPathModel(canonicalPathModel);
+  let pageNum = resumeData?.lastPage || 0;
 
-  for (let pg = startPage; pg <= MAX_PAGES_PER_CATEGORY; pg++) {
-    if (isShuttingDown) {
-      console.log(`[${slug}] interrupt, stopping.`);
-      break;
-    }
+  while (nextUrl && !isShuttingDown && seen.size < EFFECTIVE_TARGET) {
+    pageNum++;
 
-    const pageUrl = buildPageUrl(categoryUrl, pg);
-    let products = [];
-
+    let payload;
     try {
-      products = await scrapePageWithInterception(page, pageUrl, slug, pg);
+      payload = await fetchProductsPage(page, nextUrl);
     } catch (err) {
-      console.error(`[${slug}] error at pg=${pg}: ${err.message}`);
+      console.error(`[${slug}] fetch error at pi=${pageNum}: ${err.message}`);
       break;
     }
 
+    if (!payload.ok || !payload.json) {
+      console.log(`[${slug}] HTTP ${payload.status} at pi=${pageNum}, stopping.`);
+      break;
+    }
+
+    const products = extractProducts(payload.json);
     if (products.length === 0) {
-      console.log(`[${slug}] no products at pg=${pg}, stopping.`);
+      console.log(`[${slug}] no products at pi=${pageNum}, stopping.`);
       break;
     }
-
-    const signature = products.map((p) => p.id).join(",");
-    if (signature === previousSignature) {
-      repeatCount += 1;
-      console.log(`[${slug}] repeated content pg=${pg} (${repeatCount}/${MAX_REPEAT_PAGES})`);
-      if (repeatCount >= MAX_REPEAT_PAGES) {
-        console.log(`[${slug}] repeat threshold reached, stopping.`);
-        break;
-      }
-    } else {
-      repeatCount = 0;
-    }
-    previousSignature = signature;
 
     let addedThisPage = 0;
-    for (const product of products) {
-      if (!seen.has(product.id)) {
-        seen.set(product.id, product);
-        addedThisPage += 1;
+    for (const p of products) {
+      if (!seen.has(p.id)) {
+        seen.set(p.id, p);
+        addedThisPage++;
       }
     }
 
-    // Update lastPage only after products are safely in seen — partial saves use this
-    runInfo.lastPage = pg;
+    // Advance cursor — _links.next is the complete URL for the next page
+    nextUrl = payload.json._links?.next ?? null;
 
-    console.log(`[${slug}] pg=${pg} +${addedThisPage} new, total=${seen.size}`);
+    runInfo.lastPage = pageNum;
+    runInfo.nextUrl  = nextUrl; // saved in partial so resume can continue from here
+    console.log(`[${slug}] pi=${pageNum} +${addedThisPage} new, total=${seen.size}`);
 
-    if (seen.size >= TARGET_UNIQUE_IDS) {
-      console.log(`[${slug}] reached target ${TARGET_UNIQUE_IDS}, stopping.`);
+    if (seen.size >= EFFECTIVE_TARGET) {
+      console.log(`[${slug}] reached target ${EFFECTIVE_TARGET}.`);
       break;
     }
 
     await sleep(DELAY_MS + Math.floor(Math.random() * 150));
   }
+
+  if (isShuttingDown) console.log(`[${slug}] interrupt, stopping.`);
+  else if (!nextUrl && seen.size < TARGET_UNIQUE_IDS) console.log(`[${slug}] catalog exhausted (${seen.size} products).`);
 
   activeCategoryRuns.delete(categoryUrl);
 
@@ -437,7 +410,7 @@ function saveCategoryResult(result) {
   console.log(`[SAVED] ${outputPath} (${result.uniqueCount} products)`);
 }
 
-function savePartialResult(categoryUrl, seen, lastPage) {
+function savePartialResult(categoryUrl, seen, lastPage, nextUrl) {
   const slug = slugFromCategoryUrl(categoryUrl);
   const result = {
     categoryUrl,
@@ -446,17 +419,18 @@ function savePartialResult(categoryUrl, seen, lastPage) {
     uniqueCount: seen.size,
     products: Array.from(seen.values()),
     lastPage,
+    nextUrl: nextUrl || null,
     partial: true,
   };
   const outputPath = path.join(OUTPUT_DIR, `${slug}_ids.partial.json`);
   fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), "utf8");
-  console.log(`[PARTIAL SAVED] ${outputPath} (pg=${lastPage}, ${seen.size} products)`);
+  console.log(`[PARTIAL SAVED] ${outputPath} (pi=${lastPage}, ${seen.size} products)`);
 }
 
 function saveAllActivePartials() {
-  for (const [categoryUrl, { seen, lastPage }] of activeCategoryRuns.entries()) {
+  for (const [categoryUrl, { seen, lastPage, nextUrl }] of activeCategoryRuns.entries()) {
     try {
-      savePartialResult(categoryUrl, seen, lastPage);
+      savePartialResult(categoryUrl, seen, lastPage, nextUrl);
     } catch (err) {
       console.error(`[PARTIAL SAVE ERROR] ${categoryUrl}`);
       console.error(err);
@@ -464,12 +438,88 @@ function saveAllActivePartials() {
   }
 }
 
+// ─── fix-names mode ───────────────────────────────────────────────────────────
+
+async function fixNamesForCategory(page, categoryUrl) {
+  const slug = slugFromCategoryUrl(categoryUrl);
+  const idsPath = path.join(OUTPUT_DIR, `${slug}_ids.json`);
+
+  if (!fs.existsSync(idsPath)) {
+    console.log(`[SKIP] ${slug} already complete`);
+    return;
+  }
+
+  const data = JSON.parse(fs.readFileSync(idsPath, "utf8"));
+  const products = Array.isArray(data.products) ? data.products : [];
+  const missingCount = products.filter(p => !p.name).length;
+
+  if (missingCount === 0) {
+    console.log(`[SKIP] ${slug} already complete`);
+    return;
+  }
+
+  console.log(`\n[START] ${slug}`);
+  console.log(`[FIX-NAMES] ${slug} — ${missingCount}/${products.length} missing names`);
+
+  let canonicalPathModel = pathModelFromCategoryUrl(categoryUrl);
+  try {
+    await page.goto(categoryUrl, { waitUntil: "domcontentloaded", timeout: 30000 });
+    canonicalPathModel = await detectCanonicalPathModel(page, categoryUrl);
+    if (canonicalPathModel !== pathModelFromCategoryUrl(categoryUrl)) {
+      console.log(`[${slug}] pathModel remapped → ${canonicalPathModel}`);
+    }
+  } catch { console.log(`[${slug}] nav timeout, continuing`); }
+
+  const nameMap = new Map();
+  let nextUrl = buildFirstPageUrlFromPathModel(canonicalPathModel);
+  let pageNum = 0;
+
+  while (nextUrl && !isShuttingDown) {
+    pageNum++;
+    let payload;
+    try { payload = await fetchProductsPage(page, nextUrl); }
+    catch (err) { console.error(`[${slug}] fetch error pi=${pageNum}: ${err.message}`); break; }
+
+    if (!payload.ok || !payload.json) {
+      console.log(`[${slug}] HTTP ${payload.status} at pi=${pageNum}, stopping.`);
+      break;
+    }
+
+    const pageProducts = extractProducts(payload.json);
+    if (pageProducts.length === 0) {
+      console.log(`[${slug}] no products at pi=${pageNum}, stopping.`);
+      break;
+    }
+
+    for (const p of pageProducts) {
+      if (p.name && !nameMap.has(p.id)) nameMap.set(p.id, p.name);
+    }
+
+    nextUrl = payload.json._links?.next ?? null;
+    console.log(`[${slug}] pi=${pageNum} +0 new, total=${nameMap.size}`);
+    await sleep(DELAY_MS + Math.floor(Math.random() * 150));
+  }
+
+  let filled = 0;
+  const updated = products.map(p => {
+    if (!p.name && nameMap.has(p.id)) { filled++; return { ...p, name: nameMap.get(p.id) }; }
+    return p;
+  });
+
+  data.products = updated;
+  data.collectedAt = new Date().toISOString();
+  fs.writeFileSync(idsPath, JSON.stringify(data, null, 2), "utf8");
+  console.log(`[SAVED] ${idsPath} (${updated.length} products)`);
+  console.log(`[FIX-NAMES] ${slug} filled ${filled}/${missingCount} names`);
+}
+
 // ─── worker pool ──────────────────────────────────────────────────────────────
 
 async function createWorkerPage(context) {
   const page = await context.newPage();
   page.setDefaultNavigationTimeout(30000);
-  // Block heavy resources — we only need API intercepts, not rendered content
+  // Block everything except documents, scripts, and XHR/fetch.
+  // No rendering or layout needed — page is navigated only to seed session cookies.
   await page.route("**/*", (route) => {
     const type = route.request().resourceType();
     if (["image", "stylesheet", "font", "media", "other"].includes(type)) {
@@ -508,18 +558,29 @@ async function worker(context, workerId, queue, initialPage) {
 
       const slug = slugFromCategoryUrl(categoryUrl);
 
-      if (isCategoryComplete(slug)) {
-        console.log(`[SKIP] ${slug} already complete`);
-        continue;
+      if (FIX_NAMES) {
+        if (allNamesPresent(slug)) {
+          console.log(`[SKIP] ${slug} already complete`);
+          continue;
+        }
+      } else {
+        if (isCategoryComplete(slug)) {
+          console.log(`[SKIP] ${slug} already complete`);
+          continue;
+        }
       }
 
-      const resumeData = loadPartialData(slug);
       console.log(`\n[WORKER ${workerId}] starting ${categoryUrl}`);
 
       try {
-        const result = await collectProductsForCategory(page, categoryUrl, resumeData);
-        saveCategoryResult(result);
-        deletePartialFile(slug);
+        if (FIX_NAMES) {
+          await fixNamesForCategory(page, categoryUrl);
+        } else {
+          const resumeData = loadPartialData(slug);
+          const result = await collectProductsForCategory(page, categoryUrl, resumeData);
+          saveCategoryResult(result);
+          deletePartialFile(slug);
+        }
         tasksOnCurrentPage += 1;
         consecutiveErrors = 0;
       } catch (err) {
@@ -582,6 +643,9 @@ process.on("SIGINT", () => {
 
   if (MIN_PRODUCTS > 0) {
     console.log(`[INFO] --min-products=${MIN_PRODUCTS}: categories with fewer products will be re-scraped`);
+  }
+  if (EFFECTIVE_TARGET !== TARGET_UNIQUE_IDS) {
+    console.log(`[INFO] --target=${EFFECTIVE_TARGET}: collecting up to ${EFFECTIVE_TARGET} products per category`);
   }
 
   const context = await chromium.launchPersistentContext(
