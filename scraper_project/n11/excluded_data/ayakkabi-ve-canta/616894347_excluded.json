@@ -1,0 +1,80 @@
+[
+  {
+    "gid_ref": 130447,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Umut Ayakkabı Umut Hakiki Deri Tam Ortopedik Erkek Ayakkabı (550102950)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775128653437,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/02/90/14/49/31/07/57/63/79/63/08524442602690659963.png",
+      "__unknown_lastModifiedDate": 1775128653437,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 616894342,
+      "__unknown_productSubTitle": "Umut Ayakkabı Umut Hakiki Deri Tam Ortopedik Erkek Ayakkabı (550102950) 42",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8562627,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/90/14/49/31/07/57/63/79/63/08524442602690659963.png"
+        },
+        {
+          "id": 8562628,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/88/80/99/51/52/64/46/92/54/81223918161789471545.png"
+        },
+        {
+          "id": 8562629,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/91/92/24/66/63/57/97/92/84/52444942756508512340.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/02/90/14/49/31/07/57/63/79/63/08524442602690659963.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/02/90/14/49/31/07/57/63/79/63/08524442602690659963.png"
+    }
+  },
+  {
+    "gid_ref": 130448,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Umut Ayakkabı Umut Hakiki Deri Tam Ortopedik Erkek Ayakkabı (550102950)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772015440268,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 616894342,
+      "__unknown_productSubTitle": "Umut Ayakkabı Umut Hakiki Deri Tam Ortopedik Erkek Ayakkabı (550102950) 42",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 130449,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Umut Ayakkabı Umut Hakiki Deri Tam Ortopedik Erkek Ayakkabı (550102950)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742973993175,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 616894338,
+      "__unknown_productSubTitle": "Umut Ayakkabı Umut Hakiki Deri Tam Ortopedik Erkek Ayakkabı (550102950) 41",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

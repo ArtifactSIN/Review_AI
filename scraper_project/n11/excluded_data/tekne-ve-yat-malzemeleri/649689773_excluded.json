@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 1251628,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "2'li Paslanmaz Mapa. 6mm. Paslanmaz Krom U Mapa",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774688610010,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774688610010,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649689773,
+      "__unknown_productSubTitle": "2'li Paslanmaz Mapa. 6mm. Paslanmaz Krom U Mapa ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251629,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "2'li Paslanmaz Mapa. 6mm. Paslanmaz Krom U Mapa",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772277751321,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/28/71/09/59/66/33/56/69/64/65/08997190635932305450.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649689773,
+      "__unknown_productSubTitle": "2'li Paslanmaz Mapa. 6mm. Paslanmaz Krom U Mapa ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8417239,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/28/71/09/59/66/33/56/69/64/65/08997190635932305450.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/28/71/09/59/66/33/56/69/64/65/08997190635932305450.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/28/71/09/59/66/33/56/69/64/65/08997190635932305450.png"
+    }
+  },
+  {
+    "gid_ref": 1251630,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "2'li Paslanmaz Mapa. 6mm. Paslanmaz Krom U Mapa",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771417807761,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649689773,
+      "__unknown_productSubTitle": "2'li Paslanmaz Mapa. 6mm. Paslanmaz Krom U Mapa ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "gid_ref": 1397514,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Chelikbei ST24 Darbeli Vidalama",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772551167423,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648007655,
+      "__unknown_productSubTitle": "Chelikbei ST24 Darbeli Vidalama",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1397515,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Chelikbei ST24 Darbeli Vidalama",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771063667059,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/14/62/88/02/97/61/65/46/66/65/81662842426311983327.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648007655,
+      "__unknown_productSubTitle": "Chelikbei ST24 Darbeli Vidalama",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8365225,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/14/62/88/02/97/61/65/46/66/65/81662842426311983327.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/14/62/88/02/97/61/65/46/66/65/81662842426311983327.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/14/62/88/02/97/61/65/46/66/65/81662842426311983327.png"
+    }
+  },
+  {
+    "gid_ref": 1397516,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Chelikbei ST24 Darbeli Vidalama",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743452693674,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/31/86/61/37/30/64/67/72/01/97/54064071185345695600.png",
+      "__unknown_lastModifiedDate": 1743452896235,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648007655,
+      "__unknown_productSubTitle": "Chelikbei ST24 Darbeli Vidalama",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/31/86/61/37/30/64/67/72/01/97/54064071185345695600.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/31/86/61/37/30/64/67/72/01/97/54064071185345695600.png"
+    }
+  },
+  {
+    "gid_ref": 1397517,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Chelikbei ST24 Darbeli Vidalama",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741194639854,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648007655,
+      "__unknown_productSubTitle": "Chelikbei ST24 Darbeli Vidalama",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

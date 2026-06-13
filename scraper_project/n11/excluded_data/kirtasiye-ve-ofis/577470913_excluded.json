@@ -1,0 +1,100 @@
+[
+  {
+    "gid_ref": 789920,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "CADY 5 Mm Kılçık-901X Tabanca ve İğneli SET",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775681423069,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775681423069,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577470913,
+      "__unknown_productSubTitle": "CADY 5 Mm Kılçık-901X Tabanca ve İğneli SET",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 789921,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "CADY 5 Mm Kılçık-901X Tabanca ve İğneli SET",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769536761306,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577470913,
+      "__unknown_productSubTitle": "CADY 5 Mm Kılçık-901X Tabanca ve İğneli SET",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 789922,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "CADY 5 Mm Kılçık-901X Tabanca ve İğneli SET",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730225201828,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/29/82/80/05/71/32/43/66/69/06/01765123413789852340.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577470913,
+      "__unknown_productSubTitle": "CADY 5 Mm Kılçık-901X Tabanca ve İğneli SET",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6049048,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/29/82/80/05/71/32/43/66/69/06/01765123413789852340.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/29/82/80/05/71/32/43/66/69/06/01765123413789852340.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/29/82/80/05/71/32/43/66/69/06/01765123413789852340.png"
+    }
+  },
+  {
+    "gid_ref": 789923,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "CADY 5 Mm Kılçık-901X Tabanca ve İğneli SET",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725131606491,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/31/48/54/01/79/50/30/51/68/73/65702044623424146883.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577470913,
+      "__unknown_productSubTitle": "CADY 5 Mm Kılçık-901X Tabanca ve İğneli SET",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5552135,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/31/57/86/73/84/72/82/83/20/46/02954505123276566908.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/31/48/54/01/79/50/30/51/68/73/65702044623424146883.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/31/48/54/01/79/50/30/51/68/73/65702044623424146883.png"
+    }
+  }
+]

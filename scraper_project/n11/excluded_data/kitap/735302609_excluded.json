@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 818284,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ballı Çörek Kafeteryası - Zeynep Cemali - Günışığı Kitaplığı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758980782081,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/27/79/03/55/84/02/40/85/05/38/81912885357392016537.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701439534,
+      "__unknown_productSubTitle": "Ballı Çörek Kafeteryası - Zeynep Cemali - Günışığı Kitaplığı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7728434,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/27/79/03/55/84/02/40/85/05/38/81912885357392016537.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/27/79/03/55/84/02/40/85/05/38/81912885357392016537.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/27/79/03/55/84/02/40/85/05/38/81912885357392016537.jpg"
+    }
+  },
+  {
+    "gid_ref": 818285,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ballı Çörek Kafeteryası - Zeynep Cemali - Günışığı Kitaplığı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758909921275,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/26/78/73/96/64/13/84/60/88/28/65010459327435849835.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701439534,
+      "__unknown_productSubTitle": "Ballı Çörek Kafeteryası - Zeynep Cemali - Günışığı Kitaplığı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7726488,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/26/78/73/96/64/13/84/60/88/28/65010459327435849835.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/26/78/73/96/64/13/84/60/88/28/65010459327435849835.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/26/78/73/96/64/13/84/60/88/28/65010459327435849835.png"
+    }
+  }
+]

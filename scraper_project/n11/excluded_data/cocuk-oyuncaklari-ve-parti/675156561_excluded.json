@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 399436,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Köpük 3 Adet Baloncuk Likiti Yedek Baloncuk Solüsyon 500 Ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755776765596,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675156561,
+      "__unknown_productSubTitle": "Köpük 3 Adet Baloncuk Likiti Yedek Baloncuk Solüsyon 500 Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 399437,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Köpük 3 Adet Baloncuk Likiti Yedek Baloncuk Solüsyon 500 Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1752056412146,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/09/60/89/56/12/42/17/76/31/43/56693296605533943585.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 662225536,
+      "__unknown_productSubTitle": "Köpük 3 Adet Baloncuk Likiti Yedek Baloncuk Solüsyon 500 Ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7427055,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/09/60/89/56/12/42/17/76/31/43/56693296605533943585.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/09/60/89/56/12/42/17/76/31/43/56693296605533943585.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/09/60/89/56/12/42/17/76/31/43/56693296605533943585.png"
+    }
+  }
+]

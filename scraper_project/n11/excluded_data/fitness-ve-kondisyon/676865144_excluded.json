@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 745855,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Proforce Dambıl Set 10 Kg Döküm Dbs10s",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775836772141,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775836772141,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 676865144,
+      "__unknown_productSubTitle": "Proforce Dambıl Set 10 Kg Döküm Dbs10s ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 745856,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Proforce Dambıl Set 10 Kg Döküm Dbs10s",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765904925374,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/16/62/65/08/88/76/63/93/40/12/14574547518359227451.jpg",
+      "__unknown_lastModifiedDate": 1766308487500,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 676865144,
+      "__unknown_productSubTitle": "Proforce Dambıl Set 10 Kg Döküm Dbs10s ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8125296,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/16/62/65/08/88/76/63/93/40/12/14574547518359227451.jpg"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/16/62/65/08/88/76/63/93/40/12/14574547518359227451.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/16/62/65/08/88/76/63/93/40/12/14574547518359227451.jpg"
+    }
+  }
+]

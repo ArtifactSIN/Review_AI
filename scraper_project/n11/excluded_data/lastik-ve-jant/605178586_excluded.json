@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 825738,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Araç Oto 10 Adet Kolay Kullanılabilir Araba Lastiği Tamir Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730038580888,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/27/80/47/45/85/33/57/69/46/97/25158033833477453882.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605178586,
+      "__unknown_productSubTitle": "Araç Oto 10 Adet Kolay Kullanılabilir Araba Lastiği Tamir Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6028858,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/27/80/47/45/85/33/57/69/46/97/25158033833477453882.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/27/80/47/45/85/33/57/69/46/97/25158033833477453882.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/27/80/47/45/85/33/57/69/46/97/25158033833477453882.jpg"
+    }
+  },
+  {
+    "gid_ref": 825739,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Araç Oto 10 Adet Kolay Kullanılabilir Araba Lastiği Tamir Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720084315273,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605178586,
+      "__unknown_productSubTitle": "Araç Oto 10 Adet Kolay Kullanılabilir Araba Lastiği Tamir Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1009727,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Tta Today Kadın Parfüm EDP 3 x 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746596288074,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603044263,
+      "__unknown_productSubTitle": "Avon Tta Today Kadın Parfüm EDP 3 x 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1009728,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Tta Today Kadın Parfüm EDP 3 x 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733332216656,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603044263,
+      "__unknown_productSubTitle": "Avon Tta Today Kadın Parfüm EDP 3 x 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1009729,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Tta Today Kadın Parfüm EDP 3 x 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731589424673,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/14/72/30/53/06/25/12/45/14/56/31746946156481825335.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603044263,
+      "__unknown_productSubTitle": "Avon Tta Today Kadın Parfüm EDP 3 x 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6222619,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/14/72/30/53/06/25/12/45/14/56/31746946156481825335.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/14/72/30/53/06/25/12/45/14/56/31746946156481825335.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/14/72/30/53/06/25/12/45/14/56/31746946156481825335.jpg"
+    }
+  }
+]

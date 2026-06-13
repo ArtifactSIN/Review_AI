@@ -1,0 +1,106 @@
+[
+  {
+    "gid_ref": 882245,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yamaha Ybr K Esd Ön Far E Belgeli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732116620624,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/20/69/90/04/89/99/28/96/97/83/12325156684217600918.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539558201,
+      "__unknown_productSubTitle": "Yamaha Ybr K Esd Ön Far E Belgeli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6279093,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/20/69/90/04/89/99/28/96/97/83/12325156684217600918.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/20/69/90/04/89/99/28/96/97/83/12325156684217600918.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/20/69/90/04/89/99/28/96/97/83/12325156684217600918.png"
+    }
+  },
+  {
+    "gid_ref": 882246,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yamaha Ybr K Esd Ön Far E Belgeli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731546508875,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/14/82/25/31/51/63/40/19/19/12/46009651200940066802.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539558201,
+      "__unknown_productSubTitle": "Yamaha Ybr K Esd Ön Far E Belgeli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6216189,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/14/82/25/31/51/63/40/19/19/12/46009651200940066802.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/14/82/25/31/51/63/40/19/19/12/46009651200940066802.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/14/82/25/31/51/63/40/19/19/12/46009651200940066802.png"
+    }
+  },
+  {
+    "gid_ref": 882247,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yamaha Ybr K Esd Ön Far E Belgeli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1674912819167,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/01/28/46/32/21/03/34/21/31/90/26/57909370905410619147.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539558201,
+      "__unknown_productSubTitle": "Yamaha Ybr K Esd Ön Far E Belgeli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1539312,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/28/46/32/21/03/34/21/31/90/26/57909370905410619147.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/01/28/46/32/21/03/34/21/31/90/26/57909370905410619147.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/01/28/46/32/21/03/34/21/31/90/26/57909370905410619147.png"
+    }
+  },
+  {
+    "gid_ref": 882248,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yamaha Ybr K Esd Ön Far E Belgeli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1673449690759,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539558201,
+      "__unknown_productSubTitle": "Yamaha Ybr K Esd Ön Far E Belgeli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

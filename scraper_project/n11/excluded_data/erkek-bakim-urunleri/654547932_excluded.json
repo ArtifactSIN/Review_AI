@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 528365,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arko Tıraş Köpüğü Cool 200 ML + Arko Banyo Tıraş Bıçağı 5'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697298112327,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578889096,
+      "__unknown_productSubTitle": " Arko Men Banyo 5'Li + Cool Köpük Pro 200Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 528366,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": ".",
+      "productTitle": "Arko Tıraş Köpüğü Cool 200 ML + Arko Banyo Tıraş Bıçağı 5'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1638805952990,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 495755785,
+      "__unknown_productSubTitle": "Arko Tıraş Köpüğü Cool 200 ML + Arko Banyo Tıraş Bıçağı 5'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

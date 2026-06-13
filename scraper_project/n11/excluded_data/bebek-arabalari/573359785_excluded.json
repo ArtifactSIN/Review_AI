@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 179676,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Malzek Lüks Bebek Arabası Yağmurluğu Şeffaf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732556370240,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750656062391,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573359785,
+      "__unknown_productSubTitle": "Malzek Lüks Bebek Arabası Yağmurluğu Şeffaf ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 179677,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Malzek Lüks Bebek Arabası Yağmurluğu Şeffaf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725776903459,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750656062391,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573359785,
+      "__unknown_productSubTitle": "Malzek Lüks Bebek Arabası Yağmurluğu Şeffaf ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

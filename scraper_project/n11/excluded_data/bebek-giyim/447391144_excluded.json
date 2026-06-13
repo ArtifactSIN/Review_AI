@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 251668,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hapshoe Yumuşak Hakiki Deri İlk Adım Bebek Ayakkabısı Bej",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725466308818,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/04/62/76/79/65/38/89/08/52/17/66222826036591677304.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611829967,
+      "__unknown_productSubTitle": "Hapshoe Yumuşak Hakiki Deri İlk Adım Bebek Ayakkabısı Bej 23",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5577620,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/04/62/76/79/65/38/89/08/52/17/66222826036591677304.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/04/62/76/79/65/38/89/08/52/17/66222826036591677304.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/04/62/76/79/65/38/89/08/52/17/66222826036591677304.png"
+    }
+  },
+  {
+    "gid_ref": 251669,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Deri ve yumuşak. Beğendim.",
+      "productTitle": "Hapshoe Yumuşak Hakiki Deri İlk Adım Bebek Ayakkabısı Bej",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1606398203310,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 447391144,
+      "__unknown_productSubTitle": "Hapshoe Yumuşak Hakiki Deri İlk Adım Bebek Ayakkabısı Bej 19",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

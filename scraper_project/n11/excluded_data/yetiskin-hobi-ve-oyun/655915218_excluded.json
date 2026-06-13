@@ -1,0 +1,95 @@
+[
+  {
+    "gid_ref": 1493892,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Metrocity Kutu Oyunu - Şehir Kurma Ve Strateji Keyfi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774611472419,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774611472419,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655915218,
+      "__unknown_productSubTitle": "Metrocity Kutu Oyunu - Şehir Kurma Ve Strateji Keyfi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1493893,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Metrocity Kutu Oyunu - Şehir Kurma Ve Strateji Keyfi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765892363519,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655915218,
+      "__unknown_productSubTitle": "Metrocity Kutu Oyunu - Şehir Kurma Ve Strateji Keyfi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1493894,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Metrocity Kutu Oyunu - Şehir Kurma Ve Strateji Keyfi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760456909729,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655915218,
+      "__unknown_productSubTitle": "Metrocity Kutu Oyunu - Şehir Kurma Ve Strateji Keyfi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1493895,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Metrocity Kutu Oyunu - Şehir Kurma Ve Strateji Keyfi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739911139356,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/18/72/83/22/69/80/86/61/67/09/2232255335236878308.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649747755,
+      "__unknown_productSubTitle": "Metrocity Kutu Oyunu - Şehir Kurma Ve Strateji Keyfi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6859532,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/18/72/83/22/69/80/86/61/67/09/2232255335236878308.jpg"
+        },
+        {
+          "id": 6859533,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/18/64/50/19/18/71/71/20/19/78/98875645141153921100.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/18/72/83/22/69/80/86/61/67/09/2232255335236878308.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/18/72/83/22/69/80/86/61/67/09/2232255335236878308.jpg"
+    }
+  }
+]

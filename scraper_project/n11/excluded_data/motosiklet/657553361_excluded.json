@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 894363,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rks R 250 Fren Kolu Sağ",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762874940022,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 657553361,
+      "__unknown_productSubTitle": "Rks R 250 Fren Kolu Sağ ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 894364,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rks R 250 Fren Kolu Sağ",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762860397254,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 657553361,
+      "__unknown_productSubTitle": "Rks R 250 Fren Kolu Sağ ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

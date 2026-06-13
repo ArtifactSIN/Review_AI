@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 829862,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bridgestone Turanza T005 88H 185/65R15 Yaz Lastiği 2025",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769541176979,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679702566,
+      "__unknown_productSubTitle": "Bridgestone Turanza T005 88H 185/65R15 Yaz Lastiği 2025",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 829863,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bridgestone Turanza T005 88H 185/65R15 Yaz Lastiği 2025",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768303097857,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679702566,
+      "__unknown_productSubTitle": "Bridgestone Turanza T005 88H 185/65R15 Yaz Lastiği 2025",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 829864,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bridgestone Turanza T005 88H 185/65R15 Yaz Lastiği 2025",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762245504939,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/04/65/20/25/18/52/41/45/24/62/23247310016185873572.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679702566,
+      "__unknown_productSubTitle": "Bridgestone Turanza T005 88H 185/65R15 Yaz Lastiği 2025",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7904847,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/04/65/20/25/18/52/41/45/24/62/23247310016185873572.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/04/65/20/25/18/52/41/45/24/62/23247310016185873572.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/04/65/20/25/18/52/41/45/24/62/23247310016185873572.png"
+    }
+  }
+]

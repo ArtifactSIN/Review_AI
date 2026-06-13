@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 933424,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kütahya Porselen Zeugma Good Day 14 Parça 6 Kişilik Kahvaltı Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775065365179,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/78/18/67/78/52/31/91/08/02/87155527496824306619.png",
+      "__unknown_lastModifiedDate": 1775065365179,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 691747152,
+      "__unknown_productSubTitle": "Kütahya Porselen Zeugma Good Day 14 Parça 6 Kişilik Kahvaltı Takımı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8561266,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/78/18/67/78/52/31/91/08/02/87155527496824306619.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/78/18/67/78/52/31/91/08/02/87155527496824306619.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/78/18/67/78/52/31/91/08/02/87155527496824306619.png"
+    }
+  },
+  {
+    "gid_ref": 933425,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kütahya Porselen Zeugma Good Day 14 Parça 6 Kişilik Kahvaltı Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774364628455,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/24/50/39/44/76/53/50/04/77/15/76551758332216364802.png",
+      "__unknown_lastModifiedDate": 1774364628455,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 691747152,
+      "__unknown_productSubTitle": "Kütahya Porselen Zeugma Good Day 14 Parça 6 Kişilik Kahvaltı Takımı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8497526,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/24/50/39/44/76/53/50/04/77/15/76551758332216364802.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/24/50/39/44/76/53/50/04/77/15/76551758332216364802.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/24/50/39/44/76/53/50/04/77/15/76551758332216364802.png"
+    }
+  }
+]

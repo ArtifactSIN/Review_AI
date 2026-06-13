@@ -1,0 +1,125 @@
+[
+  {
+    "gid_ref": 947240,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ümit Besen - Nostalji Plak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772798685402,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690850960,
+      "__unknown_productSubTitle": "Ümit Besen - Nostalji Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947241,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ümit Besen - Nostalji Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1753773598232,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 223663034,
+      "__unknown_productSubTitle": "Ümit Besen - Nostalji Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947242,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ümit Besen - Nostalji Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1737108182598,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 223663034,
+      "__unknown_productSubTitle": "Ümit Besen - Nostalji Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947243,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ümit Besen - Nostalji Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732513647155,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 223663034,
+      "__unknown_productSubTitle": "Ümit Besen - Nostalji Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947244,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "harika",
+      "productTitle": "Ümit Besen - Nostalji Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1606225685427,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 64415466,
+      "__unknown_productSubTitle": "Ümit Besen - Nostalji Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947245,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Süper...",
+      "productTitle": "Ümit Besen - Nostalji Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1439370866521,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 64415466,
+      "__unknown_productSubTitle": "Ümit Besen - Nostalji Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

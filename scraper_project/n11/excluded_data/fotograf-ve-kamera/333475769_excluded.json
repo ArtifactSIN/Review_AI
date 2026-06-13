@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 749964,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "HARİKA🌸",
+      "productTitle": "Fujifilm İnstax Mini 8 - 9 Albüm Kahverengi-96 Fotoğraf Kapasiteli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1646669746381,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/03/07/58/98/79/55/55/44/45/35/85/55127730886026571916.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 333475769,
+      "__unknown_productSubTitle": "Fujifilm İnstax Mini 8 - 9 Albüm Kahverengi-96 Fotoğraf Kapasiteli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 399470,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/03/07/58/98/79/55/55/44/45/35/85/55127730886026571916.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/03/07/58/98/79/55/55/44/45/35/85/55127730886026571916.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/03/07/58/98/79/55/55/44/45/35/85/55127730886026571916.jpg"
+    }
+  },
+  {
+    "gid_ref": 749965,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Süper",
+      "productTitle": "Fujifilm İnstax Mini 8 - 9 Albüm Kahverengi-96 Fotoğraf Kapasiteli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1597768120015,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 333475769,
+      "__unknown_productSubTitle": "Fujifilm İnstax Mini 8 - 9 Albüm Kahverengi-96 Fotoğraf Kapasiteli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 749966,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "instax mini 9",
+      "productTitle": "Fujifilm İnstax Mini 8 - 9 Albüm Kahverengi-96 Fotoğraf Kapasiteli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1581631242530,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 333475769,
+      "__unknown_productSubTitle": "Fujifilm İnstax Mini 8 - 9 Albüm Kahverengi-96 Fotoğraf Kapasiteli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

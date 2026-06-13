@@ -1,0 +1,46 @@
+[
+  {
+    "gid_ref": 253288,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Tavsiye ile aldım",
+      "productTitle": "Bebek Güvenlik Beyaz Eşya Kilidi Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1593164006193,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750694090593,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 118726008,
+      "__unknown_productSubTitle": "Bebek Güvenlik Beyaz Eşya Kilidi Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253289,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "çok iyi kullanışlı ürün ",
+      "productTitle": "Bebek Güvenlik Beyaz Eşya Kilidi Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1551467428889,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750694090593,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 118726008,
+      "__unknown_productSubTitle": "Bebek Güvenlik Beyaz Eşya Kilidi Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

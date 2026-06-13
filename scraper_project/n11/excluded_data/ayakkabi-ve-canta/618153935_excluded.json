@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 130823,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Igor S10268k Tobby V.kitty Beyaz Kız Çocuk Sandalet Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724082125853,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/19/80/18/53/22/11/15/93/16/51/38632567777856081497.jpg",
+      "__unknown_lastModifiedDate": 1748348718044,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602206595,
+      "__unknown_productSubTitle": "Igor S10268k Tobby V.kitty Beyaz Kız Çocuk Sandalet Beyaz 21",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5446449,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/19/80/18/53/22/11/15/93/16/51/38632567777856081497.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/19/80/18/53/22/11/15/93/16/51/38632567777856081497.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/19/80/18/53/22/11/15/93/16/51/38632567777856081497.jpg"
+    }
+  },
+  {
+    "gid_ref": 130824,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Igor S10268k Tobby V.kitty Beyaz Kız Çocuk Sandalet Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719221875102,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1748348727762,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 618153933,
+      "__unknown_productSubTitle": "Igor S10268k Tobby V.kitty Beyaz Kız Çocuk Sandalet Beyaz 22",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

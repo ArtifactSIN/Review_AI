@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 735300,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Silence Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1707506041674,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/09/55/69/80/01/67/43/91/71/66/27746232279583441950.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 216288284,
+      "__unknown_productSubTitle": "Silence Dvd",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3858488,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/09/55/69/80/01/67/43/91/71/66/27746232279583441950.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/09/55/69/80/01/67/43/91/71/66/27746232279583441950.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/09/55/69/80/01/67/43/91/71/66/27746232279583441950.png"
+    }
+  },
+  {
+    "gid_ref": 735301,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ALABİLİRSİNİZ",
+      "productTitle": "Silence Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1645567354244,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 216288284,
+      "__unknown_productSubTitle": "Silence Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

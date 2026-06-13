@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 799248,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Akyazı 120X200 Laminat Duvara Monte Yazı Tahtası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752739485006,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 571492481,
+      "__unknown_productSubTitle": "Akyazı 120X200 Laminat Duvara Monte Yazı Tahtası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 799249,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Akyazı 120X200 Laminat Duvara Monte Yazı Tahtası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1675954556568,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539276111,
+      "__unknown_productSubTitle": "AKYAZI 120x200 LAMİNAT DUVARA MONTE YAZI TAHTASI",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

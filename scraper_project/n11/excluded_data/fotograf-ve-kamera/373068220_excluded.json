@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 750570,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Sorunsuz ulaştı",
+      "productTitle": "Fujifilm X-T30 Fotoğraf Makinesi Için 128 Cm Tripod",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1620227117610,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/21/05/05/86/57/11/19/15/80/80/48/89/08579668512764901310.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 373068220,
+      "__unknown_productSubTitle": "Fujifilm X-T30 Fotoğraf Makinesi Için 128 Cm Tripod",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3038318,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/21/05/05/86/57/11/19/15/80/80/48/89/08579668512764901310.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/21/05/05/86/57/11/19/15/80/80/48/89/08579668512764901310.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/21/05/05/86/57/11/19/15/80/80/48/89/08579668512764901310.jpg"
+    }
+  },
+  {
+    "gid_ref": 750571,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "PİYASADAKİ DAHA UCUZ OLAN ÜRÜNLERDEN FARKI YOK",
+      "productTitle": "Fujifilm X-T30 Fotoğraf Makinesi Için 128 Cm Tripod",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1587039763126,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 373068220,
+      "__unknown_productSubTitle": "Fujifilm X-T30 Fotoğraf Makinesi Için 128 Cm Tripod",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

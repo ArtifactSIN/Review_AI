@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 743757,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Waspco Çilekli Protein Bar 40g x 12 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769613026225,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/28/85/95/82/39/52/15/42/92/27/26790648420582835715.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630069222,
+      "__unknown_productSubTitle": "Waspco Çilekli Protein Bar 40g x 12 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8292783,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/28/85/95/82/39/52/15/42/92/27/26790648420582835715.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/28/85/95/82/39/52/15/42/92/27/26790648420582835715.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/28/85/95/82/39/52/15/42/92/27/26790648420582835715.png"
+    }
+  },
+  {
+    "gid_ref": 743758,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Waspco Çilekli Protein Bar 40g x 12 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762195333761,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630069222,
+      "__unknown_productSubTitle": "Waspco Çilekli Protein Bar 40g x 12 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 743759,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Waspco Çilekli Protein Bar 40g x 12 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761289110735,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630069222,
+      "__unknown_productSubTitle": "Waspco Çilekli Protein Bar 40g x 12 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 743760,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Waspco Çilekli Protein Bar 40g x 12 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759006445391,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630069222,
+      "__unknown_productSubTitle": "Waspco Çilekli Protein Bar 40g x 12 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

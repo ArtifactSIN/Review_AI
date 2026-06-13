@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 429534,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hemenoyun Google Play 50 Tl Hediye Kartı Bakiye Kodu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746447488409,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591294986,
+      "__unknown_productSubTitle": "Hemenoyun Google Play 50 Tl Hediye Kartı Bakiye Kodu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 429535,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hemenoyun Google Play 50 Tl Hediye Kartı Bakiye Kodu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740514882868,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/25/75/70/72/73/93/64/73/29/53/08199419814599965440.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591294986,
+      "__unknown_productSubTitle": "Hemenoyun Google Play 50 Tl Hediye Kartı Bakiye Kodu ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6891442,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/25/75/70/72/73/93/64/73/29/53/08199419814599965440.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/25/75/70/72/73/93/64/73/29/53/08199419814599965440.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/25/75/70/72/73/93/64/73/29/53/08199419814599965440.png"
+    }
+  },
+  {
+    "gid_ref": 429536,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hemenoyun Google Play 50 Tl Hediye Kartı Bakiye Kodu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721737278627,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/23/85/21/53/84/81/30/16/56/10/21301161557732182055.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591294986,
+      "__unknown_productSubTitle": "Hemenoyun Google Play 50 Tl Hediye Kartı Bakiye Kodu ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5246957,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/23/51/54/71/98/26/18/22/06/89/94030384985524683571.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/23/85/21/53/84/81/30/16/56/10/21301161557732182055.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/23/85/21/53/84/81/30/16/56/10/21301161557732182055.png"
+    }
+  }
+]

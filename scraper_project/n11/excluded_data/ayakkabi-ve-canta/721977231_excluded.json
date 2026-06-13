@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 136832,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Huitre Valiz/bavul - Bej - Orta Boy 8684427033913 Ekru",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775032012993,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775032012993,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721977231,
+      "__unknown_productSubTitle": "Madame Coco Huitre Valiz/bavul - Bej - Orta Boy 8684427033913 Ekru",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 136833,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Huitre Valiz/bavul - Bej - Orta Boy 8684427033913 Ekru",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766531956874,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/24/84/93/48/55/91/97/70/06/77/68591202741154460323.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721977231,
+      "__unknown_productSubTitle": "Madame Coco Huitre Valiz/bavul - Bej - Orta Boy 8684427033913 Ekru",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8164461,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/24/84/93/48/55/91/97/70/06/77/68591202741154460323.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/24/84/93/48/55/91/97/70/06/77/68591202741154460323.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/24/84/93/48/55/91/97/70/06/77/68591202741154460323.png"
+    }
+  }
+]

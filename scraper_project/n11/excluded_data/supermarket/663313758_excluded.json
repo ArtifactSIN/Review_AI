@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1236108,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Envu Bayer K-othrıne Sc 50 Cc",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770140782254,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684239973,
+      "__unknown_productSubTitle": "Envu Bayer K-othrıne Sc 50 Cc ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1236109,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Envu Bayer K-othrıne Sc 50 Cc",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764595411990,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/01/47/57/58/89/78/91/80/77/80/81318882748966588123.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702314096,
+      "__unknown_productSubTitle": "Envu Bayer K-othrıne Sc 50 Cc ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8048642,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/01/47/57/58/89/78/91/80/77/80/81318882748966588123.png"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/01/47/57/58/89/78/91/80/77/80/81318882748966588123.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/01/47/57/58/89/78/91/80/77/80/81318882748966588123.png"
+    }
+  },
+  {
+    "gid_ref": 1236110,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Envu Bayer K-othrıne Sc 50 Cc",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763670572801,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702314096,
+      "__unknown_productSubTitle": "Envu Bayer K-othrıne Sc 50 Cc ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

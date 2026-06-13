@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 735056,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "süper hesaplı",
+      "productTitle": "Dvd-Demir Yumruklu Adam 2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1567522244499,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 157788448,
+      "__unknown_productSubTitle": "Dvd-Demir Yumruklu Adam 2",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735057,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "GÜVENİLİR VE KARGOLAMA SÜPER OLAN BİR N11 ÜYESİ....",
+      "productTitle": "Dvd-Demir Yumruklu Adam 2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1554996133084,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 157788448,
+      "__unknown_productSubTitle": "Dvd-Demir Yumruklu Adam 2",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

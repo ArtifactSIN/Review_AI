@@ -1,0 +1,82 @@
+[
+  {
+    "gid_ref": 753993,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-02 Efile Saç Makası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760395479210,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/14/54/36/41/74/47/33/37/35/42/07432636600096669914.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589467894,
+      "__unknown_productSubTitle": "Powertec TR-02 Efile Saç Makası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7800311,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/14/54/36/41/74/47/33/37/35/42/07432636600096669914.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/14/54/36/41/74/47/33/37/35/42/07432636600096669914.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/14/54/36/41/74/47/33/37/35/42/07432636600096669914.png"
+    }
+  },
+  {
+    "gid_ref": 753994,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-02 Efile Saç Makası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730735475803,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589467894,
+      "__unknown_productSubTitle": "Powertec TR-02 Efile Saç Makası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 753995,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-02 Efile Saç Makası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721326367605,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/18/54/57/53/03/47/26/77/94/51/36703880169263379675.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598512341,
+      "__unknown_productSubTitle": "Powertec TR-02 Efile Saç Makası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5224670,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/18/54/57/53/03/47/26/77/94/51/36703880169263379675.png"
+        },
+        {
+          "id": 5224671,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/18/83/26/18/36/96/10/01/43/67/46535010751198312068.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/18/54/57/53/03/47/26/77/94/51/36703880169263379675.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/18/54/57/53/03/47/26/77/94/51/36703880169263379675.png"
+    }
+  }
+]

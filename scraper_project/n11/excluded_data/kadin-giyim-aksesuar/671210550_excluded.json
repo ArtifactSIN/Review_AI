@@ -1,0 +1,108 @@
+[
+  {
+    "gid_ref": 776894,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Merry See Dantelli Şık Saten Gecelik Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774545992815,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/79/70/77/23/85/38/20/64/45/78847553362957351564.jpg",
+      "__unknown_lastModifiedDate": 1774545992815,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 671210691,
+      "__unknown_productSubTitle": "Merry See Dantelli Şık Saten Gecelik Siyah L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8522356,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/79/70/77/23/85/38/20/64/45/78847553362957351564.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/79/70/77/23/85/38/20/64/45/78847553362957351564.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/79/70/77/23/85/38/20/64/45/78847553362957351564.jpg"
+    }
+  },
+  {
+    "gid_ref": 776895,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Merry See Dantelli Şık Saten Gecelik Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767437802322,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/03/65/13/81/58/76/71/40/42/37/12261628193699838123.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 671210592,
+      "__unknown_productSubTitle": "Merry See Dantelli Şık Saten Gecelik Siyah XL",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8214204,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/03/65/13/81/58/76/71/40/42/37/12261628193699838123.png"
+        },
+        {
+          "id": 8214205,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/03/89/50/63/37/84/26/29/02/66/03564220370779652910.png"
+        },
+        {
+          "id": 8214206,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/03/47/70/68/46/38/13/09/88/89/44807088984708630480.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/03/65/13/81/58/76/71/40/42/37/12261628193699838123.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/03/65/13/81/58/76/71/40/42/37/12261628193699838123.png"
+    }
+  },
+  {
+    "gid_ref": 776896,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Merry See Dantelli Şık Saten Gecelik Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767080726136,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 671210595,
+      "__unknown_productSubTitle": "Merry See Dantelli Şık Saten Gecelik Siyah 2XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 776897,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Merry See Dantelli Şık Saten Gecelik Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754032966243,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 671210595,
+      "__unknown_productSubTitle": "Merry See Dantelli Şık Saten Gecelik Siyah 2XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 896585,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tüm Aksiyon Kameralara Uyumlu Vantuz Vakumlu Bağlantı Aparatı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765288347989,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 686656029,
+      "__unknown_productSubTitle": "Tüm Aksiyon Kameralara Uyumlu Vantuz Vakumlu Bağlantı Aparatı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 896586,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tüm Aksiyon Kameralara Uyumlu Vantuz Vakumlu Bağlantı Aparatı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761579486662,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/27/47/14/20/78/91/40/36/89/72/94786599541335476537.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 686656029,
+      "__unknown_productSubTitle": "Tüm Aksiyon Kameralara Uyumlu Vantuz Vakumlu Bağlantı Aparatı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7866506,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/27/47/14/20/78/91/40/36/89/72/94786599541335476537.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/27/47/14/20/78/91/40/36/89/72/94786599541335476537.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/27/47/14/20/78/91/40/36/89/72/94786599541335476537.png"
+    }
+  },
+  {
+    "gid_ref": 896587,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tüm Aksiyon Kameralara Uyumlu Vantuz Vakumlu Bağlantı Aparatı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756833763759,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 686656029,
+      "__unknown_productSubTitle": "Tüm Aksiyon Kameralara Uyumlu Vantuz Vakumlu Bağlantı Aparatı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

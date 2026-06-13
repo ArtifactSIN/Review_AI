@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 871990,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alpa Ev Mobilya 5 Raflı Kitaplık, Modern Çok Amaçlı Ahşap Ofis, Salon Ve Mutfak Raf Dolabı Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765224816460,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/08/79/37/18/41/45/77/38/54/05/86230396811311139777.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717150204,
+      "__unknown_productSubTitle": "Alpa Ev Mobilya 5 Raflı Kitaplık, Modern Çok Amaçlı Ahşap Ofis, Salon Ve Mutfak Raf Dolabı Antrasit",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8090367,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/08/79/37/18/41/45/77/38/54/05/86230396811311139777.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/08/79/37/18/41/45/77/38/54/05/86230396811311139777.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/08/79/37/18/41/45/77/38/54/05/86230396811311139777.png"
+    }
+  },
+  {
+    "gid_ref": 871991,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alpa Ev Mobilya 5 Raflı Kitaplık, Modern Çok Amaçlı Ahşap Ofis, Salon Ve Mutfak Raf Dolabı Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763211103834,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717150204,
+      "__unknown_productSubTitle": "Alpa Ev Mobilya 5 Raflı Kitaplık, Modern Çok Amaçlı Ahşap Ofis, Salon Ve Mutfak Raf Dolabı Antrasit",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

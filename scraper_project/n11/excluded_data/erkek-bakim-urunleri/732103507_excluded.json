@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 540359,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dingilg RD-609X Tıraş Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697131771784,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558765999,
+      "__unknown_productSubTitle": "Dingilg RD-609X Tıraş Makinesi Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 540360,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dingilg RD-609X Tıraş Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1694090143596,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558765999,
+      "__unknown_productSubTitle": "Dingilg RD-609X Tıraş Makinesi Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

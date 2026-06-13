@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 945214,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Joyo Jcp03s Light Capo gümüş Renk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774516544126,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/82/27/57/10/65/42/98/55/22/82261585587058161815.jpeg",
+      "__unknown_lastModifiedDate": 1774516544126,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 527820953,
+      "__unknown_productSubTitle": "Joyo Jcp03s Light Capo gümüş Renk",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8520000,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/82/27/57/10/65/42/98/55/22/82261585587058161815.jpeg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/82/27/57/10/65/42/98/55/22/82261585587058161815.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/82/27/57/10/65/42/98/55/22/82261585587058161815.jpeg"
+    }
+  },
+  {
+    "gid_ref": 945215,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Joyo Jcp03s Light Capo gümüş Renk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740182334117,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 527820953,
+      "__unknown_productSubTitle": "Joyo Jcp03s Light Capo gümüş Renk",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 945216,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "işini yapiyor",
+      "productTitle": "Joyo Jcp03s Light Capo gümüş Renk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1652937035122,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 527820953,
+      "__unknown_productSubTitle": "Joyo Jcp03s Light Capo gümüş Renk",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

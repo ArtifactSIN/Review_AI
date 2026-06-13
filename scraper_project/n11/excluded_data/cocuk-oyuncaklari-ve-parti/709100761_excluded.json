@@ -1,0 +1,112 @@
+[
+  {
+    "gid_ref": 401097,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Disney Stitch Peluş Oyuncak 30 Cm Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772591671122,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 709100761,
+      "__unknown_productSubTitle": "Disney Stitch Peluş Oyuncak 30 Cm Mavi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 401098,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Disney Stitch Peluş Oyuncak 30 Cm Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769532257200,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 709100761,
+      "__unknown_productSubTitle": "Disney Stitch Peluş Oyuncak 30 Cm Mavi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 401099,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Disney Stitch Peluş Oyuncak 30 Cm Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765308902047,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 722547465,
+      "__unknown_productSubTitle": "Disney Stitch Peluş Oyuncak 30 Cm Mavi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 401100,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Disney Stitch Peluş Oyuncak 30 Cm Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764254343074,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/27/68/79/49/55/61/87/28/76/14/64729447761969066517.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 722547465,
+      "__unknown_productSubTitle": "Disney Stitch Peluş Oyuncak 30 Cm Mavi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8027443,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/27/68/79/49/55/61/87/28/76/14/64729447761969066517.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/27/68/79/49/55/61/87/28/76/14/64729447761969066517.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/27/68/79/49/55/61/87/28/76/14/64729447761969066517.jpg"
+    }
+  },
+  {
+    "gid_ref": 401101,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Disney Stitch Peluş Oyuncak 30 Cm Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762367966493,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 709100761,
+      "__unknown_productSubTitle": "Disney Stitch Peluş Oyuncak 30 Cm Mavi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

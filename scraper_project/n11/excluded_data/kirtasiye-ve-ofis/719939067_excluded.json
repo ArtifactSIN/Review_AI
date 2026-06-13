@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 801725,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Canon Zınk Paper Zp-2030 50 Adet Fotoğraf Kağıdı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1736517327198,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/10/53/24/60/71/79/35/69/40/24/83372184228851303197.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647808201,
+      "__unknown_productSubTitle": "Canon Zınk Paper Zp-2030 50 Adet Fotoğraf Kağıdı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6670785,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/10/53/24/60/71/79/35/69/40/24/83372184228851303197.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/10/53/24/60/71/79/35/69/40/24/83372184228851303197.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/10/53/24/60/71/79/35/69/40/24/83372184228851303197.jpg"
+    }
+  },
+  {
+    "gid_ref": 801726,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Canon Zınk Paper Zp-2030 50 Adet Fotoğraf Kağıdı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1658356541716,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 548567647,
+      "__unknown_productSubTitle": "Canon ZP-2030/50 Zink Paper 50'lik Fotoğraf Kağıdı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

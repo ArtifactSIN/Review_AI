@@ -1,0 +1,82 @@
+[
+  {
+    "gid_ref": 399699,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sylvanian Families Işıklı Şehir Evi Gizli Oyun Odalı 5708",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1754588916224,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/07/55/90/31/24/63/76/04/13/87/7209474740084781590.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588415860,
+      "__unknown_productSubTitle": "Sylvanian Families Işıklı Şehir Evi Gizli Oyun Odalı 5708",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7527810,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/07/55/90/31/24/63/76/04/13/87/7209474740084781590.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/07/55/90/31/24/63/76/04/13/87/7209474740084781590.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/07/55/90/31/24/63/76/04/13/87/7209474740084781590.png"
+    }
+  },
+  {
+    "gid_ref": 399700,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sylvanian Families Işıklı Şehir Evi Gizli Oyun Odalı 5708",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1753861694813,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648153659,
+      "__unknown_productSubTitle": "Sylvanian Families Işıklı Şehir Evi Gizli Oyun Odalı 5708",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 399701,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sylvanian Families Işıklı Şehir Evi Gizli Oyun Odalı 5708",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745581604926,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/25/58/44/34/04/35/76/35/84/51/71181114777429261932.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593089408,
+      "__unknown_productSubTitle": "Sylvanian Families Işıklı Şehir Evi Gizli Oyun Odalı 5708",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7137265,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/25/58/44/34/04/35/76/35/84/51/71181114777429261932.png"
+        },
+        {
+          "id": 7137266,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/25/76/63/96/53/66/96/61/12/88/7198328486646532491.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/25/58/44/34/04/35/76/35/84/51/71181114777429261932.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/25/58/44/34/04/35/76/35/84/51/71181114777429261932.png"
+    }
+  }
+]

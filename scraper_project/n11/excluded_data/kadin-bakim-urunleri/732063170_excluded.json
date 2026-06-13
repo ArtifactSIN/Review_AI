@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 764427,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips BRE247/05 2000 Serisi Epilatör",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770315667127,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/05/83/48/45/64/37/56/15/51/28/44555374875543881085.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 676346946,
+      "__unknown_productSubTitle": "Philips BRE247/05 2000 Serisi Epilatör",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8324015,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/05/83/48/45/64/37/56/15/51/28/44555374875543881085.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/05/83/48/45/64/37/56/15/51/28/44555374875543881085.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/05/83/48/45/64/37/56/15/51/28/44555374875543881085.png"
+    }
+  },
+  {
+    "gid_ref": 764428,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips BRE247/05 2000 Serisi Epilatör",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770206805729,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/04/62/07/58/83/12/91/42/68/14/68225073568010189788.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 676346946,
+      "__unknown_productSubTitle": "Philips BRE247/05 2000 Serisi Epilatör",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8315291,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/04/62/07/58/83/12/91/42/68/14/68225073568010189788.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/04/62/07/58/83/12/91/42/68/14/68225073568010189788.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/04/62/07/58/83/12/91/42/68/14/68225073568010189788.png"
+    }
+  }
+]

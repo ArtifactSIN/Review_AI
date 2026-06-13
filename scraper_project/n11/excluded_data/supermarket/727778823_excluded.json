@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1244607,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dokuru Mango Kuru Meyve Cipsi 20 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773847392138,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773847392138,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727778823,
+      "__unknown_productSubTitle": "Dokuru Mango Kuru Meyve Cipsi 20 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1244608,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dokuru Mango Kuru Meyve Cipsi 20 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766417664424,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727778823,
+      "__unknown_productSubTitle": "Dokuru Mango Kuru Meyve Cipsi 20 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1244609,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dokuru Mango Kuru Meyve Cipsi 20 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711647212433,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/28/62/21/55/04/28/89/69/32/02/24638553726817223823.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727778823,
+      "__unknown_productSubTitle": "Dokuru Mango Kuru Meyve Cipsi 20 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4270740,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/28/62/21/55/04/28/89/69/32/02/24638553726817223823.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/28/62/21/55/04/28/89/69/32/02/24638553726817223823.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/28/62/21/55/04/28/89/69/32/02/24638553726817223823.jpg"
+    }
+  }
+]

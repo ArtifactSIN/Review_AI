@@ -1,0 +1,82 @@
+[
+  {
+    "gid_ref": 123367,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Exage 300M Monofilament Misina",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1723996285491,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 622949659,
+      "__unknown_productSubTitle": "Shimano Exage 300M Monofilament Misina-0.22 Mm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 123368,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Exage 300M Monofilament Misina",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720452902484,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 622949658,
+      "__unknown_productSubTitle": "Shimano Exage 300M Monofilament Misina-0.20 Mm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 123369,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Exage 300M Monofilament Misina",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713956874092,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 478182857,
+      "__unknown_productSubTitle": "Shimano Exage 300M Monofilament Misina-0.30 Mm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 123370,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Exage 300M Monofilament Misina",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1692867827459,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 478182857,
+      "__unknown_productSubTitle": "Shimano Exage 300M Monofilament Misina-0.30 Mm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

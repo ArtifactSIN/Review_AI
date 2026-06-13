@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 175469,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dalin Avokadolu Nem ve Koruma Bebek Sabunu 100 G x 3",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744317774913,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/10/53/20/51/97/85/80/30/64/60/31314486223198338711.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629287321,
+      "__unknown_productSubTitle": "Dalin Avokadolu Nem ve Koruma Bebek Sabunu 100 G x 3",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7084164,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/10/53/20/51/97/85/80/30/64/60/31314486223198338711.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/10/53/20/51/97/85/80/30/64/60/31314486223198338711.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/10/53/20/51/97/85/80/30/64/60/31314486223198338711.png"
+    }
+  },
+  {
+    "gid_ref": 175470,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dalin Avokadolu Nem ve Koruma Bebek Sabunu 100 G x 3",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739627701960,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629287321,
+      "__unknown_productSubTitle": "Dalin Avokadolu Nem ve Koruma Bebek Sabunu 100 G x 3",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 175471,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dalin Avokadolu Nem ve Koruma Bebek Sabunu 100 G x 3",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732094398014,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629287321,
+      "__unknown_productSubTitle": "Dalin Avokadolu Nem ve Koruma Bebek Sabunu 100 G x 3",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

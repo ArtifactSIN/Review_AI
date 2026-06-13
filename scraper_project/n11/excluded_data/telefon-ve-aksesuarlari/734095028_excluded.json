@@ -1,0 +1,104 @@
+[
+  {
+    "gid_ref": 1285909,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple iPhone 17 Pro Max 512 GB (Apple Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775155967547,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775155967547,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732056439,
+      "__unknown_productSubTitle": "Apple iPhone 17 Pro Max 512 GB (Apple Türkiye Garantili) Koyu Mavi 512 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1285910,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple iPhone 17 Pro Max 512 GB (Apple Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773056720880,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773056720880,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 704789441,
+      "__unknown_productSubTitle": "Apple iPhone 17 Pro Max 512 GB (Apple Türkiye Garantili) Koyu Mavi 512 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1285911,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple iPhone 17 Pro Max 512 GB (Apple Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766254049603,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 725889825,
+      "__unknown_productSubTitle": "Apple iPhone 17 Pro Max 512 GB (Apple Türkiye Garantili) Turuncu 512 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1285912,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple iPhone 17 Pro Max 512 GB (Apple Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764846496621,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 706261799,
+      "__unknown_productSubTitle": "Apple iPhone 17 Pro Max 512 GB (Apple Türkiye Garantili) Turuncu 512 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1285913,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple iPhone 17 Pro Max 512 GB (Apple Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761662783900,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 704789441,
+      "__unknown_productSubTitle": "Apple iPhone 17 Pro Max 512 GB (Apple Türkiye Garantili) Koyu Mavi 512 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

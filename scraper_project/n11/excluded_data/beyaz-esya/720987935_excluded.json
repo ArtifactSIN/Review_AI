@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 302473,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beko 678550 EB 551 L ElegantFit No-Frost Buzdolabı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774517212509,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/56/30/49/64/65/79/95/44/27/34052755292833690697.jpg",
+      "__unknown_lastModifiedDate": 1774517212509,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734804299,
+      "__unknown_productSubTitle": "Beko 678550 EB 551 L ElegantFit No-Frost Buzdolabı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8517652,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/56/30/49/64/65/79/95/44/27/34052755292833690697.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/56/30/49/64/65/79/95/44/27/34052755292833690697.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/56/30/49/64/65/79/95/44/27/34052755292833690697.jpg"
+    }
+  },
+  {
+    "gid_ref": 302474,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beko 678550 EB 551 L ElegantFit No-Frost Buzdolabı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763829369261,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688894182,
+      "__unknown_productSubTitle": "Beko 678550 EB 551 L ElegantFit No-Frost Buzdolabı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 302475,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beko 678550 EB 551 L ElegantFit No-Frost Buzdolabı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758616161461,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688894182,
+      "__unknown_productSubTitle": "Beko 678550 EB 551 L ElegantFit No-Frost Buzdolabı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

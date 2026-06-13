@@ -1,0 +1,128 @@
+[
+  {
+    "gid_ref": 812852,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patrones Özel Çocuk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771426638076,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631478820,
+      "__unknown_productSubTitle": "Patrones Özel Çocuk",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 812853,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patrones Özel Çocuk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771191297393,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631478820,
+      "__unknown_productSubTitle": "Patrones Özel Çocuk",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 812854,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patrones Özel Çocuk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732360454008,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/23/50/81/27/55/35/40/90/38/85/76706895788588681051.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631478820,
+      "__unknown_productSubTitle": "Patrones Özel Çocuk",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6307869,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/23/50/81/27/55/35/40/90/38/85/76706895788588681051.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/23/50/81/27/55/35/40/90/38/85/76706895788588681051.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/23/50/81/27/55/35/40/90/38/85/76706895788588681051.png"
+    }
+  },
+  {
+    "gid_ref": 812855,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patrones Özel Çocuk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727612837556,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/29/48/40/58/75/38/21/06/85/84/34183634956048613714.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631478820,
+      "__unknown_productSubTitle": "Patrones Özel Çocuk",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5788330,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/29/48/40/58/75/38/21/06/85/84/34183634956048613714.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/29/48/40/58/75/38/21/06/85/84/34183634956048613714.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/29/48/40/58/75/38/21/06/85/84/34183634956048613714.png"
+    }
+  },
+  {
+    "gid_ref": 812856,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patrones Özel Çocuk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1723658376133,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/14/83/99/99/57/67/65/36/44/43/08964563434807211257.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631478820,
+      "__unknown_productSubTitle": "Patrones Özel Çocuk",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5409540,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/14/83/99/99/57/67/65/36/44/43/08964563434807211257.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/14/83/99/99/57/67/65/36/44/43/08964563434807211257.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/14/83/99/99/57/67/65/36/44/43/08964563434807211257.png"
+    }
+  }
+]

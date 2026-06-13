@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 204911,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyjem Islak Mendil Kutusu Turkuaz / Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762604232919,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701486597,
+      "__unknown_productSubTitle": "Babyjem Islak Mendil Kutusu Turkuaz / Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 204912,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Islak Mendil Kutusu Turkuaz / Beyaz 8005",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719318719581,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603276744,
+      "__unknown_productSubTitle": "Islak Mendil Kutusu Turkuaz / Beyaz 8005",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 204913,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyjem Islak Mendil Kutusu Turkuaz / Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1711404557981,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/26/88/46/58/56/64/43/46/59/00/86965930879395805576.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590788955,
+      "__unknown_productSubTitle": "Babyjem Islak Mendil Kutusu Turkuaz / Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4238166,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/26/88/46/58/56/64/43/46/59/00/86965930879395805576.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/26/88/46/58/56/64/43/46/59/00/86965930879395805576.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/26/88/46/58/56/64/43/46/59/00/86965930879395805576.png"
+    }
+  }
+]

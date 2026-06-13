@@ -1,0 +1,102 @@
+[
+  {
+    "gid_ref": 846945,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "La Roche Posay Hydraphase Renkli Nemlendirici BB Krem SPF15 40 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732095711676,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/20/79/77/93/67/90/74/16/92/05/83178940656750278331.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576009633,
+      "__unknown_productSubTitle": "La Roche Posay Hydraphase Renkli Nemlendirici BB Krem SPF15 40 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6286412,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/20/79/77/93/67/90/74/16/92/05/83178940656750278331.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/20/79/77/93/67/90/74/16/92/05/83178940656750278331.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/20/79/77/93/67/90/74/16/92/05/83178940656750278331.png"
+    }
+  },
+  {
+    "gid_ref": 846946,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "La Roche Posay Hydraphase Renkli Nemlendirici BB Krem SPF15 40 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728075937544,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599228422,
+      "__unknown_productSubTitle": "La Roche Posay Hydraphase Renkli Nemlendirici BB Krem SPF15 40 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 846947,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "La Roche Posay Hydraphase Renkli Nemlendirici BB Krem SPF15 40 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724324967787,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/22/50/72/28/66/05/80/36/75/76/98408472912389976237.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599228422,
+      "__unknown_productSubTitle": "La Roche Posay Hydraphase Renkli Nemlendirici BB Krem SPF15 40 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5469235,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/22/50/72/28/66/05/80/36/75/76/98408472912389976237.png"
+        },
+        {
+          "id": 5469236,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/22/82/23/90/70/85/04/02/41/00/13576886832462411977.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/22/50/72/28/66/05/80/36/75/76/98408472912389976237.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/22/50/72/28/66/05/80/36/75/76/98408472912389976237.png"
+    }
+  },
+  {
+    "gid_ref": 846948,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "La Roche Posay Hydraphase Renkli Nemlendirici BB Krem SPF15 40 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722690579265,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599228422,
+      "__unknown_productSubTitle": "La Roche Posay Hydraphase Renkli Nemlendirici BB Krem SPF15 40 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

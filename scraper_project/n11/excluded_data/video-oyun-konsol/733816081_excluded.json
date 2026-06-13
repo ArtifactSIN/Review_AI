@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1345034,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zaloğlu Grup 10 Adet Ps5 Analog Topuz 1.Sınıf 1.Kalite Ürün",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761262895993,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/24/90/32/33/24/99/20/81/94/86/6874526617230032343.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561300686,
+      "__unknown_productSubTitle": "Zaloğlu Grup 10 Adet Ps5 Analog Topuz 1.Sınıf 1.Kalite Ürün ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7841011,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/24/90/32/33/24/99/20/81/94/86/6874526617230032343.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/24/90/32/33/24/99/20/81/94/86/6874526617230032343.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/24/90/32/33/24/99/20/81/94/86/6874526617230032343.jpg"
+    }
+  },
+  {
+    "gid_ref": 1345035,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zaloğlu Grup 10 Adet Ps5 Analog Topuz 1.Sınıf 1.Kalite Ürün",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1695926372839,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561300686,
+      "__unknown_productSubTitle": "Zaloğlu Grup 10 Adet Ps5 Analog Topuz 1.Sınıf 1.Kalite Ürün ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1345036,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zaloğlu Grup 10 Adet Ps5 Analog Topuz 1.Sınıf 1.Kalite Ürün",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1695049949088,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561300686,
+      "__unknown_productSubTitle": "Zaloğlu Grup 10 Adet Ps5 Analog Topuz 1.Sınıf 1.Kalite Ürün ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

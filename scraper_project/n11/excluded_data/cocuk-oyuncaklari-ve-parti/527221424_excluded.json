@@ -1,0 +1,114 @@
+[
+  {
+    "gid_ref": 392522,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Creator 31129 Muhteşem Kaplan 755 Parça",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764072927299,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 706752867,
+      "__unknown_productSubTitle": "LEGO® Creator 31129 Muhteşem Kaplan 755 Parça",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 392523,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Creator 31129 Muhteşem Kaplan 755 Parça",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1748088368936,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/24/67/02/41/90/74/81/59/23/97/05676042970231585857.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629454369,
+      "__unknown_productSubTitle": "LEGO® Creator 31129 Muhteşem Kaplan 755 Parça",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7265451,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/24/67/02/41/90/74/81/59/23/97/05676042970231585857.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/24/67/02/41/90/74/81/59/23/97/05676042970231585857.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/24/67/02/41/90/74/81/59/23/97/05676042970231585857.jpeg"
+    }
+  },
+  {
+    "gid_ref": 392524,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Creator 31129 Muhteşem Kaplan 755 Parça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744114756840,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/08/77/56/60/10/59/93/20/76/37/96044591699021678973.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 527221424,
+      "__unknown_productSubTitle": "LEGO® Creator 31129 Muhteşem Kaplan 755 Parça",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7072213,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/08/77/56/60/10/59/93/20/76/37/96044591699021678973.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/08/77/56/60/10/59/93/20/76/37/96044591699021678973.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/08/77/56/60/10/59/93/20/76/37/96044591699021678973.jpg"
+    }
+  },
+  {
+    "gid_ref": 392525,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Creator 31129 Muhteşem Kaplan 755 Parça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737733267184,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/24/87/98/80/89/11/05/57/01/21/02227164378224476722.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 527221424,
+      "__unknown_productSubTitle": "LEGO® Creator 31129 Muhteşem Kaplan 755 Parça",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6746324,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/24/87/98/80/89/11/05/57/01/21/02227164378224476722.png"
+        },
+        {
+          "id": 6746325,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/24/77/41/16/64/19/79/84/13/39/72789983662154693377.png"
+        },
+        {
+          "id": 6746326,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/24/51/23/09/17/51/10/16/95/77/34298846660746824354.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/24/87/98/80/89/11/05/57/01/21/02227164378224476722.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/24/87/98/80/89/11/05/57/01/21/02227164378224476722.png"
+    }
+  }
+]

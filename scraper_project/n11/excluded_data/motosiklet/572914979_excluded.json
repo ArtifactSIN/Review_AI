@@ -1,0 +1,38 @@
+[
+  {
+    "gid_ref": 885134,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Falcon Mexico 150 Dijital Kilometre Saati",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754152145764,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/02/52/79/65/67/91/97/19/97/82/41418181498646673287.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572914979,
+      "__unknown_productSubTitle": "Falcon Mexico 150 Dijital Kilometre Saati",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7517812,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/02/52/79/65/67/91/97/19/97/82/41418181498646673287.png"
+        },
+        {
+          "id": 7517813,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/02/89/06/39/09/60/44/84/54/40/03362695387885424304.png"
+        },
+        {
+          "id": 7517814,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/02/69/31/87/54/01/71/23/87/18/62669843194901807062.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/02/52/79/65/67/91/97/19/97/82/41418181498646673287.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/02/52/79/65/67/91/97/19/97/82/41418181498646673287.png"
+    }
+  }
+]

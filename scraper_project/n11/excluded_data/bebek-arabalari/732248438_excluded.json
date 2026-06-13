@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 182729,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanz N-go Travel Sistem Bebek Arabası Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762782313765,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1762783029986,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670264687,
+      "__unknown_productSubTitle": "Kanz N-go Travel Sistem Bebek Arabası Siyah Antrasit - Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 182730,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanz N-go Travel Sistem Bebek Arabası Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722234880341,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600861689,
+      "__unknown_productSubTitle": "Kanz N-go Travel Sistem Bebek Arabası Siyah Antrasit - Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

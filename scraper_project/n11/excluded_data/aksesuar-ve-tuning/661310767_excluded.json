@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 96278,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Togg T10x Uyumlu 3 Butonlu Anahtar Koruma Kılıfı Siyah Gümüş",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768220422641,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661310767,
+      "__unknown_productSubTitle": "Togg T10x Uyumlu 3 Butonlu Anahtar Koruma Kılıfı Siyah Gümüş ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 96279,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Togg T10x Uyumlu 3 Butonlu Anahtar Koruma Kılıfı Siyah Gümüş",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1751372887554,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/01/83/06/48/26/41/88/72/94/91/18917479107446226684.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661310767,
+      "__unknown_productSubTitle": "Togg T10x Uyumlu 3 Butonlu Anahtar Koruma Kılıfı Siyah Gümüş ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7399834,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/01/83/06/48/26/41/88/72/94/91/18917479107446226684.png"
+        },
+        {
+          "id": 7399835,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/01/90/04/94/32/76/54/74/75/79/17127461986073689532.png"
+        },
+        {
+          "id": 7399836,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/01/91/42/70/32/46/70/97/49/27/22039946790064077635.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/01/83/06/48/26/41/88/72/94/91/18917479107446226684.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/01/83/06/48/26/41/88/72/94/91/18917479107446226684.png"
+    }
+  }
+]

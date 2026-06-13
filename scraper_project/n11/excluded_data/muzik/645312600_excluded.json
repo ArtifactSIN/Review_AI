@@ -1,0 +1,114 @@
+[
+  {
+    "gid_ref": 946597,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nux MG-400 Gitar Efekt Prosesörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745055890682,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/19/52/41/58/11/37/66/76/25/26/6205339175702384021.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645312600,
+      "__unknown_productSubTitle": "Nux Mg-400 Gitar Efekt Prosesörü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7118552,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/19/52/41/58/11/37/66/76/25/26/6205339175702384021.png"
+        },
+        {
+          "id": 7118553,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/19/87/42/74/28/26/22/56/53/69/92444330534892031480.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/19/52/41/58/11/37/66/76/25/26/6205339175702384021.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/19/52/41/58/11/37/66/76/25/26/6205339175702384021.png"
+    }
+  },
+  {
+    "gid_ref": 946598,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nux MG-400 Gitar Efekt Prosesörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742449129129,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645312600,
+      "__unknown_productSubTitle": "Nux Mg-400 Gitar Efekt Prosesörü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946599,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nux MG-400 Gitar Efekt Prosesörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725831507660,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580328334,
+      "__unknown_productSubTitle": "Nux Mg-400 Gitar Efekt Prosesörü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946600,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nux MG-400 Gitar Efekt Prosesörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1712141605075,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580328334,
+      "__unknown_productSubTitle": "Nux Mg-400 Gitar Efekt Prosesörü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946601,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nux MG-400 Gitar Efekt Prosesörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1705318110136,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580328334,
+      "__unknown_productSubTitle": "Nux Mg-400 Gitar Efekt Prosesörü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

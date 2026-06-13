@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 264378,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Premio Keten Güvenli Bebek ve Çocuk Oyun Parkı 120x120 Cm Oyun Matı ve Topları",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764335438742,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708285598,
+      "__unknown_productSubTitle": "Premio Keten Güvenli Bebek ve Çocuk Oyun Parkı 120x120 Cm Oyun Matı ve Topları Antrasit",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 264379,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Premio Keten Güvenli Bebek ve Çocuk Oyun Parkı 120x120 Cm Oyun Matı ve Topları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763732654290,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708285658,
+      "__unknown_productSubTitle": "Premio Keten Güvenli Bebek ve Çocuk Oyun Parkı 120x120 Cm Oyun Matı ve Topları Pudra",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

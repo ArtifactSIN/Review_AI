@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 1161537,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Erkek Tiro23 Cb Trjsy Lacivert Hz0175 Lacivert",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774363895936,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774363895936,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705372605,
+      "__unknown_productSubTitle": "Adidas Erkek Tiro23 Cb Trjsy Lacivert Hz0175 Lacivert S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161538,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Erkek Tiro23 Cb Trjsy Lacivert Hz0175 Lacivert",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756125512527,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/25/52/04/88/60/92/48/05/03/44/67203260400213247763.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653432416,
+      "__unknown_productSubTitle": "Adidas Erkek Tiro23 Cb Trjsy Lacivert Hz0175 Lacivert L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7605604,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/25/52/04/88/60/92/48/05/03/44/67203260400213247763.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/25/52/04/88/60/92/48/05/03/44/67203260400213247763.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/25/52/04/88/60/92/48/05/03/44/67203260400213247763.png"
+    }
+  }
+]

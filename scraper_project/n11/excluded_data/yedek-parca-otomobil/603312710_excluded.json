@@ -1,0 +1,94 @@
+[
+  {
+    "gid_ref": 1462180,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Citroen C3 Kapı Çekme Kolu 2003-2007",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762427900687,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603312710,
+      "__unknown_productSubTitle": "Citroen C3 Kapı Çekme Kolu 2003-2007 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1462181,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Citroen C3 Kapı Çekme Kolu 2003-2007",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758024776107,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/16/77/04/51/36/48/19/40/18/06/62158448805895320496.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603312710,
+      "__unknown_productSubTitle": "Citroen C3 Kapı Çekme Kolu 2003-2007 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7690323,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/16/77/04/51/36/48/19/40/18/06/62158448805895320496.jpg"
+        },
+        {
+          "id": 7690324,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/16/91/83/68/72/31/98/22/61/58/62870082026081961521.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/16/77/04/51/36/48/19/40/18/06/62158448805895320496.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/16/77/04/51/36/48/19/40/18/06/62158448805895320496.jpg"
+    }
+  },
+  {
+    "gid_ref": 1462182,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Citroen C3 Kapı Çekme Kolu 2003-2007",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736527676975,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603312710,
+      "__unknown_productSubTitle": "Citroen C3 Kapı Çekme Kolu 2003-2007 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1462183,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Citroen C3 Kapı Çekme Kolu 2003-2007",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734818773424,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603312710,
+      "__unknown_productSubTitle": "Citroen C3 Kapı Çekme Kolu 2003-2007 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

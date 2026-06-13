@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 1052618,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Morfose Milk Therapy Keratin Saç Serumu 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1738703109997,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 554097232,
+      "__unknown_productSubTitle": "Morfose Milk Terapy Keratin Serum 100 ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1052619,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Morfose Milk Therapy Keratin Saç Serumu 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726863432929,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/20/91/84/21/82/13/59/31/57/22/15079219431785843756.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600416214,
+      "__unknown_productSubTitle": "Morfose Milk Therapy Keratin Saç Serumu 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5720851,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/20/91/84/21/82/13/59/31/57/22/15079219431785843756.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/20/91/84/21/82/13/59/31/57/22/15079219431785843756.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/20/91/84/21/82/13/59/31/57/22/15079219431785843756.png"
+    }
+  },
+  {
+    "gid_ref": 1052620,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Morfose Milk Therapy Keratin Saç Serumu 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726513901233,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600416214,
+      "__unknown_productSubTitle": "Morfose Milk Therapy Keratin Saç Serumu 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1052621,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Morfose Milk Therapy Keratin Saç Serumu 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726239775667,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600416214,
+      "__unknown_productSubTitle": "Morfose Milk Therapy Keratin Saç Serumu 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1052622,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Morfose Milk Therapy Keratin Saç Serumu 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721969316318,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600416214,
+      "__unknown_productSubTitle": "Morfose Milk Therapy Keratin Saç Serumu 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 763474,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lattawin Vajinal Ovül 7 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764330704794,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/28/59/72/17/40/66/56/89/61/96/86558159091265454380.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590519221,
+      "__unknown_productSubTitle": "Lattawin Vajinal Ovül 7 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8039425,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/59/72/17/40/66/56/89/61/96/86558159091265454380.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/28/59/72/17/40/66/56/89/61/96/86558159091265454380.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/28/59/72/17/40/66/56/89/61/96/86558159091265454380.jpg"
+    }
+  },
+  {
+    "gid_ref": 763475,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lattawin Vajinal Ovül 7 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744631881817,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590519221,
+      "__unknown_productSubTitle": "Lattawin Vajinal Ovül 7 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 763476,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lattawin Vajinal Ovül 7 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708277624129,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590519221,
+      "__unknown_productSubTitle": "Lattawin Vajinal Ovül 7 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

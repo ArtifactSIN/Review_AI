@@ -1,0 +1,92 @@
+[
+  {
+    "gid_ref": 1508855,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pazlanmaz Çelik Manikür Et Pensi Cin584",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774766036206,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774766036206,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593788709,
+      "__unknown_productSubTitle": "Pazlanmaz Çelik Manikür Et Pensi Cin584",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1508856,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pazlanmaz Çelik Manikür Et Pensi Cin584",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773931114015,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/19/53/77/58/92/35/21/18/53/30/55494634859734974762.png",
+      "__unknown_lastModifiedDate": 1773931114015,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593788709,
+      "__unknown_productSubTitle": "Pazlanmaz Çelik Manikür Et Pensi Cin584",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8480441,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/19/53/77/58/92/35/21/18/53/30/55494634859734974762.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/19/53/77/58/92/35/21/18/53/30/55494634859734974762.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/19/53/77/58/92/35/21/18/53/30/55494634859734974762.png"
+    }
+  },
+  {
+    "gid_ref": 1508857,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pazlanmaz Çelik Manikür Et Pensi Cin584",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732900181139,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593788709,
+      "__unknown_productSubTitle": "Pazlanmaz Çelik Manikür Et Pensi Cin584",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1508858,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pazlanmaz Çelik Manikür Et Pensi Cin584",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729768698953,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593788709,
+      "__unknown_productSubTitle": "Pazlanmaz Çelik Manikür Et Pensi Cin584",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

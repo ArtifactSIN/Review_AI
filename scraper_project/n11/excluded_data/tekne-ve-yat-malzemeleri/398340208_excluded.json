@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1250115,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Seaflo Sintine Pompası Şamandıra Şalteri Ds Pompa Şamandırası 12",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733331798862,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 398340208,
+      "__unknown_productSubTitle": "Seaflo Sintine Pompası Şamandıra Şalteri Ds Pompa Şamandırası 12",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1250116,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "daha once de kullandim",
+      "productTitle": "Seaflo Sintine Pompası Şamandıra Şalteri Ds Pompa Şamandırası 12",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1667580466316,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 549866859,
+      "__unknown_productSubTitle": "Seaflo Sintine Pompası Şamandıra Şalteri Ds Pompa Şamandırası 12",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

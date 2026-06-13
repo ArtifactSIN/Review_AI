@@ -1,0 +1,94 @@
+[
+  {
+    "gid_ref": 1490483,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "6 Renkli 4 MM 216 Adet Neocube Neodyum Mıknatıs Küp",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713902123858,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682006845,
+      "__unknown_productSubTitle": "6 Renkli 4 MM 216 Adet Neocube Neodyum Mıknatıs Küp",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1490484,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "6 Renkli 4 MM 216 Adet Neocube Neodyum Mıknatıs Küp",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1700732246261,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576176547,
+      "__unknown_productSubTitle": "6 Renkli 4 MM 216 Adet Neocube Neodyum Mıknatıs Küp",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1490485,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "6 Renkli 4 MM 216 Adet Neocube Neodyum Mıknatıs Küp",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1687366250054,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/06/21/61/64/78/26/29/63/49/59/40/28758120829581804514.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 495258855,
+      "__unknown_productSubTitle": "6 Renkli 4 MM 216 Adet Neocube Neodyum Mıknatıs Küp",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2116270,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/06/21/61/64/78/26/29/63/49/59/40/28758120829581804514.png"
+        },
+        {
+          "id": 2116271,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/06/21/67/84/22/53/74/51/95/04/48/3441955691647974731.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/06/21/61/64/78/26/29/63/49/59/40/28758120829581804514.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/06/21/61/64/78/26/29/63/49/59/40/28758120829581804514.png"
+    }
+  },
+  {
+    "gid_ref": 1490486,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "6 Renkli 4 MM 216 Adet Neocube Neodyum Mıknatıs Küp",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1633025274082,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 451677406,
+      "__unknown_productSubTitle": "6 Renkli 4 MM 216 Adet Neocube Neodyum Mıknatıs Küp",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 536240,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jagler Classic Tıraş Kolonyası 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771591903067,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 707404557,
+      "__unknown_productSubTitle": "Jagler Classic Tıraş Kolonyası 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 536241,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jagler Classic Tıraş Kolonyası 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742565233370,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652556846,
+      "__unknown_productSubTitle": "Jagler Classic Tıraş Kolonyası 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 536242,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jagler Classic Tıraş Kolonyası 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727913209431,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/03/68/77/74/46/11/75/70/85/10/52134530064223977788.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637840128,
+      "__unknown_productSubTitle": "Jagler Classic Tıraş Kolonyası 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5829267,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/03/68/77/74/46/11/75/70/85/10/52134530064223977788.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/03/68/77/74/46/11/75/70/85/10/52134530064223977788.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/03/68/77/74/46/11/75/70/85/10/52134530064223977788.png"
+    }
+  }
+]

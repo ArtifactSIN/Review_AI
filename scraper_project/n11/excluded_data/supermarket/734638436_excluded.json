@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1247548,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rioba Silver Çekirdek Kahve 1 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714756074147,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572050203,
+      "__unknown_productSubTitle": "Rioba Silver Çekirdek Kahve 1 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1247549,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "kahve",
+      "productTitle": "Rioba Silver Çekirdek Kahve 1 KG",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1651314784238,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 320518399,
+      "__unknown_productSubTitle": "Rioba Silver Çekirdek Kahve 1 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

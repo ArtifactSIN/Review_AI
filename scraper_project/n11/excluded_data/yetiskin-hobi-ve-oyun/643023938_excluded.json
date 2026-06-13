@@ -1,0 +1,153 @@
+[
+  {
+    "gid_ref": 1493245,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ithal Satranç Takımı Kutulu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771352650484,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643023938,
+      "__unknown_productSubTitle": "Ithal Satranç Takımı Kutulu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1493246,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ithal Satranç Takımı Kutulu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770700895310,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643023938,
+      "__unknown_productSubTitle": "Ithal Satranç Takımı Kutulu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1493247,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ithal Satranç Takımı Kutulu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768329930979,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643023938,
+      "__unknown_productSubTitle": "Ithal Satranç Takımı Kutulu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1493248,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ithal Satranç Takımı Kutulu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753304923774,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/24/85/83/56/03/78/67/62/39/92/07982462531649618516.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643023938,
+      "__unknown_productSubTitle": "Ithal Satranç Takımı Kutulu ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7478727,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/24/85/83/56/03/78/67/62/39/92/07982462531649618516.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/24/85/83/56/03/78/67/62/39/92/07982462531649618516.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/24/85/83/56/03/78/67/62/39/92/07982462531649618516.png"
+    }
+  },
+  {
+    "gid_ref": 1493249,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ithal Satranç Takımı Kutulu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737810188891,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643023938,
+      "__unknown_productSubTitle": "Ithal Satranç Takımı Kutulu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1493250,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ithal Satranç Takımı Kutulu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732034667359,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643023938,
+      "__unknown_productSubTitle": "Ithal Satranç Takımı Kutulu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1493251,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ithal Satranç Takımı Kutulu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732028499406,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643023938,
+      "__unknown_productSubTitle": "Ithal Satranç Takımı Kutulu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

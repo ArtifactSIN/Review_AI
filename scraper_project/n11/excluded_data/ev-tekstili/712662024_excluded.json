@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 635887,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Elart Toffy Paspas Takımı 60x100 Cm Krem Krem",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764307530598,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/28/51/05/43/52/78/11/05/80/80/11379387683134485531.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712662024,
+      "__unknown_productSubTitle": "Elart Toffy Paspas Takımı 60x100 Cm Krem Krem ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8035677,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/51/05/43/52/78/11/05/80/80/11379387683134485531.jpg"
+        },
+        {
+          "id": 8035678,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/52/95/24/11/14/81/82/46/43/74766888439067068498.jpg"
+        },
+        {
+          "id": 8035679,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/57/24/23/30/34/39/74/83/16/88643820263480799905.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/28/51/05/43/52/78/11/05/80/80/11379387683134485531.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/28/51/05/43/52/78/11/05/80/80/11379387683134485531.jpg"
+    }
+  },
+  {
+    "gid_ref": 635888,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Elart Toffy Paspas Takımı 60x100 Cm Krem Krem",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763748656935,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712662024,
+      "__unknown_productSubTitle": "Elart Toffy Paspas Takımı 60x100 Cm Krem Krem ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

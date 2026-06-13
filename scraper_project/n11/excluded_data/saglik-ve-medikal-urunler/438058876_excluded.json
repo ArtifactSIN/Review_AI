@@ -1,0 +1,115 @@
+[
+  {
+    "gid_ref": 1083024,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bd Microlance 30 G 13 Mm Sarı İğne Ucu 100'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775174265180,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775174265180,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 438058876,
+      "__unknown_productSubTitle": "Bd Microlance 30 G 13 Mm Sarı İğne Ucu 100'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1083025,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bd Microlance 30 G 13 Mm Sarı İğne Ucu 100'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754568086704,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/07/55/07/74/69/70/16/92/47/21/97187609203660994316.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 438058876,
+      "__unknown_productSubTitle": "Bd Microlance 30 G 13 Mm Sarı İğne Ucu 100'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7526671,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/07/55/07/74/69/70/16/92/47/21/97187609203660994316.jpg"
+        },
+        {
+          "id": 7526672,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/07/69/69/52/07/85/24/81/28/83/85311797105912755161.jpg"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/07/55/07/74/69/70/16/92/47/21/97187609203660994316.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/07/55/07/74/69/70/16/92/47/21/97187609203660994316.jpg"
+    }
+  },
+  {
+    "gid_ref": 1083026,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bd Microlance 30 G 13 Mm Sarı İğne Ucu 100'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753977946234,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 438058876,
+      "__unknown_productSubTitle": "Bd Microlance 30 G 13 Mm Sarı İğne Ucu 100'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1083027,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bd Microlance 30 G 13 Mm Sarı İğne Ucu 100'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750500251831,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 438058876,
+      "__unknown_productSubTitle": "Bd Microlance 30 G 13 Mm Sarı İğne Ucu 100'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1083028,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bd Microlance 30 G 13 Mm Sarı İğne Ucu 100'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738137943103,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 438058876,
+      "__unknown_productSubTitle": "Bd Microlance 30 G 13 Mm Sarı İğne Ucu 100'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

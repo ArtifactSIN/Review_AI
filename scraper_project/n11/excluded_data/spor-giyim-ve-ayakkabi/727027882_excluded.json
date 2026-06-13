@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 1161791,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Reebok Royal Jog 3.0 Elas Kız Çocuk Beyaz Spor Ayakkabı Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775495197205,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775495197205,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727027894,
+      "__unknown_productSubTitle": "Reebok Royal Jog 3.0 Elas Kız Çocuk Beyaz Spor Ayakkabı Beyaz 34",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161792,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Reebok Royal Jog 3.0 Elas Kız Çocuk Beyaz Spor Ayakkabı Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1769722123983,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727027882,
+      "__unknown_productSubTitle": "Reebok Royal Jog 3.0 Elas Kız Çocuk Beyaz Spor Ayakkabı Beyaz 32",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

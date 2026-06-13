@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 371708,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Epl 01 - El Paleti Epl01 Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764265412871,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/27/46/61/32/25/25/95/70/59/28/36821476514814800508.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638297109,
+      "__unknown_productSubTitle": "Epl 01 - El Paleti Epl01 Sarı S",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8036055,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/27/46/61/32/25/25/95/70/59/28/36821476514814800508.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/27/46/61/32/25/25/95/70/59/28/36821476514814800508.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/27/46/61/32/25/25/95/70/59/28/36821476514814800508.png"
+    }
+  }
+]

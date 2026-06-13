@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 817241,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tandem Yayınları Örnekli Kolay Boyama Kitabı (10 Kitap)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774463595913,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/72/12/94/52/33/84/21/47/91/33673850292411022809.png",
+      "__unknown_lastModifiedDate": 1774463595913,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724164009,
+      "__unknown_productSubTitle": "Tandem Yayınları Örnekli Kolay Boyama Kitabı (10 Kitap)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8506874,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/72/12/94/52/33/84/21/47/91/33673850292411022809.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/72/12/94/52/33/84/21/47/91/33673850292411022809.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/72/12/94/52/33/84/21/47/91/33673850292411022809.png"
+    }
+  },
+  {
+    "gid_ref": 817242,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tandem Yayınları Örnekli Kolay Boyama Kitabı (10 Kitap)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772899020804,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772899020804,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724164009,
+      "__unknown_productSubTitle": "Tandem Yayınları Örnekli Kolay Boyama Kitabı (10 Kitap)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 817243,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tandem Yayınları Örnekli Kolay Boyama Kitabı (10 Kitap)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771082347932,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/14/60/14/61/38/38/78/17/00/05/86970632601759140314.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724164009,
+      "__unknown_productSubTitle": "Tandem Yayınları Örnekli Kolay Boyama Kitabı (10 Kitap)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8362629,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/14/60/14/61/38/38/78/17/00/05/86970632601759140314.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/14/60/14/61/38/38/78/17/00/05/86970632601759140314.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/14/60/14/61/38/38/78/17/00/05/86970632601759140314.png"
+    }
+  },
+  {
+    "gid_ref": 817244,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tandem Yayınları Örnekli Kolay Boyama Kitabı (10 Kitap)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770730613346,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/10/52/22/20/16/33/25/78/81/99/61030686106857093079.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724164009,
+      "__unknown_productSubTitle": "Tandem Yayınları Örnekli Kolay Boyama Kitabı (10 Kitap)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8339475,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/10/52/22/20/16/33/25/78/81/99/61030686106857093079.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/10/52/22/20/16/33/25/78/81/99/61030686106857093079.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/10/52/22/20/16/33/25/78/81/99/61030686106857093079.png"
+    }
+  }
+]

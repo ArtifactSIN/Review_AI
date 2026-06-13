@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 520730,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Care Men Essential 2 Si 1 Arada Tıraş Sonrası Balmı Ve Nemlendiricisi 2 x 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733156248180,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596851964,
+      "__unknown_productSubTitle": "Avon Care Men Essential 2 Si 1 Arada Tıraş Sonrası Balmı Ve Nemlendiricisi 2 x 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 520731,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Care Men Essential 2 Si 1 Arada Tıraş Sonrası Balmı Ve Nemlendiricisi 2 x 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1718271793179,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/13/87/63/89/00/88/87/74/08/18/6253247374179679096.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596851964,
+      "__unknown_productSubTitle": "Avon Care Men Essential 2 Si 1 Arada Tıraş Sonrası Balmı Ve Nemlendiricisi 2 x 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4963721,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/13/87/63/89/00/88/87/74/08/18/6253247374179679096.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/13/87/63/89/00/88/87/74/08/18/6253247374179679096.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/13/87/63/89/00/88/87/74/08/18/6253247374179679096.png"
+    }
+  },
+  {
+    "gid_ref": 520732,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Care Men Essential 2 Si 1 Arada Tıraş Sonrası Balmı Ve Nemlendiricisi 2 x 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1716618347555,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/25/87/47/59/76/29/88/78/17/29/86001223571557207339.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596851964,
+      "__unknown_productSubTitle": "Avon Care Men Essential 2 Si 1 Arada Tıraş Sonrası Balmı Ve Nemlendiricisi 2 x 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4782017,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/25/87/47/59/76/29/88/78/17/29/86001223571557207339.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/25/87/47/59/76/29/88/78/17/29/86001223571557207339.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/25/87/47/59/76/29/88/78/17/29/86001223571557207339.jpg"
+    }
+  }
+]

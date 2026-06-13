@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 872141,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çamaşır Makinesi Dolabı Kurutma Makinesi Dolabı Metal Banyo Dolabı Seda Antrasit Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775756967053,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/09/66/79/44/30/40/52/92/77/46/97530427151698313848.png",
+      "__unknown_lastModifiedDate": 1775756967053,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727623071,
+      "__unknown_productSubTitle": "Çamaşır Makinesi Dolabı Kurutma Makinesi Dolabı Metal Banyo Dolabı Seda Antrasit Antrasit ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8581585,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/09/66/79/44/30/40/52/92/77/46/97530427151698313848.png"
+        },
+        {
+          "id": 8581586,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/09/60/14/02/91/94/13/22/77/63/6262763511863069268.png"
+        },
+        {
+          "id": 8581587,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/09/80/50/47/92/15/13/65/78/63/02735830596173645726.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/09/66/79/44/30/40/52/92/77/46/97530427151698313848.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/09/66/79/44/30/40/52/92/77/46/97530427151698313848.png"
+    }
+  },
+  {
+    "gid_ref": 872142,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çamaşır Makinesi Dolabı Kurutma Makinesi Dolabı Metal Banyo Dolabı Seda Antrasit Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773221848146,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773221848146,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727623071,
+      "__unknown_productSubTitle": "Çamaşır Makinesi Dolabı Kurutma Makinesi Dolabı Metal Banyo Dolabı Seda Antrasit Antrasit ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

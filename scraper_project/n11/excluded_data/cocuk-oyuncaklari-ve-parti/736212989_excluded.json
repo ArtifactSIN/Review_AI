@@ -1,0 +1,118 @@
+[
+  {
+    "gid_ref": 403191,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Harry Potter(tm) Uçan Ford Anglia(tm) 76424 7+ Yaratıcı Oyuncak Yapım Seti - 165 Parça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763671138017,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632926476,
+      "__unknown_productSubTitle": "LEGO® Harry Potter(tm) Uçan Ford Anglia(tm) 76424 7+ Yaratıcı Oyuncak Yapım Seti - 165 Parça",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 403192,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Harry Potter(tm) Uçan Ford Anglia(tm) 76424 7+ Yaratıcı Oyuncak Yapım Seti - 165 Parça",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744881826480,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 662204022,
+      "__unknown_productSubTitle": "LEGO® Harry Potter(tm) Uçan Ford Anglia(tm) 76424 7+ Yaratıcı Oyuncak Yapım Seti - 165 Parça",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 403193,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Harry Potter(tm) Uçan Ford Anglia(tm) 76424 7+ Yaratıcı Oyuncak Yapım Seti - 165 Parça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737134159426,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632926476,
+      "__unknown_productSubTitle": "LEGO® Harry Potter(tm) Uçan Ford Anglia(tm) 76424 7+ Yaratıcı Oyuncak Yapım Seti - 165 Parça",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 403194,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Harry Potter(tm) Uçan Ford Anglia(tm) 76424 7+ Yaratıcı Oyuncak Yapım Seti - 165 Parça",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1735071311589,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/24/63/54/91/93/65/08/84/22/90/27124061173306049020.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600472176,
+      "__unknown_productSubTitle": "LEGO® Harry Potter(tm) Uçan Ford Anglia(tm) 76424 7+ Yaratıcı Oyuncak Yapım Seti - 165 Parça",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6566719,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/24/63/54/91/93/65/08/84/22/90/27124061173306049020.png"
+        },
+        {
+          "id": 6566720,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/24/76/07/89/06/57/27/54/14/74/76435388898061205710.png"
+        },
+        {
+          "id": 6566721,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/24/86/31/82/56/99/28/68/04/61/54218705073322180240.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/24/63/54/91/93/65/08/84/22/90/27124061173306049020.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/24/63/54/91/93/65/08/84/22/90/27124061173306049020.png"
+    }
+  },
+  {
+    "gid_ref": 403195,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Harry Potter(tm) Uçan Ford Anglia(tm) 76424 7+ Yaratıcı Oyuncak Yapım Seti - 165 Parça",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713899038841,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601169226,
+      "__unknown_productSubTitle": "LEGO® Harry Potter(tm) Uçan Ford Anglia(tm) 76424 7+ Yaratıcı Oyuncak Yapım Seti - 165 Parça",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 401161,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Baby Born Emma 43cm Zbb834800",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763057029806,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/13/50/91/48/36/18/62/72/04/54/06514493067829950605.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702921949,
+      "__unknown_productSubTitle": "Baby Born Emma 43cm Zbb834800 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7960238,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/13/50/91/48/36/18/62/72/04/54/06514493067829950605.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/13/50/91/48/36/18/62/72/04/54/06514493067829950605.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/13/50/91/48/36/18/62/72/04/54/06514493067829950605.png"
+    }
+  },
+  {
+    "gid_ref": 401162,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Baby Born Emma 43cm Zbb834800",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1754478736883,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653147625,
+      "__unknown_productSubTitle": "Baby Born Emma 43cm Zbb834800 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 401163,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Baby Born Emma 43cm Zbb834800",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745348083174,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653147625,
+      "__unknown_productSubTitle": "Baby Born Emma 43cm Zbb834800 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

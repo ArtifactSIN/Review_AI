@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 828824,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Falken 205/55 R16 91V Ziex Ze320 Yaz Lastiği 2025",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757699879972,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670359770,
+      "__unknown_productSubTitle": "Falken 205/55 R16 91V Ziex Ze320 Yaz Lastiği 2025",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 828825,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Falken 205/55 R16 91V Ziex Ze320 Yaz Lastiği 2025",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747508216715,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/17/60/17/66/98/29/50/85/37/47/59146481563192479135.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670359770,
+      "__unknown_productSubTitle": "Falken 205/55 R16 91V Ziex Ze320 Yaz Lastiği 2025",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7230411,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/17/60/17/66/98/29/50/85/37/47/59146481563192479135.png"
+        },
+        {
+          "id": 7230412,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/17/88/42/94/60/70/67/56/03/46/74597527946161967080.png"
+        },
+        {
+          "id": 7230413,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/17/55/95/32/79/31/15/83/91/95/15093209767390825238.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/17/60/17/66/98/29/50/85/37/47/59146481563192479135.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/17/60/17/66/98/29/50/85/37/47/59146481563192479135.png"
+    }
+  }
+]

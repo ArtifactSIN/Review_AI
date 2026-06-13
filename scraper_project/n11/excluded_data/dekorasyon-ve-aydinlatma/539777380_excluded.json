@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 405500,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Paravan Seperatör Panel Kumaş Paravan Ara Bölme Aparat 5216",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758645107096,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539777380,
+      "__unknown_productSubTitle": "Paravan Seperatör Panel Kumaş Paravan Ara Bölme Aparat 5216",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 405501,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Paravan Seperatör Panel Kumaş Paravan Ara Bölme Aparat 5216",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1751805189215,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/06/59/41/72/37/74/19/11/73/31/95844645540617304432.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539777380,
+      "__unknown_productSubTitle": "Paravan Seperatör Panel Kumaş Paravan Ara Bölme Aparat 5216",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7412330,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/06/59/41/72/37/74/19/11/73/31/95844645540617304432.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/06/59/41/72/37/74/19/11/73/31/95844645540617304432.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/06/59/41/72/37/74/19/11/73/31/95844645540617304432.png"
+    }
+  },
+  {
+    "gid_ref": 405502,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Paravan Seperatör Panel Kumaş Paravan Ara Bölme Aparat 5216",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717703191076,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539777380,
+      "__unknown_productSubTitle": "Paravan Seperatör Panel Kumaş Paravan Ara Bölme Aparat 5216",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 405503,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Paravan Seperatör Panel Kumaş Paravan Ara Bölme Aparat 5216",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1687277992458,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539777380,
+      "__unknown_productSubTitle": "Paravan Seperatör Panel Kumaş Paravan Ara Bölme Aparat 5216",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 133717,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vans Rowley Classic Unisex Krem Sneaker 026 Vn000sf42lh1 Krem",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763985652695,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661582303,
+      "__unknown_productSubTitle": "Vans Rowley Classic Unisex Krem Sneaker 026 Vn000sf42lh1 Krem 39",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 133718,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vans Rowley Classic Unisex Krem Sneaker 026 Vn000sf42lh1 Krem",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758872752107,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661587866,
+      "__unknown_productSubTitle": "Vans Rowley Classic Unisex Krem Sneaker 026 Vn000sf42lh1 Krem 43",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

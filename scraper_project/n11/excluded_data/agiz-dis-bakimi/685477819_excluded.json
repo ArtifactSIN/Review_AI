@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 28047,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Difaş Day & Night Diş Fırçası Yumuşak 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731852382077,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634010065,
+      "__unknown_productSubTitle": "Difaş Day & Night Diş Fırçası Yumuşak 2'li Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 28048,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Difaş Day & Night Diş Fırçası Yumuşak 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719754349418,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581581924,
+      "__unknown_productSubTitle": "Difaş Day & Night Diş Fırçası Yumuşak 2'li Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 28049,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Difaş Day & Night Diş Fırçası Yumuşak 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1709550224661,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/04/75/94/95/52/69/18/81/44/53/27127047747969528607.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581581924,
+      "__unknown_productSubTitle": "Difaş Day & Night Diş Fırçası Yumuşak 2'li Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4046211,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/04/75/94/95/52/69/18/81/44/53/27127047747969528607.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/04/75/94/95/52/69/18/81/44/53/27127047747969528607.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/04/75/94/95/52/69/18/81/44/53/27127047747969528607.png"
+    }
+  },
+  {
+    "gid_ref": 28050,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Difaş Day & Night Diş Fırçası Yumuşak 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708634604910,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581581924,
+      "__unknown_productSubTitle": "Difaş Day & Night Diş Fırçası Yumuşak 2'li Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

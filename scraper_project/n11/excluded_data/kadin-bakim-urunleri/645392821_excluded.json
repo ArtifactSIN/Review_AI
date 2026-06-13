@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 761761,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kotex Anydays Uzun Günlük Ped 28'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745452792955,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/24/76/19/15/17/26/88/35/08/90/54038738378237129813.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645408121,
+      "__unknown_productSubTitle": "Kotex Anydays Uzun Günlük Ped 28'li",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7130877,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/24/76/19/15/17/26/88/35/08/90/54038738378237129813.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/24/76/19/15/17/26/88/35/08/90/54038738378237129813.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/24/76/19/15/17/26/88/35/08/90/54038738378237129813.png"
+    }
+  },
+  {
+    "gid_ref": 761762,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kotex Anydays Uzun Günlük Ped 28'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730150247230,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 556086612,
+      "__unknown_productSubTitle": "Kotex Anydays Uzun Günlük Ped 28'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 761763,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kotex Anydays Uzun Günlük Ped 28'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729607857494,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/22/54/95/19/70/25/10/52/35/06/86366093039437463424.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 556086612,
+      "__unknown_productSubTitle": "Kotex Anydays Uzun Günlük Ped 28'li",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5993754,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/22/54/95/19/70/25/10/52/35/06/86366093039437463424.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/22/54/95/19/70/25/10/52/35/06/86366093039437463424.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/22/54/95/19/70/25/10/52/35/06/86366093039437463424.png"
+    }
+  }
+]

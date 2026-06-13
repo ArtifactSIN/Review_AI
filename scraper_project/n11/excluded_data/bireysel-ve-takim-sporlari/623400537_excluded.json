@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 371381,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kaleci Dizlik,Dirseklik,Lüks Çorap Set Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1674915258184,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/01/28/79/32/37/91/92/72/17/97/08/4571784476503002989.png",
+      "__unknown_lastModifiedDate": 1750436843968,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 223690772,
+      "__unknown_productSubTitle": "Kaleci Dizlik,Dirseklik,Lüks Çorap Set Siyah Standart",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1543921,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/28/79/32/37/91/92/72/17/97/08/4571784476503002989.png"
+        },
+        {
+          "id": 1543922,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/28/72/40/85/49/47/81/90/74/81/85022022694878004575.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/01/28/79/32/37/91/92/72/17/97/08/4571784476503002989.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/01/28/79/32/37/91/92/72/17/97/08/4571784476503002989.png"
+    }
+  },
+  {
+    "gid_ref": 371382,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "güzel fiatina göre",
+      "productTitle": "Kaleci Dizlik,Dirseklik,Lüks Çorap Set Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1640190988188,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750436843968,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 223690772,
+      "__unknown_productSubTitle": "Kaleci Dizlik,Dirseklik,Lüks Çorap Set Siyah Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 371383,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "kaliteli",
+      "productTitle": "Kaleci Dizlik,Dirseklik,Lüks Çorap Set Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1570619965672,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750436843968,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 223690772,
+      "__unknown_productSubTitle": "Kaleci Dizlik,Dirseklik,Lüks Çorap Set Siyah Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

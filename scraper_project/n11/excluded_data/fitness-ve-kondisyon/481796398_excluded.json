@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 737872,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Busso Ultra Pilates Set-Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755247069458,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 481796398,
+      "__unknown_productSubTitle": "Busso Ultra Pilates Set-Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 737873,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Busso Ultra Pilates Set-Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733410191221,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/05/51/62/59/83/99/60/41/78/64/99162457596116090887.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 481796398,
+      "__unknown_productSubTitle": "Busso Ultra Pilates Set-Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6423383,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/05/51/62/59/83/99/60/41/78/64/99162457596116090887.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/05/51/62/59/83/99/60/41/78/64/99162457596116090887.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/05/51/62/59/83/99/60/41/78/64/99162457596116090887.png"
+    }
+  },
+  {
+    "gid_ref": 737874,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Busso Ultra Pilates Set-Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731983947811,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 481796398,
+      "__unknown_productSubTitle": "Busso Ultra Pilates Set-Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 737875,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Busso Ultra Pilates Set-Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731517531599,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 481796398,
+      "__unknown_productSubTitle": "Busso Ultra Pilates Set-Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

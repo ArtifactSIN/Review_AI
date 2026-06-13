@@ -1,0 +1,82 @@
+[
+  {
+    "gid_ref": 185622,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Chicco Fırça Tarak Seti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722445624339,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 540940055,
+      "__unknown_productSubTitle": "Chicco Fırça Tarak Seti Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 185623,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Chicco Fırça Tarak Seti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1710936764202,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/20/80/33/34/89/00/59/66/45/08/43183398499768450733.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 540940055,
+      "__unknown_productSubTitle": "Chicco Fırça Tarak Seti Pembe",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4174513,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/20/80/33/34/89/00/59/66/45/08/43183398499768450733.png"
+        },
+        {
+          "id": 4174514,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/20/86/61/86/22/92/92/27/18/63/57729315733200222718.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/20/80/33/34/89/00/59/66/45/08/43183398499768450733.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/20/80/33/34/89/00/59/66/45/08/43183398499768450733.png"
+    }
+  },
+  {
+    "gid_ref": 185624,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Chicco Fırça Tarak Seti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708601551466,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/22/87/88/01/03/11/99/53/93/22/05704451721622827752.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 540940055,
+      "__unknown_productSubTitle": "Chicco Fırça Tarak Seti Pembe",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3961558,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/22/87/88/01/03/11/99/53/93/22/05704451721622827752.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/22/87/88/01/03/11/99/53/93/22/05704451721622827752.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/22/87/88/01/03/11/99/53/93/22/05704451721622827752.jpg"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 949221,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nioni Aria Bej Ana Kucağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759244878110,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/30/65/93/85/21/46/51/60/43/71/14870749393659738765.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631576800,
+      "__unknown_productSubTitle": "Nioni Aria Bej Ana Kucağı Bej",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7735793,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/30/65/93/85/21/46/51/60/43/71/14870749393659738765.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/30/65/93/85/21/46/51/60/43/71/14870749393659738765.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/30/65/93/85/21/46/51/60/43/71/14870749393659738765.jpg"
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 309141,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Chicco Natural Feeling Silikon Emzikli Pp Biberon 6 Ay 330 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756386274413,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/28/84/29/58/55/92/30/12/43/71/08961655930689900118.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592596293,
+      "__unknown_productSubTitle": "Chicco Natural Feeling Silikon Emzikli Pp Biberon 6 Ay 330 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7612769,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/28/84/29/58/55/92/30/12/43/71/08961655930689900118.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/28/84/29/58/55/92/30/12/43/71/08961655930689900118.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/28/84/29/58/55/92/30/12/43/71/08961655930689900118.jpg"
+    }
+  },
+  {
+    "gid_ref": 309142,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Chicco Natural Feeling Silikon Emzikli Pp Biberon 6 Ay 330 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745080264404,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592999623,
+      "__unknown_productSubTitle": "Chicco Natural Feeling Silikon Emzikli Pp Biberon 6 Ay 330 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 309143,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Chicco Natural Feeling Silikon Emzikli Pp Biberon 6 Ay 330 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734007046575,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592596293,
+      "__unknown_productSubTitle": "Chicco Natural Feeling Silikon Emzikli Pp Biberon 6 Ay 330 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

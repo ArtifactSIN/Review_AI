@@ -1,0 +1,164 @@
+[
+  {
+    "gid_ref": 135051,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.s. Polo Assn. Alvega Erkek Siyah Terlik Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773397805799,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773397805799,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670297802,
+      "__unknown_productSubTitle": "U.s. Polo Assn. Alvega Erkek Siyah Terlik Siyah 43",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 135052,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.s. Polo Assn. Alvega Erkek Siyah Terlik Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771070018103,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670297802,
+      "__unknown_productSubTitle": "U.s. Polo Assn. Alvega Erkek Siyah Terlik Siyah 43",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 135053,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.s. Polo Assn. Alvega Erkek Siyah Terlik Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769265079703,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670297780,
+      "__unknown_productSubTitle": "U.s. Polo Assn. Alvega Erkek Siyah Terlik Siyah 40",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 135054,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.s. Polo Assn. Alvega Erkek Siyah Terlik Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762882043584,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/11/70/19/03/30/04/06/85/22/23/06692168756594886895.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670297802,
+      "__unknown_productSubTitle": "U.s. Polo Assn. Alvega Erkek Siyah Terlik Siyah 43",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7949648,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/11/70/19/03/30/04/06/85/22/23/06692168756594886895.png"
+        },
+        {
+          "id": 7949649,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/11/60/34/20/86/48/10/64/26/72/93447787441762618673.png"
+        },
+        {
+          "id": 7955100,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/11/62/50/24/50/19/66/10/37/90/02088388751577822613.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/11/70/19/03/30/04/06/85/22/23/06692168756594886895.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/11/70/19/03/30/04/06/85/22/23/06692168756594886895.png"
+    }
+  },
+  {
+    "gid_ref": 135055,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.s. Polo Assn. Alvega Erkek Siyah Terlik Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1738336604453,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1745968327153,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 618176151,
+      "__unknown_productSubTitle": "U.s. Polo Assn. Alvega Erkek Siyah Terlik Siyah 40",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 135056,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.s. Polo Assn. Alvega Erkek Siyah Terlik Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734624968021,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1745968325996,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 618176152,
+      "__unknown_productSubTitle": "U.s. Polo Assn. Alvega Erkek Siyah Terlik Siyah 43",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 135057,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.s. Polo Assn. Alvega Erkek Siyah Terlik Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708958811410,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1745968329655,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583098120,
+      "__unknown_productSubTitle": "U.s. Polo Assn. Alvega Erkek Siyah Terlik Siyah 41",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

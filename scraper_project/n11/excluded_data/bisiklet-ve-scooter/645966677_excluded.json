@@ -1,0 +1,55 @@
+[
+  {
+    "gid_ref": 383698,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selle Royal Respiro Moderate Sele Siyah Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774806117030,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/29/51/52/50/27/40/57/74/74/73/24413411921157046723.png",
+      "__unknown_lastModifiedDate": 1774806117030,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645966677,
+      "__unknown_productSubTitle": "Selle Royal Respiro Moderate Sele Siyah Siyah ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8539407,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/29/51/52/50/27/40/57/74/74/73/24413411921157046723.png"
+        },
+        {
+          "id": 8539408,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/29/49/91/13/37/45/04/02/91/70/0475377112306696407.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/29/51/52/50/27/40/57/74/74/73/24413411921157046723.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/29/51/52/50/27/40/57/74/74/73/24413411921157046723.png"
+    }
+  },
+  {
+    "gid_ref": 383699,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selle Royal Respiro Moderate Sele Siyah Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755023104246,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645966677,
+      "__unknown_productSubTitle": "Selle Royal Respiro Moderate Sele Siyah Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

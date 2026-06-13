@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1029244,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dove Kadın Roll On Deodorant Eventone 50 Ml X2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775657255113,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775657255113,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 715957473,
+      "__unknown_productSubTitle": "Dove Kadın Roll On Deodorant Eventone 50 Ml X2 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1029245,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dove Kadın Roll On Deodorant Eventone 50 Ml X2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765900485549,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/16/88/10/66/33/87/69/95/13/76/15101968074658369511.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 715957473,
+      "__unknown_productSubTitle": "Dove Kadın Roll On Deodorant Eventone 50 Ml X2 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8123623,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/16/88/10/66/33/87/69/95/13/76/15101968074658369511.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/16/88/10/66/33/87/69/95/13/76/15101968074658369511.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/16/88/10/66/33/87/69/95/13/76/15101968074658369511.jpg"
+    }
+  },
+  {
+    "gid_ref": 1029246,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dove Kadın Roll On Deodorant Eventone 50 Ml X2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765207208392,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 715957473,
+      "__unknown_productSubTitle": "Dove Kadın Roll On Deodorant Eventone 50 Ml X2 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

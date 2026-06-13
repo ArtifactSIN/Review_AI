@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 901163,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Honda Spacy 110 Varyatör + Pervanesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774637461457,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774637461457,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 715077765,
+      "__unknown_productSubTitle": "Honda Spacy 110 Varyatör + Pervanesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 901164,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Honda Spacy 110 Varyatör + Pervanesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774637427479,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/75/88/10/06/18/84/87/34/78/16773035609340332310.png",
+      "__unknown_lastModifiedDate": 1774637427479,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 715077765,
+      "__unknown_productSubTitle": "Honda Spacy 110 Varyatör + Pervanesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8524123,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/75/88/10/06/18/84/87/34/78/16773035609340332310.png"
+        },
+        {
+          "id": 8524124,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/59/49/64/61/30/57/34/47/05/74277651521900165993.png"
+        },
+        {
+          "id": 8524125,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/82/28/06/51/59/06/87/42/14/95455683268323790447.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/75/88/10/06/18/84/87/34/78/16773035609340332310.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/75/88/10/06/18/84/87/34/78/16773035609340332310.png"
+    }
+  }
+]

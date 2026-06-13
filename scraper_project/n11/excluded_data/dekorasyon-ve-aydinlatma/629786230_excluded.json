@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 415548,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Country Lambader Krem Şapka Metal Ayak Ml707",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770737002049,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/10/91/32/48/87/71/17/41/11/25/78253177218638105741.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629786230,
+      "__unknown_productSubTitle": "Country Lambader Krem Şapka Metal Ayak Ml707 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8335833,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/10/91/32/48/87/71/17/41/11/25/78253177218638105741.png"
+        },
+        {
+          "id": 8335834,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/10/74/96/98/64/12/40/96/50/66/13855966745310376216.png"
+        },
+        {
+          "id": 8335835,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/10/84/15/65/78/01/99/06/04/41/16595834235437039005.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/10/91/32/48/87/71/17/41/11/25/78253177218638105741.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/10/91/32/48/87/71/17/41/11/25/78253177218638105741.png"
+    }
+  },
+  {
+    "gid_ref": 415549,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Country Lambader Krem Şapka Metal Ayak Ml707",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744700925054,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629786230,
+      "__unknown_productSubTitle": "Country Lambader Krem Şapka Metal Ayak Ml707 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

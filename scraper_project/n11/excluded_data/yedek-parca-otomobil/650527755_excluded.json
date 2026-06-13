@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 1470653,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Volkswagen Transporter T5 Stop Lambası Sağ Sol Takım 2003-2014 Du",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773224921909,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773224921909,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 709333219,
+      "__unknown_productSubTitle": "Volkswagen Transporter T5 Stop Lambası Sağ Sol Takım 2003-2014 Du",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1470654,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Volkswagen Transporter T5 Stop Lambası Sağ Sol Takım 2003-2014 Du",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770533040509,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/08/89/05/78/08/20/25/81/21/21/16283338220086575753.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650527755,
+      "__unknown_productSubTitle": "Volkswagen Transporter T5 Stop Lambası Sağ Sol Takım 2003-2014 Du",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8334441,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/08/89/05/78/08/20/25/81/21/21/16283338220086575753.png"
+        },
+        {
+          "id": 8334442,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/08/48/98/94/23/14/87/56/89/58/47558352721013853465.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/08/89/05/78/08/20/25/81/21/21/16283338220086575753.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/08/89/05/78/08/20/25/81/21/21/16283338220086575753.png"
+    }
+  },
+  {
+    "gid_ref": 1470655,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Volkswagen Transporter T5 Stop Lambası Sağ Sol Takım 2003-2014 Du",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770224960176,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650527755,
+      "__unknown_productSubTitle": "Volkswagen Transporter T5 Stop Lambası Sağ Sol Takım 2003-2014 Du",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1470656,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Volkswagen Transporter T5 Stop Lambası Sağ Sol Takım 2003-2014 Du",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768228126264,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650527755,
+      "__unknown_productSubTitle": "Volkswagen Transporter T5 Stop Lambası Sağ Sol Takım 2003-2014 Du",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

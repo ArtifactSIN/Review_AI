@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 193238,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bepanthol Cilt Bakım Kremi 50gr-9049074042104",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745752002128,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590850102,
+      "__unknown_productSubTitle": "Bepanthol Cilt Bakım Kremi 50gr-9049074042104 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 193239,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bepanthol Cilt Bakım Kremi 50gr-9049074042104",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736437367341,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/09/74/34/45/96/62/04/12/59/28/78002074905549911127.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590850102,
+      "__unknown_productSubTitle": "Bepanthol Cilt Bakım Kremi 50gr-9049074042104 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6676015,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/09/74/34/45/96/62/04/12/59/28/78002074905549911127.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/09/74/34/45/96/62/04/12/59/28/78002074905549911127.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/09/74/34/45/96/62/04/12/59/28/78002074905549911127.png"
+    }
+  }
+]

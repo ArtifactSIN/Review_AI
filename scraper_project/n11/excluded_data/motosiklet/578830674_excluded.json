@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 885773,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kuba Brilliant 125 Bando Kayış  Yeşil Yeni Üretim",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760942811846,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599331299,
+      "__unknown_productSubTitle": "Kuba Brilliant 125 Bando Kayış  Yeşil Yeni Üretim",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 885774,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kuba Brilliant 125 Bando Kayış  Yeşil Yeni Üretim",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758542821970,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/22/89/52/86/83/65/17/67/12/06/84645577409848129793.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599331299,
+      "__unknown_productSubTitle": "Kuba Brilliant 125 Bando Kayış  Yeşil Yeni Üretim",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7710574,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/22/89/52/86/83/65/17/67/12/06/84645577409848129793.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/22/89/52/86/83/65/17/67/12/06/84645577409848129793.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/22/89/52/86/83/65/17/67/12/06/84645577409848129793.png"
+    }
+  },
+  {
+    "gid_ref": 885775,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kuba Brilliant 125 Bando Kayış  Yeşil Yeni Üretim",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727371146440,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599331299,
+      "__unknown_productSubTitle": "Kuba Brilliant 125 Bando Kayış  Yeşil Yeni Üretim",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 885776,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kuba Brilliant 125 Bando Kayış  Yeşil Yeni Üretim",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717004250627,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599331299,
+      "__unknown_productSubTitle": "Kuba Brilliant 125 Bando Kayış  Yeşil Yeni Üretim",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

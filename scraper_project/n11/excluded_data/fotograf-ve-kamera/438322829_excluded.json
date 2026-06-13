@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 750694,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Panasonic DMC-FZ2000 Dijital Fotoğraf Makinesi (Distribütör Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1707595221121,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586638276,
+      "__unknown_productSubTitle": "Panasonic DMC-FZ2000 Dijital Fotoğraf Makinesi (Distribütör Garantili) Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 750695,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kaliteli Ürün",
+      "productTitle": "Panasonic DMC-FZ2000 Dijital Fotoğraf Makinesi (Distribütör Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1631719064049,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 438322829,
+      "__unknown_productSubTitle": "Panasonic DMC-FZ2000 Dijital Fotoğraf Makinesi (Distribütör Garantili) Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

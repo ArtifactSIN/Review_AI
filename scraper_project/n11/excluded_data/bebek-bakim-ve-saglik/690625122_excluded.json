@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 204147,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyjem Kiraz Çekirdekli Gaz Giderici Kemer - Gül Kurusu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721152032200,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 560564275,
+      "__unknown_productSubTitle": "Babyjem Kiraz Çekirdekli Gaz Giderici Kemer - Gül Kurusu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 204148,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyjem Kiraz Çekirdekli Gaz Giderici Kemer - Gül Kurusu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1709968172114,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592442688,
+      "__unknown_productSubTitle": "Babyjem Kiraz Çekirdekli Gaz Giderici Kemer - Gül Kurusu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

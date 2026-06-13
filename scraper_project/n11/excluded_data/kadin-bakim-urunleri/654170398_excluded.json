@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 762390,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farmasi Dr. C. Tuna Tüy Dökücü Krem 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1761814508159,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 465473184,
+      "__unknown_productSubTitle": "Farmasi Dr. C. Tuna Tüy Dökücü Krem 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 762391,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farmasi Dr. C. Tuna Tüy Dökücü Krem 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747735896796,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653861922,
+      "__unknown_productSubTitle": "Farmasi Dr. C. Tuna Tüy Dökücü Krem 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 762392,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farmasi Dr. C. Tuna Tüy Dökücü Krem 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734980465876,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569528195,
+      "__unknown_productSubTitle": "Farmasi Dr. C. Tuna Tüy Dökücü Krem 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

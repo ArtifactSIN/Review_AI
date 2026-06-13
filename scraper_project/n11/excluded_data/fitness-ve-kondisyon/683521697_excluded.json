@@ -1,0 +1,107 @@
+[
+  {
+    "gid_ref": 745973,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps Spor 2 Adet 2 Kg Dambıl 4 Kg",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774973554194,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/66/78/39/25/49/68/89/43/71/04429757325179138067.png",
+      "__unknown_lastModifiedDate": 1774973554194,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683521697,
+      "__unknown_productSubTitle": "Ps Spor 2 Adet 2 Kg Dambıl 4 Kg ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8542523,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/66/78/39/25/49/68/89/43/71/04429757325179138067.png"
+        },
+        {
+          "id": 8542524,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/70/02/20/93/24/24/75/53/48/98093976591989979550.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/66/78/39/25/49/68/89/43/71/04429757325179138067.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/66/78/39/25/49/68/89/43/71/04429757325179138067.png"
+    }
+  },
+  {
+    "gid_ref": 745974,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps Spor 2 Adet 2 Kg Dambıl 4 Kg",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760368280232,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683521697,
+      "__unknown_productSubTitle": "Ps Spor 2 Adet 2 Kg Dambıl 4 Kg ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 745975,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps Spor 2 Adet 2 Kg Dambıl 4 Kg",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756054620545,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683521697,
+      "__unknown_productSubTitle": "Ps Spor 2 Adet 2 Kg Dambıl 4 Kg ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 745976,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps Spor 2 Adet 2 Kg Dambıl 4 Kg",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752686121937,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/16/64/83/86/47/54/49/79/49/17/42550014824661468059.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683521697,
+      "__unknown_productSubTitle": "Ps Spor 2 Adet 2 Kg Dambıl 4 Kg ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7444549,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/16/64/83/86/47/54/49/79/49/17/42550014824661468059.png"
+        },
+        {
+          "id": 7461800,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/16/80/71/50/10/29/56/93/37/66/04502026211967742038.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/16/64/83/86/47/54/49/79/49/17/42550014824661468059.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/16/64/83/86/47/54/49/79/49/17/42550014824661468059.png"
+    }
+  }
+]

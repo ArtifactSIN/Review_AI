@@ -1,0 +1,119 @@
+[
+  {
+    "gid_ref": 1412455,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beybi İş Eldiveni - Pn5 Sarı - 12 Çift SARI",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774634551000,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774634551000,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734327309,
+      "__unknown_productSubTitle": "Beybi İş Eldiveni - Pn5 Sarı - 12 Çift SARI 10",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1412456,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beybi İş Eldiveni - Pn5 Sarı - 12 Çift SARI",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1735851099077,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/02/52/35/70/30/43/41/83/41/17/87934030310073742519.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641231107,
+      "__unknown_productSubTitle": "Beybi İş Eldiveni - Pn5 Sarı - 12 Çift SARI 10",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6632398,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/02/52/35/70/30/43/41/83/41/17/87934030310073742519.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/02/52/35/70/30/43/41/83/41/17/87934030310073742519.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/02/52/35/70/30/43/41/83/41/17/87934030310073742519.png"
+    }
+  },
+  {
+    "gid_ref": 1412457,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beybi İş Eldiveni - Pn5 Sarı - 12 Çift SARI",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734249297253,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641231107,
+      "__unknown_productSubTitle": "Beybi İş Eldiveni - Pn5 Sarı - 12 Çift SARI 10",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1412458,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beybi İş Eldiveni - Pn5 Sarı - 12 Çift SARI",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733225924419,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/03/53/61/61/89/71/13/14/02/89/95368219645264347935.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641231107,
+      "__unknown_productSubTitle": "Beybi İş Eldiveni - Pn5 Sarı - 12 Çift SARI 10",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6396938,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/03/53/61/61/89/71/13/14/02/89/95368219645264347935.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/03/53/61/61/89/71/13/14/02/89/95368219645264347935.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/03/53/61/61/89/71/13/14/02/89/95368219645264347935.png"
+    }
+  },
+  {
+    "gid_ref": 1412459,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beybi İş Eldiveni - Pn5 Sarı - 12 Çift SARI",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732817263865,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641231107,
+      "__unknown_productSubTitle": "Beybi İş Eldiveni - Pn5 Sarı - 12 Çift SARI 10",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 512540,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tıraş Makinesi Yağı 50 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766262917257,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551202322,
+      "__unknown_productSubTitle": "Tıraş Makinesi Yağı 50 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 512541,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tıraş Makinesi Yağı 50 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726984652270,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551202322,
+      "__unknown_productSubTitle": "Tıraş Makinesi Yağı 50 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 512542,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tıraş Makinesi Yağı 50 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1723240001286,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/10/66/98/85/68/14/98/06/41/60/02651250859910345721.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551202322,
+      "__unknown_productSubTitle": "Tıraş Makinesi Yağı 50 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5322095,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/10/77/40/68/22/99/47/58/60/93/12069194966383675909.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/10/66/98/85/68/14/98/06/41/60/02651250859910345721.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/10/66/98/85/68/14/98/06/41/60/02651250859910345721.jpeg"
+    }
+  },
+  {
+    "gid_ref": 512543,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tıraş Makinesi Yağı 50 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1706273191244,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551202322,
+      "__unknown_productSubTitle": "Tıraş Makinesi Yağı 50 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 512544,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tıraş Makinesi Yağı 50 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1678276451461,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551202322,
+      "__unknown_productSubTitle": "Tıraş Makinesi Yağı 50 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

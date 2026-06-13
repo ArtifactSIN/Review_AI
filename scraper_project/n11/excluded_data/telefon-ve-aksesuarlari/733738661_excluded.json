@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 1285907,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nothing CMF Watch 3 Pro 1.43\" Akıllı Saat (Nothing Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774701982227,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/28/86/61/40/03/22/76/42/96/95/01061469494679651602.jpg",
+      "__unknown_lastModifiedDate": 1774701982227,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733738661,
+      "__unknown_productSubTitle": "Nothing CMF Watch 3 Pro 1.43\" Akıllı Saat (Nothing Türkiye Garantili) Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8528197,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/86/61/40/03/22/76/42/96/95/01061469494679651602.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/28/86/61/40/03/22/76/42/96/95/01061469494679651602.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/28/86/61/40/03/22/76/42/96/95/01061469494679651602.jpg"
+    }
+  },
+  {
+    "gid_ref": 1285908,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nothing CMF Watch 3 Pro 1.43\" Akıllı Saat (Nothing Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774438067252,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774438067252,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733738661,
+      "__unknown_productSubTitle": "Nothing CMF Watch 3 Pro 1.43\" Akıllı Saat (Nothing Türkiye Garantili) Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

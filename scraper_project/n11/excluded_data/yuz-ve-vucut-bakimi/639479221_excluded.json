@@ -1,0 +1,75 @@
+[
+  {
+    "gid_ref": 1511732,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mykored Forte Mantar Karşıtı Krem 20 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759500499936,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639479221,
+      "__unknown_productSubTitle": "Mykored Forte Mantar Karşıtı Krem 20 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1511733,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mykored Forte Mantar Karşıtı Krem 20 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737372035906,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/20/62/59/05/97/03/83/72/82/63/42554295257930382782.png",
+      "__unknown_lastModifiedDate": 1741800855643,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639479221,
+      "__unknown_productSubTitle": "Mykored Forte Mantar Karşıtı Krem 20 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/20/62/59/05/97/03/83/72/82/63/42554295257930382782.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/20/62/59/05/97/03/83/72/82/63/42554295257930382782.png"
+    }
+  },
+  {
+    "gid_ref": 1511734,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mykored Forte Mantar Karşıtı Krem 20 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736921371652,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/15/56/55/81/25/09/36/81/08/32/16459856222175643197.png",
+      "__unknown_lastModifiedDate": 1741801060124,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639479221,
+      "__unknown_productSubTitle": "Mykored Forte Mantar Karşıtı Krem 20 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6707150,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/15/56/55/81/25/09/36/81/08/32/16459856222175643197.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/15/56/55/81/25/09/36/81/08/32/16459856222175643197.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/15/56/55/81/25/09/36/81/08/32/16459856222175643197.png"
+    }
+  }
+]

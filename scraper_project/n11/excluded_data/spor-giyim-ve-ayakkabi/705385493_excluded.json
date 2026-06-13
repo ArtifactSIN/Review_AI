@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1161561,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nike NIKE M NK DF PARK20 TRK JKT K ERKEK CEKET BV6885-410",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768570062724,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705385493,
+      "__unknown_productSubTitle": "Nike NIKE M NK DF PARK20 TRK JKT K ERKEK CEKET BV6885-410 M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161562,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nike NIKE M NK DF PARK20 TRK JKT K ERKEK CEKET BV6885-410",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763654331879,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705385493,
+      "__unknown_productSubTitle": "Nike NIKE M NK DF PARK20 TRK JKT K ERKEK CEKET BV6885-410 M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

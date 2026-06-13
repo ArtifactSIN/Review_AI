@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1517424,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Revitalift Filler Dolgunlaştırcı Göz Kremi 15 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750503566243,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583215743,
+      "__unknown_productSubTitle": "L'Oreal Paris Revitalift Filler Dolgunlaştırcı Göz Kremi 15 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1517425,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Revitalift Filler Dolgunlaştırcı Göz Kremi 15 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715761009291,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/15/55/57/26/10/19/90/74/35/88/64071376846102901226.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583215743,
+      "__unknown_productSubTitle": "L'Oreal Paris Revitalift Filler Dolgunlaştırcı Göz Kremi 15 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4690451,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/15/55/57/26/10/19/90/74/35/88/64071376846102901226.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/15/55/57/26/10/19/90/74/35/88/64071376846102901226.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/15/55/57/26/10/19/90/74/35/88/64071376846102901226.jpg"
+    }
+  },
+  {
+    "gid_ref": 1517426,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Revitalift Filler Dolgunlaştırcı Göz Kremi 15 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711041005907,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583215743,
+      "__unknown_productSubTitle": "L'Oreal Paris Revitalift Filler Dolgunlaştırcı Göz Kremi 15 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

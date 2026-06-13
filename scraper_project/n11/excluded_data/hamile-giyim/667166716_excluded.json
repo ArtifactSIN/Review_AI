@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 755317,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kom Mamma Emzirme Sütyen",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719238098679,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611809318,
+      "__unknown_productSubTitle": "Kom Mamma Emzirme Sütyen Beyaz 85B",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 755318,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kom Mamma Emzirme Sütyen",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719238086197,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611809321,
+      "__unknown_productSubTitle": "Kom Mamma Emzirme Sütyen Siyah 85B",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 755319,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kom Mamma Emzirme Sütyen",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1704882160719,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/01/10/79/26/36/69/86/37/95/20/26/13074085462693201637.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579402644,
+      "__unknown_productSubTitle": "Kom Mamma Emzirme Sütyen Ekru 90B",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2975507,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/01/10/79/26/36/69/86/37/95/20/26/13074085462693201637.jpg"
+        },
+        {
+          "id": 2975508,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/01/10/81/48/64/35/66/37/63/05/80/03879765788363868263.jpg"
+        },
+        {
+          "id": 2975509,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/01/10/72/30/37/54/17/04/78/30/11/45938707300269377291.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/01/10/79/26/36/69/86/37/95/20/26/13074085462693201637.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/01/10/79/26/36/69/86/37/95/20/26/13074085462693201637.jpg"
+    }
+  },
+  {
+    "gid_ref": 755320,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kom Mamma Emzirme Sütyen",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697031300775,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579402644,
+      "__unknown_productSubTitle": "Kom Mamma Emzirme Sütyen Ekru 90B",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

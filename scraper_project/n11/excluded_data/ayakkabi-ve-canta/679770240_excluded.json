@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 135204,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "New Balance 480 Kadın Bej Spor Ayakkabı M480cr5 Krem",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774357514843,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774357514843,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679770238,
+      "__unknown_productSubTitle": "New Balance 480 Kadın Bej Spor Ayakkabı M480cr5 Krem 37.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 135205,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "New Balance 480 Kadın Bej Spor Ayakkabı M480cr5 Krem",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773688983253,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773688983253,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679770240,
+      "__unknown_productSubTitle": "New Balance 480 Kadın Bej Spor Ayakkabı M480cr5 Krem 38.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

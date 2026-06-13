@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 751469,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pdx-701 Tripod, Pdx-701 Kamera Ayaği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746297796241,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588557189,
+      "__unknown_productSubTitle": "Pdx-701 Tripod, Pdx-701 Kamera Ayaği",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751470,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pdx-701 Tripod, Pdx-701 Kamera Ayaği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711289601392,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/24/74/63/02/01/74/90/68/24/96/25016135464058271295.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588557189,
+      "__unknown_productSubTitle": "Pdx-701 Tripod, Pdx-701 Kamera Ayaği",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4215605,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/24/74/63/02/01/74/90/68/24/96/25016135464058271295.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/24/74/63/02/01/74/90/68/24/96/25016135464058271295.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/24/74/63/02/01/74/90/68/24/96/25016135464058271295.png"
+    }
+  },
+  {
+    "gid_ref": 751471,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pdx-701 Tripod, Pdx-701 Kamera Ayaği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1704358304135,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588557189,
+      "__unknown_productSubTitle": "Pdx-701 Tripod, Pdx-701 Kamera Ayaği",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 377801,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mtb Bisiklet Alüminyum Pedal Bilyalı Krom (Takım)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775492759182,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/06/63/89/89/94/94/82/87/15/19/7713891671278664650.jpg",
+      "__unknown_lastModifiedDate": 1775492759182,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 488156890,
+      "__unknown_productSubTitle": "Mtb Bisiklet Alüminyum Pedal Bilyalı Krom (Takım)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8571420,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/06/63/89/89/94/94/82/87/15/19/7713891671278664650.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/06/63/89/89/94/94/82/87/15/19/7713891671278664650.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/06/63/89/89/94/94/82/87/15/19/7713891671278664650.jpg"
+    }
+  },
+  {
+    "gid_ref": 377802,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mtb Bisiklet Alüminyum Pedal Bilyalı Krom (Takım)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763063885188,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 488156890,
+      "__unknown_productSubTitle": "Mtb Bisiklet Alüminyum Pedal Bilyalı Krom (Takım)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 377803,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mtb Bisiklet Alüminyum Pedal Bilyalı Krom (Takım)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715806687993,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 488156890,
+      "__unknown_productSubTitle": "Mtb Bisiklet Alüminyum Pedal Bilyalı Krom (Takım)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

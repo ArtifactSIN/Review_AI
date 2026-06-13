@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1335682,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "snc Traktör Kuyruk Mili Frezesi uyumlu Erek-dişi Takım Yerli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748083908090,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/24/70/38/26/76/13/90/98/35/86/6460594122231137223.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566217867,
+      "__unknown_productSubTitle": "Snc Traktör Kuyruk Mili Frezesi Uyumlu Erek-dişi Takım Yerli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7260166,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/24/70/38/26/76/13/90/98/35/86/6460594122231137223.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/24/70/38/26/76/13/90/98/35/86/6460594122231137223.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/24/70/38/26/76/13/90/98/35/86/6460594122231137223.png"
+    }
+  },
+  {
+    "gid_ref": 1335683,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "snc Traktör Kuyruk Mili Frezesi uyumlu Erek-dişi Takım Yerli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1689399426841,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566217867,
+      "__unknown_productSubTitle": "Snc Traktör Kuyruk Mili Frezesi Uyumlu Erek-dişi Takım Yerli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

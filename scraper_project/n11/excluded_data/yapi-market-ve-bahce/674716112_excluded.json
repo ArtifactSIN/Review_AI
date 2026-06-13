@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 1402107,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dawreek MK800 Üçlü Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774886572355,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774886572355,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 674716112,
+      "__unknown_productSubTitle": "Dawreek MK800 Üçlü Set",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1402108,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dawreek MK800 Üçlü Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755343173007,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/16/72/43/05/06/10/56/90/82/67/68947107338878235826.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 674716112,
+      "__unknown_productSubTitle": "Dawreek MK800 Üçlü Set",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7569168,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/16/72/43/05/06/10/56/90/82/67/68947107338878235826.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/16/72/43/05/06/10/56/90/82/67/68947107338878235826.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/16/72/43/05/06/10/56/90/82/67/68947107338878235826.png"
+    }
+  }
+]

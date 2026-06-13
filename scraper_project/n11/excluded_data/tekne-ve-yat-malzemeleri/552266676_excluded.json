@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 1251100,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İLK YARDIM ÇANTASI YATLAR İÇİN",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747738348034,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552266676,
+      "__unknown_productSubTitle": "İLK YARDIM ÇANTASI YATLAR İÇİN",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251101,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İLK YARDIM ÇANTASI YATLAR İÇİN",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733002428980,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552266676,
+      "__unknown_productSubTitle": "İLK YARDIM ÇANTASI YATLAR İÇİN",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251102,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İLK YARDIM ÇANTASI YATLAR İÇİN",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1707474305200,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552266676,
+      "__unknown_productSubTitle": "İLK YARDIM ÇANTASI YATLAR İÇİN",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

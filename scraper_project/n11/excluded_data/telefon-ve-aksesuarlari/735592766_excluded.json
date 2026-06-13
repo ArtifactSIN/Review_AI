@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 1286716,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple Watch SE 3 MEH34TU/A GPS 40 MM Akıllı Saat S-M (Distribütör Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775593325702,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/07/80/06/86/98/41/01/49/36/93/67518418269202303286.jpg",
+      "__unknown_lastModifiedDate": 1775593325702,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733166014,
+      "__unknown_productSubTitle": "Apple Watch SE 3 MEH34TU/A GPS 40 MM Akıllı Saat S-M (Distribütör Garantili) Yıldız Işığı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8577528,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/07/80/06/86/98/41/01/49/36/93/67518418269202303286.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/07/80/06/86/98/41/01/49/36/93/67518418269202303286.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/07/80/06/86/98/41/01/49/36/93/67518418269202303286.jpg"
+    }
+  },
+  {
+    "gid_ref": 1286717,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple Watch SE 3 MEH34TU/A GPS 40 MM Akıllı Saat S-M (Distribütör Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770397056341,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719912675,
+      "__unknown_productSubTitle": "Apple Watch SE 3 MEH34TU/A GPS 40 MM Akıllı Saat S-M (Distribütör Garantili) Yıldız Işığı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

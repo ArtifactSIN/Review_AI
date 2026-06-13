@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1517053,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bioxcin Gold on Skin Kuru Yağ 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721763860113,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585164759,
+      "__unknown_productSubTitle": "Bioxcin Gold on Skin Kuru Yağ 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1517054,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bioxcin Gold On Skin Altın Parıltılı Kuru Yağ 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1708947885271,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/26/57/22/60/34/21/84/44/48/54/67009013441612460037.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578139410,
+      "__unknown_productSubTitle": "Bioxcin Gold On Skin Altın Parıltılı Kuru Yağ 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3982324,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/26/57/22/60/34/21/84/44/48/54/67009013441612460037.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/26/57/22/60/34/21/84/44/48/54/67009013441612460037.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/26/57/22/60/34/21/84/44/48/54/67009013441612460037.jpg"
+    }
+  },
+  {
+    "gid_ref": 1517055,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bioxcin Gold On Skin Altın Parıltılı Kuru Yağ 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1706118362965,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578139410,
+      "__unknown_productSubTitle": "Bioxcin Gold On Skin Altın Parıltılı Kuru Yağ 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

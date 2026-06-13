@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1163564,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Labrax Thor Dalış Bıçağı Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1698277104303,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582637767,
+      "__unknown_productSubTitle": "Labrax Thor Dalış Bıçağı Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1163565,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Labrax Thor Dalış Bıçağı Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1690980222600,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557714199,
+      "__unknown_productSubTitle": "Labrax Thor Dalış Bıçağı Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

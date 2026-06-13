@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 764243,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "KOTEX Ekstra UZUN GECE 9 LU YOĞUN GECE",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774886123956,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774886123956,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724081104,
+      "__unknown_productSubTitle": "KOTEX Ekstra UZUN GECE 9 LU YOĞUN GECE",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 764244,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "KOTEX Ekstra UZUN GECE 9 LU YOĞUN GECE",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774519805370,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/71/67/22/85/99/50/62/25/21/57453276141561790598.png",
+      "__unknown_lastModifiedDate": 1774519805370,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645384587,
+      "__unknown_productSubTitle": "KOTEX Ekstra UZUN GECE 9 LU YOĞUN GECE",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8519951,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/71/67/22/85/99/50/62/25/21/57453276141561790598.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/71/67/22/85/99/50/62/25/21/57453276141561790598.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/71/67/22/85/99/50/62/25/21/57453276141561790598.png"
+    }
+  }
+]

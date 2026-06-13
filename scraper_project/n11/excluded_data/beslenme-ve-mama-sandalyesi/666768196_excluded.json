@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 274788,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hipp Organik Combiotic 2 Devam Sütü 600 G 4 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764773429374,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666768196,
+      "__unknown_productSubTitle": "Hipp Organik Combiotic 2 Devam Sütü 600 G 4 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 274789,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hipp Organik Combiotic 2 Devam Sütü 600 G 4 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763630510574,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/20/82/16/96/49/62/85/01/40/83/73756855507727200991.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666768196,
+      "__unknown_productSubTitle": "Hipp Organik Combiotic 2 Devam Sütü 600 G 4 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7993430,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/20/82/16/96/49/62/85/01/40/83/73756855507727200991.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/20/82/16/96/49/62/85/01/40/83/73756855507727200991.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/20/82/16/96/49/62/85/01/40/83/73756855507727200991.png"
+    }
+  }
+]

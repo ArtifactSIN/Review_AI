@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 161593,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "5 Fonksiyonlu Robot Duş Takımı Krom Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760995045034,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 657081812,
+      "__unknown_productSubTitle": "5 Fonksiyonlu Robot Duş Takımı Krom Gri ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 161594,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "5 Fonksiyonlu Robot Duş Takımı Krom Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753525024009,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/26/88/25/10/78/12/09/83/72/25/11406025657388482292.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 657081812,
+      "__unknown_productSubTitle": "5 Fonksiyonlu Robot Duş Takımı Krom Gri ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7489393,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/26/88/25/10/78/12/09/83/72/25/11406025657388482292.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/26/88/25/10/78/12/09/83/72/25/11406025657388482292.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/26/88/25/10/78/12/09/83/72/25/11406025657388482292.png"
+    }
+  }
+]

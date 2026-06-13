@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 1192263,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Heitmann Kahve Makinaları İçin Özel Lider Güçlü Kireç Sökücü 250 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767777591567,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 520101170,
+      "__unknown_productSubTitle": "Heitmann Kahve Makinaları İçin Özel Lider Güçlü Kireç Sökücü 250 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1192264,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Heitmann Kahve Makinaları İçin Özel Lider Güçlü Kireç Sökücü 250 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731791200581,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/17/56/24/14/94/35/60/86/69/19/5483764084320259679.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637029284,
+      "__unknown_productSubTitle": "Heitmann Kahve Makinaları İçin Özel Lider Güçlü Kireç Sökücü 250 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6255106,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/17/56/24/14/94/35/60/86/69/19/5483764084320259679.png"
+        },
+        {
+          "id": 6255107,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/17/52/41/51/41/89/30/74/98/11/33183005188264408902.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/17/56/24/14/94/35/60/86/69/19/5483764084320259679.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/17/56/24/14/94/35/60/86/69/19/5483764084320259679.png"
+    }
+  },
+  {
+    "gid_ref": 1192265,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Heitmann Kahve Makinaları İçin Özel Lider Güçlü Kireç Sökücü 250 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727980978544,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/03/87/93/47/47/88/88/04/74/00/84256926661109792295.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637029284,
+      "__unknown_productSubTitle": "Heitmann Kahve Makinaları İçin Özel Lider Güçlü Kireç Sökücü 250 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5844604,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/03/87/93/47/47/88/88/04/74/00/84256926661109792295.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/03/87/93/47/47/88/88/04/74/00/84256926661109792295.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/03/87/93/47/47/88/88/04/74/00/84256926661109792295.jpg"
+    }
+  }
+]

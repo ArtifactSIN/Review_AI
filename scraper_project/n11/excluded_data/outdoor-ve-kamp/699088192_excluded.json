@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 964219,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Salomon X Ultra 360 Gtx Erkek Outdoor Ayakkabı K.l Lacivert",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763057407199,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 699088192,
+      "__unknown_productSubTitle": "Salomon X Ultra 360 Gtx Erkek Outdoor Ayakkabı K.l Lacivert 44 2/3",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 964220,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Salomon X Ultra 360 Gtx Erkek Outdoor Ayakkabı K.l Lacivert",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758707449931,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 697581535,
+      "__unknown_productSubTitle": "Salomon X Ultra 360 Gtx Erkek Outdoor Ayakkabı K.l Lacivert 44 2/3",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1337634,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sony Ps4 Dualshock 4 V2 Gamepad Yenilenmiş Gümüş",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752758388360,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559103388,
+      "__unknown_productSubTitle": "Sony Ps4 Dualshock 4 V2 Gamepad Yenilenmiş Gümüş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337635,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sony Ps4 Dualshock 4 V2 Gamepad Yenilenmiş Gümüş",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697455737898,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 536625357,
+      "__unknown_productSubTitle": "Sony Ps4 Dualshock 4 V2 Gamepad Yenilenmiş Gümüş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337636,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "İş görüyor",
+      "productTitle": "Sony Ps4 Dualshock 4 V2 Gamepad Yenilenmiş Gümüş",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1666932520220,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 427212441,
+      "__unknown_productSubTitle": "Sony Ps4 Dualshock 4 V2 Gamepad Yenilenmiş Gümüş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

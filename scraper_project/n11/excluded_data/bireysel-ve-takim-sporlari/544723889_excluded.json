@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 368309,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ultra Hafif Haydar - Alüminyum Beyzbol Sopası Gümüş",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715255594593,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 544723889,
+      "__unknown_productSubTitle": "Ultra Hafif Haydar - Alüminyum Beyzbol Sopası Gümüş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 368310,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ultra Hafif Haydar - Alüminyum Beyzbol Sopası Gümüş",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1694193349328,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 544723889,
+      "__unknown_productSubTitle": "Ultra Hafif Haydar - Alüminyum Beyzbol Sopası Gümüş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

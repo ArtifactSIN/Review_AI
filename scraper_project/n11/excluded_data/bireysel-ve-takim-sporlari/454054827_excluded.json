@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 367853,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "güzel ürün",
+      "productTitle": "3 Adet Wilson Comfort Bowl O'grips Tekli Yeşil Grip",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1636457531330,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/21/11/09/61/50/67/24/45/95/32/10/48/42831924545054526462.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 454054827,
+      "__unknown_productSubTitle": "3 Adet Wilson Comfort Bowl O'grips Tekli Yeşil Grip",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 52928,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/21/11/09/57/15/78/44/71/71/01/55/31/23159793186158035124.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/21/11/09/61/50/67/24/45/95/32/10/48/42831924545054526462.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/21/11/09/61/50/67/24/45/95/32/10/48/42831924545054526462.jpg"
+    }
+  }
+]

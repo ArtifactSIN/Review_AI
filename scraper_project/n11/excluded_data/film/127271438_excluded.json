@@ -1,0 +1,22 @@
+[
+  {
+    "gid_ref": 734830,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Güneşi Gördüm - 2 Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1677166893941,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 127271438,
+      "__unknown_productSubTitle": "Güneşi Gördüm - 2 Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

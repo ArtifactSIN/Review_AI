@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 269355,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hipp Organik Yulaflı 4+ Ay Kaşık Maması 200 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1751440916939,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584932262,
+      "__unknown_productSubTitle": "Hipp Organik Yulaflı 4+ Ay Kaşık Maması 200 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 269356,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Son kullanım tarihi bir ay kalmış .",
+      "productTitle": "Hipp Organik Yulaflı 4+ Ay Kaşık Maması 200 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1653413162050,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 375629209,
+      "__unknown_productSubTitle": "Hipp Organik Yulaflı Ek Gıda Kaşık Maması 200 gr",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 269357,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "berbert bişey",
+      "productTitle": "Hipp Organik Yulaflı 4+ Ay Kaşık Maması 200 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1563910046786,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 201046975,
+      "__unknown_productSubTitle": "Adınıza Faturalı, Memnuniyet garantili.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

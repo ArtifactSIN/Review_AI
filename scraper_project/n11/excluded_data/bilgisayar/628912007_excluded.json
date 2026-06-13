@@ -1,0 +1,35 @@
+[
+  {
+    "gid_ref": 339847,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kobo Libra Colour 32 GB 7\" E Kitap Okuyucu Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770626134559,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/09/66/89/19/22/74/65/16/97/75/33180295101519673047.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628912007,
+      "__unknown_productSubTitle": "Kobo Libra Colour 32 GB 7\" E Kitap Okuyucu Siyah Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8342300,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/09/66/89/19/22/74/65/16/97/75/33180295101519673047.png"
+        },
+        {
+          "id": 8342302,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/09/87/69/43/10/38/16/88/44/67/72461114457561779308.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/09/66/89/19/22/74/65/16/97/75/33180295101519673047.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/09/66/89/19/22/74/65/16/97/75/33180295101519673047.png"
+    }
+  }
+]

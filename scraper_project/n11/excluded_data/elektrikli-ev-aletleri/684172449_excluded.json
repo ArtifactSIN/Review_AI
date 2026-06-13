@@ -1,0 +1,56 @@
+[
+  {
+    "gid_ref": 475480,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arzum AR3149 Teacharm 1.8 L Çay Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775737449173,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/09/49/00/64/98/35/38/65/58/92/77655251740709242481.png",
+      "__unknown_lastModifiedDate": 1775737449173,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684172449,
+      "__unknown_productSubTitle": "Arzum AR3149 Teacharm 1.8 L Çay Makinesi Gümüş - Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8584228,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/09/49/00/64/98/35/38/65/58/92/77655251740709242481.png"
+        },
+        {
+          "id": 8584229,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/09/82/25/67/53/85/36/99/00/10/32793867098505756909.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/09/49/00/64/98/35/38/65/58/92/77655251740709242481.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/09/49/00/64/98/35/38/65/58/92/77655251740709242481.png"
+    }
+  },
+  {
+    "gid_ref": 475481,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arzum AR3149 Teacharm 1.8 L Çay Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770564365545,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684172449,
+      "__unknown_productSubTitle": "Arzum AR3149 Teacharm 1.8 L Çay Makinesi Gümüş - Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 752376,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hp Blu-ray Bd-r 6x 25gb 10lu Cake Box - Bre00071-3",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757236332181,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 693375920,
+      "__unknown_productSubTitle": "Hp Blu-ray Bd-r 6x 25gb 10lu Cake Box - Bre00071-3 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 752377,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hp Blu-ray Bd-r 6x 25gb 10lu Cake Box - Bre00071-3",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757145588335,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/06/74/45/30/54/73/87/11/89/26/94161580995325181541.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 693375920,
+      "__unknown_productSubTitle": "Hp Blu-ray Bd-r 6x 25gb 10lu Cake Box - Bre00071-3 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7657559,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/06/74/45/30/54/73/87/11/89/26/94161580995325181541.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/06/74/45/30/54/73/87/11/89/26/94161580995325181541.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/06/74/45/30/54/73/87/11/89/26/94161580995325181541.png"
+    }
+  },
+  {
+    "gid_ref": 752378,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hp Blu-ray Bd-r 6x 25gb 10lu Cake Box - Bre00071-3",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756459229131,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 693375920,
+      "__unknown_productSubTitle": "Hp Blu-ray Bd-r 6x 25gb 10lu Cake Box - Bre00071-3 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1147567,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skoda Superb 2016-2019 Kamerası Bagaj Açma Kolu Tutamak Plakalık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766941519693,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 380176970,
+      "__unknown_productSubTitle": "Skoda Superb 2016-2019 Kamerası Bagaj Açma Kolu Tutamak Plakalık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1147568,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skoda Superb 2016-2019 Kamerası Bagaj Açma Kolu Tutamak Plakalık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697786664290,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/10/20/53/90/65/36/78/73/77/61/56/02161469877342746474.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 380176970,
+      "__unknown_productSubTitle": "Skoda Superb 2016-2019 Kamerası Bagaj Açma Kolu Tutamak Plakalık",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2575375,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/20/53/90/65/36/78/73/77/61/56/02161469877342746474.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/10/20/53/90/65/36/78/73/77/61/56/02161469877342746474.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/10/20/53/90/65/36/78/73/77/61/56/02161469877342746474.png"
+    }
+  }
+]

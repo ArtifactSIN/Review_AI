@@ -1,0 +1,133 @@
+[
+  {
+    "gid_ref": 839941,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Volum' Express Classic Ekstra Siyah Maskara",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1735940705102,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646206554,
+      "__unknown_productSubTitle": "Maybelline New York Volum' Express Classic Ekstra Siyah Maskara",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 839942,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Volum' Express Classic Ekstra Siyah Maskara",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726572839596,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599435588,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 839943,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Volum' Express Classic Ekstra Siyah Maskara",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713505337942,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599435588,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 839944,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Volum' Express Classic Ekstra Siyah Maskara",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697752098923,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/10/20/74/62/90/42/39/11/82/94/82/27842106541548158699.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 536706502,
+      "__unknown_productSubTitle": "Maybelline New York Volum' Express Classic Ekstra Siyah Maskara",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2576119,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/20/74/62/90/42/39/11/82/94/82/27842106541548158699.jpg"
+        },
+        {
+          "id": 2576120,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/20/89/11/11/47/16/19/23/55/82/2539731210530698688.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/10/20/74/62/90/42/39/11/82/94/82/27842106541548158699.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/10/20/74/62/90/42/39/11/82/94/82/27842106541548158699.jpg"
+    }
+  },
+  {
+    "gid_ref": 839945,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Volum' Express Classic Ekstra Siyah Maskara",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1623441963887,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 428928744,
+      "__unknown_productSubTitle": "Maybelline New York Volum' Express Classic Ekstra Siyah Maskara",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 839946,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "su gibi",
+      "productTitle": "Maybelline New York Volum' Express Classic Ekstra Siyah Maskara",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1593251584596,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 332522322,
+      "__unknown_productSubTitle": "Maybelline New York Volum' Express Classic Ekstra Siyah Maskara",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

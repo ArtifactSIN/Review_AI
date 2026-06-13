@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 124221,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oslo Shark 6000 Metal Kafa 5+1 Bilye Olta Makinası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767802584705,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654402117,
+      "__unknown_productSubTitle": "Oslo Shark 6000 Metal Kafa 5+1 Bilye Olta Makinası ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 124222,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oslo Shark 6000 Metal Kafa 5+1 Bilye Olta Makinası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766900044623,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654402117,
+      "__unknown_productSubTitle": "Oslo Shark 6000 Metal Kafa 5+1 Bilye Olta Makinası ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 124223,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oslo Shark 6000 Metal Kafa 5+1 Bilye Olta Makinası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763042366700,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/13/60/91/72/56/07/18/47/97/50/54372012400386751009.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654402117,
+      "__unknown_productSubTitle": "Oslo Shark 6000 Metal Kafa 5+1 Bilye Olta Makinası ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7964445,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/13/60/91/72/56/07/18/47/97/50/54372012400386751009.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/13/60/91/72/56/07/18/47/97/50/54372012400386751009.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/13/60/91/72/56/07/18/47/97/50/54372012400386751009.png"
+    }
+  }
+]

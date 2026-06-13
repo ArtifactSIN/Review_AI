@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1269675,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi Redmi Note 8 Pro Pil Batarya Bm4j Ve Tamir Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766426902058,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688026194,
+      "__unknown_productSubTitle": "Xiaomi Redmi Note 8 Pro Pil Batarya Bm4j Ve Tamir Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1269676,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi Redmi Note 8 Pro Pil Batarya Bm4j Ve Tamir Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1749772778760,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/13/78/44/40/02/01/16/85/86/19/02599373052117140569.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632320869,
+      "__unknown_productSubTitle": "Xiaomi Redmi Note 8 Pro Pil Batarya Bm4j Ve Tamir Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7321360,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/13/78/44/40/02/01/16/85/86/19/02599373052117140569.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/13/78/44/40/02/01/16/85/86/19/02599373052117140569.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/13/78/44/40/02/01/16/85/86/19/02599373052117140569.png"
+    }
+  },
+  {
+    "gid_ref": 1269677,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi Redmi Note 8 Pro Pil Batarya Bm4j Ve Tamir Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743104308306,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632320869,
+      "__unknown_productSubTitle": "Xiaomi Redmi Note 8 Pro Pil Batarya Bm4j Ve Tamir Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

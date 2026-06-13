@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 1023125,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nivea Pearl Beauty Soft Smooth Kadın Deodorant Sprey 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766607288119,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647701901,
+      "__unknown_productSubTitle": "Nivea Pearl Beauty Soft Smooth Kadın Deodorant Sprey 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1023126,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nivea Pearl Beauty Soft Smooth Kadın Deodorant Sprey 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764784814914,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647701901,
+      "__unknown_productSubTitle": "Nivea Pearl Beauty Soft Smooth Kadın Deodorant Sprey 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1023127,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nivea Pearl Beauty Soft Smooth Kadın Deodorant Sprey 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764661347471,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/02/86/63/97/32/68/27/50/78/06/83082247899423030147.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647701901,
+      "__unknown_productSubTitle": "Nivea Pearl Beauty Soft Smooth Kadın Deodorant Sprey 150 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8053743,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/02/86/63/97/32/68/27/50/78/06/83082247899423030147.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/02/86/63/97/32/68/27/50/78/06/83082247899423030147.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/02/86/63/97/32/68/27/50/78/06/83082247899423030147.jpg"
+    }
+  },
+  {
+    "gid_ref": 1023128,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nivea Pearl Beauty Soft Smooth Kadın Deodorant Sprey 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737471686319,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/21/60/03/62/28/95/25/90/18/61/43556297836028541487.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647701901,
+      "__unknown_productSubTitle": "Nivea Pearl Beauty Soft Smooth Kadın Deodorant Sprey 150 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6729428,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/21/60/03/62/28/95/25/90/18/61/43556297836028541487.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/21/60/03/62/28/95/25/90/18/61/43556297836028541487.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/21/60/03/62/28/95/25/90/18/61/43556297836028541487.jpg"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 170515,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Saban Vakumlu Ayaklı Banyo Oturağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697893920610,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 486883670,
+      "__unknown_productSubTitle": "Saban Vakumlu Ayaklı Banyo Oturağı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 170516,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Saban Vakumlu Ayaklı Banyo Oturağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1675087936007,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 486883670,
+      "__unknown_productSubTitle": "Saban Vakumlu Ayaklı Banyo Oturağı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

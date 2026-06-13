@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 1045421,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Professionnel Serie Expert Serioxyl Advanced Yoğunluk Kazandıran Şampuan 300 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764638701756,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/02/72/74/45/64/38/28/42/33/64/71961644751554168123.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575137066,
+      "__unknown_productSubTitle": "L'Oréal Professionnel Serie Expert Serioxyl Advanced Yoğunluk Kazandıran Şampuan 300 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8060216,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/02/72/74/45/64/38/28/42/33/64/71961644751554168123.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/02/72/74/45/64/38/28/42/33/64/71961644751554168123.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/02/72/74/45/64/38/28/42/33/64/71961644751554168123.jpg"
+    }
+  },
+  {
+    "gid_ref": 1045422,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Professionnel Serie Expert Serioxyl Advanced Yoğunluk Kazandıran Şampuan 300 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1740296930177,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577935087,
+      "__unknown_productSubTitle": "L'Oréal Professionnel Serie Expert Serioxyl Advanced Yoğunluk Kazandıran Şampuan 300 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1045423,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Professionnel Serie Expert Serioxyl Advanced Yoğunluk Kazandıran Şampuan 300 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730278769893,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579750940,
+      "__unknown_productSubTitle": "L'Oréal Professionnel Serie Expert Serioxyl Advanced Yoğunluk Kazandıran Şampuan 300 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1045424,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Professionnel Serie Expert Serioxyl Advanced Yoğunluk Kazandıran Şampuan 300 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719082796501,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579750940,
+      "__unknown_productSubTitle": "L'Oréal Professionnel Serie Expert Serioxyl Advanced Yoğunluk Kazandıran Şampuan 300 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

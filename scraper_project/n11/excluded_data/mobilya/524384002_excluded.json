@@ -1,0 +1,85 @@
+[
+  {
+    "gid_ref": 859205,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Moxen Mobilya Ceviz 4 Çekmeceli  Komodin",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1680035927240,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524384002,
+      "__unknown_productSubTitle": "Moxen Mobilya Ceviz 4 Çekmeceli  Komodin",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 859206,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "şifonyer",
+      "productTitle": "Moxen Mobilya Ceviz 4 Çekmeceli  Komodin",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1665931849976,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524384002,
+      "__unknown_productSubTitle": "Moxen Mobilya Ceviz 4 Çekmeceli  Komodin",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 859207,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Harika",
+      "productTitle": "Moxen Mobilya Ceviz 4 Çekmeceli  Komodin",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1655744117560,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524384002,
+      "__unknown_productSubTitle": "Moxen Mobilya Ceviz 4 Çekmeceli  Komodin",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 859208,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Tavsiye ederim",
+      "productTitle": "Moxen Mobilya Ceviz 4 Çekmeceli  Komodin",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1645631720956,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524384002,
+      "__unknown_productSubTitle": "Moxen Mobilya Ceviz 4 Çekmeceli  Komodin",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

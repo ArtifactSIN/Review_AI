@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 735251,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Trendeki Kız Girl On The Train DVD",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760696672053,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 193967995,
+      "__unknown_productSubTitle": "Trendeki Kız Girl On The Train DVD",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735252,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "The girl on the rain",
+      "productTitle": "Trendeki Kız Girl On The Train DVD",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1640776942907,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/21/12/29/59/90/07/65/65/18/45/36/15/22263140725149776838.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 193967995,
+      "__unknown_productSubTitle": "Trendeki Kız Girl On The Train DVD",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3264898,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/21/12/29/59/90/07/65/65/18/45/36/15/22263140725149776838.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/21/12/29/59/90/07/65/65/18/45/36/15/22263140725149776838.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/21/12/29/59/90/07/65/65/18/45/36/15/22263140725149776838.jpg"
+    }
+  }
+]

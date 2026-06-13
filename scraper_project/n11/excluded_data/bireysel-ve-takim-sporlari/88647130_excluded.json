@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 372377,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Leyaton Bilardo Tebeşiri ve Istaka Ucu Bilardo Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771942336062,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 88647130,
+      "__unknown_productSubTitle": "Leyaton Bilardo Tebeşiri ve Istaka Ucu Bilardo Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 372378,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Leyaton Bilardo Tebeşiri ve Istaka Ucu Bilardo Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1707474149475,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 88647130,
+      "__unknown_productSubTitle": "Leyaton Bilardo Tebeşiri ve Istaka Ucu Bilardo Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

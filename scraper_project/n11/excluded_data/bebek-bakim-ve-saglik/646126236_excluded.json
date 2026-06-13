@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 200518,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kirli Temiz Islak Organizer Çantası Melis Bebek Çocuk Kıyafet Çamaşır Anne Makyaj Alezli Çanta",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764266810224,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646126236,
+      "__unknown_productSubTitle": "Kirli Temiz Islak Organizer Çantası Melis Bebek Çocuk Kıyafet Çamaşır Anne Makyaj Alezli Çanta",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 200519,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kirli Temiz Islak Organizer Çantası Melis Bebek Çocuk Kıyafet Çamaşır Anne Makyaj Alezli Çanta",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761508136708,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/26/53/05/82/92/18/67/65/90/32/61146692628098469082.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646126236,
+      "__unknown_productSubTitle": "Kirli Temiz Islak Organizer Çantası Melis Bebek Çocuk Kıyafet Çamaşır Anne Makyaj Alezli Çanta",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7861561,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/26/53/05/82/92/18/67/65/90/32/61146692628098469082.png"
+        },
+        {
+          "id": 7861562,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/26/65/07/26/76/24/17/83/69/05/11696566963450721692.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/26/53/05/82/92/18/67/65/90/32/61146692628098469082.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/26/53/05/82/92/18/67/65/90/32/61146692628098469082.png"
+    }
+  }
+]

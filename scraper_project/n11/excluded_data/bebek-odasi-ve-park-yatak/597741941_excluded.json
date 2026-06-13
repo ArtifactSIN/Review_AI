@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 262457,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Holmen HLML05 Milas Sabitlenebilir Bebek Hamağı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744046816956,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594230804,
+      "__unknown_productSubTitle": "Holmen HLML05 Milas Sabitlenebilir Bebek Hamağı Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 262458,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Holmen HLML05 Milas Sabitlenebilir Bebek Hamağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743675953791,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 454829672,
+      "__unknown_productSubTitle": "Holmen HLML05 Milas Sabitlenebilir Bebek Hamağı Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 262459,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Holmen HLML05 Milas Sabitlenebilir Bebek Hamağı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1680601210618,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 568884564,
+      "__unknown_productSubTitle": "Holmen HLML05 Milas Sabitlenebilir Bebek Hamağı Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

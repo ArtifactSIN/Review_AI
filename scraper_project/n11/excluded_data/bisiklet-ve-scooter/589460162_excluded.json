@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 381809,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dahon 20x1.75 Dış Lastik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758002604630,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/16/53/11/95/51/45/26/70/37/05/42027618257700239972.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589460162,
+      "__unknown_productSubTitle": "Dahon 20x1.75 Dış Lastik",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7689225,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/16/53/11/95/51/45/26/70/37/05/42027618257700239972.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/16/53/11/95/51/45/26/70/37/05/42027618257700239972.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/16/53/11/95/51/45/26/70/37/05/42027618257700239972.png"
+    }
+  },
+  {
+    "gid_ref": 381810,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dahon 20x1.75 Dış Lastik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727871471310,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589460162,
+      "__unknown_productSubTitle": "Dahon 20x1.75 Dış Lastik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 381811,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dahon 20x1.75 Dış Lastik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1708282054552,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589460162,
+      "__unknown_productSubTitle": "Dahon 20x1.75 Dış Lastik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 836581,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Glimmerstick Dudak Kalemi Pink Bouquet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774417707135,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774417707135,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 549095861,
+      "__unknown_productSubTitle": "Avon Glimmerstick Dudak Kalemi Pink Bouquet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 836582,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Glimmerstick Dudak Kalemi Pink Bouquet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1716751402949,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/26/88/60/84/66/44/76/47/74/62/02778207107714991718.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 549095861,
+      "__unknown_productSubTitle": "Avon Glimmerstick Dudak Kalemi Pink Bouquet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4791532,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/26/88/60/84/66/44/76/47/74/62/02778207107714991718.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/26/88/60/84/66/44/76/47/74/62/02778207107714991718.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/26/88/60/84/66/44/76/47/74/62/02778207107714991718.png"
+    }
+  },
+  {
+    "gid_ref": 836583,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Glimmerstick Dudak Kalemi Pink Bouquet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1716405928696,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 549095861,
+      "__unknown_productSubTitle": "Avon Glimmerstick Dudak Kalemi Pink Bouquet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 836584,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Glimmerstick Dudak Kalemi Pink Bouquet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714490225483,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 549095861,
+      "__unknown_productSubTitle": "Avon Glimmerstick Dudak Kalemi Pink Bouquet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 836585,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Glimmerstick Dudak Kalemi Pink Bouquet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697889090133,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 549095861,
+      "__unknown_productSubTitle": "Avon Glimmerstick Dudak Kalemi Pink Bouquet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

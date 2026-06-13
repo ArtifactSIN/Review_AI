@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 1327661,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi 40e17155e55c Netflix Prime Video Youtube Tuşlu Ses Komutlu Kumanda",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775140505273,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775140505273,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655478279,
+      "__unknown_productSubTitle": "Xiaomi 40e17155e55c Netflix Prime Video Youtube Tuşlu Ses Komutlu Kumanda ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1327662,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi 40e17155e55c Netflix Prime Video Youtube Tuşlu Ses Komutlu Kumanda",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746553229946,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/06/68/61/97/79/78/62/39/14/06/78036943718154089184.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655478279,
+      "__unknown_productSubTitle": "Xiaomi 40e17155e55c Netflix Prime Video Youtube Tuşlu Ses Komutlu Kumanda ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7175918,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/06/68/61/97/79/78/62/39/14/06/78036943718154089184.png"
+        },
+        {
+          "id": 7175919,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/06/73/23/74/80/72/75/05/34/73/2162700116485192107.png"
+        },
+        {
+          "id": 7175920,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/06/82/85/20/67/09/66/66/82/02/9622180911480588007.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/06/68/61/97/79/78/62/39/14/06/78036943718154089184.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/06/68/61/97/79/78/62/39/14/06/78036943718154089184.png"
+    }
+  }
+]

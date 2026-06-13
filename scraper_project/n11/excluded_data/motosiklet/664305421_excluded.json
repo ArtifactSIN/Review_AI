@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 894689,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motosiklet Baykuş Mercek Sis Farı Takım",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771258684825,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664305421,
+      "__unknown_productSubTitle": "Motosiklet Baykuş Mercek Sis Farı Takım ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 894690,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motosiklet Baykuş Mercek Sis Farı Takım",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753792757191,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/29/53/01/66/61/34/70/29/70/59/52484190617407932239.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664305421,
+      "__unknown_productSubTitle": "Motosiklet Baykuş Mercek Sis Farı Takım ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7497681,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/29/53/01/66/61/34/70/29/70/59/52484190617407932239.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/29/53/01/66/61/34/70/29/70/59/52484190617407932239.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/29/53/01/66/61/34/70/29/70/59/52484190617407932239.png"
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1490423,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Niloya Ahşap Puzzle - Kıyafetlerim",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719394232604,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 413352888,
+      "__unknown_productSubTitle": "Niloya Ahşap Puzzle - Kıyafetlerim",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1490424,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Niloya Ahşap Puzzle - Kıyafetlerim",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1678372306122,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 413352888,
+      "__unknown_productSubTitle": "Niloya Ahşap Puzzle - Kıyafetlerim",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1490425,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Gönül rahatlığı ile alabilirsiniz",
+      "productTitle": "Niloya Ahşap Puzzle - Kıyafetlerim",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1652433892805,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/05/13/65/18/91/40/63/36/49/45/67/12752437255696988137.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 413352888,
+      "__unknown_productSubTitle": "Niloya Ahşap Puzzle - Kıyafetlerim",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 626813,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/05/13/65/18/91/40/63/36/49/45/67/12752437255696988137.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/05/13/65/18/91/40/63/36/49/45/67/12752437255696988137.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/05/13/65/18/91/40/63/36/49/45/67/12752437255696988137.jpeg"
+    }
+  }
+]

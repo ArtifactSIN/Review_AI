@@ -1,0 +1,56 @@
+[
+  {
+    "gid_ref": 1161844,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kronometre Öğrenci Saati - Kronometreli Ders Çalışma Saati",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774967536147,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/72/50/82/42/56/83/42/54/00/74145444871670220674.png",
+      "__unknown_lastModifiedDate": 1774967536147,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 729828717,
+      "__unknown_productSubTitle": "Kronometre Öğrenci Saati - Kronometreli Ders Çalışma Saati ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8541918,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/72/50/82/42/56/83/42/54/00/74145444871670220674.png"
+        },
+        {
+          "id": 8541919,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/77/86/13/88/81/08/27/95/33/41517453672388932905.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/72/50/82/42/56/83/42/54/00/74145444871670220674.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/72/50/82/42/56/83/42/54/00/74145444871670220674.png"
+    }
+  },
+  {
+    "gid_ref": 1161845,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kronometre Öğrenci Saati - Kronometreli Ders Çalışma Saati",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770396492457,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724241335,
+      "__unknown_productSubTitle": "Kronometre Öğrenci Saati - Kronometreli Ders Çalışma Saati ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

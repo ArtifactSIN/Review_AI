@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 536195,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-375 3 in 1 Tıraş Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762287067634,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702091232,
+      "__unknown_productSubTitle": "Powertec TR-375 3 in 1 Tıraş Makinesi Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 536196,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-375 3 in 1 Tıraş Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747500885672,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664859754,
+      "__unknown_productSubTitle": "Powertec TR-375 3 in 1 Tıraş Makinesi Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

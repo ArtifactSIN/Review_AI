@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 535116,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Fusion Proglide Yedek Tıraş Bıçağı 4'lü 4987176103475",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766363019847,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 692832088,
+      "__unknown_productSubTitle": "Gillette Fusion Proglide Yedek Tıraş Bıçağı 4'lü 4987176103475 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 535117,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Fusion Proglide Yedek Tıraş Bıçağı 4'lü 4987176103475",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1740783796183,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650667090,
+      "__unknown_productSubTitle": "Gillette Fusion Proglide Yedek Tıraş Bıçağı 4'lü 4987176103475 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 120176,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Daiwa Sweepfire Mini 2.40M 20-50Gr Teleskopik Spin Olta Kamışı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1698749945110,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566165281,
+      "__unknown_productSubTitle": "Daiwa Sweepfire Mini 2.40M 20-50Gr Teleskopik Spin Olta Kamışı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 120177,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Daiwa Sweepfire Mini 2.40M 20-50Gr Teleskopik Spin Olta Kamışı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1674123650469,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 362192812,
+      "__unknown_productSubTitle": "Daiwa Sweepfire Mini 2.40M 20-50Gr Teleskopik Spin Olta Kamışı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

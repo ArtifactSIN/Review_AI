@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 195920,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyton Silikon Bebek Diş Fırçası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770214709280,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724829883,
+      "__unknown_productSubTitle": "Babyton Silikon Bebek Diş Fırçası Açık Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 195921,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyton Silikon Bebek Diş Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725991210203,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/10/86/01/49/43/11/52/98/65/15/12759267551643874141.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604474533,
+      "__unknown_productSubTitle": "Babyton Silikon Bebek Diş Fırçası Açık Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5628585,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/10/86/01/49/43/11/52/98/65/15/12759267551643874141.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/10/86/01/49/43/11/52/98/65/15/12759267551643874141.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/10/86/01/49/43/11/52/98/65/15/12759267551643874141.jpg"
+    }
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "gid_ref": 87893,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Araç İçi Mavi Işıklı Metal Küllük Krom Renk Kapaklı Yanmaz Koku Geçirmez",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774941092294,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/83/35/15/91/93/57/93/00/20/05434506380031472892.png",
+      "__unknown_lastModifiedDate": 1774941092294,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629236678,
+      "__unknown_productSubTitle": "Araç İçi Mavi Işıklı Metal Küllük Krom Renk Kapaklı Yanmaz Koku Geçirmez ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8532891,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/83/35/15/91/93/57/93/00/20/05434506380031472892.png"
+        },
+        {
+          "id": 8532892,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/72/82/10/26/79/58/42/74/44/06402446598080870899.png"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/83/35/15/91/93/57/93/00/20/05434506380031472892.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/83/35/15/91/93/57/93/00/20/05434506380031472892.png"
+    }
+  },
+  {
+    "gid_ref": 87894,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Araç İçi Mavi Işıklı Metal Küllük Krom Renk Kapaklı Yanmaz Koku Geçirmez",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736360590582,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629236678,
+      "__unknown_productSubTitle": "Araç İçi Mavi Işıklı Metal Küllük Krom Renk Kapaklı Yanmaz Koku Geçirmez ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 87895,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Araç İçi Mavi Işıklı Metal Küllük Krom Renk Kapaklı Yanmaz Koku Geçirmez",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728739282459,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629236678,
+      "__unknown_productSubTitle": "Araç İçi Mavi Işıklı Metal Küllük Krom Renk Kapaklı Yanmaz Koku Geçirmez ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

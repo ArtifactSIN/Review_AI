@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 1329167,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "5 Adet - Akıllı Kodlanabilir Otopark Bariyer Garaj Kepenk Kumandası 433mhz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775074980363,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/49/20/14/32/97/26/05/79/54/9229314926400943892.jpg",
+      "__unknown_lastModifiedDate": 1775074980363,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 723280952,
+      "__unknown_productSubTitle": "5 Adet - Akıllı Kodlanabilir Otopark Bariyer Garaj Kepenk Kumandası 433mhz ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8556073,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/49/20/14/32/97/26/05/79/54/9229314926400943892.jpg"
+        },
+        {
+          "id": 8556074,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/58/87/33/96/89/91/82/51/54/37671128316477916455.jpg"
+        },
+        {
+          "id": 8556075,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/76/10/95/00/54/72/21/47/69/21435364405433119124.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/49/20/14/32/97/26/05/79/54/9229314926400943892.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/49/20/14/32/97/26/05/79/54/9229314926400943892.jpg"
+    }
+  },
+  {
+    "gid_ref": 1329168,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "5 Adet - Akıllı Kodlanabilir Otopark Bariyer Garaj Kepenk Kumandası 433mhz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770824974519,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 723280952,
+      "__unknown_productSubTitle": "5 Adet - Akıllı Kodlanabilir Otopark Bariyer Garaj Kepenk Kumandası 433mhz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

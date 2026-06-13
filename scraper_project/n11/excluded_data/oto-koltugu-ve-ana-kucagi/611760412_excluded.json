@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 947858,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Convers Oto Koltuğu Yükseltici 15-36 KG",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1717623282275,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/06/80/23/57/74/72/92/22/47/79/83532693918516296782.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 574538491,
+      "__unknown_productSubTitle": "Convers Oto Koltuğu Yükseltici 15-36 KG Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4891001,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/06/80/23/57/74/72/92/22/47/79/83532693918516296782.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/06/80/23/57/74/72/92/22/47/79/83532693918516296782.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/06/80/23/57/74/72/92/22/47/79/83532693918516296782.jpg"
+    }
+  },
+  {
+    "gid_ref": 947859,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Convers Oto Koltuğu Yükseltici 15-36 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1692818146054,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559437579,
+      "__unknown_productSubTitle": "Convers Oto Koltuğu Yükseltici 15-36 KG Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947860,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Convers Oto Koltuğu Yükseltici 15-36 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1674837968007,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559437579,
+      "__unknown_productSubTitle": "Convers Oto Koltuğu Yükseltici 15-36 KG Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947861,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Convers Oto Koltuğu Yükseltici 15-36 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1673609180993,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559437579,
+      "__unknown_productSubTitle": "Convers Oto Koltuğu Yükseltici 15-36 KG Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

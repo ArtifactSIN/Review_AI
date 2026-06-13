@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 260943,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yataş Bedding First Dream Bebek Yatak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763564837048,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 460899693,
+      "__unknown_productSubTitle": "Yataş Bedding First Dream Bebek Yatak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 260944,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel ürün",
+      "productTitle": "Yataş Bedding First Dream Bebek Yatak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1636528089585,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 460899693,
+      "__unknown_productSubTitle": "Yataş Bedding First Dream Bebek Yatak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 260945,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Beklentinizi karşılar",
+      "productTitle": "Yataş Bedding First Dream Bebek Yatak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1628326580863,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/21/08/07/53/20/29/42/77/64/12/16/91/3449295188500892654.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 460899693,
+      "__unknown_productSubTitle": "Yataş Bedding First Dream Bebek Yatak",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2983297,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/21/08/07/53/20/29/42/77/64/12/16/91/3449295188500892654.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/21/08/07/53/20/29/42/77/64/12/16/91/3449295188500892654.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/21/08/07/53/20/29/42/77/64/12/16/91/3449295188500892654.jpg"
+    }
+  }
+]

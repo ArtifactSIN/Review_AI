@@ -1,0 +1,68 @@
+[
+  {
+    "gid_ref": 491776,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Schafer E00483 Grand Grill Tost ve Izgara Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774363434604,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/24/63/55/77/88/43/18/95/90/12/76352358687702535217.jpg",
+      "__unknown_lastModifiedDate": 1774363434604,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 736432576,
+      "__unknown_productSubTitle": "Schafer E00483 Grand Grill Tost ve Izgara Makinesi Inox",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8499681,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/24/63/55/77/88/43/18/95/90/12/76352358687702535217.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/24/63/55/77/88/43/18/95/90/12/76352358687702535217.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/24/63/55/77/88/43/18/95/90/12/76352358687702535217.jpg"
+    }
+  },
+  {
+    "gid_ref": 491777,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Schafer E00483 Grand Grill Tost ve Izgara Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773731415139,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/17/52/09/93/94/60/37/88/52/23/5320241756554611775.png",
+      "__unknown_lastModifiedDate": 1773731415139,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 736432576,
+      "__unknown_productSubTitle": "Schafer E00483 Grand Grill Tost ve Izgara Makinesi Inox",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8477315,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/17/52/09/93/94/60/37/88/52/23/5320241756554611775.png"
+        },
+        {
+          "id": 8477316,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/17/64/28/44/62/61/89/86/02/89/86188349639427313029.png"
+        },
+        {
+          "id": 8477317,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/17/61/13/95/00/73/43/93/04/60/41752021721674631950.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/17/52/09/93/94/60/37/88/52/23/5320241756554611775.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/17/52/09/93/94/60/37/88/52/23/5320241756554611775.png"
+    }
+  }
+]

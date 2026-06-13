@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 945218,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cherub Wst-2058B Clip On Tuner Akort Aleti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741192887755,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 529871603,
+      "__unknown_productSubTitle": "Cherub Wst-2058B Clip On Tuner Akort Aleti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 945219,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cherub Wst-2058B Clip On Tuner Akort Aleti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737293561097,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/19/63/79/65/24/89/22/35/50/50/83720641235331336741.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 529871603,
+      "__unknown_productSubTitle": "Cherub Wst-2058B Clip On Tuner Akort Aleti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6726263,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/19/63/79/65/24/89/22/35/50/50/83720641235331336741.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/19/63/79/65/24/89/22/35/50/50/83720641235331336741.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/19/63/79/65/24/89/22/35/50/50/83720641235331336741.png"
+    }
+  },
+  {
+    "gid_ref": 945220,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Tuner",
+      "productTitle": "Cherub Wst-2058B Clip On Tuner Akort Aleti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1652812652923,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 529871603,
+      "__unknown_productSubTitle": "Cherub Wst-2058B Clip On Tuner Akort Aleti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

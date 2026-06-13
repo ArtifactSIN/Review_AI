@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 1342223,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kullanılmış ikinci el ürün",
+      "productTitle": "Nba 2K18 PS3 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1663714140755,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552291538,
+      "__unknown_productSubTitle": "Nba 2K18 PS3 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "gid_ref": 577528,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Little Big Ltb Sıraba Basıc Jogger Eşofman Altı Antrasit",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775793833414,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/10/72/56/53/53/87/60/23/00/81/56584146463235131869.jpg",
+      "__unknown_lastModifiedDate": 1775793833414,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 720914933,
+      "__unknown_productSubTitle": "Little Big Ltb Sıraba Basıc Jogger Eşofman Altı Antrasit 2XL",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8594302,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/72/56/53/53/87/60/23/00/81/56584146463235131869.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/10/72/56/53/53/87/60/23/00/81/56584146463235131869.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/10/72/56/53/53/87/60/23/00/81/56584146463235131869.jpg"
+    }
+  },
+  {
+    "gid_ref": 577529,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Little Big Ltb Sıraba Basıc Jogger Eşofman Altı Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775144407972,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/02/79/33/92/43/53/75/08/69/22/7211605032098837919.png",
+      "__unknown_lastModifiedDate": 1775144407972,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 720914909,
+      "__unknown_productSubTitle": "Little Big Ltb Sıraba Basıc Jogger Eşofman Altı Antrasit S",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8560031,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/79/33/92/43/53/75/08/69/22/7211605032098837919.png"
+        },
+        {
+          "id": 8560032,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/66/15/19/88/00/73/54/75/40/32524297572891015618.png"
+        },
+        {
+          "id": 8560033,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/88/03/84/07/24/56/06/87/11/9910096635217821145.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/02/79/33/92/43/53/75/08/69/22/7211605032098837919.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/02/79/33/92/43/53/75/08/69/22/7211605032098837919.png"
+    }
+  }
+]

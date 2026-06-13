@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 750754,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Canon Pixma IX6850 WIFI Fotoğraf Yazıcısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747053348697,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 459700894,
+      "__unknown_productSubTitle": "Canon Pixma IX6850 WIFI Fotoğraf Yazıcısı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 750755,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Canon Pixma IX6850 WIFI Fotoğraf Yazıcısı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1742930979958,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/25/83/92/57/04/81/32/49/07/18/81010138307121988213.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605698660,
+      "__unknown_productSubTitle": "Canon Pixma IX6850 WIFI Fotoğraf Yazıcısı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7017610,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/25/83/92/57/04/81/32/49/07/18/81010138307121988213.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/25/83/92/57/04/81/32/49/07/18/81010138307121988213.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/25/83/92/57/04/81/32/49/07/18/81010138307121988213.png"
+    }
+  },
+  {
+    "gid_ref": 750756,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Canon Pixma IX6850 WIFI Fotoğraf Yazıcısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738231587593,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 459700894,
+      "__unknown_productSubTitle": "Canon Pixma IX6850 WIFI Fotoğraf Yazıcısı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 750757,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Canon Pixma IX6850 WIFI Fotoğraf Yazıcısı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726603563670,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605698660,
+      "__unknown_productSubTitle": "Canon Pixma IX6850 WIFI Fotoğraf Yazıcısı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 750758,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Canon Pixma IX6850 WIFI Fotoğraf Yazıcısı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1714472363512,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600343044,
+      "__unknown_productSubTitle": "Canon Pixma IX6850 WIFI Fotoğraf Yazıcısı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 816048,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "0'dan Başla Start Matematik Şenol Hoca / Şenol Hoca",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770327509515,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 725877486,
+      "__unknown_productSubTitle": "0'dan Başla Start Matematik Şenol Hoca / Şenol Hoca ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 816049,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "0'dan Başla Start Matematik Şenol Hoca / Şenol Hoca",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765732262016,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/14/61/96/62/34/63/68/93/04/19/13339408137567124034.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 698346392,
+      "__unknown_productSubTitle": "0'dan Başla Start Matematik Şenol Hoca / Şenol Hoca ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8116285,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/14/61/96/62/34/63/68/93/04/19/13339408137567124034.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/14/61/96/62/34/63/68/93/04/19/13339408137567124034.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/14/61/96/62/34/63/68/93/04/19/13339408137567124034.png"
+    }
+  },
+  {
+    "gid_ref": 816050,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "0'dan Başla Start Matematik Şenol Hoca / Şenol Hoca",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764504293442,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 698346392,
+      "__unknown_productSubTitle": "0'dan Başla Start Matematik Şenol Hoca / Şenol Hoca ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 816051,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "0'dan Başla Start Matematik Şenol Hoca / Şenol Hoca",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763719629056,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 698346392,
+      "__unknown_productSubTitle": "0'dan Başla Start Matematik Şenol Hoca / Şenol Hoca ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 816052,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "0'dan Başla Start Matematik Şenol Hoca / Şenol Hoca",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762885238714,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 698346392,
+      "__unknown_productSubTitle": "0'dan Başla Start Matematik Şenol Hoca / Şenol Hoca ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

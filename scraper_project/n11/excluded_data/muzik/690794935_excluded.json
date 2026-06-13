@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 947045,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vatan 3046 Döküm Çatlak Boyalı Darbuka",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764505200125,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/30/51/90/25/39/57/21/22/86/71/25908362482135550500.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690794935,
+      "__unknown_productSubTitle": "Vatan 3046 Döküm Çatlak Boyalı Darbuka",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8045083,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/30/51/90/25/39/57/21/22/86/71/25908362482135550500.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/30/51/90/25/39/57/21/22/86/71/25908362482135550500.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/30/51/90/25/39/57/21/22/86/71/25908362482135550500.png"
+    }
+  }
+]

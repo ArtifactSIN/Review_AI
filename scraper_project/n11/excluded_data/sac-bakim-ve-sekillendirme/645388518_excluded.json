@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1056351,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Koleston Naturals 11/7 Vanilya Sarısı Saç Boyası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774460018946,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774460018946,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645388518,
+      "__unknown_productSubTitle": "Koleston Naturals 11/7 Vanilya Sarısı Saç Boyası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1056352,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Koleston Naturals 11/7 Vanilya Sarısı Saç Boyası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763547490380,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645388518,
+      "__unknown_productSubTitle": "Koleston Naturals 11/7 Vanilya Sarısı Saç Boyası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1056353,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Koleston Naturals 11/7 Vanilya Sarısı Saç Boyası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1699987618878,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/11/14/48/84/11/61/70/73/38/43/12/09017618684473226361.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 565059343,
+      "__unknown_productSubTitle": "Koleston Naturals 11/7 Vanilya Sarısı Saç Boyası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2716069,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/11/14/48/84/11/61/70/73/38/43/12/09017618684473226361.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/11/14/48/84/11/61/70/73/38/43/12/09017618684473226361.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/11/14/48/84/11/61/70/73/38/43/12/09017618684473226361.png"
+    }
+  }
+]

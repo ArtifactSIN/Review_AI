@@ -1,0 +1,80 @@
+[
+  {
+    "gid_ref": 901107,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ncr-158 Çene Açılır Gözlüklü Ece Belgeli Kask Nardo Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774891926961,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774891926961,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 714460669,
+      "__unknown_productSubTitle": "Ncr-158 Çene Açılır Gözlüklü Ece Belgeli Kask Nardo Gri XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 901108,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ncr-158 Çene Açılır Gözlüklü Ece Belgeli Kask Nardo Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767396580461,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/03/58/21/69/49/18/52/16/55/80/41452305478894009185.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 714460559,
+      "__unknown_productSubTitle": "Ncr-158 Çene Açılır Gözlüklü Ece Belgeli Kask Nardo Gri S",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8208767,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/03/58/21/69/49/18/52/16/55/80/41452305478894009185.png"
+        },
+        {
+          "id": 8208768,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/03/58/35/12/47/84/78/77/53/92/46083255610624097877.png"
+        },
+        {
+          "id": 8208769,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/03/71/06/31/97/23/41/56/08/43/55221455758966736901.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/03/58/21/69/49/18/52/16/55/80/41452305478894009185.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/03/58/21/69/49/18/52/16/55/80/41452305478894009185.png"
+    }
+  },
+  {
+    "gid_ref": 901109,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ncr-158 Çene Açılır Gözlüklü Ece Belgeli Kask Nardo Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762868096443,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 714460629,
+      "__unknown_productSubTitle": "Ncr-158 Çene Açılır Gözlüklü Ece Belgeli Kask Nardo Gri L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

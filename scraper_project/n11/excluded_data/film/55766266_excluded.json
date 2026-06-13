@@ -1,0 +1,104 @@
+[
+  {
+    "gid_ref": 735563,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tarzan 3D Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733335516391,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 55766266,
+      "__unknown_productSubTitle": "Tarzan 3D Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735564,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tarzan 3D Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726811481670,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 55766266,
+      "__unknown_productSubTitle": "Tarzan 3D Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735565,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tarzan 3D Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715433131423,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 55766266,
+      "__unknown_productSubTitle": "Tarzan 3D Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735566,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Çok İyi",
+      "productTitle": "Tarzan 3D Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1545649202978,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 55766266,
+      "__unknown_productSubTitle": "Tarzan 3D Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735567,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Best of",
+      "productTitle": "Tarzan 3D Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1458984685090,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 55766266,
+      "__unknown_productSubTitle": "Tarzan 3D Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 1238418,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wonderful Honey Ballı Macun 12 x 16 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722299768083,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/30/56/00/25/76/05/97/03/93/99/32131376710720702392.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602052541,
+      "__unknown_productSubTitle": "Wonderful Honey Ballı Macun 12 x 16 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5289740,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/30/56/00/25/76/05/97/03/93/99/32131376710720702392.png"
+        },
+        {
+          "id": 5289741,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/30/63/55/80/67/09/16/68/05/15/75661898214530593790.png"
+        },
+        {
+          "id": 5289742,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/30/54/11/48/41/55/78/97/04/45/67781297377697678842.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/30/56/00/25/76/05/97/03/93/99/32131376710720702392.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/30/56/00/25/76/05/97/03/93/99/32131376710720702392.png"
+    }
+  },
+  {
+    "gid_ref": 1238419,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wonderful Honey Ballı Macun 12 x 16 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722299162554,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/30/83/02/87/05/84/63/53/02/44/74049545142491853740.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602052541,
+      "__unknown_productSubTitle": "Wonderful Honey Ballı Macun 12 x 16 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5291751,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/30/83/02/87/05/84/63/53/02/44/74049545142491853740.png"
+        },
+        {
+          "id": 5291752,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/30/69/52/80/29/57/17/91/17/47/62807798035250394819.png"
+        },
+        {
+          "id": 5291753,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/30/62/32/47/07/33/73/21/17/63/93368730525393963466.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/30/83/02/87/05/84/63/53/02/44/74049545142491853740.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/30/83/02/87/05/84/63/53/02/44/74049545142491853740.png"
+    }
+  }
+]

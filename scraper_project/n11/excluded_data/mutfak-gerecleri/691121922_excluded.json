@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 933422,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Korkmaz Astra2 Tava 20x5 Cm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763401142070,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639699078,
+      "__unknown_productSubTitle": "Korkmaz Astra2 Tava 20x5 Cm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 933423,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Korkmaz Astra2 Tava 20x5 Cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757836525705,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594219724,
+      "__unknown_productSubTitle": "Korkmaz Astra2 Tava 20x5 Cm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

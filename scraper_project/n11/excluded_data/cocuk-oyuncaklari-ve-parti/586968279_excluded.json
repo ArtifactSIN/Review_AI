@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 394236,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bruder Caterpillar Paletli Ekskavatör Br02483",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759516499321,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/03/52/63/79/68/21/12/22/78/59/01203811654379914445.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586968279,
+      "__unknown_productSubTitle": "Bruder Caterpillar Paletli Ekskavatör Br02483",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7750635,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/03/52/63/79/68/21/12/22/78/59/01203811654379914445.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/03/52/63/79/68/21/12/22/78/59/01203811654379914445.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/03/52/63/79/68/21/12/22/78/59/01203811654379914445.jpg"
+    }
+  },
+  {
+    "gid_ref": 394237,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bruder Caterpillar Paletli Ekskavatör Br02483",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1751908296526,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586968279,
+      "__unknown_productSubTitle": "Bruder Caterpillar Paletli Ekskavatör Br02483",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 394238,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bruder Caterpillar Paletli Ekskavatör Br02483",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742242202402,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586968279,
+      "__unknown_productSubTitle": "Bruder Caterpillar Paletli Ekskavatör Br02483",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 394239,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bruder Caterpillar Paletli Ekskavatör Br02483",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740155869625,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586968279,
+      "__unknown_productSubTitle": "Bruder Caterpillar Paletli Ekskavatör Br02483",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

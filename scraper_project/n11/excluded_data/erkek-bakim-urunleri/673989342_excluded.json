@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 530494,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Redone Tıraş Makinesi Temizleme Yağı 200Ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774439338730,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774439338730,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 673989342,
+      "__unknown_productSubTitle": "Redone Tıraş Makinesi Temizleme Yağı 200Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 530495,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Redone Tıraş Makinesi Temizleme Yağı 200Ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732213720040,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582767841,
+      "__unknown_productSubTitle": "Redone Tıraş Makinesi Temizleme Yağı 200Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 530496,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Redone Tıraş Makinesi Temizleme Yağı 200Ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1699978822293,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/11/14/91/08/12/51/68/29/47/26/16/82062131963128467310.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582767841,
+      "__unknown_productSubTitle": "Redone Tıraş Makinesi Temizleme Yağı 200Ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2720561,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/11/14/91/08/12/51/68/29/47/26/16/82062131963128467310.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/11/14/91/08/12/51/68/29/47/26/16/82062131963128467310.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/11/14/91/08/12/51/68/29/47/26/16/82062131963128467310.png"
+    }
+  },
+  {
+    "gid_ref": 530497,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Redone Tıraş Makinesi Temizleme Yağı 200Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1672995190858,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 490851060,
+      "__unknown_productSubTitle": "Redone Tıraş Makinesi Temizleme Yağı 200Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 530498,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Redone Tıraş Makinesi Temizleme Yağı 200Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1632351848290,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 490851060,
+      "__unknown_productSubTitle": "Redone Tıraş Makinesi Temizleme Yağı 200Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

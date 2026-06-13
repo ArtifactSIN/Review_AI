@@ -1,0 +1,138 @@
+[
+  {
+    "gid_ref": 1091582,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "EDX MULTI KOLLAJEN",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739007418517,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562709800,
+      "__unknown_productSubTitle": "EDX MULTI KOLLAJEN",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1091583,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "EDX MULTI KOLLAJEN",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731612122751,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562709800,
+      "__unknown_productSubTitle": "EDX MULTI KOLLAJEN",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1091584,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "EDX MULTI KOLLAJEN",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1722416910806,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/31/73/65/16/40/49/73/84/42/00/96848855801596366191.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562709800,
+      "__unknown_productSubTitle": "EDX MULTI KOLLAJEN",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5303131,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/31/73/65/16/40/49/73/84/42/00/96848855801596366191.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/31/73/65/16/40/49/73/84/42/00/96848855801596366191.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/31/73/65/16/40/49/73/84/42/00/96848855801596366191.jpg"
+    }
+  },
+  {
+    "gid_ref": 1091585,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "EDX MULTI KOLLAJEN",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715352214952,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562709800,
+      "__unknown_productSubTitle": "EDX MULTI KOLLAJEN",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1091586,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "EDX MULTI KOLLAJEN",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709222104650,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562709800,
+      "__unknown_productSubTitle": "EDX MULTI KOLLAJEN",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1091587,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "EDX MULTI KOLLAJEN",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1698571868269,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/10/29/91/15/50/00/80/11/02/84/25/61259700586323855355.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562709800,
+      "__unknown_productSubTitle": "EDX MULTI KOLLAJEN",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2642669,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/29/91/15/50/00/80/11/02/84/25/61259700586323855355.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/10/29/91/15/50/00/80/11/02/84/25/61259700586323855355.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/10/29/91/15/50/00/80/11/02/84/25/61259700586323855355.png"
+    }
+  }
+]

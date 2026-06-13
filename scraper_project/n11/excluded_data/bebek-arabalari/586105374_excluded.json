@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 179733,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bebek Arabası Yağmurluğu J81 Şeffaf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710935062585,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750657673996,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586105374,
+      "__unknown_productSubTitle": "Bebek Arabası Yağmurluğu J81 Şeffaf ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 179734,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bebek Arabası Yağmurluğu J81 Şeffaf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1695104855303,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/09/19/89/62/25/52/84/98/66/81/52/27457808311556263145.jpg",
+      "__unknown_lastModifiedDate": 1750657673996,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586105374,
+      "__unknown_productSubTitle": "Bebek Arabası Yağmurluğu J81 Şeffaf ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2402162,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/09/19/62/57/87/35/96/13/66/07/09/24553026027709575441.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/09/19/89/62/25/52/84/98/66/81/52/27457808311556263145.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/09/19/89/62/25/52/84/98/66/81/52/27457808311556263145.jpg"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 814529,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "40 Geceye 40 Masal / Yavuz Bahadıroğlu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729538837593,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/21/89/81/64/36/09/33/85/07/58/92544889231691039778.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 255832115,
+      "__unknown_productSubTitle": "40 Geceye 40 Masal / Yavuz Bahadıroğlu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5982542,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/21/89/81/64/36/09/33/85/07/58/92544889231691039778.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/21/89/81/64/36/09/33/85/07/58/92544889231691039778.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/21/89/81/64/36/09/33/85/07/58/92544889231691039778.png"
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 756378,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çam Sakızı Ilık El Ağdası 240 G 8'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767454556735,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 541906265,
+      "__unknown_productSubTitle": "Çam Sakızı Ilık El Ağdası 240 G 8'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 756379,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çam Sakızı Ilık El Ağdası 240 G 8'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762433196341,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 310863843,
+      "__unknown_productSubTitle": "Çam Sakızı Ilık El Ağdası 240 G 8'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 756380,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çam Sakızı Ilık El Ağdası 240 G 8'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747839499272,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 310863843,
+      "__unknown_productSubTitle": "Çam Sakızı Ilık El Ağdası 240 G 8'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 756381,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çam Sakızı Ilık El Ağdası 240 G 8'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747056568814,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/12/61/93/91/64/90/64/70/02/45/18424491000237411184.JPG",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 310863843,
+      "__unknown_productSubTitle": "Çam Sakızı Ilık El Ağdası 240 G 8'li",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7196568,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/12/61/93/91/64/90/64/70/02/45/18424491000237411184.JPG"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/12/61/93/91/64/90/64/70/02/45/18424491000237411184.JPG",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/12/61/93/91/64/90/64/70/02/45/18424491000237411184.JPG"
+    }
+  },
+  {
+    "gid_ref": 756382,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çam Sakızı Ilık El Ağdası 240 G 8'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720035020531,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 541906265,
+      "__unknown_productSubTitle": "Çam Sakızı Ilık El Ağdası 240 G 8'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

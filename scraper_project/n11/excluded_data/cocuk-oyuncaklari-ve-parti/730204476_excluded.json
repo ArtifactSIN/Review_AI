@@ -1,0 +1,77 @@
+[
+  {
+    "gid_ref": 402200,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toyx Ağlayan Konuşan Et Bebek 28 cm Mavi – Sesli Oyuncak Bebek",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772738799176,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/05/56/73/12/97/58/96/75/27/91/62190134134589405549.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730204476,
+      "__unknown_productSubTitle": "Toyx Ağlayan Konuşan Et Bebek 28 cm Mavi – Sesli Oyuncak Bebek",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8441757,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/05/56/73/12/97/58/96/75/27/91/62190134134589405549.png"
+        },
+        {
+          "id": 8441758,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/05/89/14/03/70/01/12/85/74/63/56313297543033630881.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/05/56/73/12/97/58/96/75/27/91/62190134134589405549.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/05/56/73/12/97/58/96/75/27/91/62190134134589405549.png"
+    }
+  },
+  {
+    "gid_ref": 402201,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toyx Ağlayan Konuşan Et Bebek 28 cm Mavi – Sesli Oyuncak Bebek",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772563519997,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730204476,
+      "__unknown_productSubTitle": "Toyx Ağlayan Konuşan Et Bebek 28 cm Mavi – Sesli Oyuncak Bebek",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 402202,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toyx Ağlayan Konuşan Et Bebek 28 cm Mavi – Sesli Oyuncak Bebek",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771794969693,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730204476,
+      "__unknown_productSubTitle": "Toyx Ağlayan Konuşan Et Bebek 28 cm Mavi – Sesli Oyuncak Bebek",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

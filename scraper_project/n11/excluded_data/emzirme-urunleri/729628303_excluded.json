@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 499388,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bebsi Süt Saklama Poşeti 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762120349340,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587282481,
+      "__unknown_productSubTitle": "Bebsi Süt Saklama Poşeti 10'lu Şeffaf",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 499389,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bebsi Süt Saklama Poşeti 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1710268017429,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/12/67/27/32/55/17/20/42/75/74/39055807467597021215.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587282481,
+      "__unknown_productSubTitle": "Bebsi Süt Saklama Poşeti 10'lu Şeffaf",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4108031,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/12/67/27/32/55/17/20/42/75/74/39055807467597021215.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/12/67/27/32/55/17/20/42/75/74/39055807467597021215.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/12/67/27/32/55/17/20/42/75/74/39055807467597021215.png"
+    }
+  }
+]

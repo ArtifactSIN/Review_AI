@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 368834,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wilson Us Open XD 3'lü 2 Kutu Tenis Topu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1740236236073,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 550400119,
+      "__unknown_productSubTitle": "Wilson Us Open XD 3'lü 2 Kutu Tenis Topu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 368835,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wilson Us Open XD 3'lü 2 Kutu Tenis Topu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733077707517,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582439537,
+      "__unknown_productSubTitle": "Wilson Us Open XD 3'lü 2 Kutu Tenis Topu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 368836,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wilson Us Open XD 3'lü 2 Kutu Tenis Topu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724832047239,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/28/86/60/83/29/70/09/03/41/77/85677647916133496528.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582439537,
+      "__unknown_productSubTitle": "Wilson Us Open XD 3'lü 2 Kutu Tenis Topu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5509887,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/28/86/60/83/29/70/09/03/41/77/85677647916133496528.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/28/86/60/83/29/70/09/03/41/77/85677647916133496528.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/28/86/60/83/29/70/09/03/41/77/85677647916133496528.png"
+    }
+  },
+  {
+    "gid_ref": 368837,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wilson Us Open XD 3'lü 2 Kutu Tenis Topu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724831881539,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/28/48/07/86/39/78/88/28/61/81/51062526773497122698.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582439537,
+      "__unknown_productSubTitle": "Wilson Us Open XD 3'lü 2 Kutu Tenis Topu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5510039,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/28/48/07/86/39/78/88/28/61/81/51062526773497122698.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/28/48/07/86/39/78/88/28/61/81/51062526773497122698.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/28/48/07/86/39/78/88/28/61/81/51062526773497122698.png"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 826145,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Michelin 110-80-14 City Grip 2 Motosiklet Lastiği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738824524824,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629263827,
+      "__unknown_productSubTitle": "Michelin 110-80-14 City Grip 2 Motosiklet Lastiği ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 826146,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Michelin 110-80-14 City Grip 2 Motosiklet Lastiği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738345091698,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/31/60/91/85/08/78/87/53/10/69/32738029907430032659.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629263827,
+      "__unknown_productSubTitle": "Michelin 110-80-14 City Grip 2 Motosiklet Lastiği ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6784357,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/31/60/91/85/08/78/87/53/10/69/32738029907430032659.png"
+        },
+        {
+          "id": 6784359,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/31/68/05/38/66/53/12/16/26/65/01200550971533772557.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/31/60/91/85/08/78/87/53/10/69/32738029907430032659.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/31/60/91/85/08/78/87/53/10/69/32738029907430032659.png"
+    }
+  },
+  {
+    "gid_ref": 826147,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Michelin 110-80-14 City Grip 2 Motosiklet Lastiği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730987192654,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629263827,
+      "__unknown_productSubTitle": "Michelin 110-80-14 City Grip 2 Motosiklet Lastiği ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

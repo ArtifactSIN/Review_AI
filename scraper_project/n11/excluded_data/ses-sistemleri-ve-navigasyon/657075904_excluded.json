@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 1154853,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Carplayer Volkswagen Passat B6 B7 2007-2010 Uyumlu Android Multimedya 6gb Ram 64gb Hafıza",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761235076258,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 657075904,
+      "__unknown_productSubTitle": "Carplayer Volkswagen Passat B6 B7 2007-2010 Uyumlu Android Multimedya 6gb Ram 64gb Hafıza ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1154854,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Carplayer Volkswagen Passat B6 B7 2007-2010 Uyumlu Android Multimedya 6gb Ram 64gb Hafıza",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746100586345,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/01/49/96/34/90/57/55/22/20/66/32321641437776135300.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 657075904,
+      "__unknown_productSubTitle": "Carplayer Volkswagen Passat B6 B7 2007-2010 Uyumlu Android Multimedya 6gb Ram 64gb Hafıza ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7161422,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/01/49/96/34/90/57/55/22/20/66/32321641437776135300.jpg"
+        },
+        {
+          "id": 7161423,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/01/49/48/46/71/40/10/92/40/99/58517182294853267614.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/01/49/96/34/90/57/55/22/20/66/32321641437776135300.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/01/49/96/34/90/57/55/22/20/66/32321641437776135300.jpg"
+    }
+  }
+]

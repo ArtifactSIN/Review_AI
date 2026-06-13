@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 756547,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vi-Vet Natürel Roll-On Sir Ağda 100 ML x 4 + Ekamix Ağda Bezi 2 M",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1708506854159,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/21/51/27/54/89/11/30/36/96/82/47992127602643257574.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 419494296,
+      "__unknown_productSubTitle": "Vi-Vet Natürel Roll-On Sir Ağda 100 ML x 4 + Ekamix Ağda Bezi 2 M",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3946310,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/21/51/27/54/89/11/30/36/96/82/47992127602643257574.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/21/51/27/54/89/11/30/36/96/82/47992127602643257574.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/21/51/27/54/89/11/30/36/96/82/47992127602643257574.png"
+    }
+  },
+  {
+    "gid_ref": 756548,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vi-Vet Natürel Roll-On Sir Ağda 100 ML x 4 + Ekamix Ağda Bezi 2 M",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1703771623077,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 419494296,
+      "__unknown_productSubTitle": "Vi-Vet Natürel Roll-On Sir Ağda 100 ML x 4 + Ekamix Ağda Bezi 2 M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 756549,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vi-Vet Natürel Roll-On Sir Ağda 100 ML x 4 + Ekamix Ağda Bezi 2 M",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697179913002,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 419494296,
+      "__unknown_productSubTitle": "Vi-Vet Natürel Roll-On Sir Ağda 100 ML x 4 + Ekamix Ağda Bezi 2 M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

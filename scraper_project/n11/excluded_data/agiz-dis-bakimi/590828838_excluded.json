@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 16326,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensodyne Hızlı Beyazlatıcı 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758983935532,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590828838,
+      "__unknown_productSubTitle": "Sensodyne Hızlı Beyazlatıcı 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 16327,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensodyne Hızlı Beyazlatıcı 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758270834377,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590828838,
+      "__unknown_productSubTitle": "Sensodyne Hızlı Beyazlatıcı 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 16328,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensodyne Hızlı Beyazlatıcı 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758270757622,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590828838,
+      "__unknown_productSubTitle": "Sensodyne Hızlı Beyazlatıcı 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 16329,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensodyne Hızlı Beyazlatıcı 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757101022403,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/05/69/50/08/58/12/70/06/19/89/06491768973665153875.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590828838,
+      "__unknown_productSubTitle": "Sensodyne Hızlı Beyazlatıcı 75 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7658760,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/05/69/50/08/58/12/70/06/19/89/06491768973665153875.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/05/69/50/08/58/12/70/06/19/89/06491768973665153875.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/05/69/50/08/58/12/70/06/19/89/06491768973665153875.png"
+    }
+  }
+]

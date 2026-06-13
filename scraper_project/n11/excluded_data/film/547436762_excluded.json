@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 735520,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DVD - Sanalüstü Unfriended",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741779369282,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/12/54/66/59/74/27/26/40/01/00/47135321640725888511.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 547436762,
+      "__unknown_productSubTitle": "DVD - Sanalüstü Unfriended",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6951548,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/12/54/66/59/74/27/26/40/01/00/47135321640725888511.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/12/54/66/59/74/27/26/40/01/00/47135321640725888511.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/12/54/66/59/74/27/26/40/01/00/47135321640725888511.png"
+    }
+  },
+  {
+    "gid_ref": 735521,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "DVD - Sanalüstü Unfriended",
+      "productTitle": "DVD - Sanalüstü Unfriended",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1668713726608,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 547436762,
+      "__unknown_productSubTitle": "DVD - Sanalüstü Unfriended",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

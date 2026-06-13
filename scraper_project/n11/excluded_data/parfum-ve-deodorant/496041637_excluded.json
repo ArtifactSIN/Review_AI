@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 992524,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanzuk 60 Derece Limon Kolonyası Bidon 5 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774360290763,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774360290763,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 496041637,
+      "__unknown_productSubTitle": "Kanzuk 60 Derece Limon Kolonyası Bidon 5 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 992525,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanzuk 60 Derece Limon Kolonyası Bidon 5 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742249452879,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/18/78/02/93/93/33/47/84/75/63/87240374284020567956.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 496041637,
+      "__unknown_productSubTitle": "Kanzuk 60 Derece Limon Kolonyası Bidon 5 L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6972738,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/18/78/02/93/93/33/47/84/75/63/87240374284020567956.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/18/78/02/93/93/33/47/84/75/63/87240374284020567956.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/18/78/02/93/93/33/47/84/75/63/87240374284020567956.jpg"
+    }
+  },
+  {
+    "gid_ref": 992526,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanzuk 60 Derece Limon Kolonyası Bidon 5 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697368768526,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 496041637,
+      "__unknown_productSubTitle": "Kanzuk 60 Derece Limon Kolonyası Bidon 5 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 992527,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanzuk 60 Derece Limon Kolonyası Bidon 5 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1695111886799,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 496041637,
+      "__unknown_productSubTitle": "Kanzuk 60 Derece Limon Kolonyası Bidon 5 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 1134047,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Venatura Vitamin B1 Benfotiamin Ve Tiamin 60 Kapsül",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766905127306,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717138476,
+      "__unknown_productSubTitle": "Venatura Vitamin B1 Benfotiamin Ve Tiamin 60 Kapsül",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1134048,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Venatura Vitamin B1 Benfotiamin Ve Tiamin 60 Kapsül",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765181278571,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/08/75/79/16/82/05/36/43/69/27/63649249795783935886.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717138476,
+      "__unknown_productSubTitle": "Venatura Vitamin B1 Benfotiamin Ve Tiamin 60 Kapsül",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8088466,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/08/75/79/16/82/05/36/43/69/27/63649249795783935886.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/08/75/79/16/82/05/36/43/69/27/63649249795783935886.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/08/75/79/16/82/05/36/43/69/27/63649249795783935886.png"
+    }
+  },
+  {
+    "gid_ref": 1134049,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Venatura Vitamin B1 Benfotiamin Ve Tiamin 60 Kapsül",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756163573257,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/26/54/12/14/89/02/85/20/78/87/9785104382118182341.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695995799,
+      "__unknown_productSubTitle": "Venatura Vitamin B1 Benfotiamin Ve Tiamin 60 Kapsül",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7596444,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/26/54/12/14/89/02/85/20/78/87/9785104382118182341.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/26/54/12/14/89/02/85/20/78/87/9785104382118182341.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/26/54/12/14/89/02/85/20/78/87/9785104382118182341.png"
+    }
+  }
+]

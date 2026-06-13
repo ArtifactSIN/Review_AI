@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 803924,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Geometri / Mustafa Kemal   Atatürk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774547724866,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774547724866,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 443213682,
+      "__unknown_productSubTitle": "Geometri / Mustafa Kemal   Atatürk",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 803925,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Geometri / Mustafa Kemal   Atatürk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774285660765,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774285660765,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 443213682,
+      "__unknown_productSubTitle": "Geometri / Mustafa Kemal   Atatürk",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 803926,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Geometri / Mustafa Kemal   Atatürk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709298461876,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 443213682,
+      "__unknown_productSubTitle": "Geometri / Mustafa Kemal   Atatürk",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 261237,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hugoy 70 x 120 Fitilli Sünger Yatak 15 Cm 70*120",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758324601179,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/20/88/70/72/27/79/32/40/66/87/44432396171489885362.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 463987073,
+      "__unknown_productSubTitle": "Hugoy 70 x 120 Fitilli Sünger Yatak 15 Cm 70*120",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7701239,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/20/88/70/72/27/79/32/40/66/87/44432396171489885362.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/20/88/70/72/27/79/32/40/66/87/44432396171489885362.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/20/88/70/72/27/79/32/40/66/87/44432396171489885362.jpg"
+    }
+  },
+  {
+    "gid_ref": 261238,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hugoy 70 x 120 Fitilli Sünger Yatak 15 Cm 70*120",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719603064650,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 463987073,
+      "__unknown_productSubTitle": "Hugoy 70 x 120 Fitilli Sünger Yatak 15 Cm 70*120",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 261239,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hugoy 70 x 120 Fitilli Sünger Yatak 15 Cm 70*120",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1702313050484,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 463987073,
+      "__unknown_productSubTitle": "Hugoy 70 x 120 Fitilli Sünger Yatak 15 Cm 70*120",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

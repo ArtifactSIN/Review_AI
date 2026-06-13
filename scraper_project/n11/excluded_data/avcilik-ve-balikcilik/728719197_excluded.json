@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 125087,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Captain 1505 Matrix Tele Surf Kamış 150-250gr  360cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763312971497,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651948840,
+      "__unknown_productSubTitle": "Captain 1505 Matrix Tele Surf Kamış 150-250gr  360cm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 125088,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Captain 1505 Matrix Tele Surf Kamış 150-250gr Atar 360cm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739212415948,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/10/53/69/69/14/64/51/22/73/45/28769910352019633192.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649217205,
+      "__unknown_productSubTitle": "Captain 1505 Matrix Tele Surf Kamış 150-250gr Atar 360cm",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6826267,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/10/53/69/69/14/64/51/22/73/45/28769910352019633192.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/10/53/69/69/14/64/51/22/73/45/28769910352019633192.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/10/53/69/69/14/64/51/22/73/45/28769910352019633192.png"
+    }
+  },
+  {
+    "gid_ref": 125089,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Captain 1505 Matrix Tele Surf Kamış 150-250gr  360cm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1737465626599,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650971023,
+      "__unknown_productSubTitle": "Captain 1505 Matrix Tele Surf Kamış 150-250gr  360cm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 263422,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Holmer Yatak Hediyeli Coolstyle Maxi Cibinlikli Dönenceli Anne Yanı Park Yatak 70x110cm + Yatak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774389702270,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774389702270,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653093847,
+      "__unknown_productSubTitle": "Holmer Yatak Hediyeli Coolstyle Maxi Cibinlikli Dönenceli Anne Yanı Park Yatak 70x110cm + Yatak Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 263423,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Holmer Yatak Hediyeli Coolstyle Maxi Cibinlikli Dönenceli Anne Yanı Park Yatak 70x110cm + Yatak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763294656651,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/16/53/60/26/08/55/35/85/91/69/14684118236804657791.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653093848,
+      "__unknown_productSubTitle": "Holmer Yatak Hediyeli Coolstyle Maxi Cibinlikli Dönenceli Anne Yanı Park Yatak 70x110cm + Yatak Bej",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7980861,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/16/53/60/26/08/55/35/85/91/69/14684118236804657791.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/16/53/60/26/08/55/35/85/91/69/14684118236804657791.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/16/53/60/26/08/55/35/85/91/69/14684118236804657791.png"
+    }
+  }
+]

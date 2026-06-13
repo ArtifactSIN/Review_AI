@@ -1,0 +1,131 @@
+[
+  {
+    "gid_ref": 953800,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bofigo Katlanır Kamp Balkon Sandalyesi Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774816912632,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774816912632,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579055933,
+      "__unknown_productSubTitle": "Bofigo Katlanır Kamp Balkon Sandalyesi Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 953801,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bofigo Katlanır Kamp Balkon Sandalyesi Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774814324424,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774814324424,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579055933,
+      "__unknown_productSubTitle": "Bofigo Katlanır Kamp Balkon Sandalyesi Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 953802,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bofigo Katlanır Kamp Balkon Sandalyesi Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774494897912,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/49/06/45/23/31/29/34/38/25/97824580372655880319.png",
+      "__unknown_lastModifiedDate": 1774494897912,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579055933,
+      "__unknown_productSubTitle": "Bofigo Katlanır Kamp Balkon Sandalyesi Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8514500,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/49/06/45/23/31/29/34/38/25/97824580372655880319.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/49/06/45/23/31/29/34/38/25/97824580372655880319.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/49/06/45/23/31/29/34/38/25/97824580372655880319.png"
+    }
+  },
+  {
+    "gid_ref": 953803,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bofigo Katlanır Kamp Balkon Sandalyesi Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774286334610,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/23/74/72/48/06/03/28/36/57/04/17865455082395252291.png",
+      "__unknown_lastModifiedDate": 1774286334610,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579055933,
+      "__unknown_productSubTitle": "Bofigo Katlanır Kamp Balkon Sandalyesi Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8496258,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/23/74/72/48/06/03/28/36/57/04/17865455082395252291.png"
+        },
+        {
+          "id": 8496259,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/23/46/31/53/57/28/78/25/54/02/96835392115267225135.png"
+        },
+        {
+          "id": 8496260,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/23/68/98/66/05/11/50/16/49/96/8848814327182637982.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/23/74/72/48/06/03/28/36/57/04/17865455082395252291.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/23/74/72/48/06/03/28/36/57/04/17865455082395252291.png"
+    }
+  },
+  {
+    "gid_ref": 953804,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bofigo Katlanır Kamp Balkon Sandalyesi Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768337069963,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579055933,
+      "__unknown_productSubTitle": "Bofigo Katlanır Kamp Balkon Sandalyesi Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

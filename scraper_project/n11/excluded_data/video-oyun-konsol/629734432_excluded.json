@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1339554,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Microsoft Xbox Elite Kablosuz Oyun Kumandası Series 2 – Core (Bey",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1750085107633,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583429483,
+      "__unknown_productSubTitle": "Microsoft Xbox Elite Kablosuz Oyun Kumandası Series 2 – Core (Bey ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1339555,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Microsoft Xbox Elite Kablosuz Oyun Kumandası Series 2 – Core (Bey",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1735239968086,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724396102,
+      "__unknown_productSubTitle": "Microsoft Xbox Elite Kablosuz Oyun Kumandası Series 2 – Core (Bey ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

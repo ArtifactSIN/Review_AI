@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 949543,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maxi-Cosi Milofix 0-18 KG Oto Koltuğu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734615947403,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592870251,
+      "__unknown_productSubTitle": "Maxi-Cosi Milofix 0-18 KG Oto Koltuğu Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 949544,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maxi-Cosi Milofix 0-18 KG Oto Koltuğu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713339253427,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 546032391,
+      "__unknown_productSubTitle": "MAX-MLFX",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

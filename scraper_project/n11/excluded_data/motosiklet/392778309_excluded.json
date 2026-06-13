@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 874669,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motoran Lx 200 Atv Arka Fren Balatası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766492928319,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 392778309,
+      "__unknown_productSubTitle": "Motoran Lx 200 Atv Arka Fren Balatası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 874670,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motoran Lx 200 Atv Arka Fren Balatası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747301221769,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/15/88/40/12/13/71/14/65/46/13/53808345675328109956.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 392778309,
+      "__unknown_productSubTitle": "Motoran Lx 200 Atv Arka Fren Balatası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7225552,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/15/88/40/12/13/71/14/65/46/13/53808345675328109956.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/15/88/40/12/13/71/14/65/46/13/53808345675328109956.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/15/88/40/12/13/71/14/65/46/13/53808345675328109956.png"
+    }
+  },
+  {
+    "gid_ref": 874671,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motoran Lx 200 Atv Arka Fren Balatası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730914980822,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 392778309,
+      "__unknown_productSubTitle": "Motoran Lx 200 Atv Arka Fren Balatası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "gid_ref": 30447,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zubio Beyazlatıcı Diş Macunu 75 Gr",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773861874832,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/18/62/09/82/58/69/41/54/29/96/38706569150386553704.jpg",
+      "__unknown_lastModifiedDate": 1773861874832,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724324777,
+      "__unknown_productSubTitle": "Zubio Beyazlatıcı Diş Macunu 75 Gr ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8477724,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/18/62/09/82/58/69/41/54/29/96/38706569150386553704.jpg"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/18/62/09/82/58/69/41/54/29/96/38706569150386553704.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/18/62/09/82/58/69/41/54/29/96/38706569150386553704.jpg"
+    }
+  },
+  {
+    "gid_ref": 30448,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zubio Beyazlatıcı Diş Macunu 75 Gr",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771770002174,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724324777,
+      "__unknown_productSubTitle": "Zubio Beyazlatıcı Diş Macunu 75 Gr ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 30449,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zubio Beyazlatıcı Diş Macunu 75 Gr",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770697957614,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724324777,
+      "__unknown_productSubTitle": "Zubio Beyazlatıcı Diş Macunu 75 Gr ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 30450,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zubio Beyazlatıcı Diş Macunu 75 Gr",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766648509584,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724324777,
+      "__unknown_productSubTitle": "Zubio Beyazlatıcı Diş Macunu 75 Gr ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

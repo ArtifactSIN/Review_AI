@@ -1,0 +1,115 @@
+[
+  {
+    "gid_ref": 1460233,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Getz Far / Getz Ön Far 2006-2011 Elektirikli Motorlu Sol",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773156438788,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773156438788,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589284216,
+      "__unknown_productSubTitle": "Getz Far / Getz Ön Far 2006-2011 Elektirikli Motorlu Sol ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1460234,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Getz Far / Getz Ön Far 2006-2011 Elektirikli Motorlu Sol",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720767188482,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589284216,
+      "__unknown_productSubTitle": "Getz Far / Getz Ön Far 2006-2011 Elektirikli Motorlu Sol ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1460235,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Getz Far / Getz Ön Far 2006-2011 Elektirikli Motorlu Sol",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1718287185710,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/13/79/30/31/10/57/97/64/10/33/58636266603209997723.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589284216,
+      "__unknown_productSubTitle": "Getz Far / Getz Ön Far 2006-2011 Elektirikli Motorlu Sol ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4963519,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/13/53/34/59/26/35/25/07/52/57/92850332970057155510.png"
+        },
+        {
+          "id": 4963520,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/13/85/69/46/42/55/54/56/21/94/56678135252317914972.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/13/79/30/31/10/57/97/64/10/33/58636266603209997723.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/13/79/30/31/10/57/97/64/10/33/58636266603209997723.png"
+    }
+  },
+  {
+    "gid_ref": 1460236,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Getz Far / Getz Ön Far 2006-2011 Elektirikli Motorlu Sol",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1713371355934,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589284216,
+      "__unknown_productSubTitle": "Getz Far / Getz Ön Far 2006-2011 Elektirikli Motorlu Sol ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1460237,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Getz Far / Getz Ön Far 2006-2011 Elektirikli Motorlu Sol",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711546318728,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589284216,
+      "__unknown_productSubTitle": "Getz Far / Getz Ön Far 2006-2011 Elektirikli Motorlu Sol ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

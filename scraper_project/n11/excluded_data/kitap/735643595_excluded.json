@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 818320,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "AYT Biyoloji Soru Bankası -  Aydın Yayınları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757498814108,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631896456,
+      "__unknown_productSubTitle": "AYT Biyoloji Soru Bankası -  Aydın Yayınları",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 818321,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "AYT Biyoloji Soru Bankası -  Aydın Yayınları",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730231761888,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/29/88/56/88/08/04/68/69/80/13/14603676405599125889.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633745533,
+      "__unknown_productSubTitle": "AYT Biyoloji Soru Bankası -  Aydın Yayınları",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6057240,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/29/88/56/88/08/04/68/69/80/13/14603676405599125889.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/29/88/56/88/08/04/68/69/80/13/14603676405599125889.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/29/88/56/88/08/04/68/69/80/13/14603676405599125889.png"
+    }
+  },
+  {
+    "gid_ref": 818322,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "AYT Biyoloji Soru Bankası -  Aydın Yayınları",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724943591753,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/29/49/67/42/42/64/78/43/34/92/77758184926877532620.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586049178,
+      "__unknown_productSubTitle": "AYT Biyoloji Soru Bankası -  Aydın Yayınları",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5527040,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/29/49/67/42/42/64/78/43/34/92/77758184926877532620.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/29/49/67/42/42/64/78/43/34/92/77758184926877532620.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/29/49/67/42/42/64/78/43/34/92/77758184926877532620.png"
+    }
+  }
+]

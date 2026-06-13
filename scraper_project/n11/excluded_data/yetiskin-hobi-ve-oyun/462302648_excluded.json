@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1490531,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lali Yayınları 5n1k Konuşma Becerilerini Destekleyici Kart Oyunu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737929110119,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/27/50/17/92/40/50/80/60/21/95/88893847434203843452.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 462302648,
+      "__unknown_productSubTitle": "Lali Yayınları 5n1k Konuşma Becerilerini Destekleyici Kart Oyunu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6758204,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/27/50/17/92/40/50/80/60/21/95/88893847434203843452.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/27/50/17/92/40/50/80/60/21/95/88893847434203843452.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/27/50/17/92/40/50/80/60/21/95/88893847434203843452.jpg"
+    }
+  },
+  {
+    "gid_ref": 1490532,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lali Yayınları 5n1k Konuşma Becerilerini Destekleyici Kart Oyunu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1701719198108,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 462302648,
+      "__unknown_productSubTitle": "Lali Yayınları 5n1k Konuşma Becerilerini Destekleyici Kart Oyunu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1490533,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lali Yayınları 5n1k Konuşma Becerilerini Destekleyici Kart Oyunu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1622034560282,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 462302648,
+      "__unknown_productSubTitle": "Lali Yayınları 5n1k Konuşma Becerilerini Destekleyici Kart Oyunu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

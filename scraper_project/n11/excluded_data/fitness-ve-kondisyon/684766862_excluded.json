@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 745977,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ayarlanabilir Mekik Bench Ağırlık Sehpası Luna",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775579991465,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775579991465,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684766862,
+      "__unknown_productSubTitle": "Ayarlanabilir Mekik Bench Ağırlık Sehpası Luna",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 745978,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ayarlanabilir Mekik Bench Ağırlık Sehpası Luna",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756903618456,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684766862,
+      "__unknown_productSubTitle": "Ayarlanabilir Mekik Bench Ağırlık Sehpası Luna",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 745979,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ayarlanabilir Mekik Bench Ağırlık Sehpası Luna",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755547222374,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684766862,
+      "__unknown_productSubTitle": "Ayarlanabilir Mekik Bench Ağırlık Sehpası Luna",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

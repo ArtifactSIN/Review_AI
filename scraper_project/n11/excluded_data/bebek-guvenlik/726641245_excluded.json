@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 257906,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hubble Guardian+ Giyilebilir Uyku Kalitesi Takip Sistemi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1740459289916,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578235024,
+      "__unknown_productSubTitle": "Hubble Guardian+ Giyilebilir Uyku Kalitesi Takip Sistemi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 257907,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hubble Guardian+ Giyilebilir Uyku Kalitesi Takip Sistemi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730486753316,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578235024,
+      "__unknown_productSubTitle": "Hubble Guardian+ Giyilebilir Uyku Kalitesi Takip Sistemi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

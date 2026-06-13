@@ -1,0 +1,86 @@
+[
+  {
+    "gid_ref": 302447,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beko KMX 91 9 KG Kurutma Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775194847095,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775194847095,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730233727,
+      "__unknown_productSubTitle": "Beko KMX 91 9 KG Kurutma Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 302448,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beko KMX 91 9 KG Kurutma Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772834210735,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730233727,
+      "__unknown_productSubTitle": "Beko KMX 91 9 KG Kurutma Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 302449,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beko KMX 91 9 KG Kurutma Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772275383627,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730233727,
+      "__unknown_productSubTitle": "Beko KMX 91 9 KG Kurutma Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 302450,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beko KMX 91 9 KG Kurutma Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771840681913,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730233727,
+      "__unknown_productSubTitle": "Beko KMX 91 9 KG Kurutma Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

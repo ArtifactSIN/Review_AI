@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 305706,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beko KMX 82 8 KG Çamaşır Kurutma Makinesi Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773722795268,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773722795268,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730608066,
+      "__unknown_productSubTitle": "Beko KMX 82 8 KG Çamaşır Kurutma Makinesi Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 305707,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beko KMX 82 8 KG Çamaşır Kurutma Makinesi Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772555207335,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730608066,
+      "__unknown_productSubTitle": "Beko KMX 82 8 KG Çamaşır Kurutma Makinesi Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

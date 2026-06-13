@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1194785,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ülker Çikolatin Sütlü Çikolata 1 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744938257526,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 536683076,
+      "__unknown_productSubTitle": "Ülker Çikolatin Sütlü Çikolata 1 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1194786,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ülker Çikolatin Sütlü Çikolata 1 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729022113441,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 536683076,
+      "__unknown_productSubTitle": "Ülker Çikolatin Sütlü Çikolata 1 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

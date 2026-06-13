@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1068633,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig Hs 6480 Saç Düzleştirici Fırça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764848531563,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700554073,
+      "__unknown_productSubTitle": "Grundig Hs 6480 Saç Düzleştirici Fırça Krem",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1068634,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig Hs 6480 Saç Düzleştirici Fırça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764102450920,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/25/90/88/06/30/30/23/23/44/53/21780735299800482251.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700554073,
+      "__unknown_productSubTitle": "Grundig Hs 6480 Saç Düzleştirici Fırça Krem",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8026002,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/25/90/88/06/30/30/23/23/44/53/21780735299800482251.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/25/90/88/06/30/30/23/23/44/53/21780735299800482251.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/25/90/88/06/30/30/23/23/44/53/21780735299800482251.png"
+    }
+  },
+  {
+    "gid_ref": 1068635,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig Hs 6480 Saç Düzleştirici Fırça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762641365049,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700554073,
+      "__unknown_productSubTitle": "Grundig Hs 6480 Saç Düzleştirici Fırça Krem",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 25199,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Pro Cross Action X-Filament Diş Fırçası Başlığı 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773832891605,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773832891605,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 662203834,
+      "__unknown_productSubTitle": "Oral-B Pro Cross Action X-Filament Diş Fırçası Başlığı 2'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 25200,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Pro Cross Action X-Filament Diş Fırçası Başlığı 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763561621858,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/19/60/35/90/27/23/15/48/24/50/93937764765312303570.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645444446,
+      "__unknown_productSubTitle": "Oral-B Pro Cross Action X-Filament Diş Fırçası Başlığı 2'li",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7987798,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/19/60/35/90/27/23/15/48/24/50/93937764765312303570.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/19/60/35/90/27/23/15/48/24/50/93937764765312303570.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/19/60/35/90/27/23/15/48/24/50/93937764765312303570.jpg"
+    }
+  },
+  {
+    "gid_ref": 25201,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Pro Cross Action X-Filament Diş Fırçası Başlığı 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1740483892984,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645444446,
+      "__unknown_productSubTitle": "Oral-B Pro Cross Action X-Filament Diş Fırçası Başlığı 2'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

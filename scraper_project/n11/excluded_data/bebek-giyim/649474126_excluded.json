@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 252612,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DeFacto Kız Bebek Dikişsiz 2'li Pamuklu Külotlu Çorap D2498A5NSSF1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774957545623,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/83/80/06/27/31/75/16/74/25/79017229173551615864.png",
+      "__unknown_lastModifiedDate": 1774957545623,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649474124,
+      "__unknown_productSubTitle": "DeFacto Kız Bebek Dikişsiz 2'li Pamuklu Külotlu Çorap D2498A5NSSF1 AÇIK PEMBE 2-3 Y",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8543257,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/83/80/06/27/31/75/16/74/25/79017229173551615864.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/83/80/06/27/31/75/16/74/25/79017229173551615864.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/83/80/06/27/31/75/16/74/25/79017229173551615864.png"
+    }
+  },
+  {
+    "gid_ref": 252613,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DeFacto Kız Bebek Dikişsiz 2'li Pamuklu Külotlu Çorap D2498A5NSSF1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769774688681,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/30/66/19/27/73/39/94/97/64/87/44571242869048720996.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649474124,
+      "__unknown_productSubTitle": "DeFacto Kız Bebek Dikişsiz 2'li Pamuklu Külotlu Çorap D2498A5NSSF1 AÇIK PEMBE 2-3 Y",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8303721,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/30/66/19/27/73/39/94/97/64/87/44571242869048720996.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/30/66/19/27/73/39/94/97/64/87/44571242869048720996.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/30/66/19/27/73/39/94/97/64/87/44571242869048720996.png"
+    }
+  }
+]

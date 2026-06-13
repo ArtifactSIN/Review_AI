@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 714805,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tropica Aquarium Soil 9Lt Bitki Kumu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747735956155,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663869732,
+      "__unknown_productSubTitle": "Tropica Aquarium Soil 9Lt Bitki Kumu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 714806,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tropica Aquarium Soil 9Lt Bitki Kumu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1672571828841,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 560586050,
+      "__unknown_productSubTitle": "Tropica Aquarium Soil 9Lt Bitki ve Karides Kumu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

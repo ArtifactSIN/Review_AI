@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 193972,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Cold Cream İçeren Besleyici Losyon 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725354625522,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 511055664,
+      "__unknown_productSubTitle": "Mustela Cold Cream İçeren Besleyici Losyon 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 193973,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Cold Cream İçeren Besleyici Losyon 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715932492074,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 387440640,
+      "__unknown_productSubTitle": "Mustela Cold Cream İçeren Besleyici Losyon 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 193974,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Cold Cream İçeren Besleyici Losyon 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1710478992140,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/15/46/12/82/42/97/21/68/80/49/56800557158816500198.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 387440640,
+      "__unknown_productSubTitle": "Mustela Cold Cream İçeren Besleyici Losyon 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4136275,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/15/46/12/82/42/97/21/68/80/49/56800557158816500198.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/15/46/12/82/42/97/21/68/80/49/56800557158816500198.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/15/46/12/82/42/97/21/68/80/49/56800557158816500198.png"
+    }
+  },
+  {
+    "gid_ref": 193975,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Harika",
+      "productTitle": "Mustela Cold Cream İçeren Besleyici Losyon 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1651231504553,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/04/29/74/83/35/25/83/27/50/49/65/6210198518673722454.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 511055664,
+      "__unknown_productSubTitle": "Mustela Cold Cream İçeren Besleyici Losyon 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 599103,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/04/29/74/83/35/25/83/27/50/49/65/6210198518673722454.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/04/29/74/83/35/25/83/27/50/49/65/6210198518673722454.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/04/29/74/83/35/25/83/27/50/49/65/6210198518673722454.jpeg"
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "gid_ref": 1484931,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vestel Elektrikli Araç Şarj İstasyonu EVC04 AC22SW-TP OPT1 Tr",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773030262010,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/09/51/36/09/15/90/07/73/29/10/72884316395558253147.png",
+      "__unknown_lastModifiedDate": 1773030262010,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730205514,
+      "__unknown_productSubTitle": "Vestel Elektrikli Araç Şarj İstasyonu EVC04 AC22SW-TP OPT1 Tr",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8443389,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/09/51/36/09/15/90/07/73/29/10/72884316395558253147.png"
+        },
+        {
+          "id": 8443390,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/09/49/16/89/77/61/63/06/64/28/74475996037388418046.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/09/51/36/09/15/90/07/73/29/10/72884316395558253147.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/09/51/36/09/15/90/07/73/29/10/72884316395558253147.png"
+    }
+  },
+  {
+    "gid_ref": 1484932,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vestel Elektrikli Araç Şarj İstasyonu EVC04 AC22SW-TP OPT1 Tr",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770731126661,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730205514,
+      "__unknown_productSubTitle": "Vestel Elektrikli Araç Şarj İstasyonu EVC04 AC22SW-TP OPT1 Tr",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1484933,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vestel Elektrikli Araç Şarj İstasyonu EVC04 AC22SW-TP OPT1 Tr",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763888143360,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721095567,
+      "__unknown_productSubTitle": "Vestel Elektrikli Araç Şarj İstasyonu EVC04 AC22SW-TP OPT1 Tr",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

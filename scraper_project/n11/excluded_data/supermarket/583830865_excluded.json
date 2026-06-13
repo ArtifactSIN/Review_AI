@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 1210594,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vileda Süpermocio Temizlik Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774242851483,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774242851483,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583830865,
+      "__unknown_productSubTitle": "Vileda Süpermocio Temizlik Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1210595,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vileda Süpermocio Temizlik Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724912225772,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583830865,
+      "__unknown_productSubTitle": "Vileda Süpermocio Temizlik Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1210596,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vileda Süpermocio Temizlik Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724409036994,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583830865,
+      "__unknown_productSubTitle": "Vileda Süpermocio Temizlik Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1210597,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vileda Süpermocio Temizlik Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715358437165,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/10/85/56/50/40/80/83/89/83/24/41432155685224560444.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583830865,
+      "__unknown_productSubTitle": "Vileda Süpermocio Temizlik Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4641388,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/10/85/56/50/40/80/83/89/83/24/41432155685224560444.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/10/85/56/50/40/80/83/89/83/24/41432155685224560444.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/10/85/56/50/40/80/83/89/83/24/41432155685224560444.png"
+    }
+  }
+]

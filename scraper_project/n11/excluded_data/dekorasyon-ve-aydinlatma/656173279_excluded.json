@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 420324,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mobgift Kilitli Anahtarlı Kasa Kumbara Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762503443951,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 656173279,
+      "__unknown_productSubTitle": "Mobgift Kilitli Anahtarlı Kasa Kumbara Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 420325,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mobgift Kilitli Anahtarlı Kasa Kumbara Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742100762326,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/16/64/16/90/14/05/36/52/08/07/85425379635942607154.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 656173279,
+      "__unknown_productSubTitle": "Mobgift Kilitli Anahtarlı Kasa Kumbara Siyah ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6967299,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/16/64/16/90/14/05/36/52/08/07/85425379635942607154.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/16/64/16/90/14/05/36/52/08/07/85425379635942607154.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/16/64/16/90/14/05/36/52/08/07/85425379635942607154.png"
+    }
+  }
+]

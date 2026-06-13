@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 734890,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "orj ürün",
+      "productTitle": "Dvd-Robin Hood",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1578731311378,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 144289029,
+      "__unknown_productSubTitle": "Dvd-Robin Hood",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

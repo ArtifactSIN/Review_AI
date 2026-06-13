@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 766117,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mavi - Uzun Kollu Yeşil Bluz 121357-70808-Yeşil",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1752765260372,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 620088521,
+      "__unknown_productSubTitle": "Mavi - Uzun Kollu Yeşil Bluz 121357-70808-Yeşil S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 766118,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mavi - Uzun Kollu Yeşil Bluz 121357-70808-Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727074505818,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 545859077,
+      "__unknown_productSubTitle": "Mavi - Uzun Kollu Yeşil Bluz 121357-70808-Yeşil XS",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 766119,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mavi - Uzun Kollu Yeşil Bluz 121357-70808-Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714302411034,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 545859077,
+      "__unknown_productSubTitle": "Mavi - Uzun Kollu Yeşil Bluz 121357-70808-Yeşil XS",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

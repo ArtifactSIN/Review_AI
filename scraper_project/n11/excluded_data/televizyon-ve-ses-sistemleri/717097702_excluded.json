@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1328543,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Duracell Optimum Aa Alkalin Kalem Pil 8 Li Paket + Aa Alkalin Kalem Pil 10'lu Paket",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766063633883,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/18/58/55/61/97/04/30/63/36/10/84691808167060128905.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717097702,
+      "__unknown_productSubTitle": "Duracell Optimum Aa Alkalin Kalem Pil 8 Li Paket + Aa Alkalin Kalem Pil 10'lu Paket",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8135474,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/18/58/55/61/97/04/30/63/36/10/84691808167060128905.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/18/58/55/61/97/04/30/63/36/10/84691808167060128905.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/18/58/55/61/97/04/30/63/36/10/84691808167060128905.png"
+    }
+  },
+  {
+    "gid_ref": 1328544,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Duracell Optimum Aa Alkalin Kalem Pil 8 Li Paket + Aa Alkalin Kalem Pil 10'lu Paket",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762627218005,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717097702,
+      "__unknown_productSubTitle": "Duracell Optimum Aa Alkalin Kalem Pil 8 Li Paket + Aa Alkalin Kalem Pil 10'lu Paket",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

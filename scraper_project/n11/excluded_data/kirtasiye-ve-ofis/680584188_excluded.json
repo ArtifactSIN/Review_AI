@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 800054,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cadence Handy Lake Boya L-002 Pak Beyaz 2000ml Pak Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747675492600,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651225033,
+      "__unknown_productSubTitle": "Cadence Handy Lake Boya L-002 Pak Beyaz 2000ml Pak Beyaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 800055,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cadence Handy Lake Boya L-002 Pak Beyaz 2000ml Pak Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747381348204,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651225033,
+      "__unknown_productSubTitle": "Cadence Handy Lake Boya L-002 Pak Beyaz 2000ml Pak Beyaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

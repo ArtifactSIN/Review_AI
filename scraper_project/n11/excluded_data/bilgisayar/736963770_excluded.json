@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 364101,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple iPad A16 MD4J4TU/A Wi-Fi 256 GB 11\" Tablet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775028003387,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/65/72/45/77/21/58/22/89/67/725248772933633035.jpg",
+      "__unknown_lastModifiedDate": 1775028003387,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 736963770,
+      "__unknown_productSubTitle": "Apple iPad A16 MD4J4TU/A Wi-Fi 256 GB 11\" Tablet Sarı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8556200,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/65/72/45/77/21/58/22/89/67/725248772933633035.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/65/72/45/77/21/58/22/89/67/725248772933633035.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/65/72/45/77/21/58/22/89/67/725248772933633035.jpg"
+    }
+  },
+  {
+    "gid_ref": 364102,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple iPad A16 MD4J4TU/A Wi-Fi 256 GB 11\" Tablet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774718548740,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/28/57/12/89/85/38/28/39/79/85/48088252224739127587.png",
+      "__unknown_lastModifiedDate": 1774718548740,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 736963770,
+      "__unknown_productSubTitle": "Apple iPad A16 MD4J4TU/A Wi-Fi 256 GB 11\" Tablet Sarı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8533654,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/57/12/89/85/38/28/39/79/85/48088252224739127587.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/28/57/12/89/85/38/28/39/79/85/48088252224739127587.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/28/57/12/89/85/38/28/39/79/85/48088252224739127587.png"
+    }
+  },
+  {
+    "gid_ref": 364103,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple iPad A16 MD4J4TU/A Wi-Fi 256 GB 11\" Tablet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774388795875,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/74/20/77/29/92/07/31/01/40/22418073819543813655.jpg",
+      "__unknown_lastModifiedDate": 1774388795875,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 736963770,
+      "__unknown_productSubTitle": "Apple iPad A16 MD4J4TU/A Wi-Fi 256 GB 11\" Tablet Sarı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8497295,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/74/20/77/29/92/07/31/01/40/22418073819543813655.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/74/20/77/29/92/07/31/01/40/22418073819543813655.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/74/20/77/29/92/07/31/01/40/22418073819543813655.jpg"
+    }
+  },
+  {
+    "gid_ref": 364104,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple iPad A16 MD4J4TU/A Wi-Fi 256 GB 11\" Tablet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772218340482,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 715350852,
+      "__unknown_productSubTitle": "Apple iPad A16 MD4J4TU/A Wi-Fi 256 GB 11\" Tablet Sarı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

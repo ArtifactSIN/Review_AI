@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 925807,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Crick Crack Harmony Hazneli Rende 26 Cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774198715671,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/22/48/30/34/33/32/42/19/04/22/78754228255175230474.png",
+      "__unknown_lastModifiedDate": 1774198715671,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649494904,
+      "__unknown_productSubTitle": "Crick Crack Harmony Hazneli Rende 26 Cm",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8487571,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/22/48/30/34/33/32/42/19/04/22/78754228255175230474.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/22/48/30/34/33/32/42/19/04/22/78754228255175230474.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/22/48/30/34/33/32/42/19/04/22/78754228255175230474.png"
+    }
+  },
+  {
+    "gid_ref": 925808,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Crick Crack Harmony Hazneli Rende 26 Cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771188191995,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649494904,
+      "__unknown_productSubTitle": "Crick Crack Harmony Hazneli Rende 26 Cm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

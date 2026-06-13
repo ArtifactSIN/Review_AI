@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 960722,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Evolite Carbon Quick-Lock Dıştan Kilitli Trekking Batonu Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760434758770,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641540255,
+      "__unknown_productSubTitle": "Evolite Carbon Quick-Lock Dıştan Kilitli Trekking Batonu Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 960723,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Evolite Carbon Quick-Lock Dıştan Kilitli Trekking Batonu Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1751896069106,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/07/67/15/87/24/90/77/58/75/35/11856367803626505265.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648795541,
+      "__unknown_productSubTitle": "Evolite Carbon Quick-Lock Dıştan Kilitli Trekking Batonu Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7416960,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/07/67/15/87/24/90/77/58/75/35/11856367803626505265.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/07/67/15/87/24/90/77/58/75/35/11856367803626505265.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/07/67/15/87/24/90/77/58/75/35/11856367803626505265.jpg"
+    }
+  }
+]

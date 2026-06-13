@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 1342878,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nostalji Kuşağı i + Patlayan Şeker",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770913512133,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705346197,
+      "__unknown_productSubTitle": "Nostalji Kuşağı i + Patlayan Şeker",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1342879,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nostalji Kuşağı i + Patlayan Şeker",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1672399335536,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 537609901,
+      "__unknown_productSubTitle": "Nostalji Kuşağı i + Patlayan Şeker",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1342880,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "arıza",
+      "productTitle": "Nostalji Kuşağı i + Patlayan Şeker",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1651696483205,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 537609901,
+      "__unknown_productSubTitle": "Nostalji Kuşağı i + Patlayan Şeker",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 728434,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Goldi Puppy Kuzu Etli Prinçli Yavru Köpek Maması 15 KG",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1642321154696,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 523544999,
+      "__unknown_productSubTitle": "Goldi Puppy Kuzu Etli Prinçli Yavru Köpek Maması 15 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 728435,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Mama",
+      "productTitle": "Goldi Puppy Kuzu Etli Prinçli Yavru Köpek Maması 15 KG",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1642145939357,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 523544999,
+      "__unknown_productSubTitle": "Goldi Puppy Kuzu Etli Prinçli Yavru Köpek Maması 15 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 728436,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Benimki beğenmedi",
+      "productTitle": "Goldi Puppy Kuzu Etli Prinçli Yavru Köpek Maması 15 KG",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1627585319617,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561114584,
+      "__unknown_productSubTitle": "Goldi Puppy Kuzu Etli Prinçli Yavru Köpek Maması 15 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

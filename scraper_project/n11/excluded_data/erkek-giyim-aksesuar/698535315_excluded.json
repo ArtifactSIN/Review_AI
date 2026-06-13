@@ -1,0 +1,102 @@
+[
+  {
+    "gid_ref": 576215,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin Erkek Beyaz Gömlek Basic 50316742-vr013 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775345213125,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/05/69/65/20/05/11/23/41/98/34/87274793543320947065.png",
+      "__unknown_lastModifiedDate": 1775345213125,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 698517172,
+      "__unknown_productSubTitle": "Pierre Cardin Erkek Beyaz Gömlek Basic 50316742-vr013 Beyaz XL",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8566831,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/05/69/65/20/05/11/23/41/98/34/87274793543320947065.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/05/69/65/20/05/11/23/41/98/34/87274793543320947065.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/05/69/65/20/05/11/23/41/98/34/87274793543320947065.png"
+    }
+  },
+  {
+    "gid_ref": 576216,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin Erkek Beyaz Gömlek Basic 50316742-vr013 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772477216983,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 698517172,
+      "__unknown_productSubTitle": "Pierre Cardin Erkek Beyaz Gömlek Basic 50316742-vr013 Beyaz XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 576217,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin Erkek Beyaz Gömlek Basic 50316742-vr013 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772100104202,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/26/82/36/16/63/40/90/45/71/85/66571009740647283022.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 698517253,
+      "__unknown_productSubTitle": "Pierre Cardin Erkek Beyaz Gömlek Basic 50316742-vr013 Beyaz L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8408495,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/26/82/36/16/63/40/90/45/71/85/66571009740647283022.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/26/82/36/16/63/40/90/45/71/85/66571009740647283022.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/26/82/36/16/63/40/90/45/71/85/66571009740647283022.jpg"
+    }
+  },
+  {
+    "gid_ref": 576218,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin Erkek Beyaz Gömlek Basic 50316742-vr013 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771932955405,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 698517253,
+      "__unknown_productSubTitle": "Pierre Cardin Erkek Beyaz Gömlek Basic 50316742-vr013 Beyaz L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

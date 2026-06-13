@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 125055,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Captain 7646 Carp Sehpa Alarm Swinger 4lü Combo Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744118698917,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/08/76/72/36/18/72/18/56/48/17/66009440712779648429.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632375544,
+      "__unknown_productSubTitle": "Captain 7646 Carp Sehpa Alarm Swinger 4lü Combo Set ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7064436,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/08/76/72/36/18/72/18/56/48/17/66009440712779648429.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/08/76/72/36/18/72/18/56/48/17/66009440712779648429.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/08/76/72/36/18/72/18/56/48/17/66009440712779648429.png"
+    }
+  },
+  {
+    "gid_ref": 125056,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Captain 7646 Carp Sehpa Alarm Swinger 4lü Combo Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740218080866,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632375544,
+      "__unknown_productSubTitle": "Captain 7646 Carp Sehpa Alarm Swinger 4lü Combo Set ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 125057,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Captain 7646 Carp Sehpa Alarm Swinger 4lü Combo Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739366371012,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632375544,
+      "__unknown_productSubTitle": "Captain 7646 Carp Sehpa Alarm Swinger 4lü Combo Set ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "gid_ref": 1274020,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy Z Flıp 6 12 GB 256 GB Mavi (Teşhir)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772780593351,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733105675,
+      "__unknown_productSubTitle": "Samsung Galaxy Z Flıp 6 12 GB 256 GB Mavi (Teşhir)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1274021,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy Z Flıp 6 12 GB 256 GB Mavi (Teşhir)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770661887122,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 714888173,
+      "__unknown_productSubTitle": "Samsung Galaxy Z Flıp 6 12 GB 256 GB Mavi (Teşhir)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1274022,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy Z Flıp 6 12 GB 256 GB Mavi (Teşhir)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761045332168,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/21/81/65/35/04/32/76/40/34/67/28091750116935157437.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 686378578,
+      "__unknown_productSubTitle": "Samsung Galaxy Z Flıp 6 12 GB 256 GB Mavi (Teşhir)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7829384,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/21/72/40/17/24/12/06/22/08/53/95923770761203659523.png"
+        },
+        {
+          "id": 7829385,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/21/70/21/47/22/65/63/69/72/65/93604300854214376323.png"
+        },
+        {
+          "id": 7829383,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/21/81/65/35/04/32/76/40/34/67/28091750116935157437.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/21/81/65/35/04/32/76/40/34/67/28091750116935157437.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/21/81/65/35/04/32/76/40/34/67/28091750116935157437.png"
+    }
+  },
+  {
+    "gid_ref": 1274023,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy Z Flıp 6 12 GB 256 GB Mavi (Teşhir)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753100242289,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 686378578,
+      "__unknown_productSubTitle": "Samsung Galaxy Z Flıp 6 12 GB 256 GB Mavi (Teşhir)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

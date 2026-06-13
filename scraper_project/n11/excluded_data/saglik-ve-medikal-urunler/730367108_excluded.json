@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1138156,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Freshlife Vücut Temizleme Havlusu 12x50 600 Yaprak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771103162827,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648561736,
+      "__unknown_productSubTitle": "Freshlife Vücut Temizleme Havlusu 12x50 600 Yaprak ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1138157,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Freshlife Vücut Temizleme Havlusu 12x50 600 Yaprak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755194182622,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648561736,
+      "__unknown_productSubTitle": "Freshlife Vücut Temizleme Havlusu 12x50 600 Yaprak ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1138158,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Freshlife Vücut Temizleme Havlusu 12x50 600 Yaprak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1753371930527,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/24/89/19/71/94/90/35/07/55/17/68229131569014719174.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 660801490,
+      "__unknown_productSubTitle": "Freshlife Vücut Temizleme Havlusu 12x50 600 Yaprak ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7486654,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/24/89/19/71/94/90/35/07/55/17/68229131569014719174.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/24/89/19/71/94/90/35/07/55/17/68229131569014719174.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/24/89/19/71/94/90/35/07/55/17/68229131569014719174.jpg"
+    }
+  }
+]

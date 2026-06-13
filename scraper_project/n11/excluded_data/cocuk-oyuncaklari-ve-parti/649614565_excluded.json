@@ -1,0 +1,56 @@
+[
+  {
+    "gid_ref": 396743,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Magnepaint 58 Parçalı Premium Manyetik Oyuncak/bloklar Seti Boya",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774166273760,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774166273760,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649614565,
+      "__unknown_productSubTitle": "Magnepaint 58 Parçalı Premium Manyetik Oyuncak/bloklar Seti Boya ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 396744,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Magnepaint 58 Parçalı Premium Manyetik Oyuncak/bloklar Seti Boya",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768423169513,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/14/54/87/07/14/83/08/80/27/86/7101043413391393855.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649614565,
+      "__unknown_productSubTitle": "Magnepaint 58 Parçalı Premium Manyetik Oyuncak/bloklar Seti Boya ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8252742,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/14/54/87/07/14/83/08/80/27/86/7101043413391393855.png"
+        },
+        {
+          "id": 8252743,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/14/73/33/17/47/85/40/21/02/97/78742208533247668865.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/14/54/87/07/14/83/08/80/27/86/7101043413391393855.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/14/54/87/07/14/83/08/80/27/86/7101043413391393855.png"
+    }
+  }
+]

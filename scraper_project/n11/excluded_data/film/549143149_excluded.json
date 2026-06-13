@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 735527,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Traffıc Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711518742335,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/27/71/82/62/79/63/28/17/88/16/76437740421088693264.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 549143149,
+      "__unknown_productSubTitle": "Traffıc Dvd",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4251109,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/27/71/82/62/79/63/28/17/88/16/76437740421088693264.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/27/71/82/62/79/63/28/17/88/16/76437740421088693264.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/27/71/82/62/79/63/28/17/88/16/76437740421088693264.png"
+    }
+  }
+]

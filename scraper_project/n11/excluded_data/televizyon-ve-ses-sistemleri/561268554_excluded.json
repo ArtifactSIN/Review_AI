@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 1306750,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Midex MTX-256 Şarjlı Bluetooth Aux Hoparlörlü Nostaljik Pikap Plak Çalar",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719442195753,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561268554,
+      "__unknown_productSubTitle": "Midex MTX-256 Şarjlı Bluetooth Aux Hoparlörlü Nostaljik Pikap Plak Çalar",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1306751,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Midex MTX-256 Şarjlı Bluetooth Aux Hoparlörlü Nostaljik Pikap Plak Çalar",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1716807669246,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/27/55/86/01/71/94/53/36/74/63/994490478753463445.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561268554,
+      "__unknown_productSubTitle": "Midex MTX-256 Şarjlı Bluetooth Aux Hoparlörlü Nostaljik Pikap Plak Çalar",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4796365,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/27/55/86/01/71/94/53/36/74/63/994490478753463445.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/27/55/86/01/71/94/53/36/74/63/994490478753463445.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/27/55/86/01/71/94/53/36/74/63/994490478753463445.png"
+    }
+  },
+  {
+    "gid_ref": 1306752,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Toz kapakli bataryali",
+      "productTitle": "Midex MTX-256 Şarjlı Bluetooth Aux Hoparlörlü Nostaljik Pikap Plak Çalar",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1674647804452,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/01/25/79/49/39/59/56/52/64/22/50/57511020425738341335.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561268554,
+      "__unknown_productSubTitle": "Midex MTX-256 Şarjlı Bluetooth Aux Hoparlörlü Nostaljik Pikap Plak Çalar",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1537602,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/25/79/49/39/59/56/52/64/22/50/57511020425738341335.jpeg"
+        },
+        {
+          "id": 1537603,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/25/87/49/13/38/05/24/01/36/38/25725474137337249921.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/01/25/79/49/39/59/56/52/64/22/50/57511020425738341335.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/01/25/79/49/39/59/56/52/64/22/50/57511020425738341335.jpeg"
+    }
+  }
+]

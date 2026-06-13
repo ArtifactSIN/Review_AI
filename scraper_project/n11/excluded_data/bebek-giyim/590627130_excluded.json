@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 251733,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hakiki Deri Lacivert Cırtlı Bebek Patik Ayakkabı Lacivert",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756835511189,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/02/61/92/54/43/71/74/63/57/06/04801396373784053591.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611834338,
+      "__unknown_productSubTitle": "Hakiki Deri Lacivert Cırtlı Bebek Patik Ayakkabı Lacivert 20",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7637402,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/02/61/92/54/43/71/74/63/57/06/04801396373784053591.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/02/61/92/54/43/71/74/63/57/06/04801396373784053591.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/02/61/92/54/43/71/74/63/57/06/04801396373784053591.png"
+    }
+  },
+  {
+    "gid_ref": 251734,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hakiki Deri Lacivert Cırtlı Bebek Patik Ayakkabı Lacivert",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717671265426,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750684787153,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590627130,
+      "__unknown_productSubTitle": "Hakiki Deri Lacivert Cırtlı Bebek Patik Ayakkabı Lacivert 19",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

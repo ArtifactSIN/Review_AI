@@ -1,0 +1,100 @@
+[
+  {
+    "gid_ref": 777938,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Kadın Mint V Yaka Basic Kazak 50313625-VR253",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768107907280,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/11/53/83/44/15/69/42/34/14/05/07567119907096447454.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712830388,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Kadın Mint V Yaka Basic Kazak 50313625-VR253  L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8241852,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/11/53/83/44/15/69/42/34/14/05/07567119907096447454.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/11/53/83/44/15/69/42/34/14/05/07567119907096447454.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/11/53/83/44/15/69/42/34/14/05/07567119907096447454.png"
+    }
+  },
+  {
+    "gid_ref": 777939,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Kadın Mint V Yaka Basic Kazak 50313625-VR253",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767711250344,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/06/53/24/61/59/07/22/80/60/89/07663934498088926286.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712830388,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Kadın Mint V Yaka Basic Kazak 50313625-VR253  L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8218629,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/06/53/24/61/59/07/22/80/60/89/07663934498088926286.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/06/53/24/61/59/07/22/80/60/89/07663934498088926286.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/06/53/24/61/59/07/22/80/60/89/07663934498088926286.png"
+    }
+  },
+  {
+    "gid_ref": 777940,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Kadın Mint V Yaka Basic Kazak 50313625-VR253",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766174422085,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712830366,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Kadın Mint V Yaka Basic Kazak 50313625-VR253  S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 777941,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Kadın Mint V Yaka Basic Kazak 50313625-VR253",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764724664004,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712830366,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Kadın Mint V Yaka Basic Kazak 50313625-VR253  S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

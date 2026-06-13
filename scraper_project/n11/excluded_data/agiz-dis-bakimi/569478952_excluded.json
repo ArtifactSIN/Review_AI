@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 10286,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lovyco Oral-B Braun Uyumlu 8 Adet Yedek Başlık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774620503176,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774620503176,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 541363127,
+      "__unknown_productSubTitle": "Lovyco Oral-B Braun Uyumlu 8 Adet Yedek Başlık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 10287,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lovyco Oral-B Braun Uyumlu 8 Adet Yedek Başlık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1678880551360,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1678880727478,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569478952,
+      "__unknown_productSubTitle": "Lovyco Oral-B Braun Uyumlu 8 Adet Yedek Başlık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

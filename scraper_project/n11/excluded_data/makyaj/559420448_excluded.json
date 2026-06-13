@@ -1,0 +1,65 @@
+[
+  {
+    "gid_ref": 837060,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Color Sensational Ruj 547 Pleasure Me Red",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772453019749,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559420448,
+      "__unknown_productSubTitle": "Maybelline New York Color Sensational Ruj 547 Pleasure Me Red",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 837061,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Color Sensational Ruj 547 Pleasure Me Red",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769524042970,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559420448,
+      "__unknown_productSubTitle": "Maybelline New York Color Sensational Ruj 547 Pleasure Me Red",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 837062,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Canlı kırmızı",
+      "productTitle": "Maybelline New York Color Sensational Ruj 547 Pleasure Me Red",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1620070385756,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 332520702,
+      "__unknown_productSubTitle": "Maybelline New York Color Sensational Ruj 547 Pleasure Me Red",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

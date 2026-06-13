@@ -1,0 +1,100 @@
+[
+  {
+    "gid_ref": 796188,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vagonlife Uzpace Matara Temizleme Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775466848382,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/06/66/57/96/91/69/59/38/28/15/2225440999670068938.jpg",
+      "__unknown_lastModifiedDate": 1775466848382,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634016441,
+      "__unknown_productSubTitle": "Vagonlife Uzpace Matara Temizleme Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8567391,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/06/66/57/96/91/69/59/38/28/15/2225440999670068938.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/06/66/57/96/91/69/59/38/28/15/2225440999670068938.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/06/66/57/96/91/69/59/38/28/15/2225440999670068938.jpg"
+    }
+  },
+  {
+    "gid_ref": 796189,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vagonlife Uzpace Matara Temizleme Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773416675511,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773416675511,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634016441,
+      "__unknown_productSubTitle": "Vagonlife Uzpace Matara Temizleme Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 796190,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vagonlife Uzpace Matara Temizleme Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765927442490,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/17/66/47/21/89/09/61/78/49/65/89173254846175231783.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634016441,
+      "__unknown_productSubTitle": "Vagonlife Uzpace Matara Temizleme Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8123437,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/17/66/47/21/89/09/61/78/49/65/89173254846175231783.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/17/66/47/21/89/09/61/78/49/65/89173254846175231783.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/17/66/47/21/89/09/61/78/49/65/89173254846175231783.png"
+    }
+  },
+  {
+    "gid_ref": 796191,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vagonlife Uzpace Matara Temizleme Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763488392387,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634016441,
+      "__unknown_productSubTitle": "Vagonlife Uzpace Matara Temizleme Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

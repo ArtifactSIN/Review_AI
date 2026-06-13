@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 260109,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ürün iyi kargolma hızlı ama paketleme çok vasat",
+      "productTitle": "65 x 95 Maxi-Cosi Bamboo Visco Bebek Yatağı 65*95 Park Yatağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1582836505454,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 366349346,
+      "__unknown_productSubTitle": "65 x 95 Maxi-Cosi Bamboo Visco Bebek Yatağı 65*95 Park Yatağı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 260110,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "65 x 95 Maxi-Cosi Bamboo Visco Bebek Yatağı 65*95 Park Yatağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1569528039290,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 366349346,
+      "__unknown_productSubTitle": "65 x 95 Maxi-Cosi Bamboo Visco Bebek Yatağı 65*95 Park Yatağı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

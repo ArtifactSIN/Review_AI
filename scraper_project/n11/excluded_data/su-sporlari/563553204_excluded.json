@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1163163,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oceanus Şnorkel Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726597830034,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 563553204,
+      "__unknown_productSubTitle": "Oceanus Şnorkel Siyah Aqua Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1163164,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "güzel",
+      "productTitle": "Oceanus Şnorkel Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1661275571095,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551625247,
+      "__unknown_productSubTitle": "Oceanus Şnorkel Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

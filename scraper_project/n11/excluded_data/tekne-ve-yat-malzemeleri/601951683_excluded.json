@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 1251543,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dıştan Takma Motor Yıkama Kulağı Yuvarlak - Kulak Çapı 9 Mm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774354905159,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774354905159,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601951683,
+      "__unknown_productSubTitle": "Dıştan Takma Motor Yıkama Kulağı Yuvarlak - Kulak Çapı 9 Mm ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251544,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dıştan Takma Motor Yıkama Kulağı Yuvarlak - Kulak Çapı 9 Mm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761078780098,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/21/71/12/22/50/78/71/93/24/38/73869743020010062276.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601951683,
+      "__unknown_productSubTitle": "Dıştan Takma Motor Yıkama Kulağı Yuvarlak - Kulak Çapı 9 Mm ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7825946,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/21/71/12/22/50/78/71/93/24/38/73869743020010062276.jpg"
+        },
+        {
+          "id": 7825947,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/21/65/04/29/73/31/95/09/29/79/48181024127527467279.jpg"
+        },
+        {
+          "id": 7825948,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/21/70/67/64/56/90/27/53/53/58/15218760831047123120.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/21/71/12/22/50/78/71/93/24/38/73869743020010062276.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/21/71/12/22/50/78/71/93/24/38/73869743020010062276.jpg"
+    }
+  }
+]

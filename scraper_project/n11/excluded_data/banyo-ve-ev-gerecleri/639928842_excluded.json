@@ -1,0 +1,102 @@
+[
+  {
+    "gid_ref": 158674,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Artema A43404 Twist Round Eviye Bataryası Krom",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765124325318,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639928842,
+      "__unknown_productSubTitle": "Artema A43404 Twist Round Eviye Bataryası Krom",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 158675,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Artema A43404 Twist Round Eviye Bataryası Krom",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754716554946,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639928842,
+      "__unknown_productSubTitle": "Artema A43404 Twist Round Eviye Bataryası Krom",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 158676,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Artema A43404 Twist Round Eviye Bataryası Krom",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752672303113,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/16/86/60/17/64/19/78/33/84/31/26180065280807029077.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639928842,
+      "__unknown_productSubTitle": "Artema A43404 Twist Round Eviye Bataryası Krom",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7462551,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/16/86/60/17/64/19/78/33/84/31/26180065280807029077.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/16/86/60/17/64/19/78/33/84/31/26180065280807029077.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/16/86/60/17/64/19/78/33/84/31/26180065280807029077.png"
+    }
+  },
+  {
+    "gid_ref": 158677,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Artema A43404 Twist Round Eviye Bataryası Krom",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731009748232,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/07/46/68/69/07/80/61/96/45/79/39080562738933644960.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631581995,
+      "__unknown_productSubTitle": "Artema A43404 Twist Round Eviye Bataryası Krom",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6163220,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/07/46/68/69/07/80/61/96/45/79/39080562738933644960.png"
+        },
+        {
+          "id": 6163221,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/07/68/52/23/60/01/12/60/80/51/87251056128984858126.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/07/46/68/69/07/80/61/96/45/79/39080562738933644960.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/07/46/68/69/07/80/61/96/45/79/39080562738933644960.png"
+    }
+  }
+]

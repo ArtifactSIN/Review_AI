@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 930916,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jumbo Lizbon Çaydanlık Takımı 8534 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763136546566,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666595233,
+      "__unknown_productSubTitle": "Jumbo Lizbon Çaydanlık Takımı 8534 Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 930917,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jumbo Lizbon Çaydanlık Takımı 8534 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762355321054,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666595233,
+      "__unknown_productSubTitle": "Jumbo Lizbon Çaydanlık Takımı 8534 Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 930918,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jumbo Lizbon Çaydanlık Takımı 8534 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747904358189,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1752045186950,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666595233,
+      "__unknown_productSubTitle": "Jumbo Lizbon Çaydanlık Takımı 8534 Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

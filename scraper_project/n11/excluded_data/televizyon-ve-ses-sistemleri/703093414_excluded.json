@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 1328059,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung 65S90F 65\" 4K Ultra HD Smart OLED TV",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775417215903,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/05/56/34/56/03/54/15/59/16/28/97167084673919529994.jpg",
+      "__unknown_lastModifiedDate": 1775417215903,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 681410299,
+      "__unknown_productSubTitle": "Samsung 65S90F 65\" 4K Ultra HD Smart OLED TV",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8571510,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/05/56/34/56/03/54/15/59/16/28/97167084673919529994.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/05/56/34/56/03/54/15/59/16/28/97167084673919529994.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/05/56/34/56/03/54/15/59/16/28/97167084673919529994.jpg"
+    }
+  },
+  {
+    "gid_ref": 1328060,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung 65S90F 65\" 4K Ultra HD Smart OLED TV",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758054362551,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/22/66/72/30/22/62/23/97/92/09/78550518652302344688.jpg",
+      "__unknown_lastModifiedDate": 1758570507444,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 685630585,
+      "__unknown_productSubTitle": "Samsung 65S90F 65\" 4K Ultra HD Smart OLED TV",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7714433,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/22/66/72/30/22/62/23/97/92/09/78550518652302344688.jpg"
+        },
+        {
+          "id": 7714434,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/22/71/81/62/63/66/74/74/57/33/4405965681422387339.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/22/66/72/30/22/62/23/97/92/09/78550518652302344688.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/22/66/72/30/22/62/23/97/92/09/78550518652302344688.jpg"
+    }
+  }
+]

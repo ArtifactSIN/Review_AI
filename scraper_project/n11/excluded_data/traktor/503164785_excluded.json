@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 1335442,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 240 S Hidrolik Direksiyon Seti Hema",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1743149220599,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/28/62/58/71/74/44/31/11/39/81/56163337427210517099.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645666290,
+      "__unknown_productSubTitle": "Massey Ferguson 240 S Hidrolik Direksiyon Seti Hema",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7003430,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/28/62/58/71/74/44/31/11/39/81/56163337427210517099.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/28/62/58/71/74/44/31/11/39/81/56163337427210517099.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/28/62/58/71/74/44/31/11/39/81/56163337427210517099.jpg"
+    }
+  },
+  {
+    "gid_ref": 1335443,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "sakin almayın",
+      "productTitle": "Massey Ferguson 240 S Hidrolik Direksiyon Seti Hema",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1670100250246,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 503164785,
+      "__unknown_productSubTitle": "Massey Ferguson 240 S Hidrolik Direksiyon Seti Hema",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1335444,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel ürün",
+      "productTitle": "Massey Ferguson 240 S Hidrolik Direksiyon Seti Hema",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1658780456066,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 503164785,
+      "__unknown_productSubTitle": "Massey Ferguson 240 S Hidrolik Direksiyon Seti Hema",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

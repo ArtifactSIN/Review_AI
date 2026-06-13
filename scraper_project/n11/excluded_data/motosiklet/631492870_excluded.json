@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 892260,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tech90 5008 Korumalı Motosiklet Ceket Açık Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765461803213,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/11/63/85/83/93/58/14/12/93/43/08244940759757049244.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631492869,
+      "__unknown_productSubTitle": "Tech90 5008 Korumalı Motosiklet Ceket Açık Kahverengi XL",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8098631,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/11/63/85/83/93/58/14/12/93/43/08244940759757049244.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/11/63/85/83/93/58/14/12/93/43/08244940759757049244.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/11/63/85/83/93/58/14/12/93/43/08244940759757049244.jpg"
+    }
+  },
+  {
+    "gid_ref": 892261,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tech90 5008 Korumalı Motosiklet Ceket Açık Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756298864847,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631492868,
+      "__unknown_productSubTitle": "Tech90 5008 Korumalı Motosiklet Ceket Açık Kahverengi L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

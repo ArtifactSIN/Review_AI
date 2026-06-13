@@ -1,0 +1,75 @@
+[
+  {
+    "gid_ref": 864257,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Türksit Range Mini Oyuncu Koltuğu Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775757532617,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775757532617,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581650216,
+      "__unknown_productSubTitle": "Türksit Range Mini Oyuncu Koltuğu Yeşil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 864258,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Türksit Range Mini Oyuncu Koltuğu Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740161056488,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581650216,
+      "__unknown_productSubTitle": "Türksit Range Mini Oyuncu Koltuğu Yeşil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 864259,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Türksit Range Mini Oyuncu Koltuğu Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1722839643289,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/05/52/22/69/79/25/11/96/37/02/44907855977051109422.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581650216,
+      "__unknown_productSubTitle": "Türksit Range Mini Oyuncu Koltuğu Yeşil",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5326717,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/05/52/22/69/79/25/11/96/37/02/44907855977051109422.jpg"
+        },
+        {
+          "id": 5326718,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/05/86/92/09/16/38/87/00/61/03/95686591326181374176.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/05/52/22/69/79/25/11/96/37/02/44907855977051109422.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/05/52/22/69/79/25/11/96/37/02/44907855977051109422.jpg"
+    }
+  }
+]

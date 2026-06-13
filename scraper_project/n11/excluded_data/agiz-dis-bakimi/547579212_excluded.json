@@ -1,0 +1,100 @@
+[
+  {
+    "gid_ref": 7815,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensodyne Beyazlatıcı Onarım & Koruma Derin Onarım Diş Macunu 75 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1753554795143,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/26/64/16/86/30/47/35/11/86/66/95965313483340399279.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645584517,
+      "__unknown_productSubTitle": "Sensodyne Beyazlatıcı Onarım & Koruma Derin Onarım Diş Macunu 75 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7494210,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/26/77/76/25/31/90/50/09/30/58/56414926325789116296.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/26/64/16/86/30/47/35/11/86/66/95965313483340399279.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/26/64/16/86/30/47/35/11/86/66/95965313483340399279.jpg"
+    }
+  },
+  {
+    "gid_ref": 7816,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensodyne Beyazlatıcı Onarım & Koruma Derin Onarım Diş Macunu 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731581035395,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 547579212,
+      "__unknown_productSubTitle": "Sensodyne Beyazlatıcı Onarım & Koruma Derin Onarım Diş Macunu 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 7817,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Gönderilen ürün bu değil",
+      "productTitle": "Sensodyne Beyazlatıcı Onarım & Koruma Derin Onarım Diş Macunu 75 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1664112165753,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 542833313,
+      "__unknown_productSubTitle": "Sensodyne Onarım VE Koruma Derin Onarım 75ML.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 7818,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün doğru değil",
+      "productTitle": "Sensodyne Beyazlatıcı Onarım & Koruma Derin Onarım Diş Macunu 75 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1663089418819,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/09/13/47/15/26/85/25/14/35/78/58/16310766544312645122.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 542833313,
+      "__unknown_productSubTitle": "Sensodyne Onarım VE Koruma Derin Onarım 75ML.",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1034657,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/09/13/47/15/26/85/25/14/35/78/58/16310766544312645122.jpeg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/09/13/47/15/26/85/25/14/35/78/58/16310766544312645122.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/09/13/47/15/26/85/25/14/35/78/58/16310766544312645122.jpeg"
+    }
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "gid_ref": 264418,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanz Pretty Oyun Parkı Park Yatak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770055530850,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/02/81/72/00/57/73/64/20/20/61/31498056913406804911.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730752334,
+      "__unknown_productSubTitle": "Kanz Pretty Oyun Parkı Park Yatak Füme",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8314520,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/02/81/72/00/57/73/64/20/20/61/31498056913406804911.jpg"
+        },
+        {
+          "id": 8314521,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/02/53/71/66/55/03/21/81/67/96/22568160697864731588.jpg"
+        },
+        {
+          "id": 8314522,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/02/50/49/71/46/84/00/95/61/06/85942888195231662087.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/02/81/72/00/57/73/64/20/20/61/31498056913406804911.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/02/81/72/00/57/73/64/20/20/61/31498056913406804911.jpg"
+    }
+  },
+  {
+    "gid_ref": 264419,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanz Pretty Oyun Parkı Park Yatak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721114731724,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611758393,
+      "__unknown_productSubTitle": "Kanz Pretty Oyun Parkı Park Yatak Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 264420,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanz Pretty Oyun Parkı Park Yatak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713028588606,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/13/74/95/55/32/24/29/01/36/15/54867977075573080337.jpg",
+      "__unknown_lastModifiedDate": 1713028664714,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597755430,
+      "__unknown_productSubTitle": "Kanz Pretty Oyun Parkı Park Yatak Füme",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4398390,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/13/74/95/55/32/24/29/01/36/15/54867977075573080337.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/13/74/95/55/32/24/29/01/36/15/54867977075573080337.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/13/74/95/55/32/24/29/01/36/15/54867977075573080337.jpg"
+    }
+  }
+]

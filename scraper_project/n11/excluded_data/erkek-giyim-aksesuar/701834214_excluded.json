@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 576444,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Haki Basic Sweatshirt 50313772-VR027",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770388639313,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701834214,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Haki Basic Sweatshirt 50313772-VR027  M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 576445,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Haki Basic Sweatshirt 50313772-VR027",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767025467113,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701834171,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Haki Basic Sweatshirt 50313772-VR027 XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 576446,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Haki Basic Sweatshirt 50313772-VR027",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764278817244,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701771640,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Haki Basic Sweatshirt 50313772-VR027  L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 576447,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Haki Basic Sweatshirt 50313772-VR027",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763569882493,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/19/63/22/03/90/57/29/44/68/00/92365119824046372999.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701771640,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Haki Basic Sweatshirt 50313772-VR027  L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7988885,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/19/63/22/03/90/57/29/44/68/00/92365119824046372999.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/19/63/22/03/90/57/29/44/68/00/92365119824046372999.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/19/63/22/03/90/57/29/44/68/00/92365119824046372999.png"
+    }
+  }
+]

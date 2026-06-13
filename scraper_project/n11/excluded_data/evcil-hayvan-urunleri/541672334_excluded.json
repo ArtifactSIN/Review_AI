@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 669228,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Eheim Liberty 200 Askı Filtre",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774454675206,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774454675206,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 541672334,
+      "__unknown_productSubTitle": "Eheim Liberty 200 Askı Filtre",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 669229,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Eheim Liberty 200 Askı Filtre",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1759642978026,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 538929971,
+      "__unknown_productSubTitle": "Eheim Liberty 200 Askı Filtre",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 669230,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Eheim Liberty 200 Askı Filtre",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1673625072340,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 538929971,
+      "__unknown_productSubTitle": "Eheim Liberty 200 Askı Filtre",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

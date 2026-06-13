@@ -1,0 +1,122 @@
+[
+  {
+    "gid_ref": 399129,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hot Wheels Monster Trucks Karanlıkta Parlayan Araçlar HCB57",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763414719960,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/18/58/66/46/02/27/37/53/63/19/21781866669287388125.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665484213,
+      "__unknown_productSubTitle": "Hot Wheels Monster Trucks Karanlıkta Parlayan Araçlar HCB57",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7981696,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/18/79/85/95/88/79/00/42/78/61/64801397405264165530.jpg"
+        },
+        {
+          "id": 7981697,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/18/72/58/70/51/57/61/98/22/20/66261097691366965462.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/18/58/66/46/02/27/37/53/63/19/21781866669287388125.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/18/58/66/46/02/27/37/53/63/19/21781866669287388125.jpg"
+    }
+  },
+  {
+    "gid_ref": 399130,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hot Wheels Monster Trucks Karanlıkta Parlayan Araçlar HCB57",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761910226827,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665484213,
+      "__unknown_productSubTitle": "Hot Wheels Monster Trucks Karanlıkta Parlayan Araçlar HCB57",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 399131,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hot Wheels Monster Trucks Karanlıkta Parlayan Araçlar HCB57",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1723063156897,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/07/77/30/98/09/87/38/31/36/37/35232391841192326526.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 570897590,
+      "__unknown_productSubTitle": "Hot Wheels Monster Trucks Karanlıkta Parlayan Araçlar HCB57",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5359842,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/07/77/30/98/09/87/38/31/36/37/35232391841192326526.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/07/77/30/98/09/87/38/31/36/37/35232391841192326526.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/07/77/30/98/09/87/38/31/36/37/35232391841192326526.png"
+    }
+  },
+  {
+    "gid_ref": 399132,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hot Wheels Monster Trucks Karanlıkta Parlayan Araçlar HCB57",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722576183331,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 570897590,
+      "__unknown_productSubTitle": "Hot Wheels Monster Trucks Karanlıkta Parlayan Araçlar HCB57",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 399133,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hot Wheels Monster Trucks Karanlıkta Parlayan Araçlar HCB57",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722576116145,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 570897590,
+      "__unknown_productSubTitle": "Hot Wheels Monster Trucks Karanlıkta Parlayan Araçlar HCB57",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

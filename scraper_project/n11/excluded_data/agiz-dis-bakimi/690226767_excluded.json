@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 28210,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B iO 6 Şarjlı Diş Fırçası Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767807953713,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 692567656,
+      "__unknown_productSubTitle": "Oral-B iO 6 Şarjlı Diş Fırçası Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 28211,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B iO 6 Şarjlı Diş Fırçası Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763374845122,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 692567656,
+      "__unknown_productSubTitle": "Oral-B iO 6 Şarjlı Diş Fırçası Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 28212,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B iO 6 Şarjlı Diş Fırçası Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725441462391,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581134835,
+      "__unknown_productSubTitle": "Oral-B iO 6 Şarjlı Diş Fırçası Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

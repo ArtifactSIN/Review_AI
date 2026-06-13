@@ -1,0 +1,103 @@
+[
+  {
+    "gid_ref": 1345335,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps5 Dualsense Mor  Ürün",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775454185070,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775454185070,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650631131,
+      "__unknown_productSubTitle": "Ps5 Dualsense Mor  Ürün",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1345336,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps5 Dualsense Mor  Ürün",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744740704781,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/15/71/46/91/62/39/71/41/05/93/04262361223603403927.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650631131,
+      "__unknown_productSubTitle": "Ps5 Dualsense Mor  Ürün",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7096995,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/15/71/46/91/62/39/71/41/05/93/04262361223603403927.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/15/71/46/91/62/39/71/41/05/93/04262361223603403927.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/15/71/46/91/62/39/71/41/05/93/04262361223603403927.jpg"
+    }
+  },
+  {
+    "gid_ref": 1345337,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps5 Dualsense Mor  Ürün",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1743699532208,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/03/63/16/19/52/13/65/13/75/75/25187721202743068938.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650631131,
+      "__unknown_productSubTitle": "Ps5 Dualsense Mor  Ürün",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7054852,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/03/63/16/19/52/13/65/13/75/75/25187721202743068938.png"
+        },
+        {
+          "id": 7054853,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/03/87/96/92/21/98/39/96/34/77/72403160634048099722.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/03/63/16/19/52/13/65/13/75/75/25187721202743068938.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/03/63/16/19/52/13/65/13/75/75/25187721202743068938.png"
+    }
+  },
+  {
+    "gid_ref": 1345338,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps5 Dualsense Mor  Ürün",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739893303783,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650631131,
+      "__unknown_productSubTitle": "Ps5 Dualsense Mor  Ürün",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

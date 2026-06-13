@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 498189,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Convita Lullaby Damla 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753906693837,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654507378,
+      "__unknown_productSubTitle": "Convita Lullaby Damla 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 498190,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Convita Lullaby Damla 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1709307627489,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/01/51/69/50/70/54/66/51/11/90/96177765361408064302.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539856768,
+      "__unknown_productSubTitle": "Convita Lullaby Damla 50 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4024489,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/01/51/69/50/70/54/66/51/11/90/96177765361408064302.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/01/51/69/50/70/54/66/51/11/90/96177765361408064302.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/01/51/69/50/70/54/66/51/11/90/96177765361408064302.png"
+    }
+  },
+  {
+    "gid_ref": 498191,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Convita Lullaby Damla 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1691523158133,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539856768,
+      "__unknown_productSubTitle": "Convita Lullaby Damla 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

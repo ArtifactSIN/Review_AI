@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 754231,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Trina Profesyonel Plastik Saplı Berber Makası 6",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1743095353638,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595248839,
+      "__unknown_productSubTitle": "Trina Profesyonel Plastik Saplı Berber Makası 6",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 754232,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Trina Profesyonel Plastik Saplı Berber Makası 6",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1723277024986,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595248839,
+      "__unknown_productSubTitle": "Trina Profesyonel Plastik Saplı Berber Makası 6",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

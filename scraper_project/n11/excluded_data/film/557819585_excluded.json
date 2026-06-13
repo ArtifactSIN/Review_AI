@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 735576,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blu Ray-Vahşi Okyanus 3D",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774546735801,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/79/55/68/69/30/58/33/30/15/35504721206727754630.png",
+      "__unknown_lastModifiedDate": 1774546735801,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557819585,
+      "__unknown_productSubTitle": "Blu Ray-Vahşi Okyanus 3D",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8524205,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/79/55/68/69/30/58/33/30/15/35504721206727754630.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/79/55/68/69/30/58/33/30/15/35504721206727754630.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/79/55/68/69/30/58/33/30/15/35504721206727754630.png"
+    }
+  },
+  {
+    "gid_ref": 735577,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blu Ray-Vahşi Okyanus 3D",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729510503120,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557819585,
+      "__unknown_productSubTitle": "Blu Ray-Vahşi Okyanus 3D",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735578,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blu Ray-Vahşi Okyanus 3D",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729510185245,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557819585,
+      "__unknown_productSubTitle": "Blu Ray-Vahşi Okyanus 3D",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735579,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blu Ray-Vahşi Okyanus 3D",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715187748005,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/08/73/10/82/93/46/58/59/37/16/4270419845265995956.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557819585,
+      "__unknown_productSubTitle": "Blu Ray-Vahşi Okyanus 3D",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4627003,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/08/73/10/82/93/46/58/59/37/16/4270419845265995956.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/08/73/10/82/93/46/58/59/37/16/4270419845265995956.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/08/73/10/82/93/46/58/59/37/16/4270419845265995956.png"
+    }
+  }
+]

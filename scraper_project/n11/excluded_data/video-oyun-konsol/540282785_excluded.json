@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1337205,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sony PS3 Joystick PS3 Kol Beyaz Şarj Kablosu ile Birlikte",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1683613306875,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 543100021,
+      "__unknown_productSubTitle": "Sony PS3 Joystick PS3 Kol Beyaz Şarj Kablosu ile Birlikte",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337206,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sony PS3 Joystick PS3 Kol Beyaz Şarj Kablosu ile Birlikte",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1675351577075,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 537272712,
+      "__unknown_productSubTitle": "Sony PS3 Joystick PS3 Kol Beyaz Şarj Kablosu ile Birlikte",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337207,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "f/p ürünü",
+      "productTitle": "Sony PS3 Joystick PS3 Kol Beyaz Şarj Kablosu ile Birlikte",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1652466117681,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 540282785,
+      "__unknown_productSubTitle": "Sony PS3 Joystick PS3 Kol Beyaz Şarj Kablosu ile Birlikte",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 835249,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Petlas 185/65 R15 88H Imperium PT515 Yaz Lastiği 2026",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775304388658,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775304388658,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 737425818,
+      "__unknown_productSubTitle": "Petlas 185/65 R15 88H Imperium PT515 Yaz Lastiği 2026 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 835250,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Petlas 185/65 R15 88H Imperium PT515 Yaz Lastiği 2026",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775225620911,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775225620911,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 737425818,
+      "__unknown_productSubTitle": "Petlas 185/65 R15 88H Imperium PT515 Yaz Lastiği 2026 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 835251,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Petlas 185/65 R15 88H Imperium PT515 Yaz Lastiği 2026",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775053439867,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/64/34/46/84/01/55/56/38/55/04133217765118790175.png",
+      "__unknown_lastModifiedDate": 1775053439867,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 737425818,
+      "__unknown_productSubTitle": "Petlas 185/65 R15 88H Imperium PT515 Yaz Lastiği 2026 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8557961,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/64/34/46/84/01/55/56/38/55/04133217765118790175.png"
+        },
+        {
+          "id": 8557962,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/62/81/72/79/01/39/79/90/17/17420895688196636746.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/64/34/46/84/01/55/56/38/55/04133217765118790175.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/64/34/46/84/01/55/56/38/55/04133217765118790175.png"
+    }
+  },
+  {
+    "gid_ref": 835252,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Petlas 185/65 R15 88H Imperium PT515 Yaz Lastiği 2026",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773249643099,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773249643099,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732202171,
+      "__unknown_productSubTitle": "Petlas 185/65 R15 88H Imperium PT515 Yaz Lastiği 2026 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

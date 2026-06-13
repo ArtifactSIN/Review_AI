@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 189833,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vichy Capital Soleil SPF50+ Yüksek Korumalı Çocuk Güneş Sütü 300 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762352099868,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573119884,
+      "__unknown_productSubTitle": "Vichy Capital Soleil SPF50+ Yüksek Korumalı Çocuk Güneş Sütü 300 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 189834,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vichy Capital Soleil SPF50+ Yüksek Korumalı Çocuk Güneş Sütü 300 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754899014439,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/11/50/76/88/31/45/08/84/22/80/11692715425107495747.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580860854,
+      "__unknown_productSubTitle": "Vichy Capital Soleil SPF50+ Yüksek Korumalı Çocuk Güneş Sütü 300 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7530481,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/11/50/76/88/31/45/08/84/22/80/11692715425107495747.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/11/50/76/88/31/45/08/84/22/80/11692715425107495747.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/11/50/76/88/31/45/08/84/22/80/11692715425107495747.jpg"
+    }
+  },
+  {
+    "gid_ref": 189835,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vichy Capital Soleil SPF50+ Yüksek Korumalı Çocuk Güneş Sütü 300 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1748436021646,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/28/70/71/26/44/42/91/54/64/08/36129179907071850806.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646961763,
+      "__unknown_productSubTitle": "Vichy Capital Soleil SPF50+ Yüksek Korumalı Çocuk Güneş Sütü 300 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7268536,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/28/70/71/26/44/42/91/54/64/08/36129179907071850806.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/28/70/71/26/44/42/91/54/64/08/36129179907071850806.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/28/70/71/26/44/42/91/54/64/08/36129179907071850806.jpg"
+    }
+  }
+]

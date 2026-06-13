@@ -1,0 +1,82 @@
+[
+  {
+    "gid_ref": 427564,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple Store Itunes Card 100 Dolar - Us 100$ (436561618)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1752766546530,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650811422,
+      "__unknown_productSubTitle": "Apple Store Itunes Card 100 Dolar - Us 100$ (436561618) ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 427565,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple Store Itunes Card 100 Dolar - Us 100$ (436561618)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1682335755296,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 436561618,
+      "__unknown_productSubTitle": "Apple Store Itunes Card 100 Dolar - Us 100$ (436561618) ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 427566,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple Store Itunes Card 100 Dolar - Us 100$ (436561618)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1682171753230,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 436561618,
+      "__unknown_productSubTitle": "Apple Store Itunes Card 100 Dolar - Us 100$ (436561618) ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 427567,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple Store Itunes Card 100 Dolar - Us 100$ (436561618)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1682074568831,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 436561618,
+      "__unknown_productSubTitle": "Apple Store Itunes Card 100 Dolar - Us 100$ (436561618) ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

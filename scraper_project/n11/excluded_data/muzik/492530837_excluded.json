@@ -1,0 +1,100 @@
+[
+  {
+    "gid_ref": 945011,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mooer Ge200 Multi Efekt Pedalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733177489610,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/03/90/66/80/61/45/15/61/95/89/52614522893211618445.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 492530837,
+      "__unknown_productSubTitle": "Mooer Ge200 Multi Efekt Pedalı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6395888,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/03/90/66/80/61/45/15/61/95/89/52614522893211618445.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/03/90/66/80/61/45/15/61/95/89/52614522893211618445.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/03/90/66/80/61/45/15/61/95/89/52614522893211618445.png"
+    }
+  },
+  {
+    "gid_ref": 945012,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mooer Ge200 Multi Efekt Pedalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711114687307,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/22/71/31/01/44/15/25/83/48/68/9898541002965403006.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 492530837,
+      "__unknown_productSubTitle": "Mooer Ge200 Multi Efekt Pedalı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4200708,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/22/71/31/01/44/15/25/83/48/68/9898541002965403006.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/22/71/31/01/44/15/25/83/48/68/9898541002965403006.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/22/71/31/01/44/15/25/83/48/68/9898541002965403006.png"
+    }
+  },
+  {
+    "gid_ref": 945013,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "cok iyi",
+      "productTitle": "Mooer Ge200 Multi Efekt Pedalı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1643361760836,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 409177094,
+      "__unknown_productSubTitle": "Mooer Ge200 Multi Efekt Pedalı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 945014,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Gayet iyi prösesör! sevdim",
+      "productTitle": "Mooer Ge200 Multi Efekt Pedalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1637267570179,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 492530837,
+      "__unknown_productSubTitle": "Mooer Ge200 Multi Efekt Pedalı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

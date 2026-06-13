@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 174876,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Yenidoğan Saç Ve Vücut Şampuanı 500 Ml + Mustela Hydra Bebe Vücut Losyonu 300 Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762974347237,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 681345010,
+      "__unknown_productSubTitle": "Mustela Yenidoğan Saç Ve Vücut Şampuanı 500 Ml + Mustela Hydra Bebe Vücut Losyonu 300 Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 174877,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Yenidoğan Saç Ve Vücut Şampuanı 500 Ml + Mustela Hydra Bebe Vücut Losyonu 300 Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1751664761174,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/05/82/13/79/88/11/37/77/06/34/12491788667365798880.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 681345010,
+      "__unknown_productSubTitle": "Mustela Yenidoğan Saç Ve Vücut Şampuanı 500 Ml + Mustela Hydra Bebe Vücut Losyonu 300 Ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7412602,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/05/82/13/79/88/11/37/77/06/34/12491788667365798880.jpg"
+        },
+        {
+          "id": 7412603,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/05/80/23/85/06/45/54/76/51/24/32383357734601965735.jpg"
+        },
+        {
+          "id": 7412604,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/05/70/02/24/61/07/88/73/74/60/94222399473514623840.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/05/82/13/79/88/11/37/77/06/34/12491788667365798880.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/05/82/13/79/88/11/37/77/06/34/12491788667365798880.jpg"
+    }
+  }
+]

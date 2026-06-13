@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 995316,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jean Paul Gaultier Le Male Erkek Deodorant Stick 75 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1688544267171,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 515489538,
+      "__unknown_productSubTitle": "Jean Paul Gaultier Le Male Erkek Deodorant Stick 75 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 995317,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "kokusu çok hafif",
+      "productTitle": "Jean Paul Gaultier Le Male Erkek Deodorant Stick 75 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1667552284044,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 514217405,
+      "__unknown_productSubTitle": "Jean Paul Gaultier Le Male Erkek Deodorant Stick 75 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "gid_ref": 400110,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dolu 8198 Grand Suv 12 Volt - Beyaz DOLU.307",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764059294794,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/25/68/37/31/19/23/98/24/23/64/05204591669864448468.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700246117,
+      "__unknown_productSubTitle": "Dolu 8198 Grand Suv 12 Volt - Beyaz DOLU.307 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8023202,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/25/68/37/31/19/23/98/24/23/64/05204591669864448468.jpeg"
+        },
+        {
+          "id": 8023203,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/25/74/63/65/86/89/81/59/69/56/72945321600409749036.jpeg"
+        },
+        {
+          "id": 8023204,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/25/59/46/32/20/06/32/09/45/31/82479965123302765242.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/25/68/37/31/19/23/98/24/23/64/05204591669864448468.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/25/68/37/31/19/23/98/24/23/64/05204591669864448468.jpeg"
+    }
+  }
+]

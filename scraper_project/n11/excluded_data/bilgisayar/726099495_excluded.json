@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 356953,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Asus Prime J4005I-C Intel Celeron J4005 2400 MHz DDR4 Mini ITX Anakart",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774554468308,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/88/64/25/96/10/67/48/83/10/47510440943189838592.png",
+      "__unknown_lastModifiedDate": 1774554468308,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 726099495,
+      "__unknown_productSubTitle": "Asus Prime J4005I-C Intel Celeron J4005 2400 MHz DDR4 Mini ITX Anakart",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8524310,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/88/64/25/96/10/67/48/83/10/47510440943189838592.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/88/64/25/96/10/67/48/83/10/47510440943189838592.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/88/64/25/96/10/67/48/83/10/47510440943189838592.png"
+    }
+  },
+  {
+    "gid_ref": 356954,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Asus Prime J4005I-C Intel Celeron J4005 2400 MHz DDR4 Mini ITX Anakart",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773744254121,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773744254121,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 725242985,
+      "__unknown_productSubTitle": "Asus Prime J4005I-C Intel Celeron J4005 2400 MHz DDR4 Mini ITX Anakart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

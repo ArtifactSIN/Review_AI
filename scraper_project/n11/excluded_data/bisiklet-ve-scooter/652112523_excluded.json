@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 384048,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Electron S5 Elektrikli Çocuk Amortisörlü Led'li Scooter + Dizlik ve Dirseklik",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1759960621941,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651953017,
+      "__unknown_productSubTitle": "Electron S5 Elektrikli Çocuk Amortisörlü Led'li Scooter + Dizlik ve Dirseklik Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 384049,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Electron S5 Elektrikli Çocuk Amortisörlü Led'li Scooter + Dizlik ve Dirseklik",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1750433272980,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/20/75/92/68/14/91/72/71/37/57/75821143966553325329.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651953017,
+      "__unknown_productSubTitle": "Electron S5 Elektrikli Çocuk Amortisörlü Led'li Scooter + Dizlik ve Dirseklik Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7364452,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/20/75/92/68/14/91/72/71/37/57/75821143966553325329.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/20/75/92/68/14/91/72/71/37/57/75821143966553325329.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/20/75/92/68/14/91/72/71/37/57/75821143966553325329.png"
+    }
+  }
+]

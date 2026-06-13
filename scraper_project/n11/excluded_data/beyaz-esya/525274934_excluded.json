@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 286096,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rcon RC 225S Kablosuz Oda Termostatı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734533846359,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/18/55/73/14/21/01/35/67/52/37/85738128682008594497.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 519743629,
+      "__unknown_productSubTitle": "Rcon RC 225S Kablosuz Oda Termostatı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6520220,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/18/55/73/14/21/01/35/67/52/37/85738128682008594497.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/18/55/73/14/21/01/35/67/52/37/85738128682008594497.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/18/55/73/14/21/01/35/67/52/37/85738128682008594497.png"
+    }
+  },
+  {
+    "gid_ref": 286097,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rcon RC 225S Kablosuz Oda Termostatı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1713793975925,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 525274934,
+      "__unknown_productSubTitle": "Rcon RC 225S Kablosuz Oda Termostatı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 286098,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rcon RC 225S Kablosuz Oda Termostatı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1672860921404,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 525274934,
+      "__unknown_productSubTitle": "Rcon RC 225S Kablosuz Oda Termostatı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 286099,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rcon RC 225S Kablosuz Oda Termostatı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1672585679449,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557580940,
+      "__unknown_productSubTitle": "RCON RC 225 S KABLOSUZ ODA TERMOSTATI",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

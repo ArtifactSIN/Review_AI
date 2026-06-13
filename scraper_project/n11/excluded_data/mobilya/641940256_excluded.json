@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 868530,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gm 177 Modena 3 Kapı 2 Çekmeceli Aynalı Siyah Kulplu Beyaz Gardır",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765465214615,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/17/91/58/31/77/45/87/82/08/93/62463672405543765240.png",
+      "__unknown_lastModifiedDate": 1765931869637,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641940256,
+      "__unknown_productSubTitle": "Gm 177 Modena 3 Kapı 2 Çekmeceli Aynalı Siyah Kulplu Beyaz Gardır",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8132318,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/17/91/58/31/77/45/87/82/08/93/62463672405543765240.png"
+        },
+        {
+          "id": 8132319,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/17/59/69/24/12/17/37/30/10/57/93275367639972165382.png"
+        },
+        {
+          "id": 8132320,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/17/49/40/69/26/85/76/44/53/17/3268869080157042589.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/17/91/58/31/77/45/87/82/08/93/62463672405543765240.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/17/91/58/31/77/45/87/82/08/93/62463672405543765240.png"
+    }
+  },
+  {
+    "gid_ref": 868531,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gm 177 Modena 3 Kapı 2 Çekmeceli Aynalı Siyah Kulplu Beyaz Gardır",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763905516769,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641940256,
+      "__unknown_productSubTitle": "Gm 177 Modena 3 Kapı 2 Çekmeceli Aynalı Siyah Kulplu Beyaz Gardır",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 868532,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gm 177 Modena 3 Kapı 2 Çekmeceli Aynalı Siyah Kulplu Beyaz Gardır",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758132965896,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641940256,
+      "__unknown_productSubTitle": "Gm 177 Modena 3 Kapı 2 Çekmeceli Aynalı Siyah Kulplu Beyaz Gardır",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

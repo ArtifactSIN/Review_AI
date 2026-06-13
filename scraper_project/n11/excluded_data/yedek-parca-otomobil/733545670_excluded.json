@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 1487119,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Volkswagen Motor Üst Kapagi 1,6 Cay [03L103925Ar] 480817596",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775050142517,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775050142517,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733545670,
+      "__unknown_productSubTitle": "Volkswagen Motor Üst Kapagi 1,6 Cay [03L103925Ar] 480817596",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1487120,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Volkswagen Motor Üst Kapagi 1,6 Cay [03L103925Ar] 480817596",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771669245788,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 480817596,
+      "__unknown_productSubTitle": "Volkswagen Motor Üst Kapagi 1,6 Cay [03L103925Ar] 480817596",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

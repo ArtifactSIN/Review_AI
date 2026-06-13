@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1159836,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Puma Modern Sports Çocuk Şort 846924 14",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763025374278,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628662650,
+      "__unknown_productSubTitle": "Puma Modern Sports Çocuk Şort 846924 14 15 - 16 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1159837,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Puma Modern Sports Çocuk Şort 846924 14",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757670867089,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628662649,
+      "__unknown_productSubTitle": "Puma Modern Sports Çocuk Şort 846924 14 4 - 5 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

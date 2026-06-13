@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 1264809,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Spovan Apeiron Tansiyon Ölçer Akıllı Saat (Distribütör Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769283598956,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 636236024,
+      "__unknown_productSubTitle": "Spovan Apeiron Tansiyon Ölçer Akıllı Saat (Distribütör Garantili) Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1264810,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Spovan Apeiron Tansiyon Ölçer Akıllı Saat (Distribütör Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747592418391,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/18/86/82/85/81/11/34/44/62/59/56191441609983310147.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 636236024,
+      "__unknown_productSubTitle": "Spovan Apeiron Tansiyon Ölçer Akıllı Saat (Distribütör Garantili) Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7231914,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/18/86/82/85/81/11/34/44/62/59/56191441609983310147.png"
+        },
+        {
+          "id": 7231915,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/18/62/63/82/26/38/25/03/00/17/18781580253194009560.png"
+        },
+        {
+          "id": 7231916,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/18/66/74/05/70/68/45/12/18/67/85696541336342672985.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/18/86/82/85/81/11/34/44/62/59/56191441609983310147.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/18/86/82/85/81/11/34/44/62/59/56191441609983310147.png"
+    }
+  },
+  {
+    "gid_ref": 1264811,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Spovan Apeiron Tansiyon Ölçer Akıllı Saat (Distribütör Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743789574862,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 636236024,
+      "__unknown_productSubTitle": "Spovan Apeiron Tansiyon Ölçer Akıllı Saat (Distribütör Garantili) Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1264812,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Spovan Apeiron Tansiyon Ölçer Akıllı Saat (Distribütör Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738699222633,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 636236024,
+      "__unknown_productSubTitle": "Spovan Apeiron Tansiyon Ölçer Akıllı Saat (Distribütör Garantili) Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

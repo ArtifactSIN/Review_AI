@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 204918,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aguline Gaz İçin Bitkisel Şurup 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731689906794,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631484008,
+      "__unknown_productSubTitle": "Aguline Gaz İçin Bitkisel Şurup 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 204919,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aguline Gaz İçin Bitkisel Şurup 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731567248837,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631484008,
+      "__unknown_productSubTitle": "Aguline Gaz İçin Bitkisel Şurup 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 204920,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aguline Gaz İçin Bitkisel Şurup 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731507842434,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598637273,
+      "__unknown_productSubTitle": "Aguline Gaz İçin Bitkisel Şurup 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 204921,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aguline Gaz İçin Bitkisel Şurup 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727855735076,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631484008,
+      "__unknown_productSubTitle": "Aguline Gaz İçin Bitkisel Şurup 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 204922,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aguline Gaz İçin Bitkisel Şurup 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1712521456378,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/07/84/26/64/91/35/40/76/73/83/82029980251723840532.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598637273,
+      "__unknown_productSubTitle": "Aguline Gaz İçin Bitkisel Şurup 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4380460,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/07/84/26/64/91/35/40/76/73/83/82029980251723840532.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/07/84/26/64/91/35/40/76/73/83/82029980251723840532.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/07/84/26/64/91/35/40/76/73/83/82029980251723840532.png"
+    }
+  }
+]

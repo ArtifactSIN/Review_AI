@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 1250104,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "kesinlikle harika bir ürün",
+      "productTitle": "Sealux İlk Yardım Seti 25x16x8cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1642676099206,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/01/20/90/71/39/85/04/55/32/24/49/86175398581873326347.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 397604718,
+      "__unknown_productSubTitle": "Sealux İlk Yardım Seti 25x16x8cm",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3254181,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/01/20/90/71/39/85/04/55/32/24/49/86175398581873326347.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/01/20/90/71/39/85/04/55/32/24/49/86175398581873326347.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/01/20/90/71/39/85/04/55/32/24/49/86175398581873326347.jpeg"
+    }
+  },
+  {
+    "gid_ref": 1250105,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kalite ve hız ve özen ",
+      "productTitle": "Sealux İlk Yardım Seti 25x16x8cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1576067142616,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 397604718,
+      "__unknown_productSubTitle": "Sealux İlk Yardım Seti 25x16x8cm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 1338743,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Max Payne 3 PS3 Oyun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725832109564,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593791728,
+      "__unknown_productSubTitle": "Max Payne 3 PS3 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1338744,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Oyun süper",
+      "productTitle": "Max Payne 3 PS3 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1655784034483,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 108533822,
+      "__unknown_productSubTitle": "Sıfır ürün Orjinal Ambalajında Hızlı Teslimat",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1338745,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Teşekkürler",
+      "productTitle": "Max Payne 3 PS3 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1588755418945,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 108533822,
+      "__unknown_productSubTitle": "Sıfır ürün Orjinal Ambalajında Hızlı Teslimat",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

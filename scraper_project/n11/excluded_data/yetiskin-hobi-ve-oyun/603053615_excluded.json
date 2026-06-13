@@ -1,0 +1,131 @@
+[
+  {
+    "gid_ref": 1492702,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Star Tombala Klasik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750455736550,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 544586483,
+      "__unknown_productSubTitle": "Star Tombala Klasik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492703,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Star Tombala Klasik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736025050076,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603053615,
+      "__unknown_productSubTitle": "Star Tombala Klasik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492704,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Star Tombala Klasik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733521333444,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/07/46/24/33/51/47/01/96/14/65/89212365960892337416.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 544586483,
+      "__unknown_productSubTitle": "Star Tombala Klasik",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6433886,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/07/46/24/33/51/47/01/96/14/65/89212365960892337416.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/07/46/24/33/51/47/01/96/14/65/89212365960892337416.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/07/46/24/33/51/47/01/96/14/65/89212365960892337416.jpg"
+    }
+  },
+  {
+    "gid_ref": 1492705,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Star Tombala Klasik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725390707231,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603053615,
+      "__unknown_productSubTitle": "Star Tombala Klasik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492706,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Her şey mükemmeldi",
+      "productTitle": "Star Tombala Klasik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1582121178412,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 326143245,
+      "__unknown_productSubTitle": "Star Tombala Klasik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492707,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Star Tombala Klasik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1581852536911,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 326143245,
+      "__unknown_productSubTitle": "Star Tombala Klasik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

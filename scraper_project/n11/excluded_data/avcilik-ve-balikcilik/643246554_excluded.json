@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 124121,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hanfish Bıdık 3.5cm 3.1gr Lrf Maket Balık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770818433472,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643246553,
+      "__unknown_productSubTitle": "Hanfish Bıdık 3.5cm 3.1gr Lrf Maket Balık X-92 Teke",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 124122,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hanfish Bıdık 3.5cm 3.1gr Lrf Maket Balık",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766087063795,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/18/87/93/86/43/19/51/89/63/76/52442358187579229601.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645743376,
+      "__unknown_productSubTitle": "Hanfish Bıdık 3.5cm 3.1gr Lrf Maket Balık X-90 Honey Shrimp",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8135924,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/18/87/93/86/43/19/51/89/63/76/52442358187579229601.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/18/87/93/86/43/19/51/89/63/76/52442358187579229601.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/18/87/93/86/43/19/51/89/63/76/52442358187579229601.png"
+    }
+  },
+  {
+    "gid_ref": 124123,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hanfish Bıdık 3.5cm 3.1gr Lrf Maket Balık",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765738829515,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643450301,
+      "__unknown_productSubTitle": "Hanfish Bıdık 3.5cm 3.1gr Lrf Maket Balık X-90 Honey Shrimp",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 124124,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hanfish Bıdık 3.5cm 3.1gr Lrf Maket Balık",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1760534290416,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645743364,
+      "__unknown_productSubTitle": "Hanfish Bıdık 3.5cm 3.1gr Lrf Maket Balık X-92 Teke",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 124125,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hanfish Bıdık 3.5cm 3.1gr Lrf Maket Balık",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1735914207301,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645743376,
+      "__unknown_productSubTitle": "Hanfish Bıdık 3.5cm 3.1gr Lrf Maket Balık X-90 Honey Shrimp",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

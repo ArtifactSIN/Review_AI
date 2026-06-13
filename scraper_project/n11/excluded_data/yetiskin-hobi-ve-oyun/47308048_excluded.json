@@ -1,0 +1,109 @@
+[
+  {
+    "gid_ref": 1490535,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ahşap Satranç Tahtası Tablası 51cm x 51cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767707691675,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 47308048,
+      "__unknown_productSubTitle": "Ahşap Satranç Tahtası Tablası 51cm x 51cm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1490536,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ahşap Satranç Tahtası Tablası 51cm x 51cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737217369690,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/18/53/74/51/78/95/50/18/62/12/33834651107489134862.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 47308048,
+      "__unknown_productSubTitle": "Ahşap Satranç Tahtası Tablası 51cm x 51cm",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6721734,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/18/53/74/51/78/95/50/18/62/12/33834651107489134862.jpg"
+        },
+        {
+          "id": 6721735,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/18/55/15/94/89/88/01/58/99/23/5448892755794574513.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/18/53/74/51/78/95/50/18/62/12/33834651107489134862.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/18/53/74/51/78/95/50/18/62/12/33834651107489134862.jpg"
+    }
+  },
+  {
+    "gid_ref": 1490537,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ahşap Satranç Tahtası Tablası 51cm x 51cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1722962530143,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/06/86/87/12/84/67/63/56/14/63/97718071934141153660.png",
+      "__unknown_lastModifiedDate": 1722963183405,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 47308048,
+      "__unknown_productSubTitle": "Ahşap Satranç Tahtası Tablası 51cm x 51cm",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5355439,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/06/86/87/12/84/67/63/56/14/63/97718071934141153660.png"
+        },
+        {
+          "id": 5355441,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/06/55/16/16/47/12/47/89/14/00/3904144692811285034.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/06/86/87/12/84/67/63/56/14/63/97718071934141153660.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/06/86/87/12/84/67/63/56/14/63/97718071934141153660.png"
+    }
+  },
+  {
+    "gid_ref": 1490538,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "çok iyi",
+      "productTitle": "Ahşap Satranç Tahtası Tablası 51cm x 51cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1642282902113,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 47308048,
+      "__unknown_productSubTitle": "Ahşap Satranç Tahtası Tablası 51cm x 51cm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 259958,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pooly Blue Ortopedik Yatak Yaylı Yatak 90 x 200 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1567946299872,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 351474522,
+      "__unknown_productSubTitle": "Pooly Blue Ortopedik Yatak Yaylı Yatak 90 x 200 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 259959,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pooly Blue Ortopedik Yatak Yaylı Yatak 90 x 200 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1567632848741,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 351474522,
+      "__unknown_productSubTitle": "Pooly Blue Ortopedik Yatak Yaylı Yatak 90 x 200 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

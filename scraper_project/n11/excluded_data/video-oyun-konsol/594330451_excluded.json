@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 1338756,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Red Faction Armageddon PS3 Oyun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770900600011,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594330451,
+      "__unknown_productSubTitle": "Red Faction Armageddon PS3 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1338757,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "PS3",
+      "productTitle": "Red Faction Armageddon PS3 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1669384166913,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 464071551,
+      "__unknown_productSubTitle": "Aynı Gün Ücretsiz KArgo Orjinal Ürün",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

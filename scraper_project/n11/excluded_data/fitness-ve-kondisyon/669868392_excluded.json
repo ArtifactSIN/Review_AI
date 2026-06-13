@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 745345,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Resimdeki gibi. Tadi guzel",
+      "productTitle": "Fellas Yer Fıstığı ve Kakaolu Yüksek Protein Bar 45 Gr x 12 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1617800405697,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 669868392,
+      "__unknown_productSubTitle": "Fellas Yer Fıstığı ve Kakaolu Yüksek Protein Bar 45 Gr x 12 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 745346,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "SÜPER",
+      "productTitle": "Fellas Yer Fıstığı ve Kakaolu Yüksek Protein Bar 45 Gr x 12 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1606746550711,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 669868392,
+      "__unknown_productSubTitle": "Fellas Yer Fıstığı ve Kakaolu Yüksek Protein Bar 45 Gr x 12 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

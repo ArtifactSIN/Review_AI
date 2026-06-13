@@ -1,0 +1,84 @@
+[
+  {
+    "gid_ref": 1491476,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toysetoys Megaminx Zeka Küpü Akıl Küpü Rübik Küp.",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1713171905579,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 560756032,
+      "__unknown_productSubTitle": "Toysetoys Megaminx Zeka Küpü Akıl Küpü Rübik Küp.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1491477,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toysetoys Megaminx Zeka Küpü Akıl Küpü Rübik Küp.",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1704824046303,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 560756032,
+      "__unknown_productSubTitle": "Toysetoys Megaminx Zeka Küpü Akıl Küpü Rübik Küp.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1491478,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toysetoys Megaminx Zeka Küpü Akıl Küpü Rübik Küp.",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1693003122996,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 560756032,
+      "__unknown_productSubTitle": "Toysetoys Megaminx Zeka Küpü Akıl Küpü Rübik Küp.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1491479,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Yanlış ürün gönderildi",
+      "productTitle": "Toysetoys Megaminx Zeka Küpü Akıl Küpü Rübik Küp.",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1645552749473,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1645552922286,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 466067385,
+      "__unknown_productSubTitle": "Toysetoys Megaminx Zeka Küpü Akıl Küpü Rübik Küp.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "gid_ref": 399232,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prego Smile Scooter Yeşil K602-3 Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770227893310,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667222983,
+      "__unknown_productSubTitle": "Prego Smile Scooter Yeşil K602-3 Yeşil ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 399233,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prego Smile Scooter Yeşil K602-3 Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766786468914,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/27/86/36/34/08/50/70/11/94/32/05543767542061776419.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702230550,
+      "__unknown_productSubTitle": "Prego Smile Scooter Yeşil K602-3 Yeşil ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8171583,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/27/86/36/34/08/50/70/11/94/32/05543767542061776419.jpg"
+        },
+        {
+          "id": 8171584,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/27/81/72/94/90/41/55/14/51/74/81369393660278847316.jpg"
+        },
+        {
+          "id": 8171585,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/27/62/93/62/01/20/72/64/06/72/35442922000722905286.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/27/86/36/34/08/50/70/11/94/32/05543767542061776419.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/27/86/36/34/08/50/70/11/94/32/05543767542061776419.jpg"
+    }
+  },
+  {
+    "gid_ref": 399234,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prego Smile Scooter Yeşil K602-3 Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752418795027,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667222983,
+      "__unknown_productSubTitle": "Prego Smile Scooter Yeşil K602-3 Yeşil ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 399235,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prego Smile Scooter Yeşil K602-3 Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750835963657,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667222983,
+      "__unknown_productSubTitle": "Prego Smile Scooter Yeşil K602-3 Yeşil ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 399236,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prego Smile Scooter Yeşil K602-3 Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1749064179309,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670870100,
+      "__unknown_productSubTitle": "Prego Smile Scooter Yeşil K602-3 Yeşil ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

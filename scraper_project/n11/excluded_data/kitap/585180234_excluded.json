@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 809675,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fenomen Yayıncılık 5. Sınıf Fen Bilimleri Soru Bankası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733589351752,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/07/79/59/30/29/75/07/43/52/28/32590278409299672612.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645063834,
+      "__unknown_productSubTitle": "Fenomen Yayıncılık 5. Sınıf Fen Bilimleri Soru Bankası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6441097,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/07/79/59/30/29/75/07/43/52/28/32590278409299672612.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/07/79/59/30/29/75/07/43/52/28/32590278409299672612.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/07/79/59/30/29/75/07/43/52/28/32590278409299672612.png"
+    }
+  },
+  {
+    "gid_ref": 809676,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fenomen Yayıncılık 5. Sınıf Fen Bilimleri Soru Bankası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1698399782109,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580756175,
+      "__unknown_productSubTitle": "Fenomen Yayıncılık 5. Sınıf Fen Bilimleri Soru Bankası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 809677,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fenomen Yayıncılık 5. Sınıf Fen Bilimleri Soru Bankası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1695914115167,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580756175,
+      "__unknown_productSubTitle": "Fenomen Yayıncılık 5. Sınıf Fen Bilimleri Soru Bankası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

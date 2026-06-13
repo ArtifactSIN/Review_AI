@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 838509,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Max Factor Lipfinity Velvet Matte Ruj 035 Elegant Brown",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767545927013,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592075133,
+      "__unknown_productSubTitle": "Max Factor Lipfinity Velvet Matte Ruj 035 Elegant Brown",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 838510,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Max Factor Lipfinity Velvet Matte Ruj 035 Elegant Brown",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726768022143,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592075133,
+      "__unknown_productSubTitle": "Max Factor Lipfinity Velvet Matte Ruj 035 Elegant Brown",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

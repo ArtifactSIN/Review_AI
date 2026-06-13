@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 931947,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Thermoad Bazlama",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774285792905,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774285792905,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 678290384,
+      "__unknown_productSubTitle": "Thermoad Bazlama",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 931948,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Thermoad Bazlama",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732907599173,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585399908,
+      "__unknown_productSubTitle": "Thermoad Bazlama",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 931949,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Thermoad Bazlama",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1720486884215,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585399908,
+      "__unknown_productSubTitle": "Thermoad Bazlama",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

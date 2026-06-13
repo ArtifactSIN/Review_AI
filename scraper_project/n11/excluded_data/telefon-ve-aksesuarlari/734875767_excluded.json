@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 1286537,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy Buds4 Pro (ANC) Bluetooth 6.1 Kulak İçi Kulaklık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774451637339,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774451637339,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734875766,
+      "__unknown_productSubTitle": "Samsung Galaxy Buds4 Pro (ANC) Bluetooth 6.1 Kulak İçi Kulaklık Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1286538,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy Buds4 Pro (ANC) Bluetooth 6.1 Kulak İçi Kulaklık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774431411102,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/47/66/70/85/99/34/30/30/82/52945975736003218288.png",
+      "__unknown_lastModifiedDate": 1774431411102,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734875766,
+      "__unknown_productSubTitle": "Samsung Galaxy Buds4 Pro (ANC) Bluetooth 6.1 Kulak İçi Kulaklık Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8508201,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/47/66/70/85/99/34/30/30/82/52945975736003218288.png"
+        },
+        {
+          "id": 8508202,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/66/77/96/98/74/77/64/87/37/13788253945666777290.png"
+        },
+        {
+          "id": 8508203,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/62/29/95/02/65/88/07/66/62/27871756078166751529.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/47/66/70/85/99/34/30/30/82/52945975736003218288.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/47/66/70/85/99/34/30/30/82/52945975736003218288.png"
+    }
+  }
+]

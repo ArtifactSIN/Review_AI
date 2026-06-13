@@ -1,0 +1,138 @@
+[
+  {
+    "gid_ref": 762185,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Ecologic Premium Plus Hijyenik Ped Normal 24 Adet Ped",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762972254799,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647908629,
+      "__unknown_productSubTitle": "Sleepy Ecologic Premium Plus Hijyenik Ped Normal 24 Adet Ped",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 762186,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Ecologic Premium Plus Hijyenik Ped Normal 24 Adet Ped",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762972210110,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647908629,
+      "__unknown_productSubTitle": "Sleepy Ecologic Premium Plus Hijyenik Ped Normal 24 Adet Ped",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 762187,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Ecologic Premium Plus Hijyenik Ped Normal 24 Adet Ped",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762680093184,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/09/82/47/96/19/25/03/91/54/83/75731465437902125977.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647908629,
+      "__unknown_productSubTitle": "Sleepy Ecologic Premium Plus Hijyenik Ped Normal 24 Adet Ped",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7936142,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/09/82/47/96/19/25/03/91/54/83/75731465437902125977.png"
+        },
+        {
+          "id": 7936143,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/09/50/47/71/93/31/70/54/31/71/82314182780111702481.png"
+        },
+        {
+          "id": 7936144,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/09/60/61/97/46/17/15/28/72/90/75951566833434866244.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/09/82/47/96/19/25/03/91/54/83/75731465437902125977.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/09/82/47/96/19/25/03/91/54/83/75731465437902125977.png"
+    }
+  },
+  {
+    "gid_ref": 762188,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Ecologic Premium Plus Hijyenik Ped Normal 24 Adet Ped",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1760600658022,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559605739,
+      "__unknown_productSubTitle": "Sleepy Ecologic Premium Plus Hijyenik Ped Normal 24 Adet Ped",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 762189,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Ecologic Premium Plus Hijyenik Ped Normal 24 Adet Ped",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730962643660,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559605739,
+      "__unknown_productSubTitle": "Sleepy Ecologic Premium Plus Hijyenik Ped Normal 24 Adet Ped",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 762190,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Ecologic Premium Plus Hijyenik Ped Normal 24 Adet Ped",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1685944316739,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559605739,
+      "__unknown_productSubTitle": "Sleepy Ecologic Premium Plus Hijyenik Ped Normal 24 Adet Ped",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

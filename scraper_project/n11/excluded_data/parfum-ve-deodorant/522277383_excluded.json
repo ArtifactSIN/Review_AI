@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 994712,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Burberry Touch Erkek Parfümü EDT 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1680893791409,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 522277383,
+      "__unknown_productSubTitle": "Burberry Touch Erkek Parfümü EDT 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 994713,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "mağaza ilgili ancak ürün için olumlu görüş bildiremeyecegim ",
+      "productTitle": "Burberry Touch Erkek Parfümü EDT 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1644662965279,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 522277383,
+      "__unknown_productSubTitle": "Burberry Touch Erkek Parfümü EDT 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

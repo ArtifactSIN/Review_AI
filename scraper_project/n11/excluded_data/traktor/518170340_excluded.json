@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1335558,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 265 / 285 Kilometre Halatı ( Teli )",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710838852986,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 518170340,
+      "__unknown_productSubTitle": "Massey Ferguson 265 / 285 Kilometre Halatı ( Teli )",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1335559,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "branda",
+      "productTitle": "Massey Ferguson 265 / 285 Kilometre Halatı ( Teli )",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1640032280832,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 518170340,
+      "__unknown_productSubTitle": "Massey Ferguson 265 / 285 Kilometre Halatı ( Teli )",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "gid_ref": 479193,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karcher SE 2 Spot Halı ve Koltuk Yıkama Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773424613452,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773424613452,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718013733,
+      "__unknown_productSubTitle": "Karcher SE 2 Spot Halı ve Koltuk Yıkama Makinesi Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 479194,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karcher SE 2 Spot Halı ve Koltuk Yıkama Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768287000587,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 709496335,
+      "__unknown_productSubTitle": "Karcher SE 2 Spot Halı ve Koltuk Yıkama Makinesi Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 479195,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karcher SE 2 Spot Halı ve Koltuk Yıkama Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766692121142,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 709496335,
+      "__unknown_productSubTitle": "Karcher SE 2 Spot Halı ve Koltuk Yıkama Makinesi Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 479196,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karcher SE 2 Spot Halı ve Koltuk Yıkama Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766168710127,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/19/91/86/35/27/65/03/99/80/53/57660028541385096470.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 709496335,
+      "__unknown_productSubTitle": "Karcher SE 2 Spot Halı ve Koltuk Yıkama Makinesi Çok Renkli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8141867,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/19/91/86/35/27/65/03/99/80/53/57660028541385096470.jpg"
+        },
+        {
+          "id": 8141868,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/19/54/94/56/94/85/19/43/37/09/4875060880161525334.jpg"
+        },
+        {
+          "id": 8141869,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/19/82/74/82/61/45/85/23/43/39/58209825609794762490.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/19/91/86/35/27/65/03/99/80/53/57660028541385096470.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/19/91/86/35/27/65/03/99/80/53/57660028541385096470.jpg"
+    }
+  },
+  {
+    "gid_ref": 479197,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karcher SE 2 Spot Halı ve Koltuk Yıkama Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764519622697,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1765608125613,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 709496335,
+      "__unknown_productSubTitle": "Karcher SE 2 Spot Halı ve Koltuk Yıkama Makinesi Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 536183,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Usb Şarjlı Vintage T9 Traş Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1743539856159,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632798288,
+      "__unknown_productSubTitle": "Usb Şarjlı Vintage T9 Traş Makinesi Altın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 536184,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Usb Şarjlı Vintage T9 Traş Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725743523660,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/08/48/32/37/21/49/63/79/46/39/26663256311957570620.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632798288,
+      "__unknown_productSubTitle": "Usb Şarjlı Vintage T9 Traş Makinesi Altın",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5604419,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/08/48/32/37/21/49/63/79/46/39/26663256311957570620.png"
+        },
+        {
+          "id": 5604420,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/08/78/80/26/46/59/77/16/67/19/73471467058653055682.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/08/48/32/37/21/49/63/79/46/39/26663256311957570620.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/08/48/32/37/21/49/63/79/46/39/26663256311957570620.png"
+    }
+  }
+]

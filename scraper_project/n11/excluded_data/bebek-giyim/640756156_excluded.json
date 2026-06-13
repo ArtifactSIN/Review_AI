@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 252442,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cigit Fitilli Kadife Jogger Pantolon 1-10 Yaş Füme Füme",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1737901089419,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640756162,
+      "__unknown_productSubTitle": "Cigit Fitilli Kadife Jogger Pantolon 1-10 Yaş Füme Füme 9 - 10 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 252443,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cigit Fitilli Kadife Jogger Pantolon 1-10 Yaş Füme Füme",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1737840973881,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/26/53/26/59/06/18/06/38/81/39/31552377923751530166.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640756161,
+      "__unknown_productSubTitle": "Cigit Fitilli Kadife Jogger Pantolon 1-10 Yaş Füme Füme 7 - 8 Yaş",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6746046,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/26/53/26/59/06/18/06/38/81/39/31552377923751530166.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/26/53/26/59/06/18/06/38/81/39/31552377923751530166.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/26/53/26/59/06/18/06/38/81/39/31552377923751530166.png"
+    }
+  }
+]

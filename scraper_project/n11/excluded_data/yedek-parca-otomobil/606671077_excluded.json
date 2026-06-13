@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 1462521,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford Focus 1 El Fren Körüğü 1998 - 2005",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775913211858,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775913211858,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606671077,
+      "__unknown_productSubTitle": "Ford Focus 1 El Fren Körüğü 1998 - 2005 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1462522,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford Focus 1 El Fren Körüğü 1998 - 2005",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774631018946,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/74/65/31/67/90/40/45/13/16/94797559061834581581.png",
+      "__unknown_lastModifiedDate": 1774631018946,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606671077,
+      "__unknown_productSubTitle": "Ford Focus 1 El Fren Körüğü 1998 - 2005 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8525325,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/74/65/31/67/90/40/45/13/16/94797559061834581581.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/74/65/31/67/90/40/45/13/16/94797559061834581581.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/74/65/31/67/90/40/45/13/16/94797559061834581581.png"
+    }
+  },
+  {
+    "gid_ref": 1462523,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford Focus 1 El Fren Körüğü 1998 - 2005",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765829323504,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606671077,
+      "__unknown_productSubTitle": "Ford Focus 1 El Fren Körüğü 1998 - 2005 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

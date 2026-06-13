@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 842170,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Note Cosmetique New Era Skin Protecting Concealer Nemli Bitişli Göz Altı Kapatıcısı - 40 Soft Ivory",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764938593123,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/05/87/71/26/28/91/37/17/69/36/04578391644700951694.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603853512,
+      "__unknown_productSubTitle": "Note Cosmetique New Era Skin Protecting Concealer Nemli Bitişli Göz Altı Kapatıcısı - 40 Soft Ivory",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8077422,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/05/87/71/26/28/91/37/17/69/36/04578391644700951694.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/05/87/71/26/28/91/37/17/69/36/04578391644700951694.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/05/87/71/26/28/91/37/17/69/36/04578391644700951694.jpg"
+    }
+  },
+  {
+    "gid_ref": 842171,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Note Cosmetique New Era Skin Protecting Concealer Nemli Bitişli Göz Altı Kapatıcısı - 40 Soft Ivory",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744731802206,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/15/87/18/99/97/13/82/03/27/23/95699171899014988713.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645385231,
+      "__unknown_productSubTitle": "Note Cosmetique New Era Skin Protecting Concealer Nemli Bitişli Göz Altı Kapatıcısı - 40 Soft Ivory",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7098744,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/15/87/18/99/97/13/82/03/27/23/95699171899014988713.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/15/87/18/99/97/13/82/03/27/23/95699171899014988713.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/15/87/18/99/97/13/82/03/27/23/95699171899014988713.png"
+    }
+  },
+  {
+    "gid_ref": 842172,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Note Cosmetique New Era Skin Protecting Concealer Nemli Bitişli Göz Altı Kapatıcısı - 40 Soft Ivory",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724270701070,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603853512,
+      "__unknown_productSubTitle": "Note Cosmetique New Era Skin Protecting Concealer Nemli Bitişli Göz Altı Kapatıcısı - 40 Soft Ivory",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

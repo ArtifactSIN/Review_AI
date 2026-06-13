@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 302155,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Altus AL KM 846 8 KG Isı Pompalı Çamaşır Kurutma Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772206378925,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/27/66/03/18/41/50/75/86/72/48/75811192527700343574.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 713910852,
+      "__unknown_productSubTitle": "Altus AL KM 846 8 KG Isı Pompalı Çamaşır Kurutma Makinesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8417619,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/27/66/03/18/41/50/75/86/72/48/75811192527700343574.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/27/66/03/18/41/50/75/86/72/48/75811192527700343574.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/27/66/03/18/41/50/75/86/72/48/75811192527700343574.png"
+    }
+  },
+  {
+    "gid_ref": 302156,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Altus AL KM 846 8 KG Isı Pompalı Çamaşır Kurutma Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770058379135,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 713910852,
+      "__unknown_productSubTitle": "Altus AL KM 846 8 KG Isı Pompalı Çamaşır Kurutma Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

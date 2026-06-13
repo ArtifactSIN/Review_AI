@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 1337375,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sony PS3 Joystick PS3 Oyun Kolu Dualshock 3 Turuncu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711285839078,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 548560704,
+      "__unknown_productSubTitle": "Sony PS3 Joystick PS3 Oyun Kolu Dualshock 3 Turuncu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337376,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sony PS3 Joystick PS3 Oyun Kolu Dualshock 3 Turuncu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708162041691,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 537197275,
+      "__unknown_productSubTitle": "Sony PS3 Joystick PS3 Oyun Kolu Dualshock 3 Turuncu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337377,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sony PS3 Joystick PS3 Oyun Kolu Dualshock 3 Turuncu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1705656176220,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 548560704,
+      "__unknown_productSubTitle": "Sony PS3 Joystick PS3 Oyun Kolu Dualshock 3 Turuncu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

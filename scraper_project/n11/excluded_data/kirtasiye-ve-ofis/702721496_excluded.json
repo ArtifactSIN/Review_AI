@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 801141,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Serve Deep 3 Lü Okul Seti Pembe",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766256026013,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/20/62/66/06/17/15/36/19/23/64/24661743837376366072.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659344373,
+      "__unknown_productSubTitle": "Serve Deep 3 Lü Okul Seti Pembe",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8146742,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/20/62/66/06/17/15/36/19/23/64/24661743837376366072.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/20/62/66/06/17/15/36/19/23/64/24661743837376366072.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/20/62/66/06/17/15/36/19/23/64/24661743837376366072.png"
+    }
+  },
+  {
+    "gid_ref": 801142,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Serve Deep 3 Lü Okul Seti Pembe",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750094728080,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584578764,
+      "__unknown_productSubTitle": "Serve Deep 3 Lü Okul Seti Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

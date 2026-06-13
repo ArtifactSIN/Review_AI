@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 761940,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Ultra Ped 18'li + Günlük Ped 32'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758472261278,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645405089,
+      "__unknown_productSubTitle": "Sleepy Ultra Ped 18'li + Günlük Ped 32'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 761941,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Ultra Ped 18'li + Günlük Ped 32'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736962794116,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645405089,
+      "__unknown_productSubTitle": "Sleepy Ultra Ped 18'li + Günlük Ped 32'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 761942,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Ultra Ped 18'li + Günlük Ped 32'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715171429874,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/08/61/30/31/46/24/06/33/75/34/68317612808890397868.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600138164,
+      "__unknown_productSubTitle": "Sleepy Ultra Ped 18'li + Günlük Ped 32'li",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4621234,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/08/61/30/31/46/24/06/33/75/34/68317612808890397868.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/08/61/30/31/46/24/06/33/75/34/68317612808890397868.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/08/61/30/31/46/24/06/33/75/34/68317612808890397868.png"
+    }
+  }
+]

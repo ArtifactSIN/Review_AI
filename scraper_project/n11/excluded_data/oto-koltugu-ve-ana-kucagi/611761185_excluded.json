@@ -1,0 +1,103 @@
+[
+  {
+    "gid_ref": 948002,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanz Moonlight Ana Kucağı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762283509463,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 636162031,
+      "__unknown_productSubTitle": "Kanz Moonlight Ana Kucağı Fuşya",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 948003,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanz Moonlight Ana Kucağı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730747154337,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581591646,
+      "__unknown_productSubTitle": "Kanz Moonlight Ana Kucağı Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 948004,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanz Moonlight Ana Kucağı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1676308266502,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/02/13/72/93/93/41/32/20/49/85/08/41211388631560928475.png",
+      "__unknown_lastModifiedDate": 1676308361386,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566657517,
+      "__unknown_productSubTitle": "Kanz Moonlight Ana Kucağı Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1599469,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/02/13/72/93/93/41/32/20/49/85/08/41211388631560928475.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/02/13/72/93/93/41/32/20/49/85/08/41211388631560928475.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/02/13/72/93/93/41/32/20/49/85/08/41211388631560928475.png"
+    }
+  },
+  {
+    "gid_ref": 948005,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanz Moonlight Ana Kucağı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1676308118128,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/02/13/59/95/14/11/55/31/21/66/27/73655565139246624972.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566657517,
+      "__unknown_productSubTitle": "Kanz Moonlight Ana Kucağı Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1601066,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/02/13/59/95/14/11/55/31/21/66/27/73655565139246624972.png"
+        },
+        {
+          "id": 1601068,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/02/13/53/84/66/75/17/83/76/92/01/26245782635592925.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/02/13/59/95/14/11/55/31/21/66/27/73655565139246624972.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/02/13/59/95/14/11/55/31/21/66/27/73655565139246624972.png"
+    }
+  }
+]

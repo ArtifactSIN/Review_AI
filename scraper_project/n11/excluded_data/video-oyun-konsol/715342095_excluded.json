@@ -1,0 +1,139 @@
+[
+  {
+    "gid_ref": 1342898,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Drivin Force Shifter G29 Vites",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769765270000,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 715342095,
+      "__unknown_productSubTitle": "Drivin Force Shifter G29 Vites",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1342899,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Drivin Force Shifter G29 Vites",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765304837892,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/09/62/15/07/13/63/89/14/92/39/42128356317849237411.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 715342095,
+      "__unknown_productSubTitle": "Drivin Force Shifter G29 Vites",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8097368,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/09/62/15/07/13/63/89/14/92/39/42128356317849237411.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/09/62/15/07/13/63/89/14/92/39/42128356317849237411.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/09/62/15/07/13/63/89/14/92/39/42128356317849237411.jpg"
+    }
+  },
+  {
+    "gid_ref": 1342900,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Drivin Force Shifter G29 Vites",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765269106208,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 715342095,
+      "__unknown_productSubTitle": "Drivin Force Shifter G29 Vites",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1342901,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Drivin Force Shifter G29 Vites",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755056408981,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628789542,
+      "__unknown_productSubTitle": "Drivin Force Shifter G29 Vites",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1342902,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Drivin Force Shifter G29 Vites",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1741952087155,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/14/69/38/63/12/89/92/60/02/11/8958507088033629893.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650536384,
+      "__unknown_productSubTitle": "Drivin Force Shifter G29 Vites",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6962876,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/14/85/01/65/77/14/41/92/90/85/65019109056499006898.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/14/69/38/63/12/89/92/60/02/11/8958507088033629893.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/14/69/38/63/12/89/92/60/02/11/8958507088033629893.jpg"
+    }
+  },
+  {
+    "gid_ref": 1342903,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Drivin Force Shifter G29 Vites",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729346153838,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724396140,
+      "__unknown_productSubTitle": "Drivin Force Shifter G29 Vites",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

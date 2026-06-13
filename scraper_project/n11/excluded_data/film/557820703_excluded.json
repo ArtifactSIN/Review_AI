@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 735580,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blu Ray-Okyanus Dünyası 3D",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715145271061,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557820703,
+      "__unknown_productSubTitle": "Blu Ray-Okyanus Dünyası 3D",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735581,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Bandrollü orjinal filmler",
+      "productTitle": "Blu Ray-Okyanus Dünyası 3D",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1618657537173,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 170532502,
+      "__unknown_productSubTitle": "Blu Ray-Okyanus Dünyası 3D",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

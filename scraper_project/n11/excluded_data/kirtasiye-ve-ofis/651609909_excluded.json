@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 799109,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Canon Pixma G3430 Muadil Mürekkep Seti Gı-41 Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773537833637,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/15/85/71/22/09/89/26/33/54/28/14538180101449666321.png",
+      "__unknown_lastModifiedDate": 1773537833637,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651609909,
+      "__unknown_productSubTitle": "Canon Pixma G3430 Muadil Mürekkep Seti Gı-41 Renkli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8469209,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/15/85/71/22/09/89/26/33/54/28/14538180101449666321.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/15/85/71/22/09/89/26/33/54/28/14538180101449666321.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/15/85/71/22/09/89/26/33/54/28/14538180101449666321.png"
+    }
+  },
+  {
+    "gid_ref": 799110,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Canon Pixma G3430 Muadil Mürekkep Seti Gı-41 Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744568962444,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651609909,
+      "__unknown_productSubTitle": "Canon Pixma G3430 Muadil Mürekkep Seti Gı-41 Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

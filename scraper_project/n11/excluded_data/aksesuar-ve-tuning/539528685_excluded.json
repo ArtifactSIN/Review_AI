@@ -1,0 +1,137 @@
+[
+  {
+    "gid_ref": 60226,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Boya Rötüş Çeliği (539528685)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774719887238,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/28/47/55/91/56/63/21/14/20/12/61192598179560732615.png",
+      "__unknown_lastModifiedDate": 1774719887238,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539528685,
+      "__unknown_productSubTitle": "Boya Rötüş Çeliği (539528685)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8528597,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/47/55/91/56/63/21/14/20/12/61192598179560732615.png"
+        },
+        {
+          "id": 8528598,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/86/02/38/21/65/53/22/38/48/31576891709215162442.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/28/47/55/91/56/63/21/14/20/12/61192598179560732615.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/28/47/55/91/56/63/21/14/20/12/61192598179560732615.png"
+    }
+  },
+  {
+    "gid_ref": 60227,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Boya Rötüş Çeliği (539528685)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774335322921,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774335322921,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539528685,
+      "__unknown_productSubTitle": "Boya Rötüş Çeliği (539528685)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 60228,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Boya Rötüş Çeliği (539528685)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745847798333,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539528685,
+      "__unknown_productSubTitle": "Boya Rötüş Çeliği (539528685)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 60229,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Boya Rötüş Çeliği (539528685)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730271765655,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539528685,
+      "__unknown_productSubTitle": "Boya Rötüş Çeliği (539528685)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 60230,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Boya Rötüş Çeliği (539528685)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728670940471,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539528685,
+      "__unknown_productSubTitle": "Boya Rötüş Çeliği (539528685)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 60231,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "daha güzel olabilir",
+      "productTitle": "Boya Rötüş Çeliği (539528685)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1651251137588,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539528685,
+      "__unknown_productSubTitle": "Boya Rötüş Çeliği (539528685)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

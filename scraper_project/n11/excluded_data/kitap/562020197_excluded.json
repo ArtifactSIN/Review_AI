@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 807760,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Peygamber Efendimizin Örnekliğinde 99 Esma Bana Ne Diyor? - Veli Tahir Erdoğan - Bilgeoğuz Yayınları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772103632582,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562020197,
+      "__unknown_productSubTitle": "Peygamber Efendimizin Örnekliğinde 99 Esma Bana Ne Diyor? - Veli Tahir Erdoğan - Bilgeoğuz Yayınları",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 807761,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Peygamber Efendimizin Örnekliğinde 99 Esma Bana Ne Diyor? - Veli Tahir Erdoğan - Bilgeoğuz Yayınları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745855767761,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/28/84/06/57/04/50/04/18/76/54/44690655273711192426.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562020197,
+      "__unknown_productSubTitle": "Peygamber Efendimizin Örnekliğinde 99 Esma Bana Ne Diyor? - Veli Tahir Erdoğan - Bilgeoğuz Yayınları",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7153002,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/28/84/06/57/04/50/04/18/76/54/44690655273711192426.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/28/84/06/57/04/50/04/18/76/54/44690655273711192426.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/28/84/06/57/04/50/04/18/76/54/44690655273711192426.jpg"
+    }
+  }
+]

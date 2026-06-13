@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 1248344,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çaykur Tiryaki Siyah Dökme Çay 10 x 1000 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766775535129,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581798895,
+      "__unknown_productSubTitle": "Çaykur Tiryaki Siyah Dökme Çay 10 x 1000 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1248345,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çaykur Tiryaki Siyah Dökme Çay 10 x 1000 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1674825565584,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 511980831,
+      "__unknown_productSubTitle": "Çaykur Tiryaki Siyah Dökme Çay 10 x 1000 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1248346,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çaykur Tiryaki Siyah Dökme Çay 10 x 1000 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1669640788965,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 511980831,
+      "__unknown_productSubTitle": "Çaykur Tiryaki Siyah Dökme Çay 10 x 1000 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1248347,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "temiz",
+      "productTitle": "Çaykur Tiryaki Siyah Dökme Çay 10 x 1000 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1642752985841,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 511980831,
+      "__unknown_productSubTitle": "Çaykur Tiryaki Siyah Dökme Çay 10 x 1000 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 735341,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd- Öldüren Hata - Panic Button",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742296252186,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/18/55/08/41/62/86/93/57/44/71/79000270560385319799.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 263219166,
+      "__unknown_productSubTitle": "Dvd- Öldüren Hata - Panic Button",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6971335,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/18/55/08/41/62/86/93/57/44/71/79000270560385319799.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/18/55/08/41/62/86/93/57/44/71/79000270560385319799.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/18/55/08/41/62/86/93/57/44/71/79000270560385319799.png"
+    }
+  }
+]

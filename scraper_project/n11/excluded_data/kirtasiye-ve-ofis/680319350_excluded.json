@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 800050,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mikro 21 Gr. Stick Yapıştırıcı 24 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766849042170,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 680319350,
+      "__unknown_productSubTitle": "Mikro 21 Gr. Stick Yapıştırıcı 24 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 800051,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mikro 21 Gr. Stick Yapıştırıcı 24 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762435308388,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 680319350,
+      "__unknown_productSubTitle": "Mikro 21 Gr. Stick Yapıştırıcı 24 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 800052,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mikro 21 Gr. Stick Yapıştırıcı 24 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757439063328,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/09/82/19/38/71/87/97/32/51/71/852008552820357253.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 680319350,
+      "__unknown_productSubTitle": "Mikro 21 Gr. Stick Yapıştırıcı 24 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7672463,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/09/82/19/38/71/87/97/32/51/71/852008552820357253.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/09/82/19/38/71/87/97/32/51/71/852008552820357253.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/09/82/19/38/71/87/97/32/51/71/852008552820357253.png"
+    }
+  },
+  {
+    "gid_ref": 800053,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mikro 21 Gr. Stick Yapıştırıcı 24 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1671895597588,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 437112593,
+      "__unknown_productSubTitle": "Mikro 21 Gr. Stick Yapıştırıcı 24 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

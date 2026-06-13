@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 400007,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Barbie Mini Büfe Oyun Seti HJV38",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1749993848193,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/15/66/45/88/76/92/97/66/63/14/03270088835759359176.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595826552,
+      "__unknown_productSubTitle": "Barbie Mini Büfe Oyun Seti HJV38",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7323148,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/15/66/45/88/76/92/97/66/63/14/03270088835759359176.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/15/66/45/88/76/92/97/66/63/14/03270088835759359176.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/15/66/45/88/76/92/97/66/63/14/03270088835759359176.png"
+    }
+  },
+  {
+    "gid_ref": 400008,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Barbie Mini Büfe Oyun Seti HJV38",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1740228662515,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643626894,
+      "__unknown_productSubTitle": "Barbie Mini Büfe Oyun Seti HJV38",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

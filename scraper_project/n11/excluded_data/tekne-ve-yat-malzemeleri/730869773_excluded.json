@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1252253,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sierra Tek Bileşenli Her Şeyi Boyayan Boya 3 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710254683076,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558578886,
+      "__unknown_productSubTitle": "Sierra Tek Bileşenli Her Şeyi Boyayan Boya 3 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1252254,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sierra Tek Bileşenli Her Şeyi Boyayan Boya 3 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1702144208797,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558578886,
+      "__unknown_productSubTitle": "Sierra Tek Bileşenli Her Şeyi Boyayan Boya 3 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

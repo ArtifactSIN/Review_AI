@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 870345,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gubimo Abete-4 Kapılı Atlantik Çam Gardırop",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774992824194,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774992824194,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666274570,
+      "__unknown_productSubTitle": "Gubimo Abete-4 Kapılı Atlantik Çam Gardırop",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 870346,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gubimo Abete-4 Kapılı Atlantik Çam Gardırop",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748101188836,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/24/51/03/60/83/03/75/10/54/43/32031475952076671806.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666274570,
+      "__unknown_productSubTitle": "Gubimo Abete-4 Kapılı Atlantik Çam Gardırop",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7262361,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/24/51/03/60/83/03/75/10/54/43/32031475952076671806.png"
+        },
+        {
+          "id": 7262362,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/24/85/40/85/18/06/54/08/94/68/15535858302649219391.png"
+        },
+        {
+          "id": 7262363,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/24/80/10/52/01/38/49/92/23/83/75772758515106429773.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/24/51/03/60/83/03/75/10/54/43/32031475952076671806.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/24/51/03/60/83/03/75/10/54/43/32031475952076671806.png"
+    }
+  }
+]

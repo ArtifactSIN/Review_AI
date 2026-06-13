@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1154145,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "50 Metre 2x 2,5mm Siyah Kırmızı Çizgili Elektrik Ses Ve Hoparlör",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739199501113,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/10/88/57/27/97/72/68/80/83/42/97816923499801495222.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638302198,
+      "__unknown_productSubTitle": "50 Metre 2x 2,5mm Siyah Kırmızı Çizgili Elektrik Ses Ve Hoparlör ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6822310,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/10/88/57/27/97/72/68/80/83/42/97816923499801495222.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/10/88/57/27/97/72/68/80/83/42/97816923499801495222.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/10/88/57/27/97/72/68/80/83/42/97816923499801495222.png"
+    }
+  },
+  {
+    "gid_ref": 1154146,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "50 Metre 2x 2,5mm Siyah Kırmızı Çizgili Elektrik Ses Ve Hoparlör",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738876548154,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638302198,
+      "__unknown_productSubTitle": "50 Metre 2x 2,5mm Siyah Kırmızı Çizgili Elektrik Ses Ve Hoparlör ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

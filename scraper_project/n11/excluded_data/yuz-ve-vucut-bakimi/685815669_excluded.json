@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 1516642,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bioderma Sensibio Micellar Cleansing Oil 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745217650558,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 607139648,
+      "__unknown_productSubTitle": "Bioderma Sensibio Micellar Cleansing Oil 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1516643,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bioderma Sensibio Micellar Cleansing Oil 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734271805708,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/15/87/78/89/48/58/87/26/82/60/98885656995639639744.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 607139648,
+      "__unknown_productSubTitle": "Bioderma Sensibio Micellar Cleansing Oil 150 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6497521,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/15/87/78/89/48/58/87/26/82/60/98885656995639639744.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/15/87/78/89/48/58/87/26/82/60/98885656995639639744.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/15/87/78/89/48/58/87/26/82/60/98885656995639639744.png"
+    }
+  },
+  {
+    "gid_ref": 1516644,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bioderma Sensibio Micellar Cleansing Oil 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727893759183,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 621324185,
+      "__unknown_productSubTitle": "Bioderma Sensibio Micellar Cleansing Oil 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1516645,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bioderma Sensibio Micellar Cleansing Oil 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721161406975,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611537603,
+      "__unknown_productSubTitle": "Bioderma Sensibio Micellar Cleansing Oil 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1516646,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bioderma Sensibio Micellar Cleansing Oil 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719498323866,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611537603,
+      "__unknown_productSubTitle": "Bioderma Sensibio Micellar Cleansing Oil 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

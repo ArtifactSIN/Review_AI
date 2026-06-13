@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 371810,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tryon Kıdz-20.003 Kidz Çocuk Kaleci Eldiveni Renkli Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1769463719658,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650035480,
+      "__unknown_productSubTitle": "Tryon Kıdz-20.003 Kidz Çocuk Kaleci Eldiveni Renkli Çok Renkli 6",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 371811,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tryon Kıdz-20.003 Kidz Çocuk Kaleci Eldiveni Renkli Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767028057652,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/29/64/91/85/27/00/71/16/11/21/33871640585530461258.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650035480,
+      "__unknown_productSubTitle": "Tryon Kıdz-20.003 Kidz Çocuk Kaleci Eldiveni Renkli Çok Renkli 6",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8181891,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/29/64/91/85/27/00/71/16/11/21/33871640585530461258.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/29/64/91/85/27/00/71/16/11/21/33871640585530461258.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/29/64/91/85/27/00/71/16/11/21/33871640585530461258.png"
+    }
+  }
+]

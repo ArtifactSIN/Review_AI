@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 996903,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kenzo Homme Fresh Erkek Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732611756041,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569250318,
+      "__unknown_productSubTitle": "Kenzo Homme Fresh Erkek Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 996904,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kenzo Homme Fresh Erkek Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717865927532,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569250318,
+      "__unknown_productSubTitle": "Kenzo Homme Fresh Erkek Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 996905,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kenzo Homme Fresh Erkek Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1661173920414,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 413783347,
+      "__unknown_productSubTitle": "Kenzo Homme Fresh Erkek Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

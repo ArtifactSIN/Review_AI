@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 779276,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Penti Kar Beyaz Curvy Tişört",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775831305348,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/10/62/18/08/78/07/55/90/51/75/91180693513416494745.jpg",
+      "__unknown_lastModifiedDate": 1775831305348,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 736514104,
+      "__unknown_productSubTitle": "Penti Kar Beyaz Curvy Tişört S",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8595570,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/62/18/08/78/07/55/90/51/75/91180693513416494745.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/10/62/18/08/78/07/55/90/51/75/91180693513416494745.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/10/62/18/08/78/07/55/90/51/75/91180693513416494745.jpg"
+    }
+  },
+  {
+    "gid_ref": 779277,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Penti Kar Beyaz Curvy Tişört",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775507802816,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775507802816,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 736514106,
+      "__unknown_productSubTitle": "Penti Kar Beyaz Curvy Tişört XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 779278,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Penti Kar Beyaz Curvy Tişört",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774556228365,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774556228365,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 736514102,
+      "__unknown_productSubTitle": "Penti Kar Beyaz Curvy Tişört M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

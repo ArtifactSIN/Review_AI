@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 394184,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vacuum Cleaner Pilli Kablosuz Oyuncak Dikey Elektrik Süpürgesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752342067669,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586193470,
+      "__unknown_productSubTitle": "Vacuum Cleaner Pilli Kablosuz Oyuncak Dikey Elektrik Süpürgesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 394185,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vacuum Cleaner Pilli Kablosuz Oyuncak Dikey Elektrik Süpürgesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1699642634181,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573538882,
+      "__unknown_productSubTitle": "Oyuncak Dikey Elektrik Süpürgesi Pilli Kablosuz Vacuum Cleaner",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

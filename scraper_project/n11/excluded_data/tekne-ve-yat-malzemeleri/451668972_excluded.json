@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1250627,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Demarin Epofiller Epoksi Dolgu Macun A B Komponent Takım 1 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774902803566,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774902803566,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 451668972,
+      "__unknown_productSubTitle": "Demarin Epofiller Epoksi Dolgu Macun A B Komponent Takım 1 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1250628,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Demarin Epofiller Epoksi Dolgu Macun A B Komponent Takım 1 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757626882512,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 451668972,
+      "__unknown_productSubTitle": "Demarin Epofiller Epoksi Dolgu Macun A B Komponent Takım 1 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1250629,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Demarin Epofiller Epoksi Dolgu Macun A B Komponent Takım 1 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743241497909,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/29/50/42/80/55/41/39/02/29/30/41978182787148463555.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 451668972,
+      "__unknown_productSubTitle": "Demarin Epofiller Epoksi Dolgu Macun A B Komponent Takım 1 KG",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7031708,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/29/50/42/80/55/41/39/02/29/30/41978182787148463555.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/29/50/42/80/55/41/39/02/29/30/41978182787148463555.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/29/50/42/80/55/41/39/02/29/30/41978182787148463555.png"
+    }
+  }
+]

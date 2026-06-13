@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 751143,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "FujiFilm Intax Instant Film 20 Pozluk Mini Film",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730799281138,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559897690,
+      "__unknown_productSubTitle": "FujiFilm Intax Instant Film 20 Pozluk Mini Film",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751144,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "FujiFilm Intax Instant Film 20 Pozluk Mini Film",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1671323507001,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559897690,
+      "__unknown_productSubTitle": "FujiFilm Intax Instant Film 20 Pozluk Mini Film",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

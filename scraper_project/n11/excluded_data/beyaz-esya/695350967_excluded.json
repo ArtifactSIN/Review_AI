@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 301581,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Demirdöküm Nitromix 24/24 Kw (20.000 Kcal) Tam Yoğuşmalı Kombi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768973445287,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/21/73/21/25/53/02/07/75/06/74/58892720734920686897.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659438928,
+      "__unknown_productSubTitle": "Demirdöküm Nitromix 24/24 Kw (20.000 Kcal) Tam Yoğuşmalı Kombi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8268390,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/21/73/21/25/53/02/07/75/06/74/58892720734920686897.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/21/73/21/25/53/02/07/75/06/74/58892720734920686897.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/21/73/21/25/53/02/07/75/06/74/58892720734920686897.png"
+    }
+  },
+  {
+    "gid_ref": 301582,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Demirdöküm Nitromix 24/24 Kw (20.000 Kcal) Tam Yoğuşmalı Kombi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765958418682,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695350967,
+      "__unknown_productSubTitle": "Demirdöküm Nitromix 24/24 Kw (20.000 Kcal) Tam Yoğuşmalı Kombi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 301583,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Demirdöküm Nitromix 24/24 Kw (20.000 Kcal) Tam Yoğuşmalı Kombi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762936445091,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695350967,
+      "__unknown_productSubTitle": "Demirdöküm Nitromix 24/24 Kw (20.000 Kcal) Tam Yoğuşmalı Kombi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 301584,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Demirdöküm Nitromix 24/24 Kw (20.000 Kcal) Tam Yoğuşmalı Kombi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752239841717,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 676642194,
+      "__unknown_productSubTitle": "Demirdöküm Nitromix 24/24 Kw (20.000 Kcal) Tam Yoğuşmalı Kombi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 301585,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Demirdöküm Nitromix 24/24 Kw (20.000 Kcal) Tam Yoğuşmalı Kombi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1706896321512,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589614280,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 802660,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kraf Laminasyon Filmi A4 100Mc 100 Lu 2120",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765902442009,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/16/57/84/04/10/58/86/62/53/29/54325891441860918688.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651464551,
+      "__unknown_productSubTitle": "Kraf Laminasyon Filmi A4 100Mc 100 Lu 2120",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8126466,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/16/57/84/04/10/58/86/62/53/29/54325891441860918688.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/16/57/84/04/10/58/86/62/53/29/54325891441860918688.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/16/57/84/04/10/58/86/62/53/29/54325891441860918688.png"
+    }
+  },
+  {
+    "gid_ref": 802661,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kraf Laminasyon Filmi A4 100Mc 100 Lu 2120",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732488158919,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640614771,
+      "__unknown_productSubTitle": "Kraf Laminasyon Filmi A4 100Mc 100 Lu 2120",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802662,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kraf Laminasyon Filmi A4 100Mc 100 Lu 2120",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731764881566,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640614771,
+      "__unknown_productSubTitle": "Kraf Laminasyon Filmi A4 100Mc 100 Lu 2120",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

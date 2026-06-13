@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 952708,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kapris Tohana Pembe Çelik Termos Kupa 450 ml 75412",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774619224052,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/75/61/32/64/59/83/80/87/67/87114268732066084137.png",
+      "__unknown_lastModifiedDate": 1774619224052,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561464051,
+      "__unknown_productSubTitle": "Kapris Tohana Pembe Çelik Termos Kupa 450 ml 75412",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8525211,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/75/61/32/64/59/83/80/87/67/87114268732066084137.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/75/61/32/64/59/83/80/87/67/87114268732066084137.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/75/61/32/64/59/83/80/87/67/87114268732066084137.png"
+    }
+  },
+  {
+    "gid_ref": 952709,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kapris Tohana Pembe Çelik Termos Kupa 450 ml 75412",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774593787880,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774593787880,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561464051,
+      "__unknown_productSubTitle": "Kapris Tohana Pembe Çelik Termos Kupa 450 ml 75412",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 952710,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kapris Tohana Pembe Çelik Termos Kupa 450 ml 75412",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715844167119,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561464051,
+      "__unknown_productSubTitle": "Kapris Tohana Pembe Çelik Termos Kupa 450 ml 75412",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

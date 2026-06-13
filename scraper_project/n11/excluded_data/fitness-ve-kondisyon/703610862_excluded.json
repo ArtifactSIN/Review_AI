@@ -1,0 +1,81 @@
+[
+  {
+    "gid_ref": 746857,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Psspor 2 Adet 2kg Pembe Renk Dambıl Seti 2 Adet 2kg Gönderim Yapılmaktadır",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774963626304,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/58/78/07/99/03/84/20/61/49/85329957252985764156.png",
+      "__unknown_lastModifiedDate": 1774963626304,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 703610862,
+      "__unknown_productSubTitle": "Psspor 2 Adet 2kg Pembe Renk Dambıl Seti 2 Adet 2kg Gönderim Yapılmaktadır ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8532498,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/58/78/07/99/03/84/20/61/49/85329957252985764156.png"
+        },
+        {
+          "id": 8532499,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/51/67/41/77/04/28/23/79/45/71671849439842515531.png"
+        },
+        {
+          "id": 8545800,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/69/20/62/05/56/80/50/97/53/21795711196664803824.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/58/78/07/99/03/84/20/61/49/85329957252985764156.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/58/78/07/99/03/84/20/61/49/85329957252985764156.png"
+    }
+  },
+  {
+    "gid_ref": 746858,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Psspor 2 Adet 2kg Pembe Renk Dambıl Seti 2 Adet 2kg Gönderim Yapılmaktadır",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770649685161,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 703610862,
+      "__unknown_productSubTitle": "Psspor 2 Adet 2kg Pembe Renk Dambıl Seti 2 Adet 2kg Gönderim Yapılmaktadır ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 746859,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Psspor 2 Adet 2kg Pembe Renk Dambıl Seti 2 Adet 2kg Gönderim Yapılmaktadır",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769422493970,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 703610862,
+      "__unknown_productSubTitle": "Psspor 2 Adet 2kg Pembe Renk Dambıl Seti 2 Adet 2kg Gönderim Yapılmaktadır ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

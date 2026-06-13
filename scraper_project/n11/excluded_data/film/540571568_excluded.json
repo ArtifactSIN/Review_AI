@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 735504,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Hole - Mahzen + Piranha 3D+2D Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734676001474,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/20/54/49/55/23/72/70/38/90/34/32859839191667852946.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 540571568,
+      "__unknown_productSubTitle": "The Hole - Mahzen + Piranha 3D+2D Blu-Ray",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6527793,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/20/54/49/55/23/72/70/38/90/34/32859839191667852946.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/20/54/49/55/23/72/70/38/90/34/32859839191667852946.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/20/54/49/55/23/72/70/38/90/34/32859839191667852946.png"
+    }
+  },
+  {
+    "gid_ref": 735505,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Hole - Mahzen + Piranha 3D+2D Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731344245306,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 540571568,
+      "__unknown_productSubTitle": "The Hole - Mahzen + Piranha 3D+2D Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735506,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Hole - Mahzen + Piranha 3D+2D Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729510257922,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 540571568,
+      "__unknown_productSubTitle": "The Hole - Mahzen + Piranha 3D+2D Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 182536,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prego Canyon Koldan Çift Yönlü Bebek Arabası 2430",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771958122198,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/24/49/01/22/02/26/18/77/31/65/2976211710709117202.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721040013,
+      "__unknown_productSubTitle": "Prego Canyon Koldan Çift Yönlü Bebek Arabası 2430 Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8410458,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/24/49/01/22/02/26/18/77/31/65/2976211710709117202.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/24/49/01/22/02/26/18/77/31/65/2976211710709117202.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/24/49/01/22/02/26/18/77/31/65/2976211710709117202.jpg"
+    }
+  },
+  {
+    "gid_ref": 182537,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prego Canyon Koldan Çift Yönlü Bebek Arabası 2430",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764179885925,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721040014,
+      "__unknown_productSubTitle": "Prego Canyon Koldan Çift Yönlü Bebek Arabası 2430 Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

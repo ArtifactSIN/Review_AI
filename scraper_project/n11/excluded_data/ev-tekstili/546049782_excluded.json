@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 603270,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tek Kişilik Lastikli Fitted Çarşaf Takımı Araba",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766401061953,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 546049782,
+      "__unknown_productSubTitle": "Tek Kişilik Lastikli Fitted Çarşaf Takımı Araba 100 x 200",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 603271,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tek Kişilik Lastikli Fitted Çarşaf Takımı Araba",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709581797213,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/04/46/96/56/79/22/88/06/26/55/13708934631291371550.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 546049782,
+      "__unknown_productSubTitle": "Tek Kişilik Lastikli Fitted Çarşaf Takımı Araba 100 x 200",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4047822,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/04/46/96/56/79/22/88/06/26/55/13708934631291371550.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/04/46/96/56/79/22/88/06/26/55/13708934631291371550.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/04/46/96/56/79/22/88/06/26/55/13708934631291371550.png"
+    }
+  }
+]

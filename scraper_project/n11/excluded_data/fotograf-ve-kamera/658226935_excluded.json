@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 752152,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Addıson 300871 Ekran Temizleyici Sprey 250 ML + Microfiber Bez",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760533723028,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 658226935,
+      "__unknown_productSubTitle": "Addıson 300871 Ekran Temizleyici Sprey 250 Ml + Microfiber Bez",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 752153,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Addıson 300871 Ekran Temizleyici Sprey 250 ML + Microfiber Bez",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730408970178,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/01/81/32/31/33/71/56/73/48/21/39035090397001137301.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630654492,
+      "__unknown_productSubTitle": "Addıson 300871 Ekran Temizleyici Sprey 250 Ml + Microfiber Bez",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6083373,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/01/81/32/31/33/71/56/73/48/21/39035090397001137301.jpg"
+        },
+        {
+          "id": 6083374,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/01/85/80/90/35/74/80/69/30/65/72614067495127856604.jpg"
+        },
+        {
+          "id": 6083375,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/01/90/23/87/26/36/92/13/65/28/32745040163677097558.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/01/81/32/31/33/71/56/73/48/21/39035090397001137301.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/01/81/32/31/33/71/56/73/48/21/39035090397001137301.jpg"
+    }
+  },
+  {
+    "gid_ref": 752154,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Addıson 300871 Ekran Temizleyici Sprey 250 ML + Microfiber Bez",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722848067813,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630654492,
+      "__unknown_productSubTitle": "Addıson 300871 Ekran Temizleyici Sprey 250 Ml + Microfiber Bez",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 382249,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "XLC Comp ST-T14 Açı Ayarlı Gidon Boğazı +60° 31.8mm/95mm Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766124650924,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1766124731199,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599694046,
+      "__unknown_productSubTitle": "XLC Comp ST-T14 Açı Ayarlı Gidon Boğazı +60° 31.8mm/95mm Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 382250,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "XLC Comp ST-T14 Açı Ayarlı Gidon Boğazı +60° 31.8mm/95mm Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725890629404,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/09/48/57/63/21/67/04/55/48/24/98539471744887112415.png",
+      "__unknown_lastModifiedDate": 1741940047327,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599694046,
+      "__unknown_productSubTitle": "XLC Comp ST-T14 Açı Ayarlı Gidon Boğazı +60° 31.8mm/95mm Siyah ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5615500,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/09/48/57/63/21/67/04/55/48/24/98539471744887112415.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/09/48/57/63/21/67/04/55/48/24/98539471744887112415.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/09/48/57/63/21/67/04/55/48/24/98539471744887112415.png"
+    }
+  }
+]

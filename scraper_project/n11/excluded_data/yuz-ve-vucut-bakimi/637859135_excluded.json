@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1511679,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ersağ Papatya Özlü Duş Jeli 2 x 1 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774257345959,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/23/52/36/51/31/01/43/61/63/47/38910778065319381785.png",
+      "__unknown_lastModifiedDate": 1774257345959,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732331445,
+      "__unknown_productSubTitle": "Ersağ Papatya Özlü Duş Jeli 2 x 1 L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8492222,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/23/52/36/51/31/01/43/61/63/47/38910778065319381785.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/23/52/36/51/31/01/43/61/63/47/38910778065319381785.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/23/52/36/51/31/01/43/61/63/47/38910778065319381785.png"
+    }
+  },
+  {
+    "gid_ref": 1511680,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ersağ Papatya Özlü Duş Jeli 2 x 1 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764685588543,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637859135,
+      "__unknown_productSubTitle": "Ersağ Papatya Özlü Duş Jeli 2 x 1 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1511681,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ersağ Papatya Özlü Duş Jeli 2 x 1 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1735367013620,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637859135,
+      "__unknown_productSubTitle": "Ersağ Papatya Özlü Duş Jeli 2 x 1 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

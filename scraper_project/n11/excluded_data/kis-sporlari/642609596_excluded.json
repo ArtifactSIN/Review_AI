@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 802909,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Suyutti K530 Kadın Polar Eldiven Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762882705659,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642609596,
+      "__unknown_productSubTitle": "Suyutti K530 Kadın Polar Eldiven Siyah M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802910,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Suyutti K530 Kadın Polar Eldiven Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732643125016,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/26/88/60/77/36/31/01/43/73/78/88396088683664161058.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642609596,
+      "__unknown_productSubTitle": "Suyutti K530 Kadın Polar Eldiven Siyah M",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6333057,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/26/88/60/77/36/31/01/43/73/78/88396088683664161058.png"
+        },
+        {
+          "id": 6333058,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/26/70/40/76/54/65/96/47/52/80/13396866292044249646.png"
+        },
+        {
+          "id": 6333059,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/26/75/02/15/15/26/97/01/50/86/63813667421591288977.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/26/88/60/77/36/31/01/43/73/78/88396088683664161058.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/26/88/60/77/36/31/01/43/73/78/88396088683664161058.png"
+    }
+  }
+]

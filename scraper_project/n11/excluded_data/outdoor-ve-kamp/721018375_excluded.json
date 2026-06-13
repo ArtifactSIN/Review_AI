@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 964583,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Hillcrest Erkek Outdoor Ayakkabı 237265tk-bbk Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775246460933,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/03/60/79/62/21/88/74/67/52/56/67525013688392924297.jpg",
+      "__unknown_lastModifiedDate": 1775246460933,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721018375,
+      "__unknown_productSubTitle": "Skechers Hillcrest Erkek Outdoor Ayakkabı 237265tk-bbk Siyah 41.5",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8565370,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/03/60/79/62/21/88/74/67/52/56/67525013688392924297.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/03/60/79/62/21/88/74/67/52/56/67525013688392924297.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/03/60/79/62/21/88/74/67/52/56/67525013688392924297.jpg"
+    }
+  },
+  {
+    "gid_ref": 964584,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Hillcrest Erkek Outdoor Ayakkabı 237265tk-bbk Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772331817118,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/01/47/32/76/18/28/49/64/43/11/07000691441918232060.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721018375,
+      "__unknown_productSubTitle": "Skechers Hillcrest Erkek Outdoor Ayakkabı 237265tk-bbk Siyah 41.5",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8426317,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/01/47/32/76/18/28/49/64/43/11/07000691441918232060.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/01/47/32/76/18/28/49/64/43/11/07000691441918232060.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/01/47/32/76/18/28/49/64/43/11/07000691441918232060.png"
+    }
+  }
+]

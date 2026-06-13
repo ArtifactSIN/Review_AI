@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 1493707,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Metal Model Araba Oyuncak 1:36 Ölçek Diecast Renault Clio Rs -beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764342776176,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/28/63/76/59/90/84/29/48/79/16/03521250499374042925.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655022390,
+      "__unknown_productSubTitle": "Metal Model Araba Oyuncak 1:36 Ölçek Diecast Renault Clio Rs -beyaz ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8040276,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/63/76/59/90/84/29/48/79/16/03521250499374042925.jpg"
+        },
+        {
+          "id": 8040278,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/65/00/25/09/61/91/76/30/76/62386796679848312260.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/28/63/76/59/90/84/29/48/79/16/03521250499374042925.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/28/63/76/59/90/84/29/48/79/16/03521250499374042925.jpg"
+    }
+  },
+  {
+    "gid_ref": 1493708,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Metal Model Araba Oyuncak 1:36 Ölçek Diecast Renault Clio Rs -beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763211292887,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/15/48/07/05/14/72/64/08/25/85/35060892862343854237.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655022390,
+      "__unknown_productSubTitle": "Metal Model Araba Oyuncak 1:36 Ölçek Diecast Renault Clio Rs -beyaz ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7967992,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/15/48/07/05/14/72/64/08/25/85/35060892862343854237.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/15/48/07/05/14/72/64/08/25/85/35060892862343854237.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/15/48/07/05/14/72/64/08/25/85/35060892862343854237.png"
+    }
+  }
+]

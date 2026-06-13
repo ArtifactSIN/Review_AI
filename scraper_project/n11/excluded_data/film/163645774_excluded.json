@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 735093,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd- Sicario",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762947978959,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 163645774,
+      "__unknown_productSubTitle": "Dvd- Sicario",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735094,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "İSTİYORSANIZ ALIN",
+      "productTitle": "Dvd- Sicario",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1645566988203,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 163645774,
+      "__unknown_productSubTitle": "Dvd- Sicario",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735095,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "güzel film",
+      "productTitle": "Dvd- Sicario",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1543904743972,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 163645774,
+      "__unknown_productSubTitle": "Dvd- Sicario",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

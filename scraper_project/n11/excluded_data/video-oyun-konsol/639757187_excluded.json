@@ -1,0 +1,35 @@
+[
+  {
+    "gid_ref": 1340023,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nintendo Switch Çok Amaçlı Taşıma Çantası Dobe-tns-2136",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772818631339,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/06/90/57/69/02/43/99/57/50/63/98496689947235695071.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639757187,
+      "__unknown_productSubTitle": "Nintendo Switch Çok Amaçlı Taşıma Çantası Dobe-tns-2136 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8442521,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/06/90/57/69/02/43/99/57/50/63/98496689947235695071.jpg"
+        },
+        {
+          "id": 8442522,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/06/64/59/66/50/87/47/13/64/11/15414248063121275409.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/06/90/57/69/02/43/99/57/50/63/98496689947235695071.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/06/90/57/69/02/43/99/57/50/63/98496689947235695071.jpg"
+    }
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "gid_ref": 265611,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İsimli Emzik Zinciri - Emzik Askısı - Bebek Bez002 Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763999083263,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/24/87/54/75/99/85/29/14/16/70/25260262414446315589.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 294990435,
+      "__unknown_productSubTitle": "İsimli Emzik Zinciri - Emzik Askısı - Bebek Bez002 Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8018008,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/24/87/54/75/99/85/29/14/16/70/25260262414446315589.png"
+        },
+        {
+          "id": 8018009,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/24/90/65/41/34/58/05/75/65/68/84886697293752846122.png"
+        },
+        {
+          "id": 8018010,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/24/90/94/35/66/73/75/10/08/64/71471495684674925694.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/24/87/54/75/99/85/29/14/16/70/25260262414446315589.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/24/87/54/75/99/85/29/14/16/70/25260262414446315589.png"
+    }
+  },
+  {
+    "gid_ref": 265612,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İsimli Emzik Zinciri - Emzik Askısı - Bebek Bez002 Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725710909802,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/07/59/72/01/21/72/30/28/69/56/13240636723530187086.png",
+      "__unknown_lastModifiedDate": 1750666026901,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 294990435,
+      "__unknown_productSubTitle": "İsimli Emzik Zinciri - Emzik Askısı - Bebek Bez002 Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5599442,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/07/59/72/01/21/72/30/28/69/56/13240636723530187086.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/07/59/72/01/21/72/30/28/69/56/13240636723530187086.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/07/59/72/01/21/72/30/28/69/56/13240636723530187086.png"
+    }
+  },
+  {
+    "gid_ref": 265613,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İsimli Emzik Zinciri - Emzik Askısı - Bebek Bez002 Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724256643755,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750666026901,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 294990435,
+      "__unknown_productSubTitle": "İsimli Emzik Zinciri - Emzik Askısı - Bebek Bez002 Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

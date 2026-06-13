@@ -1,0 +1,65 @@
+[
+  {
+    "gid_ref": 1138725,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Regenesis Max Plus 30 Kapsül",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773162142231,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773162142231,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 731188832,
+      "__unknown_productSubTitle": "Regenesis Max Plus 30 Kapsül ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1138726,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Regenesis Max Plus 30 Kapsül",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772641594398,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 731188832,
+      "__unknown_productSubTitle": "Regenesis Max Plus 30 Kapsül ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1138727,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Regenesis Max Plus 30 Kapsül",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772641502972,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 731188832,
+      "__unknown_productSubTitle": "Regenesis Max Plus 30 Kapsül ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

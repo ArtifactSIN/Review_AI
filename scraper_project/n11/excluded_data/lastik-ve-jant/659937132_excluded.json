@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 828280,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "T-rax Seramik Lastik Parlatıcı Aerosol 500ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762958104203,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/12/48/07/79/28/04/93/56/82/76/25492093058143599260.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659937132,
+      "__unknown_productSubTitle": "T-rax Seramik Lastik Parlatıcı Aerosol 500ml ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7961567,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/12/48/07/79/28/04/93/56/82/76/25492093058143599260.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/12/48/07/79/28/04/93/56/82/76/25492093058143599260.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/12/48/07/79/28/04/93/56/82/76/25492093058143599260.png"
+    }
+  },
+  {
+    "gid_ref": 828281,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "T-rax Seramik Lastik Parlatıcı Aerosol 500ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761254670871,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/24/73/38/13/15/69/18/89/29/05/81651091147052565093.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659937132,
+      "__unknown_productSubTitle": "T-rax Seramik Lastik Parlatıcı Aerosol 500ml ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7844413,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/24/73/38/13/15/69/18/89/29/05/81651091147052565093.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/24/73/38/13/15/69/18/89/29/05/81651091147052565093.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/24/73/38/13/15/69/18/89/29/05/81651091147052565093.png"
+    }
+  },
+  {
+    "gid_ref": 828282,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "T-rax Seramik Lastik Parlatıcı Aerosol 500ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744758721722,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659937132,
+      "__unknown_productSubTitle": "T-rax Seramik Lastik Parlatıcı Aerosol 500ml ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

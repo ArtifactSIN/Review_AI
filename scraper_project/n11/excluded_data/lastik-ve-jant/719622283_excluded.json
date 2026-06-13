@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 833763,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bridgestone 195/65R15 91H T001 Yaz Lastiği 2025",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1761930022094,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/31/71/93/22/47/29/50/00/37/51/05504166646435694040.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700199016,
+      "__unknown_productSubTitle": "Bridgestone 195/65R15 91H T001 Yaz Lastiği 2025",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7891858,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/31/71/93/22/47/29/50/00/37/51/05504166646435694040.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/31/71/93/22/47/29/50/00/37/51/05504166646435694040.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/31/71/93/22/47/29/50/00/37/51/05504166646435694040.jpg"
+    }
+  }
+]

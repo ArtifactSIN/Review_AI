@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 752373,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Beklenmeyen bişey yok",
+      "productTitle": "Np-Bx1 Batarya Rx100 Rx1 Hx300 Wx300 Hdr-As15",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1626089429347,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 69018813,
+      "__unknown_productSubTitle": "Np-Bx1 Batarya Rx100 Rx1 Hx300 Wx300 Hdr-As15",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 752374,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Uyumlu",
+      "productTitle": "Np-Bx1 Batarya Rx100 Rx1 Hx300 Wx300 Hdr-As15",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1553066169655,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 69018813,
+      "__unknown_productSubTitle": "Np-Bx1 Batarya Rx100 Rx1 Hx300 Wx300 Hdr-As15",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

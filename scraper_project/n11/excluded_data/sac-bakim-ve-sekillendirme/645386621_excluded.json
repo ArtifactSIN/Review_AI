@@ -1,0 +1,118 @@
+[
+  {
+    "gid_ref": 1056235,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Taft Power Kaşmir Köpük 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1723342850570,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/11/69/95/80/71/47/89/26/33/53/17725265849491372214.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592185059,
+      "__unknown_productSubTitle": "Taft Power Kaşmir Köpük 150 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5389451,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/11/69/95/80/71/47/89/26/33/53/17725265849491372214.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/11/69/95/80/71/47/89/26/33/53/17725265849491372214.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/11/69/95/80/71/47/89/26/33/53/17725265849491372214.png"
+    }
+  },
+  {
+    "gid_ref": 1056236,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Taft Power Kaşmir Köpük 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1717094768645,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/30/56/63/00/80/56/91/42/29/14/33899704244280774545.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592185059,
+      "__unknown_productSubTitle": "Taft Power Kaşmir Köpük 150 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4833947,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/30/56/63/00/80/56/91/42/29/14/33899704244280774545.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/30/56/63/00/80/56/91/42/29/14/33899704244280774545.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/30/56/63/00/80/56/91/42/29/14/33899704244280774545.png"
+    }
+  },
+  {
+    "gid_ref": 1056237,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Taft Power Kaşmir Köpük 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1704873266071,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592185059,
+      "__unknown_productSubTitle": "Taft Power Kaşmir Köpük 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1056238,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Taft Power Kaşmir Köpük 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1700633943985,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552487033,
+      "__unknown_productSubTitle": "Taft Power Kaşmir Köpük 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1056239,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Taft Power Kaşmir Köpük 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1675513857326,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552487033,
+      "__unknown_productSubTitle": "Taft Power Kaşmir Köpük 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 752138,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lowepro Tahoe Bp150 Backpack (Black)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733849748598,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 538509797,
+      "__unknown_productSubTitle": "Lowepro Tahoe Bp150 Backpack (Black)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 752139,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lowepro Tahoe Bp150 Backpack (Black)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1707485986022,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 538509797,
+      "__unknown_productSubTitle": "Lowepro Tahoe Bp150 Backpack (Black)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

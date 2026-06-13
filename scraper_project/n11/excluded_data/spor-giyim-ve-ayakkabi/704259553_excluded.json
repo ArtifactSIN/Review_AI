@@ -1,0 +1,56 @@
+[
+  {
+    "gid_ref": 1161508,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Performance Runfalcon 5 El C Çocuk Koşu Ayakkabısı Jq5609 Mor",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1776151963462,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/14/73/20/17/67/76/66/74/02/80/36089049489961693678.jpg",
+      "__unknown_lastModifiedDate": 1776151963462,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 704259553,
+      "__unknown_productSubTitle": "Adidas Performance Runfalcon 5 El C Çocuk Koşu Ayakkabısı Jq5609 Mor 35",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8610309,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/14/73/20/17/67/76/66/74/02/80/36089049489961693678.jpg"
+        },
+        {
+          "id": 8610310,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/14/85/72/31/05/91/90/00/52/50/37543350458638616852.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/14/73/20/17/67/76/66/74/02/80/36089049489961693678.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/14/73/20/17/67/76/66/74/02/80/36089049489961693678.jpg"
+    }
+  },
+  {
+    "gid_ref": 1161509,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Performance Runfalcon 5 El C Çocuk Koşu Ayakkabısı Jq5609 Mor",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770044609512,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 689872429,
+      "__unknown_productSubTitle": "Adidas Performance Runfalcon 5 El C Çocuk Koşu Ayakkabısı Jq5609 Mor 32",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

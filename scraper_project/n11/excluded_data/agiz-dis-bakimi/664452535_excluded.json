@@ -1,0 +1,103 @@
+[
+  {
+    "gid_ref": 25868,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensodyne True White Diş Fırçası Medium",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765807952185,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645393860,
+      "__unknown_productSubTitle": "Sensodyne True White Diş Fırçası Medium Beyaz - Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 25869,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensodyne True White Diş Fırçası Medium",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765789776819,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645393860,
+      "__unknown_productSubTitle": "Sensodyne True White Diş Fırçası Medium Beyaz - Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 25870,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensodyne True White Diş Fırçası Medium",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722951565564,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 381497835,
+      "__unknown_productSubTitle": "Sensodyne True White Diş Fırçası Medium Beyaz - Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 25871,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensodyne True White Diş Fırçası Medium",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721579586105,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 381497835,
+      "__unknown_productSubTitle": "Sensodyne True White Diş Fırçası Medium Beyaz - Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 25872,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "hiZli",
+      "productTitle": "Sensodyne True White Diş Fırçası Medium",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1573896797963,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 381497835,
+      "__unknown_productSubTitle": "Sensodyne True White Diş Fırçası Medium Beyaz - Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

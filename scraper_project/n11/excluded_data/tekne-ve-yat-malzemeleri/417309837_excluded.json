@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 1250376,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ürün ölçüsü çok küçük",
+      "productTitle": "Miçoz Plastik Vidalı Tekne Karavan",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1651853136545,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/05/06/73/71/95/40/92/01/14/58/75/01173132908001869423.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 417309837,
+      "__unknown_productSubTitle": "Miçoz Plastik Vidalı Tekne Karavan",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 597438,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/05/06/73/71/95/40/92/01/14/58/75/01173132908001869423.jpeg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/05/06/73/71/95/40/92/01/14/58/75/01173132908001869423.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/05/06/73/71/95/40/92/01/14/58/75/01173132908001869423.jpeg"
+    }
+  }
+]

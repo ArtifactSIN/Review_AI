@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1337025,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Elvita PS4 Uyumlu V2 Gamepad (PS4 Uyumlu Ve Pc Uyumlu)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1738500425567,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640949158,
+      "__unknown_productSubTitle": "Elvita PS4 Uyumlu V2 Gamepad (PS4 Uyumlu Ve Pc Uyumlu)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337026,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Elvita PS4 Uyumlu V2 Gamepad (PS4 Uyumlu Ve Pc Uyumlu)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709149952735,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/28/69/45/77/50/86/18/43/98/64/01465681720708542693.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 503353260,
+      "__unknown_productSubTitle": "Elvita PS4 Uyumlu V2 Gamepad (PS4 Uyumlu Ve Pc Uyumlu)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4007592,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/28/69/45/77/50/86/18/43/98/64/01465681720708542693.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/28/69/45/77/50/86/18/43/98/64/01465681720708542693.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/28/69/45/77/50/86/18/43/98/64/01465681720708542693.png"
+    }
+  }
+]

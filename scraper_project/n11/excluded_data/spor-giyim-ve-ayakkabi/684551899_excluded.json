@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1161015,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Slazenger MIRAGE I Erkek  Gri Koşu & Yürüyüş Spor Ayakkabısı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764337215388,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/28/57/12/06/42/52/02/29/80/02/06036116271738109080.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684551933,
+      "__unknown_productSubTitle": "Slazenger MIRAGE I Erkek  Gri Koşu & Yürüyüş Spor Ayakkabısı   43",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8037372,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/57/12/06/42/52/02/29/80/02/06036116271738109080.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/28/57/12/06/42/52/02/29/80/02/06036116271738109080.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/28/57/12/06/42/52/02/29/80/02/06036116271738109080.png"
+    }
+  },
+  {
+    "gid_ref": 1161016,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Slazenger MIRAGE I Erkek  Gri Koşu & Yürüyüş Spor Ayakkabısı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763484350375,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684551933,
+      "__unknown_productSubTitle": "Slazenger MIRAGE I Erkek  Gri Koşu & Yürüyüş Spor Ayakkabısı   43",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

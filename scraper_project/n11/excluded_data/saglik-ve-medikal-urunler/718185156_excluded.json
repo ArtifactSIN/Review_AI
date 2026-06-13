@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 1134398,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tules Steril Gazlı Bez 5 x 100'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774620585625,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/76/27/62/14/71/97/45/82/69/01956524927084771447.png",
+      "__unknown_lastModifiedDate": 1774620585625,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718185156,
+      "__unknown_productSubTitle": "Tules Steril Gazlı Bez 5 x 100'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8526962,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/76/27/62/14/71/97/45/82/69/01956524927084771447.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/76/27/62/14/71/97/45/82/69/01956524927084771447.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/76/27/62/14/71/97/45/82/69/01956524927084771447.png"
+    }
+  },
+  {
+    "gid_ref": 1134399,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tules Steril Gazlı Bez 5 x 100'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771054732450,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718185156,
+      "__unknown_productSubTitle": "Tules Steril Gazlı Bez 5 x 100'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

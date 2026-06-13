@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1077508,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gümüş Suyu Kolloidal Active Silver 15Ppm 1 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715597468510,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 285082223,
+      "__unknown_productSubTitle": "Gümüş Suyu Kolloidal Active Silver 15Ppm 1 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1077509,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gümüş Suyu Kolloidal Active Silver 15Ppm 1 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1708263087006,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 285082223,
+      "__unknown_productSubTitle": "Gümüş Suyu Kolloidal Active Silver 15Ppm 1 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

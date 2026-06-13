@@ -1,0 +1,101 @@
+[
+  {
+    "gid_ref": 778192,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Kadın Gri Melanj Bisiklet Yaka Basic Kazak 50313579-VR086",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773066982413,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773066982413,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719696994,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Kadın Gri Melanj Bisiklet Yaka Basic Kazak 50313579-VR086  L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 778193,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Kadın Gri Melanj Bisiklet Yaka Basic Kazak 50313579-VR086",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770732156022,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/10/46/77/55/59/08/53/60/41/80/75600542717397417687.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719696994,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Kadın Gri Melanj Bisiklet Yaka Basic Kazak 50313579-VR086  L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8341816,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/10/46/77/55/59/08/53/60/41/80/75600542717397417687.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/10/46/77/55/59/08/53/60/41/80/75600542717397417687.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/10/46/77/55/59/08/53/60/41/80/75600542717397417687.png"
+    }
+  },
+  {
+    "gid_ref": 778194,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Kadın Gri Melanj Bisiklet Yaka Basic Kazak 50313579-VR086",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768063318938,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/10/58/21/41/90/43/51/40/47/64/22526720763179351272.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721774174,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Kadın Gri Melanj Bisiklet Yaka Basic Kazak 50313579-VR086 XL",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8237380,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/10/58/21/41/90/43/51/40/47/64/22526720763179351272.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/10/58/21/41/90/43/51/40/47/64/22526720763179351272.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/10/58/21/41/90/43/51/40/47/64/22526720763179351272.png"
+    }
+  },
+  {
+    "gid_ref": 778195,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Kadın Gri Melanj Bisiklet Yaka Basic Kazak 50313579-VR086",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767034681058,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719665356,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Kadın Gri Melanj Bisiklet Yaka Basic Kazak 50313579-VR086  M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

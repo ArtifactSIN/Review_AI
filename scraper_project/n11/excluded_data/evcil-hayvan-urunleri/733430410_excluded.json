@@ -1,0 +1,80 @@
+[
+  {
+    "gid_ref": 733267,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "King Et Parçacıklı Kuzu Etli Yetişkin Kedi Konserve 400 Gr 24 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773968116626,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/20/48/08/47/48/32/58/40/68/37/77520763219372653628.png",
+      "__unknown_lastModifiedDate": 1773968116626,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733430410,
+      "__unknown_productSubTitle": "King Et Parçacıklı Kuzu Etli Yetişkin Kedi Konserve 400 Gr 24 Adet ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8484286,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/20/48/08/47/48/32/58/40/68/37/77520763219372653628.png"
+        },
+        {
+          "id": 8484287,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/20/68/03/65/18/69/61/65/37/61/22483707351266771633.png"
+        },
+        {
+          "id": 8484288,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/20/78/83/03/49/75/27/91/86/11/3464013483112613182.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/20/48/08/47/48/32/58/40/68/37/77520763219372653628.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/20/48/08/47/48/32/58/40/68/37/77520763219372653628.png"
+    }
+  },
+  {
+    "gid_ref": 733268,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "King Et Parçacıklı Kuzu Etli Yetişkin Kedi Konserve 400 Gr 24 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773841030278,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773841030278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733430410,
+      "__unknown_productSubTitle": "King Et Parçacıklı Kuzu Etli Yetişkin Kedi Konserve 400 Gr 24 Adet ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 733269,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "King Et Parçacıklı Kuzu Etli Yetişkin Kedi Konserve 400 Gr 24 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765913822688,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721767773,
+      "__unknown_productSubTitle": "King Et Parçacıklı Kuzu Etli Yetişkin Kedi Konserve 400 Gr 24 Adet ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

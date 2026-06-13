@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 477164,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kiwi KSM-2453 Izgara Ve Tost Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774959331972,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774959331972,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719483989,
+      "__unknown_productSubTitle": "Kiwi KSM-2453 Izgara Ve Tost Makinesi İnox",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 477165,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kiwi KSM-2453 Izgara Ve Tost Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774278307630,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/23/88/32/66/88/07/70/93/74/88/23141504112023024269.png",
+      "__unknown_lastModifiedDate": 1774278307630,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 698898038,
+      "__unknown_productSubTitle": "Kiwi KSM-2453 Izgara Ve Tost Makinesi İnox",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8487290,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/23/88/32/66/88/07/70/93/74/88/23141504112023024269.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/23/88/32/66/88/07/70/93/74/88/23141504112023024269.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/23/88/32/66/88/07/70/93/74/88/23141504112023024269.png"
+    }
+  },
+  {
+    "gid_ref": 477166,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kiwi KSM-2453 Izgara Ve Tost Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762872316729,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 697386705,
+      "__unknown_productSubTitle": "Kiwi KSM-2453 Izgara Ve Tost Makinesi İnox",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

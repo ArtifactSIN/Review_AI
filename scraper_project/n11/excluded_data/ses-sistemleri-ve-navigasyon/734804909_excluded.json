@@ -1,0 +1,56 @@
+[
+  {
+    "gid_ref": 1157218,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jameson Js-60 Coaxıal Hoparlör Kalite Ve Güç Bir Arada",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773762058592,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773762058592,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734804909,
+      "__unknown_productSubTitle": "Jameson Js-60 Coaxıal Hoparlör Kalite Ve Güç Bir Arada ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1157219,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jameson Js-60 Coaxıal Hoparlör Kalite Ve Güç Bir Arada",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773524151391,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/15/57/79/56/26/54/76/37/76/46/08453484663639589132.jpg",
+      "__unknown_lastModifiedDate": 1773524151391,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734804909,
+      "__unknown_productSubTitle": "Jameson Js-60 Coaxıal Hoparlör Kalite Ve Güç Bir Arada ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8469962,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/15/57/79/56/26/54/76/37/76/46/08453484663639589132.jpg"
+        },
+        {
+          "id": 8469963,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/15/54/21/43/39/41/54/75/97/49/96334882556394229258.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/15/57/79/56/26/54/76/37/76/46/08453484663639589132.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/15/57/79/56/26/54/76/37/76/46/08453484663639589132.jpg"
+    }
+  }
+]

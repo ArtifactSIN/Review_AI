@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 946304,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Squier Sonic Stratocaster Hss Akçaağaç Klavye Bpg Black Elektro Gitar",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1751793801686,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606076774,
+      "__unknown_productSubTitle": "Squier Sonic Stratocaster Hss Akçaağaç Klavye Bpg Black Elektro Gitar ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946305,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Squier Sonic Stratocaster Hss Akçaağaç Klavye Bpg Black Elektro Gitar",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1741092039242,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/04/47/13/29/55/28/89/60/72/99/82103562200508906809.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606076774,
+      "__unknown_productSubTitle": "Squier Sonic Stratocaster Hss Akçaağaç Klavye Bpg Black Elektro Gitar ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6912139,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/04/47/13/29/55/28/89/60/72/99/82103562200508906809.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/04/47/13/29/55/28/89/60/72/99/82103562200508906809.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/04/47/13/29/55/28/89/60/72/99/82103562200508906809.jpg"
+    }
+  },
+  {
+    "gid_ref": 946306,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Squier Sonic Stratocaster Hss Akçaağaç Klavye Bpg Black Elektro Gitar",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738329671565,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/31/65/17/80/58/71/15/75/55/33/95611342548239601536.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 607034610,
+      "__unknown_productSubTitle": "Squier Sonic Stratocaster Hss Akçaağaç Klavye Bpg Black Elektro Gitar ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6778752,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/31/65/17/80/58/71/15/75/55/33/95611342548239601536.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/31/65/17/80/58/71/15/75/55/33/95611342548239601536.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/31/65/17/80/58/71/15/75/55/33/95611342548239601536.jpg"
+    }
+  }
+]

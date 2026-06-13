@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 503623,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nom LASSE41LE Plastik Saplı Tıraş Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1662629284947,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 325028162,
+      "__unknown_productSubTitle": "Nom LASSE41LE Plastik Saplı Tıraş Fırçası Sarı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 503624,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Çok guzel bir ürün",
+      "productTitle": "Nom LASSE41LE Plastik Saplı Tıraş Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1573222579337,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 325028162,
+      "__unknown_productSubTitle": "Nom LASSE41LE Plastik Saplı Tıraş Fırçası Sarı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

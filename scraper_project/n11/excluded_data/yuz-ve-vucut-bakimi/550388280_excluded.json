@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 1502571,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babe Oil Soap Duş Yağı 500 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1761069432456,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649020976,
+      "__unknown_productSubTitle": "Babe Oil Soap Duş Yağı 500 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1502572,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babe Oil Soap Duş Yağı 500 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758810687652,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649020976,
+      "__unknown_productSubTitle": "Babe Oil Soap Duş Yağı 500 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1502573,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babe Oil Soap Duş Yağı 500 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740052015579,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 550388280,
+      "__unknown_productSubTitle": "Babe Oil Soap Duş Yağı 500 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

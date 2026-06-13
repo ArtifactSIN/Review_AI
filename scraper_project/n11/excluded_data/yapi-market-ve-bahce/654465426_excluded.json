@@ -1,0 +1,75 @@
+[
+  {
+    "gid_ref": 1398586,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İzeltaş Cob Led Şarjlı Çalışma Lambası 600 Lm 14000005383",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774693144922,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774693144922,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655639033,
+      "__unknown_productSubTitle": "İzeltaş Cob Led Şarjlı Çalışma Lambası 600 Lm 14000005383 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1398587,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İzeltaş Cob Led Şarjlı Çalışma Lambası 600 Lm 14000005383",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766661032521,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/25/88/66/45/60/90/60/36/74/94/27610447724642742839.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654465426,
+      "__unknown_productSubTitle": "İzeltaş Cob Led Şarjlı Çalışma Lambası 600 Lm 14000005383 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8170860,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/25/88/66/45/60/90/60/36/74/94/27610447724642742839.jpg"
+        },
+        {
+          "id": 8170861,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/25/76/49/98/65/20/81/94/78/12/99199185959419688999.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/25/88/66/45/60/90/60/36/74/94/27610447724642742839.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/25/88/66/45/60/90/60/36/74/94/27610447724642742839.jpg"
+    }
+  },
+  {
+    "gid_ref": 1398588,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İzeltaş Cob Led Şarjlı Çalışma Lambası 600 Lm 14000005383",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764409371396,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655639033,
+      "__unknown_productSubTitle": "İzeltaş Cob Led Şarjlı Çalışma Lambası 600 Lm 14000005383 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

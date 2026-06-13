@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 946531,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kawai CN201R Dijital Duvar Piyanosu (Gül Ağacı)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728131642986,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/05/78/30/78/45/52/20/14/95/64/87086464906024041574.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 560541765,
+      "__unknown_productSubTitle": "Kawai CN201R Dijital Duvar Piyanosu (Gül Ağacı)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5853759,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/05/78/30/78/45/52/20/14/95/64/87086464906024041574.png"
+        },
+        {
+          "id": 5853760,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/05/83/84/20/31/64/20/23/07/24/41633489453583322445.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/05/78/30/78/45/52/20/14/95/64/87086464906024041574.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/05/78/30/78/45/52/20/14/95/64/87086464906024041574.png"
+    }
+  },
+  {
+    "gid_ref": 946532,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kawai CN201R Dijital Duvar Piyanosu (Gül Ağacı)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721477436307,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/20/89/25/97/28/36/41/21/76/48/22501109541320703288.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583231424,
+      "__unknown_productSubTitle": "Kawai CN201R Dijital Duvar Piyanosu (Gül Ağacı)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5231228,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/20/89/25/97/28/36/41/21/76/48/22501109541320703288.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/20/89/25/97/28/36/41/21/76/48/22501109541320703288.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/20/89/25/97/28/36/41/21/76/48/22501109541320703288.png"
+    }
+  }
+]

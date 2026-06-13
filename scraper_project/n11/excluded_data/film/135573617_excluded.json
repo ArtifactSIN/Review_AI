@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 734852,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Passion - Tutku: Hz. İsa'nın Çilesi Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740500920005,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 135573617,
+      "__unknown_productSubTitle": "The Passion - Tutku: Hz. İsa'nın Çilesi Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734853,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Passion - Tutku: Hz. İsa'nın Çilesi Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732556294127,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/25/90/91/15/46/87/39/76/58/75/54720127388219979263.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 135573617,
+      "__unknown_productSubTitle": "The Passion - Tutku: Hz. İsa'nın Çilesi Dvd",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6324430,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/25/88/64/53/25/97/02/94/69/04/41329395098148684981.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/25/90/91/15/46/87/39/76/58/75/54720127388219979263.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/25/90/91/15/46/87/39/76/58/75/54720127388219979263.png"
+    }
+  },
+  {
+    "gid_ref": 734854,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Passion - Tutku: Hz. İsa'nın Çilesi Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729510576367,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 135573617,
+      "__unknown_productSubTitle": "The Passion - Tutku: Hz. İsa'nın Çilesi Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734855,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Passion - Tutku: Hz. İsa'nın Çilesi Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1498044606399,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 135573617,
+      "__unknown_productSubTitle": "The Passion - Tutku: Hz. İsa'nın Çilesi Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

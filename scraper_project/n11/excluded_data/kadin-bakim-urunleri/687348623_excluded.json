@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 762948,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips BRI924/00 Lumea Advanced IPL Lazer Epilasyon Aleti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771093847536,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 731544543,
+      "__unknown_productSubTitle": "Philips BRI924/00 Lumea Advanced IPL Lazer Epilasyon Aleti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 762949,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips BRI924/00 Lumea Advanced IPL Lazer Epilasyon Aleti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733562178096,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643709188,
+      "__unknown_productSubTitle": "Philips BRI924/00 Lumea Advanced IPL Lazer Epilasyon Aleti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

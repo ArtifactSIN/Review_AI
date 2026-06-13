@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 193083,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Poblex Vazelinli Pamuk Kulak Tıkacı - Kulak Koruyucu Tıpası 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766749427180,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/26/56/79/28/05/17/74/88/90/46/42467961792792578592.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589661458,
+      "__unknown_productSubTitle": "Poblex Vazelinli Pamuk Kulak Tıkacı - Kulak Koruyucu Tıpası 4'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8169888,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/26/56/79/28/05/17/74/88/90/46/42467961792792578592.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/26/56/79/28/05/17/74/88/90/46/42467961792792578592.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/26/56/79/28/05/17/74/88/90/46/42467961792792578592.jpeg"
+    }
+  },
+  {
+    "gid_ref": 193084,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Poblex Vazelinli Pamuk Kulak Tıkacı - Kulak Koruyucu Tıpası 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744121649873,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589661458,
+      "__unknown_productSubTitle": "Poblex Vazelinli Pamuk Kulak Tıkacı - Kulak Koruyucu Tıpası 4'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 193085,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Poblex Vazelinli Pamuk Kulak Tıkacı - Kulak Koruyucu Tıpası 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711876454069,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/31/81/79/06/65/50/64/15/36/06/25235679662485292304.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589661458,
+      "__unknown_productSubTitle": "Poblex Vazelinli Pamuk Kulak Tıkacı - Kulak Koruyucu Tıpası 4'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4302636,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/31/81/79/06/65/50/64/15/36/06/25235679662485292304.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/31/81/79/06/65/50/64/15/36/06/25235679662485292304.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/31/81/79/06/65/50/64/15/36/06/25235679662485292304.png"
+    }
+  },
+  {
+    "gid_ref": 193086,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Poblex Vazelinli Pamuk Kulak Tıkacı - Kulak Koruyucu Tıpası 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1705586071262,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589661458,
+      "__unknown_productSubTitle": "Poblex Vazelinli Pamuk Kulak Tıkacı - Kulak Koruyucu Tıpası 4'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

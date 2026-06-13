@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 735370,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Soysuzlar Çetesi - Ingloruious Basterds Bodvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1684516331555,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/05/19/62/52/22/68/53/19/94/61/02/67895013786962511739.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 301747646,
+      "__unknown_productSubTitle": "Soysuzlar Çetesi - Ingloruious Basterds Bodvd",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2013362,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/05/19/62/52/22/68/53/19/94/61/02/67895013786962511739.png"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/05/19/62/52/22/68/53/19/94/61/02/67895013786962511739.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/05/19/62/52/22/68/53/19/94/61/02/67895013786962511739.png"
+    }
+  }
+]

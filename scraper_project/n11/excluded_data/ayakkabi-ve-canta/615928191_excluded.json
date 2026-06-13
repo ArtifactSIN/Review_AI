@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 128354,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Colin's Colins Gri Kadın Terlik Cl1069508 Cl1069508 Q1.v1 Sıl Gümüş",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771264070530,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 615928170,
+      "__unknown_productSubTitle": "Colin's Colins Gri Kadın Terlik Cl1069508 Cl1069508 Q1.v1 Sıl Gümüş 36",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 128355,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Colin's Colins Gri Kadın Terlik Cl1069508 Cl1069508 Q1.v1 Sıl Gümüş",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766654338264,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/25/85/23/86/37/89/98/90/70/72/13727970600322157199.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 615928191,
+      "__unknown_productSubTitle": "Colin's Colins Gri Kadın Terlik Cl1069508 Cl1069508 Q1.v1 Sıl Gümüş 40",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8172957,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/25/85/23/86/37/89/98/90/70/72/13727970600322157199.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/25/85/23/86/37/89/98/90/70/72/13727970600322157199.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/25/85/23/86/37/89/98/90/70/72/13727970600322157199.jpg"
+    }
+  },
+  {
+    "gid_ref": 128356,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Colin's Colins Gri Kadın Terlik Cl1069508 Cl1069508 Q1.v1 Sıl Gümüş",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764338176583,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 615928168,
+      "__unknown_productSubTitle": "Colin's Colins Gri Kadın Terlik Cl1069508 Cl1069508 Q1.v1 Sıl Gümüş 38",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 128357,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Colin's Colins Gri Kadın Terlik Cl1069508 Cl1069508 Q1.v1 Sıl Gümüş",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763389934075,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 615928169,
+      "__unknown_productSubTitle": "Colin's Colins Gri Kadın Terlik Cl1069508 Cl1069508 Q1.v1 Sıl Gümüş 37",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

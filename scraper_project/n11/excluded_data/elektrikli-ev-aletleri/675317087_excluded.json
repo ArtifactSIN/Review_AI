@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 474098,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Roborock F25 ACE Islak Kuru Akıllı Dikey Süpürge",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767687441867,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675317087,
+      "__unknown_productSubTitle": "Roborock F25 ACE Islak Kuru Akıllı Dikey Süpürge Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 474099,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Roborock F25 ACE Islak Kuru Akıllı Dikey Süpürge",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764186605563,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675317087,
+      "__unknown_productSubTitle": "Roborock F25 ACE Islak Kuru Akıllı Dikey Süpürge Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 474100,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Roborock F25 ACE Islak Kuru Akıllı Dikey Süpürge",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754154902949,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/02/80/25/81/66/21/65/73/79/26/15848789161261512071.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675317087,
+      "__unknown_productSubTitle": "Roborock F25 ACE Islak Kuru Akıllı Dikey Süpürge Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7511971,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/02/80/25/81/66/21/65/73/79/26/15848789161261512071.png"
+        },
+        {
+          "id": 7511972,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/02/91/85/18/55/22/23/16/12/75/21975381740357372319.png"
+        },
+        {
+          "id": 7511973,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/02/69/17/07/26/93/80/52/26/64/27353896639294061625.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/02/80/25/81/66/21/65/73/79/26/15848789161261512071.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/02/80/25/81/66/21/65/73/79/26/15848789161261512071.png"
+    }
+  },
+  {
+    "gid_ref": 474101,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Roborock F25 ACE Islak Kuru Akıllı Dikey Süpürge",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1751199494186,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675317087,
+      "__unknown_productSubTitle": "Roborock F25 ACE Islak Kuru Akıllı Dikey Süpürge Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "gid_ref": 963154,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kamp Sandalyesi- Katlanabilir Bej",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772470485763,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/02/69/27/73/12/66/00/38/92/05/86109088428357434826.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665899012,
+      "__unknown_productSubTitle": "Kamp Sandalyesi- Katlanabilir Bej ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8431408,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/02/69/27/73/12/66/00/38/92/05/86109088428357434826.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/02/69/27/73/12/66/00/38/92/05/86109088428357434826.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/02/69/27/73/12/66/00/38/92/05/86109088428357434826.png"
+    }
+  },
+  {
+    "gid_ref": 963155,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kamp Sandalyesi- Katlanabilir Bej",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771778937242,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665899012,
+      "__unknown_productSubTitle": "Kamp Sandalyesi- Katlanabilir Bej ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 963156,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kamp Sandalyesi- Katlanabilir Bej",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770578906271,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665899012,
+      "__unknown_productSubTitle": "Kamp Sandalyesi- Katlanabilir Bej ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 963157,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kamp Sandalyesi- Katlanabilir Bej",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768511814006,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/16/76/82/55/01/34/09/13/17/52/63981668075827056202.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665899012,
+      "__unknown_productSubTitle": "Kamp Sandalyesi- Katlanabilir Bej ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8260803,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/16/76/82/55/01/34/09/13/17/52/63981668075827056202.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/16/76/82/55/01/34/09/13/17/52/63981668075827056202.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/16/76/82/55/01/34/09/13/17/52/63981668075827056202.png"
+    }
+  }
+]

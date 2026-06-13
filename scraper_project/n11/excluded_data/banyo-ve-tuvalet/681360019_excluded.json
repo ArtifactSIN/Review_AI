@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 177418,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Gentle Shampoo 3 x 500 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758106236919,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640324639,
+      "__unknown_productSubTitle": "Mustela Gentle Shampoo 3 x 500 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 177419,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Gentle Shampoo 3 x 500 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744046938224,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640324639,
+      "__unknown_productSubTitle": "Mustela Gentle Shampoo 3 x 500 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 177420,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Gentle Shampoo 3 x 500 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1740677313944,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651563973,
+      "__unknown_productSubTitle": "Mustela Gentle Shampoo 3 x 500 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 177421,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Gentle Shampoo 3 x 500 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729263419649,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/18/84/27/30/47/18/34/07/67/11/65946143243491428624.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591061588,
+      "__unknown_productSubTitle": "Mustela Gentle Shampoo 3 x 500 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5958471,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/18/84/27/30/47/18/34/07/67/11/65946143243491428624.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/18/84/27/30/47/18/34/07/67/11/65946143243491428624.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/18/84/27/30/47/18/34/07/67/11/65946143243491428624.jpg"
+    }
+  },
+  {
+    "gid_ref": 177422,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Gentle Shampoo 3 x 500 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713870450746,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591061588,
+      "__unknown_productSubTitle": "Mustela Gentle Shampoo 3 x 500 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

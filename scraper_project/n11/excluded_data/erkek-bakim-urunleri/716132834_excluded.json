@@ -1,0 +1,81 @@
+[
+  {
+    "gid_ref": 536318,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Proraso Tıraş Sonrası Cilt Şapı 100 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1710948820794,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/20/59/93/43/09/91/85/77/12/10/27591975743344129588.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580285387,
+      "__unknown_productSubTitle": "Proraso Tıraş Sonrası Cilt Şapı 100 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4180780,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/20/59/93/43/09/91/85/77/12/10/27591975743344129588.png"
+        },
+        {
+          "id": 4180781,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/20/79/54/36/80/85/38/55/06/01/81752397984245200957.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/20/59/93/43/09/91/85/77/12/10/27591975743344129588.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/20/59/93/43/09/91/85/77/12/10/27591975743344129588.png"
+    }
+  },
+  {
+    "gid_ref": 536319,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Proraso Tıraş Sonrası Cilt Şapı 100 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1706530095431,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588584795,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 536320,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Proraso Tıraş Sonrası Cilt Şapı 100 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1705043063429,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/01/12/68/69/01/33/78/32/01/03/80/27936494607232774623.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580285387,
+      "__unknown_productSubTitle": "Proraso Tıraş Sonrası Cilt Şapı 100 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3208000,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/01/12/68/69/01/33/78/32/01/03/80/27936494607232774623.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/01/12/68/69/01/33/78/32/01/03/80/27936494607232774623.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/01/12/68/69/01/33/78/32/01/03/80/27936494607232774623.jpg"
+    }
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "gid_ref": 751776,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "NRCN 15x21cm 200'lük Ciltbezli Fotoğraf Albümü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745260719815,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 625517921,
+      "__unknown_productSubTitle": "NRCN 15x21cm 200'lük Ciltbezli Fotoğraf Albümü Bordo",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751777,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "NRCN 15x21cm 200'lük Ciltbezli Fotoğraf Albümü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1735923531769,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 567735782,
+      "__unknown_productSubTitle": "NRCN 15x21cm 200'lük Ciltbezli Fotoğraf Albümü Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751778,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "NRCN 15x21cm 200'lük Ciltbezli Fotoğraf Albümü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730398480816,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/31/82/86/34/78/41/81/56/46/98/98988151620144350219.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 567735782,
+      "__unknown_productSubTitle": "NRCN 15x21cm 200'lük Ciltbezli Fotoğraf Albümü Lacivert",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6083501,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/31/82/86/34/78/41/81/56/46/98/98988151620144350219.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/31/82/86/34/78/41/81/56/46/98/98988151620144350219.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/31/82/86/34/78/41/81/56/46/98/98988151620144350219.png"
+    }
+  },
+  {
+    "gid_ref": 751779,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "NRCN 15x21cm 200'lük Ciltbezli Fotoğraf Albümü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725458348305,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 567735782,
+      "__unknown_productSubTitle": "NRCN 15x21cm 200'lük Ciltbezli Fotoğraf Albümü Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751780,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "NRCN 15x21cm 200'lük Ciltbezli Fotoğraf Albümü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725126227423,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/31/82/93/24/24/29/53/25/11/55/57654577970405394857.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 625517921,
+      "__unknown_productSubTitle": "NRCN 15x21cm 200'lük Ciltbezli Fotoğraf Albümü Bordo",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5553671,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/31/82/93/24/24/29/53/25/11/55/57654577970405394857.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/31/82/93/24/24/29/53/25/11/55/57654577970405394857.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/31/82/93/24/24/29/53/25/11/55/57654577970405394857.png"
+    }
+  }
+]

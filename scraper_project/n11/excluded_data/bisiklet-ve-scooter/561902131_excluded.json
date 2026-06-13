@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 380089,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Dura-ace Premium Gres 100gr",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765786223894,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561902131,
+      "__unknown_productSubTitle": "Shimano Dura-ace Premium Gres 100gr",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 380090,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "dura ace gres",
+      "productTitle": "Shimano Dura-Ace Premium Gres 100gr",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1633023225700,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 375441038,
+      "__unknown_productSubTitle": "Shimano Dura-Ace Premium Gres 100gr",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

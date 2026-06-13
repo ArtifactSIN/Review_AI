@@ -1,0 +1,75 @@
+[
+  {
+    "gid_ref": 1251593,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Eval Marin Asma Kilit 3lü Set 30 Mm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728843427479,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579740979,
+      "__unknown_productSubTitle": "Eval Marin Asma Kilit 3lü Set 30 Mm ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251594,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Eval Marin Asma Kilit 3lü Set 30 Mm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715709383920,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/14/56/23/55/06/66/00/29/41/18/9545041666775956068.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579740979,
+      "__unknown_productSubTitle": "Eval Marin Asma Kilit 3lü Set 30 Mm ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4681023,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/14/56/23/55/06/66/00/29/41/18/9545041666775956068.png"
+        },
+        {
+          "id": 4681024,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/14/47/24/18/42/77/97/50/21/60/9599354829333642494.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/14/56/23/55/06/66/00/29/41/18/9545041666775956068.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/14/56/23/55/06/66/00/29/41/18/9545041666775956068.png"
+    }
+  },
+  {
+    "gid_ref": 1251595,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Eval Marin Asma Kilit 3lü Set 30 Mm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1706124090573,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1714863741870,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579740979,
+      "__unknown_productSubTitle": "Eval Marin Asma Kilit 3lü Set 30 Mm ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

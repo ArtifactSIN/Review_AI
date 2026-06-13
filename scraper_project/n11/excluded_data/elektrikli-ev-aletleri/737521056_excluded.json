@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 492506,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Emsan Maxi Tea XL 2 İn 1 Çay Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773565895807,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773565895807,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718765768,
+      "__unknown_productSubTitle": "Emsan Maxi Tea XL 2 İn 1 Çay Makinesi Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 492507,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Emsan Maxi Tea XL 2 İn 1 Çay Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771763564942,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718765768,
+      "__unknown_productSubTitle": "Emsan Maxi Tea XL 2 İn 1 Çay Makinesi Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 492508,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Emsan Maxi Tea XL 2 İn 1 Çay Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770389149503,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/06/85/69/88/50/24/45/99/93/45/08433834809125812202.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718765768,
+      "__unknown_productSubTitle": "Emsan Maxi Tea XL 2 İn 1 Çay Makinesi Kırmızı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8331716,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/06/85/69/88/50/24/45/99/93/45/08433834809125812202.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/06/85/69/88/50/24/45/99/93/45/08433834809125812202.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/06/85/69/88/50/24/45/99/93/45/08433834809125812202.jpg"
+    }
+  }
+]

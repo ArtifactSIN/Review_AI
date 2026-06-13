@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 271161,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sıçrama Engelleciyi Bölmeli Tabak Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1760293883830,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/12/55/60/11/60/54/95/37/68/77/35995550372435898949.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593614484,
+      "__unknown_productSubTitle": "Sıçrama Engelleciyi Bölmeli Tabak Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7791440,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/12/55/60/11/60/54/95/37/68/77/35995550372435898949.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/12/55/60/11/60/54/95/37/68/77/35995550372435898949.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/12/55/60/11/60/54/95/37/68/77/35995550372435898949.jpg"
+    }
+  },
+  {
+    "gid_ref": 271162,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sıçrama Engelleciyi Bölmeli Tabak Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1740598143357,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/26/57/15/33/71/39/26/38/23/63/46593809035425724222.png",
+      "__unknown_lastModifiedDate": 1750684553099,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593614484,
+      "__unknown_productSubTitle": "Sıçrama Engelleciyi Bölmeli Tabak Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6892439,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/26/57/15/33/71/39/26/38/23/63/46593809035425724222.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/26/57/15/33/71/39/26/38/23/63/46593809035425724222.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/26/57/15/33/71/39/26/38/23/63/46593809035425724222.png"
+    }
+  }
+]

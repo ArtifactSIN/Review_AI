@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1251396,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Haibo Et-44/54 D65/80 Elektrikli Motor  Pervanesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744731473014,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/15/88/95/68/18/35/88/22/85/57/74941964430083180938.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 421789992,
+      "__unknown_productSubTitle": "Haibo Et-44/54 D65/80 Elektrikli Motor  Pervanesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7101530,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/15/88/95/68/18/35/88/22/85/57/74941964430083180938.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/15/88/95/68/18/35/88/22/85/57/74941964430083180938.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/15/88/95/68/18/35/88/22/85/57/74941964430083180938.png"
+    }
+  },
+  {
+    "gid_ref": 1251397,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Haibo Et-44/54 D65/80 Elektrikli Motor  Pervanesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1703192985881,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594455226,
+      "__unknown_productSubTitle": "Haibo Et-44/54 D65/80 Elektrikli Motor  Pervanesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251398,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Haibo Et-44/54 D65/80 Elektrikli Motor  Pervanesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1688365188212,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594455226,
+      "__unknown_productSubTitle": "Haibo Et-44/54 D65/80 Elektrikli Motor  Pervanesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

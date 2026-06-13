@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 1250272,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "kaliteli ürün",
+      "productTitle": "Seaux Marine Dikdörtgen Evye Tekne Karavan Vs. Uygun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1614379606637,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 408763823,
+      "__unknown_productSubTitle": "Seaux Marine Dikdörtgen Evye Tekne Karavan Vs. Uygun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1250273,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "krom evye",
+      "productTitle": "Seaux Marine Dikdörtgen Evye Tekne Karavan Vs. Uygun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1600197808109,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/20/09/15/64/41/09/78/12/24/15/72/32/06228228603116041984.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 408763823,
+      "__unknown_productSubTitle": "Seaux Marine Dikdörtgen Evye Tekne Karavan Vs. Uygun",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3101652,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/20/09/15/64/41/09/78/12/24/15/72/32/06228228603116041984.jpeg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/20/09/15/64/41/09/78/12/24/15/72/32/06228228603116041984.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/20/09/15/64/41/09/78/12/24/15/72/32/06228228603116041984.jpeg"
+    }
+  },
+  {
+    "gid_ref": 1250274,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Çok iyi",
+      "productTitle": "Seaux Marine Dikdörtgen Evye Tekne Karavan Vs. Uygun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1597989216036,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 408763823,
+      "__unknown_productSubTitle": "Seaux Marine Dikdörtgen Evye Tekne Karavan Vs. Uygun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

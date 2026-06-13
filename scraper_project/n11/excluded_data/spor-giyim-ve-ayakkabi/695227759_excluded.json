@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1161123,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Erkek Günlük Eşofman Altı Firebird Tp Ij7055 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763743933771,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705418914,
+      "__unknown_productSubTitle": "Adidas Erkek Günlük Eşofman Altı Firebird Tp Ij7055 001 Siyah - Beyaz M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161124,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Erkek Günlük Eşofman Altı Firebird Tp Ij7055 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1702458285147,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587331592,
+      "__unknown_productSubTitle": "Adidas Erkek Günlük Eşofman Altı Firebird Tp Ij7055 001 Siyah - Beyaz S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

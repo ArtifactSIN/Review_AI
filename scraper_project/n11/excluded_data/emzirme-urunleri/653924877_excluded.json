@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 498183,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mycey Emzirme Önlüğü Deepskyblue",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725050816732,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583790945,
+      "__unknown_productSubTitle": "Mycey Emzirme Önlüğü Deepskyblue",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 498184,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mycey Emzirme Önlüğü Deepskyblue",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1720082565932,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583790945,
+      "__unknown_productSubTitle": "Mycey Emzirme Önlüğü Deepskyblue",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

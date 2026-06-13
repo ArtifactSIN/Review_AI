@@ -1,0 +1,56 @@
+[
+  {
+    "gid_ref": 385353,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Salcano Attack 16 Jant Erkek Çocuk Bisikleti Siyah - Siyah Kırmızı Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775817630911,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/10/89/80/81/47/64/05/21/20/56/29150787362104037276.png",
+      "__unknown_lastModifiedDate": 1775817630911,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724392028,
+      "__unknown_productSubTitle": "Salcano Attack 16 Jant Erkek Çocuk Bisikleti Siyah - Siyah Kırmızı Siyah ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8594614,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/89/80/81/47/64/05/21/20/56/29150787362104037276.png"
+        },
+        {
+          "id": 8594615,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/86/32/86/12/54/74/51/39/27/24029568366065766276.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/10/89/80/81/47/64/05/21/20/56/29150787362104037276.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/10/89/80/81/47/64/05/21/20/56/29150787362104037276.png"
+    }
+  },
+  {
+    "gid_ref": 385354,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Salcano Attack 16 Jant Erkek Çocuk Bisikleti Siyah - Siyah Kırmızı Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775212841501,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775212841501,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724392028,
+      "__unknown_productSubTitle": "Salcano Attack 16 Jant Erkek Çocuk Bisikleti Siyah - Siyah Kırmızı Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

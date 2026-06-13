@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 758637,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "AgissSir El Boncuk Ağda Natural",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748588516666,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575157551,
+      "__unknown_productSubTitle": "AgissSir El Boncuk Ağda Natural",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 758638,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "AgissSir El Boncuk Ağda Natural",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725892706446,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/09/61/06/60/81/83/07/45/58/87/07600001701506861132.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575157551,
+      "__unknown_productSubTitle": "AgissSir El Boncuk Ağda Natural",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5614904,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/09/61/06/60/81/83/07/45/58/87/07600001701506861132.png"
+        },
+        {
+          "id": 5614905,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/09/57/23/91/36/26/08/75/04/84/95659722484874853611.png"
+        },
+        {
+          "id": 5614906,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/09/73/92/28/49/37/32/49/45/35/12571834197461649434.png"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/09/61/06/60/81/83/07/45/58/87/07600001701506861132.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/09/61/06/60/81/83/07/45/58/87/07600001701506861132.png"
+    }
+  },
+  {
+    "gid_ref": 758639,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "AgissSir El Boncuk Ağda Natural",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725019111936,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575157551,
+      "__unknown_productSubTitle": "AgissSir El Boncuk Ağda Natural",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "gid_ref": 1518927,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Defacto Aloe Vera Jel Nemlendirici 300 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773779252755,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773779252755,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719371939,
+      "__unknown_productSubTitle": "Defacto Aloe Vera Jel Nemlendirici 300 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1518928,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Defacto Aloe Vera Jel Nemlendirici 300 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770584390629,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/08/51/96/71/89/93/36/00/87/55/08730248054900672207.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719371939,
+      "__unknown_productSubTitle": "Defacto Aloe Vera Jel Nemlendirici 300 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8338654,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/08/51/96/71/89/93/36/00/87/55/08730248054900672207.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/08/51/96/71/89/93/36/00/87/55/08730248054900672207.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/08/51/96/71/89/93/36/00/87/55/08730248054900672207.png"
+    }
+  },
+  {
+    "gid_ref": 1518929,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Defacto Aloe Vera Jel Nemlendirici 300 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770482508019,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/07/74/56/69/35/27/61/27/88/30/08379261493814213502.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719371939,
+      "__unknown_productSubTitle": "Defacto Aloe Vera Jel Nemlendirici 300 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8328884,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/07/74/56/69/35/27/61/27/88/30/08379261493814213502.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/07/74/56/69/35/27/61/27/88/30/08379261493814213502.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/07/74/56/69/35/27/61/27/88/30/08379261493814213502.png"
+    }
+  }
+]

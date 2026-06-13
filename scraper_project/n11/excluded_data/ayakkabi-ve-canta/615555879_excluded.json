@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 128096,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Slazenger CAMP IN Kadın  Bej Günlük Spor Ayakkabısı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764687165373,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 615555881,
+      "__unknown_productSubTitle": "Slazenger CAMP IN Kadın  Bej Günlük Spor Ayakkabısı   39",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 128097,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Slazenger CAMP IN Kadın  Bej Günlük Spor Ayakkabısı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756989854277,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/04/75/06/93/68/09/97/86/85/03/6557361914806815179.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 615555881,
+      "__unknown_productSubTitle": "Slazenger CAMP IN Kadın  Bej Günlük Spor Ayakkabısı   39",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7650753,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/04/75/06/93/68/09/97/86/85/03/6557361914806815179.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/04/75/06/93/68/09/97/86/85/03/6557361914806815179.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/04/75/06/93/68/09/97/86/85/03/6557361914806815179.png"
+    }
+  },
+  {
+    "gid_ref": 128098,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Slazenger CAMP IN Kadın  Bej Günlük Spor Ayakkabısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724619316917,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1748250892633,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 615555879,
+      "__unknown_productSubTitle": "Slazenger CAMP IN Kadın  Bej Günlük Spor Ayakkabısı   40",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

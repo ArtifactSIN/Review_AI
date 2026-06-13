@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 574437,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Buratti Pamuklu Slim Fit Yarım Fermuarlı Polo Yaka Erkek Sweat 5903010 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775599909414,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/08/59/75/10/10/25/76/91/10/42/44738293238456993322.png",
+      "__unknown_lastModifiedDate": 1775599909414,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 657951653,
+      "__unknown_productSubTitle": "Buratti Pamuklu Slim Fit Yarım Fermuarlı Polo Yaka Erkek Sweat 5903010 Siyah L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8579670,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/08/59/75/10/10/25/76/91/10/42/44738293238456993322.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/08/59/75/10/10/25/76/91/10/42/44738293238456993322.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/08/59/75/10/10/25/76/91/10/42/44738293238456993322.png"
+    }
+  },
+  {
+    "gid_ref": 574438,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Buratti Pamuklu Slim Fit Yarım Fermuarlı Polo Yaka Erkek Sweat 5903010 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771687057845,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 657951657,
+      "__unknown_productSubTitle": "Buratti Pamuklu Slim Fit Yarım Fermuarlı Polo Yaka Erkek Sweat 5903010 Siyah 2XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 574439,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Buratti Pamuklu Slim Fit Yarım Fermuarlı Polo Yaka Erkek Sweat 5903010 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763541650382,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 657951655,
+      "__unknown_productSubTitle": "Buratti Pamuklu Slim Fit Yarım Fermuarlı Polo Yaka Erkek Sweat 5903010 Siyah XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

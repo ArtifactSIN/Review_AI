@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 744781,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hıq Eaa 420g Lemon Slush Flavored",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769449930762,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/26/65/86/87/32/83/98/19/81/40/76658808657028693047.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651299224,
+      "__unknown_productSubTitle": "Hıq Eaa 420g Lemon Slush Flavored",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8297405,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/26/65/86/87/32/83/98/19/81/40/76658808657028693047.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/26/65/86/87/32/83/98/19/81/40/76658808657028693047.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/26/65/86/87/32/83/98/19/81/40/76658808657028693047.png"
+    }
+  },
+  {
+    "gid_ref": 744782,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hıq Eaa 420g Lemon Slush Flavored",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744818116767,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651299224,
+      "__unknown_productSubTitle": "Hıq Eaa 420g Lemon Slush Flavored",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

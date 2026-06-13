@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 816137,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "345-ayt Fizik 2026 Model Soru Bankası Seti Hediyeli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765522871068,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/12/60/96/42/04/22/58/84/44/78/33920676643904832160.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702985850,
+      "__unknown_productSubTitle": "345-ayt Fizik 2026 Model Soru Bankası Seti Hediyeli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8105856,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/12/60/96/42/04/22/58/84/44/78/33920676643904832160.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/12/60/96/42/04/22/58/84/44/78/33920676643904832160.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/12/60/96/42/04/22/58/84/44/78/33920676643904832160.png"
+    }
+  },
+  {
+    "gid_ref": 816138,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "345-ayt Fizik 2026 Model Soru Bankası Seti Hediyeli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764611650576,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702985850,
+      "__unknown_productSubTitle": "345-ayt Fizik 2026 Model Soru Bankası Seti Hediyeli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 816139,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "345-ayt Fizik 2026 Model Soru Bankası Seti Hediyeli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763927156055,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702985850,
+      "__unknown_productSubTitle": "345-ayt Fizik 2026 Model Soru Bankası Seti Hediyeli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1501394,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Estee Lauder Revitalizing Supreme 15 ML + Göz Kremi 5 ML + Repair Serum 7 ML + Perfectly Clean 30 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697559936598,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 548473444,
+      "__unknown_productSubTitle": "Estee Lauder Revitalizing Supreme 15 ML + Göz Kremi 5 ML + Repair Serum 7 ML + Perfectly Clean 30 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1501395,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Estee Lauder Revitalizing Supreme 15 ML + Göz Kremi 5 ML + Repair Serum 7 ML + Perfectly Clean 30 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1692106298737,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1692107375379,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 548473444,
+      "__unknown_productSubTitle": "Estee Lauder Revitalizing Supreme 15 ML + Göz Kremi 5 ML + Repair Serum 7 ML + Perfectly Clean 30 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "gid_ref": 259004,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "güzel ürün uygun fiyat",
+      "productTitle": "Edge Guard - Coffee Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1550146569983,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750736920207,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 92559761,
+      "__unknown_productSubTitle": "Edge Guard - Coffee Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 259005,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kaliteli ürün",
+      "productTitle": "Edge Guard - Coffee Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1547936217639,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750736920207,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 92559761,
+      "__unknown_productSubTitle": "Edge Guard - Coffee Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

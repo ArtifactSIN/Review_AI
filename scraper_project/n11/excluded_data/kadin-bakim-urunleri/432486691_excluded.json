@@ -1,0 +1,131 @@
+[
+  {
+    "gid_ref": 756557,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Works Yüz için Tüy Dökücü Krem 15 ML x 3",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732481337754,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 432486691,
+      "__unknown_productSubTitle": "Avon Works Yüz için Tüy Dökücü Krem 15 ML x 3",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 756558,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Works Yüz için Tüy Dökücü Krem 15 ML x 3",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1696531540771,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 432486691,
+      "__unknown_productSubTitle": "Avon Works Yüz için Tüy Dökücü Krem 15 ML x 3",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 756559,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Works Yüz için Tüy Dökücü Krem 15 ML x 3",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1694261370832,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 248543448,
+      "__unknown_productSubTitle": "Avon Works Yüz için Tüy Dökücü Krem 15 ML x 3",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 756560,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Works Yüz için Tüy Dökücü Krem 15 ML x 3",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1692901743401,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/08/24/80/16/44/86/88/38/23/21/30/4534283571978389125.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 248543448,
+      "__unknown_productSubTitle": "Avon Works Yüz için Tüy Dökücü Krem 15 ML x 3",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2297242,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/08/24/84/23/55/07/91/27/91/05/21/91567925356473594471.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/08/24/80/16/44/86/88/38/23/21/30/4534283571978389125.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/08/24/80/16/44/86/88/38/23/21/30/4534283571978389125.png"
+    }
+  },
+  {
+    "gid_ref": 756561,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Works Yüz için Tüy Dökücü Krem 15 ML x 3",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1607688950375,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 432486691,
+      "__unknown_productSubTitle": "Avon Works Yüz için Tüy Dökücü Krem 15 ML x 3",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 756562,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "güzel ",
+      "productTitle": "Avon Works Yüz için Tüy Dökücü Krem 15 ML x 3",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1588421045069,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 248543448,
+      "__unknown_productSubTitle": "Avon Works Yüz için Tüy Dökücü Krem 15 ML x 3",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

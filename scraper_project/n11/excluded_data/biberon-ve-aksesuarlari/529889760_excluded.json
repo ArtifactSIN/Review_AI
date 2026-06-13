@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 306428,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dr. Brown's Geniş Ağız Antikolik Cam Biberon 5 Oz/150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1678876608397,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/03/15/90/35/71/97/25/88/68/93/94/21186763355916058021.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 529889760,
+      "__unknown_productSubTitle": "Dr. Brown's Geniş Ağız Antikolik Cam Biberon 5 Oz/150 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1757650,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/03/15/90/35/71/97/25/88/68/93/94/21186763355916058021.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/03/15/90/35/71/97/25/88/68/93/94/21186763355916058021.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/03/15/90/35/71/97/25/88/68/93/94/21186763355916058021.png"
+    }
+  },
+  {
+    "gid_ref": 306429,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dr. Brown's Geniş Ağız Antikolik Cam Biberon 5 Oz/150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1658505383327,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 529889760,
+      "__unknown_productSubTitle": "Dr. Brown's Geniş Ağız Antikolik Cam Biberon 5 Oz/150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

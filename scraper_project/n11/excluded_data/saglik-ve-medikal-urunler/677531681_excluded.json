@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 1124244,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cerebramax 30 Kapsül 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774991395485,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/88/15/22/56/45/42/43/94/83/76890453295387554476.PNG",
+      "__unknown_lastModifiedDate": 1774991395485,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 677531681,
+      "__unknown_productSubTitle": "Cerebramax 30 Kapsül 2 Adet ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8541932,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/88/15/22/56/45/42/43/94/83/76890453295387554476.PNG"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/88/15/22/56/45/42/43/94/83/76890453295387554476.PNG",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/88/15/22/56/45/42/43/94/83/76890453295387554476.PNG"
+    }
+  }
+]

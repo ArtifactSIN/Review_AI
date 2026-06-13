@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 812027,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yeni Sistem 1. Sınıf Bilsem Mülakat Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774652487036,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774652487036,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604315545,
+      "__unknown_productSubTitle": "Yeni Sistem 1. Sınıf Bilsem Mülakat Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 812028,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yeni Sistem 1. Sınıf Bilsem Mülakat Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753088779559,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604315545,
+      "__unknown_productSubTitle": "Yeni Sistem 1. Sınıf Bilsem Mülakat Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

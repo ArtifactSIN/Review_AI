@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 961816,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Urban Badger Muspel Katlanır Kamp Mangalı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763372345032,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651999312,
+      "__unknown_productSubTitle": "Urban Badger Muspel Katlanır Kamp Mangalı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 961817,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Urban Badger Muspel Katlanır Kamp Mangalı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744024812282,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/07/79/95/07/59/83/52/02/35/76/95350887272445492257.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651999312,
+      "__unknown_productSubTitle": "Urban Badger Muspel Katlanır Kamp Mangalı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7068404,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/07/79/95/07/59/83/52/02/35/76/95350887272445492257.png"
+        },
+        {
+          "id": 7068405,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/07/55/39/41/06/24/70/98/19/74/76022538997402221532.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/07/79/95/07/59/83/52/02/35/76/95350887272445492257.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/07/79/95/07/59/83/52/02/35/76/95350887272445492257.png"
+    }
+  }
+]

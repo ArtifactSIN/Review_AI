@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 273418,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Oturma kısmı küçük",
+      "productTitle": "Inglesina Fast Masaya Monte Mama Sandalyesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1644326395836,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 345218133,
+      "__unknown_productSubTitle": "Inglesina Türkiye Distribütörü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 273419,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Inglesina Fast Masaya Monte Mama Sandalyesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1619709974322,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 345218133,
+      "__unknown_productSubTitle": "Inglesina Türkiye Distribütörü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 273420,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Pratik ve guvenli",
+      "productTitle": "Inglesina Fast Masaya Monte Mama Sandalyesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1588937929586,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 345218133,
+      "__unknown_productSubTitle": "Inglesina Türkiye Distribütörü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1493494,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adore Obur Sincap Kutu Oyunu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765777220208,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650604324,
+      "__unknown_productSubTitle": "Adore Obur Sincap Kutu Oyunu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1493495,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adore Obur Sincap Kutu Oyunu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1737144320262,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646112688,
+      "__unknown_productSubTitle": "Adore Obur Sincap Kutu Oyunu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

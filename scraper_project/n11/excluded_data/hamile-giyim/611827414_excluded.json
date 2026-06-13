@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 755265,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Birolgaye Limissi 2102 Hamile Lohusa Pijama Takımı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1716008740631,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 381336737,
+      "__unknown_productSubTitle": "Birolgaye Limissi 2102 Hamile Lohusa Pijama Takımı L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 755266,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Lohusa pijaması",
+      "productTitle": "Birolgaye Limissi 2102 Hamile Lohusa Pijama Takımı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1636885932282,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/21/11/14/63/69/30/90/07/37/28/51/14/15530174759902399331.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 381336737,
+      "__unknown_productSubTitle": "Birolgaye Limissi 2102 Hamile Lohusa Pijama Takımı L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3265867,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/21/11/14/63/69/30/90/07/37/28/51/14/15530174759902399331.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/21/11/14/63/69/30/90/07/37/28/51/14/15530174759902399331.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/21/11/14/63/69/30/90/07/37/28/51/14/15530174759902399331.jpg"
+    }
+  }
+]

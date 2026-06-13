@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 807038,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Betonarme Yapıların Hesap ve Tasarımı / Adem Doğangün",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743589440393,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633109724,
+      "__unknown_productSubTitle": "Betonarme Yapıların Hesap ve Tasarımı / Adem Doğangün",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 807039,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Betonarme Yapıların Hesap ve Tasarımı / Adem Doğangün",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697563020122,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/10/17/70/34/26/88/62/73/18/69/95/37802603101582017737.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557163269,
+      "__unknown_productSubTitle": "Betonarme Yapıların Hesap ve Tasarımı / Adem Doğangün",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2539161,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/17/70/34/26/88/62/73/18/69/95/37802603101582017737.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/10/17/70/34/26/88/62/73/18/69/95/37802603101582017737.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/10/17/70/34/26/88/62/73/18/69/95/37802603101582017737.jpg"
+    }
+  },
+  {
+    "gid_ref": 807040,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Betonarme Kitabı",
+      "productTitle": "Betonarme Yapıların Hesap ve Tasarımı / Adem Doğangün",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1636316321572,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 255574015,
+      "__unknown_productSubTitle": "Betonarme Yapıların Hesap ve Tasarımı / Adem Doğangün",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

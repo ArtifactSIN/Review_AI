@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 815453,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "3D Yayınları Tyt Fizik 3D Soru Bankası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732218432481,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640915169,
+      "__unknown_productSubTitle": "3D Yayınları Tyt Fizik 3D Soru Bankası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 815454,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "3D Yayınları Tyt Fizik 3D Soru Bankası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731881274000,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640915169,
+      "__unknown_productSubTitle": "3D Yayınları Tyt Fizik 3D Soru Bankası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 815455,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "3D Yayınları Tyt Fizik 3D Soru Bankası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715969948942,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/17/86/12/69/96/16/29/20/92/66/73310420649156167681.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 567774788,
+      "__unknown_productSubTitle": "3D Yayınları Tyt Fizik 3D Soru Bankası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4721148,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/17/86/12/69/96/16/29/20/92/66/73310420649156167681.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/17/86/12/69/96/16/29/20/92/66/73310420649156167681.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/17/86/12/69/96/16/29/20/92/66/73310420649156167681.jpg"
+    }
+  }
+]

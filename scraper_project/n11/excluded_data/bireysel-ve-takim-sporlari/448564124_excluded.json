@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 367840,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wilson 2 Adet Comfort Bowl O'grips Tekli Mor Grip As-Gm2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1749380397052,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/08/78/97/39/67/88/32/88/84/22/32432042459958888855.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 448564124,
+      "__unknown_productSubTitle": "Wilson 2 Adet Comfort Bowl O'grips Tekli Mor Grip As-Gm2",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7302625,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/08/78/97/39/67/88/32/88/84/22/32432042459958888855.jpg"
+        },
+        {
+          "id": 7302626,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/08/82/81/32/14/29/60/78/42/95/04393617749745710751.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/08/78/97/39/67/88/32/88/84/22/32432042459958888855.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/08/78/97/39/67/88/32/88/84/22/32432042459958888855.jpg"
+    }
+  },
+  {
+    "gid_ref": 367841,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wilson 2 Adet Comfort Bowl O'grips Tekli Mor Grip As-Gm2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728632899239,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/11/52/76/83/73/33/12/52/35/64/43966246593046791842.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 448564124,
+      "__unknown_productSubTitle": "Wilson 2 Adet Comfort Bowl O'grips Tekli Mor Grip As-Gm2",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5883058,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/11/52/76/83/73/33/12/52/35/64/43966246593046791842.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/11/52/76/83/73/33/12/52/35/64/43966246593046791842.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/11/52/76/83/73/33/12/52/35/64/43966246593046791842.jpg"
+    }
+  }
+]

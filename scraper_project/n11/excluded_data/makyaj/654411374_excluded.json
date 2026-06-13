@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 847115,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Tattoo Liner Jel Göz Kalemi Burgundy Bliss",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731618513893,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602050191,
+      "__unknown_productSubTitle": "Maybelline New York Tattoo Liner Jel Göz Kalemi Burgundy Bliss",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 847116,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Tattoo Liner Jel Göz Kalemi Burgundy Bliss",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731079674250,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/08/69/76/31/45/32/63/19/52/94/35553010702659796756.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602050191,
+      "__unknown_productSubTitle": "Maybelline New York Tattoo Liner Jel Göz Kalemi Burgundy Bliss",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6165427,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/08/69/76/31/45/32/63/19/52/94/35553010702659796756.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/08/69/76/31/45/32/63/19/52/94/35553010702659796756.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/08/69/76/31/45/32/63/19/52/94/35553010702659796756.jpg"
+    }
+  },
+  {
+    "gid_ref": 847117,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Tattoo Liner Jel Göz Kalemi Burgundy Bliss",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725556585352,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602050191,
+      "__unknown_productSubTitle": "Maybelline New York Tattoo Liner Jel Göz Kalemi Burgundy Bliss",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 847118,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Tattoo Liner Jel Göz Kalemi Burgundy Bliss",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725099881880,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602050191,
+      "__unknown_productSubTitle": "Maybelline New York Tattoo Liner Jel Göz Kalemi Burgundy Bliss",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 847119,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Tattoo Liner Jel Göz Kalemi Burgundy Bliss",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1723089406248,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602050191,
+      "__unknown_productSubTitle": "Maybelline New York Tattoo Liner Jel Göz Kalemi Burgundy Bliss",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

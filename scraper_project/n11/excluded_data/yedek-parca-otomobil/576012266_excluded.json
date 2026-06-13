@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1453267,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Simed Oto Aparat Komparatör Saati ve Çubuğu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770644060141,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576012266,
+      "__unknown_productSubTitle": "Simed Oto Aparat Komparatör Saati ve Çubuğu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1453268,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Simed Oto Aparat Komparatör Saati ve Çubuğu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760024854422,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/09/91/02/39/12/48/35/80/08/81/84929269921435006867.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576012266,
+      "__unknown_productSubTitle": "Simed Oto Aparat Komparatör Saati ve Çubuğu ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7776296,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/09/91/02/39/12/48/35/80/08/81/84929269921435006867.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/09/91/02/39/12/48/35/80/08/81/84929269921435006867.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/09/91/02/39/12/48/35/80/08/81/84929269921435006867.png"
+    }
+  },
+  {
+    "gid_ref": 1453269,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Simed Oto Aparat Komparatör Saati ve Çubuğu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745834222161,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576012266,
+      "__unknown_productSubTitle": "Simed Oto Aparat Komparatör Saati ve Çubuğu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 1031562,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jean Paul Gaultier Le Male Le Erkek Parfüm EDP 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1757755718067,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/13/57/66/97/20/24/31/20/92/27/05346522446791724675.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 544595422,
+      "__unknown_productSubTitle": "Jean Paul Gaultier Le Male Le Erkek Parfüm EDP 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7681804,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/13/57/66/97/20/24/31/20/92/27/05346522446791724675.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/13/57/66/97/20/24/31/20/92/27/05346522446791724675.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/13/57/66/97/20/24/31/20/92/27/05346522446791724675.jpg"
+    }
+  },
+  {
+    "gid_ref": 1031563,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jean Paul Gaultier Le Male Le Erkek Parfüm EDP 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1757569062262,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 544595422,
+      "__unknown_productSubTitle": "Jean Paul Gaultier Le Male Le Erkek Parfüm EDP 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1031564,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jean Paul Gaultier Le Male Le Erkek Parfüm EDP 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1741273572683,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/06/46/69/32/00/56/34/96/12/58/44805382163996952205.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 574735777,
+      "__unknown_productSubTitle": "Jean Paul Gaultier Le Male Le Erkek Parfüm EDP 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6937259,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/06/46/50/02/14/17/76/65/37/99/95464661248086552958.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/06/46/69/32/00/56/34/96/12/58/44805382163996952205.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/06/46/69/32/00/56/34/96/12/58/44805382163996952205.jpg"
+    }
+  }
+]

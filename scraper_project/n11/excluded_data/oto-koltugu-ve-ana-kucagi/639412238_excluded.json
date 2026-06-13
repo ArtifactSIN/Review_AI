@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 949247,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babybjörn Bliss Petal Cotton Ev Tipi Ana Kucağı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733425187814,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611761342,
+      "__unknown_productSubTitle": "Babybjörn Bliss Petal Cotton Ev Tipi Ana Kucağı Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 949248,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babybjörn Bliss Petal Cotton Ev Tipi Ana Kucağı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1700147389783,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575753136,
+      "__unknown_productSubTitle": "Babybjörn Bliss Petal Cotton Ev Tipi Ana Kucağı Dusty Pink",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

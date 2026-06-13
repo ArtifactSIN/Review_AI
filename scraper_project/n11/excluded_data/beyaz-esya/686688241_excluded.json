@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 301343,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Altus Ala 322 B T3412 Ankastre Fırın",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758570063183,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/22/67/49/37/20/29/94/67/76/59/27036632342839276651.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628792546,
+      "__unknown_productSubTitle": "Altus Ala 322 B T3412 Ankastre Fırın",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7712438,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/22/67/49/37/20/29/94/67/76/59/27036632342839276651.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/22/67/49/37/20/29/94/67/76/59/27036632342839276651.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/22/67/49/37/20/29/94/67/76/59/27036632342839276651.png"
+    }
+  },
+  {
+    "gid_ref": 301344,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Altus Ala 322 B T3412 Ankastre Fırın",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750758351211,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628792546,
+      "__unknown_productSubTitle": "Altus Ala 322 B T3412 Ankastre Fırın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 301345,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Altus Ala 322 B T3412 Ankastre Fırın",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732863403938,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628792546,
+      "__unknown_productSubTitle": "Altus Ala 322 B T3412 Ankastre Fırın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

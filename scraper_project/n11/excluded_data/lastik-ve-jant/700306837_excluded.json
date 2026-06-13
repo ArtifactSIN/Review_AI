@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 831532,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Luxor Kimya 200ml 6'lı Oto Bakım Seti Oto Yıkama Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774879904188,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/75/92/71/60/56/97/56/48/73/78701066664849001733.png",
+      "__unknown_lastModifiedDate": 1774879904188,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700306837,
+      "__unknown_productSubTitle": "Luxor Kimya 200ml 6'lı Oto Bakım Seti Oto Yıkama Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8539284,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/75/92/71/60/56/97/56/48/73/78701066664849001733.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/75/92/71/60/56/97/56/48/73/78701066664849001733.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/75/92/71/60/56/97/56/48/73/78701066664849001733.png"
+    }
+  },
+  {
+    "gid_ref": 831533,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Luxor Kimya 200ml 6'lı Oto Bakım Seti Oto Yıkama Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762536948466,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700306837,
+      "__unknown_productSubTitle": "Luxor Kimya 200ml 6'lı Oto Bakım Seti Oto Yıkama Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

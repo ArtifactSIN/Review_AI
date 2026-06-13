@@ -1,0 +1,140 @@
+[
+  {
+    "gid_ref": 858796,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Azimkarhirdavat Nergis Krom Kulp",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770119955765,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 509835818,
+      "__unknown_productSubTitle": "Azimkarhirdavat Nergis Krom Kulp 96 MM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 858797,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Azimkarhirdavat Nergis Krom Kulp",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766051128263,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/18/84/01/21/42/27/29/64/93/37/65458849411388555611.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611679477,
+      "__unknown_productSubTitle": "Azimkarhirdavat Nergis Krom Kulp 128 MM",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8126199,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/18/84/01/21/42/27/29/64/93/37/65458849411388555611.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/18/84/01/21/42/27/29/64/93/37/65458849411388555611.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/18/84/01/21/42/27/29/64/93/37/65458849411388555611.png"
+    }
+  },
+  {
+    "gid_ref": 858798,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Azimkarhirdavat Nergis Krom Kulp",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1749896421955,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/14/83/08/86/50/87/41/24/80/90/61484604820383906967.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 509835818,
+      "__unknown_productSubTitle": "Azimkarhirdavat Nergis Krom Kulp 96 MM",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7326984,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/14/83/08/86/50/87/41/24/80/90/61484604820383906967.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/14/83/08/86/50/87/41/24/80/90/61484604820383906967.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/14/83/08/86/50/87/41/24/80/90/61484604820383906967.png"
+    }
+  },
+  {
+    "gid_ref": 858799,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Azimkarhirdavat Nergis Krom Kulp",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1735131296677,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611638540,
+      "__unknown_productSubTitle": "Azimkarhirdavat Nergis Krom Kulp 256 MM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 858800,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Azimkarhirdavat Nergis Krom Kulp",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709812604167,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 509835818,
+      "__unknown_productSubTitle": "Azimkarhirdavat Nergis Krom Kulp 96 MM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 858801,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Krom Kulp",
+      "productTitle": "Azimkarhirdavat Nergis Krom Kulp",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1644596146607,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 509835818,
+      "__unknown_productSubTitle": "Azimkarhirdavat Nergis Krom Kulp 96 MM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

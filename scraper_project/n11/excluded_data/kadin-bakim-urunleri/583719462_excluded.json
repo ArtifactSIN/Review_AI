@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 759081,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Veet Professional Yüz Ağda Bandı 20'li Hassas Ciltler",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1761813784678,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605883634,
+      "__unknown_productSubTitle": "Veet Professional Yüz Ağda Bandı 20'li Hassas Ciltler",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 759082,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Veet Professional Yüz Ağda Bandı 20'li Hassas Ciltler",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758365539015,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/20/53/47/39/66/43/99/21/12/39/79006830713581713127.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605883634,
+      "__unknown_productSubTitle": "Veet Professional Yüz Ağda Bandı 20'li Hassas Ciltler",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7699999,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/20/53/47/39/66/43/99/21/12/39/79006830713581713127.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/20/53/47/39/66/43/99/21/12/39/79006830713581713127.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/20/53/47/39/66/43/99/21/12/39/79006830713581713127.png"
+    }
+  },
+  {
+    "gid_ref": 759083,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Veet Professional Yüz Ağda Bandı 20'li Hassas Ciltler",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747954276708,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605883634,
+      "__unknown_productSubTitle": "Veet Professional Yüz Ağda Bandı 20'li Hassas Ciltler",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 759084,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Veet Professional Yüz Ağda Bandı 20'li Hassas Ciltler",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732462960044,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583719462,
+      "__unknown_productSubTitle": "Veet Professional Yüz Ağda Bandı 20'li Hassas Ciltler",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

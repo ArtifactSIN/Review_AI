@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 947018,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selami Şahin - Hastayım Sana Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771410512178,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690837114,
+      "__unknown_productSubTitle": "Selami Şahin - Hastayım Sana Plak ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947019,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selami Şahin - Hastayım Sana Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1736311466386,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/08/48/52/91/01/35/91/38/95/15/03192206116555804564.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585333751,
+      "__unknown_productSubTitle": "Selami Şahin - Hastayım Sana Plak ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6663153,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/08/48/52/91/01/35/91/38/95/15/03192206116555804564.jpg"
+        },
+        {
+          "id": 6663154,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/08/57/73/34/44/36/22/13/66/30/3937222167314776202.jpg"
+        },
+        {
+          "id": 6663155,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/08/59/45/48/15/42/00/04/15/05/92162516301677182172.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/08/48/52/91/01/35/91/38/95/15/03192206116555804564.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/08/48/52/91/01/35/91/38/95/15/03192206116555804564.jpg"
+    }
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "gid_ref": 299364,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Altus ALA 570 G Duvar Tipi 60 CM Davlumbaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734125080130,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647618902,
+      "__unknown_productSubTitle": "Altus ALA 570 G Duvar Tipi 60 CM Davlumbaz Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 299365,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Altus ALA 570 G Duvar Tipi 60 CM Davlumbaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1681832313155,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/04/18/46/35/99/21/38/75/73/24/74/66093854514516282035.png",
+      "__unknown_lastModifiedDate": 1681890821502,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 565005765,
+      "__unknown_productSubTitle": "Altus ALA 570 G Duvar Tipi 60 CM Davlumbaz Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1883791,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/04/18/46/35/99/21/38/75/73/24/74/66093854514516282035.png"
+        },
+        {
+          "id": 1883792,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/04/18/58/57/25/36/16/32/50/65/27/03065538127829945354.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/04/18/46/35/99/21/38/75/73/24/74/66093854514516282035.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/04/18/46/35/99/21/38/75/73/24/74/66093854514516282035.png"
+    }
+  }
+]

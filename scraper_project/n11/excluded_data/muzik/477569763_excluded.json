@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 944913,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Earstudio Es100 Mk2-24Bit Taşınabilir Yüksek Çözünürlüklü Bluetoo",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720338555423,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/07/76/75/92/81/35/93/95/36/95/42523034512573026099.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 477569763,
+      "__unknown_productSubTitle": "Earstudio Es100 Mk2-24Bit Taşınabilir Yüksek Çözünürlüklü Bluetoo",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5146393,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/07/76/75/92/81/35/93/95/36/95/42523034512573026099.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/07/76/75/92/81/35/93/95/36/95/42523034512573026099.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/07/76/75/92/81/35/93/95/36/95/42523034512573026099.png"
+    }
+  },
+  {
+    "gid_ref": 944914,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Beklentileri karsilayacak kalitede bir urun.",
+      "productTitle": "Earstudio Es100 Mk2-24Bit Taşınabilir Yüksek Çözünürlüklü Bluetoo",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1644338032247,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 477569763,
+      "__unknown_productSubTitle": "Earstudio Es100 Mk2-24Bit Taşınabilir Yüksek Çözünürlüklü Bluetoo",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 777207,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Kadın Siyah Çizgili Loose Fit Kanvas Pantolon 50317169-VR046",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774085681073,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/21/51/73/24/30/64/39/59/03/06/91066573329985392559.png",
+      "__unknown_lastModifiedDate": 1774085681073,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 698065206,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Kadın Siyah Çizgili Loose Fit Kanvas Pantolon 50317169-VR046 38",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8483487,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/21/51/73/24/30/64/39/59/03/06/91066573329985392559.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/21/51/73/24/30/64/39/59/03/06/91066573329985392559.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/21/51/73/24/30/64/39/59/03/06/91066573329985392559.png"
+    }
+  },
+  {
+    "gid_ref": 777208,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Kadın Siyah Çizgili Loose Fit Kanvas Pantolon 50317169-VR046",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773910027476,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/19/60/07/82/33/68/92/28/40/26/4968752431263990821.png",
+      "__unknown_lastModifiedDate": 1773910027476,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 698065284,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Kadın Siyah Çizgili Loose Fit Kanvas Pantolon 50317169-VR046 40",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8485421,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/19/60/07/82/33/68/92/28/40/26/4968752431263990821.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/19/60/07/82/33/68/92/28/40/26/4968752431263990821.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/19/60/07/82/33/68/92/28/40/26/4968752431263990821.png"
+    }
+  }
+]

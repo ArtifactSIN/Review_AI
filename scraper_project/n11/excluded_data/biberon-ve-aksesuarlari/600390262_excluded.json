@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 308074,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Antikolik Silikon Biberon 2'li 250ml Yeşil- Orta Akışlı 3-6 Ay",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1751804944973,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/06/68/88/51/32/96/13/76/02/23/72083399210929992973.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600390262,
+      "__unknown_productSubTitle": "Antikolik Silikon Biberon 2'li 250ml Yeşil- Orta Akışlı 3-6 Ay",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7415658,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/06/68/88/51/32/96/13/76/02/23/72083399210929992973.jpg"
+        },
+        {
+          "id": 7415659,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/06/79/26/87/31/66/54/44/89/97/49028011720259581214.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/06/68/88/51/32/96/13/76/02/23/72083399210929992973.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/06/68/88/51/32/96/13/76/02/23/72083399210929992973.jpg"
+    }
+  },
+  {
+    "gid_ref": 308075,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Antikolik Silikon Biberon 2'li 250ml Yeşil- Orta Akışlı 3-6 Ay",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717114488487,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600390262,
+      "__unknown_productSubTitle": "Antikolik Silikon Biberon 2'li 250ml Yeşil- Orta Akışlı 3-6 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

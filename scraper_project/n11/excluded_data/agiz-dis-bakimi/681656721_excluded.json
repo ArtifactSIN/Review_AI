@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 28038,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "T-Brush Metal Çelik Dil Temizleyicisi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766005341561,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 681656721,
+      "__unknown_productSubTitle": "T-Brush Metal Çelik Dil Temizleyicisi Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 28039,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "T-Brush Metal Çelik Dil Temizleyicisi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1720527757142,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602743410,
+      "__unknown_productSubTitle": "T-Brush Metal Çelik Dil Temizleyicisi Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 28040,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "T-Brush Metal Çelik Dil Temizleyicisi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719247790721,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602743410,
+      "__unknown_productSubTitle": "T-Brush Metal Çelik Dil Temizleyicisi Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

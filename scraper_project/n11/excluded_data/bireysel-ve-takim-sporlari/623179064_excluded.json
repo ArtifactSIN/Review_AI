@@ -1,0 +1,35 @@
+[
+  {
+    "gid_ref": 371055,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Unes Çoraplı Tekmelik Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719857568988,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/01/54/02/95/93/61/30/62/11/89/37536717880398361974.png",
+      "__unknown_lastModifiedDate": 1742297975585,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586119585,
+      "__unknown_productSubTitle": "Unes Çoraplı Tekmelik Çok Renkli M",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5114840,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/01/54/02/95/93/61/30/62/11/89/37536717880398361974.png"
+        },
+        {
+          "id": 5114842,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/01/63/11/26/24/05/66/43/15/43/11000875121677742738.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/01/54/02/95/93/61/30/62/11/89/37536717880398361974.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/01/54/02/95/93/61/30/62/11/89/37536717880398361974.png"
+    }
+  }
+]

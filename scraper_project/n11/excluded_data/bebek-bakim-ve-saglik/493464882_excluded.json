@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 185651,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Heaven on Earth Pişik Kremi 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732826911276,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/28/53/88/29/04/87/27/16/82/19/33911539917075926032.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 493464882,
+      "__unknown_productSubTitle": "Heaven on Earth Pişik Kremi 75 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6361254,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/28/53/88/29/04/87/27/16/82/19/33911539917075926032.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/28/53/88/29/04/87/27/16/82/19/33911539917075926032.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/28/53/88/29/04/87/27/16/82/19/33911539917075926032.png"
+    }
+  },
+  {
+    "gid_ref": 185652,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Heaven on Earth Pişik Kremi 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1712333047375,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 493464882,
+      "__unknown_productSubTitle": "Heaven on Earth Pişik Kremi 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 999754,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nishane Wulong Cha X Erkek Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774981214705,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774981214705,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 729733987,
+      "__unknown_productSubTitle": "Nishane Wulong Cha X Erkek Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 999755,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nishane Wulong Cha X Erkek Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731611082065,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579741572,
+      "__unknown_productSubTitle": "Nishane Wulong Cha X Erkek Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

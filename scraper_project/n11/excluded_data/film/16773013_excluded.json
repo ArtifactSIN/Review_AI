@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 735131,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "kemmel",
+      "productTitle": "After Earth - Dünya Yeni Bir Başlangıç Blu-Ray Tiglon",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1449589526839,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 16773013,
+      "__unknown_productSubTitle": "After Earth - Dünya Yeni Bir Başlangıç Blu-Ray Tiglon",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735132,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "After Earth - Dünya Yeni Bir Başlangıç Blu-Ray Tiglon",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1431168305077,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 16773013,
+      "__unknown_productSubTitle": "After Earth - Dünya Yeni Bir Başlangıç Blu-Ray Tiglon",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735133,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "orjinal ürün",
+      "productTitle": "After Earth - Dünya Yeni Bir Başlangıç Blu-Ray Tiglon",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1386005405909,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 16773013,
+      "__unknown_productSubTitle": "After Earth - Dünya Yeni Bir Başlangıç Blu-Ray Tiglon",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

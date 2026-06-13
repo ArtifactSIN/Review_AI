@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 509529,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yüksel Ahşap Saplı Ense Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761640045130,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/28/66/84/77/39/97/97/40/84/58/85710276319444486879.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 526453151,
+      "__unknown_productSubTitle": "Yüksel Ahşap Saplı Ense Fırçası Krem",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7864512,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/28/66/84/77/39/97/97/40/84/58/85710276319444486879.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/28/66/84/77/39/97/97/40/84/58/85710276319444486879.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/28/66/84/77/39/97/97/40/84/58/85710276319444486879.png"
+    }
+  },
+  {
+    "gid_ref": 509530,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yüksel Ahşap Saplı Ense Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733773265260,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 526453151,
+      "__unknown_productSubTitle": "Yüksel Ahşap Saplı Ense Fırçası Krem",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

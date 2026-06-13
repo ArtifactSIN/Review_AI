@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 947632,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pasha Baby Oyuncak Aksesuarlı Rabbit Swing Ev Tipi Ana Kucağı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1707150827853,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/05/88/02/31/68/06/51/59/74/95/12654003051914901907.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 514234157,
+      "__unknown_productSubTitle": "Pasha Baby Oyuncak Aksesuarlı Rabbit Swing Ev Tipi Ana Kucağı Mavi - Pembe",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3341606,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/05/88/02/31/68/06/51/59/74/95/12654003051914901907.jpeg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/05/88/02/31/68/06/51/59/74/95/12654003051914901907.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/05/88/02/31/68/06/51/59/74/95/12654003051914901907.jpeg"
+    }
+  },
+  {
+    "gid_ref": 947633,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "görseldeki gibi",
+      "productTitle": "Pasha Baby Oyuncak Aksesuarlı Rabbit Swing Ev Tipi Ana Kucağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1634905795022,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 468427692,
+      "__unknown_productSubTitle": "Pasha Baby Oyuncak Aksesuarlı Rabbit Swing Ev Tipi Ana Kucağı Mavi - Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

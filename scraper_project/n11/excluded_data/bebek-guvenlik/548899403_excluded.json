@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 254855,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Penkid Çelik Halatlı Kablolu Pvc Pencere Çocuk Emniyet Kilidi Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1755437012953,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598384276,
+      "__unknown_productSubTitle": "Penkid Çelik Halatlı Kablolu Pvc Pencere Çocuk Emniyet Kilidi Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 254856,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "farkı alanda kullandım",
+      "productTitle": "Penkid Çelik Halatlı Kablolu Pvc Pencere Çocuk Emniyet Kilidi Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1670428814271,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/12/07/78/37/47/42/63/84/05/82/42/56231663631363229816.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 548899403,
+      "__unknown_productSubTitle": "Penkid Çelik Halatlı Kablolu Pvc Pencere Çocuk Emniyet Kilidi Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1359803,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/12/07/78/37/47/42/63/84/05/82/42/56231663631363229816.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/12/07/78/37/47/42/63/84/05/82/42/56231663631363229816.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/12/07/78/37/47/42/63/84/05/82/42/56231663631363229816.jpeg"
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 786946,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Edding Asetat Kalemi 10 Lu Kutu Kırmızı 149M Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747152217923,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/13/73/86/64/85/10/97/00/73/93/41415674281409556961.jpg",
+      "__unknown_lastModifiedDate": 1751971143221,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552233013,
+      "__unknown_productSubTitle": "Edding Asetat Kalemi 10 Lu Kutu Kırmızı 149M Kırmızı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7192268,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/13/73/86/64/85/10/97/00/73/93/41415674281409556961.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/13/73/86/64/85/10/97/00/73/93/41415674281409556961.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/13/73/86/64/85/10/97/00/73/93/41415674281409556961.jpg"
+    }
+  },
+  {
+    "gid_ref": 786947,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Edding Asetat Kalemi 10 Lu Kutu Kırmızı 149M Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729927599662,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/26/84/58/03/87/49/33/09/49/99/332991098029257288.jpg",
+      "__unknown_lastModifiedDate": 1751971143221,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552233013,
+      "__unknown_productSubTitle": "Edding Asetat Kalemi 10 Lu Kutu Kırmızı 149M Kırmızı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6030352,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/26/84/58/03/87/49/33/09/49/99/332991098029257288.jpg"
+        },
+        {
+          "id": 6030353,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/26/49/43/26/51/48/94/60/77/94/82944466093931515453.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/26/84/58/03/87/49/33/09/49/99/332991098029257288.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/26/84/58/03/87/49/33/09/49/99/332991098029257288.jpg"
+    }
+  }
+]

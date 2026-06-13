@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 960911,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Escape Plan 2.0-Woodrock Erkek Outdoor Botu 51705-BBK Si Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774631439254,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/76/85/01/73/76/42/49/33/86/06643468643031956537.jpg",
+      "__unknown_lastModifiedDate": 1774631439254,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646437864,
+      "__unknown_productSubTitle": "Skechers Escape Plan 2.0-Woodrock Erkek Outdoor Botu 51705-BBK Si Siyah 43",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8522976,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/76/85/01/73/76/42/49/33/86/06643468643031956537.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/76/85/01/73/76/42/49/33/86/06643468643031956537.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/76/85/01/73/76/42/49/33/86/06643468643031956537.jpg"
+    }
+  },
+  {
+    "gid_ref": 960912,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Escape Plan 2.0-Woodrock Erkek Outdoor Botu 51705-BBK Si Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1757498035218,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 687306361,
+      "__unknown_productSubTitle": "Skechers Escape Plan 2.0-Woodrock Erkek Outdoor Botu 51705-BBK Si Siyah 43",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 960913,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Escape Plan 2.0-Woodrock Erkek Outdoor Botu 51705-BBK Si Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734178224702,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1742470380655,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637654142,
+      "__unknown_productSubTitle": "Skechers Escape Plan 2.0-Woodrock Erkek Outdoor Botu 51705-BBK Si Siyah 42.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 301412,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Profilo CGK264F0TR 1400 Devir 11 KG Çamaşır Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770294068691,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690825901,
+      "__unknown_productSubTitle": "Profilo CGK264F0TR 1400 Devir 11 KG Çamaşır Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 301413,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Profilo CGK264F0TR 1400 Devir 11 KG Çamaşır Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1760564665099,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 693468086,
+      "__unknown_productSubTitle": "Profilo CGK264F0TR 1400 Devir 11 KG Çamaşır Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

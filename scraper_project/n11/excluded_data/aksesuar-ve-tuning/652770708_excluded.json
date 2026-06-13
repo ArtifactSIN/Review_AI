@@ -1,0 +1,107 @@
+[
+  {
+    "gid_ref": 94366,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Togg T10x 2023 Sonrası Rizline Bagaj Havuzu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771171718382,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/15/78/74/91/60/41/06/72/80/60/66478039742612354142.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708089152,
+      "__unknown_productSubTitle": "Togg T10x 2023 Sonrası Rizline Bagaj Havuzu ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8362789,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/15/78/74/91/60/41/06/72/80/60/66478039742612354142.jpg"
+        },
+        {
+          "id": 8362790,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/15/81/97/92/82/19/70/92/69/63/0392313771910607252.jpg"
+        },
+        {
+          "id": 8362791,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/15/75/35/86/76/46/81/29/29/48/48586173050359006929.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/15/78/74/91/60/41/06/72/80/60/66478039742612354142.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/15/78/74/91/60/41/06/72/80/60/66478039742612354142.jpg"
+    }
+  },
+  {
+    "gid_ref": 94367,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Togg T10x 2023 Sonrası Rizline Bagaj Havuzu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761731508339,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652770708,
+      "__unknown_productSubTitle": "Togg T10x 2023 Sonrası Rizline Bagaj Havuzu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 94368,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Togg T10x 2023 Sonrası Rizline Bagaj Havuzu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747291390893,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/15/69/79/43/42/09/49/37/39/22/05211822807150539369.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652770708,
+      "__unknown_productSubTitle": "Togg T10x 2023 Sonrası Rizline Bagaj Havuzu ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7227602,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/15/69/79/43/42/09/49/37/39/22/05211822807150539369.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/15/69/79/43/42/09/49/37/39/22/05211822807150539369.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/15/69/79/43/42/09/49/37/39/22/05211822807150539369.png"
+    }
+  },
+  {
+    "gid_ref": 94369,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Togg T10x 2023 Sonrası Rizline Bagaj Havuzu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740600670831,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652770708,
+      "__unknown_productSubTitle": "Togg T10x 2023 Sonrası Rizline Bagaj Havuzu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

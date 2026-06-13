@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 156890,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gazzella Squad Luxe Ütü Masası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733318876054,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606672911,
+      "__unknown_productSubTitle": "Gazzella Squad Luxe Ütü Masası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 156891,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gazzella Squad Luxe Ütü Masası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728892204118,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/14/58/43/76/66/98/03/88/46/89/7610543193665457841.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606672911,
+      "__unknown_productSubTitle": "Gazzella Squad Luxe Ütü Masası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5916844,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/14/86/82/75/08/84/75/47/60/70/31085920878683271607.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/14/58/43/76/66/98/03/88/46/89/7610543193665457841.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/14/58/43/76/66/98/03/88/46/89/7610543193665457841.jpg"
+    }
+  },
+  {
+    "gid_ref": 156892,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gazzella Squad Luxe Ütü Masası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721041489955,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580408646,
+      "__unknown_productSubTitle": "Gazzella Squad Luxe Ütü Masası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

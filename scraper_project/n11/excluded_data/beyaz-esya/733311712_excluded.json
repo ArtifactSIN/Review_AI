@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 304279,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gree Aphro 9000 BTU/H Duvar Tipi Inverter Klima",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760616111171,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629208400,
+      "__unknown_productSubTitle": "Gree Aphro 9000 BTU/H Duvar Tipi Inverter Klima",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 304280,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gree Aphro 9000 BTU/H Duvar Tipi Inverter Klima",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736042069467,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629208400,
+      "__unknown_productSubTitle": "Gree Aphro 9000 BTU/H Duvar Tipi Inverter Klima",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

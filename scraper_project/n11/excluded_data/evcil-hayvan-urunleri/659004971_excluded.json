@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 710532,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Purina Pro Plan Tavuklu Yetişkin Kedi Maması 10 KG",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774638084295,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774638084295,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551634124,
+      "__unknown_productSubTitle": "Purina Pro Plan Tavuklu Yetişkin Kedi Maması 10 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 710533,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Purina Pro Plan Tavuklu Yetişkin Kedi Maması 10 KG",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747202433817,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663604123,
+      "__unknown_productSubTitle": "Purina Pro Plan Tavuklu Yetişkin Kedi Maması 10 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 710534,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Purina Pro Plan Tavuklu Yetişkin Kedi Maması 10 KG",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1674059673837,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557889971,
+      "__unknown_productSubTitle": "Purina Pro Plan Tavuklu Yetişkin Kedi Maması 10 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

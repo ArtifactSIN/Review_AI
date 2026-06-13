@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 946472,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Akg K92 Stereo Stüdyo Kulaklık",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768827591683,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 455986670,
+      "__unknown_productSubTitle": "Akg K92 Stereo Stüdyo Kulaklık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946473,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "akg k92 kulaklık.",
+      "productTitle": "Akg K92 Stereo Stüdyo Kulaklık",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1612951335034,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 455986670,
+      "__unknown_productSubTitle": "Akg K92 Stereo Stüdyo Kulaklık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

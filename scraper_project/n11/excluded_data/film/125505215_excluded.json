@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 734806,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blu Ray-Fast & Furious 7- Hızlı Ve Öfkeli 7 Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719561379137,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 125505215,
+      "__unknown_productSubTitle": "Blu Ray-Fast & Furious 7- Hızlı Ve Öfkeli 7 Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734807,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Orjinal ürünler",
+      "productTitle": "Blu Ray-Fast & Furious 7- Hızlı Ve Öfkeli 7 Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1619192090074,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 125505215,
+      "__unknown_productSubTitle": "Blu Ray-Fast & Furious 7- Hızlı Ve Öfkeli 7 Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

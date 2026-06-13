@@ -1,0 +1,114 @@
+[
+  {
+    "gid_ref": 932839,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Taç Mastercook Tombik 7 Parça Seti Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761918290560,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683930740,
+      "__unknown_productSubTitle": "Taç Mastercook Tombik 7 Parça Seti Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 932840,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Taç Mastercook Tombik 7 Parça Seti Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758802845156,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/25/71/48/90/32/23/76/75/27/93/24008237520468490004.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683930740,
+      "__unknown_productSubTitle": "Taç Mastercook Tombik 7 Parça Seti Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7721874,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/25/71/48/90/32/23/76/75/27/93/24008237520468490004.png"
+        },
+        {
+          "id": 7721875,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/25/90/83/05/22/62/14/37/54/49/62384846347225547420.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/25/71/48/90/32/23/76/75/27/93/24008237520468490004.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/25/71/48/90/32/23/76/75/27/93/24008237520468490004.png"
+    }
+  },
+  {
+    "gid_ref": 932841,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Taç Mastercook Tombik 7 Parça Seti Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1736628997034,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576890578,
+      "__unknown_productSubTitle": "Taç Mastercook Tombik 7 Parça Seti Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 932842,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Taç Mastercook Tombik 7 Parça Seti Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708629030430,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597474576,
+      "__unknown_productSubTitle": "Taç Mastercook Tombik 7 Parça Seti Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 932843,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Taç Mastercook Tombik 7 Parça Seti Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1698336590289,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576416683,
+      "__unknown_productSubTitle": "Taç Mastercook Tombik 7 Parça Seti Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

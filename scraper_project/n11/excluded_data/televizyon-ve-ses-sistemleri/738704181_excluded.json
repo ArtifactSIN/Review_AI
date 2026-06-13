@@ -1,0 +1,134 @@
+[
+  {
+    "gid_ref": 1334555,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sunny SN24LEDl262-S 24'' HD Ready Smart LED TV",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773319735233,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/12/48/93/62/68/13/08/28/43/16/77728897137475862663.png",
+      "__unknown_lastModifiedDate": 1773319735233,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682016517,
+      "__unknown_productSubTitle": "Sunny SN24LEDl262-S 24'' HD Ready Smart LED TV",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8460855,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/12/48/93/62/68/13/08/28/43/16/77728897137475862663.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/12/48/93/62/68/13/08/28/43/16/77728897137475862663.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/12/48/93/62/68/13/08/28/43/16/77728897137475862663.png"
+    }
+  },
+  {
+    "gid_ref": 1334556,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sunny SN24LEDl262-S 24'' HD Ready Smart LED TV",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773145668738,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773145668738,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682016517,
+      "__unknown_productSubTitle": "Sunny SN24LEDl262-S 24'' HD Ready Smart LED TV",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1334557,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sunny SN24LEDl262-S 24'' HD Ready Smart LED TV",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771592055485,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682016517,
+      "__unknown_productSubTitle": "Sunny SN24LEDl262-S 24'' HD Ready Smart LED TV",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1334558,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sunny SN24LEDl262-S 24'' HD Ready Smart LED TV",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770813897101,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682016517,
+      "__unknown_productSubTitle": "Sunny SN24LEDl262-S 24'' HD Ready Smart LED TV",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1334559,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sunny SN24LEDl262-S 24'' HD Ready Smart LED TV",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745254006978,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655216238,
+      "__unknown_productSubTitle": "Sunny SN24LEDl262-S 24'' HD Ready Smart LED TV",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1334560,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sunny SN24LEDl262-S 24'' HD Ready Smart LED TV",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744267651013,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655216238,
+      "__unknown_productSubTitle": "Sunny SN24LEDl262-S 24'' HD Ready Smart LED TV",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

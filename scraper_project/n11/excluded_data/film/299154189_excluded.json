@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 735360,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-Karşı Daire - O Outro Lado Da Rua",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715882874476,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/16/54/14/93/10/59/82/27/22/90/09088698703334622491.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 299154189,
+      "__unknown_productSubTitle": "Dvd-Karşı Daire - O Outro Lado Da Rua",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4712664,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/16/54/14/93/10/59/82/27/22/90/09088698703334622491.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/16/54/14/93/10/59/82/27/22/90/09088698703334622491.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/16/54/14/93/10/59/82/27/22/90/09088698703334622491.png"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 943626,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kozmos Khdp-110 Kulaklık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1696502022980,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1697265358747,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 216086775,
+      "__unknown_productSubTitle": "Kozmos Khdp-110 Kulaklık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 943627,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ses kalitesi iyi",
+      "productTitle": "Kozmos Khdp-110 Kulaklık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1579979472983,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 216086775,
+      "__unknown_productSubTitle": "Kozmos Khdp-110 Kulaklık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

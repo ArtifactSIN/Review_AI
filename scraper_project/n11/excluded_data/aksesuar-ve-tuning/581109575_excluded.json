@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 68580,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford \"fiesta Bagaj Yazısı Ön Arma Arka Arma\" 2002-2008 'fies...",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717487263928,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/04/85/48/49/81/23/92/81/53/70/55360275718221024195.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581109575,
+      "__unknown_productSubTitle": "Ford \"fiesta Bagaj Yazısı Ön Arma Arka Arma\" 2002-2008 'fies... ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4870749,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/04/85/48/49/81/23/92/81/53/70/55360275718221024195.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/04/85/48/49/81/23/92/81/53/70/55360275718221024195.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/04/85/48/49/81/23/92/81/53/70/55360275718221024195.png"
+    }
+  },
+  {
+    "gid_ref": 68581,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford \"fiesta Bagaj Yazısı Ön Arma Arka Arma\" 2002-2008 'fies...",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711044867308,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581109575,
+      "__unknown_productSubTitle": "Ford \"fiesta Bagaj Yazısı Ön Arma Arka Arma\" 2002-2008 'fies... ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

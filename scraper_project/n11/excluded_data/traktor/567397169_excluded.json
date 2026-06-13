@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1335685,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "R9 Broadway Kol Yatak Std Takım 7701348415 - 7701474892",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724849287708,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/28/48/78/39/72/00/32/71/39/55/66825187129722750579.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 567397169,
+      "__unknown_productSubTitle": "R9 Broadway Kol Yatak Std Takım 7701348415 - 7701474892 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5515361,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/28/48/78/39/72/00/32/71/39/55/66825187129722750579.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/28/48/78/39/72/00/32/71/39/55/66825187129722750579.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/28/48/78/39/72/00/32/71/39/55/66825187129722750579.jpg"
+    }
+  },
+  {
+    "gid_ref": 1335686,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "R9 Broadway Kol Yatak Std Takım 7701348415 - 7701474892",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1696522765916,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 567397169,
+      "__unknown_productSubTitle": "R9 Broadway Kol Yatak Std Takım 7701348415 - 7701474892 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

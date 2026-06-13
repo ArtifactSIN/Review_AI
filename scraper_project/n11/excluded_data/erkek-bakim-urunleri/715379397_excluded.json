@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 536307,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nivea Men Hassas Tıraş Sonrası Balsamı 2 x 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1742045681828,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640503486,
+      "__unknown_productSubTitle": "Nivea Men Hassas Tıraş Sonrası Balsamı 2 x 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 536308,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nivea Men Hassas Tıraş Sonrası Balsamı 2 x 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739182024603,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/10/67/36/67/39/53/63/96/07/80/6313281042457903487.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640503486,
+      "__unknown_productSubTitle": "Nivea Men Hassas Tıraş Sonrası Balsamı 2 x 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6815199,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/10/67/36/67/39/53/63/96/07/80/6313281042457903487.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/10/67/36/67/39/53/63/96/07/80/6313281042457903487.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/10/67/36/67/39/53/63/96/07/80/6313281042457903487.png"
+    }
+  }
+]

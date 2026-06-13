@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 262075,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patiko Swing 2 Kapılı Dolap Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1704022764045,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750659544100,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573875517,
+      "__unknown_productSubTitle": "Patiko Swing 2 Kapılı Dolap Beyaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 262076,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patiko Swing 2 Kapılı Dolap Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1690150763820,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/07/24/73/89/69/93/31/37/61/25/85/01662828874416344178.jpg",
+      "__unknown_lastModifiedDate": 1750659544100,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573875517,
+      "__unknown_productSubTitle": "Patiko Swing 2 Kapılı Dolap Beyaz ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2210285,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/07/24/73/89/69/93/31/37/61/25/85/01662828874416344178.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/07/24/73/89/69/93/31/37/61/25/85/01662828874416344178.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/07/24/73/89/69/93/31/37/61/25/85/01662828874416344178.jpg"
+    }
+  }
+]

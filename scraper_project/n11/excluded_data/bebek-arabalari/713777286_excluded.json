@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 182435,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "4Baby AB-482 Cool Travel Sistem Bebek Arabası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775388405556,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775388405556,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 713777286,
+      "__unknown_productSubTitle": "4Baby AB-482 Cool Travel Sistem Bebek Arabası Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 182436,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "4Baby AB-482 Cool Travel Sistem Bebek Arabası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760985753076,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/20/61/82/78/35/40/83/31/86/88/41812328863419512358.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645758599,
+      "__unknown_productSubTitle": "4Baby AB-482 Cool Travel Sistem Bebek Arabası Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7821531,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/20/61/82/78/35/40/83/31/86/88/41812328863419512358.jpg"
+        },
+        {
+          "id": 7821532,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/20/53/96/60/65/89/41/15/87/60/68021223526231423672.jpg"
+        },
+        {
+          "id": 7821533,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/20/80/76/00/39/82/63/52/37/17/55921051145089562899.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/20/61/82/78/35/40/83/31/86/88/41812328863419512358.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/20/61/82/78/35/40/83/31/86/88/41812328863419512358.jpg"
+    }
+  }
+]

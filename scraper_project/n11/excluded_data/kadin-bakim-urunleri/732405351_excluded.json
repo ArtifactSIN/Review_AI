@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 764563,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Satin Care Shea Butter Kadın Tıraş Jeli 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1716756546794,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/26/56/82/74/21/87/01/08/11/55/12258360214392095023.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604464362,
+      "__unknown_productSubTitle": "Gillette Satin Care Shea Butter Kadın Tıraş Jeli 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4787696,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/26/56/82/74/21/87/01/08/11/55/12258360214392095023.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/26/56/82/74/21/87/01/08/11/55/12258360214392095023.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/26/56/82/74/21/87/01/08/11/55/12258360214392095023.jpg"
+    }
+  }
+]

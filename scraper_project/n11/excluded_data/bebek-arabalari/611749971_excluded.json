@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 180449,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "kullanisli",
+      "productTitle": "Norfolk Diamond Baby London Pratik Baston Bebek Arabası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1636415828440,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 295993458,
+      "__unknown_productSubTitle": "Norfolk Diamond Baby London Pratik Baston Bebek Arabası Bordo",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 180450,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Beğenmedim",
+      "productTitle": "Norfolk Diamond Baby London Pratik Baston Bebek Arabası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1575899799597,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 295993458,
+      "__unknown_productSubTitle": "Norfolk Diamond Baby London Pratik Baston Bebek Arabası Bordo",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

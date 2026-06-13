@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 254620,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motorola MBP482ANXL 2.8 \" Dijital Bebek Kamerası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1716914739115,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581486588,
+      "__unknown_productSubTitle": "Motorola MBP482ANXL 2.8 \" Dijital Bebek Kamerası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 254621,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün",
+      "productTitle": "Motorola MBP482ANXL 2.8 \" Dijital Bebek Kamerası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1614879850341,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 471132349,
+      "__unknown_productSubTitle": "Ücretsiz Aynı Gün Kargo İmkanı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 254622,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Markası yeter",
+      "productTitle": "Motorola MBP482ANXL 2.8 \" Dijital Bebek Kamerası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1612201689603,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 471132349,
+      "__unknown_productSubTitle": "Ücretsiz Aynı Gün Kargo İmkanı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

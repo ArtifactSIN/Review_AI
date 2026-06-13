@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 400172,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Globber Explorer 4in1 Bisiklet - Pembe",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1759240837235,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642262650,
+      "__unknown_productSubTitle": "Globber Explorer 4in1 Bisiklet - Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 400173,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Globber Explorer 4in1 Bisiklet - Pembe",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752911147874,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690418840,
+      "__unknown_productSubTitle": "Globber Explorer 4in1 Bisiklet - Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

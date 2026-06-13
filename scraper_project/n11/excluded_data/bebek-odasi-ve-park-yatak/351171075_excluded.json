@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 259910,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oyun Parkı Sünger Yatak Park Beşik Yatağı 10 x 70 x 120 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725696518406,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 351171075,
+      "__unknown_productSubTitle": "Oyun Parkı Sünger Yatak Park Beşik Yatağı 10 x 70 x 120 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 259911,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "urun guzel ama kargo sirketi berbat",
+      "productTitle": "Oyun Parkı Sünger Yatak Park Beşik Yatağı 10 x 70 x 120 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1579288433110,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 351171075,
+      "__unknown_productSubTitle": "Oyun Parkı Sünger Yatak Park Beşik Yatağı 10 x 70 x 120 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

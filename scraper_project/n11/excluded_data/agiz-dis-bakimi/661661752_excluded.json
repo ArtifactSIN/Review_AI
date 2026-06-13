@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 25854,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Corega Süper Protez Yapıştırıcı Krem 4 x 40 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732665641473,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 547573593,
+      "__unknown_productSubTitle": "Corega Süper Protez Yapıştırıcı Krem 4 x 40 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 25855,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Corega Süper Protez Yapıştırıcı Krem 4 x 40 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1710513462031,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 547573593,
+      "__unknown_productSubTitle": "Corega Süper Protez Yapıştırıcı Krem 4 x 40 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

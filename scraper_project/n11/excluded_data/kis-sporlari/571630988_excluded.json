@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 802797,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kayak Çantası -- Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729779147515,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/24/47/83/80/00/36/79/78/14/91/4148500068039803808.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 571630988,
+      "__unknown_productSubTitle": "Kayak Çantası -- Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6007614,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/24/47/83/80/00/36/79/78/14/91/4148500068039803808.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/24/47/83/80/00/36/79/78/14/91/4148500068039803808.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/24/47/83/80/00/36/79/78/14/91/4148500068039803808.jpg"
+    }
+  }
+]

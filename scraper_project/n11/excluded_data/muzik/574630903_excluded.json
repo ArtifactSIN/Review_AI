@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 946031,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Pratik ve şık",
+      "productTitle": "Presto Çello Sehpası / Standı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1665588843079,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 574630903,
+      "__unknown_productSubTitle": "Presto Çello Sehpası / Standı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946032,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "güzel ürün",
+      "productTitle": "Presto Çello Sehpası / Standı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1665085005934,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 574630903,
+      "__unknown_productSubTitle": "Presto Çello Sehpası / Standı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

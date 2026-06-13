@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 247698,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Papilion Islak Havlu 100 Lü Aloe Vera X 3 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728981815806,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/15/70/23/55/17/26/25/05/61/80/3881273931044703658.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581028688,
+      "__unknown_productSubTitle": "Papilion Islak Havlu 100 Lü Aloe Vera X 3 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5930470,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/15/70/23/55/17/26/25/05/61/80/3881273931044703658.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/15/70/23/55/17/26/25/05/61/80/3881273931044703658.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/15/70/23/55/17/26/25/05/61/80/3881273931044703658.png"
+    }
+  },
+  {
+    "gid_ref": 247699,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Papilion Islak Havlu 100 Lü Aloe Vera X 3 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728739504313,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581028688,
+      "__unknown_productSubTitle": "Papilion Islak Havlu 100 Lü Aloe Vera X 3 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

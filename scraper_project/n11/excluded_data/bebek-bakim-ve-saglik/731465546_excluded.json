@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 209895,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bblüv Trimö Pilli Tırnak Törpüsü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721160754070,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605882743,
+      "__unknown_productSubTitle": "Bblüv Trimö Pilli Tırnak Törpüsü Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 209896,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bblüv Trimö Pilli Tırnak Törpüsü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1674286756730,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 498561843,
+      "__unknown_productSubTitle": "Bblüv Trimö Pilli Tırnak Törpüsü Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 209897,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Tam beklediğim gibi",
+      "productTitle": "Bblüv Trimö Pilli Tırnak Törpüsü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1646927533268,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 498561843,
+      "__unknown_productSubTitle": "Bblüv Trimö Pilli Tırnak Törpüsü Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 1341730,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps-5 Standart Yatay Stand",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774873442672,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/68/64/58/60/26/78/70/74/19/1747984602172470489.png",
+      "__unknown_lastModifiedDate": 1774873442672,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664347336,
+      "__unknown_productSubTitle": "Ps-5 Standart Yatay Stand ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8533932,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/68/64/58/60/26/78/70/74/19/1747984602172470489.png"
+        },
+        {
+          "id": 8533933,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/48/97/49/07/42/30/00/68/52/06682363054262602903.png"
+        },
+        {
+          "id": 8533934,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/90/91/11/97/33/30/87/54/57/48052716873070391340.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/68/64/58/60/26/78/70/74/19/1747984602172470489.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/68/64/58/60/26/78/70/74/19/1747984602172470489.png"
+    }
+  },
+  {
+    "gid_ref": 1341731,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps-5 Standart Yatay Stand",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750921197327,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664347336,
+      "__unknown_productSubTitle": "Ps-5 Standart Yatay Stand ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

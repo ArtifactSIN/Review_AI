@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 848381,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Super Lock Brow Glue Kaş Sabitleyici Maskara Medium Brown",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772552248065,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668020723,
+      "__unknown_productSubTitle": "Maybelline New York Super Lock Brow Glue Kaş Sabitleyici Maskara Medium Brown",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 848382,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Super Lock Brow Glue Kaş Sabitleyici Maskara Medium Brown",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758821066153,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/25/79/01/47/31/09/09/39/03/24/87461868532108183128.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668020723,
+      "__unknown_productSubTitle": "Maybelline New York Super Lock Brow Glue Kaş Sabitleyici Maskara Medium Brown",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7727212,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/25/79/01/47/31/09/09/39/03/24/87461868532108183128.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/25/79/01/47/31/09/09/39/03/24/87461868532108183128.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/25/79/01/47/31/09/09/39/03/24/87461868532108183128.png"
+    }
+  }
+]

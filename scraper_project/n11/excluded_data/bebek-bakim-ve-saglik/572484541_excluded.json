@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 189515,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bebek Bakım Çantası Organizer Urcin",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1705673823992,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572484541,
+      "__unknown_productSubTitle": "Bebek Bakım Çantası Organizer Urcin",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 189516,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bebek Bakım Çantası Organizer Urcin",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1701248479208,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/11/29/70/64/08/24/92/58/47/34/08/68215847197121790232.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572484541,
+      "__unknown_productSubTitle": "Bebek Bakım Çantası Organizer Urcin",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2786502,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/11/29/70/64/08/24/92/58/47/34/08/68215847197121790232.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/11/29/70/64/08/24/92/58/47/34/08/68215847197121790232.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/11/29/70/64/08/24/92/58/47/34/08/68215847197121790232.png"
+    }
+  }
+]

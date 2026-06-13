@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 1056524,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Excellence Creme Saç Boyası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760714202887,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645390651,
+      "__unknown_productSubTitle": "L'Oreal Paris Excellence Creme Saç Boyası 1.01 Derin Mavi Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1056525,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Excellence Creme Saç Boyası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745899671146,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/29/91/94/86/72/52/99/51/23/42/98196696257382168575.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645390651,
+      "__unknown_productSubTitle": "L'Oreal Paris Excellence Creme Saç Boyası 1.01 Derin Mavi Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7152766,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/29/91/94/86/72/52/99/51/23/42/98196696257382168575.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/29/91/94/86/72/52/99/51/23/42/98196696257382168575.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/29/91/94/86/72/52/99/51/23/42/98196696257382168575.png"
+    }
+  },
+  {
+    "gid_ref": 1056526,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Excellence Creme Saç Boyası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745899651104,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/29/78/90/69/37/55/71/58/38/97/02737752409174815616.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645390651,
+      "__unknown_productSubTitle": "L'Oreal Paris Excellence Creme Saç Boyası 1.01 Derin Mavi Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7158200,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/29/78/90/69/37/55/71/58/38/97/02737752409174815616.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/29/78/90/69/37/55/71/58/38/97/02737752409174815616.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/29/78/90/69/37/55/71/58/38/97/02737752409174815616.png"
+    }
+  },
+  {
+    "gid_ref": 1056527,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Excellence Creme Saç Boyası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745334213005,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655620219,
+      "__unknown_productSubTitle": "L'Oreal Paris Excellence Creme Saç Boyası 6.66 Şarap Kızılı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

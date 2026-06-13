@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 470541,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips 2000 Serisi HU2510/10 Buhar Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721728739669,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/23/67/20/50/08/87/48/98/63/63/1393198788572590155.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628974240,
+      "__unknown_productSubTitle": "Philips 2000 Serisi HU2510/10 Buhar Makinesi Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5243493,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/23/67/20/50/08/87/48/98/63/63/1393198788572590155.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/23/67/20/50/08/87/48/98/63/63/1393198788572590155.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/23/67/20/50/08/87/48/98/63/63/1393198788572590155.jpg"
+    }
+  }
+]

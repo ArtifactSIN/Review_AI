@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 123642,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vmc Olta Iğnesi 9224 (544385582)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767455118115,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 623159639,
+      "__unknown_productSubTitle": "Vmc Olta Iğnesi 9224 (544385582) Permasteel - No:4 - 100Lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 123643,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vmc Olta Iğnesi 9224 (544385582)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765012071703,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 623159304,
+      "__unknown_productSubTitle": "Vmc Olta Iğnesi 9224 (544385582) Blue - No:7 - 25Lı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 123644,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vmc Olta Iğnesi 9224 (544385582)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758830495051,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 623159304,
+      "__unknown_productSubTitle": "Vmc Olta Iğnesi 9224 (544385582) Blue - No:7 - 25Lı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 123645,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vmc Olta Iğnesi 9224 (544385582)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1699464419023,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 544385582,
+      "__unknown_productSubTitle": "Vmc Olta Iğnesi 9224 (544385582) Blue - No:4 - 25Lı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

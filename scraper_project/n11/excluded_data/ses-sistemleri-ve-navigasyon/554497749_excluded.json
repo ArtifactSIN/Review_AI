@@ -1,0 +1,35 @@
+[
+  {
+    "gid_ref": 1150436,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "ÖZTÜRK ELEKTRONİK-ALPİNE R2-W10D4",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747900654713,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/22/55/34/16/56/45/63/00/71/47/96242851048202221378.jpg",
+      "__unknown_lastModifiedDate": 1747906496860,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 554497749,
+      "__unknown_productSubTitle": "ÖZTÜRK ELEKTRONİK-ALPİNE R2-W10D4",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7248354,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/22/55/34/16/56/45/63/00/71/47/96242851048202221378.jpg"
+        },
+        {
+          "id": 7248356,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/22/73/91/97/78/20/64/03/65/06/69193015483364195104.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/22/55/34/16/56/45/63/00/71/47/96242851048202221378.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/22/55/34/16/56/45/63/00/71/47/96242851048202221378.jpg"
+    }
+  }
+]

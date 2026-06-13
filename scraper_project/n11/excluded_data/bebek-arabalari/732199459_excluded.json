@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 182724,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kraft Kenya İ-size Travel Sistem Bebek Arabası - Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1738908560310,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/07/48/59/79/78/02/45/37/70/38/69107979871182736181.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637801853,
+      "__unknown_productSubTitle": "Kraft Kenya İ-size Travel Sistem Bebek Arabası - Siyah Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6810950,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/07/48/59/79/78/02/45/37/70/38/69107979871182736181.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/07/48/59/79/78/02/45/37/70/38/69107979871182736181.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/07/48/59/79/78/02/45/37/70/38/69107979871182736181.png"
+    }
+  },
+  {
+    "gid_ref": 182725,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kraft Kenya İ-size Travel Sistem Bebek Arabası - Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1737118823404,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637801853,
+      "__unknown_productSubTitle": "Kraft Kenya İ-size Travel Sistem Bebek Arabası - Siyah Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

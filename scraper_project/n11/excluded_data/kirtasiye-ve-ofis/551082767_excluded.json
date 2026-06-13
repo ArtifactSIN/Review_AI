@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 786939,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Artdeco Akrilik Boya 140 Ml 8'Li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744826854870,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551082767,
+      "__unknown_productSubTitle": "Artdeco Akrilik Boya 140 Ml 8'Li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 786940,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Artdeco Akrilik Boya 140 Ml 8'Li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729418423286,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/20/65/27/51/51/24/38/39/00/82/56848331960355996594.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551082767,
+      "__unknown_productSubTitle": "Artdeco Akrilik Boya 140 Ml 8'Li",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5978222,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/20/65/27/51/51/24/38/39/00/82/56848331960355996594.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/20/65/27/51/51/24/38/39/00/82/56848331960355996594.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/20/65/27/51/51/24/38/39/00/82/56848331960355996594.png"
+    }
+  }
+]

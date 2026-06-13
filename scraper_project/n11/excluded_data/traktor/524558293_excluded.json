@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 1335580,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Force G100 Eğri Kancalı Amerikan Zincir",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721506362026,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/20/86/61/04/45/74/30/67/25/61/22067916905374070198.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524558293,
+      "__unknown_productSubTitle": "Force G100 Eğri Kancalı Amerikan Zincir",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5228897,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/20/86/61/04/45/74/30/67/25/61/22067916905374070198.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/20/86/61/04/45/74/30/67/25/61/22067916905374070198.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/20/86/61/04/45/74/30/67/25/61/22067916905374070198.png"
+    }
+  },
+  {
+    "gid_ref": 1335581,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Force G100 Eğri Kancalı Amerikan Zincir",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721506328261,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/20/69/51/99/05/46/90/99/37/17/78493915402293955076.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524558293,
+      "__unknown_productSubTitle": "Force G100 Eğri Kancalı Amerikan Zincir",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5231689,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/20/69/51/99/05/46/90/99/37/17/78493915402293955076.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/20/69/51/99/05/46/90/99/37/17/78493915402293955076.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/20/69/51/99/05/46/90/99/37/17/78493915402293955076.png"
+    }
+  },
+  {
+    "gid_ref": 1335582,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Force G100 Eğri Kancalı Amerikan Zincir",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1681423936892,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524558293,
+      "__unknown_productSubTitle": "Force G100 Eğri Kancalı Amerikan Zincir",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

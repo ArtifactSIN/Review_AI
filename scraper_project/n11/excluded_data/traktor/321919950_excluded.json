@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1335339,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pilot Traktör Koltuk Traktör Koltuğu Pilot Koltuk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1699119787086,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 321919950,
+      "__unknown_productSubTitle": "Pilot Traktör Koltuk Traktör Koltuğu Pilot Koltuk",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1335340,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Çok iyi",
+      "productTitle": "Pilot Traktör Koltuk Traktör Koltuğu Pilot Koltuk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1588618973847,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 321919950,
+      "__unknown_productSubTitle": "Pilot Traktör Koltuk Traktör Koltuğu Pilot Koltuk",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

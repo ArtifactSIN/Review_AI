@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 940744,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Harf Temalı Kahve Sunumluğu Krem-kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771677381441,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/21/65/76/48/04/91/44/05/61/25/72058463071045791935.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730323625,
+      "__unknown_productSubTitle": "Harf Temalı Kahve Sunumluğu Krem-kahverengi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8397425,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/21/65/76/48/04/91/44/05/61/25/72058463071045791935.png"
+        },
+        {
+          "id": 8397426,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/21/46/78/49/25/66/00/53/02/69/15480982740017593410.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/21/65/76/48/04/91/44/05/61/25/72058463071045791935.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/21/65/76/48/04/91/44/05/61/25/72058463071045791935.png"
+    }
+  },
+  {
+    "gid_ref": 940745,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Harf Temalı Kahve Sunumluğu Krem-kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771503974011,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/19/52/46/34/10/68/74/90/74/22/67023895602966253378.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730323625,
+      "__unknown_productSubTitle": "Harf Temalı Kahve Sunumluğu Krem-kahverengi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8389155,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/19/52/46/34/10/68/74/90/74/22/67023895602966253378.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/19/52/46/34/10/68/74/90/74/22/67023895602966253378.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/19/52/46/34/10/68/74/90/74/22/67023895602966253378.jpg"
+    }
+  }
+]

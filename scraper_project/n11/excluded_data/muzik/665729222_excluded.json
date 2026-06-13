@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 946845,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dante T710bk 88 Tuşlu Siyah Dijital Piyano",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771875296685,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 672323258,
+      "__unknown_productSubTitle": "Dante T710bk 88 Tuşlu Siyah Dijital Piyano ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946846,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dante T710bk 88 Tuşlu Siyah Dijital Piyano",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765659952497,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/14/66/64/63/40/46/20/25/98/66/97617751549264965645.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665729222,
+      "__unknown_productSubTitle": "Dante T710bk 88 Tuşlu Siyah Dijital Piyano ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8117509,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/14/66/64/63/40/46/20/25/98/66/97617751549264965645.png"
+        },
+        {
+          "id": 8117510,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/14/77/71/28/30/20/77/70/38/27/32700746262248140975.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/14/66/64/63/40/46/20/25/98/66/97617751549264965645.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/14/66/64/63/40/46/20/25/98/66/97617751549264965645.png"
+    }
+  },
+  {
+    "gid_ref": 946847,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dante T710bk 88 Tuşlu Siyah Dijital Piyano",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747345315810,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/16/47/96/72/48/40/23/03/84/21/84715381156383471981.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665729222,
+      "__unknown_productSubTitle": "Dante T710bk 88 Tuşlu Siyah Dijital Piyano ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7229412,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/16/47/96/72/48/40/23/03/84/21/84715381156383471981.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/16/47/96/72/48/40/23/03/84/21/84715381156383471981.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/16/47/96/72/48/40/23/03/84/21/84715381156383471981.png"
+    }
+  }
+]

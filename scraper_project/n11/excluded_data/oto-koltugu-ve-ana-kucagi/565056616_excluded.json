@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 947737,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babymol Quantum Kanguru Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728901370767,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/14/49/69/13/03/87/51/74/64/69/61824589815653810744.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 565056616,
+      "__unknown_productSubTitle": "Babymol Quantum Kanguru Mavi Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5921333,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/14/49/69/13/03/87/51/74/64/69/61824589815653810744.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/14/49/69/13/03/87/51/74/64/69/61824589815653810744.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/14/49/69/13/03/87/51/74/64/69/61824589815653810744.png"
+    }
+  }
+]

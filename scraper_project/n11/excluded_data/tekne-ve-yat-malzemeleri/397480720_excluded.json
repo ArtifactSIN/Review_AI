@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1250078,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sealux Marine Su Pompası 75 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764412834342,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 397480720,
+      "__unknown_productSubTitle": "Sealux Marine Su Pompası 75 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1250079,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "bot icin fazla ama işini yapiyor",
+      "productTitle": "Sealux Marine Su Pompası 75 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1592264058707,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 397480720,
+      "__unknown_productSubTitle": "Sealux Marine Su Pompası 75 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

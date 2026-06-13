@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 735408,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-Hayal Evi - Dreamhouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741196951388,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/05/78/32/43/94/46/38/21/82/13/139932850375641204.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 317667360,
+      "__unknown_productSubTitle": "Dvd-Hayal Evi - Dreamhouse",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6923964,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/05/78/32/43/94/46/38/21/82/13/139932850375641204.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/05/78/32/43/94/46/38/21/82/13/139932850375641204.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/05/78/32/43/94/46/38/21/82/13/139932850375641204.png"
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 1490017,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Celsus Melek Kartları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736872313070,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/14/53/33/85/85/25/96/77/75/94/76272755411592496385.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 367505937,
+      "__unknown_productSubTitle": "Celsus Melek Kartları",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6694628,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/14/53/33/85/85/25/96/77/75/94/76272755411592496385.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/14/53/33/85/85/25/96/77/75/94/76272755411592496385.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/14/53/33/85/85/25/96/77/75/94/76272755411592496385.png"
+    }
+  },
+  {
+    "gid_ref": 1490018,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Celsus Melek Kartları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1608817140480,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 367505937,
+      "__unknown_productSubTitle": "Celsus Melek Kartları",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1490019,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Celsus Melek Kartları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1591106766391,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 367505937,
+      "__unknown_productSubTitle": "Celsus Melek Kartları",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1490020,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Harika ve çok şirinler",
+      "productTitle": "Celsus Melek Kartları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1588933727864,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 367505937,
+      "__unknown_productSubTitle": "Celsus Melek Kartları",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

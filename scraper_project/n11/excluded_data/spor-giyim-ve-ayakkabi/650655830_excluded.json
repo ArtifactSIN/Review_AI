@@ -1,0 +1,88 @@
+[
+  {
+    "gid_ref": 1160322,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Galatasaray Erkek Eşofman Takım E232241 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774265665764,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/23/65/40/88/40/28/68/81/93/82/36879517436270300643.jpg",
+      "__unknown_lastModifiedDate": 1774265665764,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650655830,
+      "__unknown_productSubTitle": "Galatasaray Erkek Eşofman Takım E232241 Siyah M",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8488471,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/23/65/40/88/40/28/68/81/93/82/36879517436270300643.jpg"
+        },
+        {
+          "id": 8488472,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/23/71/45/72/87/15/44/80/58/99/48648596876211764850.jpg"
+        },
+        {
+          "id": 8488473,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/23/82/70/21/41/74/38/40/84/98/484067627777506691.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/23/65/40/88/40/28/68/81/93/82/36879517436270300643.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/23/65/40/88/40/28/68/81/93/82/36879517436270300643.jpg"
+    }
+  },
+  {
+    "gid_ref": 1160323,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Galatasaray Erkek Eşofman Takım E232241 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768824979611,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/19/82/32/01/51/54/87/09/18/70/6910024379827402562.jpg",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650655830,
+      "__unknown_productSubTitle": "Galatasaray Erkek Eşofman Takım E232241 Siyah M",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8267421,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/19/82/32/01/51/54/87/09/18/70/6910024379827402562.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/19/82/32/01/51/54/87/09/18/70/6910024379827402562.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/19/82/32/01/51/54/87/09/18/70/6910024379827402562.jpg"
+    }
+  },
+  {
+    "gid_ref": 1160324,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Galatasaray Erkek Eşofman Takım E232241 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1738005878490,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650655830,
+      "__unknown_productSubTitle": "Galatasaray Erkek Eşofman Takım E232241 Siyah M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

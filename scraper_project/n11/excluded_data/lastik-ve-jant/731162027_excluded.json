@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 834369,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lassa 225/55R17 Revola 101Y XL Yaz Lastiği 2025",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1741796008760,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655078771,
+      "__unknown_productSubTitle": "Lassa 225/55R17 Revola 101Y XL Yaz Lastiği 2025 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 834370,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lassa 225/55R17 Revola 101Y XL Yaz Lastiği 2025",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1741636603818,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655078771,
+      "__unknown_productSubTitle": "Lassa 225/55R17 Revola 101Y XL Yaz Lastiği 2025 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 834371,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lassa 225/55R17 Revola 101Y XL Yaz Lastiği 2025",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741278040716,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651648994,
+      "__unknown_productSubTitle": "Lassa 225/55R17 Revola 101Y XL Yaz Lastiği 2025 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

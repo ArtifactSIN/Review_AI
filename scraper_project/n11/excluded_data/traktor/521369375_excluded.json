@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1335567,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 135 Kaborta Brandası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726747389525,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 521369375,
+      "__unknown_productSubTitle": "Massey Ferguson 135 Kaborta Brandası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1335568,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 135 Kaborta Brandası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726657982872,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 521369375,
+      "__unknown_productSubTitle": "Massey Ferguson 135 Kaborta Brandası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1335569,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "135 Massey Ferguson örtüsü",
+      "productTitle": "Massey Ferguson 135 Kaborta Brandası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1643268328652,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 521369375,
+      "__unknown_productSubTitle": "Massey Ferguson 135 Kaborta Brandası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

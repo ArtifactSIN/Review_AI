@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 814680,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yeni Aktuel Bulmaca 2025",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771686518782,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649496453,
+      "__unknown_productSubTitle": "Yeni Aktuel Bulmaca 2025",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 814681,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yeni Aktuel Bulmaca 2025",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771458997924,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/19/48/52/54/81/47/36/28/93/42/81072172676899782588.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649496453,
+      "__unknown_productSubTitle": "Yeni Aktuel Bulmaca 2025",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8379855,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/19/48/52/54/81/47/36/28/93/42/81072172676899782588.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/19/48/52/54/81/47/36/28/93/42/81072172676899782588.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/19/48/52/54/81/47/36/28/93/42/81072172676899782588.png"
+    }
+  },
+  {
+    "gid_ref": 814682,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yeni Aktuel Bulmaca 2025",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766524069544,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649496453,
+      "__unknown_productSubTitle": "Yeni Aktuel Bulmaca 2025",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

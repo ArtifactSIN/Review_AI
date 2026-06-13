@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 385573,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vittoria Cst Jet C1820 26x2.10 Dış Lastik Kahverengi Yanak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775217999410,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775217999410,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732195766,
+      "__unknown_productSubTitle": "Vittoria Cst Jet C1820 26x2.10 Dış Lastik Kahverengi Yanak ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 385574,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vittoria Cst Jet C1820 26x2.10 Dış Lastik Kahverengi Yanak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772920422050,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/08/77/82/58/07/70/49/95/46/04/83054604907352603427.jpg",
+      "__unknown_lastModifiedDate": 1772920422050,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732195766,
+      "__unknown_productSubTitle": "Vittoria Cst Jet C1820 26x2.10 Dış Lastik Kahverengi Yanak ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8440896,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/08/77/82/58/07/70/49/95/46/04/83054604907352603427.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/08/77/82/58/07/70/49/95/46/04/83054604907352603427.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/08/77/82/58/07/70/49/95/46/04/83054604907352603427.jpg"
+    }
+  }
+]

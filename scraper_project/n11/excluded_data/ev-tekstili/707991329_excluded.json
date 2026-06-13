@@ -1,0 +1,67 @@
+[
+  {
+    "gid_ref": 635629,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karaca Home Breeze Soft Tek Kişilik Yatak Örtüsü Ekru 200.22.11.0199",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769326180621,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/25/64/76/94/90/47/82/74/38/89/24265180321753905816.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 707991329,
+      "__unknown_productSubTitle": "Karaca Home Breeze Soft Tek Kişilik Yatak Örtüsü Ekru 200.22.11.0199",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8287143,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/25/64/76/94/90/47/82/74/38/89/24265180321753905816.png"
+        },
+        {
+          "id": 8287144,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/25/81/07/50/33/20/19/04/13/44/42043095085382088146.png"
+        },
+        {
+          "id": 8287145,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/25/88/26/26/89/18/23/24/06/30/06119655348349651917.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/25/64/76/94/90/47/82/74/38/89/24265180321753905816.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/25/64/76/94/90/47/82/74/38/89/24265180321753905816.png"
+    }
+  },
+  {
+    "gid_ref": 635630,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karaca Home Breeze Soft Tek Kişilik Yatak Örtüsü Ekru 200.22.11.0199",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741464767134,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/08/78/56/81/15/89/82/88/90/08/12605778927534587834.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 707991329,
+      "__unknown_productSubTitle": "Karaca Home Breeze Soft Tek Kişilik Yatak Örtüsü Ekru 200.22.11.0199",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6949501,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/08/78/56/81/15/89/82/88/90/08/12605778927534587834.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/08/78/56/81/15/89/82/88/90/08/12605778927534587834.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/08/78/56/81/15/89/82/88/90/08/12605778927534587834.jpg"
+    }
+  }
+]

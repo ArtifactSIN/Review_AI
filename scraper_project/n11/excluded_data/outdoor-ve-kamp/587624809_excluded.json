@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 954865,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Campıng Tıme Çakmaklı Pürmüz Touch Set Bütan Propan Kamp Gazı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738932615913,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/07/90/17/65/60/85/88/78/04/90/26060211248620158434.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587624809,
+      "__unknown_productSubTitle": "Campıng Tıme Çakmaklı Pürmüz Touch Set Bütan Propan Kamp Gazı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6812457,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/07/90/17/65/60/85/88/78/04/90/26060211248620158434.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/07/90/17/65/60/85/88/78/04/90/26060211248620158434.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/07/90/17/65/60/85/88/78/04/90/26060211248620158434.png"
+    }
+  },
+  {
+    "gid_ref": 954866,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Campıng Tıme Çakmaklı Pürmüz Touch Set Bütan Propan Kamp Gazı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731578072547,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587624809,
+      "__unknown_productSubTitle": "Campıng Tıme Çakmaklı Pürmüz Touch Set Bütan Propan Kamp Gazı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

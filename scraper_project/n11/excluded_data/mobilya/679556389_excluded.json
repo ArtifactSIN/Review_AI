@@ -1,0 +1,75 @@
+[
+  {
+    "gid_ref": 870669,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aska Kurutmalı Çamaşır Makinası Dolabı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775374223477,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/05/89/12/21/13/89/62/98/94/64/53164022379653018742.png",
+      "__unknown_lastModifiedDate": 1775374223477,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679556389,
+      "__unknown_productSubTitle": "Aska Kurutmalı Çamaşır Makinası Dolabı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8563544,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/05/89/12/21/13/89/62/98/94/64/53164022379653018742.png"
+        },
+        {
+          "id": 8563545,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/05/80/73/15/52/48/24/46/13/39/78933508623560887168.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/05/89/12/21/13/89/62/98/94/64/53164022379653018742.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/05/89/12/21/13/89/62/98/94/64/53164022379653018742.png"
+    }
+  },
+  {
+    "gid_ref": 870670,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aska Kurutmalı Çamaşır Makinası Dolabı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767200882050,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679556389,
+      "__unknown_productSubTitle": "Aska Kurutmalı Çamaşır Makinası Dolabı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 870671,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aska Kurutmalı Çamaşır Makinası Dolabı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762801081914,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679556389,
+      "__unknown_productSubTitle": "Aska Kurutmalı Çamaşır Makinası Dolabı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

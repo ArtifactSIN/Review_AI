@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 797717,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sgs Alüminyum Folyo Bant 44Mm 25Mt",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775058087039,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/86/70/79/44/57/29/24/00/51/81683116620691294902.png",
+      "__unknown_lastModifiedDate": 1775058087039,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641795659,
+      "__unknown_productSubTitle": "Sgs Alüminyum Folyo Bant 44Mm 25Mt",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8561311,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/86/70/79/44/57/29/24/00/51/81683116620691294902.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/86/70/79/44/57/29/24/00/51/81683116620691294902.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/86/70/79/44/57/29/24/00/51/81683116620691294902.png"
+    }
+  },
+  {
+    "gid_ref": 797718,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sgs Alüminyum Folyo Bant 44Mm 25Mt",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772293584312,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641795659,
+      "__unknown_productSubTitle": "Sgs Alüminyum Folyo Bant 44Mm 25Mt",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

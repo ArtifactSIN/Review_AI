@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 948845,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Norfolk Voyage 0-13 KG Ana Kucağı - Oto Koltuğu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1716224937294,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 105025491,
+      "__unknown_productSubTitle": "Norfolk Voyage 0-13 KG Ana Kucağı - Oto Koltuğu Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 948846,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Norfolk Voyage 0-13 KG Ana Kucağı - Oto Koltuğu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1487788282064,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 105025491,
+      "__unknown_productSubTitle": "Norfolk Voyage 0-13 KG Ana Kucağı - Oto Koltuğu Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 948847,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Mukemmel hizmet",
+      "productTitle": "Norfolk Voyage 0-13 KG Ana Kucağı - Oto Koltuğu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1480946585465,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 105025491,
+      "__unknown_productSubTitle": "Norfolk Voyage 0-13 KG Ana Kucağı - Oto Koltuğu Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

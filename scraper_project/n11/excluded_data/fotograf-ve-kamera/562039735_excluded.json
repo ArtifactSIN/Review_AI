@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 751181,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Murata Cr2025 Saat Ve Cihaz için Pil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1712074420480,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562039735,
+      "__unknown_productSubTitle": "Murata Cr2025 Saat Ve Cihaz için Pil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751182,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ahmet 1",
+      "productTitle": "Murata Cr2025 Saat Ve Cihaz için Pil",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1668704514385,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 528409602,
+      "__unknown_productSubTitle": "KALİTELİ SAATLERİNİZ İÇİN ORJİNAL JAPON MALI SAAT PİLLERİ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

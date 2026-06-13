@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 949668,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Chicco Comfy Wave Anakucağı Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708590127737,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 570232425,
+      "__unknown_productSubTitle": "Chicco Comfy Wave Anakucağı Gri Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 949669,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Chicco Comfy Wave Anakucağı Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1683562835127,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 570232425,
+      "__unknown_productSubTitle": "Chicco Comfy Wave Anakucağı Gri Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

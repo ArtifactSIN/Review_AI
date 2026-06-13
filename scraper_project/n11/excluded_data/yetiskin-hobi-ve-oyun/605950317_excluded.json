@@ -1,0 +1,106 @@
+[
+  {
+    "gid_ref": 1492735,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Uno Kuromi Oyun Kartları",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765994321331,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/17/82/30/27/95/27/45/54/32/27/48297783670451685252.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 657876841,
+      "__unknown_productSubTitle": "Uno Kuromi Oyun Kartları",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8127446,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/17/82/30/27/95/27/45/54/32/27/48297783670451685252.png"
+        },
+        {
+          "id": 8127447,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/17/76/90/32/97/75/97/91/53/22/88423413944592190935.png"
+        },
+        {
+          "id": 8127448,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/17/74/11/60/37/91/30/12/69/46/47937096027165510784.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/17/82/30/27/95/27/45/54/32/27/48297783670451685252.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/17/82/30/27/95/27/45/54/32/27/48297783670451685252.png"
+    }
+  },
+  {
+    "gid_ref": 1492736,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Uno Kuromi Oyun Kartları",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1740761058935,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642081254,
+      "__unknown_productSubTitle": "Uno Kuromi Oyun Kartları",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492737,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Uno Kuromi Oyun Kartları",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739437592535,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/13/55/33/67/35/63/11/30/84/06/95337835177782955159.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642081254,
+      "__unknown_productSubTitle": "Uno Kuromi Oyun Kartları",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6836925,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/13/55/33/67/35/63/11/30/84/06/95337835177782955159.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/13/55/33/67/35/63/11/30/84/06/95337835177782955159.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/13/55/33/67/35/63/11/30/84/06/95337835177782955159.png"
+    }
+  },
+  {
+    "gid_ref": 1492738,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Uno Kuromi Oyun Kartları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1722587414629,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605950317,
+      "__unknown_productSubTitle": "Uno Kuromi Oyun Kartları",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 378933,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Parktool Tw-5.2 Tork Anahtarı 2-14nm Pttw52 Mavi - Turuncu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764094207298,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/25/62/01/96/09/71/30/72/51/59/14088858943895128627.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638939074,
+      "__unknown_productSubTitle": "Parktool Tw-5.2 Tork Anahtarı 2-14nm Pttw52 Mavi - Turuncu ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8018144,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/25/62/01/96/09/71/30/72/51/59/14088858943895128627.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/25/62/01/96/09/71/30/72/51/59/14088858943895128627.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/25/62/01/96/09/71/30/72/51/59/14088858943895128627.png"
+    }
+  },
+  {
+    "gid_ref": 378934,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Parktool Tw-5.2 Tork Anahtarı 2-14nm Pttw52 Mavi - Turuncu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732112469916,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1742211119890,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 543253686,
+      "__unknown_productSubTitle": "Parktool Tw-5.2 Tork Anahtarı 2-14nm Pttw52 Mavi - Turuncu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

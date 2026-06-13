@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 255963,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Laynbebe- Slim (İnce) Kauçuk Kenar + Köşe Koruyucu Set Gri Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772462567397,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605253730,
+      "__unknown_productSubTitle": "Laynbebe- Slim (İnce) Kauçuk Kenar + Köşe Koruyucu Set Gri Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 255964,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Laynbebe- Slim (İnce) Kauçuk Kenar + Köşe Koruyucu Set Gri Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708332786419,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/19/80/91/35/72/29/54/49/76/59/4708574668050510457.png",
+      "__unknown_lastModifiedDate": 1750737761529,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 453228237,
+      "__unknown_productSubTitle": "Laynbebe- Slim (İnce) Kauçuk Kenar + Köşe Koruyucu Set Gri Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3921972,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/19/80/91/35/72/29/54/49/76/59/4708574668050510457.png"
+        },
+        {
+          "id": 3921973,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/19/74/80/53/78/22/48/76/47/17/13780986525444977550.png"
+        },
+        {
+          "id": 3921974,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/19/76/28/91/65/51/47/40/72/42/26067758825172976200.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/19/80/91/35/72/29/54/49/76/59/4708574668050510457.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/19/80/91/35/72/29/54/49/76/59/4708574668050510457.png"
+    }
+  }
+]

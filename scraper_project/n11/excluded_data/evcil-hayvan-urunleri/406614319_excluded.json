@@ -1,0 +1,86 @@
+[
+  {
+    "gid_ref": 644567,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sera Aquatan Akvaryum Su Hazırlayıcı 50 Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1754319290241,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 620661021,
+      "__unknown_productSubTitle": "Sera Aquatan Akvaryum Su Hazırlayıcı 50 Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 644568,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sera Aquatan Akvaryum Su Hazırlayıcı 50 Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739441389132,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/13/71/32/60/48/79/24/92/90/23/75113746875397160047.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 620661021,
+      "__unknown_productSubTitle": "Sera Aquatan Akvaryum Su Hazırlayıcı 50 Ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6844312,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/13/71/32/60/48/79/24/92/90/23/75113746875397160047.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/13/71/32/60/48/79/24/92/90/23/75113746875397160047.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/13/71/32/60/48/79/24/92/90/23/75113746875397160047.png"
+    }
+  },
+  {
+    "gid_ref": 644569,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sera Aquatan Akvaryum Su Hazırlayıcı 50 Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739039344504,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/08/81/29/65/34/34/91/31/14/89/6949663658679054917.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 620661021,
+      "__unknown_productSubTitle": "Sera Aquatan Akvaryum Su Hazırlayıcı 50 Ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6817130,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/08/81/29/65/34/34/91/31/14/89/6949663658679054917.png"
+        },
+        {
+          "id": 6817131,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/08/77/92/86/84/98/91/49/58/82/28195794177096958086.png"
+        },
+        {
+          "id": 6817132,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/08/47/53/61/22/29/52/46/92/22/16051244718874838266.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/08/81/29/65/34/34/91/31/14/89/6949663658679054917.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/08/81/29/65/34/34/91/31/14/89/6949663658679054917.png"
+    }
+  }
+]

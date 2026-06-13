@@ -1,0 +1,115 @@
+[
+  {
+    "gid_ref": 1517427,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nivea Aydınlatıcı Micellar Makyaj Temizleme Suyu 400 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774462307714,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/86/94/72/01/80/12/37/17/63/48163513720405146386.png",
+      "__unknown_lastModifiedDate": 1774462307714,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733282631,
+      "__unknown_productSubTitle": "Nivea Aydınlatıcı Micellar Makyaj Temizleme Suyu 400 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8503820,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/86/94/72/01/80/12/37/17/63/48163513720405146386.png"
+        },
+        {
+          "id": 8503821,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/68/17/42/49/92/62/32/65/06/22605567456798658440.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/86/94/72/01/80/12/37/17/63/48163513720405146386.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/86/94/72/01/80/12/37/17/63/48163513720405146386.png"
+    }
+  },
+  {
+    "gid_ref": 1517428,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nivea Aydınlatıcı Micellar Makyaj Temizleme Suyu 400 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732698262630,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603009218,
+      "__unknown_productSubTitle": "Nivea Aydınlatıcı Micellar Makyaj Temizleme Suyu 400 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1517429,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nivea Aydınlatıcı Micellar Makyaj Temizleme Suyu 400 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730139498764,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603009218,
+      "__unknown_productSubTitle": "Nivea Aydınlatıcı Micellar Makyaj Temizleme Suyu 400 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1517430,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nivea Aydınlatıcı Micellar Makyaj Temizleme Suyu 400 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1723133901371,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603009218,
+      "__unknown_productSubTitle": "Nivea Aydınlatıcı Micellar Makyaj Temizleme Suyu 400 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1517431,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nivea Aydınlatıcı Micellar Makyaj Temizleme Suyu 400 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717263401510,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603009218,
+      "__unknown_productSubTitle": "Nivea Aydınlatıcı Micellar Makyaj Temizleme Suyu 400 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 765547,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun Silk-épil 7 7-441 Epilatör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1752947116723,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659688188,
+      "__unknown_productSubTitle": "Braun Silk-épil 7 7-441 Epilatör Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 765548,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun Silk-épil 7 7-441 Epilatör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744890033956,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 660402615,
+      "__unknown_productSubTitle": "Braun Silk-épil 7 7-441 Epilatör Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

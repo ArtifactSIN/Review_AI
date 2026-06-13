@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1251424,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Marka Karavan Su Deposu Seviye Göstergesi - Alarm Işıklı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774855165638,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/65/33/74/36/83/49/62/94/65/99089462069673440990.png",
+      "__unknown_lastModifiedDate": 1774855165638,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596724228,
+      "__unknown_productSubTitle": "Marka Karavan Su Deposu Seviye Göstergesi - Alarm Işıklı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8537261,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/65/33/74/36/83/49/62/94/65/99089462069673440990.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/65/33/74/36/83/49/62/94/65/99089462069673440990.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/65/33/74/36/83/49/62/94/65/99089462069673440990.png"
+    }
+  },
+  {
+    "gid_ref": 1251425,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Marka Karavan Su Deposu Seviye Göstergesi - Alarm Işıklı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731077886895,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596724228,
+      "__unknown_productSubTitle": "Marka Karavan Su Deposu Seviye Göstergesi - Alarm Işıklı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251426,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Marka Karavan Su Deposu Seviye Göstergesi - Alarm Işıklı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728323172855,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596724228,
+      "__unknown_productSubTitle": "Marka Karavan Su Deposu Seviye Göstergesi - Alarm Işıklı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

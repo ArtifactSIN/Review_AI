@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1518212,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nuxe Nuxuriance Gold Nutri Fortifying Oil Cream 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770397062364,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650752290,
+      "__unknown_productSubTitle": "Nuxe Nuxuriance Gold Nutri Fortifying Oil Cream 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1518213,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nuxe Nuxuriance Gold Nutri Fortifying Oil Cream 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758568820581,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650752290,
+      "__unknown_productSubTitle": "Nuxe Nuxuriance Gold Nutri Fortifying Oil Cream 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1518214,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nuxe Nuxuriance Gold Nutri Fortifying Oil Cream 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1710186867213,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569174851,
+      "__unknown_productSubTitle": "Nuxe Nuxuriance Gold Nutri Fortifying Oil Cream 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

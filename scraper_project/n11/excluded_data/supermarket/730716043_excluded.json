@@ -1,0 +1,82 @@
+[
+  {
+    "gid_ref": 1245737,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Herbalife Vanilya  Shake",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733406154201,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593818343,
+      "__unknown_productSubTitle": "Herbalife Vanilya  Shake",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1245738,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Herbalife Vanilya  Shake",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733330947404,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593818343,
+      "__unknown_productSubTitle": "Herbalife Vanilya  Shake",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1245739,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Herbalife Vanilya  Shake",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730498195848,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593818343,
+      "__unknown_productSubTitle": "Herbalife Vanilya  Shake",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1245740,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Herbalife Vanilya  Shake",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715117502933,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593818343,
+      "__unknown_productSubTitle": "Herbalife Vanilya  Shake",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "gid_ref": 259951,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "90 x 120 Ortopedik Yatak 90*120 Yaylı Yatak - 90 x 120 Pooly Blue",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714721852909,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/03/52/18/47/72/31/19/08/54/54/23484270290077175422.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 351463636,
+      "__unknown_productSubTitle": "90 x 120 Ortopedik Yatak 90*120 Yaylı Yatak - 90 x 120 Pooly Blue",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4584902,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/03/52/18/47/72/31/19/08/54/54/23484270290077175422.jpg"
+        },
+        {
+          "id": 4584903,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/03/77/57/52/82/08/90/70/43/46/32675522784875203474.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/03/52/18/47/72/31/19/08/54/54/23484270290077175422.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/03/52/18/47/72/31/19/08/54/54/23484270290077175422.jpg"
+    }
+  },
+  {
+    "gid_ref": 259952,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Tavsiye ederim",
+      "productTitle": "90 x 120 Ortopedik Yatak 90*120 Yaylı Yatak - 90 x 120 Pooly Blue",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1592843561002,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 351463636,
+      "__unknown_productSubTitle": "90 x 120 Ortopedik Yatak 90*120 Yaylı Yatak - 90 x 120 Pooly Blue",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

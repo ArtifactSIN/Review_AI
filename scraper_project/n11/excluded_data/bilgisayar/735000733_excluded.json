@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 362348,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kingston KVR26N19S8/16 16 GB DDR4 2666 MHz CL19 Ram",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775334399811,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775334399811,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 735000733,
+      "__unknown_productSubTitle": "Kingston KVR26N19S8/16 16 GB DDR4 2666 MHz CL19 Ram",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 362349,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kingston KVR26N19S8/16 16 GB DDR4 2666 MHz CL19 Ram",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725628876652,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633470757,
+      "__unknown_productSubTitle": "Kingston KVR26N19S8/16 16 GB DDR4 2666 MHz CL19 Ram",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 362350,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kingston KVR26N19S8/16 16 GB DDR4 2666 MHz CL19 Ram",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721138674171,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 522417010,
+      "__unknown_productSubTitle": "Kingston KVR26N19S8/16 16 GB DDR4 2666 MHz CL19 Ram",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

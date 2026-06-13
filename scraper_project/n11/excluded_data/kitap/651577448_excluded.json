@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 814823,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tuş Beyinli Seti 8 Kitap - Yusuf Asal - Genç Nesil Yayınları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732343262161,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593160360,
+      "__unknown_productSubTitle": "Tuş Beyinli Seti 8 Kitap - Yusuf Asal - Genç Nesil Yayınları",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 814824,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tuş Beyinli Seti 8 Kitap - Yusuf Asal - Genç Nesil Yayınları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729527078875,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/21/90/58/81/84/90/25/61/15/92/68652710121986605786.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593160360,
+      "__unknown_productSubTitle": "Tuş Beyinli Seti 8 Kitap - Yusuf Asal - Genç Nesil Yayınları",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5985014,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/21/90/58/81/84/90/25/61/15/92/68652710121986605786.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/21/90/58/81/84/90/25/61/15/92/68652710121986605786.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/21/90/58/81/84/90/25/61/15/92/68652710121986605786.png"
+    }
+  },
+  {
+    "gid_ref": 814825,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tuş Beyinli Seti 8 Kitap - Yusuf Asal - Genç Nesil Yayınları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721773956126,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593160360,
+      "__unknown_productSubTitle": "Tuş Beyinli Seti 8 Kitap - Yusuf Asal - Genç Nesil Yayınları",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 814826,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tuş Beyinli Seti 8 Kitap - Yusuf Asal - Genç Nesil Yayınları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710184319084,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593160360,
+      "__unknown_productSubTitle": "Tuş Beyinli Seti 8 Kitap - Yusuf Asal - Genç Nesil Yayınları",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

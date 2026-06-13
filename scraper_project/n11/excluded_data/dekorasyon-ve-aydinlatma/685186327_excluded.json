@@ -1,0 +1,82 @@
+[
+  {
+    "gid_ref": 422415,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Akasya Krom Renk Kristal Taşlı Hol Ve Salon Avizesi Krom",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762013878259,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/01/74/81/13/52/81/33/78/83/95/92161029067323126535.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 685186327,
+      "__unknown_productSubTitle": "Akasya Krom Renk Kristal Taşlı Hol Ve Salon Avizesi Krom ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7899518,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/01/74/81/13/52/81/33/78/83/95/92161029067323126535.png"
+        },
+        {
+          "id": 7899519,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/01/53/64/63/12/43/04/91/28/51/24523211717752602691.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/01/74/81/13/52/81/33/78/83/95/92161029067323126535.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/01/74/81/13/52/81/33/78/83/95/92161029067323126535.png"
+    }
+  },
+  {
+    "gid_ref": 422416,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Akasya Krom Renk Kristal Taşlı Hol Ve Salon Avizesi Krom",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756713900207,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 685186327,
+      "__unknown_productSubTitle": "Akasya Krom Renk Kristal Taşlı Hol Ve Salon Avizesi Krom ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 422417,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Akasya Krom Renk Kristal Taşlı Hol Ve Salon Avizesi Krom",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755515270901,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/18/78/08/31/16/25/57/53/80/68/76672350983974373590.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 685186327,
+      "__unknown_productSubTitle": "Akasya Krom Renk Kristal Taşlı Hol Ve Salon Avizesi Krom ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7564784,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/18/78/08/31/16/25/57/53/80/68/76672350983974373590.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/18/78/08/31/16/25/57/53/80/68/76672350983974373590.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/18/78/08/31/16/25/57/53/80/68/76672350983974373590.jpg"
+    }
+  }
+]

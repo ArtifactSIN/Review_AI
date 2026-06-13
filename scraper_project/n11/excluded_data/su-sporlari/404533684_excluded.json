@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 1162825,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Devir Daim Motoru 2006 Lt 58383 Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754396439190,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 404533684,
+      "__unknown_productSubTitle": "Devir Daim Motoru 2006 Lt 58383 Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1162826,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Rahat Kurulum",
+      "productTitle": "Devir Daim Motoru 2006 Lt 58383 Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1661077737623,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/08/21/74/87/55/85/06/26/94/88/11/21266586325077280579.jpg",
+      "__unknown_lastModifiedDate": 1750427655474,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 404533684,
+      "__unknown_productSubTitle": "Devir Daim Motoru 2006 Lt 58383 Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 957509,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/08/21/74/87/55/85/06/26/94/88/11/21266586325077280579.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/08/21/74/87/55/85/06/26/94/88/11/21266586325077280579.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/08/21/74/87/55/85/06/26/94/88/11/21266586325077280579.jpg"
+    }
+  },
+  {
+    "gid_ref": 1162827,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Devir Daim Motoru 2006 Lt 58383 Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1625147597669,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750427655474,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 404533684,
+      "__unknown_productSubTitle": "Devir Daim Motoru 2006 Lt 58383 Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

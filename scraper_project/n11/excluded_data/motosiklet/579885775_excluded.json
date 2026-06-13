@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 886049,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "36 V / 20 Amper Elektrikli Bisiklet Şarj Cihazı Aleti Charger",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730707630638,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/04/62/36/89/63/64/67/12/45/49/65713928028807608122.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579885775,
+      "__unknown_productSubTitle": "36 V / 20 Amper Elektrikli Bisiklet Şarj Cihazı Aleti Charger ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6118337,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/04/62/36/89/63/64/67/12/45/49/65713928028807608122.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/04/62/36/89/63/64/67/12/45/49/65713928028807608122.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/04/62/36/89/63/64/67/12/45/49/65713928028807608122.png"
+    }
+  },
+  {
+    "gid_ref": 886050,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "36 V / 20 Amper Elektrikli Bisiklet Şarj Cihazı Aleti Charger",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725891602947,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579885775,
+      "__unknown_productSubTitle": "36 V / 20 Amper Elektrikli Bisiklet Şarj Cihazı Aleti Charger ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

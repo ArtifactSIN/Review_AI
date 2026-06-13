@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1220233,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nitromax Ginseng Enerji İçeceği 6 x 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775052674504,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775052674504,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734250635,
+      "__unknown_productSubTitle": "Nitromax Ginseng Enerji İçeceği 6 x 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1220234,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nitromax Ginseng Enerji İçeceği 6 x 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766921202273,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647324725,
+      "__unknown_productSubTitle": "Nitromax Ginseng Enerji İçeceği 6 x 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1220235,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nitromax Ginseng Enerji İçeceği 6 x 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1749571523079,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647324725,
+      "__unknown_productSubTitle": "Nitromax Ginseng Enerji İçeceği 6 x 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

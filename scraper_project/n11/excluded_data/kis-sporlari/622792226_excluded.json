@@ -1,0 +1,35 @@
+[
+  {
+    "gid_ref": 802827,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sulaite Snowboard Kalça Koruma",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1706613429747,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/20/49/29/07/93/24/41/56/41/11/71629719752653717352.png",
+      "__unknown_lastModifiedDate": 1708417630872,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 565688423,
+      "__unknown_productSubTitle": "Sulaite Snowboard Kalça Koruma M",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3930272,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/20/49/29/07/93/24/41/56/41/11/71629719752653717352.png"
+        },
+        {
+          "id": 3930273,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/20/59/01/15/49/62/75/39/92/02/18812374295648423473.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/20/49/29/07/93/24/41/56/41/11/71629719752653717352.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/20/49/29/07/93/24/41/56/41/11/71629719752653717352.png"
+    }
+  }
+]

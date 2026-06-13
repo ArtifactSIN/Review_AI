@@ -1,0 +1,84 @@
+[
+  {
+    "gid_ref": 1491035,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Anatolian 1000 Parçalık Puzzle - Kıyı Merdivenleri 1088",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710421080023,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566945122,
+      "__unknown_productSubTitle": "Anatolian 1000 Parçalık Puzzle - Kıyı Merdivenleri 1088",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1491036,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Firsatcilik",
+      "productTitle": "Anatolian 1000 Parçalık Puzzle - Kıyı Merdivenleri 1088",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1620602491755,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 412634598,
+      "__unknown_productSubTitle": "Anatolian 1000 Parçalık Puzzle - Kıyı Merdivenleri 1088",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1491037,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Anatolian 1088 Stairs To The Sea Puzzle 1000 Parça",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1596020043828,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 380802272,
+      "__unknown_productSubTitle": "2019 Yeni Koleksiyonundan",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1491038,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "harika",
+      "productTitle": "Anatolian 1000 Parçalık Puzzle - Kıyı Merdivenleri 1088",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1585379863769,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 393825923,
+      "__unknown_productSubTitle": "Anatolian 1000 Parçalık Puzzle - Kıyı Merdivenleri 1088",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

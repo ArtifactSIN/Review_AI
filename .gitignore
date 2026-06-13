@@ -17,3 +17,4 @@ venv/
 scraper_project/data/aggregate/
 scraper_project/data/raw/
 
+scraper_project/output/n11_reviews.jsonl

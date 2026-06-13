@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 835039,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toyota Corolla Jant Kapağı 15 İnç 4 Adet Kırılmaz 11q",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757615389254,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600034899,
+      "__unknown_productSubTitle": "Toyota Corolla Jant Kapağı 15 İnç 4 Adet Kırılmaz 11q ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 835040,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toyota Corolla Jant Kapağı 15 İnç 4 Adet Kırılmaz 11q",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757303331842,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/08/69/80/72/35/08/44/79/85/97/95626915279949445762.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600034899,
+      "__unknown_productSubTitle": "Toyota Corolla Jant Kapağı 15 İnç 4 Adet Kırılmaz 11q ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7662674,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/08/69/80/72/35/08/44/79/85/97/95626915279949445762.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/08/69/80/72/35/08/44/79/85/97/95626915279949445762.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/08/69/80/72/35/08/44/79/85/97/95626915279949445762.png"
+    }
+  },
+  {
+    "gid_ref": 835041,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toyota Corolla Jant Kapağı 15 İnç 4 Adet Kırılmaz 11q",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748329946786,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600034899,
+      "__unknown_productSubTitle": "Toyota Corolla Jant Kapağı 15 İnç 4 Adet Kırılmaz 11q ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 835042,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toyota Corolla Jant Kapağı 15 İnç 4 Adet Kırılmaz 11q",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1713442233755,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/18/54/44/04/21/49/50/81/78/57/3321033239678833.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600034899,
+      "__unknown_productSubTitle": "Toyota Corolla Jant Kapağı 15 İnç 4 Adet Kırılmaz 11q ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4442335,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/18/54/44/04/21/49/50/81/78/57/3321033239678833.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/18/54/44/04/21/49/50/81/78/57/3321033239678833.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/18/54/44/04/21/49/50/81/78/57/3321033239678833.png"
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 400005,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tunca Baffy 15 Jant 3 - 6 Yaş Çocuk Bisikleti Pembe",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771791892920,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679480060,
+      "__unknown_productSubTitle": "Tunca Baffy 15 Jant 3 - 6 Yaş Çocuk Bisikleti Pembe Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 400006,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tunca Baffy 15 Jant 3 - 6 Yaş Çocuk Bisikleti Pembe",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1755586575360,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/19/92/01/51/59/40/55/57/40/89/633253629571021464.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577261500,
+      "__unknown_productSubTitle": "Tunca Baffy 15 Jant 3 - 6 Yaş Çocuk Bisikleti Pembe Pembe",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7570736,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/19/92/01/51/59/40/55/57/40/89/633253629571021464.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/19/92/01/51/59/40/55/57/40/89/633253629571021464.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/19/92/01/51/59/40/55/57/40/89/633253629571021464.png"
+    }
+  }
+]

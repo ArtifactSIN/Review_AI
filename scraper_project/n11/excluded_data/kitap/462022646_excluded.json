@@ -1,0 +1,35 @@
+[
+  {
+    "gid_ref": 803966,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ayyıldız Cami Alemi Pirinç Döküm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1687205616667,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/06/20/79/80/58/86/57/09/85/01/96/95687265773455820748.png",
+      "__unknown_lastModifiedDate": 1687265761724,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 462022646,
+      "__unknown_productSubTitle": "Ayyıldız Cami Alemi Pirinç Döküm",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2121900,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/06/20/79/80/58/86/57/09/85/01/96/95687265773455820748.png"
+        },
+        {
+          "id": 2121901,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/06/20/52/98/17/10/81/00/51/26/66/18451375636157252888.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/06/20/79/80/58/86/57/09/85/01/96/95687265773455820748.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/06/20/79/80/58/86/57/09/85/01/96/95687265773455820748.png"
+    }
+  }
+]

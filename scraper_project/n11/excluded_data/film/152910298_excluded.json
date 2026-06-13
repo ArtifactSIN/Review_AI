@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 734991,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd- Yedinci Oğul - Seventh Son",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1597330511028,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 152910298,
+      "__unknown_productSubTitle": "Dvd- Yedinci Oğul - Seventh Son",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734992,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "orj ürün",
+      "productTitle": "Dvd- Yedinci Oğul - Seventh Son",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1578731276522,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 152910298,
+      "__unknown_productSubTitle": "Dvd- Yedinci Oğul - Seventh Son",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

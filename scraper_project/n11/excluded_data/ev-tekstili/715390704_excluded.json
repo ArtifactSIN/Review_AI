@@ -1,0 +1,81 @@
+[
+  {
+    "gid_ref": 635895,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Özdilek Cotton Bliss Renkli 4lü Kutulu Havlu Bej",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774967078459,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/47/55/33/05/40/87/57/85/55/07960208290012219472.jpg",
+      "__unknown_lastModifiedDate": 1774967078459,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 714066569,
+      "__unknown_productSubTitle": "Özdilek Cotton Bliss Renkli 4lü Kutulu Havlu Bej ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8542374,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/47/55/33/05/40/87/57/85/55/07960208290012219472.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/47/55/33/05/40/87/57/85/55/07960208290012219472.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/47/55/33/05/40/87/57/85/55/07960208290012219472.jpg"
+    }
+  },
+  {
+    "gid_ref": 635896,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Özdilek Cotton Bliss Renkli 4lü Kutulu Havlu Bej",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771557272876,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/20/59/92/16/18/28/49/31/53/03/13498390544700098965.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 714066569,
+      "__unknown_productSubTitle": "Özdilek Cotton Bliss Renkli 4lü Kutulu Havlu Bej ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8393400,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/20/59/92/16/18/28/49/31/53/03/13498390544700098965.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/20/59/92/16/18/28/49/31/53/03/13498390544700098965.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/20/59/92/16/18/28/49/31/53/03/13498390544700098965.png"
+    }
+  },
+  {
+    "gid_ref": 635897,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Özdilek Cotton Bliss Renkli 4lü Kutulu Havlu Bej",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771556827014,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 714066569,
+      "__unknown_productSubTitle": "Özdilek Cotton Bliss Renkli 4lü Kutulu Havlu Bej ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 777920,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Giysa Kadın Bisiklet Yaka Pamuklu Basic Body Siyah - Mw0000832 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1776173529453,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/14/80/00/99/14/63/78/93/05/14/39067808937377054551.jpg",
+      "__unknown_lastModifiedDate": 1776173529453,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 711122855,
+      "__unknown_productSubTitle": "Giysa Kadın Bisiklet Yaka Pamuklu Basic Body Siyah - Mw0000832 Siyah L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8612403,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/14/80/00/99/14/63/78/93/05/14/39067808937377054551.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/14/80/00/99/14/63/78/93/05/14/39067808937377054551.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/14/80/00/99/14/63/78/93/05/14/39067808937377054551.jpg"
+    }
+  },
+  {
+    "gid_ref": 777921,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Giysa Kadın Bisiklet Yaka Pamuklu Basic Body Siyah - Mw0000832 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775483615692,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/06/84/26/75/86/09/52/84/30/15/76551314718439982436.jpg",
+      "__unknown_lastModifiedDate": 1775483615692,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 711122964,
+      "__unknown_productSubTitle": "Giysa Kadın Bisiklet Yaka Pamuklu Basic Body Siyah - Mw0000832 Siyah S",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8576306,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/06/84/26/75/86/09/52/84/30/15/76551314718439982436.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/06/84/26/75/86/09/52/84/30/15/76551314718439982436.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/06/84/26/75/86/09/52/84/30/15/76551314718439982436.jpg"
+    }
+  }
+]

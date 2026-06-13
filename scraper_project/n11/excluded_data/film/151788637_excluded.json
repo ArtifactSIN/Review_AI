@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 734950,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "DVD",
+      "productTitle": "Uzak Ülke Open Range  DVD",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1522531187222,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 151788637,
+      "__unknown_productSubTitle": "Uzak Ülke Open Range  DVD",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

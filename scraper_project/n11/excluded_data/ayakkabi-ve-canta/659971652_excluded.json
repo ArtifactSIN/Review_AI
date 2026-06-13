@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 133512,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Run 60s 3.0 Erkek Spor Ayakkabı Ie3827 Ie3827 Gri Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763790651801,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659971529,
+      "__unknown_productSubTitle": "Adidas Run 60s 3.0 Erkek Spor Ayakkabı Ie3827 Ie3827 Gri Gri 39",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 133513,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Run 60s 3.0 Erkek Spor Ayakkabı Ie3827 Ie3827 Gri Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1751965004852,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/08/60/97/15/41/83/14/61/82/65/32328897519885530861.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666776319,
+      "__unknown_productSubTitle": "Adidas Run 60s 3.0 Erkek Spor Ayakkabı Ie3827 Ie3827 Gri Gri 42",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7422259,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/08/60/97/15/41/83/14/61/82/65/32328897519885530861.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/08/60/97/15/41/83/14/61/82/65/32328897519885530861.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/08/60/97/15/41/83/14/61/82/65/32328897519885530861.jpg"
+    }
+  },
+  {
+    "gid_ref": 133514,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Run 60s 3.0 Erkek Spor Ayakkabı Ie3827 Ie3827 Gri Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745869108143,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659971651,
+      "__unknown_productSubTitle": "Adidas Run 60s 3.0 Erkek Spor Ayakkabı Ie3827 Ie3827 Gri Gri 40",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

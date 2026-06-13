@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 179831,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Penguen Müslin Puset Örtüsü Fermuarlı Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736793235496,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/13/52/54/47/82/42/88/27/75/27/2247148043444009736.png",
+      "__unknown_lastModifiedDate": 1750658983707,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598883998,
+      "__unknown_productSubTitle": "Penguen Müslin Puset Örtüsü Fermuarlı Beyaz ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6696406,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/13/52/54/47/82/42/88/27/75/27/2247148043444009736.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/13/52/54/47/82/42/88/27/75/27/2247148043444009736.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/13/52/54/47/82/42/88/27/75/27/2247148043444009736.png"
+    }
+  }
+]

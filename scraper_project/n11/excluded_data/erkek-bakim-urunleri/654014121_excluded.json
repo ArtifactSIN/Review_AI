@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 528345,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips 3000 Serisi S3241/12 Islak ve Kuru Tıraş Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1740321324358,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/23/55/11/80/03/57/89/39/97/96/88501574224444503795.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 644992755,
+      "__unknown_productSubTitle": "Philips 3000 Serisi S3241/12 Islak ve Kuru Tıraş Makinesi Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6870342,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/23/55/11/80/03/57/89/39/97/96/88501574224444503795.png"
+        },
+        {
+          "id": 6870343,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/23/83/67/96/33/90/49/78/70/88/04045285669063930216.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/23/55/11/80/03/57/89/39/97/96/88501574224444503795.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/23/55/11/80/03/57/89/39/97/96/88501574224444503795.png"
+    }
+  },
+  {
+    "gid_ref": 528346,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips 3000 Serisi S3241/12 Islak ve Kuru Tıraş Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1738407858968,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646310526,
+      "__unknown_productSubTitle": "Philips 3000 Serisi S3241/12 Islak ve Kuru Tıraş Makinesi Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

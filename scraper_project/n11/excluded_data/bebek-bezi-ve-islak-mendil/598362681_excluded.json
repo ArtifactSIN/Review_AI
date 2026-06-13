@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 242889,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Natural Külot Bez 5 Numara Junior Süper Fırsat Paketi 3 x 100 Adet 3'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731887016357,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598362681,
+      "__unknown_productSubTitle": "Sleepy Natural Külot Bez 5 Numara Junior Süper Fırsat Paketi 3 x 100 Adet 3'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 242890,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Natural Külot Bez 5 Numara Junior Süper Fırsat Paketi 3 x 100 Adet 3'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727777858362,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/01/57/65/78/69/97/65/38/47/83/72270952392688553141.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598362681,
+      "__unknown_productSubTitle": "Sleepy Natural Külot Bez 5 Numara Junior Süper Fırsat Paketi 3 x 100 Adet 3'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5812410,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/01/57/65/78/69/97/65/38/47/83/72270952392688553141.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/01/57/65/78/69/97/65/38/47/83/72270952392688553141.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/01/57/65/78/69/97/65/38/47/83/72270952392688553141.png"
+    }
+  },
+  {
+    "gid_ref": 242891,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Natural Külot Bez 5 Numara Junior Süper Fırsat Paketi 3 x 100 Adet 3'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727777794221,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/01/52/48/06/29/07/52/22/03/92/28124808628292699130.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598362681,
+      "__unknown_productSubTitle": "Sleepy Natural Külot Bez 5 Numara Junior Süper Fırsat Paketi 3 x 100 Adet 3'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5807880,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/01/52/48/06/29/07/52/22/03/92/28124808628292699130.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/01/52/48/06/29/07/52/22/03/92/28124808628292699130.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/01/52/48/06/29/07/52/22/03/92/28124808628292699130.png"
+    }
+  }
+]

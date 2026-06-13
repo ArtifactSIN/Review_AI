@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1155301,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massive  Ms-H02  Profesyonel  5  Kanal  Deck  Çevirici",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1679336094665,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 553290419,
+      "__unknown_productSubTitle": "Massive  Ms-H02  Profesyonel  5  Kanal  Deck  Çevirici",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1155302,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel ürün",
+      "productTitle": "Massive  Ms-H02  Profesyonel  5  Kanal  Deck  Çevirici",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1616002049466,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 518649580,
+      "__unknown_productSubTitle": "Massive  Ms-H02  Profesyonel  5  Kanal  Deck  Çevirici",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

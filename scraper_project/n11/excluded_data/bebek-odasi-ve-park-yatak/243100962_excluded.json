@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 259811,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Tek kelime ile mükemmel 👍🏻",
+      "productTitle": "Bundera Ahşap Bebek Salıncak Çocuk Beşik Hamak Salıncağı Mavi Çizgili",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1525966752167,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/18/05/10/88/17/85/92/17/46/62/26/52/21389510072867833848.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 243100962,
+      "__unknown_productSubTitle": "Bundera Ahşap Bebek Salıncak Çocuk Beşik Hamak Salıncağı Mavi Çizgili Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3095392,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/18/05/10/88/17/85/92/17/46/62/26/52/21389510072867833848.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/18/05/10/88/17/85/92/17/46/62/26/52/21389510072867833848.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/18/05/10/88/17/85/92/17/46/62/26/52/21389510072867833848.jpg"
+    }
+  },
+  {
+    "gid_ref": 259812,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "başarılı",
+      "productTitle": "Bundera Ahşap Bebek Salıncak Çocuk Beşik Hamak Salıncağı Mavi Çizgili",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1524513029560,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/18/04/23/70/71/33/36/84/75/98/55/29/76216752200901478452.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 243100962,
+      "__unknown_productSubTitle": "Bundera Ahşap Bebek Salıncak Çocuk Beşik Hamak Salıncağı Mavi Çizgili Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3095393,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/18/04/23/70/71/33/36/84/75/98/55/29/76216752200901478452.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/18/04/23/70/71/33/36/84/75/98/55/29/76216752200901478452.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/18/04/23/70/71/33/36/84/75/98/55/29/76216752200901478452.jpeg"
+    }
+  }
+]

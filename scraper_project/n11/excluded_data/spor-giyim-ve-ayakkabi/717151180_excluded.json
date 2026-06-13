@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 1161670,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Vigor 3.0 Kadın Spor Ayakkabı Bej",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775307513865,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/04/85/08/38/03/50/34/71/45/51/94670211823206251172.jpg",
+      "__unknown_lastModifiedDate": 1775307513865,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 731900858,
+      "__unknown_productSubTitle": "Skechers Vigor 3.0 Kadın Spor Ayakkabı Bej 36.5",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8567162,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/04/85/08/38/03/50/34/71/45/51/94670211823206251172.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/04/85/08/38/03/50/34/71/45/51/94670211823206251172.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/04/85/08/38/03/50/34/71/45/51/94670211823206251172.jpg"
+    }
+  },
+  {
+    "gid_ref": 1161671,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Vigor 3.0 Kadın Spor Ayakkabı Bej",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766046010312,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717151180,
+      "__unknown_productSubTitle": "Skechers Vigor 3.0 Kadın Spor Ayakkabı Bej 38",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161672,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Vigor 3.0 Kadın Spor Ayakkabı Bej",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764594342729,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/01/58/25/58/56/20/63/54/90/37/73454348294812943515.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717076019,
+      "__unknown_productSubTitle": "Skechers Vigor 3.0 Kadın Spor Ayakkabı Bej 36",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8042148,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/01/58/25/58/56/20/63/54/90/37/73454348294812943515.png"
+        },
+        {
+          "id": 8042149,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/01/68/45/26/62/81/15/39/71/30/78792845222563106339.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/01/58/25/58/56/20/63/54/90/37/73454348294812943515.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/01/58/25/58/56/20/63/54/90/37/73454348294812943515.png"
+    }
+  }
+]

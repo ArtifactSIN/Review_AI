@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 941393,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aryıldız 7 Parça Vortex Tencere Seti Granitium Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775045301988,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775045301988,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733435915,
+      "__unknown_productSubTitle": "Aryıldız 7 Parça Vortex Tencere Seti Granitium Gri ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 941394,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aryıldız 7 Parça Vortex Tencere Seti Granitium Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1750366116361,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652916162,
+      "__unknown_productSubTitle": "Aryıldız 7 Parça Vortex Tencere Seti Granitium Gri ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

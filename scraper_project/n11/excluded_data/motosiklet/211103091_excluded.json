@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 873010,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mondial 125 Kt - Kanuni Seyhan 150 C Ön Far, Birinci Sınıf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1677884416295,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 211103091,
+      "__unknown_productSubTitle": "Mondial 125 Kt - Kanuni Seyhan 150 C Ön Far, Birinci Sınıf",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 873011,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mondial 125 Kt - Kanuni Seyhan 150 C Ön Far, Birinci Sınıf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1665665378965,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 211103091,
+      "__unknown_productSubTitle": "Mondial 125 Kt - Kanuni Seyhan 150 C Ön Far, Birinci Sınıf",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 873012,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Burdan alışveriş yapmayın",
+      "productTitle": "Mondial 125 Kt - Kanuni Seyhan 150 C Ön Far, Birinci Sınıf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1584804819325,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 211103091,
+      "__unknown_productSubTitle": "Mondial 125 Kt - Kanuni Seyhan 150 C Ön Far, Birinci Sınıf",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

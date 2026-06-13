@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 734793,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ayı Teddy 2 (Blu-Ray)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719561413466,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 123937100,
+      "__unknown_productSubTitle": "Ayı Teddy 2 (Blu-Ray)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734794,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Orjinal ürün",
+      "productTitle": "Ayı Teddy 2 (Blu-Ray)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1513930300510,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 123937100,
+      "__unknown_productSubTitle": "Ayı Teddy 2 (Blu-Ray)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

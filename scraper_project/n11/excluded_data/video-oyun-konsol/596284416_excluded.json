@@ -1,0 +1,131 @@
+[
+  {
+    "gid_ref": 1338934,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tekken 8 PS5 Oyun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750763936934,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1752647444920,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596055960,
+      "__unknown_productSubTitle": "Tekken 8 PS5 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1338935,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tekken 8 PS5 Oyun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1722275869364,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/29/57/91/77/72/68/22/93/03/64/4234357303297327233.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596055960,
+      "__unknown_productSubTitle": "Tekken 8 PS5 Oyun",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5290813,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/29/57/91/77/72/68/22/93/03/64/4234357303297327233.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/29/57/91/77/72/68/22/93/03/64/4234357303297327233.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/29/57/91/77/72/68/22/93/03/64/4234357303297327233.png"
+    }
+  },
+  {
+    "gid_ref": 1338936,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tekken 8 PS5 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719396413793,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598046988,
+      "__unknown_productSubTitle": "Tekken 8 PS5 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1338937,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tekken 8 PS5 Oyun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717108376446,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596055960,
+      "__unknown_productSubTitle": "Tekken 8 PS5 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1338938,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tekken 8 PS5 Oyun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717013844703,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596055960,
+      "__unknown_productSubTitle": "Tekken 8 PS5 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1338939,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tekken 8 PS5 Oyun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1713352212323,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596055960,
+      "__unknown_productSubTitle": "Tekken 8 PS5 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

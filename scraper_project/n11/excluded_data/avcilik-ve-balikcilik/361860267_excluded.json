@@ -1,0 +1,114 @@
+[
+  {
+    "gid_ref": 115578,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mercan Takımı, Canlı Yem Takımı Melek Gözlü Takım",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767355714156,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 361860267,
+      "__unknown_productSubTitle": "Mercan Takımı, Canlı Yem Takımı Melek Gözlü Takım 230",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 115579,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mercan Takımı, Canlı Yem Takımı Melek Gözlü Takım",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764934574739,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 361860267,
+      "__unknown_productSubTitle": "Mercan Takımı, Canlı Yem Takımı Melek Gözlü Takım 230",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 115580,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel görünüyor",
+      "productTitle": "Mercan Takımı, Canlı Yem Takımı Melek Gözlü Takım",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1598373177232,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/20/08/25/56/45/30/22/76/95/04/16/78/35328119096621548699.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 361860267,
+      "__unknown_productSubTitle": "Mercan Takımı, Canlı Yem Takımı Melek Gözlü Takım 230",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3056661,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/20/08/25/56/45/30/22/76/95/04/16/78/35328119096621548699.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/20/08/25/56/45/30/22/76/95/04/16/78/35328119096621548699.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/20/08/25/56/45/30/22/76/95/04/16/78/35328119096621548699.jpeg"
+    }
+  },
+  {
+    "gid_ref": 115581,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "tesekkurler",
+      "productTitle": "Mercan Takımı, Canlı Yem Takımı Melek Gözlü Takım",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1593776577024,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 361860267,
+      "__unknown_productSubTitle": "Mercan Takımı, Canlı Yem Takımı Melek Gözlü Takım 230",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 115582,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "iki çeşmelik mahallesi rıhtım sitesi e1 blok kat 2 daire 4 KUŞADASI - AYDIN",
+      "productTitle": "Mercan Takımı, Canlı Yem Takımı Melek Gözlü Takım",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1581700483917,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 361860267,
+      "__unknown_productSubTitle": "Mercan Takımı, Canlı Yem Takımı Melek Gözlü Takım 230",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

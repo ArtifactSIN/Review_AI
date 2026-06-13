@@ -1,0 +1,105 @@
+[
+  {
+    "gid_ref": 735831,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Sting - Belalılar Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1723143799364,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 68257400,
+      "__unknown_productSubTitle": "The Sting - Belalılar Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735832,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "7 oscar",
+      "productTitle": "The Sting - Belalılar Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1661592096186,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 68257400,
+      "__unknown_productSubTitle": "The Sting - Belalılar Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735833,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Sorunsuz Alışveriş",
+      "productTitle": "The Sting - Belalılar Blu-Ray",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1622121568118,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 154739579,
+      "__unknown_productSubTitle": "The Sting - Belalılar Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735834,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Sting - Belalılar Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1441719102204,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 68257400,
+      "__unknown_productSubTitle": "The Sting - Belalılar Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735835,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "the sting",
+      "productTitle": "The Sting - Belalılar Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1437080205757,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 68257400,
+      "__unknown_productSubTitle": "The Sting - Belalılar Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

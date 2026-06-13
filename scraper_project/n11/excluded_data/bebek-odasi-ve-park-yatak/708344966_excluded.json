@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 264380,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "King Kids Papatya Masa Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763581467417,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/19/60/54/60/71/20/80/66/99/90/17181255292766961288.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708344966,
+      "__unknown_productSubTitle": "King Kids Papatya Masa Kırmızı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7995464,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/19/74/95/02/11/56/33/87/29/23/04515841931183437865.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/19/60/54/60/71/20/80/66/99/90/17181255292766961288.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/19/60/54/60/71/20/80/66/99/90/17181255292766961288.jpg"
+    }
+  },
+  {
+    "gid_ref": 264381,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "King Kids Papatya Masa Kırmızı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713463935517,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 426623929,
+      "__unknown_productSubTitle": "King Kids Papatya Masa Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

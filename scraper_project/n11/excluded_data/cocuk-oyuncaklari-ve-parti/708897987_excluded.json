@@ -1,0 +1,101 @@
+[
+  {
+    "gid_ref": 401073,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Romantik Mina Bebek 35 Cm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775301314757,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775301314757,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708897987,
+      "__unknown_productSubTitle": "Romantik Mina Bebek 35 Cm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 401074,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Romantik Mina Bebek 35 Cm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770220809503,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/04/72/17/12/25/25/79/04/82/30/48712926142405165569.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708897987,
+      "__unknown_productSubTitle": "Romantik Mina Bebek 35 Cm",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8324454,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/04/72/17/12/25/25/79/04/82/30/48712926142405165569.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/04/72/17/12/25/25/79/04/82/30/48712926142405165569.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/04/72/17/12/25/25/79/04/82/30/48712926142405165569.jpg"
+    }
+  },
+  {
+    "gid_ref": 401075,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Romantik Mina Bebek 35 Cm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770220685193,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/04/86/58/70/40/44/34/88/15/13/38789147108260494201.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708897987,
+      "__unknown_productSubTitle": "Romantik Mina Bebek 35 Cm",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8311895,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/04/86/58/70/40/44/34/88/15/13/38789147108260494201.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/04/86/58/70/40/44/34/88/15/13/38789147108260494201.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/04/86/58/70/40/44/34/88/15/13/38789147108260494201.jpg"
+    }
+  },
+  {
+    "gid_ref": 401076,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Romantik Mina Bebek 35 Cm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765576416529,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708897987,
+      "__unknown_productSubTitle": "Romantik Mina Bebek 35 Cm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

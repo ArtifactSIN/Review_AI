@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 371736,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nike Cu8047-102 Academy Team 5 No Futbol Topu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771845837125,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641663983,
+      "__unknown_productSubTitle": "Nike Cu8047-102 Academy Team 5 No Futbol Topu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 371737,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nike Cu8047-102 Academy Team 5 No Futbol Topu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724616359396,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 563783746,
+      "__unknown_productSubTitle": "Nike Cu8047-102 Academy Team 5 No Futbol Topu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

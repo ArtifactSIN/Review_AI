@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 174398,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Stelatopia+ Lipit Yenileyici Krem 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773323248129,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773323248129,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566764025,
+      "__unknown_productSubTitle": "Mustela Stelatopia+ Lipit Yenileyici Krem 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 174399,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Stelatopia+ Lipit Yenileyici Krem 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1761591158474,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637922703,
+      "__unknown_productSubTitle": "Mustela Stelatopia+ Lipit Yenileyici Krem 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 174400,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Stelatopia+ Lipit Yenileyici Krem 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727945409257,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 570891513,
+      "__unknown_productSubTitle": "Mustela Stelatopia Lipit Yenileyici Krem 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 174401,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Stelatopia+ Lipit Yenileyici Krem 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719093487021,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/23/77/20/75/76/82/66/06/13/32/3688046288179709927.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589660334,
+      "__unknown_productSubTitle": "Mustela Stelatopia+ Lipit Yenileyici Krem 150 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5027112,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/23/77/20/75/76/82/66/06/13/32/3688046288179709927.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/23/77/20/75/76/82/66/06/13/32/3688046288179709927.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/23/77/20/75/76/82/66/06/13/32/3688046288179709927.png"
+    }
+  },
+  {
+    "gid_ref": 174402,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Stelatopia+ Lipit Yenileyici Krem 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1705856676057,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 570891513,
+      "__unknown_productSubTitle": "Mustela Stelatopia Lipit Yenileyici Krem 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

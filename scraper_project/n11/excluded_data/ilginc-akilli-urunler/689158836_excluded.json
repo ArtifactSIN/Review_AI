@@ -1,0 +1,56 @@
+[
+  {
+    "gid_ref": 756047,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Happy Fiore Parlak Örgü İpi 100gr / 230mt Yünlü El Örgü İpliği - Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775145163558,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/02/48/39/91/31/71/93/86/41/96/06026109713963332555.png",
+      "__unknown_lastModifiedDate": 1775145163558,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 689158836,
+      "__unknown_productSubTitle": "Happy Fiore Parlak Örgü İpi 100gr / 230mt Yünlü El Örgü İpliği - Kırmızı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8557941,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/48/39/91/31/71/93/86/41/96/06026109713963332555.png"
+        },
+        {
+          "id": 8557942,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/50/30/26/81/63/47/39/64/01/75136891247893823768.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/02/48/39/91/31/71/93/86/41/96/06026109713963332555.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/02/48/39/91/31/71/93/86/41/96/06026109713963332555.png"
+    }
+  },
+  {
+    "gid_ref": 756048,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Happy Fiore Parlak Örgü İpi 100gr / 230mt Yünlü El Örgü İpliği - Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771477478165,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 689158836,
+      "__unknown_productSubTitle": "Happy Fiore Parlak Örgü İpi 100gr / 230mt Yünlü El Örgü İpliği - Kırmızı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

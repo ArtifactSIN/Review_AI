@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 750655,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Panasonic Cr2412 3V Lithium Pil Cr-2412",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762587625392,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 408130560,
+      "__unknown_productSubTitle": "Panasonic Cr2412 3V Lithium Pil Cr-2412",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 750656,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Panasonic Cr2412 3V Lithium Pil Cr-2412",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1712670295747,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/09/85/58/19/13/76/07/71/08/52/74247076224230342415.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 408130560,
+      "__unknown_productSubTitle": "Panasonic Cr2412 3V Lithium Pil Cr-2412",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4388026,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/09/85/58/19/13/76/07/71/08/52/74247076224230342415.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/09/85/58/19/13/76/07/71/08/52/74247076224230342415.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/09/85/58/19/13/76/07/71/08/52/74247076224230342415.jpg"
+    }
+  },
+  {
+    "gid_ref": 750657,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Panasonic Cr2412 3V Lithium Pil Cr-2412",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1702498111936,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 408130560,
+      "__unknown_productSubTitle": "Panasonic Cr2412 3V Lithium Pil Cr-2412",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 750658,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel",
+      "productTitle": "Panasonic Cr2412 3V Lithium Pil Cr-2412",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1643645901685,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 408130560,
+      "__unknown_productSubTitle": "Panasonic Cr2412 3V Lithium Pil Cr-2412",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

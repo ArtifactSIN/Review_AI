@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 747329,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Herbalife Shaker Karıştırıcı Tekli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697552578690,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/10/17/77/27/68/07/07/30/49/19/32/67921231722624432595.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588018474,
+      "__unknown_productSubTitle": "Herbalife Shaker Karıştırıcı Tekli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2561906,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/17/77/27/68/07/07/30/49/19/32/67921231722624432595.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/10/17/77/27/68/07/07/30/49/19/32/67921231722624432595.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/10/17/77/27/68/07/07/30/49/19/32/67921231722624432595.png"
+    }
+  }
+]

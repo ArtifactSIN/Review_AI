@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 506938,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wahl Ayar Kolu Mandalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765799471535,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/15/47/21/98/69/65/30/88/84/99/95283136594998639691.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 470059387,
+      "__unknown_productSubTitle": "Wahl Ayar Kolu Mandalı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8111992,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/15/47/21/98/69/65/30/88/84/99/95283136594998639691.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/15/47/21/98/69/65/30/88/84/99/95283136594998639691.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/15/47/21/98/69/65/30/88/84/99/95283136594998639691.jpg"
+    }
+  },
+  {
+    "gid_ref": 506939,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wahl Ayar Kolu Mandalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724763482139,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 470059387,
+      "__unknown_productSubTitle": "Wahl Ayar Kolu Mandalı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 506940,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wahl Ayar Kolu Mandalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1699627629275,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 470059387,
+      "__unknown_productSubTitle": "Wahl Ayar Kolu Mandalı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 506941,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wahl Ayar Kolu Mandalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1679723357054,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 470059387,
+      "__unknown_productSubTitle": "Wahl Ayar Kolu Mandalı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

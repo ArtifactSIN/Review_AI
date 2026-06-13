@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 1067023,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aveda Scalp Solutions Saç Derisi İçin Masaj Aleti Saç Fırçası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739857450716,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/18/71/76/99/71/38/25/31/67/78/86709353027252434312.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 574393427,
+      "__unknown_productSubTitle": "Aveda Scalp Solutions Saç Derisi İçin Masaj Aleti Saç Fırçası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6863314,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/18/71/76/99/71/38/25/31/67/78/86709353027252434312.jpg"
+        },
+        {
+          "id": 6863315,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/18/74/64/20/53/41/11/44/81/38/07360382868450818599.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/18/71/76/99/71/38/25/31/67/78/86709353027252434312.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/18/71/76/99/71/38/25/31/67/78/86709353027252434312.jpg"
+    }
+  },
+  {
+    "gid_ref": 1067024,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aveda Scalp Solutions Saç Derisi İçin Masaj Aleti Saç Fırçası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1690144948355,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 574393427,
+      "__unknown_productSubTitle": "Aveda Scalp Solutions Saç Derisi İçin Masaj Aleti Saç Fırçası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

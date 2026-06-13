@@ -1,0 +1,142 @@
+[
+  {
+    "gid_ref": 119153,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Izmir Çılgın Kofana Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729365554750,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/19/61/92/20/80/06/93/07/93/00/68084720733746055694.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589373213,
+      "__unknown_productSubTitle": "Izmir Çılgın Kofana Takımı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5968495,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/19/61/92/20/80/06/93/07/93/00/68084720733746055694.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/19/61/92/20/80/06/93/07/93/00/68084720733746055694.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/19/61/92/20/80/06/93/07/93/00/68084720733746055694.jpg"
+    }
+  },
+  {
+    "gid_ref": 119154,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Izmir Çılgın Kofana Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728659894492,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589373213,
+      "__unknown_productSubTitle": "Izmir Çılgın Kofana Takımı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 119155,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Izmir Çılgın Kofana Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1722679749634,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/03/76/16/57/06/32/17/80/30/77/87366617484128074526.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589373213,
+      "__unknown_productSubTitle": "Izmir Çılgın Kofana Takımı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5338662,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/03/76/16/57/06/32/17/80/30/77/87366617484128074526.png"
+        },
+        {
+          "id": 5338663,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/03/72/43/46/93/88/24/78/95/62/21981904083674746293.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/03/76/16/57/06/32/17/80/30/77/87366617484128074526.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/03/76/16/57/06/32/17/80/30/77/87366617484128074526.png"
+    }
+  },
+  {
+    "gid_ref": 119156,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Izmir Çılgın Kofana Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721400915072,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589373213,
+      "__unknown_productSubTitle": "Izmir Çılgın Kofana Takımı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 119157,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Izmir Çılgın Kofana Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720866636035,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589373213,
+      "__unknown_productSubTitle": "Izmir Çılgın Kofana Takımı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 119158,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Izmir Çılgın Kofana Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711023786189,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589373213,
+      "__unknown_productSubTitle": "Izmir Çılgın Kofana Takımı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

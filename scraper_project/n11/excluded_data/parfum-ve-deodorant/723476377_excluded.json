@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 1030059,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mavi Glam Love Kadın Parfüm EDT 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729154928505,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/17/63/55/72/83/56/99/76/29/35/36869762634196340223.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 274597932,
+      "__unknown_productSubTitle": "Mavi Glam Love Kadın Parfüm EDT 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5945812,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/17/63/55/72/83/56/99/76/29/35/36869762634196340223.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/17/63/55/72/83/56/99/76/29/35/36869762634196340223.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/17/63/55/72/83/56/99/76/29/35/36869762634196340223.png"
+    }
+  },
+  {
+    "gid_ref": 1030060,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mavi Glam Love Kadın Parfüm EDT 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727456243327,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/27/89/98/84/62/71/42/61/35/78/3147695354836961632.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 274597932,
+      "__unknown_productSubTitle": "Mavi Glam Love Kadın Parfüm EDT 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5770042,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/27/89/98/84/62/71/42/61/35/78/3147695354836961632.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/27/89/98/84/62/71/42/61/35/78/3147695354836961632.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/27/89/98/84/62/71/42/61/35/78/3147695354836961632.png"
+    }
+  },
+  {
+    "gid_ref": 1030061,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mavi Glam Love Kadın Parfüm EDT 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1705312215301,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 274597932,
+      "__unknown_productSubTitle": "Mavi Glam Love Kadın Parfüm EDT 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

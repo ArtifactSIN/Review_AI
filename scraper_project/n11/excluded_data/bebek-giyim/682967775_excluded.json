@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 252963,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "MiaBaby Bereli Üçlü Takım 001 Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765314453830,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/10/76/28/05/41/55/25/56/86/44/58521262118891703477.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682967665,
+      "__unknown_productSubTitle": "MiaBaby Bereli Üçlü Takım 001 Kahverengi 5 Yaş",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8091727,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/10/76/28/05/41/55/25/56/86/44/58521262118891703477.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/10/76/28/05/41/55/25/56/86/44/58521262118891703477.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/10/76/28/05/41/55/25/56/86/44/58521262118891703477.png"
+    }
+  }
+]

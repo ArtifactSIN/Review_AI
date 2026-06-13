@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 20983,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LR Microsilver Plus Diş Macunu 75 ML x 4",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745783807230,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642983819,
+      "__unknown_productSubTitle": "LR Microsilver Plus Diş Macunu 75 ML x 4",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 20984,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LR Microsilver Plus Diş Macunu 75 ML x 4",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743880859829,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642983819,
+      "__unknown_productSubTitle": "LR Microsilver Plus Diş Macunu 75 ML x 4",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 20985,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LR Microsilver Plus Diş Macunu 75 ML x 4",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738840171184,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/06/63/47/95/55/07/51/87/93/38/52903968512325301855.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642983819,
+      "__unknown_productSubTitle": "LR Microsilver Plus Diş Macunu 75 ML x 4",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6796547,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/06/63/47/95/55/07/51/87/93/38/52903968512325301855.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/06/63/47/95/55/07/51/87/93/38/52903968512325301855.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/06/63/47/95/55/07/51/87/93/38/52903968512325301855.jpg"
+    }
+  }
+]

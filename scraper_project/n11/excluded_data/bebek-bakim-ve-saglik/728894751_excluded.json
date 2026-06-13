@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 209798,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Feride Talk Toz Bebek Pudrası 75gr X 3 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758248998510,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/19/54/12/96/38/66/41/63/23/56/04885626471501285154.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653362513,
+      "__unknown_productSubTitle": "Feride Talk Toz Bebek Pudrası 75gr X 3 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7700232,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/19/54/12/96/38/66/41/63/23/56/04885626471501285154.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/19/54/12/96/38/66/41/63/23/56/04885626471501285154.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/19/54/12/96/38/66/41/63/23/56/04885626471501285154.png"
+    }
+  },
+  {
+    "gid_ref": 209799,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Feride Talk Toz Bebek Pudrası 75gr X 3 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740222098431,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653362513,
+      "__unknown_productSubTitle": "Feride Talk Toz Bebek Pudrası 75gr X 3 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

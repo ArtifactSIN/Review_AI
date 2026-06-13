@@ -1,0 +1,102 @@
+[
+  {
+    "gid_ref": 825041,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tdt Tyres 300-18 Tt Tubetype - İç Lastikli Tip Motosiklet Lastiği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754685471956,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592503797,
+      "__unknown_productSubTitle": "Tdt Tyres 300-18 Tt Tubetype - İç Lastikli Tip Motosiklet Lastiği",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 825042,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tdt Tyres 300-18 Tt Tubetype - İç Lastikli Tip Motosiklet Lastiği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720039683322,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592503797,
+      "__unknown_productSubTitle": "Tdt Tyres 300-18 Tt Tubetype - İç Lastikli Tip Motosiklet Lastiği",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 825043,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tdt Tyres 300-18 Tt Tubetype - İç Lastikli Tip Motosiklet Lastiği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710956204414,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/20/46/85/26/43/48/73/02/47/89/1781094612731381452.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592503797,
+      "__unknown_productSubTitle": "Tdt Tyres 300-18 Tt Tubetype - İç Lastikli Tip Motosiklet Lastiği",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4179926,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/20/46/85/26/43/48/73/02/47/89/1781094612731381452.jpg"
+        },
+        {
+          "id": 4179927,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/20/71/19/01/28/45/45/62/77/26/87321566113745029673.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/20/46/85/26/43/48/73/02/47/89/1781094612731381452.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/20/46/85/26/43/48/73/02/47/89/1781094612731381452.jpg"
+    }
+  },
+  {
+    "gid_ref": 825044,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tdt Tyres 300-18 Tt Tubetype - İç Lastikli Tip Motosiklet Lastiği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1706892210778,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/02/49/49/04/97/85/89/88/75/54/67373265242159757065.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592503797,
+      "__unknown_productSubTitle": "Tdt Tyres 300-18 Tt Tubetype - İç Lastikli Tip Motosiklet Lastiği",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3319829,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/02/49/49/04/97/85/89/88/75/54/67373265242159757065.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/02/49/49/04/97/85/89/88/75/54/67373265242159757065.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/02/49/49/04/97/85/89/88/75/54/67373265242159757065.jpg"
+    }
+  }
+]

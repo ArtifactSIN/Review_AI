@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 846193,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Lifter Liner Dudak Kalemi 07 Big Lift",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771507104414,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645401366,
+      "__unknown_productSubTitle": "Maybelline New York Lifter Liner Dudak Kalemi 07 Big Lift",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 846194,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Lifter Liner Dudak Kalemi 07 Big Lift",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1736773735102,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/13/56/07/87/02/16/99/98/63/52/34219902665467212538.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645401366,
+      "__unknown_productSubTitle": "Maybelline New York Lifter Liner Dudak Kalemi 07 Big Lift",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6690630,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/13/56/07/87/02/16/99/98/63/52/34219902665467212538.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/13/56/07/87/02/16/99/98/63/52/34219902665467212538.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/13/56/07/87/02/16/99/98/63/52/34219902665467212538.jpg"
+    }
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 802828,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ice Quard Kayak Snowboard Çorabı %60 Yün Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738511916897,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1742216539729,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 622801838,
+      "__unknown_productSubTitle": "Ice Quard Kayak Snowboard Çorabı %60 Yün Antrasit 45 - 47",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802829,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ice Quard Kayak Snowboard Çorabı %60 Yün Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709004753524,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1742216539224,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 563335491,
+      "__unknown_productSubTitle": "Ice Quard Kayak Snowboard Çorabı %60 Yün Antrasit 36 - 38",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802830,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ice Quard Kayak Snowboard Çorabı %60 Yün Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1708342646387,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/19/60/02/88/46/89/14/29/69/14/98186453831840086253.jpg",
+      "__unknown_lastModifiedDate": 1742216539224,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 563335491,
+      "__unknown_productSubTitle": "Ice Quard Kayak Snowboard Çorabı %60 Yün Antrasit 36 - 38",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3927504,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/19/60/02/88/46/89/14/29/69/14/98186453831840086253.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/19/60/02/88/46/89/14/29/69/14/98186453831840086253.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/19/60/02/88/46/89/14/29/69/14/98186453831840086253.jpg"
+    }
+  }
+]

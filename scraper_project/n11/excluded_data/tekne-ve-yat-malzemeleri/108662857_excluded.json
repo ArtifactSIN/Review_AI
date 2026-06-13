@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 1249368,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motul Outboard Tech 4t 10w40 - 1 Litre-Nmma Fc-W",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727099005721,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/23/52/45/73/90/02/29/66/65/81/39220241326176778899.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 108662857,
+      "__unknown_productSubTitle": "Motul Outboard Tech 4t 10w40 - 1 Litre-Nmma Fc-W",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5736655,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/23/52/45/73/90/02/29/66/65/81/39220241326176778899.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/23/52/45/73/90/02/29/66/65/81/39220241326176778899.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/23/52/45/73/90/02/29/66/65/81/39220241326176778899.jpg"
+    }
+  },
+  {
+    "gid_ref": 1249369,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motul Outboard Tech 4t 10w40 - 1 Litre-Nmma Fc-W",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721416048858,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 108662857,
+      "__unknown_productSubTitle": "Motul Outboard Tech 4t 10w40 - 1 Litre-Nmma Fc-W",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1249370,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motul Outboard Tech 4t 10w40 - 1 Litre-Nmma Fc-W",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1679412711067,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 108662857,
+      "__unknown_productSubTitle": "Motul Outboard Tech 4t 10w40 - 1 Litre-Nmma Fc-W",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1249371,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motul Outboard Tech 4t 10w40 - 1 Litre-Nmma Fc-W",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1676550449017,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 108662857,
+      "__unknown_productSubTitle": "Motul Outboard Tech 4t 10w40 - 1 Litre-Nmma Fc-W",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

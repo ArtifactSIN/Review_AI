@@ -1,0 +1,102 @@
+[
+  {
+    "gid_ref": 921044,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wooddy Ahşap Standlı Kesme Tahtası Seti 3'lü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726573157533,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/17/83/38/85/30/98/81/74/24/44/66873148869343201001.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597931328,
+      "__unknown_productSubTitle": "Wooddy Ahşap Standlı Kesme Tahtası Seti 3'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5688209,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/17/83/38/85/30/98/81/74/24/44/66873148869343201001.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/17/83/38/85/30/98/81/74/24/44/66873148869343201001.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/17/83/38/85/30/98/81/74/24/44/66873148869343201001.png"
+    }
+  },
+  {
+    "gid_ref": 921045,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wooddy Ahşap Standlı Kesme Tahtası Seti 3'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710956919349,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598296268,
+      "__unknown_productSubTitle": "Wooddy Ahşap Standlı Kesme Tahtası Seti 3'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 921046,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wooddy Ahşap Standlı Kesme Tahtası Seti 3'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709732572221,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598296268,
+      "__unknown_productSubTitle": "Wooddy Ahşap Standlı Kesme Tahtası Seti 3'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 921047,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wooddy Ahşap Standlı Kesme Tahtası Seti 3'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709051516281,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/27/51/86/46/86/20/49/58/35/16/66866479367317074820.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598296268,
+      "__unknown_productSubTitle": "Wooddy Ahşap Standlı Kesme Tahtası Seti 3'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3997854,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/27/51/86/46/86/20/49/58/35/16/66866479367317074820.jpg"
+        },
+        {
+          "id": 3997855,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/27/65/73/41/10/85/98/08/92/16/2878431808578630474.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/27/51/86/46/86/20/49/58/35/16/66866479367317074820.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/27/51/86/46/86/20/49/58/35/16/66866479367317074820.jpg"
+    }
+  }
+]

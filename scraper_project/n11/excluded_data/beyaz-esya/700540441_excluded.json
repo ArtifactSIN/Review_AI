@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 301979,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Altus AL 38 I 60 CM Sürgülü Ankastre Aspritaör Inox",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774562504440,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774562504440,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700540441,
+      "__unknown_productSubTitle": "Altus AL 38 I 60 CM Sürgülü Ankastre Aspritaör Inox",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 301980,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Altus AL 38 I 60 CM Sürgülü Ankastre Aspritaör Inox",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767014870111,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700540441,
+      "__unknown_productSubTitle": "Altus AL 38 I 60 CM Sürgülü Ankastre Aspritaör Inox",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 301981,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Altus AL 38 I 60 CM Sürgülü Ankastre Aspritaör Inox",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764600202118,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/01/70/48/28/93/00/90/29/04/57/7219151631763654615.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700540441,
+      "__unknown_productSubTitle": "Altus AL 38 I 60 CM Sürgülü Ankastre Aspritaör Inox",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8051679,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/01/70/48/28/93/00/90/29/04/57/7219151631763654615.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/01/70/48/28/93/00/90/29/04/57/7219151631763654615.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/01/70/48/28/93/00/90/29/04/57/7219151631763654615.png"
+    }
+  },
+  {
+    "gid_ref": 301982,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Altus AL 38 I 60 CM Sürgülü Ankastre Aspritaör Inox",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1751281303075,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667413186,
+      "__unknown_productSubTitle": "Altus AL 38 I 60 CM Sürgülü Ankastre Aspritaör Inox",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

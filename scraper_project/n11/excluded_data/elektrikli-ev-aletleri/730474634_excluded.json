@@ -1,0 +1,102 @@
+[
+  {
+    "gid_ref": 484787,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig Svc 65 8919071600 Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775243653335,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/03/50/93/28/96/66/25/76/26/93/68153288560823941199.png",
+      "__unknown_lastModifiedDate": 1775243653335,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730474634,
+      "__unknown_productSubTitle": "Grundig Svc 65 8919071600 Renkli Çok",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8567712,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/03/50/93/28/96/66/25/76/26/93/68153288560823941199.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/03/50/93/28/96/66/25/76/26/93/68153288560823941199.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/03/50/93/28/96/66/25/76/26/93/68153288560823941199.png"
+    }
+  },
+  {
+    "gid_ref": 484788,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig Svc 65 8919071600 Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775072919901,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/63/64/35/11/46/01/07/16/81/83441446794377475869.png",
+      "__unknown_lastModifiedDate": 1775072919901,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730474634,
+      "__unknown_productSubTitle": "Grundig Svc 65 8919071600 Renkli Çok",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8561570,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/63/64/35/11/46/01/07/16/81/83441446794377475869.png"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/63/64/35/11/46/01/07/16/81/83441446794377475869.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/63/64/35/11/46/01/07/16/81/83441446794377475869.png"
+    }
+  },
+  {
+    "gid_ref": 484789,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig Svc 65 8919071600 Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774284143435,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774284143435,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730474634,
+      "__unknown_productSubTitle": "Grundig Svc 65 8919071600 Renkli Çok",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 484790,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig Svc 65 8919071600 Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773132635119,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773132635119,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730474634,
+      "__unknown_productSubTitle": "Grundig Svc 65 8919071600 Renkli Çok",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

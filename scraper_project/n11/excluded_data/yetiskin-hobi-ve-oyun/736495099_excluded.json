@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1495251,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rock Crawler Araba Pili 4.8v 2700mah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732098748768,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561583069,
+      "__unknown_productSubTitle": "Rock Crawler Araba Pili 4.8v 2700mah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1495252,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rock Crawler Araba Pili 4.8v 2700mah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717920175459,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/09/50/72/29/73/61/63/95/79/66/55088249530360875867.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561583069,
+      "__unknown_productSubTitle": "Rock Crawler Araba Pili 4.8v 2700mah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4918511,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/09/50/72/29/73/61/63/95/79/66/55088249530360875867.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/09/50/72/29/73/61/63/95/79/66/55088249530360875867.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/09/50/72/29/73/61/63/95/79/66/55088249530360875867.png"
+    }
+  },
+  {
+    "gid_ref": 1495253,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rock Crawler Araba Pili 4.8v 2700mah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711458486806,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561583069,
+      "__unknown_productSubTitle": "Rock Crawler Araba Pili 4.8v 2700mah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

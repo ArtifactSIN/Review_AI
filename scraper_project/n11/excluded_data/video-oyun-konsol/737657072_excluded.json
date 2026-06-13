@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1345534,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lego Marvel Super Heroes 2 Nintendo Switch Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721016898703,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 355983296,
+      "__unknown_productSubTitle": "Lego Marvel Super Heroes 2 Nintendo Switch Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1345535,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Teşekkürler👍",
+      "productTitle": "Lego Marvel Super Heroes 2 Nintendo Switch Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1579963820536,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 355983296,
+      "__unknown_productSubTitle": "Lego Marvel Super Heroes 2 Nintendo Switch Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

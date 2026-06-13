@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 277080,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bebehum 4 Bebek Sütü 800 Gr 12+ay",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769616400628,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 704960456,
+      "__unknown_productSubTitle": "Bebehum 4 Bebek Sütü 800 Gr 12+ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 277081,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bebehum 4 Bebek Sütü 800 Gr 12+ay",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765915308205,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/16/69/09/07/29/94/15/91/87/86/945292270678359544.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 704960456,
+      "__unknown_productSubTitle": "Bebehum 4 Bebek Sütü 800 Gr 12+ay",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8126078,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/16/69/09/07/29/94/15/91/87/86/945292270678359544.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/16/69/09/07/29/94/15/91/87/86/945292270678359544.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/16/69/09/07/29/94/15/91/87/86/945292270678359544.png"
+    }
+  },
+  {
+    "gid_ref": 277082,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bebehum 4 Bebek Sütü 800 Gr 12+ay",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765323774901,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 704960456,
+      "__unknown_productSubTitle": "Bebehum 4 Bebek Sütü 800 Gr 12+ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

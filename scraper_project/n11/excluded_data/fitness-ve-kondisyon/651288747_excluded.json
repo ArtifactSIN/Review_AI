@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 744751,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hıq High Pro+ 2 Kg Tasty Banana Flavored",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764139193115,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651288747,
+      "__unknown_productSubTitle": "Hıq High Pro+ 2 Kg Tasty Banana Flavored",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 744752,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hıq High Pro+ 2 Kg Tasty Banana Flavored",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761341260708,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651288747,
+      "__unknown_productSubTitle": "Hıq High Pro+ 2 Kg Tasty Banana Flavored",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

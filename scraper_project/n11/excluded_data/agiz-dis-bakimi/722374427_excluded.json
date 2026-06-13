@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 30000,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Marvis Amarelli Licorice Diş Macunu 25 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729073900159,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/16/90/71/86/47/48/52/71/90/81/27014470813707451433.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606780743,
+      "__unknown_productSubTitle": "Marvis Amarelli Licorice Diş Macunu 25 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5938715,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/16/90/71/86/47/48/52/71/90/81/27014470813707451433.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/16/90/71/86/47/48/52/71/90/81/27014470813707451433.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/16/90/71/86/47/48/52/71/90/81/27014470813707451433.png"
+    }
+  },
+  {
+    "gid_ref": 30001,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Marvis Amarelli Licorice Diş Macunu 25 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728396525943,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606780743,
+      "__unknown_productSubTitle": "Marvis Amarelli Licorice Diş Macunu 25 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 30002,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Marvis Amarelli Licorice Diş Macunu 25 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722593756509,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606780743,
+      "__unknown_productSubTitle": "Marvis Amarelli Licorice Diş Macunu 25 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

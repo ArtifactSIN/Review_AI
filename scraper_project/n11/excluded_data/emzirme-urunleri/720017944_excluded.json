@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 498882,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Baby Mom Emzirme Takip Bilekliği",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728919568671,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595280953,
+      "__unknown_productSubTitle": "Baby Mom Emzirme Takip Bilekliği",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 498883,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Baby Mom Emzirme Takip Bilekliği",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1723547814853,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/13/72/06/08/29/05/98/54/55/41/82827903685573849174.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595280953,
+      "__unknown_productSubTitle": "Baby Mom Emzirme Takip Bilekliği",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5400822,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/13/72/06/08/29/05/98/54/55/41/82827903685573849174.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/13/72/06/08/29/05/98/54/55/41/82827903685573849174.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/13/72/06/08/29/05/98/54/55/41/82827903685573849174.png"
+    }
+  },
+  {
+    "gid_ref": 498884,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Baby Mom Emzirme Takip Bilekliği",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715376824849,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569331214,
+      "__unknown_productSubTitle": "BYM-LEA01",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 498885,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Baby Mom Emzirme Takip Bilekliği",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708707420198,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595280953,
+      "__unknown_productSubTitle": "Baby Mom Emzirme Takip Bilekliği",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 498886,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Baby Mom Emzirme Takip Bilekliği",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1696971939628,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569331214,
+      "__unknown_productSubTitle": "BYM-LEA01",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

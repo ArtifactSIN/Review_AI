@@ -1,0 +1,65 @@
+[
+  {
+    "gid_ref": 258961,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "üretim kalitesi kötü",
+      "productTitle": "Prizmatik. Çocuk Koruma Kapağı Paket-100 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1552126457200,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 88649256,
+      "__unknown_productSubTitle": "Prizmatik. Çocuk Koruma Kapağı Paket-100 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 258962,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Okullarda zorunlu malzeme",
+      "productTitle": "Prizmatik. Çocuk Koruma Kapağı Paket-100 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1546717835413,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 88649256,
+      "__unknown_productSubTitle": "Prizmatik. Çocuk Koruma Kapağı Paket-100 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 258963,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güvenliik",
+      "productTitle": "Prizmatik. Çocuk Koruma Kapağı Paket-100 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1542021114838,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 88649256,
+      "__unknown_productSubTitle": "Prizmatik. Çocuk Koruma Kapağı Paket-100 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

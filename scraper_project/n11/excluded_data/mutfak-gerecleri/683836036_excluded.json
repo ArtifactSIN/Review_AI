@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 932521,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vestel Hassas Tartı - 20244905",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755060610277,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633311562,
+      "__unknown_productSubTitle": "Vestel Hassas Tartı - 20244905",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 932522,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vestel Hassas Tartı - 20244905",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754603507363,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633311562,
+      "__unknown_productSubTitle": "Vestel Hassas Tartı - 20244905",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 932523,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vestel Hassas Tartı - 20244905",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752073589847,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/09/86/77/99/63/96/73/77/88/46/81732880934716489023.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633311562,
+      "__unknown_productSubTitle": "Vestel Hassas Tartı - 20244905",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7382581,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/09/86/77/99/63/96/73/77/88/46/81732880934716489023.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/09/86/77/99/63/96/73/77/88/46/81732880934716489023.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/09/86/77/99/63/96/73/77/88/46/81732880934716489023.jpeg"
+    }
+  },
+  {
+    "gid_ref": 932524,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vestel Hassas Tartı - 20244905",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1751657206161,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682043121,
+      "__unknown_productSubTitle": "Vestel Hassas Tartı - 20244905",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

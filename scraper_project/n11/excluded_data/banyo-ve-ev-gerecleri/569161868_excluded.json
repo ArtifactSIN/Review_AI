@@ -1,0 +1,105 @@
+[
+  {
+    "gid_ref": 149455,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hms Beyaz Arıtmalı 3 Yollu Mutfak Eviye Bataryası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775331748470,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/04/74/62/18/77/12/75/41/19/51/53625418659308193207.jpg",
+      "__unknown_lastModifiedDate": 1775331748470,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569161868,
+      "__unknown_productSubTitle": "Hms Beyaz Arıtmalı 3 Yollu Mutfak Eviye Bataryası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8568928,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/04/74/62/18/77/12/75/41/19/51/53625418659308193207.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/04/74/62/18/77/12/75/41/19/51/53625418659308193207.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/04/74/62/18/77/12/75/41/19/51/53625418659308193207.jpg"
+    }
+  },
+  {
+    "gid_ref": 149456,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hms Beyaz Arıtmalı 3 Yollu Mutfak Eviye Bataryası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772991848177,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772991848177,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569161868,
+      "__unknown_productSubTitle": "Hms Beyaz Arıtmalı 3 Yollu Mutfak Eviye Bataryası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 149457,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hms Beyaz Arıtmalı 3 Yollu Mutfak Eviye Bataryası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771866466503,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/23/76/63/26/74/21/14/82/06/95/34068816972846118269.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569161868,
+      "__unknown_productSubTitle": "Hms Beyaz Arıtmalı 3 Yollu Mutfak Eviye Bataryası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8405213,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/23/76/63/26/74/21/14/82/06/95/34068816972846118269.jpg"
+        },
+        {
+          "id": 8405214,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/23/61/35/90/75/13/94/24/85/80/64427140246358702571.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/23/76/63/26/74/21/14/82/06/95/34068816972846118269.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/23/76/63/26/74/21/14/82/06/95/34068816972846118269.jpg"
+    }
+  },
+  {
+    "gid_ref": 149458,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hms Beyaz Arıtmalı 3 Yollu Mutfak Eviye Bataryası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761142228527,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569161868,
+      "__unknown_productSubTitle": "Hms Beyaz Arıtmalı 3 Yollu Mutfak Eviye Bataryası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

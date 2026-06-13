@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 946163,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cem Karaca - 1 Mayıs Plak Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1753467037745,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 393402990,
+      "__unknown_productSubTitle": "Cem Karaca - 1 Mayıs Plak Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946164,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cem Karaca - 1 Mayıs Plak Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1720631341593,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/10/69/01/44/84/21/55/16/02/53/21250436984712379431.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 393402990,
+      "__unknown_productSubTitle": "Cem Karaca - 1 Mayıs Plak Plak",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5172076,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/10/69/01/44/84/21/55/16/02/53/21250436984712379431.png"
+        },
+        {
+          "id": 5172077,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/10/65/55/94/02/89/28/97/25/68/51436615656335559175.png"
+        },
+        {
+          "id": 5172078,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/10/64/79/80/50/85/67/22/55/72/03357651740915839648.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/10/69/01/44/84/21/55/16/02/53/21250436984712379431.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/10/69/01/44/84/21/55/16/02/53/21250436984712379431.png"
+    }
+  }
+]

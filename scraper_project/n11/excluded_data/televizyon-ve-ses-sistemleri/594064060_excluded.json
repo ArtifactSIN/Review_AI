@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 1314320,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "7.4v 2600mah Li-ıon Bms 18650 Şarjlı Pil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760700566768,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/17/73/31/69/77/82/24/86/98/39/8937682347123885591.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594064060,
+      "__unknown_productSubTitle": "7.4v 2600mah Li-ıon Bms 18650 Şarjlı Pil",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7812538,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/17/73/31/69/77/82/24/86/98/39/8937682347123885591.png"
+        },
+        {
+          "id": 7812539,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/17/71/19/75/37/74/34/79/00/85/13188947314223105875.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/17/73/31/69/77/82/24/86/98/39/8937682347123885591.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/17/73/31/69/77/82/24/86/98/39/8937682347123885591.png"
+    }
+  },
+  {
+    "gid_ref": 1314321,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "7.4v 2600mah Li-ıon Bms 18650 Şarjlı Pil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760435897677,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594064060,
+      "__unknown_productSubTitle": "7.4v 2600mah Li-ıon Bms 18650 Şarjlı Pil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1314322,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "7.4v 2600mah Li-ıon Bms 18650 Şarjlı Pil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759162865444,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/29/76/38/58/40/28/46/76/32/68/55568545094361529170.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594064060,
+      "__unknown_productSubTitle": "7.4v 2600mah Li-ıon Bms 18650 Şarjlı Pil",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7729391,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/29/76/38/58/40/28/46/76/32/68/55568545094361529170.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/29/76/38/58/40/28/46/76/32/68/55568545094361529170.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/29/76/38/58/40/28/46/76/32/68/55568545094361529170.jpg"
+    }
+  },
+  {
+    "gid_ref": 1314323,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "7.4v 2600mah Li-ıon Bms 18650 Şarjlı Pil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736956635934,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/15/60/00/95/70/42/97/36/75/31/72393733721601914342.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594064060,
+      "__unknown_productSubTitle": "7.4v 2600mah Li-ıon Bms 18650 Şarjlı Pil",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6709810,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/15/60/00/95/70/42/97/36/75/31/72393733721601914342.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/15/60/00/95/70/42/97/36/75/31/72393733721601914342.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/15/60/00/95/70/42/97/36/75/31/72393733721601914342.png"
+    }
+  }
+]

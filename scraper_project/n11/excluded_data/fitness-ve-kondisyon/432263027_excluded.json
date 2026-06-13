@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 737490,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Muscle Station Supreme Protein Bar Chocolate Chunks 40 G 24 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1737542331963,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/22/81/38/46/49/45/13/46/39/23/24599753641441838018.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 432263027,
+      "__unknown_productSubTitle": "Muscle Station Supreme Protein Bar Chocolate Chunks 40 G 24 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6738307,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/22/81/38/46/49/45/13/46/39/23/24599753641441838018.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/22/81/38/46/49/45/13/46/39/23/24599753641441838018.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/22/81/38/46/49/45/13/46/39/23/24599753641441838018.jpg"
+    }
+  },
+  {
+    "gid_ref": 737491,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Muscle Station Supreme Protein Bar Chocolate Chunks 40 G 24 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1679588549522,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 432263027,
+      "__unknown_productSubTitle": "Muscle Station Supreme Protein Bar Chocolate Chunks 40 G 24 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 737492,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Muscle Station Supreme Protein Bar Chocolate Chunks 40 G 24 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1678890465087,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 432263027,
+      "__unknown_productSubTitle": "Muscle Station Supreme Protein Bar Chocolate Chunks 40 G 24 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

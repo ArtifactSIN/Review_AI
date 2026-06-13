@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 1124047,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grenade Thermo Detonator 100  Kapsül",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758545304398,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675300369,
+      "__unknown_productSubTitle": "Grenade Thermo Detonator 100  Kapsül",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1124048,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grenade Thermo Detonator 100  Kapsül",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758545182799,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675300369,
+      "__unknown_productSubTitle": "Grenade Thermo Detonator 100  Kapsül",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1124049,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grenade Thermo Detonator 100  Kapsül",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715172914062,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 55938104,
+      "__unknown_productSubTitle": "Grenade Thermo Detonator 100  Kapsül",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1124050,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grenade Thermo Detonator 100  Kapsül",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714980098969,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/06/72/69/89/93/49/55/90/36/59/65300956488537846335.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 55938104,
+      "__unknown_productSubTitle": "Grenade Thermo Detonator 100  Kapsül",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4603906,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/06/72/69/89/93/49/55/90/36/59/65300956488537846335.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/06/72/69/89/93/49/55/90/36/59/65300956488537846335.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/06/72/69/89/93/49/55/90/36/59/65300956488537846335.png"
+    }
+  }
+]

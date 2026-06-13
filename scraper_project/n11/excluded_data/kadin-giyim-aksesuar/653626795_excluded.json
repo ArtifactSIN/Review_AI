@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 776270,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DeFacto Yüksek Bel Geniş Paça Jean Pantolon D7972AX25SPNM28",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768679239970,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653626800,
+      "__unknown_productSubTitle": "DeFacto Yüksek Bel Geniş Paça Jean Pantolon D7972AX25SPNM28 34",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 776271,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DeFacto Yüksek Bel Geniş Paça Jean Pantolon D7972AX25SPNM28",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1746245645663,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/03/66/71/77/62/64/37/01/34/97/52131027029719168954.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653626799,
+      "__unknown_productSubTitle": "Defacto Yüksek Bel Geniş Paça Jean Pantolon D7972ax25spnm28 Mavi 44 - 44",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7171316,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/03/66/71/77/62/64/37/01/34/97/52131027029719168954.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/03/66/71/77/62/64/37/01/34/97/52131027029719168954.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/03/66/71/77/62/64/37/01/34/97/52131027029719168954.png"
+    }
+  }
+]

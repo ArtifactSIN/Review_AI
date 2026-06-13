@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 1223223,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alpro Barista Profesyonel Yulaf Sütü 4 x 1 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771057373198,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629214396,
+      "__unknown_productSubTitle": "Alpro Barista Profesyonel Yulaf Sütü 4 x 1 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1223224,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alpro Barista Profesyonel Yulaf Sütü 4 x 1 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738408325148,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629214396,
+      "__unknown_productSubTitle": "Alpro Barista Profesyonel Yulaf Sütü 4 x 1 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1223225,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alpro Barista Profesyonel Yulaf Sütü 4 x 1 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730385830866,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629214396,
+      "__unknown_productSubTitle": "Alpro Barista Profesyonel Yulaf Sütü 4 x 1 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1223226,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alpro Barista Profesyonel Yulaf Sütü 4 x 1 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729959430724,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629214396,
+      "__unknown_productSubTitle": "Alpro Barista Profesyonel Yulaf Sütü 4 x 1 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

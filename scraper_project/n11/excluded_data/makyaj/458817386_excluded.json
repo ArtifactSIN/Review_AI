@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 836324,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tca Studio Make-Up Göz Farı Eyeshadow Terra 13",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730587755669,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/03/52/66/30/36/19/87/22/03/59/86482684518074238667.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 458817386,
+      "__unknown_productSubTitle": "Tca Studio Make-Up Göz Farı Eyeshadow Terra 13",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6116459,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/03/52/66/30/36/19/87/22/03/59/86482684518074238667.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/03/52/66/30/36/19/87/22/03/59/86482684518074238667.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/03/52/66/30/36/19/87/22/03/59/86482684518074238667.jpg"
+    }
+  },
+  {
+    "gid_ref": 836325,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tca Studio Make-Up Göz Farı Eyeshadow Terra 13",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1722607817827,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 458817386,
+      "__unknown_productSubTitle": "Tca Studio Make-Up Göz Farı Eyeshadow Terra 13",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

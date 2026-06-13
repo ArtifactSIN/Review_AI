@@ -1,0 +1,65 @@
+[
+  {
+    "gid_ref": 734800,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Sorunsuz :=)",
+      "productTitle": "Dvd-Smash Season One (Smash Sezon Bir 4 Dvd Box Set)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1665646647184,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 124568008,
+      "__unknown_productSubTitle": "Dvd-Smash Season One (Smash Sezon Bir 4 Dvd Box Set)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734801,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "memnunum",
+      "productTitle": "Dvd-Smash Season One (Smash Sezon Bir 4 Dvd Box Set)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1630667881379,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 124568008,
+      "__unknown_productSubTitle": "Dvd-Smash Season One (Smash Sezon Bir 4 Dvd Box Set)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734802,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "evet",
+      "productTitle": "Dvd-Smash Season One (Smash Sezon Bir 4 Dvd Box Set)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1567522389589,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 124568008,
+      "__unknown_productSubTitle": "Dvd-Smash Season One (Smash Sezon Bir 4 Dvd Box Set)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

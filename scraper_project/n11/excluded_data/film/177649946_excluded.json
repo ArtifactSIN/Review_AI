@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 735163,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-Çakmaktaşlar Taş Vegas'Ta",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765290604331,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 177649946,
+      "__unknown_productSubTitle": "Dvd-Çakmaktaşlar Taş Vegas'Ta",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735164,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-Çakmaktaşlar Taş Vegas'Ta",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742296318806,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 177649946,
+      "__unknown_productSubTitle": "Dvd-Çakmaktaşlar Taş Vegas'Ta",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735165,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-Çakmaktaşlar Taş Vegas'Ta",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729099464678,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 177649946,
+      "__unknown_productSubTitle": "Dvd-Çakmaktaşlar Taş Vegas'Ta",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

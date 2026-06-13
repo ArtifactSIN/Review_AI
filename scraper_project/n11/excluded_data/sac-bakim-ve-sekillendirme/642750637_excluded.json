@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1055946,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jetline Jet-9001 Turbo 3500 Profesyonel Fön Makinesi + Vigo Başlık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763385455937,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/17/90/78/26/73/09/69/82/54/85/16078455573538125671.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642750637,
+      "__unknown_productSubTitle": "Jetline Jet-9001 Turbo 3500 Profesyonel Fön Makinesi + Vigo Başlık Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7987252,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/17/90/78/26/73/09/69/82/54/85/16078455573538125671.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/17/90/78/26/73/09/69/82/54/85/16078455573538125671.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/17/90/78/26/73/09/69/82/54/85/16078455573538125671.png"
+    }
+  },
+  {
+    "gid_ref": 1055947,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jetline Jet-9001 Turbo 3500 Profesyonel Fön Makinesi + Vigo Başlık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761165462311,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642750637,
+      "__unknown_productSubTitle": "Jetline Jet-9001 Turbo 3500 Profesyonel Fön Makinesi + Vigo Başlık Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1128895,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Voonka Collagen Bonafix Powder 410 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766773631446,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 694213001,
+      "__unknown_productSubTitle": "Voonka Collagen Bonafix Powder 410 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1128896,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Voonka Collagen Bonafix Powder 410 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739708440253,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/16/87/80/24/49/09/57/60/47/29/0132154120068416964.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646595235,
+      "__unknown_productSubTitle": "Voonka Collagen Bonafix Powder 410 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6855360,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/16/87/80/24/49/09/57/60/47/29/0132154120068416964.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/16/87/80/24/49/09/57/60/47/29/0132154120068416964.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/16/87/80/24/49/09/57/60/47/29/0132154120068416964.png"
+    }
+  }
+]

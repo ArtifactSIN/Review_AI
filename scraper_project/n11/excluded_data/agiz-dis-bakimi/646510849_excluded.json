@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 23113,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensodyne Diş Macunu Beyazlatıcı Onarım Ve Koruma 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763460755759,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/18/85/69/48/15/20/18/83/35/31/41406598052777866353.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646510849,
+      "__unknown_productSubTitle": "Sensodyne Diş Macunu Beyazlatıcı Onarım Ve Koruma 75 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7986516,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/18/85/69/48/15/20/18/83/35/31/41406598052777866353.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/18/85/69/48/15/20/18/83/35/31/41406598052777866353.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/18/85/69/48/15/20/18/83/35/31/41406598052777866353.jpg"
+    }
+  },
+  {
+    "gid_ref": 23114,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensodyne Diş Macunu Beyazlatıcı Onarım Ve Koruma 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763247234757,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/16/77/24/10/30/90/69/18/41/86/81695572181654158116.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646510849,
+      "__unknown_productSubTitle": "Sensodyne Diş Macunu Beyazlatıcı Onarım Ve Koruma 75 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7980366,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/16/77/24/10/30/90/69/18/41/86/81695572181654158116.png"
+        },
+        {
+          "id": 7980367,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/16/89/99/44/76/58/32/82/53/71/42600166657462126959.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/16/77/24/10/30/90/69/18/41/86/81695572181654158116.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/16/77/24/10/30/90/69/18/41/86/81695572181654158116.png"
+    }
+  }
+]

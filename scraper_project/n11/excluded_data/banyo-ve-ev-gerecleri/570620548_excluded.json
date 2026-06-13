@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 149621,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Creavit TP325 Terra Asma Kanallı Klozet Yavaş Kapak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739246030677,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638990718,
+      "__unknown_productSubTitle": "Creavit TP325 Terra Asma Kanallı Klozet Yavaş Kapak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 149622,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Creavit TP325 Terra Asma Kanallı Klozet Yavaş Kapak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726152183349,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/12/81/43/69/19/32/50/35/53/42/6854162789233541777.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 570620548,
+      "__unknown_productSubTitle": "Creavit TP325 Terra Asma Kanallı Klozet Yavaş Kapak",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5648372,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/12/81/43/69/19/32/50/35/53/42/6854162789233541777.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/12/81/43/69/19/32/50/35/53/42/6854162789233541777.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/12/81/43/69/19/32/50/35/53/42/6854162789233541777.png"
+    }
+  }
+]

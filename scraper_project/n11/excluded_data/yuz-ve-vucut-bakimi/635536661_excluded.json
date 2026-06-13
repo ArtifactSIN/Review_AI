@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1511529,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "PiePierre Cardin Deep Ocean Liquid Hand Wash 480 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774516403379,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774516403379,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635536661,
+      "__unknown_productSubTitle": "PiePierre Cardin Deep Ocean Liquid Hand Wash 480 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1511530,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "PiePierre Cardin Deep Ocean Liquid Hand Wash 480 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764757434656,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/03/80/31/77/07/43/77/51/77/30/78237627663811430012.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635536661,
+      "__unknown_productSubTitle": "PiePierre Cardin Deep Ocean Liquid Hand Wash 480 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8068702,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/03/80/31/77/07/43/77/51/77/30/78237627663811430012.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/03/80/31/77/07/43/77/51/77/30/78237627663811430012.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/03/80/31/77/07/43/77/51/77/30/78237627663811430012.png"
+    }
+  },
+  {
+    "gid_ref": 1511531,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "PiePierre Cardin Deep Ocean Liquid Hand Wash 480 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759158607934,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635536661,
+      "__unknown_productSubTitle": "PiePierre Cardin Deep Ocean Liquid Hand Wash 480 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

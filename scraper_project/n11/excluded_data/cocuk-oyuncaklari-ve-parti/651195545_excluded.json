@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 396955,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Harry Potter 76435 Hogwarts Şatosu: Büyük Salon 1732 Parça",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734602076758,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612149011,
+      "__unknown_productSubTitle": "LEGO® Harry Potter 76435 Hogwarts Şatosu: Büyük Salon 1732 Parça",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 396956,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Harry Potter 76435 Hogwarts Şatosu: Büyük Salon 1732 Parça",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733355915613,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 608639070,
+      "__unknown_productSubTitle": "LEGO® Harry Potter 76435 Hogwarts Şatosu: Büyük Salon 1732 Parça",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

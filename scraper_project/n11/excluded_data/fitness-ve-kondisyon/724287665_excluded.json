@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 747078,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xpro Nutrition L-Carnitine Thermo 1000ml - Karpuz Aromalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774549956387,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774549956387,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724287665,
+      "__unknown_productSubTitle": "Xpro Nutrition L-Carnitine Thermo 1000ml - Karpuz Aromalı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 747079,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xpro Nutrition L-Carnitine Thermo 1000ml - Karpuz Aromalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774539156450,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774539156450,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724287665,
+      "__unknown_productSubTitle": "Xpro Nutrition L-Carnitine Thermo 1000ml - Karpuz Aromalı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 747080,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xpro Nutrition L-Carnitine Thermo 1000ml - Karpuz Aromalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752774826371,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/17/88/06/52/25/74/51/44/25/60/54242376973469305750.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557084440,
+      "__unknown_productSubTitle": "Xpro Nutrition L-Carnitine Thermo 1000ml - Karpuz Aromalı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7445047,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/17/88/06/52/25/74/51/44/25/60/54242376973469305750.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/17/88/06/52/25/74/51/44/25/60/54242376973469305750.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/17/88/06/52/25/74/51/44/25/60/54242376973469305750.png"
+    }
+  }
+]

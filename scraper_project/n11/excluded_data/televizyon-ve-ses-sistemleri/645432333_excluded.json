@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1322189,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vontech Vt-852 Hc Pro 55-85 Çift Kollu Kilitli Hareketli Televizyon Duvar Askı Aparatı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753814886182,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645432333,
+      "__unknown_productSubTitle": "Vontech Vt-852 Hc Pro 55-85 Çift Kollu Kilitli Hareketli Televizyon Duvar Askı Aparatı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1322190,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vontech Vt-852 Hc Pro 55-85 Çift Kollu Kilitli Hareketli Televizyon Duvar Askı Aparatı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732797062934,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/28/79/90/44/58/58/44/44/75/29/34002590005614825315.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645432333,
+      "__unknown_productSubTitle": "Vontech Vt-852 Hc Pro 55-85 Çift Kollu Kilitli Hareketli Televizyon Duvar Askı Aparatı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6354480,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/28/79/90/44/58/58/44/44/75/29/34002590005614825315.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/28/79/90/44/58/58/44/44/75/29/34002590005614825315.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/28/79/90/44/58/58/44/44/75/29/34002590005614825315.png"
+    }
+  }
+]

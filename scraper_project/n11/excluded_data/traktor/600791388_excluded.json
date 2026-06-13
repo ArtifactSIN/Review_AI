@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1335845,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 240 S Ön Teker Janti Jantsa",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720760440877,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600791388,
+      "__unknown_productSubTitle": "Massey Ferguson 240 S Ön Teker Janti Jantsa",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1335846,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 240 S Ön Teker Janti Jantsa",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1700829093636,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/11/24/55/61/80/75/30/61/47/04/62/14027162739396660129.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 503026068,
+      "__unknown_productSubTitle": "Massey Ferguson 240 S Ön Teker Janti Jantsa",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2757544,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/11/24/55/61/80/75/30/61/47/04/62/14027162739396660129.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/11/24/55/61/80/75/30/61/47/04/62/14027162739396660129.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/11/24/55/61/80/75/30/61/47/04/62/14027162739396660129.jpg"
+    }
+  },
+  {
+    "gid_ref": 1335847,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "jant 600*16",
+      "productTitle": "Massey Ferguson 240 S Ön Teker Janti Jantsa",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1664983116554,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 503026068,
+      "__unknown_productSubTitle": "Massey Ferguson 240 S Ön Teker Janti Jantsa",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

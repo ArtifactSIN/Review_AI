@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 826436,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Billas 650-16 10pr Bl120 Traktör Ön Lastiği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775321198053,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/04/63/65/90/46/29/99/18/58/00/76989635183316062074.png",
+      "__unknown_lastModifiedDate": 1775321198053,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640400761,
+      "__unknown_productSubTitle": "Billas 650-16 10pr Bl120 Traktör Ön Lastiği ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8564586,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/04/63/65/90/46/29/99/18/58/00/76989635183316062074.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/04/63/65/90/46/29/99/18/58/00/76989635183316062074.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/04/63/65/90/46/29/99/18/58/00/76989635183316062074.png"
+    }
+  },
+  {
+    "gid_ref": 826437,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Billas 650-16 10pr Bl120 Traktör Ön Lastiği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759744042050,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640400761,
+      "__unknown_productSubTitle": "Billas 650-16 10pr Bl120 Traktör Ön Lastiği ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

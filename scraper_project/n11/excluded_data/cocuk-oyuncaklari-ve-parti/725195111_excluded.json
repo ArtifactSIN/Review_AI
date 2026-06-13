@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 401817,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Milo İnteraktif Peluş Köpek",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772810072403,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724441910,
+      "__unknown_productSubTitle": "Milo İnteraktif Peluş Köpek",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 401818,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Milo İnteraktif Peluş Köpek",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1743946215888,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/06/61/24/04/06/96/16/93/98/73/01749182002156844408.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663793328,
+      "__unknown_productSubTitle": "Milo İnteraktif Peluş Köpek",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7056840,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/06/61/24/04/06/96/16/93/98/73/01749182002156844408.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/06/61/24/04/06/96/16/93/98/73/01749182002156844408.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/06/61/24/04/06/96/16/93/98/73/01749182002156844408.png"
+    }
+  },
+  {
+    "gid_ref": 401819,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Milo İnteraktif Peluş Köpek",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1743692071732,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663793328,
+      "__unknown_productSubTitle": "Milo İnteraktif Peluş Köpek",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

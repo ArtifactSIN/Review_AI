@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 179513,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tommybaby Opera Kabin Bebek Arabası Oto Koltuk Ana Kucağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772216186226,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/27/64/56/44/88/43/63/83/82/90/26788767333303927632.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539552600,
+      "__unknown_productSubTitle": "Tommybaby Opera Kabin Bebek Arabası Oto Koltuk Ana Kucağı Antrasit",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8419971,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/27/91/15/70/63/65/59/16/23/03/62040819680935262433.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/27/64/56/44/88/43/63/83/82/90/26788767333303927632.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/27/64/56/44/88/43/63/83/82/90/26788767333303927632.jpg"
+    }
+  },
+  {
+    "gid_ref": 179514,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tommybaby Opera Kabin Bebek Arabası Oto Koltuk Ana Kucağı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1706259196534,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557974872,
+      "__unknown_productSubTitle": "Tommybaby Opera Kabin Bebek Arabası Oto Koltuk Ana Kucağı Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

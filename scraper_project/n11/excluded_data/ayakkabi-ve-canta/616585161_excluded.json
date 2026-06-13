@@ -1,0 +1,102 @@
+[
+  {
+    "gid_ref": 128372,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ortopedik Spor Sandalet Siyah Fileli Model Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721032501038,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/15/49/40/71/45/44/91/35/61/14/43062256101076910128.png",
+      "__unknown_lastModifiedDate": 1748269869700,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 616585155,
+      "__unknown_productSubTitle": "Ortopedik Spor Sandalet Siyah Fileli Model Siyah 41",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5199898,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/15/49/40/71/45/44/91/35/61/14/43062256101076910128.png"
+        },
+        {
+          "id": 5199899,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/15/71/69/47/24/05/86/18/80/99/74753409025891875868.png"
+        },
+        {
+          "id": 5206750,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/15/51/16/09/60/21/74/02/20/37/65082137982668326636.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/15/49/40/71/45/44/91/35/61/14/43062256101076910128.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/15/49/40/71/45/44/91/35/61/14/43062256101076910128.png"
+    }
+  },
+  {
+    "gid_ref": 128373,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ortopedik Spor Sandalet Siyah Fileli Model Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1687170643800,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1748269849265,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 523388671,
+      "__unknown_productSubTitle": "Ortopedik Spor Sandalet Siyah Fileli Model Siyah 35",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 128374,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ortopedik Spor Sandalet Siyah Fileli Model Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1686668966791,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1748269849265,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 523388671,
+      "__unknown_productSubTitle": "Ortopedik Spor Sandalet Siyah Fileli Model Siyah 35",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 128375,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ortopedik Spor Sandalet Siyah Fileli Model Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1665146171177,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1748269849265,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 523388671,
+      "__unknown_productSubTitle": "Ortopedik Spor Sandalet Siyah Fileli Model Siyah 35",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

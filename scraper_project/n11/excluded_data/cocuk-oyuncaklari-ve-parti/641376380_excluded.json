@@ -1,0 +1,130 @@
+[
+  {
+    "gid_ref": 396426,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tahtalı Çarşı Oyuncak Ahşap Beşik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756825283092,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/02/56/47/95/40/07/88/37/40/01/21498159243642517952.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641376380,
+      "__unknown_productSubTitle": "Tahtalı Çarşı Oyuncak Ahşap Beşik",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7623895,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/02/56/47/95/40/07/88/37/40/01/21498159243642517952.png"
+        },
+        {
+          "id": 7623896,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/02/60/16/06/38/70/50/26/27/17/42030169165969837893.png"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/02/56/47/95/40/07/88/37/40/01/21498159243642517952.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/02/56/47/95/40/07/88/37/40/01/21498159243642517952.png"
+    }
+  },
+  {
+    "gid_ref": 396427,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tahtalı Çarşı Oyuncak Ahşap Beşik",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756668636273,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 435110616,
+      "__unknown_productSubTitle": "Tahtalı Çarşı Oyuncak Ahşap Beşik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 396428,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tahtalı Çarşı Oyuncak Ahşap Beşik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741972261753,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641376380,
+      "__unknown_productSubTitle": "Tahtalı Çarşı Oyuncak Ahşap Beşik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 396429,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tahtalı Çarşı Oyuncak Ahşap Beşik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733054453225,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641376380,
+      "__unknown_productSubTitle": "Tahtalı Çarşı Oyuncak Ahşap Beşik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 396430,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tahtalı Çarşı Oyuncak Ahşap Beşik",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1720635276192,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/10/60/52/25/30/88/99/51/55/40/12244872367424749926.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650410840,
+      "__unknown_productSubTitle": "Tahtalı Çarşı Oyuncak Ahşap Beşik",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5176024,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/10/60/52/25/30/88/99/51/55/40/12244872367424749926.png"
+        },
+        {
+          "id": 5176025,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/10/89/13/58/34/91/63/83/77/05/12041893603276406360.png"
+        },
+        {
+          "id": 5176026,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/10/58/20/40/62/07/63/57/01/33/81813805413920256087.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/10/60/52/25/30/88/99/51/55/40/12244872367424749926.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/10/60/52/25/30/88/99/51/55/40/12244872367424749926.png"
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 375902,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mitas Ocelot 29x2.10 Bisiklet Dış Lastik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773102480455,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773102480455,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 412288400,
+      "__unknown_productSubTitle": "Mitas Ocelot 29x2.10 Bisiklet Dış Lastik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 375903,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mitas Ocelot 29x2.10 Bisiklet Dış Lastik",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1718044800589,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/10/75/41/06/15/27/07/04/01/28/9135561207674551755.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572641866,
+      "__unknown_productSubTitle": "Mitas Ocelot 29x2.10 Bisiklet Dış Lastik",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4931309,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/10/75/41/06/15/27/07/04/01/28/9135561207674551755.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/10/75/41/06/15/27/07/04/01/28/9135561207674551755.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/10/75/41/06/15/27/07/04/01/28/9135561207674551755.png"
+    }
+  },
+  {
+    "gid_ref": 375904,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mitas Ocelot 29x2.10 Bisiklet Dış Lastik",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1681914002210,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572641866,
+      "__unknown_productSubTitle": "Mitas Ocelot 29x2.10 Bisiklet Dış Lastik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

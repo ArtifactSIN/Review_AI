@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 1500541,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rebours Akneli Ciltler için Temizleme Köpüğü 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774967255780,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/86/35/63/40/38/12/81/00/28/47278445200541633534.png",
+      "__unknown_lastModifiedDate": 1774967255780,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 517625020,
+      "__unknown_productSubTitle": "Rebours Akneli Ciltler için Temizleme Köpüğü 150 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8538295,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/86/35/63/40/38/12/81/00/28/47278445200541633534.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/86/35/63/40/38/12/81/00/28/47278445200541633534.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/86/35/63/40/38/12/81/00/28/47278445200541633534.png"
+    }
+  },
+  {
+    "gid_ref": 1500542,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rebours Akneli Ciltler için Temizleme Köpüğü 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773812598061,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/18/75/63/93/99/58/86/18/67/25/13720812970149691904.png",
+      "__unknown_lastModifiedDate": 1773812598061,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 517625020,
+      "__unknown_productSubTitle": "Rebours Akneli Ciltler için Temizleme Köpüğü 150 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8481656,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/18/75/63/93/99/58/86/18/67/25/13720812970149691904.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/18/75/63/93/99/58/86/18/67/25/13720812970149691904.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/18/75/63/93/99/58/86/18/67/25/13720812970149691904.png"
+    }
+  }
+]

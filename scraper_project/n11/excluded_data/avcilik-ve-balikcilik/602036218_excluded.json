@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 120110,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nippon Ghost 600 mt FluoroCarbon Misina - 0.306 MM",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762950714224,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/12/87/04/87/63/20/19/88/24/88/17156381258519262781.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630001259,
+      "__unknown_productSubTitle": "Nippon Ghost 600 mt FluoroCarbon Misina - 0.306 MM ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7960853,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/12/87/04/87/63/20/19/88/24/88/17156381258519262781.png"
+        },
+        {
+          "id": 7960854,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/12/88/74/67/51/42/55/04/15/24/81320462893947635137.png"
+        },
+        {
+          "id": 7960855,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/12/50/01/80/03/96/65/06/56/00/56005746767048784709.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/12/87/04/87/63/20/19/88/24/88/17156381258519262781.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/12/87/04/87/63/20/19/88/24/88/17156381258519262781.png"
+    }
+  },
+  {
+    "gid_ref": 120111,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nippon Ghost 600 mt FluoroCarbon Misina - 0.306 MM",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756821956355,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630001259,
+      "__unknown_productSubTitle": "Nippon Ghost 600 mt FluoroCarbon Misina - 0.306 MM ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 120112,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nippon Ghost 600 mt FluoroCarbon Misina - 0.306 MM",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744702654177,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630001259,
+      "__unknown_productSubTitle": "Nippon Ghost 600 mt FluoroCarbon Misina - 0.306 MM ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 120113,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nippon Ghost 600 mt FluoroCarbon Misina - 0.306 MM",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729747570798,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598476617,
+      "__unknown_productSubTitle": "Nippon Ghost 600 mt FluoroCarbon Misina - 0.306 MM ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

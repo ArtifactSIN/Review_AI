@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 1518475,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cosmed Skinologist 10% Azelaic Solution 15 ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775145537720,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/02/53/37/28/69/09/32/49/05/39/3703944759320268551.png",
+      "__unknown_lastModifiedDate": 1775145537720,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724689893,
+      "__unknown_productSubTitle": "Cosmed Skinologist 10% Azelaic Solution 15 ml ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8558181,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/53/37/28/69/09/32/49/05/39/3703944759320268551.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/02/53/37/28/69/09/32/49/05/39/3703944759320268551.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/02/53/37/28/69/09/32/49/05/39/3703944759320268551.png"
+    }
+  }
+]

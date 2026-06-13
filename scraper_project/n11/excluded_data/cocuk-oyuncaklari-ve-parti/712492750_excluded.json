@@ -1,0 +1,65 @@
+[
+  {
+    "gid_ref": 401182,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fisher Price Dansçı BeatBo (DLB20)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771157582127,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712492750,
+      "__unknown_productSubTitle": "Fisher Price Dansçı BeatBo (DLB20)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 401183,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fisher Price Dansçı BeatBo (DLB20)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1736949807953,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582437398,
+      "__unknown_productSubTitle": "Fisher Price Dansçı BeatBo (DLB20)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 401184,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fisher Price Dansçı BeatBo (DLB20)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1699090767953,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582437398,
+      "__unknown_productSubTitle": "Fisher Price Dansçı BeatBo (DLB20)",
+      "__unknown_resolveDate": 1699338516038,
+      "__unknown_resolverOperator": 9791,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

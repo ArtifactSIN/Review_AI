@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1457087,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Contacall 3m Oto Kapı Kaput Bagaj Ses Toz Yalıtım Fitili 5 Metre Uzunluk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772199503884,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580184003,
+      "__unknown_productSubTitle": "Contacall 3m Oto Kapı Kaput Bagaj Ses Toz Yalıtım Fitili 5 Metre Uzunluk ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1457088,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Contacall 3m Oto Kapı Kaput Bagaj Ses Toz Yalıtım Fitili 5 Metre Uzunluk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733153535167,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/02/63/63/73/23/70/58/47/61/61/92942918829769771718.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580184003,
+      "__unknown_productSubTitle": "Contacall 3m Oto Kapı Kaput Bagaj Ses Toz Yalıtım Fitili 5 Metre Uzunluk ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6397517,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/02/63/63/73/23/70/58/47/61/61/92942918829769771718.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/02/63/63/73/23/70/58/47/61/61/92942918829769771718.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/02/63/63/73/23/70/58/47/61/61/92942918829769771718.png"
+    }
+  },
+  {
+    "gid_ref": 1457089,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Contacall 3m Oto Kapı Kaput Bagaj Ses Toz Yalıtım Fitili 5 Metre Uzunluk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724506297824,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580184003,
+      "__unknown_productSubTitle": "Contacall 3m Oto Kapı Kaput Bagaj Ses Toz Yalıtım Fitili 5 Metre Uzunluk ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

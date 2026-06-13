@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 1491541,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Moli Toys Çarkıfelek Oyunu Word Wheel Çarkı Felek Moli Çarkı Çev",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761147116117,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/22/89/06/75/11/63/46/57/19/32/37412327264008713726.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708953849,
+      "__unknown_productSubTitle": "Moli Toys Çarkıfelek Oyunu Word Wheel Çarkı Felek Moli Çarkı Çev",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7837217,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/22/89/06/75/11/63/46/57/19/32/37412327264008713726.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/22/89/06/75/11/63/46/57/19/32/37412327264008713726.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/22/89/06/75/11/63/46/57/19/32/37412327264008713726.jpg"
+    }
+  },
+  {
+    "gid_ref": 1491542,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Moli Toys Çarkıfelek Oyunu Word Wheel Çarkı Felek Moli Çarkı Çev",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750596425334,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/22/75/22/70/26/85/78/22/80/69/57870605732338122668.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569096163,
+      "__unknown_productSubTitle": "Moli Toys Çarkıfelek Oyunu Word Wheel Çarkı Felek Moli Çarkı Çev",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7367460,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/22/75/22/70/26/85/78/22/80/69/57870605732338122668.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/22/75/22/70/26/85/78/22/80/69/57870605732338122668.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/22/75/22/70/26/85/78/22/80/69/57870605732338122668.png"
+    }
+  }
+]

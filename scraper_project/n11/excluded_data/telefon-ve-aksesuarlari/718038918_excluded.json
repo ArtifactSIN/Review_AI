@@ -1,0 +1,842 @@
+[
+  {
+    "gid_ref": 1277117,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731997267632,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277118,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731889534989,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 625520380,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277119,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730615885999,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 625520381,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Altın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277120,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729871109929,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277121,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727112494807,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/23/79/04/39/12/25/44/35/36/50/73381486990400504508.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 625520380,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5733438,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/23/79/04/39/12/25/44/35/36/50/73381486990400504508.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/23/79/04/39/12/25/44/35/36/50/73381486990400504508.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/23/79/04/39/12/25/44/35/36/50/73381486990400504508.jpg"
+    }
+  },
+  {
+    "gid_ref": 1277122,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726834888410,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 625520380,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277123,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726756876768,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 625520381,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Altın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277124,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726640834919,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277125,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726159575915,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 625520381,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Altın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277126,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726144068918,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 625520381,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Altın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277127,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725254560880,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277128,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724783303951,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277129,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724318821176,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 625520381,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Altın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277130,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724089660571,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 625520381,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Altın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277131,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1723034343373,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277132,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721333495394,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 625520380,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277133,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1718721865516,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277134,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1717915089930,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277135,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1716570823436,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277136,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715417901302,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277137,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715068394782,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277138,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1714144946181,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277139,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713262655946,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594199143,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Altın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277140,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1712427306575,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277141,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1712324151719,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277142,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1709621796299,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594199143,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Altın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277143,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1709621789542,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594199143,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Altın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277144,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1709621782170,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594199143,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Altın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277145,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1709621774731,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594199143,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Altın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277146,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1709291377273,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594199143,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Altın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277147,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1706367142433,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594199143,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Altın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277148,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1704633022286,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277149,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1698873281487,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277150,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1693226262869,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277151,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1691258077086,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277152,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1689929649827,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277153,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1687427834759,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277154,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1684356740980,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1685009995694,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 570990265,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1277155,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1683804229536,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/05/11/91/47/83/20/34/13/88/28/74/95431381718103670758.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 574542260,
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1983103,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/05/11/91/47/83/20/34/13/88/28/74/95431381718103670758.png"
+        },
+        {
+          "id": 1983104,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/05/11/57/09/68/52/31/10/77/69/26/4729742536419526442.png"
+        },
+        {
+          "id": 1983105,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/05/11/70/72/89/77/27/51/05/76/33/53925793772337412077.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/05/11/91/47/83/20/34/13/88/28/74/95431381718103670758.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/05/11/91/47/83/20/34/13/88/28/74/95431381718103670758.png"
+    }
+  },
+  {
+    "gid_ref": 1277156,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1675690403416,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/02/06/77/73/68/65/18/14/05/80/12/28110788994993047207.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566661558,
+      "__unknown_productSubTitle": "Nokia 2730 Tuşlu Cep Telefonu (İthalatçı Garantili) Lacivert",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1564337,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/02/06/77/73/68/65/18/14/05/80/12/28110788994993047207.jpg"
+        },
+        {
+          "id": 1564338,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/02/06/68/75/92/84/80/16/78/79/59/27077749299216039295.jpg"
+        },
+        {
+          "id": 1564339,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/02/06/53/94/92/36/29/51/55/46/59/72382475675625998981.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/02/06/77/73/68/65/18/14/05/80/12/28110788994993047207.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/02/06/77/73/68/65/18/14/05/80/12/28110788994993047207.jpg"
+    }
+  }
+]

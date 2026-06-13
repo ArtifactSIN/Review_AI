@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 786028,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lamy Safari Versatil Kalem 0.5 MM  Mat Siyah 117",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757482463172,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 489787493,
+      "__unknown_productSubTitle": "Lamy Safari Versatil Kalem 0.5 MM  Mat Siyah 117",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 786029,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lamy Safari Versatil Kalem 0.5 MM  Mat Siyah 117",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747372787248,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/16/46/86/72/04/68/98/60/18/20/12359157636326835563.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 485522380,
+      "__unknown_productSubTitle": "Lamy Safari Versatil Kalem 0.5 MM  Mat Siyah 117",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7221112,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/16/46/86/72/04/68/98/60/18/20/12359157636326835563.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/16/46/86/72/04/68/98/60/18/20/12359157636326835563.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/16/46/86/72/04/68/98/60/18/20/12359157636326835563.jpg"
+    }
+  }
+]

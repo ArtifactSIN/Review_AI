@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 576448,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.s. Polo Assn. Erkek Beyaz Sweatshirt 50313772-vr013 Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774732706466,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/29/68/24/65/27/08/69/13/39/93/39180999863393140862.jpg",
+      "__unknown_lastModifiedDate": 1774732706466,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701899908,
+      "__unknown_productSubTitle": "U.s. Polo Assn. Erkek Beyaz Sweatshirt 50313772-vr013 Beyaz L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8524844,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/29/68/24/65/27/08/69/13/39/93/39180999863393140862.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/29/68/24/65/27/08/69/13/39/93/39180999863393140862.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/29/68/24/65/27/08/69/13/39/93/39180999863393140862.jpg"
+    }
+  },
+  {
+    "gid_ref": 576449,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Beyaz Basic Sweatshirt 50313772-VR013",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766766457597,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701899890,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Beyaz Basic Sweatshirt 50313772-VR013  S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 576450,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.s. Polo Assn. Erkek Beyaz Sweatshirt 50313772-vr013 Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765385204666,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701899908,
+      "__unknown_productSubTitle": "U.s. Polo Assn. Erkek Beyaz Sweatshirt 50313772-vr013 Beyaz L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

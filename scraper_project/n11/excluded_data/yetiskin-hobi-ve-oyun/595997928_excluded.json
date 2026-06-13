@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 1492537,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Harry Potter Asa Seti , Büyülü Asa Seti 4'lü Harry-hermonie-voldemort-dumbledore",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742501972224,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/20/66/99/68/89/41/42/94/33/90/7656782821287834972.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595997928,
+      "__unknown_productSubTitle": "Harry Potter Asa Seti , Büyülü Asa Seti 4'lü Harry-hermonie-voldemort-dumbledore ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7003401,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/20/54/38/74/78/72/77/31/24/52/72579400971836279393.jpeg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/20/66/99/68/89/41/42/94/33/90/7656782821287834972.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/20/66/99/68/89/41/42/94/33/90/7656782821287834972.jpeg"
+    }
+  },
+  {
+    "gid_ref": 1492538,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Harry Potter Asa Seti , Büyülü Asa Seti 4'lü Harry-hermonie-voldemort-dumbledore",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1713601783872,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/20/54/57/87/89/78/77/34/63/78/71195716828541110435.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595997928,
+      "__unknown_productSubTitle": "Harry Potter Asa Seti , Büyülü Asa Seti 4'lü Harry-hermonie-voldemort-dumbledore ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4460187,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/20/54/57/87/89/78/77/34/63/78/71195716828541110435.png"
+        },
+        {
+          "id": 4460188,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/20/63/25/27/13/73/61/95/20/07/54737316722977753939.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/20/54/57/87/89/78/77/34/63/78/71195716828541110435.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/20/54/57/87/89/78/77/34/63/78/71195716828541110435.png"
+    }
+  }
+]

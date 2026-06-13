@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 259864,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bamboo Çocuk/Bebek Yastık 2'Li Paket 35X50",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764423693417,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1764769128863,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 325702758,
+      "__unknown_productSubTitle": "Bamboo Çocuk/Bebek Yastık 2'Li Paket 35X50",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 259865,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bamboo Çocuk/Bebek Yastık 2'Li Paket 35X50",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709614832277,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/05/61/41/09/91/64/03/16/52/14/24392043485347887507.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 325702758,
+      "__unknown_productSubTitle": "Bamboo Çocuk/Bebek Yastık 2'Li Paket 35X50",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4048407,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/05/61/41/09/91/64/03/16/52/14/24392043485347887507.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/05/61/41/09/91/64/03/16/52/14/24392043485347887507.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/05/61/41/09/91/64/03/16/52/14/24392043485347887507.jpg"
+    }
+  }
+]

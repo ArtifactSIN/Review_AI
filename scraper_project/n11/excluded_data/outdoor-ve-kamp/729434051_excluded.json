@@ -1,0 +1,76 @@
+[
+  {
+    "gid_ref": 965584,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Salomon Xa Pro 3d V9 Erkek Koşu Ayakkabısı-27917-siyah Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768568131790,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 624632538,
+      "__unknown_productSubTitle": "Salomon Xa Pro 3d V9 Erkek Koşu Ayakkabısı-27917-siyah Siyah 47",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 965585,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Salomon Xa Pro 3d V9 Erkek Koşu Ayakkabısı-27917-siyah Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1760384935302,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/13/50/42/04/93/76/92/96/15/03/76811211828750009412.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 697501278,
+      "__unknown_productSubTitle": "Salomon Xa Pro 3d V9 Erkek Koşu Ayakkabısı-27917-siyah Siyah 45",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7798671,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/13/50/42/04/93/76/92/96/15/03/76811211828750009412.jpg"
+        },
+        {
+          "id": 7798672,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/13/69/84/14/50/14/35/23/65/97/54391984842809520302.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/13/50/42/04/93/76/92/96/15/03/76811211828750009412.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/13/50/42/04/93/76/92/96/15/03/76811211828750009412.jpg"
+    }
+  },
+  {
+    "gid_ref": 965586,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Salomon Xa Pro 3d V9 Erkek Koşu Ayakkabısı-27917-siyah Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739634399876,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750429613500,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645599801,
+      "__unknown_productSubTitle": "Salomon Xa Pro 3d V9 Erkek Koşu Ayakkabısı-27917-siyah Siyah 42",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

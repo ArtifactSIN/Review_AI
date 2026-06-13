@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 943880,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lastvoice L-380 Profesyonel Masa Mikrofon Işıklı Kürsü Mikrofon",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717695086045,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 332066919,
+      "__unknown_productSubTitle": "Lastvoice L-380 Profesyonel Masa Mikrofon Işıklı Kürsü Mikrofon",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 943881,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Sorunsuz alışveriş",
+      "productTitle": "Lastvoice L-380 Profesyonel Masa Mikrofon Işıklı Kürsü Mikrofon",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1461860045448,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/16/04/28/85/55/16/02/75/05/27/69/78/72257018116699172968.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 332066919,
+      "__unknown_productSubTitle": "Lastvoice L-380 Profesyonel Masa Mikrofon Işıklı Kürsü Mikrofon",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3056187,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/16/04/28/85/55/16/02/75/05/27/69/78/72257018116699172968.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/16/04/28/85/55/16/02/75/05/27/69/78/72257018116699172968.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/16/04/28/85/55/16/02/75/05/27/69/78/72257018116699172968.jpg"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 947560,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ibanez Grx40-Mlb Elektro Gitar (Kılıf+Pena)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721475172012,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/20/80/16/30/65/95/98/04/75/14/75366514223350564127.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581023448,
+      "__unknown_productSubTitle": "Ibanez Grx40-Mlb Elektro Gitar (Kılıf+Pena)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5229299,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/20/53/83/61/67/93/60/28/84/96/83208913039797601320.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/20/80/16/30/65/95/98/04/75/14/75366514223350564127.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/20/80/16/30/65/95/98/04/75/14/75366514223350564127.png"
+    }
+  }
+]

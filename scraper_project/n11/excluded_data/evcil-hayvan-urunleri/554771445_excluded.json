@@ -1,0 +1,95 @@
+[
+  {
+    "gid_ref": 678118,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Deep Fix Aquafix Akvaryumlar İçin Su Düzenleyici 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768697022640,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 554771445,
+      "__unknown_productSubTitle": "Deep Fix Aquafix Akvaryumlar İçin Su Düzenleyici 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 678119,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Deep Fix Aquafix Akvaryumlar İçin Su Düzenleyici 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1741259194759,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643681085,
+      "__unknown_productSubTitle": "Deep Fix Aquafix Akvaryumlar İçin Su Düzenleyici 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 678120,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Deep Fix Aquafix Akvaryumlar İçin Su Düzenleyici 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1741109442673,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/04/50/81/96/44/99/34/92/25/10/72268273308485832304.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640108086,
+      "__unknown_productSubTitle": "Deep Fix Aquafix Akvaryumlar İçin Su Düzenleyici 50 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6916677,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/04/50/81/96/44/99/34/92/25/10/72268273308485832304.png"
+        },
+        {
+          "id": 6916678,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/04/84/94/01/38/76/88/75/64/99/1380673087674891472.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/04/50/81/96/44/99/34/92/25/10/72268273308485832304.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/04/50/81/96/44/99/34/92/25/10/72268273308485832304.png"
+    }
+  },
+  {
+    "gid_ref": 678121,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Deep Fix Aquafix Akvaryumlar İçin Su Düzenleyici 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1738247884095,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643681085,
+      "__unknown_productSubTitle": "Deep Fix Aquafix Akvaryumlar İçin Su Düzenleyici 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

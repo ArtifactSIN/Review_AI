@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 1160229,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nike Striped Division III Erkek V Yaka Forma Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753218748287,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647951029,
+      "__unknown_productSubTitle": "Nike Striped Division III Erkek V Yaka Forma Kırmızı XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1160230,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nike Striped Division III Erkek V Yaka Forma Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753218673867,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647951029,
+      "__unknown_productSubTitle": "Nike Striped Division III Erkek V Yaka Forma Kırmızı XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1160231,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nike Striped Division III Erkek V Yaka Forma Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743600227075,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647951029,
+      "__unknown_productSubTitle": "Nike Striped Division III Erkek V Yaka Forma Kırmızı XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 735526,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ran Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711518648718,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/27/69/09/85/66/75/76/12/26/50/27351482170777881533.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 549142899,
+      "__unknown_productSubTitle": "Ran Dvd",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4249734,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/27/69/09/85/66/75/76/12/26/50/27351482170777881533.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/27/69/09/85/66/75/76/12/26/50/27351482170777881533.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/27/69/09/85/66/75/76/12/26/50/27351482170777881533.png"
+    }
+  }
+]

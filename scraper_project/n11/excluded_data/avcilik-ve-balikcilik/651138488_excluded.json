@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 124173,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lineaeffe Elastico 250 Mt Yem İpi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759136920496,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651138488,
+      "__unknown_productSubTitle": "Lineaeffe Elastico 250 Mt Yem İpi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 124174,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lineaeffe Elastico 250 Mt Yem İpi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743081923658,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651138488,
+      "__unknown_productSubTitle": "Lineaeffe Elastico 250 Mt Yem İpi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

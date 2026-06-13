@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 1484909,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Renault Scenic 2 Stop Lambasi Sag 2004-2008 Depo 5511937ruecr",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1776061475849,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/13/47/21/92/84/89/85/38/40/42/7525128422120601686.png",
+      "__unknown_lastModifiedDate": 1776061475849,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 720286636,
+      "__unknown_productSubTitle": "Renault Scenic 2 Stop Lambasi Sag 2004-2008 Depo 5511937ruecr ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8602326,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/13/47/21/92/84/89/85/38/40/42/7525128422120601686.png"
+        },
+        {
+          "id": 8602327,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/13/77/42/54/83/19/09/91/88/90/32435963664093564246.png"
+        },
+        {
+          "id": 8602328,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/13/58/39/98/09/24/64/14/79/30/45277631197197088713.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/13/47/21/92/84/89/85/38/40/42/7525128422120601686.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/13/47/21/92/84/89/85/38/40/42/7525128422120601686.png"
+    }
+  },
+  {
+    "gid_ref": 1484910,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Renault Scenic 2 Stop Lambasi Sag 2004-2008 Depo 5511937ruecr",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774368138305,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774368138305,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 720286636,
+      "__unknown_productSubTitle": "Renault Scenic 2 Stop Lambasi Sag 2004-2008 Depo 5511937ruecr ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

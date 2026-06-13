@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1251618,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tekne Benzin Bidonu. 20lt Yakıt Taşıma Tankı. Dolum Ağızlı Gagalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768126440516,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/11/75/11/77/57/40/12/30/00/64/17017829575301314373.jpg",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646015312,
+      "__unknown_productSubTitle": "Tekne Benzin Bidonu. 20lt Yakıt Taşıma Tankı. Dolum Ağızlı Gagalı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8238117,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/11/75/11/77/57/40/12/30/00/64/17017829575301314373.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/11/75/11/77/57/40/12/30/00/64/17017829575301314373.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/11/75/11/77/57/40/12/30/00/64/17017829575301314373.jpg"
+    }
+  },
+  {
+    "gid_ref": 1251619,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tekne Benzin Bidonu. 20lt Yakıt Taşıma Tankı. Dolum Ağızlı Gagalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753357285911,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646015312,
+      "__unknown_productSubTitle": "Tekne Benzin Bidonu. 20lt Yakıt Taşıma Tankı. Dolum Ağızlı Gagalı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251620,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tekne Benzin Bidonu. 20lt Yakıt Taşıma Tankı. Dolum Ağızlı Gagalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752524804703,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646015312,
+      "__unknown_productSubTitle": "Tekne Benzin Bidonu. 20lt Yakıt Taşıma Tankı. Dolum Ağızlı Gagalı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

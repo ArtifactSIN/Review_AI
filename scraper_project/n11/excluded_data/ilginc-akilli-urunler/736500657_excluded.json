@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 756065,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mitsubishi Lancer Tavan Bagaj Çıta Kapağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775461980065,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775461980065,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 556208437,
+      "__unknown_productSubTitle": "Mitsubishi Lancer Tavan Bagaj Çıta Kapağı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 756066,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mitsubishi Lancer Tavan Bagaj Çıta Kapağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728510413056,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/10/68/32/65/54/03/58/61/72/02/44488962731206031151.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 556208437,
+      "__unknown_productSubTitle": "Mitsubishi Lancer Tavan Bagaj Çıta Kapağı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5878395,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/10/68/32/65/54/03/58/61/72/02/44488962731206031151.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/10/68/32/65/54/03/58/61/72/02/44488962731206031151.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/10/68/32/65/54/03/58/61/72/02/44488962731206031151.png"
+    }
+  },
+  {
+    "gid_ref": 756067,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mitsubishi Lancer Tavan Bagaj Çıta Kapağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710944264716,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 556208437,
+      "__unknown_productSubTitle": "Mitsubishi Lancer Tavan Bagaj Çıta Kapağı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 751585,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Slik Mini - Pro V Digital Tripod",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746471273969,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/05/82/85/23/69/51/14/46/42/64/05729792638741203202.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596605544,
+      "__unknown_productSubTitle": "Slik Mini - Pro V Digital Tripod",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7174389,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/05/82/85/23/69/51/14/46/42/64/05729792638741203202.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/05/82/85/23/69/51/14/46/42/64/05729792638741203202.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/05/82/85/23/69/51/14/46/42/64/05729792638741203202.png"
+    }
+  },
+  {
+    "gid_ref": 751586,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ürün kullanışlı ve sağlam",
+      "productTitle": "Slik Mini - Pro V Digital Tripod",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1647251801524,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 325136889,
+      "__unknown_productSubTitle": "Slik Mini - Pro V Digital Tripod",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

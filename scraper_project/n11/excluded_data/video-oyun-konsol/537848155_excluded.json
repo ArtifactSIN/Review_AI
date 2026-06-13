@@ -1,0 +1,82 @@
+[
+  {
+    "gid_ref": 1337143,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Microsoft Xbox 9.Nesil Controller Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741791945712,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 537848155,
+      "__unknown_productSubTitle": "Microsoft Xbox 9.Nesil Controller Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337144,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Microsoft Xbox 9.Nesil Controller Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740320960696,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 537848155,
+      "__unknown_productSubTitle": "Microsoft Xbox 9.Nesil Controller Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337145,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Microsoft Xbox 9.Nesil Controller Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1694502410842,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 537605501,
+      "__unknown_productSubTitle": "Microsoft Xbox 9.Nesil Controller Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337146,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Microsoft Xbox 9.Nesil Controller Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1679301005794,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 537848155,
+      "__unknown_productSubTitle": "Microsoft Xbox 9.Nesil Controller Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

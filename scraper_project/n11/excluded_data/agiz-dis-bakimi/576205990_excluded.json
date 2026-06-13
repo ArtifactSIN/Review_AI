@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 10932,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensodyne Promine Aktif Diş Minesi Kalkanı Naneli Diş Macunu 2 x 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765450859464,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576205990,
+      "__unknown_productSubTitle": "Sensodyne Promine Aktif Diş Minesi Kalkanı Naneli Diş Macunu 2 x 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 10933,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensodyne Promine Aktif Diş Minesi Kalkanı Naneli Diş Macunu 2 x 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763551144067,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/19/51/84/03/43/87/15/97/58/97/82344055720209892671.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576205990,
+      "__unknown_productSubTitle": "Sensodyne Promine Aktif Diş Minesi Kalkanı Naneli Diş Macunu 2 x 75 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7992958,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/19/51/84/03/43/87/15/97/58/97/82344055720209892671.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/19/51/84/03/43/87/15/97/58/97/82344055720209892671.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/19/51/84/03/43/87/15/97/58/97/82344055720209892671.png"
+    }
+  },
+  {
+    "gid_ref": 10934,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensodyne Promine Aktif Diş Minesi Kalkanı Naneli Diş Macunu 2 x 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724136714890,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576205990,
+      "__unknown_productSubTitle": "Sensodyne Promine Aktif Diş Minesi Kalkanı Naneli Diş Macunu 2 x 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

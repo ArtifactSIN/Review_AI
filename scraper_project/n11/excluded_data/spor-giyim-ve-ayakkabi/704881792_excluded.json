@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 1161511,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nike AIR MONARCH IV Erkek Training Ayakkabı 415445-101 Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1776102841187,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/13/47/28/64/67/43/94/17/03/14/01664963517443950197.png",
+      "__unknown_lastModifiedDate": 1776102841187,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732398962,
+      "__unknown_productSubTitle": "Nike AIR MONARCH IV Erkek Training Ayakkabı 415445-101 Çok Renkli 44.5",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8606071,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/13/47/28/64/67/43/94/17/03/14/01664963517443950197.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/13/47/28/64/67/43/94/17/03/14/01664963517443950197.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/13/47/28/64/67/43/94/17/03/14/01664963517443950197.png"
+    }
+  },
+  {
+    "gid_ref": 1161512,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nike AIR MONARCH IV Erkek Training Ayakkabı 415445-101 Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768745971682,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695422184,
+      "__unknown_productSubTitle": "Nike AIR MONARCH IV Erkek Training Ayakkabı 415445-101 Çok Renkli 41",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1520510,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Garmastan Pomat 20 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766605894488,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 687293733,
+      "__unknown_productSubTitle": "Garmastan Pomat 20 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1520511,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Garmastan Pomat 20 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1717698542568,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598963685,
+      "__unknown_productSubTitle": "Garmastan Pomat 20 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

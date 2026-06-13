@@ -1,0 +1,128 @@
+[
+  {
+    "gid_ref": 832403,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oto Kriko 4 Ton",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775625919878,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775625919878,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702587459,
+      "__unknown_productSubTitle": "Oto Kriko 4 Ton",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 832404,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oto Kriko 4 Ton",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772030776110,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/25/47/93/79/11/98/00/31/85/42/47670066420883894724.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702587459,
+      "__unknown_productSubTitle": "Oto Kriko 4 Ton",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8414205,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/25/47/93/79/11/98/00/31/85/42/47670066420883894724.png"
+        },
+        {
+          "id": 8414206,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/25/75/30/43/04/36/74/11/84/42/22192437079578265568.png"
+        },
+        {
+          "id": 8414207,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/25/67/10/29/89/67/84/38/53/56/73515857904515370300.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/25/47/93/79/11/98/00/31/85/42/47670066420883894724.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/25/47/93/79/11/98/00/31/85/42/47670066420883894724.png"
+    }
+  },
+  {
+    "gid_ref": 832405,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oto Kriko 4 Ton",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766059790152,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702587459,
+      "__unknown_productSubTitle": "Oto Kriko 4 Ton",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 832406,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oto Kriko 4 Ton",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719991039889,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 574150340,
+      "__unknown_productSubTitle": "Oto Kriko 4 Ton",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 832407,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oto Kriko 4 Ton",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1704446552322,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/01/05/48/41/86/27/46/73/98/46/05/06013569734564822923.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 574150340,
+      "__unknown_productSubTitle": "Oto Kriko 4 Ton",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2955219,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/01/05/59/59/70/66/39/90/20/37/30/0597047437850754185.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/01/05/48/41/86/27/46/73/98/46/05/06013569734564822923.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/01/05/48/41/86/27/46/73/98/46/05/06013569734564822923.jpg"
+    }
+  }
+]

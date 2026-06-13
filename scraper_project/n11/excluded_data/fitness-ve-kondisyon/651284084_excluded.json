@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 744737,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hıq High Pro+ 900gr Salted Caramel Flavored",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774012797425,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774012797425,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651284084,
+      "__unknown_productSubTitle": "Hıq High Pro+ 900gr Salted Caramel Flavored",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 744738,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hıq High Pro+ 900gr Salted Caramel Flavored",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739626771279,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/15/52/31/92/81/69/97/01/63/15/87783572061780590979.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651284084,
+      "__unknown_productSubTitle": "Hıq High Pro+ 900gr Salted Caramel Flavored",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6856251,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/15/52/31/92/81/69/97/01/63/15/87783572061780590979.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/15/52/31/92/81/69/97/01/63/15/87783572061780590979.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/15/52/31/92/81/69/97/01/63/15/87783572061780590979.jpg"
+    }
+  },
+  {
+    "gid_ref": 744739,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hıq High Pro+ 900gr Salted Caramel Flavored",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739009510378,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/08/63/98/59/31/01/54/76/63/77/36959877698112340623.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651284084,
+      "__unknown_productSubTitle": "Hıq High Pro+ 900gr Salted Caramel Flavored",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6811072,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/08/63/98/59/31/01/54/76/63/77/36959877698112340623.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/08/63/98/59/31/01/54/76/63/77/36959877698112340623.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/08/63/98/59/31/01/54/76/63/77/36959877698112340623.jpg"
+    }
+  }
+]

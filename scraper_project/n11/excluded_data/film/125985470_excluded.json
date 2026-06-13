@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 734809,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Zamanında ve kaliteli",
+      "productTitle": "Dvd-Miramax Ödüllü Filmler Koleksiyonu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1496257929615,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 125985470,
+      "__unknown_productSubTitle": "Dvd-Miramax Ödüllü Filmler Koleksiyonu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734810,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "iyi alisverisler",
+      "productTitle": "Dvd-Miramax Ödüllü Filmler Koleksiyonu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1492445108581,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 125985470,
+      "__unknown_productSubTitle": "Dvd-Miramax Ödüllü Filmler Koleksiyonu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

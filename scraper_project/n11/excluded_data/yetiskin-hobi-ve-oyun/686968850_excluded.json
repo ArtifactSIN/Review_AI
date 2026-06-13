@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1494534,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motormax 1978 Ford Bronco 1/24 Kırmızı Model Araba",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773599959613,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773599959613,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 686968850,
+      "__unknown_productSubTitle": "Motormax 1978 Ford Bronco 1/24 Kırmızı Model Araba ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1494535,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motormax 1978 Ford Bronco 1/24 Kırmızı Model Araba",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760388294794,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 686968850,
+      "__unknown_productSubTitle": "Motormax 1978 Ford Bronco 1/24 Kırmızı Model Araba ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

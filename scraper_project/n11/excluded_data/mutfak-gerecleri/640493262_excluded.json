@@ -1,0 +1,81 @@
+[
+  {
+    "gid_ref": 924768,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Şarjlı Damacana Su Pompası Karma Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1776061982436,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1776061982436,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640493262,
+      "__unknown_productSubTitle": "Şarjlı Damacana Su Pompası Karma Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 924769,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Şarjlı Damacana Su Pompası Karma Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775831152932,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/10/78/69/60/34/29/95/78/12/39/8525247984552754281.png",
+      "__unknown_lastModifiedDate": 1775831152932,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640493262,
+      "__unknown_productSubTitle": "Şarjlı Damacana Su Pompası Karma Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8593263,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/78/69/60/34/29/95/78/12/39/8525247984552754281.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/10/78/69/60/34/29/95/78/12/39/8525247984552754281.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/10/78/69/60/34/29/95/78/12/39/8525247984552754281.png"
+    }
+  },
+  {
+    "gid_ref": 924770,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Şarjlı Damacana Su Pompası Karma Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774454014078,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/57/67/33/85/08/47/04/52/72/61393272258570438803.jpg",
+      "__unknown_lastModifiedDate": 1774454014078,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640493262,
+      "__unknown_productSubTitle": "Şarjlı Damacana Su Pompası Karma Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8504067,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/57/67/33/85/08/47/04/52/72/61393272258570438803.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/57/67/33/85/08/47/04/52/72/61393272258570438803.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/57/67/33/85/08/47/04/52/72/61393272258570438803.jpg"
+    }
+  }
+]

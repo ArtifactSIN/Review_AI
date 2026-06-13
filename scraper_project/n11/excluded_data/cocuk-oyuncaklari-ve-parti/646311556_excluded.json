@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 396624,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prego Smile Scooter Pembe K602-3",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766991082929,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646311556,
+      "__unknown_productSubTitle": "Prego Smile Scooter Pembe K602-3 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 396625,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prego Smile Scooter Pembe K602-3",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764364169547,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/29/52/97/68/89/16/93/32/75/16/21917788837050629674.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688267831,
+      "__unknown_productSubTitle": "Prego Smile Scooter Pembe K602-3 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8043234,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/29/52/97/68/89/16/93/32/75/16/21917788837050629674.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/29/52/97/68/89/16/93/32/75/16/21917788837050629674.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/29/52/97/68/89/16/93/32/75/16/21917788837050629674.png"
+    }
+  },
+  {
+    "gid_ref": 396626,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prego Smile Scooter Pembe K602-3",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756132914157,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/25/79/51/35/37/94/09/50/19/79/18763919424468988373.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646311556,
+      "__unknown_productSubTitle": "Prego Smile Scooter Pembe K602-3 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7607504,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/25/79/51/35/37/94/09/50/19/79/18763919424468988373.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/25/79/51/35/37/94/09/50/19/79/18763919424468988373.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/25/79/51/35/37/94/09/50/19/79/18763919424468988373.png"
+    }
+  },
+  {
+    "gid_ref": 396627,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prego Smile Scooter Pembe K602-3",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752527938410,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646311556,
+      "__unknown_productSubTitle": "Prego Smile Scooter Pembe K602-3 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

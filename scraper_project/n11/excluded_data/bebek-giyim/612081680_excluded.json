@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 252234,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.s. Polo Assn. Beyaz Erkek Bebek Takım Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773783368285,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773783368285,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 729604866,
+      "__unknown_productSubTitle": "U.s. Polo Assn. Beyaz Erkek Bebek Takım Beyaz 9 - 12 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

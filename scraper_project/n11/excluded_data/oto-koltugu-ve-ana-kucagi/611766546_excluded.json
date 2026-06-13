@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 948813,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Casual Funny 0-13 KG Ana Kucağı - Oto Koltuğu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1655739615081,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/06/20/84/95/12/31/64/65/63/55/93/36567728300262967940.jpeg",
+      "__unknown_lastModifiedDate": 1655753385834,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 393378739,
+      "__unknown_productSubTitle": "Casual Funny 0-13 KG Ana Kucağı - Oto Koltuğu Yeşil",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 767384,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/06/20/84/95/12/31/64/65/63/55/93/36567728300262967940.jpeg"
+        },
+        {
+          "id": 767385,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/06/20/63/10/43/33/47/85/22/14/42/28619412305873094217.jpeg"
+        },
+        {
+          "id": 767386,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/06/20/69/35/81/29/03/28/56/19/40/93544917922828206868.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/06/20/84/95/12/31/64/65/63/55/93/36567728300262967940.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/06/20/84/95/12/31/64/65/63/55/93/36567728300262967940.jpeg"
+    }
+  },
+  {
+    "gid_ref": 948814,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Casual Funny 0-13 KG Ana Kucağı - Oto Koltuğu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1634994695275,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 393378739,
+      "__unknown_productSubTitle": "Casual Funny 0-13 KG Ana Kucağı - Oto Koltuğu Yeşil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 948815,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Casual Funny 0-13 KG Ana Kucağı - Oto Koltuğu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1605785212550,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 393378739,
+      "__unknown_productSubTitle": "Casual Funny 0-13 KG Ana Kucağı - Oto Koltuğu Yeşil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

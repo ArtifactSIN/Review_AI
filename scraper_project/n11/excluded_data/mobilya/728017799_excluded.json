@@ -1,0 +1,127 @@
+[
+  {
+    "gid_ref": 872161,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mygusi Azra Mutfak, Salon, Cafe Sandalyesi 1 Adet Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771521928340,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 728017799,
+      "__unknown_productSubTitle": "Mygusi Azra Mutfak, Salon, Cafe Sandalyesi 1 Adet Antrasit",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 872162,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mygusi Azra Mutfak, Salon, Cafe Sandalyesi 1 Adet Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763818585703,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/22/76/45/26/66/70/50/49/62/68/78582959137429763015.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 728017799,
+      "__unknown_productSubTitle": "Mygusi Azra Mutfak, Salon, Cafe Sandalyesi 1 Adet Antrasit",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8002761,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/22/76/45/26/66/70/50/49/62/68/78582959137429763015.png"
+        },
+        {
+          "id": 8002762,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/22/83/94/39/42/01/92/31/90/30/62904254873969901594.png"
+        },
+        {
+          "id": 8002763,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/22/85/84/32/02/16/29/89/14/15/73017393964566793247.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/22/76/45/26/66/70/50/49/62/68/78582959137429763015.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/22/76/45/26/66/70/50/49/62/68/78582959137429763015.png"
+    }
+  },
+  {
+    "gid_ref": 872163,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mygusi Azra Mutfak, Salon, Cafe Sandalyesi 1 Adet Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763641216049,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/20/47/49/65/87/50/60/09/84/78/46454824454311951866.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 728017799,
+      "__unknown_productSubTitle": "Mygusi Azra Mutfak, Salon, Cafe Sandalyesi 1 Adet Antrasit",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7991836,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/20/47/49/65/87/50/60/09/84/78/46454824454311951866.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/20/47/49/65/87/50/60/09/84/78/46454824454311951866.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/20/47/49/65/87/50/60/09/84/78/46454824454311951866.jpg"
+    }
+  },
+  {
+    "gid_ref": 872164,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mygusi Azra Mutfak, Salon, Cafe Sandalyesi 1 Adet Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763309402130,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 728017799,
+      "__unknown_productSubTitle": "Mygusi Azra Mutfak, Salon, Cafe Sandalyesi 1 Adet Antrasit",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 872165,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mygusi Azra Mutfak, Salon, Cafe Sandalyesi 1 Adet Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1749717761417,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 728017799,
+      "__unknown_productSubTitle": "Mygusi Azra Mutfak, Salon, Cafe Sandalyesi 1 Adet Antrasit",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

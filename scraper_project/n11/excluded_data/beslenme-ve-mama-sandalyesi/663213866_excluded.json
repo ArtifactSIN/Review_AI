@@ -1,0 +1,122 @@
+[
+  {
+    "gid_ref": 274629,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "OG natural Organik Üzüm Pekmezi 6 Ay 300 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764053364596,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663213866,
+      "__unknown_productSubTitle": "OG natural Organik Üzüm Pekmezi 6 Ay 300 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 274630,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "OG natural Organik Üzüm Pekmezi 6 Ay 300 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1743523909736,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598817300,
+      "__unknown_productSubTitle": "OG natural Organik Üzüm Pekmezi 6 Ay 300 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 274631,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "OG natural Organik Üzüm Pekmezi 6 Ay 300 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728388810282,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/08/79/73/50/40/61/00/33/26/76/21616186059112595617.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598817300,
+      "__unknown_productSubTitle": "OG natural Organik Üzüm Pekmezi 6 Ay 300 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5868488,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/08/79/73/50/40/61/00/33/26/76/21616186059112595617.png"
+        },
+        {
+          "id": 5868489,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/08/47/96/23/32/21/69/30/63/24/86515452807965749608.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/08/79/73/50/40/61/00/33/26/76/21616186059112595617.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/08/79/73/50/40/61/00/33/26/76/21616186059112595617.png"
+    }
+  },
+  {
+    "gid_ref": 274632,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "OG natural Organik Üzüm Pekmezi 6 Ay 300 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1718971213945,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598817300,
+      "__unknown_productSubTitle": "OG natural Organik Üzüm Pekmezi 6 Ay 300 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 274633,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "OG natural Organik Üzüm Pekmezi 6 Ay 300 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1710924744311,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/20/89/08/83/73/85/77/66/36/95/15045125085034756264.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598817300,
+      "__unknown_productSubTitle": "OG natural Organik Üzüm Pekmezi 6 Ay 300 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4177161,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/20/89/08/83/73/85/77/66/36/95/15045125085034756264.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/20/89/08/83/73/85/77/66/36/95/15045125085034756264.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/20/89/08/83/73/85/77/66/36/95/15045125085034756264.png"
+    }
+  }
+]

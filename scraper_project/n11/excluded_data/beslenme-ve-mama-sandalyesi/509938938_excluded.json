@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 266259,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hipp Organik Combiotic 3 Devam Sütü 350 G 3 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1759233967953,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690818766,
+      "__unknown_productSubTitle": "Hipp Organik Combiotic 3 Devam Sütü 350 G 3 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 266260,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hipp Organik Combiotic 3 Devam Sütü 350 G 3 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740604726556,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 509938938,
+      "__unknown_productSubTitle": "Hipp Organik Combiotic 3 Devam Sütü 350 G 3 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 266261,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hipp Organik Combiotic 3 Devam Sütü 350 G 3 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733383538321,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 509938938,
+      "__unknown_productSubTitle": "Hipp Organik Combiotic 3 Devam Sütü 350 G 3 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

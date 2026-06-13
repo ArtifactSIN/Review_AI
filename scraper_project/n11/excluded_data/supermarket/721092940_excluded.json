@@ -1,0 +1,92 @@
+[
+  {
+    "gid_ref": 1243513,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bayer Maxforce Platin Hamam Böceği Jeli 3 x 20 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769497727293,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721092940,
+      "__unknown_productSubTitle": "Bayer Maxforce Platin Hamam Böceği Jeli 3 x 20 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1243514,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bayer Maxforce Platin Hamam Böceği Jeli 3 x 20 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742243545886,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 543268108,
+      "__unknown_productSubTitle": "Bayer Maxforce Platin Hamam Böceği Jeli 3 x 20 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1243515,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "hamamboceklerine son",
+      "productTitle": "Bayer Maxforce Platin Hamam Böceği Jeli 3 x 20 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1658999400491,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/07/28/59/93/91/82/19/64/68/68/48/93505019730291243730.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 543268108,
+      "__unknown_productSubTitle": "Bayer Maxforce Platin Hamam Böceği Jeli 3 x 20 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 892908,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/07/28/59/93/91/82/19/64/68/68/48/93505019730291243730.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/07/28/59/93/91/82/19/64/68/68/48/93505019730291243730.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/07/28/59/93/91/82/19/64/68/68/48/93505019730291243730.jpeg"
+    }
+  },
+  {
+    "gid_ref": 1243516,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bayer Maxforce Platin Hamam Böceği Jeli 3 x 20 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1638468585780,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 383615018,
+      "__unknown_productSubTitle": "Bayer Maxforce Platin Hamam Böceği Jeli 3 x 20 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

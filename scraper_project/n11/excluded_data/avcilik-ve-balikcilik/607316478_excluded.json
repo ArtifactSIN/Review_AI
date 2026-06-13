@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 121047,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mepps Comet Olta Kaşığı (422950931)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775249953052,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775249953052,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 607316478,
+      "__unknown_productSubTitle": "Mepps Comet Olta Kaşığı (422950931) Sarı-Kırmızı-0",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 121048,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mepps Comet Olta Kaşığı (422950931)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1716377276790,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/22/69/84/61/93/98/98/36/47/19/53091770028821164363.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579550040,
+      "__unknown_productSubTitle": "Mepps Comet Olta Kaşığı (422950931) Sarı-Kırmızı-2",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4751798,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/22/69/84/61/93/98/98/36/47/19/53091770028821164363.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/22/69/84/61/93/98/98/36/47/19/53091770028821164363.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/22/69/84/61/93/98/98/36/47/19/53091770028821164363.png"
+    }
+  },
+  {
+    "gid_ref": 121049,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mepps Comet Olta Kaşığı (422950931)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697406516179,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579550040,
+      "__unknown_productSubTitle": "Mepps Comet Olta Kaşığı (422950931) Sarı-Kırmızı-2",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 121050,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mepps Comet Olta Kaşığı (422950931)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1695914449710,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579550040,
+      "__unknown_productSubTitle": "Mepps Comet Olta Kaşığı (422950931) Sarı-Kırmızı-2",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 121051,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mepps Comet Olta Kaşığı (422950931)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1694492893368,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579550040,
+      "__unknown_productSubTitle": "Mepps Comet Olta Kaşığı (422950931) Sarı-Kırmızı-2",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

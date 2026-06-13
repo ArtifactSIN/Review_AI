@@ -1,0 +1,124 @@
+[
+  {
+    "gid_ref": 1485075,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sappower Tekerlekli Araç Altı Yatma Tahtası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773417132381,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773417132381,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 726179886,
+      "__unknown_productSubTitle": "Sappower Tekerlekli Araç Altı Yatma Tahtası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1485076,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sappower Tekerlekli Araç Altı Yatma Tahtası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772789108644,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 726179886,
+      "__unknown_productSubTitle": "Sappower Tekerlekli Araç Altı Yatma Tahtası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1485077,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sappower Tekerlekli Araç Altı Yatma Tahtası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1690378808768,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569605077,
+      "__unknown_productSubTitle": "Orijinal Ürün & Aynı Gün Kargo",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1485078,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sappower Tekerlekli Araç Altı Yatma Tahtası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1689786368301,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/07/19/50/77/16/62/54/35/18/38/52/51847679144706290344.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569605077,
+      "__unknown_productSubTitle": "Orijinal Ürün & Aynı Gün Kargo",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2212856,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/07/19/50/77/16/62/54/35/18/38/52/51847679144706290344.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/07/19/50/77/16/62/54/35/18/38/52/51847679144706290344.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/07/19/50/77/16/62/54/35/18/38/52/51847679144706290344.jpg"
+    }
+  },
+  {
+    "gid_ref": 1485079,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sappower Tekerlekli Araç Altı Yatma Tahtası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1685371365354,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/05/29/68/68/33/54/04/66/78/93/00/9655829643231972828.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569605077,
+      "__unknown_productSubTitle": "Orijinal Ürün & Aynı Gün Kargo",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2053553,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/05/29/68/68/33/54/04/66/78/93/00/9655829643231972828.png"
+        },
+        {
+          "id": 2053555,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/05/29/86/71/61/97/45/06/89/07/62/31929022392197756795.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/05/29/68/68/33/54/04/66/78/93/00/9655829643231972828.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/05/29/68/68/33/54/04/66/78/93/00/9655829643231972828.png"
+    }
+  }
+]

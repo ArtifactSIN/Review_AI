@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 1338748,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Virtua Tennis 4 PS3 Oyun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725832535460,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593792127,
+      "__unknown_productSubTitle": "Virtua Tennis 4 PS3 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1338749,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ürün sıfır",
+      "productTitle": "Virtua Tennis 4 PS3 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1660904702673,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/08/19/80/32/72/94/25/42/45/45/91/71433657372840053988.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 438768187,
+      "__unknown_productSubTitle": "Aynı Gün Ücretsiz KArgo Orjinal Ürün",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 945427,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/08/19/80/32/72/94/25/42/45/45/91/71433657372840053988.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/08/19/80/32/72/94/25/42/45/45/91/71433657372840053988.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/08/19/80/32/72/94/25/42/45/45/91/71433657372840053988.jpeg"
+    }
+  },
+  {
+    "gid_ref": 1338750,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Başarılı ürün güvenle alabilirsiniz",
+      "productTitle": "Virtua Tennis 4 PS3 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1566647049509,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 323573910,
+      "__unknown_productSubTitle": "Virtua Tennis 4 PS3 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

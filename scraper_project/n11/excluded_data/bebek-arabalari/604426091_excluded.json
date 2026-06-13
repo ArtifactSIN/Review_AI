@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 179841,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maxi Cosi Universal Adaptör Set Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773766246385,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773766246385,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 736434760,
+      "__unknown_productSubTitle": "Maxi Cosi Universal Adaptör Set Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 179842,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maxi Cosi Universal Adaptör Set Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740161090031,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750657660048,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604426091,
+      "__unknown_productSubTitle": "Maxi Cosi Universal Adaptör Set Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

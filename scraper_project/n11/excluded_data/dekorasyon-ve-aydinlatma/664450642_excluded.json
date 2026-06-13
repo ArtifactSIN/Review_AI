@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 421212,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yapay Çiçek Tropik Areka 80cm 23 Yapraklı Salon Çiçeği Beyaz Saksılı Yapay Bitki",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745178284629,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641160027,
+      "__unknown_productSubTitle": "Yapay Çiçek Tropik Areka 80cm 23 Yapraklı Salon Çiçeği Beyaz Saksılı Yapay Bitki ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 421213,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yapay Çiçek Tropik Areka 80cm 23 Yapraklı Salon Çiçeği Beyaz Saksılı Yapay Bitki",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1735119831839,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664450642,
+      "__unknown_productSubTitle": "Yapay Çiçek Tropik Areka 80cm 23 Yapraklı Salon Çiçeği Beyaz Saksılı Yapay Bitki ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

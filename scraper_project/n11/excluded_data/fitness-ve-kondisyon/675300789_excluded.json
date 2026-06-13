@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 745581,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grenade Black Ops 100 Kapsül",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766505412240,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637482589,
+      "__unknown_productSubTitle": "Grenade Black Ops 100 Kapsül",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 745582,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grenade Black Ops 100 Kapsül",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764343038316,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637482589,
+      "__unknown_productSubTitle": "Grenade Black Ops 100 Kapsül",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 745583,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grenade Black Ops 100 Kapsül",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747073122217,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/12/55/32/73/20/06/93/67/76/76/37174428403175045064.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631897273,
+      "__unknown_productSubTitle": "Grenade Black Ops 100 Kapsül",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7207416,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/12/55/32/73/20/06/93/67/76/76/37174428403175045064.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/12/55/32/73/20/06/93/67/76/76/37174428403175045064.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/12/55/32/73/20/06/93/67/76/76/37174428403175045064.jpg"
+    }
+  },
+  {
+    "gid_ref": 745584,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grenade Black Ops 100 Kapsül",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1746865415689,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630233029,
+      "__unknown_productSubTitle": "Grenade Black Ops 100 Kapsül",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

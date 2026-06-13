@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 1493404,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Star Puma A30 Briç İskambil Oyun Kağıdı 1 Deste",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769895728030,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/01/75/80/45/11/39/33/16/96/26/73499441297711152310.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648911879,
+      "__unknown_productSubTitle": "Star Puma A30 Briç İskambil Oyun Kağıdı 1 Deste",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8302692,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/01/75/80/45/11/39/33/16/96/26/73499441297711152310.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/01/75/80/45/11/39/33/16/96/26/73499441297711152310.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/01/75/80/45/11/39/33/16/96/26/73499441297711152310.png"
+    }
+  },
+  {
+    "gid_ref": 1493405,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Star Puma A30 Briç İskambil Oyun Kağıdı 1 Deste",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1698841074321,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580878089,
+      "__unknown_productSubTitle": "Star Puma A30 Briç İskambil Oyun Kağıdı 1 Deste",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1493406,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Star Puma A30 Briç İskambil Oyun Kağıdı 1 Deste",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1695667948115,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580878089,
+      "__unknown_productSubTitle": "Star Puma A30 Briç İskambil Oyun Kağıdı 1 Deste",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1493407,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Star Puma A30 Briç İskambil Oyun Kağıdı 1 Deste",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1695211832869,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580878089,
+      "__unknown_productSubTitle": "Star Puma A30 Briç İskambil Oyun Kağıdı 1 Deste",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1252250,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tmc Sintine Pompası 1000gph 12v",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1701890838793,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 485634898,
+      "__unknown_productSubTitle": "Tmc Sintine Pompası 1000gph 12v",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1252251,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "bu işte emeği geçen herkese teşekkür ederim",
+      "productTitle": "Tmc Sintine Pompası 1000gph 12v",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1666795374892,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 485634898,
+      "__unknown_productSubTitle": "Tmc Sintine Pompası 1000gph 12v",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

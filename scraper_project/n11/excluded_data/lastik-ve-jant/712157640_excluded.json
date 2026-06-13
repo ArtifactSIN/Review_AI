@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 832825,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Goodyear Efficientgrip Performance 205/55R16 91v Yaz Lastiği 2025",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774995570301,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774995570301,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 736997397,
+      "__unknown_productSubTitle": "Goodyear Efficientgrip Performance 205/55R16 91v Yaz Lastiği 2025",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 832826,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Goodyear Efficientgrip Performance 205/55R16 91v Yaz Lastiği 2025",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765273293430,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/09/69/89/42/32/83/95/01/10/60/46359295001795054072.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712157640,
+      "__unknown_productSubTitle": "Goodyear Efficientgrip Performance 205/55R16 91v Yaz Lastiği 2025",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8095401,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/09/69/89/42/32/83/95/01/10/60/46359295001795054072.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/09/69/89/42/32/83/95/01/10/60/46359295001795054072.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/09/69/89/42/32/83/95/01/10/60/46359295001795054072.png"
+    }
+  },
+  {
+    "gid_ref": 832827,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Goodyear Efficientgrip Performance 205/55R16 91v Yaz Lastiği 2025",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763667821616,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/20/70/25/85/55/82/93/39/10/57/49176232342289531186.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712157640,
+      "__unknown_productSubTitle": "Goodyear Efficientgrip Performance 205/55R16 91v Yaz Lastiği 2025",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7999568,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/20/70/25/85/55/82/93/39/10/57/49176232342289531186.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/20/70/25/85/55/82/93/39/10/57/49176232342289531186.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/20/70/25/85/55/82/93/39/10/57/49176232342289531186.png"
+    }
+  }
+]

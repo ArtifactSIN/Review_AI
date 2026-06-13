@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 1494600,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oyuncak Metal Model Araba 1/36 Çek Bırak Gri Range Rover Sport",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764955149770,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/05/61/43/86/23/57/24/60/01/59/83760698211042739766.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702769246,
+      "__unknown_productSubTitle": "Oyuncak Metal Model Araba 1/36 Çek Bırak Gri Range Rover Sport ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8080865,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/05/61/43/86/23/57/24/60/01/59/83760698211042739766.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/05/61/43/86/23/57/24/60/01/59/83760698211042739766.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/05/61/43/86/23/57/24/60/01/59/83760698211042739766.png"
+    }
+  },
+  {
+    "gid_ref": 1494601,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oyuncak Metal Model Araba 1/36 Çek Bırak Gri Range Rover Sport",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763211259418,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/15/60/17/02/83/36/83/40/31/47/17550449476654812937.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702769246,
+      "__unknown_productSubTitle": "Oyuncak Metal Model Araba 1/36 Çek Bırak Gri Range Rover Sport ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7972734,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/15/60/17/02/83/36/83/40/31/47/17550449476654812937.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/15/60/17/02/83/36/83/40/31/47/17550449476654812937.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/15/60/17/02/83/36/83/40/31/47/17550449476654812937.png"
+    }
+  }
+]

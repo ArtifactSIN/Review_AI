@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 190052,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Günlük Set | Şampuan - Masaj Yağı - Pişik Kremi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711382634348,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/25/88/51/54/51/91/07/52/98/49/68212546281815259111.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585106725,
+      "__unknown_productSubTitle": "Mustela Günlük Set | Şampuan - Masaj Yağı - Pişik Kremi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4233368,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/25/88/51/54/51/91/07/52/98/49/68212546281815259111.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/25/88/51/54/51/91/07/52/98/49/68212546281815259111.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/25/88/51/54/51/91/07/52/98/49/68212546281815259111.png"
+    }
+  },
+  {
+    "gid_ref": 190053,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Günlük Set | Şampuan - Masaj Yağı - Pişik Kremi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711321610972,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/25/76/58/67/22/31/86/69/68/13/62765036363639207714.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585106725,
+      "__unknown_productSubTitle": "Mustela Günlük Set | Şampuan - Masaj Yağı - Pişik Kremi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4214238,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/25/76/58/67/22/31/86/69/68/13/62765036363639207714.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/25/76/58/67/22/31/86/69/68/13/62765036363639207714.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/25/76/58/67/22/31/86/69/68/13/62765036363639207714.png"
+    }
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "gid_ref": 59384,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford Focus 2 Kalorifer Izgarası (Üfleyici)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774868292245,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774868292245,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 530443365,
+      "__unknown_productSubTitle": "Ford Focus 2 Kalorifer Izgarası (Üfleyici)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 59385,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford Focus 2 Kalorifer Izgarası (Üfleyici)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774296192722,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774296192722,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 530443365,
+      "__unknown_productSubTitle": "Ford Focus 2 Kalorifer Izgarası (Üfleyici)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 59386,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford Focus 2 Kalorifer Izgarası (Üfleyici)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772110327691,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 530443365,
+      "__unknown_productSubTitle": "Ford Focus 2 Kalorifer Izgarası (Üfleyici)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 59387,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford Focus 2 Kalorifer Izgarası (Üfleyici)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768307029056,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/13/75/49/54/44/71/01/00/71/81/44798922644288224454.jpg",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 530443365,
+      "__unknown_productSubTitle": "Ford Focus 2 Kalorifer Izgarası (Üfleyici)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8251211,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/13/75/49/54/44/71/01/00/71/81/44798922644288224454.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/13/75/49/54/44/71/01/00/71/81/44798922644288224454.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/13/75/49/54/44/71/01/00/71/81/44798922644288224454.jpg"
+    }
+  },
+  {
+    "gid_ref": 59388,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford Focus 2 Kalorifer Izgarası (Üfleyici)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744711552237,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 530443365,
+      "__unknown_productSubTitle": "Ford Focus 2 Kalorifer Izgarası (Üfleyici)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

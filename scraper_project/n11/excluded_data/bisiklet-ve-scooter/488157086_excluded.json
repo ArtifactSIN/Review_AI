@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 377827,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bisiklet Orta Kadro Amortisörü 1500 Lbs",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758352078246,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 488157086,
+      "__unknown_productSubTitle": "Bisiklet Orta Kadro Amortisörü 1500 Lbs",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 377828,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bisiklet Orta Kadro Amortisörü 1500 Lbs",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755186886292,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 488157086,
+      "__unknown_productSubTitle": "Bisiklet Orta Kadro Amortisörü 1500 Lbs",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

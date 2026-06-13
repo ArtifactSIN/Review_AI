@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 33045,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Spiderman Şarjlı Diş Fırçası Yedek Başlığı Beyaz 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770667161226,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 687462153,
+      "__unknown_productSubTitle": "Oral-B Spiderman Şarjlı Diş Fırçası Yedek Başlığı Beyaz 2'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 33046,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Spiderman Şarjlı Diş Fırçası Yedek Başlığı Beyaz 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764264803820,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655713410,
+      "__unknown_productSubTitle": "Oral-B Spiderman Şarjlı Diş Fırçası Yedek Başlığı Beyaz 2'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 33047,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Spiderman Şarjlı Diş Fırçası Yedek Başlığı Beyaz 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1749532011263,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/10/56/64/73/64/01/22/48/49/81/06459158868287114816.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639781917,
+      "__unknown_productSubTitle": "Oral-B Spiderman Şarjlı Diş Fırçası Yedek Başlığı Beyaz 2'li",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7308378,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/10/56/64/73/64/01/22/48/49/81/06459158868287114816.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/10/56/64/73/64/01/22/48/49/81/06459158868287114816.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/10/56/64/73/64/01/22/48/49/81/06459158868287114816.png"
+    }
+  },
+  {
+    "gid_ref": 33048,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Spiderman Şarjlı Diş Fırçası Yedek Başlığı Beyaz 2'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1723299447384,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600457914,
+      "__unknown_productSubTitle": "Oral-B Spiderman Şarjlı Diş Fırçası Yedek Başlığı Beyaz 2'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 33049,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Spiderman Şarjlı Diş Fırçası Yedek Başlığı Beyaz 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1711992663924,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595143706,
+      "__unknown_productSubTitle": "Oral-B Spiderman Şarjlı Diş Fırçası Yedek Başlığı Beyaz 2'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 947606,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Boston Ga15R Kombo Elektro Gitar Amfi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763444732372,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/18/65/89/71/40/71/58/03/28/93/51079764634417250958.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594755509,
+      "__unknown_productSubTitle": "Boston Ga15R Kombo Elektro Gitar Amfi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7983980,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/18/65/89/71/40/71/58/03/28/93/51079764634417250958.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/18/65/89/71/40/71/58/03/28/93/51079764634417250958.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/18/65/89/71/40/71/58/03/28/93/51079764634417250958.jpg"
+    }
+  },
+  {
+    "gid_ref": 947607,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Boston Ga15R Kombo Elektro Gitar Amfi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1652205806662,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 396616434,
+      "__unknown_productSubTitle": "Boston Ga15R Kombo Elektro Gitar Amfi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 365482,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Busso Super El Dikişli Futbol Topu 5 Numara",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721662951282,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 171125156,
+      "__unknown_productSubTitle": "Busso Super El Dikişli Futbol Topu 5 Numara",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 365483,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "başta iyiydi",
+      "productTitle": "Busso Super El Dikişli Futbol Topu 5 Numara",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1665607132391,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 171125156,
+      "__unknown_productSubTitle": "Busso Super El Dikişli Futbol Topu 5 Numara",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 365484,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Çok iyi",
+      "productTitle": "Busso Super El Dikişli Futbol Topu 5 Numara",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1659360598353,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 171125156,
+      "__unknown_productSubTitle": "Busso Super El Dikişli Futbol Topu 5 Numara",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "gid_ref": 1157197,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "70mai M310 Plus 3K Ön Araç Kamerası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773853360161,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/18/58/45/25/96/25/67/34/99/01/18302869376942126957.jpg",
+      "__unknown_lastModifiedDate": 1773853360161,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733734297,
+      "__unknown_productSubTitle": "70mai M310 Plus 3K Ön Araç Kamerası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8481283,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/18/58/45/25/96/25/67/34/99/01/18302869376942126957.jpg"
+        },
+        {
+          "id": 8481284,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/18/67/59/61/54/67/76/65/74/69/94268780325003411456.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/18/58/45/25/96/25/67/34/99/01/18302869376942126957.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/18/58/45/25/96/25/67/34/99/01/18302869376942126957.jpg"
+    }
+  }
+]

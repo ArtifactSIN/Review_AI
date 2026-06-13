@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 1067001,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Loreal Excellence Creme Saç Boyası 7.31",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772626179690,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 677452472,
+      "__unknown_productSubTitle": "Loreal Excellence Creme Saç Boyası 7.31 7.31 Bal Köpüğü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1067002,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Loreal Excellence Creme Saç Boyası 7.31",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772538511095,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653302554,
+      "__unknown_productSubTitle": "Loreal Excellence Creme Saç Boyası 7.31 7.31 Bal Köpüğü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1067003,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Loreal Excellence Creme Saç Boyası 7.31",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1704663294401,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 468228949,
+      "__unknown_productSubTitle": "Loreal Excellence Creme Saç Boyası 7.31 7.31 Bal Köpüğü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

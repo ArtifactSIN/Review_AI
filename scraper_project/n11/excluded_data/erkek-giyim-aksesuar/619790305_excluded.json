@@ -1,0 +1,65 @@
+[
+  {
+    "gid_ref": 560010,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fitgiyim Gri Renk Kapüşonlu Kot Ceket Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774348006824,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774348006824,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 619790305,
+      "__unknown_productSubTitle": "Fitgiyim Gri Renk Kapüşonlu Kot Ceket Gri 2XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 560011,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fitgiyim Gri Renk Kapüşonlu Kot Ceket Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739993595150,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1744704913614,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 619790303,
+      "__unknown_productSubTitle": "Fitgiyim Gri Renk Kapüşonlu Kot Ceket Gri XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 560012,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fitgiyim Gri Renk Kapüşonlu Kot Ceket Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730055851092,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1744704910913,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 619790304,
+      "__unknown_productSubTitle": "Fitgiyim Gri Renk Kapüşonlu Kot Ceket Gri S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

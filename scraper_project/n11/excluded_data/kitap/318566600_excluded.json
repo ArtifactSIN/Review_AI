@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 803488,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kapı Yayınları Iki Dirhem Bir Çekirdek Iskender Pala",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730384994593,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/31/87/69/71/78/53/06/25/32/32/17020475405570522328.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 318566600,
+      "__unknown_productSubTitle": "Kapı Yayınları Iki Dirhem Bir Çekirdek Iskender Pala",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6075818,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/31/87/69/71/78/53/06/25/32/32/17020475405570522328.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/31/87/69/71/78/53/06/25/32/32/17020475405570522328.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/31/87/69/71/78/53/06/25/32/32/17020475405570522328.png"
+    }
+  },
+  {
+    "gid_ref": 803489,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kapı Yayınları Iki Dirhem Bir Çekirdek Iskender Pala",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724160079561,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 318566600,
+      "__unknown_productSubTitle": "Kapı Yayınları Iki Dirhem Bir Çekirdek Iskender Pala",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 803490,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kapı Yayınları Iki Dirhem Bir Çekirdek Iskender Pala",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1698984267761,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 318566600,
+      "__unknown_productSubTitle": "Kapı Yayınları Iki Dirhem Bir Çekirdek Iskender Pala",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 803491,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kapı Yayınları Iki Dirhem Bir Çekirdek Iskender Pala",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1680112308123,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 318566600,
+      "__unknown_productSubTitle": "Kapı Yayınları Iki Dirhem Bir Çekirdek Iskender Pala",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

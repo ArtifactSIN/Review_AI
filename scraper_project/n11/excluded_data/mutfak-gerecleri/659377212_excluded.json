@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 930119,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Perotti De Flore 6 Kişilik 12 Parça Porselen Kahve Fincan Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775317895858,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775317895858,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659377212,
+      "__unknown_productSubTitle": "Perotti De Flore 6 Kişilik 12 Parça Porselen Kahve Fincan Takımı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 930120,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Perotti De Flore 6 Kişilik 12 Parça Porselen Kahve Fincan Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765912961849,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/16/59/45/85/51/43/46/48/52/58/44139701384468122048.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659377212,
+      "__unknown_productSubTitle": "Perotti De Flore 6 Kişilik 12 Parça Porselen Kahve Fincan Takımı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8130225,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/16/59/45/85/51/43/46/48/52/58/44139701384468122048.png"
+        },
+        {
+          "id": 8130226,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/16/69/80/93/17/27/72/06/78/57/06385237373079436910.png"
+        },
+        {
+          "id": 8130227,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/16/60/66/40/12/25/68/73/66/92/03632963111585008332.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/16/59/45/85/51/43/46/48/52/58/44139701384468122048.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/16/59/45/85/51/43/46/48/52/58/44139701384468122048.png"
+    }
+  }
+]

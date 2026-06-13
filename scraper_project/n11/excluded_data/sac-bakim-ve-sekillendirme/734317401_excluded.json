@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 1072860,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "BaByliss ST089E Ceramic Straight 230 Saç Düzleştirici",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1743879812083,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663814871,
+      "__unknown_productSubTitle": "BaByliss ST089E Ceramic Straight 230 Saç Düzleştirici Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1072861,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "BaByliss ST089E Ceramic Straight 230 Saç Düzleştirici",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732128810736,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/20/64/43/00/49/39/04/87/58/69/36791282382633911288.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583725519,
+      "__unknown_productSubTitle": "BaByliss ST089E Ceramic Straight 230 Saç Düzleştirici Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6288665,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/20/80/59/10/03/22/05/85/58/43/91632877750684503354.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/20/64/43/00/49/39/04/87/58/69/36791282382633911288.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/20/64/43/00/49/39/04/87/58/69/36791282382633911288.png"
+    }
+  },
+  {
+    "gid_ref": 1072862,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "BaByliss ST089E Ceramic Straight 230 Saç Düzleştirici",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1714488003486,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583725519,
+      "__unknown_productSubTitle": "BaByliss ST089E Ceramic Straight 230 Saç Düzleştirici Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1072863,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "BaByliss ST089E Ceramic Straight 230 Saç Düzleştirici",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1698898111101,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583725519,
+      "__unknown_productSubTitle": "BaByliss ST089E Ceramic Straight 230 Saç Düzleştirici Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

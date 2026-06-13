@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 758640,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "O.B. Original Normal Tampon 32 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730617683134,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583144863,
+      "__unknown_productSubTitle": "O.B. Original Normal Tampon 32 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 758641,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "O.B. Original Normal Tampon 32 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729349166184,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585382643,
+      "__unknown_productSubTitle": "O.B. Original Normal Tampon 32 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 758642,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "O.B. Original Normal Tampon 32 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721513830042,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/21/69/76/50/65/19/01/15/91/41/52497645989359500047.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604313742,
+      "__unknown_productSubTitle": "O.B. Original Normal Tampon 32 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5235324,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/21/69/76/50/65/19/01/15/91/41/52497645989359500047.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/21/69/76/50/65/19/01/15/91/41/52497645989359500047.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/21/69/76/50/65/19/01/15/91/41/52497645989359500047.png"
+    }
+  }
+]

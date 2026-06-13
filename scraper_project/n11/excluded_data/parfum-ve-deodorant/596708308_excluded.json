@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 1006153,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Christian Dior Sauvage Elixir Erkek Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739951357081,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562762555,
+      "__unknown_productSubTitle": "Christian Dior Sauvage Elixir Erkek Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1006154,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Christian Dior Sauvage Elixir Erkek Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738147197028,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/29/90/02/93/41/99/12/69/50/59/17815396586998942189.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562762555,
+      "__unknown_productSubTitle": "Christian Dior Sauvage Elixir Erkek Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6763865,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/29/90/02/93/41/99/12/69/50/59/17815396586998942189.png"
+        },
+        {
+          "id": 6763867,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/29/73/09/31/01/79/17/23/01/18/86817027188817705688.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/29/90/02/93/41/99/12/69/50/59/17815396586998942189.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/29/90/02/93/41/99/12/69/50/59/17815396586998942189.png"
+    }
+  },
+  {
+    "gid_ref": 1006155,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Christian Dior Sauvage Elixir Erkek Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737375838573,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562762555,
+      "__unknown_productSubTitle": "Christian Dior Sauvage Elixir Erkek Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 512238,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig MC9030 ProClub Saç Sakal Tıraş Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762750619748,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 620443121,
+      "__unknown_productSubTitle": "Grundig MC9030 ProClub Saç Sakal Tıraş Makinesi Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 512239,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig MC9030 ProClub Saç Sakal Tıraş Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714421235694,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/29/86/51/52/34/91/09/48/41/89/5820349542630771836.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 545860033,
+      "__unknown_productSubTitle": "Grundig MC9030 ProClub Saç Sakal Tıraş Makinesi Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4545650,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/29/86/51/52/34/91/09/48/41/89/5820349542630771836.png"
+        },
+        {
+          "id": 4545651,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/29/75/47/71/66/79/31/94/37/75/13064185691559672533.png"
+        },
+        {
+          "id": 4545652,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/29/78/62/13/35/13/43/45/28/34/26400280645792975808.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/29/86/51/52/34/91/09/48/41/89/5820349542630771836.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/29/86/51/52/34/91/09/48/41/89/5820349542630771836.png"
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 893820,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Knmaster Lock 100 Şifreli Karabina Kilidi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765497002587,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/12/62/40/49/58/99/30/58/44/15/54411505266565465215.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650258686,
+      "__unknown_productSubTitle": "Knmaster Lock 100 Şifreli Karabina Kilidi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8098496,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/12/62/40/49/58/99/30/58/44/15/54411505266565465215.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/12/62/40/49/58/99/30/58/44/15/54411505266565465215.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/12/62/40/49/58/99/30/58/44/15/54411505266565465215.png"
+    }
+  },
+  {
+    "gid_ref": 893821,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Knmaster Lock 100 Şifreli Karabina Kilidi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756579175260,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650258686,
+      "__unknown_productSubTitle": "Knmaster Lock 100 Şifreli Karabina Kilidi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 893822,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Knmaster Lock 100 Şifreli Karabina Kilidi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1751565068415,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650258686,
+      "__unknown_productSubTitle": "Knmaster Lock 100 Şifreli Karabina Kilidi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

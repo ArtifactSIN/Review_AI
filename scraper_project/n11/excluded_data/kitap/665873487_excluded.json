@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 815342,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Feyzü'l Furkan Tefsirli Kuranı Kerim Meali Lila (Büyük Boy-Sadece Türkçe Meal-Kalın Cilt)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750329454741,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/19/56/11/91/78/24/98/38/61/91/4431703904545557332.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665873487,
+      "__unknown_productSubTitle": "Feyzü'l Furkan Tefsirli Kuranı Kerim Meali Lila (Büyük Boy-Sadece Türkçe Meal-Kalın Cilt)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7350930,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/19/56/11/91/78/24/98/38/61/91/4431703904545557332.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/19/56/11/91/78/24/98/38/61/91/4431703904545557332.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/19/56/11/91/78/24/98/38/61/91/4431703904545557332.png"
+    }
+  },
+  {
+    "gid_ref": 815343,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Feyzü'l Furkan Tefsirli Kuranı Kerim Meali Lila (Büyük Boy-Sadece Türkçe Meal-Kalın Cilt)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746091130484,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/01/68/96/48/84/51/49/73/71/40/74807843687346518502.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665873487,
+      "__unknown_productSubTitle": "Feyzü'l Furkan Tefsirli Kuranı Kerim Meali Lila (Büyük Boy-Sadece Türkçe Meal-Kalın Cilt)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7163768,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/01/68/96/48/84/51/49/73/71/40/74807843687346518502.png"
+        },
+        {
+          "id": 7163769,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/01/50/74/05/77/29/83/56/15/17/34331313020403992125.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/01/68/96/48/84/51/49/73/71/40/74807843687346518502.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/01/68/96/48/84/51/49/73/71/40/74807843687346518502.png"
+    }
+  }
+]

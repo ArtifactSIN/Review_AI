@@ -1,0 +1,75 @@
+[
+  {
+    "gid_ref": 1160304,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Skech - Air Ventura - Cataclysm Erkek Haki Sneakers 232656 Olbk Haki",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773741987327,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773741987327,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637167709,
+      "__unknown_productSubTitle": "Skechers Skech - Air Ventura - Cataclysm Erkek Haki Sneakers 232656 Olbk Haki 41.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1160305,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Skech - Air Ventura - Cataclysm Erkek Haki Sneakers 232656 Olbk Haki",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764359768287,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/28/88/09/96/53/24/41/26/02/17/32532164998594447105.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637167774,
+      "__unknown_productSubTitle": "Skechers Skech - Air Ventura - Cataclysm Erkek Haki Sneakers 232656 Olbk Haki 45",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8037438,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/88/09/96/53/24/41/26/02/17/32532164998594447105.png"
+        },
+        {
+          "id": 8037439,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/70/57/62/49/24/41/23/90/57/15669581127948521105.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/28/88/09/96/53/24/41/26/02/17/32532164998594447105.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/28/88/09/96/53/24/41/26/02/17/32532164998594447105.png"
+    }
+  },
+  {
+    "gid_ref": 1160306,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Skech - Air Ventura - Cataclysm Erkek Haki Sneakers 232656 Olbk Haki",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763831725512,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637167773,
+      "__unknown_productSubTitle": "Skechers Skech - Air Ventura - Cataclysm Erkek Haki Sneakers 232656 Olbk Haki 42.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 763345,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sebamed pH 3.8 Feminine Intimate Hassas İntim Likit 200 ML x 2'li Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775321180765,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/04/64/87/39/05/00/33/41/32/15/9563217993995930256.jpg",
+      "__unknown_lastModifiedDate": 1775321180765,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 698632373,
+      "__unknown_productSubTitle": "Sebamed pH 3.8 Feminine Intimate Hassas İntim Likit 200 ML x 2'li Set",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8567830,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/04/64/87/39/05/00/33/41/32/15/9563217993995930256.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/04/64/87/39/05/00/33/41/32/15/9563217993995930256.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/04/64/87/39/05/00/33/41/32/15/9563217993995930256.jpg"
+    }
+  },
+  {
+    "gid_ref": 763346,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sebamed pH 3.8 Feminine Intimate Hassas İntim Likit 200 ML x 2'li Set",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734952420078,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582057400,
+      "__unknown_productSubTitle": "Sebamed pH 3.8 Feminine Intimate Hassas İntim Likit 200 ML x 2'li Set",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

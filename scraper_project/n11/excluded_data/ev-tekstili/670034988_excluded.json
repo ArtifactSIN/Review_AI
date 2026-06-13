@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 633491,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Güvenal Eylül Aile Bornoz Seti- Bornoz Takımı Çeyiz Seti 4 Parça-Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775215391525,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775215391525,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670034988,
+      "__unknown_productSubTitle": "Eylül Aile Bornoz Seti- Bornoz Takımı Çeyiz Seti 4 Parça-Gri Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 633492,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Güvenal Eylül Aile Bornoz Seti- Bornoz Takımı Çeyiz Seti 4 Parça-Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767124056502,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/30/64/02/69/43/42/63/37/41/63/27394811164426285653.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670034988,
+      "__unknown_productSubTitle": "Eylül Aile Bornoz Seti- Bornoz Takımı Çeyiz Seti 4 Parça-Gri Standart",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8189934,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/30/64/02/69/43/42/63/37/41/63/27394811164426285653.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/30/64/02/69/43/42/63/37/41/63/27394811164426285653.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/30/64/02/69/43/42/63/37/41/63/27394811164426285653.png"
+    }
+  },
+  {
+    "gid_ref": 633493,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Güvenal Eylül Aile Bornoz Seti- Bornoz Takımı Çeyiz Seti 4 Parça-Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762187292958,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670034988,
+      "__unknown_productSubTitle": "Eylül Aile Bornoz Seti- Bornoz Takımı Çeyiz Seti 4 Parça-Gri Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

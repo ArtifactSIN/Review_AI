@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 655964,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vitabolus Ade Bolus 107 G 12 Adet + Yutturma Aparatı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775766441409,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775766441409,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 499422941,
+      "__unknown_productSubTitle": "Vitabolus Ade Bolus 107 G 12 Adet + Yutturma Aparatı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 655965,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vitabolus Ade Bolus 107 G 12 Adet + Yutturma Aparatı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1735894514707,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 499422941,
+      "__unknown_productSubTitle": "Vitabolus Ade Bolus 107 G 12 Adet + Yutturma Aparatı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 655966,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vitabolus Ade Bolus 107 G 12 Adet + Yutturma Aparatı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711916172065,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/31/49/74/21/91/89/84/38/89/65/5864187944547926805.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 499422941,
+      "__unknown_productSubTitle": "Vitabolus Ade Bolus 107 G 12 Adet + Yutturma Aparatı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4312453,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/31/49/74/21/91/89/84/38/89/65/5864187944547926805.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/31/49/74/21/91/89/84/38/89/65/5864187944547926805.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/31/49/74/21/91/89/84/38/89/65/5864187944547926805.png"
+    }
+  }
+]

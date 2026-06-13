@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 992788,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cacharel Lou Lou Kadın Parfüm EDP 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764862600079,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/04/76/98/82/92/18/53/81/78/13/02704806929307844533.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558019537,
+      "__unknown_productSubTitle": "Cacharel Lou Lou Kadın Parfüm EDP 50 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8076460,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/04/76/98/82/92/18/53/81/78/13/02704806929307844533.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/04/76/98/82/92/18/53/81/78/13/02704806929307844533.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/04/76/98/82/92/18/53/81/78/13/02704806929307844533.png"
+    }
+  },
+  {
+    "gid_ref": 992789,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cacharel Lou Lou Kadın Parfüm EDP 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756398282917,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558019537,
+      "__unknown_productSubTitle": "Cacharel Lou Lou Kadın Parfüm EDP 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 992790,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cacharel Lou Lou Kadın Parfüm EDP 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1702197407023,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573565215,
+      "__unknown_productSubTitle": "Cacharel Lou Lou Kadın Parfüm EDP 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

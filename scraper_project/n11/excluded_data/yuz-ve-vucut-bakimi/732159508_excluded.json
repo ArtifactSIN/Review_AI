@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 1520402,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Ceel Leke Karşıtı Aydınlatıcı Vitamin C Serum Glutatyon, Ferulic Asit,  Ascorbic Asit 30 ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774467815224,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/51/03/11/97/70/71/01/91/97/05644739061722333553.png",
+      "__unknown_lastModifiedDate": 1774467815224,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732159508,
+      "__unknown_productSubTitle": "The Ceel Leke Karşıtı Aydınlatıcı Vitamin C Serum Glutatyon, Ferulic Asit,  Ascorbic Asit 30 ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8503864,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/51/03/11/97/70/71/01/91/97/05644739061722333553.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/51/03/11/97/70/71/01/91/97/05644739061722333553.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/51/03/11/97/70/71/01/91/97/05644739061722333553.png"
+    }
+  },
+  {
+    "gid_ref": 1520403,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Ceel Leke Karşıtı Aydınlatıcı Vitamin C Serum Glutatyon, Ferulic Asit,  Ascorbic Asit 30 ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770412941263,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675637121,
+      "__unknown_productSubTitle": "The Ceel Leke Karşıtı Aydınlatıcı Vitamin C Serum Glutatyon, Ferulic Asit,  Ascorbic Asit 30 ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

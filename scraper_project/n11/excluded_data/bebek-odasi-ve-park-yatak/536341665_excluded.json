@@ -1,0 +1,120 @@
+[
+  {
+    "gid_ref": 261495,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Viscoleff Doğal Boncuk Yün Bebek Yorganı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1691575494232,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 536341665,
+      "__unknown_productSubTitle": "Viscoleff Doğal Boncuk Yün Bebek Yorganı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 261496,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Viscoleff Doğal Boncuk Yün Bebek Yorganı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1652299936091,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/05/11/55/82/84/58/10/80/73/61/88/02612769358869578094.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 536341665,
+      "__unknown_productSubTitle": "Viscoleff Doğal Boncuk Yün Bebek Yorganı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 633307,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/05/11/55/82/84/58/10/80/73/61/88/02612769358869578094.jpeg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/05/11/55/82/84/58/10/80/73/61/88/02612769358869578094.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/05/11/55/82/84/58/10/80/73/61/88/02612769358869578094.jpeg"
+    }
+  },
+  {
+    "gid_ref": 261497,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "saygısızlık ",
+      "productTitle": "Viscoleff Doğal Boncuk Yün Bebek Yorganı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1542970461301,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/18/11/23/80/23/14/44/81/39/51/20/98/12879760014863388370.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 389398557,
+      "__unknown_productSubTitle": "Viscoleff Doğal Boncuk Yün Bebek Yorganı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3017467,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/18/11/23/80/23/14/44/81/39/51/20/98/12879760014863388370.jpeg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/18/11/23/80/23/14/44/81/39/51/20/98/12879760014863388370.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/18/11/23/80/23/14/44/81/39/51/20/98/12879760014863388370.jpeg"
+    }
+  },
+  {
+    "gid_ref": 261498,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "eksiklikler var",
+      "productTitle": "Viscoleff Doğal Boncuk Yün Bebek Yorganı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1541191893767,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 389398557,
+      "__unknown_productSubTitle": "Viscoleff Doğal Boncuk Yün Bebek Yorganı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 261499,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Viscoleff Doğal Boncuk Yün Bebek Yorganı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1447023674897,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 389398557,
+      "__unknown_productSubTitle": "Viscoleff Doğal Boncuk Yün Bebek Yorganı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

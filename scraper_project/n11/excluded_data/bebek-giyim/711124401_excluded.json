@@ -1,0 +1,939 @@
+[
+  {
+    "gid_ref": 253123,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767956149036,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/09/47/10/34/02/01/15/34/42/34/22155373559846292590.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071784,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Bej 18 - 24 Ay",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8228490,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/09/47/10/34/02/01/15/34/42/34/22155373559846292590.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/09/47/10/34/02/01/15/34/42/34/22155373559846292590.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/09/47/10/34/02/01/15/34/42/34/22155373559846292590.png"
+    }
+  },
+  {
+    "gid_ref": 253124,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "MiaBaby Bereli Üçlü Takım 001 Açık Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765313901535,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/09/90/17/61/42/79/14/92/90/63/22648921530613450925.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 711124401,
+      "__unknown_productSubTitle": "MiaBaby Bereli Üçlü Takım 001 Açık Yeşil 4 Yaş",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8097802,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/09/90/17/61/42/79/14/92/90/63/22648921530613450925.png"
+        },
+        {
+          "id": 8097803,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/09/89/53/42/08/67/89/61/33/19/14554177236466090076.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/09/90/17/61/42/79/14/92/90/63/22648921530613450925.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/09/90/17/61/42/79/14/92/90/63/22648921530613450925.png"
+    }
+  },
+  {
+    "gid_ref": 253125,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1749581490708,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071808,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Bej 5 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253126,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1749570129379,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603767441,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Antrasit 3 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253127,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1738507979805,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071729,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Yeşil 4 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253128,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1736627396461,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/11/86/66/43/56/39/20/39/42/88/47421716519536511779.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071779,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Bej 9 - 12 Ay",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6684388,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/11/86/66/43/56/39/20/39/42/88/47421716519536511779.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/11/86/66/43/56/39/20/39/42/88/47421716519536511779.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/11/86/66/43/56/39/20/39/42/88/47421716519536511779.png"
+    }
+  },
+  {
+    "gid_ref": 253129,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734202251498,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/14/51/92/30/64/16/18/42/29/58/85751123072024857755.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071739,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Kahverengi 3 - 6 Ay",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6491137,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/14/51/92/30/64/16/18/42/29/58/85751123072024857755.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/14/51/92/30/64/16/18/42/29/58/85751123072024857755.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/14/51/92/30/64/16/18/42/29/58/85751123072024857755.png"
+    }
+  },
+  {
+    "gid_ref": 253130,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734124295472,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/14/78/87/13/88/86/89/60/36/16/61556409416303817718.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071714,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Antrasit 3 - 6 Ay",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6493954,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/14/78/87/13/88/86/89/60/36/16/61556409416303817718.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/14/78/87/13/88/86/89/60/36/16/61556409416303817718.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/14/78/87/13/88/86/89/60/36/16/61556409416303817718.png"
+    }
+  },
+  {
+    "gid_ref": 253131,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733990248533,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071787,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Yeşil 5 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253132,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733920033678,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071785,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Antrasit 5 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253133,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733661969344,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071760,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Yeşil 9 - 12 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253134,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733222787037,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071779,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Bej 9 - 12 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253135,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733135869756,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071714,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Antrasit 3 - 6 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253136,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732831810005,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071784,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Bej 18 - 24 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253137,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732167556297,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071706,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Antrasit 9 - 12 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253138,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732142747486,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071785,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Antrasit 5 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253139,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731758442928,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071733,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Bej 3 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253140,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731706529859,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071799,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Antrasit 4 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253141,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731088606161,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071724,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Antrasit 18 - 24 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253142,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731061750031,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071722,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Bej 4 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253143,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730906848335,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071797,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Yeşil 18 - 24 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253144,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730747619946,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071758,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Kahverengi 12 - 18 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253145,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730747539778,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071743,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Antrasit 12 - 18 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253146,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730408197179,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071720,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Yeşil 3 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253147,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730029947248,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071736,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Yeşil 18 - 24 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253148,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729624844672,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/22/62/09/56/89/56/06/51/66/52/38539127282544232797.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603767441,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Antrasit 3 Yaş",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5995512,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/22/62/09/56/89/56/06/51/66/52/38539127282544232797.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/22/62/09/56/89/56/06/51/66/52/38539127282544232797.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/22/62/09/56/89/56/06/51/66/52/38539127282544232797.png"
+    }
+  },
+  {
+    "gid_ref": 253149,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729611317767,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071739,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Kahverengi 3 - 6 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253150,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729186058067,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071721,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Kahverengi 3 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253151,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729185967377,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071722,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Bej 4 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253152,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729147354829,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071801,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Bej 6 - 9 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253153,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729147271428,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/17/74/88/37/93/64/35/84/49/95/18881964855602267001.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071753,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Yeşil 6 - 9 Ay",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5940734,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/17/74/88/37/93/64/35/84/49/95/18881964855602267001.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/17/74/88/37/93/64/35/84/49/95/18881964855602267001.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/17/74/88/37/93/64/35/84/49/95/18881964855602267001.png"
+    }
+  },
+  {
+    "gid_ref": 253154,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728411254408,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071799,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Antrasit 4 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253155,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728389251342,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071723,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Kahverengi 18 - 24 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253156,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728389142061,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071736,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Yeşil 18 - 24 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253157,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728331528559,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071785,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Antrasit 5 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253158,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728028466934,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/04/74/00/13/41/21/12/28/73/52/82206072567170353599.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071740,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Yeşil 5 Yaş",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5846811,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/04/74/00/13/41/21/12/28/73/52/82206072567170353599.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/04/74/00/13/41/21/12/28/73/52/82206072567170353599.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/04/74/00/13/41/21/12/28/73/52/82206072567170353599.png"
+    }
+  },
+  {
+    "gid_ref": 253159,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727983291449,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071760,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Yeşil 9 - 12 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253160,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727979462338,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071744,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Yeşil 6 - 9 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253161,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727966939791,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071732,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Yeşil 12 - 18 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253162,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727710980903,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071808,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Bej 5 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253163,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727708866413,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071799,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Antrasit 4 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253164,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726912763182,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612071720,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Yeşil 3 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253165,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bereli Üçlü Takım 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715863753637,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/16/73/47/41/08/97/81/34/96/10/41513698917669386749.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603767441,
+      "__unknown_productSubTitle": "Bereli Üçlü Takım 001 Antrasit 3 Yaş",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4702580,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/16/73/47/41/08/97/81/34/96/10/41513698917669386749.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/16/73/47/41/08/97/81/34/96/10/41513698917669386749.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/16/73/47/41/08/97/81/34/96/10/41513698917669386749.jpg"
+    }
+  }
+]

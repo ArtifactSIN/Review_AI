@@ -1,0 +1,84 @@
+[
+  {
+    "gid_ref": 1342236,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Çalışmadı",
+      "productTitle": "Nintendo Switch Ac Şarj Adaptör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1600937038559,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 416097656,
+      "__unknown_productSubTitle": "Nintendo Switch Ac Şarj Adaptör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1342237,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nintendo Switch Ac Şarj Adaptör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1589881865493,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 416097656,
+      "__unknown_productSubTitle": "Nintendo Switch Ac Şarj Adaptör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1342238,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün çalıştı,",
+      "productTitle": "Nintendo Switch Ac Şarj Adaptör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1585906176453,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 416097656,
+      "__unknown_productSubTitle": "Nintendo Switch Ac Şarj Adaptör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1342239,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nintendo Switch Ac Şarj Adaptör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1585756688649,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 416097656,
+      "__unknown_productSubTitle": "Nintendo Switch Ac Şarj Adaptör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

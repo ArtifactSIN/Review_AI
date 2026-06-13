@@ -1,0 +1,106 @@
+[
+  {
+    "gid_ref": 188715,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Weleda Calendula Organik Yüz Kremi 50 ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733141083033,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/02/86/93/06/91/33/65/46/08/73/81839955236578281738.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 565595088,
+      "__unknown_productSubTitle": "Weleda Calendula Organik Yüz Kremi 50 ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6391827,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/02/86/93/06/91/33/65/46/08/73/81839955236578281738.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/02/86/93/06/91/33/65/46/08/73/81839955236578281738.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/02/86/93/06/91/33/65/46/08/73/81839955236578281738.jpg"
+    }
+  },
+  {
+    "gid_ref": 188716,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Weleda Calendula Organik Yüz Kremi 50 ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730740509757,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/04/56/37/90/57/72/49/87/13/97/02954830293489241991.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566701649,
+      "__unknown_productSubTitle": "Weleda Calendula Organik Yüz Kremi 50 ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6123920,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/04/56/37/90/57/72/49/87/13/97/02954830293489241991.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/04/56/37/90/57/72/49/87/13/97/02954830293489241991.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/04/56/37/90/57/72/49/87/13/97/02954830293489241991.png"
+    }
+  },
+  {
+    "gid_ref": 188717,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Weleda Calendula Organik Yüz Kremi 50 ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1706559842204,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566701649,
+      "__unknown_productSubTitle": "Weleda Calendula Organik Yüz Kremi 50 ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 188718,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Weleda Calendula Organik Yüz Kremi 50 ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1701594107130,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/12/03/83/59/75/56/10/13/21/83/19/17113565203626609733.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566701649,
+      "__unknown_productSubTitle": "Weleda Calendula Organik Yüz Kremi 50 ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2791146,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/03/83/59/75/56/10/13/21/83/19/17113565203626609733.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/12/03/83/59/75/56/10/13/21/83/19/17113565203626609733.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/12/03/83/59/75/56/10/13/21/83/19/17113565203626609733.jpg"
+    }
+  }
+]

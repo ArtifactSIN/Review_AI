@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 896787,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nukrowear Cool Touch Yazlık Balaklava",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772580854985,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 696223656,
+      "__unknown_productSubTitle": "Nukrowear Cool Touch Yazlık Balaklava ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 896788,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nukrowear Cool Touch Yazlık Balaklava",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760538748400,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/15/71/93/00/79/16/62/41/12/57/78291204089128271701.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 696223656,
+      "__unknown_productSubTitle": "Nukrowear Cool Touch Yazlık Balaklava ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7809009,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/15/91/32/07/29/42/78/14/79/14/58953958900970244932.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/15/71/93/00/79/16/62/41/12/57/78291204089128271701.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/15/71/93/00/79/16/62/41/12/57/78291204089128271701.jpg"
+    }
+  }
+]

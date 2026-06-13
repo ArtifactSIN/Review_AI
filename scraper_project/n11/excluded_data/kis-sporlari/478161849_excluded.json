@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 802698,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karkay Şişme Kızak, Kayak Adet Seçenekli Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740501862864,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/25/83/67/84/52/12/14/24/41/52/93161277150574655791.png",
+      "__unknown_lastModifiedDate": 1749512393852,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 622899816,
+      "__unknown_productSubTitle": "Karkay Şişme Kızak, Kayak Adet Seçenekli Çok Renkli Standart",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6889389,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/25/83/67/84/52/12/14/24/41/52/93161277150574655791.png"
+        },
+        {
+          "id": 6889390,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/25/78/02/16/94/79/19/57/34/64/21205455414413903877.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/25/83/67/84/52/12/14/24/41/52/93161277150574655791.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/25/83/67/84/52/12/14/24/41/52/93161277150574655791.png"
+    }
+  },
+  {
+    "gid_ref": 802699,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karkay Şişme Kızak, Kayak Adet Seçenekli Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739260573307,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1749512393457,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 478161849,
+      "__unknown_productSubTitle": "Karkay Şişme Kızak, Kayak Adet Seçenekli Çok Renkli Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802700,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karkay Şişme Kızak, Kayak Adet Seçenekli Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738851814085,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1749512393457,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 478161849,
+      "__unknown_productSubTitle": "Karkay Şişme Kızak, Kayak Adet Seçenekli Çok Renkli Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802701,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "idare eder",
+      "productTitle": "Karkay Şişme Kızak, Kayak Adet Seçenekli Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1642853895063,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1749512393457,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 478161849,
+      "__unknown_productSubTitle": "Karkay Şişme Kızak, Kayak Adet Seçenekli Çok Renkli Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

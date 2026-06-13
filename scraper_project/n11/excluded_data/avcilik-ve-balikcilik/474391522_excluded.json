@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 117628,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Fx 2000 Fc Lrf Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745072550737,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 474391522,
+      "__unknown_productSubTitle": "Shimano Fx 2000 Fc Lrf Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 117629,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Fx 2000 Fc Lrf Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730788816532,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/05/84/35/72/62/77/68/72/06/87/12075718077486682085.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 393149150,
+      "__unknown_productSubTitle": "Shimano Fx 2000 Fc Lrf Makinesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6130855,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/05/84/35/72/62/77/68/72/06/87/12075718077486682085.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/05/84/35/72/62/77/68/72/06/87/12075718077486682085.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/05/84/35/72/62/77/68/72/06/87/12075718077486682085.png"
+    }
+  },
+  {
+    "gid_ref": 117630,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Fx 2000 Fc Lrf Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1672832897794,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 547857466,
+      "__unknown_productSubTitle": "Shimano FX2000FC LRF Makine",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "gid_ref": 946285,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gitar Ayak Sehpası Metal",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770631633747,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/09/57/74/20/73/90/37/36/74/75/02019369175658247595.jpeg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602603791,
+      "__unknown_productSubTitle": "Gitar Ayak Sehpası Metal",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8330299,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/09/57/74/20/73/90/37/36/74/75/02019369175658247595.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/09/57/74/20/73/90/37/36/74/75/02019369175658247595.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/09/57/74/20/73/90/37/36/74/75/02019369175658247595.jpeg"
+    }
+  },
+  {
+    "gid_ref": 946286,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gitar Ayak Sehpası Metal",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1769592677674,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602603791,
+      "__unknown_productSubTitle": "Gitar Ayak Sehpası Metal",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946287,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gitar Ayak Sehpası Metal",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1769182496560,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/23/60/11/35/01/21/44/36/78/23/92797800576928233526.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602603791,
+      "__unknown_productSubTitle": "Gitar Ayak Sehpası Metal",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8285734,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/23/60/11/35/01/21/44/36/78/23/92797800576928233526.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/23/60/11/35/01/21/44/36/78/23/92797800576928233526.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/23/60/11/35/01/21/44/36/78/23/92797800576928233526.png"
+    }
+  },
+  {
+    "gid_ref": 946288,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gitar Ayak Sehpası Metal",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1738742904132,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602603791,
+      "__unknown_productSubTitle": "Gitar Ayak Sehpası Metal",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

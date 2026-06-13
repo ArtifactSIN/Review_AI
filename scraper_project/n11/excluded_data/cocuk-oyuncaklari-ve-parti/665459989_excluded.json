@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 399068,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dede Lindanın Tatil Evi 03736",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774818438969,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/76/04/46/00/30/14/25/73/96/82554618243260266417.png",
+      "__unknown_lastModifiedDate": 1774818438969,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665459989,
+      "__unknown_productSubTitle": "Dede Lindanın Tatil Evi 03736 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8537501,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/76/04/46/00/30/14/25/73/96/82554618243260266417.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/76/04/46/00/30/14/25/73/96/82554618243260266417.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/76/04/46/00/30/14/25/73/96/82554618243260266417.png"
+    }
+  },
+  {
+    "gid_ref": 399069,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dede Lindanın Tatil Evi 03736",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766216828685,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665459989,
+      "__unknown_productSubTitle": "Dede Lindanın Tatil Evi 03736 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 399070,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dede Lindanın Tatil Evi 03736",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728120854590,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637860431,
+      "__unknown_productSubTitle": "Dede Lindanın Tatil Evi 03736 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 399071,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dede Lindanın Tatil Evi 03736",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1717240736059,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593240631,
+      "__unknown_productSubTitle": "Dede Lindanın Tatil Evi 03736 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

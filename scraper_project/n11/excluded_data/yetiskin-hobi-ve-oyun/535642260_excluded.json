@@ -1,0 +1,150 @@
+[
+  {
+    "gid_ref": 1491065,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yasaklı Kelimeler",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721763193721,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/23/68/97/20/31/33/60/77/94/62/32057572891793768453.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 535642260,
+      "__unknown_productSubTitle": "Yasaklı Kelimeler",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5243595,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/23/68/97/20/31/33/60/77/94/62/32057572891793768453.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/23/68/97/20/31/33/60/77/94/62/32057572891793768453.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/23/68/97/20/31/33/60/77/94/62/32057572891793768453.jpg"
+    }
+  },
+  {
+    "gid_ref": 1491066,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yasaklı Kelimeler",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715082002263,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 535642260,
+      "__unknown_productSubTitle": "Yasaklı Kelimeler",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1491067,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yasaklı Kelimeler",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1712256262195,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 535642260,
+      "__unknown_productSubTitle": "Yasaklı Kelimeler",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1491068,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yasaklı Kelimeler",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709380561581,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 535642260,
+      "__unknown_productSubTitle": "Yasaklı Kelimeler",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1491069,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yasaklı Kelimeler",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1707462091392,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 535642260,
+      "__unknown_productSubTitle": "Yasaklı Kelimeler",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1491070,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yasaklı Kelimeler",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1706396010601,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 535642260,
+      "__unknown_productSubTitle": "Yasaklı Kelimeler",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1491071,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yasaklı Kelimeler",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1703183066718,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 535642260,
+      "__unknown_productSubTitle": "Yasaklı Kelimeler",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

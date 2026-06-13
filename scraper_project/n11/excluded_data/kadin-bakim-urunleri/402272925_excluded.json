@@ -1,0 +1,65 @@
+[
+  {
+    "gid_ref": 756517,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Epilla Sir Ağda Seti 18'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773820989411,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773820989411,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 402272925,
+      "__unknown_productSubTitle": "Epilla Sir Ağda Seti 18'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 756518,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün hakkında",
+      "productTitle": "Epilla Sir Ağda Seti 18'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1592729489244,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 402272925,
+      "__unknown_productSubTitle": "Epilla Sir Ağda Seti 18'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 756519,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "güvenilir mağaza",
+      "productTitle": "Epilla Sir Ağda Seti 18'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1589811584061,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 402272925,
+      "__unknown_productSubTitle": "Epilla Sir Ağda Seti 18'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

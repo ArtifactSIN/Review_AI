@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 246580,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Papilion Papatya Kokulu Islak Havlu 100'Lü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729881422635,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575653587,
+      "__unknown_productSubTitle": "Papilion Papatya Kokulu Islak Havlu 100'Lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 246581,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Papilion Papatya Kokulu Islak Havlu 100'Lü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725017537019,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/30/85/51/74/19/50/06/03/53/23/51712889030048724857.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575653587,
+      "__unknown_productSubTitle": "Papilion Papatya Kokulu Islak Havlu 100'Lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5536449,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/30/85/51/74/19/50/06/03/53/23/51712889030048724857.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/30/85/51/74/19/50/06/03/53/23/51712889030048724857.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/30/85/51/74/19/50/06/03/53/23/51712889030048724857.png"
+    }
+  },
+  {
+    "gid_ref": 246582,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Papilion Papatya Kokulu Islak Havlu 100'Lü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1723181503547,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575653587,
+      "__unknown_productSubTitle": "Papilion Papatya Kokulu Islak Havlu 100'Lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

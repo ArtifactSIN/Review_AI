@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1026652,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ixora E101 King Erkek Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1700934480374,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581944424,
+      "__unknown_productSubTitle": "Ixora E101 King Erkek Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1026653,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "dikkat",
+      "productTitle": "Ixora E101 King Erkek Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1664908943944,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 464942066,
+      "__unknown_productSubTitle": "İxora King Erkek Parfüm E101 100ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

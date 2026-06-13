@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 744798,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massage Gun 12 Başlıklı Çok Fonksiyonlu Masaj Tabancası Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746117437814,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/01/66/16/87/58/63/68/87/35/86/55656343525558170857.jpg",
+      "__unknown_lastModifiedDate": 1749511359185,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643903552,
+      "__unknown_productSubTitle": "Massage Gun 12 Başlıklı Çok Fonksiyonlu Masaj Tabancası Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7163729,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/01/65/30/50/07/69/50/95/29/02/11011451384830836739.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/01/66/16/87/58/63/68/87/35/86/55656343525558170857.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/01/66/16/87/58/63/68/87/35/86/55656343525558170857.jpg"
+    }
+  },
+  {
+    "gid_ref": 744799,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massage Gun 12 Başlıklı Çok Fonksiyonlu Masaj Tabancası Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738920579668,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1749511359185,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643903552,
+      "__unknown_productSubTitle": "Massage Gun 12 Başlıklı Çok Fonksiyonlu Masaj Tabancası Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 1154849,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Carplayer Renault Megane 4 Tesla 2017-2023 Android Multimedya 6gb Ram 64gb Hafıza",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763726043953,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/21/80/44/34/22/55/28/31/71/49/22757414913151579025.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 657074521,
+      "__unknown_productSubTitle": "Carplayer Renault Megane 4 Tesla 2017-2023 Android Multimedya 6gb Ram 64gb Hafıza ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7999916,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/21/80/44/34/22/55/28/31/71/49/22757414913151579025.jpg"
+        },
+        {
+          "id": 7999917,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/21/72/59/97/45/92/53/72/18/24/28501202650010400798.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/21/80/44/34/22/55/28/31/71/49/22757414913151579025.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/21/80/44/34/22/55/28/31/71/49/22757414913151579025.jpg"
+    }
+  },
+  {
+    "gid_ref": 1154850,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Carplayer Renault Megane 4 Tesla 2017-2023 Android Multimedya 6gb Ram 64gb Hafıza",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761768424873,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 657074521,
+      "__unknown_productSubTitle": "Carplayer Renault Megane 4 Tesla 2017-2023 Android Multimedya 6gb Ram 64gb Hafıza ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

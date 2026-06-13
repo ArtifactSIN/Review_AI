@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 891365,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "E-bike Gaz Kolu 3 Vites Işıklı 8 Kablolu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775164973724,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775164973724,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629213019,
+      "__unknown_productSubTitle": "E-bike Gaz Kolu 3 Vites Işıklı 8 Kablolu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 891366,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "E-bike Gaz Kolu 3 Vites Işıklı 8 Kablolu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725118822385,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629213019,
+      "__unknown_productSubTitle": "E-bike Gaz Kolu 3 Vites Işıklı 8 Kablolu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

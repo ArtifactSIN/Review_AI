@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 200523,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767443763693,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646846733,
+      "__unknown_productSubTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 200524,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763749299968,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/21/81/09/68/13/38/15/71/37/35/29037915589217304695.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646846733,
+      "__unknown_productSubTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8003463,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/21/81/09/68/13/38/15/71/37/35/29037915589217304695.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/21/81/09/68/13/38/15/71/37/35/29037915589217304695.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/21/81/09/68/13/38/15/71/37/35/29037915589217304695.png"
+    }
+  },
+  {
+    "gid_ref": 200525,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747435621929,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646846733,
+      "__unknown_productSubTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 200526,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1672005483443,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 556209082,
+      "__unknown_productSubTitle": "Sterimar Baby Blocked Nose Burun Spreyi 100 ml 2 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 847297,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "PRETTY DIPLINER PB-136",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774445354421,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/74/63/75/30/21/90/76/35/92/9569351244205242290.png",
+      "__unknown_lastModifiedDate": 1774445354421,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654572909,
+      "__unknown_productSubTitle": "PRETTY DIPLINER PB-136",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8507057,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/74/63/75/30/21/90/76/35/92/9569351244205242290.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/74/63/75/30/21/90/76/35/92/9569351244205242290.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/74/63/75/30/21/90/76/35/92/9569351244205242290.png"
+    }
+  },
+  {
+    "gid_ref": 847298,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "PRETTY DIPLINER PB-136",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771779088723,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654572909,
+      "__unknown_productSubTitle": "PRETTY DIPLINER PB-136",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 847299,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "PRETTY DIPLINER PB-136",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1696441415888,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583107644,
+      "__unknown_productSubTitle": "PRETTY DIPLINER PB-136",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

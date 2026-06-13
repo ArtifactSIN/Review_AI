@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 947326,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pro Lino Kırmızı 32 Tuş Melodika",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773082963731,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773082963731,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701088910,
+      "__unknown_productSubTitle": "Pro Lino Kırmızı 32 Tuş Melodika",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947327,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pro Lino Kırmızı 32 Tuş Melodika",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772741608097,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701088910,
+      "__unknown_productSubTitle": "Pro Lino Kırmızı 32 Tuş Melodika",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

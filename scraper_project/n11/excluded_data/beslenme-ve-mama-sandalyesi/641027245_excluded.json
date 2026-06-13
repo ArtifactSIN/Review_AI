@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 273162,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hipp İyi Geceler Organik Elmalı Sütlü 4+ Ay Kaşık Maması 4 x 250 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736607565210,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641027245,
+      "__unknown_productSubTitle": "Hipp İyi Geceler Organik Elmalı Sütlü 4+ Ay Kaşık Maması 4 x 250 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 273163,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hipp İyi Geceler Organik Elmalı Sütlü 4+ Ay Kaşık Maması 4 x 250 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1669892452523,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 512157643,
+      "__unknown_productSubTitle": "Hipp Organik İyi Geceler Elmalı Sütlü 4+ Ay Kaşık Maması 250 gr 4",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

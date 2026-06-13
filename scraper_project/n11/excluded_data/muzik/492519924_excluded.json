@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 944988,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Elixir 011-049 Nanoweb Elektro Gitar Teli 12102",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1708945665522,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 492519924,
+      "__unknown_productSubTitle": "Elixir 011-049 Nanoweb Elektro Gitar Teli 12102",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 944989,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Elixir 011-049 Nanoweb Elektro Gitar Teli 12102",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1647371637959,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 492519924,
+      "__unknown_productSubTitle": "Elixir 011-049 Nanoweb Elektro Gitar Teli 12102",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 944990,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Paketleme kötü",
+      "productTitle": "Elixir 011-049 Nanoweb Elektro Gitar Teli 12102",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1625851094818,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 492519924,
+      "__unknown_productSubTitle": "Elixir 011-049 Nanoweb Elektro Gitar Teli 12102",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

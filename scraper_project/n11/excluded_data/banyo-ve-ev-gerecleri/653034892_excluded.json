@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 161097,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "VitrA S20 147-003-909 Yavaş Kapanır Klozet Kapağı Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771852964780,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653034892,
+      "__unknown_productSubTitle": "VitrA S20 147-003-909 Yavaş Kapanır Klozet Kapağı Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 161098,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "VitrA S20 147-003-909 Yavaş Kapanır Klozet Kapağı Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752232835716,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/11/70/38/42/49/54/97/21/02/18/53619976846944125637.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653034892,
+      "__unknown_productSubTitle": "VitrA S20 147-003-909 Yavaş Kapanır Klozet Kapağı Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7431821,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/11/70/38/42/49/54/97/21/02/18/53619976846944125637.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/11/70/38/42/49/54/97/21/02/18/53619976846944125637.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/11/70/38/42/49/54/97/21/02/18/53619976846944125637.png"
+    }
+  },
+  {
+    "gid_ref": 161099,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "VitrA S20 147-003-909 Yavaş Kapanır Klozet Kapağı Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1717928812550,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/09/62/29/10/63/77/72/17/67/15/57968474362612697551.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 529421132,
+      "__unknown_productSubTitle": "VitrA S20 147-003-909 Yavaş Kapanır Klozet Kapağı Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4821637,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/09/62/29/10/63/77/72/17/67/15/57968474362612697551.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/09/62/29/10/63/77/72/17/67/15/57968474362612697551.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/09/62/29/10/63/77/72/17/67/15/57968474362612697551.jpg"
+    }
+  },
+  {
+    "gid_ref": 161100,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "VitrA S20 147-003-909 Yavaş Kapanır Klozet Kapağı Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1695931853380,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 568891485,
+      "__unknown_productSubTitle": "VitrA S20 147-003-909 Yavaş Kapanır Klozet Kapağı Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

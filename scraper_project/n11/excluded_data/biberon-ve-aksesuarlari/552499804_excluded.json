@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 306837,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Munchkin Mucize 360° Alıştırma Bardağı, 12 Ay+, 296 ML Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772972820388,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772972820388,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552499804,
+      "__unknown_productSubTitle": "Munchkin Mucize 360° Alıştırma Bardağı, 12 Ay+, 296 ML Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 306838,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Munchkin Mucize 360° Alıştırma Bardağı, 12 Ay+, 296 ML Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739291956422,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/11/74/19/15/73/62/44/23/90/24/04997738564227254061.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552499804,
+      "__unknown_productSubTitle": "Munchkin Mucize 360° Alıştırma Bardağı, 12 Ay+, 296 ML Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6834110,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/11/74/19/15/73/62/44/23/90/24/04997738564227254061.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/11/74/19/15/73/62/44/23/90/24/04997738564227254061.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/11/74/19/15/73/62/44/23/90/24/04997738564227254061.jpg"
+    }
+  },
+  {
+    "gid_ref": 306839,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Munchkin Mucize 360° Alıştırma Bardağı, 12 Ay+, 296 ML Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733610207148,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/08/56/17/40/68/30/53/45/20/37/57799071881268776685.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552499804,
+      "__unknown_productSubTitle": "Munchkin Mucize 360° Alıştırma Bardağı, 12 Ay+, 296 ML Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6442088,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/08/56/17/40/68/30/53/45/20/37/57799071881268776685.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/08/56/17/40/68/30/53/45/20/37/57799071881268776685.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/08/56/17/40/68/30/53/45/20/37/57799071881268776685.jpg"
+    }
+  }
+]

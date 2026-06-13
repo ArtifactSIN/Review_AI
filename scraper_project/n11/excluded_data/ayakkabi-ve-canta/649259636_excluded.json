@@ -1,0 +1,55 @@
+[
+  {
+    "gid_ref": 133016,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Superstar Kadın Spor Ayakkabı - Fu7712 (476369185) Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762204953029,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/04/81/22/27/11/44/74/50/44/26/85401449949702896662.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649259636,
+      "__unknown_productSubTitle": "Adidas Superstar Kadın Spor Ayakkabı - Fu7712 (476369185) Beyaz 39",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7915450,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/04/81/22/27/11/44/74/50/44/26/85401449949702896662.png"
+        },
+        {
+          "id": 7915452,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/04/83/91/76/24/20/28/29/15/23/25673088670598254394.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/04/81/22/27/11/44/74/50/44/26/85401449949702896662.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/04/81/22/27/11/44/74/50/44/26/85401449949702896662.png"
+    }
+  },
+  {
+    "gid_ref": 133017,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "SAKIN ALMAYIN",
+      "productTitle": "Adidas Superstar Kadın Spor Ayakkabı - Fu7712 (476369185)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1624254423767,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 476369185,
+      "__unknown_productSubTitle": "Adidas Superstar Kadın Spor Ayakkabı - Fu7712 (476369185) 36",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

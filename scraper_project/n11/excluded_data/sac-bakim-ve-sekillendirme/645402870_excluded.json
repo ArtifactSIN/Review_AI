@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 1057705,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Loreal Paris Excellence Creme Saç Boyası 9 Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753305243369,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645402870,
+      "__unknown_productSubTitle": "Loreal Paris Excellence Creme Saç Boyası 9 Sarı 9 Sarı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1057706,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Loreal Paris Excellence Creme Saç Boyası 9 Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753213834353,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/22/70/39/10/44/47/38/33/27/37/14504692979520392046.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645402870,
+      "__unknown_productSubTitle": "Loreal Paris Excellence Creme Saç Boyası 9 Sarı 9 Sarı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7476915,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/22/70/39/10/44/47/38/33/27/37/14504692979520392046.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/22/70/39/10/44/47/38/33/27/37/14504692979520392046.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/22/70/39/10/44/47/38/33/27/37/14504692979520392046.png"
+    }
+  },
+  {
+    "gid_ref": 1057707,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Loreal Paris Excellence Creme Saç Boyası 9 Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734463575887,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645402870,
+      "__unknown_productSubTitle": "Loreal Paris Excellence Creme Saç Boyası 9 Sarı 9 Sarı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1057708,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Loreal Paris Excellence Creme Saç Boyası 9 Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730816896898,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635370431,
+      "__unknown_productSubTitle": "Loreal Paris Excellence Creme Saç Boyası 9 Sarı 9 Sarı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

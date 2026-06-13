@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1339551,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Little Big Planet 2 PS3 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726331239777,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 550713631,
+      "__unknown_productSubTitle": "Little Big Planet 2 PS3 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1339552,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Efsane oyun",
+      "productTitle": "Little Big Planet 2 PS3 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1585999428011,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 122593026,
+      "__unknown_productSubTitle": "Little Big Planet 2 PS3 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "gid_ref": 705995,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Caradox Kursak - Peynirleşme - Kuruma - Hırıltı 500 Ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775310658009,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775310658009,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642675400,
+      "__unknown_productSubTitle": "Caradox Kursak - Peynirleşme - Kuruma - Hırıltı 500 Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 705996,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Caradox Kursak - Peynirleşme - Kuruma - Hırıltı 500 Ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771267818894,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642675400,
+      "__unknown_productSubTitle": "Caradox Kursak - Peynirleşme - Kuruma - Hırıltı 500 Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 705997,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Caradox Kursak - Peynirleşme - Kuruma - Hırıltı 500 Ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759171469621,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/29/58/00/07/74/98/23/16/45/28/92466977748825714721.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642675400,
+      "__unknown_productSubTitle": "Caradox Kursak - Peynirleşme - Kuruma - Hırıltı 500 Ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7731345,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/29/58/00/07/74/98/23/16/45/28/92466977748825714721.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/29/58/00/07/74/98/23/16/45/28/92466977748825714721.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/29/58/00/07/74/98/23/16/45/28/92466977748825714721.png"
+    }
+  },
+  {
+    "gid_ref": 705998,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Caradox Kursak - Peynirleşme - Kuruma - Hırıltı 500 Ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754392470810,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642675400,
+      "__unknown_productSubTitle": "Caradox Kursak - Peynirleşme - Kuruma - Hırıltı 500 Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

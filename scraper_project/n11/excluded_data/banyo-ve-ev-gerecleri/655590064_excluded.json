@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 161585,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gpd MAR71-S Çift Aeratörlü Arıtma Bataryası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752422564826,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/13/88/89/93/09/15/54/82/69/43/65145770141048654234.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598573867,
+      "__unknown_productSubTitle": "Gpd MAR71-S Çift Aeratörlü Arıtma Bataryası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7441876,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/13/88/89/93/09/15/54/82/69/43/65145770141048654234.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/13/88/89/93/09/15/54/82/69/43/65145770141048654234.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/13/88/89/93/09/15/54/82/69/43/65145770141048654234.png"
+    }
+  },
+  {
+    "gid_ref": 161586,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gpd MAR71-S Çift Aeratörlü Arıtma Bataryası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742844925186,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655590064,
+      "__unknown_productSubTitle": "Gpd MAR71-S Çift Aeratörlü Arıtma Bataryası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 161587,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gpd MAR71-S Çift Aeratörlü Arıtma Bataryası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724617725034,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598573867,
+      "__unknown_productSubTitle": "Gpd MAR71-S Çift Aeratörlü Arıtma Bataryası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

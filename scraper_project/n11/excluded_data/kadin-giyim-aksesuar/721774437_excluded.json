@@ -1,0 +1,101 @@
+[
+  {
+    "gid_ref": 778196,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Kadın Bordo Uzun Kollu Basic Gömlek 50316711-VR177",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775886580041,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/11/72/15/60/01/76/52/27/14/76/79051583767076582242.jpg",
+      "__unknown_lastModifiedDate": 1775886580041,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721774437,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Kadın Bordo Uzun Kollu Basic Gömlek 50316711-VR177 38",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8594480,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/11/72/15/60/01/76/52/27/14/76/79051583767076582242.jpg"
+        },
+        {
+          "id": 8594481,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/11/57/19/88/26/11/84/29/44/60/76349458131893374411.jpg"
+        },
+        {
+          "id": 8594482,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/11/78/97/19/46/34/35/58/85/16/48431020152881330172.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/11/72/15/60/01/76/52/27/14/76/79051583767076582242.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/11/72/15/60/01/76/52/27/14/76/79051583767076582242.jpg"
+    }
+  },
+  {
+    "gid_ref": 778197,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Kadın Bordo Uzun Kollu Basic Gömlek 50316711-VR177",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774164058981,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774164058981,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721774308,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Kadın Bordo Uzun Kollu Basic Gömlek 50316711-VR177 40",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 778198,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Kadın Bordo Uzun Kollu Basic Gömlek 50316711-VR177",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773322767253,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773322767253,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721774437,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Kadın Bordo Uzun Kollu Basic Gömlek 50316711-VR177 38",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 778199,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Kadın Bordo Uzun Kollu Basic Gömlek 50316711-VR177",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765705126339,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721774400,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Kadın Bordo Uzun Kollu Basic Gömlek 50316711-VR177 36",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

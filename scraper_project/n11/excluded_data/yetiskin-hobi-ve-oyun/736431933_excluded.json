@@ -1,0 +1,65 @@
+[
+  {
+    "gid_ref": 1495248,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün hakkında düşündüklerim",
+      "productTitle": "Ca Games Transformers 100 Parça Puzzle",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1597242242926,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 412476020,
+      "__unknown_productSubTitle": "Saat 12:00 öncesi alınan siparişler aynı gün kargoya verilir.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1495249,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Düzgün mağaza. Güzel ürün.",
+      "productTitle": "Ca Games Transformers 100 Parça Puzzle",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1588426761689,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 412476020,
+      "__unknown_productSubTitle": "Saat 12:00 öncesi alınan siparişler aynı gün kargoya verilir.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1495250,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Parcalari cok küçük ",
+      "productTitle": "Ca Games Transformers 100 Parça Puzzle",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1587809072600,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 412476020,
+      "__unknown_productSubTitle": "Saat 12:00 öncesi alınan siparişler aynı gün kargoya verilir.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

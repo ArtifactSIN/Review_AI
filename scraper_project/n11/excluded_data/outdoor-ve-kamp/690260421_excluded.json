@@ -1,0 +1,55 @@
+[
+  {
+    "gid_ref": 963827,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Igloo Cam Termos 3.20 Litre-siyah Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767347672269,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690260421,
+      "__unknown_productSubTitle": "Igloo Cam Termos 3.20 Litre-siyah Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 963828,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Igloo Cam Termos 3.20 Litre-siyah Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762334702499,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/05/72/72/38/16/65/36/22/41/90/13599812626925571745.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690260421,
+      "__unknown_productSubTitle": "Igloo Cam Termos 3.20 Litre-siyah Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7915493,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/05/72/72/38/16/65/36/22/41/90/13599812626925571745.png"
+        },
+        {
+          "id": 7915494,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/05/57/07/53/50/64/15/95/74/50/52417813566325831065.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/05/72/72/38/16/65/36/22/41/90/13599812626925571745.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/05/72/72/38/16/65/36/22/41/90/13599812626925571745.png"
+    }
+  }
+]

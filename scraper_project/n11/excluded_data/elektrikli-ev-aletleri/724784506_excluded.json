@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 482528,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tefal TY69T90TR x Force Flex 8.60 Max Şarjlı Dikey Mop Özellikli Süpürge",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757752211322,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648939284,
+      "__unknown_productSubTitle": "Tefal Ty69t90tr X Force Flex 8.60 Max Şarjlı Dikey Mop Özellikli Süpürge Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 482529,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tefal TY69T90TR x Force Flex 8.60 Max Şarjlı Dikey Mop Özellikli Süpürge",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1746965168223,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/11/78/81/55/16/56/49/65/03/21/44185426059884318258.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667964142,
+      "__unknown_productSubTitle": "Tefal Ty69t90tr X Force Flex 8.60 Max Şarjlı Dikey Mop Özellikli Süpürge Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7209252,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/11/78/81/55/16/56/49/65/03/21/44185426059884318258.png"
+        },
+        {
+          "id": 7209253,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/11/64/27/73/31/99/39/59/31/20/36027810624828127844.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/11/78/81/55/16/56/49/65/03/21/44185426059884318258.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/11/78/81/55/16/56/49/65/03/21/44185426059884318258.png"
+    }
+  }
+]

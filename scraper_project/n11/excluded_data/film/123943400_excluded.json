@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 734798,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blu-Ray-Minions - Minyonlar",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765290507747,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 123943400,
+      "__unknown_productSubTitle": "Blu-Ray-Minions - Minyonlar",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734799,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blu-Ray-Minions - Minyonlar",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1691082668247,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 123943400,
+      "__unknown_productSubTitle": "Blu-Ray-Minions - Minyonlar",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

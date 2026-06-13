@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 735043,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-Doom",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762948008500,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 157443154,
+      "__unknown_productSubTitle": "Dvd-Doom",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735044,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-Doom",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761042313919,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 157443154,
+      "__unknown_productSubTitle": "Dvd-Doom",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

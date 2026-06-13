@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 305430,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Regal ABM 311 X 3 Programlı 12 Kişilik Ankastre Bulaşık Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727101338616,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/23/63/40/94/70/60/64/12/88/68/97020726415718855433.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557373812,
+      "__unknown_productSubTitle": "Regal ABM 311 X 3 Programlı 12 Kişilik Ankastre Bulaşık Makinesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5737507,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/23/63/40/94/70/60/64/12/88/68/97020726415718855433.jpg"
+        },
+        {
+          "id": 5737508,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/23/63/40/08/35/20/65/81/29/94/75599151486963371825.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/23/63/40/94/70/60/64/12/88/68/97020726415718855433.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/23/63/40/94/70/60/64/12/88/68/97020726415718855433.jpg"
+    }
+  },
+  {
+    "gid_ref": 305431,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Regal ABM 311 X 3 Programlı 12 Kişilik Ankastre Bulaşık Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1723450264818,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557373812,
+      "__unknown_productSubTitle": "Regal ABM 311 X 3 Programlı 12 Kişilik Ankastre Bulaşık Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

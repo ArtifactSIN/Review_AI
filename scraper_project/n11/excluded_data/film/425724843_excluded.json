@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 735465,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd - Ouija: Origin Of Evil - Ölüm Alfabesi:Kötülüğün Başlangıcı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738702195940,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 152005760,
+      "__unknown_productSubTitle": "Dvd - Ouija: Origin Of Evil - Ölüm Alfabesi:Kötülüğün Başlangıcı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735466,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd - Ouija: Origin Of Evil - Ölüm Alfabesi:Kötülüğün Başlangıcı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697212720625,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 425724843,
+      "__unknown_productSubTitle": "Dvd - Ouija: Origin Of Evil - Ölüm Alfabesi:Kötülüğün Başlangıcı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

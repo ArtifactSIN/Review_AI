@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 944042,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ÜRÜN GÜZEL",
+      "productTitle": "Karin Keman Yastığı 4/4 3/4 Boy",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1576669446687,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 340794701,
+      "__unknown_productSubTitle": "Karin Keman Yastığı 4/4 3/4 Boy",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 944043,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Tavsiye ederim güzel ürün",
+      "productTitle": "Karin Keman Yastığı 4/4 3/4 Boy",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1574265510398,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 340794701,
+      "__unknown_productSubTitle": "Karin Keman Yastığı 4/4 3/4 Boy",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

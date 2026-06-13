@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 946222,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Behringer Xenyx 502s Analog 5 Girişli Usb Mikser",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748677931400,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593352515,
+      "__unknown_productSubTitle": "Behringer Xenyx 502s Analog 5 Girişli Usb Mikser ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946223,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Behringer Xenyx 502s Analog 5 Girişli Usb Mikser",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711531628952,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593352515,
+      "__unknown_productSubTitle": "Behringer Xenyx 502s Analog 5 Girişli Usb Mikser ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

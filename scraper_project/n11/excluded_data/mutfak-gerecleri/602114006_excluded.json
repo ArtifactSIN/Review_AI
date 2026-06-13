@@ -1,0 +1,80 @@
+[
+  {
+    "gid_ref": 922286,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Schafer Komfort Pişir Sakla Emaye Tencere 18 Cm-lacivert",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775853820794,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/10/58/92/17/34/89/55/26/23/31/03590928244726579687.png",
+      "__unknown_lastModifiedDate": 1775853820794,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602114006,
+      "__unknown_productSubTitle": "Schafer Komfort Pişir Sakla Emaye Tencere 18 Cm-lacivert",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8597708,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/58/92/17/34/89/55/26/23/31/03590928244726579687.png"
+        },
+        {
+          "id": 8597709,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/68/15/27/92/14/57/45/10/20/86812407684797710442.png"
+        },
+        {
+          "id": 8597710,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/86/50/24/73/98/32/56/39/64/87858400257660175114.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/10/58/92/17/34/89/55/26/23/31/03590928244726579687.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/10/58/92/17/34/89/55/26/23/31/03590928244726579687.png"
+    }
+  },
+  {
+    "gid_ref": 922287,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Schafer Komfort Pişir Sakla Emaye Tencere 18 Cm-lacivert",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773416366654,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773416366654,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597944040,
+      "__unknown_productSubTitle": "Schafer Komfort Pişir Sakla Emaye Tencere 18 Cm-lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 922288,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Schafer Komfort Pişir Sakla Emaye Tencere 18 Cm-lacivert",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733425746022,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597944040,
+      "__unknown_productSubTitle": "Schafer Komfort Pişir Sakla Emaye Tencere 18 Cm-lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

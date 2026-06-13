@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 124072,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sasa Kurşunlu Kalamar Zokası 3.5 Gr 3lü Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774368553063,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774368553063,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640448075,
+      "__unknown_productSubTitle": "Sasa Kurşunlu Kalamar Zokası 3.5 Gr 3lü Set - Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 124073,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sasa Kurşunlu Kalamar Zokası 3.5 Gr 3lü Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729886913714,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640448075,
+      "__unknown_productSubTitle": "Sasa Kurşunlu Kalamar Zokası 3.5 Gr 3lü Set - Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "gid_ref": 803233,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Minber Perdesi - Storlu-Lüx-Yeşil Minber Örtüsü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775142386556,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/02/91/25/51/79/39/21/58/39/33/44953237144871941734.png",
+      "__unknown_lastModifiedDate": 1775142386556,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 283089733,
+      "__unknown_productSubTitle": "Minber Perdesi - Storlu-Lüx-Yeşil Minber Örtüsü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8559632,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/91/25/51/79/39/21/58/39/33/44953237144871941734.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/02/91/25/51/79/39/21/58/39/33/44953237144871941734.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/02/91/25/51/79/39/21/58/39/33/44953237144871941734.png"
+    }
+  },
+  {
+    "gid_ref": 803234,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "cami mihrap perdesi",
+      "productTitle": "Minber Perdesi - Storlu-Lüx-Yeşil Minber Örtüsü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1576770598739,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/19/12/19/61/96/79/81/76/98/89/96/59/05036066219294244663.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 283089733,
+      "__unknown_productSubTitle": "Minber Perdesi - Storlu-Lüx-Yeşil Minber Örtüsü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3031216,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/19/12/19/61/96/79/81/76/98/89/96/59/05036066219294244663.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/19/12/19/61/96/79/81/76/98/89/96/59/05036066219294244663.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/19/12/19/61/96/79/81/76/98/89/96/59/05036066219294244663.jpeg"
+    }
+  },
+  {
+    "gid_ref": 803235,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "süper",
+      "productTitle": "Minber Perdesi - Storlu-Lüx-Yeşil Minber Örtüsü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1568797155817,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 283089733,
+      "__unknown_productSubTitle": "Minber Perdesi - Storlu-Lüx-Yeşil Minber Örtüsü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

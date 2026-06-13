@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1309199,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Duracell 13 Numara İşitme Cihazı Pili 5'Li Paket",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775120030423,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775120030423,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 574788143,
+      "__unknown_productSubTitle": "Duracell 13 Numara İşitme Cihazı Pili 5'Li Paket ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1309200,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Duracell 13 Numara İşitme Cihazı Pili 5'Li Paket",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745050332355,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 574788143,
+      "__unknown_productSubTitle": "Duracell 13 Numara İşitme Cihazı Pili 5'Li Paket ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1309201,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Duracell 13 Numara İşitme Cihazı Pili 5'Li Paket",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729536886148,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/21/76/64/46/44/42/43/94/15/02/87941602938243628345.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566537273,
+      "__unknown_productSubTitle": "Duracell 13 Numara İşitme Cihazı Pili 5'Li Paket ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5987120,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/21/76/64/46/44/42/43/94/15/02/87941602938243628345.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/21/76/64/46/44/42/43/94/15/02/87941602938243628345.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/21/76/64/46/44/42/43/94/15/02/87941602938243628345.png"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 241673,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Natural Bebek Bezi 2 Numara Mini Haftalık Paket 42 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763288362633,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591710739,
+      "__unknown_productSubTitle": "Sleepy Natural Bebek Bezi 2 Numara Mini Haftalık Paket 42 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 241674,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Natural Bebek Bezi 2 Numara Mini Haftalık Paket 42 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760013012683,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589854988,
+      "__unknown_productSubTitle": "Sleepy Natural Bebek Bezi 2 Numara Mini Haftalık Paket 42 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 241675,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Natural Bebek Bezi 2 Numara Mini Haftalık Paket 42 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1702028077701,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591710739,
+      "__unknown_productSubTitle": "Sleepy Natural Bebek Bezi 2 Numara Mini Haftalık Paket 42 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

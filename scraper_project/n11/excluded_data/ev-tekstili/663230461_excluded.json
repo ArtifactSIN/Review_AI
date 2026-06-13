@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 633362,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Ciel Çift Kişilik %100 Pamuk Lastikli Saten Çarşaf - Bej 8684427179277 Ekru",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773307052628,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773307052628,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663230461,
+      "__unknown_productSubTitle": "Madame Coco Ciel Çift Kişilik %100 Pamuk Lastikli Saten Çarşaf - Bej 8684427179277 Ekru 160 x 200",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 633363,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Ciel Çift Kişilik %100 Pamuk Lastikli Saten Çarşaf - Bej 8684427179277 Ekru",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764350698767,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/28/81/07/31/59/50/30/67/96/12/07434200485260185266.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663230461,
+      "__unknown_productSubTitle": "Madame Coco Ciel Çift Kişilik %100 Pamuk Lastikli Saten Çarşaf - Bej 8684427179277 Ekru 160 x 200",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8043407,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/81/07/31/59/50/30/67/96/12/07434200485260185266.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/28/81/07/31/59/50/30/67/96/12/07434200485260185266.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/28/81/07/31/59/50/30/67/96/12/07434200485260185266.png"
+    }
+  },
+  {
+    "gid_ref": 633364,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Ciel Çift Kişilik %100 Pamuk Lastikli Saten Çarşaf - Bej 8684427179277 Ekru",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763477053590,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663230461,
+      "__unknown_productSubTitle": "Madame Coco Ciel Çift Kişilik %100 Pamuk Lastikli Saten Çarşaf - Bej 8684427179277 Ekru 160 x 200",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "gid_ref": 1495814,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "İşe yaramaz",
+      "productTitle": "Chicco Happy Hippy Yürüteç",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1511336161839,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/17/11/22/61/57/55/16/78/53/63/52/06/12527477066988863884.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 212720809,
+      "__unknown_productSubTitle": "Aynı Gün Kargo, 100 tl. Üzeri Ücretsiz!!!",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3815611,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/17/11/22/61/57/55/16/78/53/63/52/06/12527477066988863884.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/17/11/22/61/57/55/16/78/53/63/52/06/12527477066988863884.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/17/11/22/61/57/55/16/78/53/63/52/06/12527477066988863884.jpg"
+    }
+  },
+  {
+    "gid_ref": 1495815,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Yüksekliği biraz daha fazla olabilirdi.",
+      "productTitle": "Chicco Happy Hippy Yürüteç",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1510773390951,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 212720809,
+      "__unknown_productSubTitle": "Aynı Gün Kargo, 100 tl. Üzeri Ücretsiz!!!",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1495816,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kaliteli",
+      "productTitle": "Chicco Happy Hippy Yürüteç",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1510432084596,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 212720809,
+      "__unknown_productSubTitle": "Aynı Gün Kargo, 100 tl. Üzeri Ücretsiz!!!",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1495817,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "tesekkurler",
+      "productTitle": "Chicco Happy Hippy Yürüteç",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1510398479549,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 212720809,
+      "__unknown_productSubTitle": "Aynı Gün Kargo, 100 tl. Üzeri Ücretsiz!!!",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

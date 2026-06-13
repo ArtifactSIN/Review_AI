@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 182405,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Mükemmel",
+      "productTitle": "Doona+ Oto Koltuğu & Bebek Arabası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1575306696991,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 321787360,
+      "__unknown_productSubTitle": "Doona+ Oto Koltuğu & Bebek Arabası Royal Blue",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 182406,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kullanışlı Ürün ",
+      "productTitle": "Doona+ Oto Koltuğu & Bebek Arabası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1573746637393,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 321787360,
+      "__unknown_productSubTitle": "Doona+ Oto Koltuğu & Bebek Arabası Royal Blue",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

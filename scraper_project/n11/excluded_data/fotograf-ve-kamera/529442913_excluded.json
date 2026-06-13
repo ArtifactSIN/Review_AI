@@ -1,0 +1,35 @@
+[
+  {
+    "gid_ref": 751002,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "kaliteli fotoğraf baskısı",
+      "productTitle": "Fujifilm Instax Wide Link Fotoğraf Yazıcı Beyaz + 20'li Film",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1646144878599,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/03/01/76/65/45/28/49/06/66/65/45/56371281211733264849.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 529442913,
+      "__unknown_productSubTitle": "Fujifilm Instax Wide Link Fotoğraf Yazıcı Beyaz + 20'li Film",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 387380,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/03/01/53/72/36/56/05/29/46/62/78/31299325156700697274.jpg"
+        },
+        {
+          "id": 387381,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/03/01/80/92/20/76/19/52/69/07/54/68676477080368952282.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/03/01/76/65/45/28/49/06/66/65/45/56371281211733264849.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/03/01/76/65/45/28/49/06/66/65/45/56371281211733264849.jpg"
+    }
+  }
+]

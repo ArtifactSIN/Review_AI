@@ -1,0 +1,75 @@
+[
+  {
+    "gid_ref": 185222,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Johnson's Baby Parfümlü Vazelin 100 ML Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1735495923537,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750658712944,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 477216294,
+      "__unknown_productSubTitle": "Johnson's Baby Parfümlü Vazelin 100 ML Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 185223,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "NEMLENDİRİCİ",
+      "productTitle": "Johnson's Baby Parfümlü Vazelin 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1662639976254,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/09/08/78/18/16/38/48/11/05/08/52/41567689375471779939.jpeg",
+      "__unknown_lastModifiedDate": 1662640263149,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 538302540,
+      "__unknown_productSubTitle": "Johnson's Baby Parfümlü Vazelin 100 Ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1020551,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/09/08/78/18/16/38/48/11/05/08/52/41567689375471779939.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/09/08/78/18/16/38/48/11/05/08/52/41567689375471779939.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/09/08/78/18/16/38/48/11/05/08/52/41567689375471779939.jpeg"
+    }
+  },
+  {
+    "gid_ref": 185224,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Tavsiye ederim.",
+      "productTitle": "Johnson's Baby Parfümlü Vazelin 100 ML Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1657807638686,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750658712944,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 477216294,
+      "__unknown_productSubTitle": "Johnson's Baby Parfümlü Vazelin 100 ML Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

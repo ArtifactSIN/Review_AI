@@ -1,0 +1,84 @@
+[
+  {
+    "gid_ref": 1251135,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "M2 Paslanmaz Gijon. Saplama Din976",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763546856069,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558843573,
+      "__unknown_productSubTitle": "M2 Paslanmaz Gijon. Saplama Din976",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251136,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "vermem",
+      "productTitle": "M3 Paslanmaz Gijon, Saplama DIN976",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1606680344463,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 399055682,
+      "__unknown_productSubTitle": "Paslanmaz Civata somun vida",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251137,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "fotoğraftaki gibi",
+      "productTitle": "M3 Paslanmaz Gijon, Saplama DIN976",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1589441211966,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 399055682,
+      "__unknown_productSubTitle": "Paslanmaz Civata somun vida",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251138,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "M3 Paslanmaz Gijon, Saplama DIN976",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1583968047361,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 399055682,
+      "__unknown_productSubTitle": "Paslanmaz Civata somun vida",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

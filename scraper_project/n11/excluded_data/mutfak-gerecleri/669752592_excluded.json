@@ -1,0 +1,100 @@
+[
+  {
+    "gid_ref": 931095,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nehir Lizbon Sade 6 Kişilik 36 Parça Çatal Bıçak Takımı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1707851549309,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/13/87/75/42/17/20/11/45/67/04/33745579917953484685.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590016834,
+      "__unknown_productSubTitle": "Nehir Lizbon Sade 6 Kişilik 36 Parça Çatal Bıçak Takımı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3883012,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/13/87/75/42/17/20/11/45/67/04/33745579917953484685.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/13/87/75/42/17/20/11/45/67/04/33745579917953484685.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/13/87/75/42/17/20/11/45/67/04/33745579917953484685.png"
+    }
+  },
+  {
+    "gid_ref": 931096,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nehir Lizbon Sade 6 Kişilik 36 Parça Çatal Bıçak Takımı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1684318892356,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 429979378,
+      "__unknown_productSubTitle": "Nehir Lizbon Sade 6 Kişilik 36 Parça Çatal Bıçak Takımı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 931097,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "fiyat performans ürünü",
+      "productTitle": "Nehir Lizbon Sade 6 Kişilik 36 Parça Çatal Bıçak Takımı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1670089948598,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/12/03/89/29/26/10/84/93/76/14/12/35268174729821112560.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 429979378,
+      "__unknown_productSubTitle": "Nehir Lizbon Sade 6 Kişilik 36 Parça Çatal Bıçak Takımı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1345564,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/12/03/89/29/26/10/84/93/76/14/12/35268174729821112560.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/12/03/89/29/26/10/84/93/76/14/12/35268174729821112560.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/12/03/89/29/26/10/84/93/76/14/12/35268174729821112560.jpeg"
+    }
+  },
+  {
+    "gid_ref": 931098,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "nehir Lizbon 36 parça çatal kaşık bıçak takimi",
+      "productTitle": "Nehir Lizbon Sade 6 Kişilik 36 Parça Çatal Bıçak Takımı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1596007780779,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 429979378,
+      "__unknown_productSubTitle": "Nehir Lizbon Sade 6 Kişilik 36 Parça Çatal Bıçak Takımı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

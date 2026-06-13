@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 923511,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gülsan Safran Granit 24 CM Basık Tencere",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743795306240,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633103283,
+      "__unknown_productSubTitle": "Gülsan Safran Granit 24 CM Basık Tencere",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 923512,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gülsan Safran Granit 24 CM Basık Tencere",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738097554919,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/28/89/54/39/36/28/68/03/71/44/3353192881872194232.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633103283,
+      "__unknown_productSubTitle": "Gülsan Safran Granit 24 CM Basık Tencere",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6756648,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/28/89/54/39/36/28/68/03/71/44/3353192881872194232.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/28/89/54/39/36/28/68/03/71/44/3353192881872194232.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/28/89/54/39/36/28/68/03/71/44/3353192881872194232.png"
+    }
+  },
+  {
+    "gid_ref": 923513,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gülsan Safran Granit 24 CM Basık Tencere",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738097397262,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/28/73/14/07/22/07/88/01/34/85/81233319301432230198.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633103283,
+      "__unknown_productSubTitle": "Gülsan Safran Granit 24 CM Basık Tencere",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6760927,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/28/73/14/07/22/07/88/01/34/85/81233319301432230198.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/28/73/14/07/22/07/88/01/34/85/81233319301432230198.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/28/73/14/07/22/07/88/01/34/85/81233319301432230198.png"
+    }
+  },
+  {
+    "gid_ref": 923514,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gülsan Safran Granit 24 CM Basık Tencere",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736965197867,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633103283,
+      "__unknown_productSubTitle": "Gülsan Safran Granit 24 CM Basık Tencere",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

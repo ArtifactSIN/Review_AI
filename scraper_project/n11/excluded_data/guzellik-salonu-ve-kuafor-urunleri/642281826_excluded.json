@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 754022,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-901 Tüm Modellere Uyumlu Fön Başlığı 2'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774960149541,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774960149541,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642281826,
+      "__unknown_productSubTitle": "Powertec TR-901 Tüm Modellere Uyumlu Fön Başlığı 2'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 754023,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-901 Tüm Modellere Uyumlu Fön Başlığı 2'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774604272187,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/52/46/44/56/98/56/76/62/32/77421979732290848616.png",
+      "__unknown_lastModifiedDate": 1774604272187,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642281826,
+      "__unknown_productSubTitle": "Powertec TR-901 Tüm Modellere Uyumlu Fön Başlığı 2'li",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8526364,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/52/46/44/56/98/56/76/62/32/77421979732290848616.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/52/46/44/56/98/56/76/62/32/77421979732290848616.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/52/46/44/56/98/56/76/62/32/77421979732290848616.png"
+    }
+  },
+  {
+    "gid_ref": 754024,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-901 Tüm Modellere Uyumlu Fön Başlığı 2'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736146033125,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642281826,
+      "__unknown_productSubTitle": "Powertec TR-901 Tüm Modellere Uyumlu Fön Başlığı 2'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

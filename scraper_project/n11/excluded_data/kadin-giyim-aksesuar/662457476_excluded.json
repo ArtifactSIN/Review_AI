@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 776794,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DeFacto Kadın 15 Denye Külotlu Çorap B5871AXNSWT1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773411008472,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/13/52/54/22/75/77/30/55/01/70/72411778375684607509.png",
+      "__unknown_lastModifiedDate": 1773411008472,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 662457289,
+      "__unknown_productSubTitle": "DeFacto Kadın 15 Denye Külotlu Çorap B5871AXNSWT1 S - M",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8463765,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/13/52/54/22/75/77/30/55/01/70/72411778375684607509.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/13/52/54/22/75/77/30/55/01/70/72411778375684607509.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/13/52/54/22/75/77/30/55/01/70/72411778375684607509.png"
+    }
+  },
+  {
+    "gid_ref": 776795,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DeFacto Kadın 15 Denye Külotlu Çorap B5871AXNSWT1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765870755452,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/16/87/45/60/92/21/48/68/70/32/77547252853703359518.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 662457476,
+      "__unknown_productSubTitle": "DeFacto Kadın 15 Denye Külotlu Çorap B5871AXNSWT1 L - XL",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8124664,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/16/87/45/60/92/21/48/68/70/32/77547252853703359518.png"
+        },
+        {
+          "id": 8124665,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/16/57/20/44/68/64/30/36/90/45/3880546567969063979.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/16/87/45/60/92/21/48/68/70/32/77547252853703359518.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/16/87/45/60/92/21/48/68/70/32/77547252853703359518.png"
+    }
+  },
+  {
+    "gid_ref": 776796,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DeFacto Kadın 15 Denye Külotlu Çorap B5871AXNSWT1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748694250008,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 662457476,
+      "__unknown_productSubTitle": "DeFacto Kadın 15 Denye Külotlu Çorap B5871AXNSWT1 L - XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

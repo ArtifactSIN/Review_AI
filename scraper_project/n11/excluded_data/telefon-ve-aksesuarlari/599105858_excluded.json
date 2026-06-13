@@ -1,0 +1,150 @@
+[
+  {
+    "gid_ref": 1258310,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Onvec Smart Tag Akıllı Takip Cihazı 4 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734721731515,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601231170,
+      "__unknown_productSubTitle": "Onvec Smart Tag Akıllı Takip Cihazı 4 Adet Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1258311,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Onvec Smart Tag Akıllı Takip Cihazı 4 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733469631122,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599105858,
+      "__unknown_productSubTitle": "Onvec Smart Tag Akıllı Takip Cihazı 4 Adet Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1258312,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Onvec Smart Tag Akıllı Takip Cihazı 4 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720181723758,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/05/51/83/17/50/57/59/36/09/45/76927720905289741363.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599105858,
+      "__unknown_productSubTitle": "Onvec Smart Tag Akıllı Takip Cihazı 4 Adet Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5140823,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/05/51/83/17/50/57/59/36/09/45/76927720905289741363.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/05/51/83/17/50/57/59/36/09/45/76927720905289741363.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/05/51/83/17/50/57/59/36/09/45/76927720905289741363.jpg"
+    }
+  },
+  {
+    "gid_ref": 1258313,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Onvec Smart Tag Akıllı Takip Cihazı 4 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1714414015805,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601600938,
+      "__unknown_productSubTitle": "Onvec Smart Tag Akıllı Takip Cihazı 4 Adet Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1258314,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Onvec Smart Tag Akıllı Takip Cihazı 4 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1712620673450,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601231170,
+      "__unknown_productSubTitle": "Onvec Smart Tag Akıllı Takip Cihazı 4 Adet Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1258315,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Onvec Smart Tag Akıllı Takip Cihazı 4 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711851412647,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599105858,
+      "__unknown_productSubTitle": "Onvec Smart Tag Akıllı Takip Cihazı 4 Adet Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1258316,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Onvec Smart Tag Akıllı Takip Cihazı 4 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710932680200,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599105858,
+      "__unknown_productSubTitle": "Onvec Smart Tag Akıllı Takip Cihazı 4 Adet Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

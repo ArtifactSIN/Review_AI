@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 307639,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mamajoo Pipetli Bardak 270 Ml / Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761825233385,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584406371,
+      "__unknown_productSubTitle": "Mamajoo Pipetli Bardak 270 Ml / Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 307640,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mamajoo Pipetli Bardak 270 Ml / Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733668629951,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584406371,
+      "__unknown_productSubTitle": "Mamajoo Pipetli Bardak 270 Ml / Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 307641,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mamajoo Pipetli Bardak 270 Ml / Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1716656327890,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/25/47/34/91/79/62/91/95/09/25/3323648715512236006.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586975904,
+      "__unknown_productSubTitle": "Mamajoo Pipetli Bardak 270 Ml / Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4781039,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/25/47/34/91/79/62/91/95/09/25/3323648715512236006.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/25/47/34/91/79/62/91/95/09/25/3323648715512236006.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/25/47/34/91/79/62/91/95/09/25/3323648715512236006.png"
+    }
+  }
+]

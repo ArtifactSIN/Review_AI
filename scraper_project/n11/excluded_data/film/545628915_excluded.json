@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 735515,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Valerian ve Bin Gezegen İmparatorluğu - Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744455362999,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 545628915,
+      "__unknown_productSubTitle": "Valerian ve Bin Gezegen İmparatorluğu - Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735516,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Valerian ve Bin Gezegen İmparatorluğu - Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741779438958,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/12/87/61/68/74/16/31/75/95/04/78562985215006622172.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 545628915,
+      "__unknown_productSubTitle": "Valerian ve Bin Gezegen İmparatorluğu - Dvd",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6954226,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/12/87/61/68/74/16/31/75/95/04/78562985215006622172.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/12/87/61/68/74/16/31/75/95/04/78562985215006622172.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/12/87/61/68/74/16/31/75/95/04/78562985215006622172.png"
+    }
+  },
+  {
+    "gid_ref": 735517,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Valerian ve Bin Gezegen İmparatorluğu - Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728399651407,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 545628915,
+      "__unknown_productSubTitle": "Valerian ve Bin Gezegen İmparatorluğu - Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735518,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Valerian ve Bin Gezegen İmparatorluğu - Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1723213493077,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 545628915,
+      "__unknown_productSubTitle": "Valerian ve Bin Gezegen İmparatorluğu - Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

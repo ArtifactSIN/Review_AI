@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 1150159,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Viofo A119 V3 2K 2560*1600P GPS'li Araç Kamerası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710436210163,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/14/85/42/63/44/24/25/91/09/96/33386416748725909084.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524633338,
+      "__unknown_productSubTitle": "Viofo A119 V3 2K 2560*1600P GPS'li Araç Kamerası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4129542,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/14/61/83/32/43/32/47/18/27/10/88432303504470263476.png"
+        },
+        {
+          "id": 4129543,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/14/51/33/73/32/32/66/96/04/13/15853627252895008786.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/14/85/42/63/44/24/25/91/09/96/33386416748725909084.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/14/85/42/63/44/24/25/91/09/96/33386416748725909084.png"
+    }
+  },
+  {
+    "gid_ref": 1150160,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Viofo A119 V3 2K 2560*1600P GPS'li Araç Kamerası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1693601244272,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 549328347,
+      "__unknown_productSubTitle": "Viofo A119 V3 2K 2560*1600P GPS'li Araç Kamerası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

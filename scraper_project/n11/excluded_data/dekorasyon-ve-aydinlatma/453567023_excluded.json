@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 404071,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dekoratif Duvar Saati ( Özel Fiyat )",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765476611124,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 453567023,
+      "__unknown_productSubTitle": "Dekoratif Duvar Saati ( Özel Fiyat )",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 404072,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dekoratif Duvar Saati ( Özel Fiyat )",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714492584378,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/30/66/29/30/33/37/46/97/04/91/43339133188916855054.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 453567023,
+      "__unknown_productSubTitle": "Dekoratif Duvar Saati ( Özel Fiyat )",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4550143,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/30/66/29/30/33/37/46/97/04/91/43339133188916855054.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/30/66/29/30/33/37/46/97/04/91/43339133188916855054.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/30/66/29/30/33/37/46/97/04/91/43339133188916855054.png"
+    }
+  }
+]

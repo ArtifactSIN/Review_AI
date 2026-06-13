@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1162698,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ucuzaav Sealux Çakarlı Can Yeleği Işığı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1620403298152,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 262550593,
+      "__unknown_productSubTitle": "Ucuzaav Sealux Çakarlı Can Yeleği Işığı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1162699,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Can yeleği ışığı hakkında",
+      "productTitle": "Ucuzaav Sealux Çakarlı Can Yeleği Işığı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1556821982981,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 262550593,
+      "__unknown_productSubTitle": "Ucuzaav Sealux Çakarlı Can Yeleği Işığı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

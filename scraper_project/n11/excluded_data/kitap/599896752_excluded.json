@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 811781,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rahle Boy Satır Altı Türkçe Okunuşlu Ve Türkçe Meal Renkli Kurann",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772178743504,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/27/65/07/21/94/41/24/93/41/87/93680362003598391178.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599896752,
+      "__unknown_productSubTitle": "Rahle Boy Satır Altı Türkçe Okunuşlu Ve Türkçe Meal Renkli Kurann",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8419100,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/27/65/07/21/94/41/24/93/41/87/93680362003598391178.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/27/65/07/21/94/41/24/93/41/87/93680362003598391178.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/27/65/07/21/94/41/24/93/41/87/93680362003598391178.png"
+    }
+  },
+  {
+    "gid_ref": 811782,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rahle Boy Satır Altı Türkçe Okunuşlu Ve Türkçe Meal Renkli Kurann",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729879650680,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599896752,
+      "__unknown_productSubTitle": "Rahle Boy Satır Altı Türkçe Okunuşlu Ve Türkçe Meal Renkli Kurann",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

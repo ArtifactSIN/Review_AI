@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 308833,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wee Baby Galaxy Bardak 250 ML Pembe",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1741203456158,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/05/54/87/73/35/59/39/64/76/83/93706349593774504309.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581140041,
+      "__unknown_productSubTitle": "Wee Baby Galaxy Bardak 250 ML Pembe",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6927018,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/05/54/87/73/35/59/39/64/76/83/93706349593774504309.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/05/54/87/73/35/59/39/64/76/83/93706349593774504309.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/05/54/87/73/35/59/39/64/76/83/93706349593774504309.png"
+    }
+  },
+  {
+    "gid_ref": 308834,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wee Baby Galaxy Bardak 250 ML Pembe",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1709323924743,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581140041,
+      "__unknown_productSubTitle": "Wee Baby Galaxy Bardak 250 ML Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

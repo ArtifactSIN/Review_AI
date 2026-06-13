@@ -1,0 +1,89 @@
+[
+  {
+    "gid_ref": 402204,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Harry Potter™ Hagrid™ ve Harry’nin Privet Drive Kaçışı 76459 - 8 Yaş Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (124 P)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771957621631,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727260690,
+      "__unknown_productSubTitle": "LEGO® Harry Potter™ Hagrid™ ve Harry’nin Privet Drive Kaçışı 76459 - 8 Yaş Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (124 P)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 402205,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Harry Potter™ Hagrid™ ve Harry’nin Privet Drive Kaçışı 76459 - 8 Yaş Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (124 P)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770912540943,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/12/84/18/19/76/36/71/05/32/13/080661984714310399.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727260690,
+      "__unknown_productSubTitle": "LEGO® Harry Potter™ Hagrid™ ve Harry’nin Privet Drive Kaçışı 76459 - 8 Yaş Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (124 P)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8355751,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/12/84/18/19/76/36/71/05/32/13/080661984714310399.jpg"
+        },
+        {
+          "id": 8355752,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/12/74/41/33/42/60/08/45/00/83/84167616183994398034.jpg"
+        },
+        {
+          "id": 8355753,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/12/74/10/28/93/76/28/38/91/84/71960175061168703497.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/12/84/18/19/76/36/71/05/32/13/080661984714310399.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/12/84/18/19/76/36/71/05/32/13/080661984714310399.jpg"
+    }
+  },
+  {
+    "gid_ref": 402206,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Harry Potter™ Hagrid™ ve Harry’nin Privet Drive Kaçışı 76459 - 8 Yaş Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (124 P)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1769160146633,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/23/59/67/43/31/25/67/45/70/21/71222247613014886848.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727260690,
+      "__unknown_productSubTitle": "LEGO® Harry Potter™ Hagrid™ ve Harry’nin Privet Drive Kaçışı 76459 - 8 Yaş Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (124 P)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8287366,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/23/84/69/21/18/98/40/01/27/58/99153875471021263080.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/23/59/67/43/31/25/67/45/70/21/71222247613014886848.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/23/59/67/43/31/25/67/45/70/21/71222247613014886848.png"
+    }
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "gid_ref": 1026503,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rebul Rbl Sport Erkek Parfüm EDT 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764840558548,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 686418179,
+      "__unknown_productSubTitle": "Rebul Rbl Sport Erkek Parfüm EDT 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1026504,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rebul Rbl Sport Erkek Parfüm EDT 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764449833114,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/29/66/30/19/78/54/18/83/62/17/33381630709872310455.png",
+      "__unknown_lastModifiedDate": 1764450074776,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 686418179,
+      "__unknown_productSubTitle": "Rebul Rbl Sport Erkek Parfüm EDT 50 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8044681,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/29/66/30/19/78/54/18/83/62/17/33381630709872310455.png"
+        },
+        {
+          "id": 8044683,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/29/72/64/71/03/21/06/64/89/79/31347106687545425115.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/29/66/30/19/78/54/18/83/62/17/33381630709872310455.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/29/66/30/19/78/54/18/83/62/17/33381630709872310455.png"
+    }
+  },
+  {
+    "gid_ref": 1026505,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rebul Rbl Sport Erkek Parfüm EDT 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764258278624,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 686418179,
+      "__unknown_productSubTitle": "Rebul Rbl Sport Erkek Parfüm EDT 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

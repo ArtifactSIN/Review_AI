@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 240039,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Önlem Botanika 6 Extra Large 15+ Kg 62 Adet X 4 Adet 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738960245370,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/07/85/57/35/29/94/74/20/12/79/92692532553280110458.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588770693,
+      "__unknown_productSubTitle": "Önlem Botanika 6 Extra Large 15+ Kg 62 Adet X 4 Adet 4'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6812660,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/07/85/57/35/29/94/74/20/12/79/92692532553280110458.png"
+        },
+        {
+          "id": 6812661,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/07/57/05/84/92/96/41/94/78/67/31801386817407962010.png"
+        },
+        {
+          "id": 6812662,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/07/79/67/74/83/99/98/50/85/37/07727867623462291703.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/07/85/57/35/29/94/74/20/12/79/92692532553280110458.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/07/85/57/35/29/94/74/20/12/79/92692532553280110458.png"
+    }
+  },
+  {
+    "gid_ref": 240040,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Önlem Botanika 6 Extra Large 15+ Kg 62 Adet X 4 Adet 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709932415150,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588770693,
+      "__unknown_productSubTitle": "Önlem Botanika 6 Extra Large 15+ Kg 62 Adet X 4 Adet 4'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 240041,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Önlem Botanika 6 Extra Large 15+ Kg 62 Adet X 4 Adet 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1707835514767,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588770693,
+      "__unknown_productSubTitle": "Önlem Botanika 6 Extra Large 15+ Kg 62 Adet X 4 Adet 4'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

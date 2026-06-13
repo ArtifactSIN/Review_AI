@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 1394740,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Termofer 50/100 Düz Beyaz Havlupan",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775115030650,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/02/87/72/69/36/20/48/95/18/64/0825295781796691740.png",
+      "__unknown_lastModifiedDate": 1775115030650,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641672294,
+      "__unknown_productSubTitle": "Termofer 50/100 Düz Beyaz Havlupan ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8561480,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/87/72/69/36/20/48/95/18/64/0825295781796691740.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/02/87/72/69/36/20/48/95/18/64/0825295781796691740.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/02/87/72/69/36/20/48/95/18/64/0825295781796691740.png"
+    }
+  },
+  {
+    "gid_ref": 1394741,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Termofer 50/100 Düz Beyaz Havlupan",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773911256172,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/19/56/16/90/89/52/10/04/12/51/87695747536188359057.png",
+      "__unknown_lastModifiedDate": 1773911256172,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641672294,
+      "__unknown_productSubTitle": "Termofer 50/100 Düz Beyaz Havlupan ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8484760,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/19/56/16/90/89/52/10/04/12/51/87695747536188359057.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/19/56/16/90/89/52/10/04/12/51/87695747536188359057.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/19/56/16/90/89/52/10/04/12/51/87695747536188359057.png"
+    }
+  }
+]

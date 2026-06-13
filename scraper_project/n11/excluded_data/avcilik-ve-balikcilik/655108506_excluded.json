@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 124233,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ryuji Panic Shad 9cm 5.5gr Silikon Yem 3 adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772465311122,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/02/90/06/97/84/84/10/53/23/09/04934308522773950586.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655108506,
+      "__unknown_productSubTitle": "Ryuji Panic Shad 9cm 5.5gr Silikon Yem 3 adet Red Head Uv",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8427369,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/02/90/06/97/84/84/10/53/23/09/04934308522773950586.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/02/90/06/97/84/84/10/53/23/09/04934308522773950586.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/02/90/06/97/84/84/10/53/23/09/04934308522773950586.png"
+    }
+  },
+  {
+    "gid_ref": 124234,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ryuji Panic Shad 9cm 5.5gr Silikon Yem 3 adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1749739161935,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/12/52/05/58/31/12/92/41/40/01/87137495780341366674.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655108506,
+      "__unknown_productSubTitle": "Ryuji Panic Shad 9cm 5.5gr Silikon Yem 3 adet Red Head Uv",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7320355,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/12/52/05/58/31/12/92/41/40/01/87137495780341366674.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/12/52/05/58/31/12/92/41/40/01/87137495780341366674.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/12/52/05/58/31/12/92/41/40/01/87137495780341366674.png"
+    }
+  }
+]

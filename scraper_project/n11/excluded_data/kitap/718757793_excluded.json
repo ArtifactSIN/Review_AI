@@ -1,0 +1,118 @@
+[
+  {
+    "gid_ref": 816289,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apotemi Yayınları Problemler Konu Anlatımlı Soru Bankası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766122957513,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/19/66/31/20/77/11/92/31/50/13/62833315124429109324.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718757793,
+      "__unknown_productSubTitle": "Apotemi Yayınları Problemler Konu Anlatımlı Soru Bankası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8141901,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/19/66/31/20/77/11/92/31/50/13/62833315124429109324.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/19/66/31/20/77/11/92/31/50/13/62833315124429109324.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/19/66/31/20/77/11/92/31/50/13/62833315124429109324.png"
+    }
+  },
+  {
+    "gid_ref": 816290,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apotemi Yayınları Problemler Konu Anlatımlı Soru Bankası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764858913336,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718757793,
+      "__unknown_productSubTitle": "Apotemi Yayınları Problemler Konu Anlatımlı Soru Bankası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 816291,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apotemi Yayınları Problemler Konu Anlatımlı Soru Bankası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764697687534,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/02/58/32/46/39/61/17/70/58/43/21266248060618784499.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718757793,
+      "__unknown_productSubTitle": "Apotemi Yayınları Problemler Konu Anlatımlı Soru Bankası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8055048,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/02/58/32/46/39/61/17/70/58/43/21266248060618784499.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/02/58/32/46/39/61/17/70/58/43/21266248060618784499.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/02/58/32/46/39/61/17/70/58/43/21266248060618784499.png"
+    }
+  },
+  {
+    "gid_ref": 816292,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apotemi Yayınları Problemler Konu Anlatımlı Soru Bankası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744645069948,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643228718,
+      "__unknown_productSubTitle": "Apotemi Yayınları Problemler Konu Anlatımlı Soru Bankası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 816293,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apotemi Yayınları Problemler Konu Anlatımlı Soru Bankası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1743854624546,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643228718,
+      "__unknown_productSubTitle": "Apotemi Yayınları Problemler Konu Anlatımlı Soru Bankası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

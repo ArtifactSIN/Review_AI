@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 127290,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Caterpillar Colorado Kadın Deri Bot",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772029435067,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612503587,
+      "__unknown_productSubTitle": "Caterpillar Colorado Kadın Deri Bot Tarçın 40 Tarçın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 127291,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Caterpillar Colorado Kadın Deri Bot",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1642680311099,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 510993143,
+      "__unknown_productSubTitle": "Caterpillar Colorado Kadın Deri Bot Siyah 35 Siyah Deri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

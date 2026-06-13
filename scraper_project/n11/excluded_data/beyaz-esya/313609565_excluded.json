@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 280292,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blauberg Turbo-E 100 Kanal Tipi Fan",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720688682028,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 313609565,
+      "__unknown_productSubTitle": "Blauberg Turbo-E 100 Kanal Tipi Fan",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 280293,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blauberg Turbo-E 100 Kanal Tipi Fan",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1718392540121,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/14/55/50/09/00/32/68/37/12/49/85695240706521583459.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 313609565,
+      "__unknown_productSubTitle": "Blauberg Turbo-E 100 Kanal Tipi Fan",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4979137,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/14/55/50/09/00/32/68/37/12/49/85695240706521583459.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/14/55/50/09/00/32/68/37/12/49/85695240706521583459.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/14/55/50/09/00/32/68/37/12/49/85695240706521583459.png"
+    }
+  },
+  {
+    "gid_ref": 280294,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blauberg Turbo-E 100 Kanal Tipi Fan",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1680767165422,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 313609565,
+      "__unknown_productSubTitle": "Blauberg Turbo-E 100 Kanal Tipi Fan",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 280295,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Tam istediğim ürün",
+      "productTitle": "Blauberg Turbo-E 100 Kanal Tipi Fan",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1609383243626,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 313609565,
+      "__unknown_productSubTitle": "Blauberg Turbo-E 100 Kanal Tipi Fan",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 1155867,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Reiss Audio Rs-m6df 16cm Midrange 260 Watt",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771625278300,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/21/63/29/30/11/41/73/19/10/68/93756720626736775262.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 704946140,
+      "__unknown_productSubTitle": "Reiss Audio Rs-m6df 16cm Midrange 260 Watt ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8396517,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/21/63/29/30/11/41/73/19/10/68/93756720626736775262.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/21/63/29/30/11/41/73/19/10/68/93756720626736775262.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/21/63/29/30/11/41/73/19/10/68/93756720626736775262.jpg"
+    }
+  },
+  {
+    "gid_ref": 1155868,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Reiss Audio Rs-m6df 16cm Midrange 260 Watt",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771418478389,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 704946140,
+      "__unknown_productSubTitle": "Reiss Audio Rs-m6df 16cm Midrange 260 Watt ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

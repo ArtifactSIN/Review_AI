@@ -1,0 +1,122 @@
+[
+  {
+    "gid_ref": 745998,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Enshall Ym-k60 Şarjlı 6 Toplu Masaj Tabancası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774976988656,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774976988656,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688304533,
+      "__unknown_productSubTitle": "Enshall Ym-k60 Şarjlı 6 Toplu Masaj Tabancası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 745999,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Enshall Ym-k60 Şarjlı 6 Toplu Masaj Tabancası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771612895539,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688304533,
+      "__unknown_productSubTitle": "Enshall Ym-k60 Şarjlı 6 Toplu Masaj Tabancası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 746000,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Enshall Ym-k60 Şarjlı 6 Toplu Masaj Tabancası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768899887592,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/20/57/33/78/68/74/05/95/60/81/55678901436476731993.jpg",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688304533,
+      "__unknown_productSubTitle": "Enshall Ym-k60 Şarjlı 6 Toplu Masaj Tabancası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8274805,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/20/57/33/78/68/74/05/95/60/81/55678901436476731993.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/20/57/33/78/68/74/05/95/60/81/55678901436476731993.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/20/57/33/78/68/74/05/95/60/81/55678901436476731993.jpg"
+    }
+  },
+  {
+    "gid_ref": 746001,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Enshall Ym-k60 Şarjlı 6 Toplu Masaj Tabancası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767809826436,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/07/91/93/78/38/28/81/81/36/35/12882627750035697931.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688304533,
+      "__unknown_productSubTitle": "Enshall Ym-k60 Şarjlı 6 Toplu Masaj Tabancası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8226970,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/07/91/93/78/38/28/81/81/36/35/12882627750035697931.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/07/91/93/78/38/28/81/81/36/35/12882627750035697931.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/07/91/93/78/38/28/81/81/36/35/12882627750035697931.png"
+    }
+  },
+  {
+    "gid_ref": 746002,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Enshall Ym-k60 Şarjlı 6 Toplu Masaj Tabancası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760474060386,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688304533,
+      "__unknown_productSubTitle": "Enshall Ym-k60 Şarjlı 6 Toplu Masaj Tabancası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

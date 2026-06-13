@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 307359,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mamajoo Elektronik Göğüs Pompası Yedek Sağım Kiti / 160Ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743258339592,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/29/57/74/42/48/59/60/28/10/94/87114668270657554472.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576343902,
+      "__unknown_productSubTitle": "Mamajoo Elektronik Göğüs Pompası Yedek Sağım Kiti / 160Ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7034705,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/29/57/74/42/48/59/60/28/10/94/87114668270657554472.jpeg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/29/57/74/42/48/59/60/28/10/94/87114668270657554472.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/29/57/74/42/48/59/60/28/10/94/87114668270657554472.jpeg"
+    }
+  },
+  {
+    "gid_ref": 307360,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mamajoo Elektronik Göğüs Pompası Yedek Sağım Kiti / 160Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727117267529,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 530392118,
+      "__unknown_productSubTitle": "Mamajoo Elektronik Göğüs Pompası Yedek Sağım Kiti / 160Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 307361,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mamajoo Elektronik Göğüs Pompası Yedek Sağım Kiti / 160Ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709443332041,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576343902,
+      "__unknown_productSubTitle": "Mamajoo Elektronik Göğüs Pompası Yedek Sağım Kiti / 160Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 307362,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mamajoo Elektronik Göğüs Pompası Yedek Sağım Kiti / 160Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1689019339687,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 530392118,
+      "__unknown_productSubTitle": "Mamajoo Elektronik Göğüs Pompası Yedek Sağım Kiti / 160Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 301569,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tcl TAC-09CPB/DL2 9.000 BTU Portatif Klima",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770742885122,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730395728,
+      "__unknown_productSubTitle": "Tcl TAC-09CPB/DL2 9.000 BTU Portatif Klima",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 301570,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tcl TAC-09CPB/DL2 9.000 BTU Portatif Klima",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1757571846902,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695446988,
+      "__unknown_productSubTitle": "Tcl TAC-09CPB/DL2 9.000 BTU Portatif Klima",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

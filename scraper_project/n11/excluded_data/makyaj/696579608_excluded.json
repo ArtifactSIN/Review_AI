@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 851037,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farmasi Bb Fondöten 15 Spf Medium 03 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766935802616,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 537068747,
+      "__unknown_productSubTitle": "Farmasi Bb Fondöten 15 Spf Medium 03 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 851038,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farmasi Bb Fondöten 15 Spf Medium 03 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1687787639856,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 534252662,
+      "__unknown_productSubTitle": "ORİJİNAL ve YENİ TARİHLİ ÜRÜNLER, ÜCRETSİZ KARGO",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 851039,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farmasi Bb Fondöten 15 Spf Medium 03 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1680691446383,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/04/05/69/48/02/80/87/47/06/36/91/6333197719322801732.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 534252662,
+      "__unknown_productSubTitle": "ORİJİNAL ve YENİ TARİHLİ ÜRÜNLER, ÜCRETSİZ KARGO",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1839453,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/04/05/69/48/02/80/87/47/06/36/91/6333197719322801732.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/04/05/69/48/02/80/87/47/06/36/91/6333197719322801732.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/04/05/69/48/02/80/87/47/06/36/91/6333197719322801732.png"
+    }
+  },
+  {
+    "gid_ref": 851040,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farmasi Bb Fondöten 15 Spf Medium 03 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1680083209586,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 534252662,
+      "__unknown_productSubTitle": "ORİJİNAL ve YENİ TARİHLİ ÜRÜNLER, ÜCRETSİZ KARGO",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

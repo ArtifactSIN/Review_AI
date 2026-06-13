@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 800025,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lamy Safarı Dolma Kalem Metal Klıps M Uc Scarlet Mor",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1769354962750,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702072820,
+      "__unknown_productSubTitle": "Lamy Safarı Dolma Kalem Metal Klıps M Uc Scarlet Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 800026,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lamy Safarı Dolma Kalem Metal Klıps M Uc Scarlet Mor",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744912730514,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700918,
+      "__unknown_productSubTitle": "Lamy Safarı Dolma Kalem Metal Klıps M Uc Scarlet Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 800027,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lamy Safarı Dolma Kalem Metal Klıps M Uc Scarlet Mor",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742384498446,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/19/53/41/62/27/15/67/97/85/64/47355445694037313514.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700918,
+      "__unknown_productSubTitle": "Lamy Safarı Dolma Kalem Metal Klıps M Uc Scarlet Mor",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6982204,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/19/53/41/62/27/15/67/97/85/64/47355445694037313514.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/19/53/41/62/27/15/67/97/85/64/47355445694037313514.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/19/53/41/62/27/15/67/97/85/64/47355445694037313514.png"
+    }
+  }
+]

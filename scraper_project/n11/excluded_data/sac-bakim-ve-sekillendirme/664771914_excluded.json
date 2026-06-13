@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1061923,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mamaaura Hydrate Me Shampoo 250 Ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774501221250,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774501221250,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664771914,
+      "__unknown_productSubTitle": "Mamaaura Hydrate Me Shampoo 250 Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1061924,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mamaaura Hydrate Me Shampoo 250 Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756806502798,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/02/76/33/61/81/42/23/76/06/50/56967004397653083365.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 696592478,
+      "__unknown_productSubTitle": "Mamaaura Hydrate Me Shampoo 250 Ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7624396,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/02/76/33/61/81/42/23/76/06/50/56967004397653083365.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/02/76/33/61/81/42/23/76/06/50/56967004397653083365.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/02/76/33/61/81/42/23/76/06/50/56967004397653083365.png"
+    }
+  },
+  {
+    "gid_ref": 1061925,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mamaaura Hydrate Me Shampoo 250 Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756215757111,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 696592478,
+      "__unknown_productSubTitle": "Mamaaura Hydrate Me Shampoo 250 Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

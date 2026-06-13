@@ -1,0 +1,100 @@
+[
+  {
+    "gid_ref": 262511,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çok Amaçlı Oyuncak Dolabı Pembe Beyaz 4 Derin Sepetli Beyaz - Pembe",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741753450650,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/12/49/43/14/55/81/77/90/77/72/26719738982923060825.png",
+      "__unknown_lastModifiedDate": 1750665648275,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605574327,
+      "__unknown_productSubTitle": "Çok Amaçlı Oyuncak Dolabı Pembe Beyaz 4 Derin Sepetli Beyaz - Pembe ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6950834,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/12/49/43/14/55/81/77/90/77/72/26719738982923060825.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/12/49/43/14/55/81/77/90/77/72/26719738982923060825.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/12/49/43/14/55/81/77/90/77/72/26719738982923060825.png"
+    }
+  },
+  {
+    "gid_ref": 262512,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çok Amaçlı Oyuncak Dolabı Pembe Beyaz 4 Derin Sepetli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697363236121,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 488005747,
+      "__unknown_productSubTitle": "DOLAP 4 GÖZLÜ 4 DERİN SEPETLİ (2D PEMBE 2D BEYAZ)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 262513,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çok Amaçlı Oyuncak Dolabı Pembe Beyaz 4 Derin Sepetli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1687201871530,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/06/19/64/64/37/07/83/13/59/35/17/26507692431297592668.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 488005747,
+      "__unknown_productSubTitle": "DOLAP 4 GÖZLÜ 4 DERİN SEPETLİ (2D PEMBE 2D BEYAZ)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2117755,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/06/19/76/20/14/81/69/03/49/56/75/87811480269638486172.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/06/19/64/64/37/07/83/13/59/35/17/26507692431297592668.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/06/19/64/64/37/07/83/13/59/35/17/26507692431297592668.png"
+    }
+  },
+  {
+    "gid_ref": 262514,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "harika",
+      "productTitle": "Çok Amaçlı Oyuncak Dolabı Pembe Beyaz 4 Derin Sepetli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1657099194350,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 488005747,
+      "__unknown_productSubTitle": "DOLAP 4 GÖZLÜ 4 DERİN SEPETLİ (2D PEMBE 2D BEYAZ)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

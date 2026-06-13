@@ -1,0 +1,81 @@
+[
+  {
+    "gid_ref": 799743,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sayılarla Boyama Seti - Liman Yolu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773245863271,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/11/88/34/03/60/22/25/00/74/27/78838287052849040129.jpg",
+      "__unknown_lastModifiedDate": 1773245863271,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664570207,
+      "__unknown_productSubTitle": "Sayılarla Boyama Seti - Liman Yolu Diğer",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8445082,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/11/88/34/03/60/22/25/00/74/27/78838287052849040129.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/11/88/34/03/60/22/25/00/74/27/78838287052849040129.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/11/88/34/03/60/22/25/00/74/27/78838287052849040129.jpg"
+    }
+  },
+  {
+    "gid_ref": 799744,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sayılarla Boyama Seti - Liman Yolu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771143845374,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/15/54/98/54/85/66/93/67/26/58/56221305896901587506.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664570207,
+      "__unknown_productSubTitle": "Sayılarla Boyama Seti - Liman Yolu Diğer",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8359985,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/15/54/98/54/85/66/93/67/26/58/56221305896901587506.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/15/54/98/54/85/66/93/67/26/58/56221305896901587506.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/15/54/98/54/85/66/93/67/26/58/56221305896901587506.png"
+    }
+  },
+  {
+    "gid_ref": 799745,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sayılarla Boyama Seti - Liman Yolu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770881138504,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664570207,
+      "__unknown_productSubTitle": "Sayılarla Boyama Seti - Liman Yolu Diğer",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 846652,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Fit Me Matte + Poreless Fondöten 140 Cool Medium 30 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719140911793,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587514939,
+      "__unknown_productSubTitle": "Maybelline New York Fit Me Matte + Poreless Fondöten 140 Cool Medium 30 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 846653,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Fit Me Fondöten ",
+      "productTitle": "Maybelline New York Fit Me Matte + Poreless Fondöten 140 Cool Medium 30 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1585299435920,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 328618279,
+      "__unknown_productSubTitle": "Maybelline New York Fit Me Matte + Poreless Fondöten 140 Cool Medium 30 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

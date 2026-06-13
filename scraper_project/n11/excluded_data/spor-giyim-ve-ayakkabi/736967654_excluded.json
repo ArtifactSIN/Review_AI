@@ -1,0 +1,100 @@
+[
+  {
+    "gid_ref": 1162567,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Asics 1072a107-103 Upcourt 6 Kadın Voleybol Ayakkabısı Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775680369527,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/08/57/84/02/94/51/54/86/53/97/344141580628848.png",
+      "__unknown_lastModifiedDate": 1775680369527,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695833439,
+      "__unknown_productSubTitle": "Asics 1072a107-103 Upcourt 6 Kadın Voleybol Ayakkabısı Beyaz 39.5",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8580718,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/08/57/84/02/94/51/54/86/53/97/344141580628848.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/08/57/84/02/94/51/54/86/53/97/344141580628848.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/08/57/84/02/94/51/54/86/53/97/344141580628848.png"
+    }
+  },
+  {
+    "gid_ref": 1162568,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Asics 1072a107-103 Upcourt 6 Kadın Voleybol Ayakkabısı Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775416825266,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/05/63/11/29/16/54/49/78/56/63/82388814880676229975.png",
+      "__unknown_lastModifiedDate": 1775416825266,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695833434,
+      "__unknown_productSubTitle": "Asics 1072a107-103 Upcourt 6 Kadın Voleybol Ayakkabısı Beyaz 40",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8569832,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/05/63/11/29/16/54/49/78/56/63/82388814880676229975.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/05/63/11/29/16/54/49/78/56/63/82388814880676229975.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/05/63/11/29/16/54/49/78/56/63/82388814880676229975.png"
+    }
+  },
+  {
+    "gid_ref": 1162569,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Asics 1072a107-103 Upcourt 6 Kadın Voleybol Ayakkabısı Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766222041949,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695833431,
+      "__unknown_productSubTitle": "Asics 1072a107-103 Upcourt 6 Kadın Voleybol Ayakkabısı Beyaz 39",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1162570,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Asics 1072a107-103 Upcourt 6 Kadın Voleybol Ayakkabısı Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764447206222,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695833434,
+      "__unknown_productSubTitle": "Asics 1072a107-103 Upcourt 6 Kadın Voleybol Ayakkabısı Beyaz 40",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

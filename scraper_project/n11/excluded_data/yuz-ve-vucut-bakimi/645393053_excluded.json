@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1512975,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İpek Hidrofil Pamuk 100 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774538161739,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774538161739,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645393053,
+      "__unknown_productSubTitle": "İpek Hidrofil Pamuk 100 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1512976,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İpek Hidrofil Pamuk 100 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1711629833394,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579689220,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

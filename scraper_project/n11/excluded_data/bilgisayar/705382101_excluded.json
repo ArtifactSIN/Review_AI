@@ -1,0 +1,104 @@
+[
+  {
+    "gid_ref": 352265,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi Redmi Pad 2 4 GB 128 GB 11\" Tablet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775480640606,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775480640606,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705393069,
+      "__unknown_productSubTitle": "Xiaomi Redmi Pad 2 4 GB 128 GB 11\" Tablet Yeşil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 352266,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi Redmi Pad 2 4 GB 128 GB 11\" Tablet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775480620331,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775480620331,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705393069,
+      "__unknown_productSubTitle": "Xiaomi Redmi Pad 2 4 GB 128 GB 11\" Tablet Yeşil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 352267,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi Redmi Pad 2 4 GB 128 GB 11\" Tablet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766169608722,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719051959,
+      "__unknown_productSubTitle": "Xiaomi Redmi Pad 2 4 GB 128 GB 11\" Tablet Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 352268,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi Redmi Pad 2 4 GB 128 GB 11\" Tablet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764009185485,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719052031,
+      "__unknown_productSubTitle": "Xiaomi Redmi Pad 2 4 GB 128 GB 11\" Tablet Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 352269,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi Redmi Pad 2 4 GB 128 GB 11\" Tablet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1752073114680,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684674774,
+      "__unknown_productSubTitle": "Xiaomi Redmi Pad 2 4 GB 128 GB 11\" Tablet Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 488390,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi Robot Vacuum S40 Pro 15.000 Pa Robot Süpürge",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775303871041,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/04/84/99/53/71/95/09/22/75/23/74204507586317431766.jpg",
+      "__unknown_lastModifiedDate": 1775303871041,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734370552,
+      "__unknown_productSubTitle": "Xiaomi Robot Vacuum S40 Pro 15.000 Pa Robot Süpürge",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8567270,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/04/84/99/53/71/95/09/22/75/23/74204507586317431766.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/04/84/99/53/71/95/09/22/75/23/74204507586317431766.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/04/84/99/53/71/95/09/22/75/23/74204507586317431766.jpg"
+    }
+  },
+  {
+    "gid_ref": 488391,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi Robot Vacuum S40 Pro 15.000 Pa Robot Süpürge",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773163050129,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773163050129,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 735166358,
+      "__unknown_productSubTitle": "Xiaomi Robot Vacuum S40 Pro 15.000 Pa Robot Süpürge",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 356643,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lenovo LOQ 15IAX9E 83LK002VTR i7-12650HX 16 GB 512 GB SSD RTX4050 15.6\" Dos Dizüstü Bilgisayar",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768234278415,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724216736,
+      "__unknown_productSubTitle": "Lenovo LOQ 15IAX9E 83LK002VTR i7-12650HX 16 GB 512 GB SSD RTX4050 15.6\" Dos Dizüstü Bilgisayar",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 356644,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lenovo LOQ 15IAX9E 83LK002VTR i7-12650HX 16 GB 512 GB SSD RTX4050 15.6\" Dos Dizüstü Bilgisayar",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1752607100700,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/15/62/49/39/79/76/04/49/56/82/23995820533752708401.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 674368450,
+      "__unknown_productSubTitle": "Lenovo LOQ 15IAX9E 83LK002VTR i7-12650HX 16 GB 512 GB SSD RTX4050 15.6\" Dos Dizüstü Bilgisayar",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7443149,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/15/62/49/39/79/76/04/49/56/82/23995820533752708401.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/15/62/49/39/79/76/04/49/56/82/23995820533752708401.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/15/62/49/39/79/76/04/49/56/82/23995820533752708401.jpg"
+    }
+  }
+]

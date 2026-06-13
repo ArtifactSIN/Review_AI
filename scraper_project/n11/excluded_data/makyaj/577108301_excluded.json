@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 837645,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bella House K 5181 Çift Yönlü Kare Makyaj Aynası Gold",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765890901698,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577108301,
+      "__unknown_productSubTitle": "Bella House K 5181 Çift Yönlü Kare Makyaj Aynası Gold",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 837646,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bella House K 5181 Çift Yönlü Kare Makyaj Aynası Gold",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728283805667,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/07/89/26/97/79/65/22/51/35/16/58804765906421136592.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577108301,
+      "__unknown_productSubTitle": "Bella House K 5181 Çift Yönlü Kare Makyaj Aynası Gold",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5861674,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/07/89/26/97/79/65/22/51/35/16/58804765906421136592.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/07/89/26/97/79/65/22/51/35/16/58804765906421136592.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/07/89/26/97/79/65/22/51/35/16/58804765906421136592.png"
+    }
+  }
+]

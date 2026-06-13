@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 367838,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wilson 2 Adet Comfort Bowl O'grips Tekli Kiremit Grip As-Gkk2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732793412075,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/28/60/90/03/76/72/51/90/03/38/78008861961117910938.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 448563859,
+      "__unknown_productSubTitle": "Wilson 2 Adet Comfort Bowl O'grips Tekli Kiremit Grip As-Gkk2",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6346959,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/28/60/90/03/76/72/51/90/03/38/78008861961117910938.jpg"
+        },
+        {
+          "id": 6346960,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/28/91/86/39/24/66/50/46/78/52/18669552667229244255.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/28/60/90/03/76/72/51/90/03/38/78008861961117910938.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/28/60/90/03/76/72/51/90/03/38/78008861961117910938.jpg"
+    }
+  },
+  {
+    "gid_ref": 367839,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wilson 2 Adet Comfort Bowl O'grips Tekli Kiremit Grip As-Gkk2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729543185675,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 448563859,
+      "__unknown_productSubTitle": "Wilson 2 Adet Comfort Bowl O'grips Tekli Kiremit Grip As-Gkk2",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

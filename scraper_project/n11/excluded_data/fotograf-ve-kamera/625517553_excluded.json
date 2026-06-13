@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 751767,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Acar Foto PP46100 100'lük Bebek Fotoğraf Albümü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753206110374,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591070141,
+      "__unknown_productSubTitle": "Acar Foto PP46100 100'lük Bebek Fotoğraf Albümü Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751768,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Acar Foto PP46100 100'lük Bebek Fotoğraf Albümü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1751227192399,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/29/55/13/77/45/49/45/20/22/55/37133657577196204958.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 625517553,
+      "__unknown_productSubTitle": "Acar Foto PP46100 100'lük Bebek Fotoğraf Albümü Pembe",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7378813,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/29/55/13/77/45/49/45/20/22/55/37133657577196204958.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/29/55/13/77/45/49/45/20/22/55/37133657577196204958.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/29/55/13/77/45/49/45/20/22/55/37133657577196204958.png"
+    }
+  },
+  {
+    "gid_ref": 751769,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Acar Foto PP46100 100'lük Bebek Fotoğraf Albümü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717159037038,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591070141,
+      "__unknown_productSubTitle": "Acar Foto PP46100 100'lük Bebek Fotoğraf Albümü Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

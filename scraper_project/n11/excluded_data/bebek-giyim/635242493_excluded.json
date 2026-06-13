@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 252270,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. U.s. Polo Assn Krem Bebek Ayakkabı 5274-33683 Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773756548931,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/17/52/91/13/20/25/61/90/69/20/93296988924679113070.jpg",
+      "__unknown_lastModifiedDate": 1773756548931,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635242491,
+      "__unknown_productSubTitle": "U.S. Polo Assn. U.s. Polo Assn Krem Bebek Ayakkabı 5274-33683 Çok Renkli 18",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8470038,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/17/52/91/13/20/25/61/90/69/20/93296988924679113070.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/17/52/91/13/20/25/61/90/69/20/93296988924679113070.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/17/52/91/13/20/25/61/90/69/20/93296988924679113070.jpg"
+    }
+  },
+  {
+    "gid_ref": 252271,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. U.s. Polo Assn Krem Bebek Ayakkabı 5274-33683 Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728916638072,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750661554395,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635242491,
+      "__unknown_productSubTitle": "U.S. Polo Assn. U.s. Polo Assn Krem Bebek Ayakkabı 5274-33683 Çok Renkli 18",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

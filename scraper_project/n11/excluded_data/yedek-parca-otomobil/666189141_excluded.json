@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1475298,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Peugeot 3008 Pandizot Bagaj Rafı 2016-2022",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769634363230,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666189141,
+      "__unknown_productSubTitle": "Peugeot 3008 Pandizot Bagaj Rafı 2016-2022 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1475299,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Peugeot 3008 Pandizot Bagaj Rafı 2016-2022",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745329280856,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666189141,
+      "__unknown_productSubTitle": "Peugeot 3008 Pandizot Bagaj Rafı 2016-2022 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

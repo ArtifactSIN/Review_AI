@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 396838,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® DUPLO® 10416 Kasabası Çiftlikte Hayvanların Bakımı 74 Parça",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1761675308646,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/28/84/17/43/97/48/77/98/92/36/01868751487730300751.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 681069637,
+      "__unknown_productSubTitle": "LEGO® DUPLO® 10416 Kasabası Çiftlikte Hayvanların Bakımı 74 Parça",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7868014,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/28/84/17/43/97/48/77/98/92/36/01868751487730300751.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/28/84/17/43/97/48/77/98/92/36/01868751487730300751.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/28/84/17/43/97/48/77/98/92/36/01868751487730300751.png"
+    }
+  },
+  {
+    "gid_ref": 396839,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® DUPLO® 10416 Kasabası Çiftlikte Hayvanların Bakımı 74 Parça",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1752601766357,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664174074,
+      "__unknown_productSubTitle": "LEGO® DUPLO® 10416 Kasabası Çiftlikte Hayvanların Bakımı 74 Parça",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 396840,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® DUPLO® 10416 Kasabası Çiftlikte Hayvanların Bakımı 74 Parça",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726256812097,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595085856,
+      "__unknown_productSubTitle": "LEGO® DUPLO® 10416 Kasabası Çiftlikte Hayvanların Bakımı 74 Parça",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

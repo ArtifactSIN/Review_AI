@@ -1,0 +1,80 @@
+[
+  {
+    "gid_ref": 753841,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Estella Solingen Kaş Ve Bıyık Makası Ac005",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1707989275718,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573477488,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 753842,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Estella Solingen Kaş Ve Bıyık Makası Ac005",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1698175487428,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573477488,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 753843,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Estella Solingen Kaş Ve Bıyık Makası Ac005",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1690619395874,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576001565,
+      "__unknown_productSubTitle": "Estella Solingen Kaş Ve Bıyık Makası Ac005",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 753844,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Estella Solingen Kaş Ve Bıyık Makası Ac005",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1673509326960,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 402665306,
+      "__unknown_productSubTitle": "Estella Solingen Kaş Ve Bıyık Makası Ac005",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

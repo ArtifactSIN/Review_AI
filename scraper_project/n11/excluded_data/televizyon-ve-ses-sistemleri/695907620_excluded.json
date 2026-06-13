@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 1327616,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LG 65NANO90A 65\" 165 Ekran 4K Smart AI Uydu Alıcılı Sihirli Kumanda Webos25 Nanocell Tv",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759957422749,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/09/76/93/83/83/88/78/27/46/55/55469806170341358922.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695907620,
+      "__unknown_productSubTitle": "Lg 65nano90a 65\" 165 Ekran 4k Smart Aı Uydu Alıcılı Sihirli Kumanda Webos25 Nanocell Tv",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7770739,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/09/76/93/83/83/88/78/27/46/55/55469806170341358922.png"
+        },
+        {
+          "id": 7770740,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/09/60/12/10/21/97/49/15/29/41/42154298587506363752.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/09/76/93/83/83/88/78/27/46/55/55469806170341358922.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/09/76/93/83/83/88/78/27/46/55/55469806170341358922.png"
+    }
+  },
+  {
+    "gid_ref": 1327617,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LG 65NANO90A 65\" 165 Ekran 4K Smart AI Uydu Alıcılı Sihirli Kumanda Webos25 Nanocell Tv",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757236081866,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695907620,
+      "__unknown_productSubTitle": "Lg 65nano90a 65\" 165 Ekran 4k Smart Aı Uydu Alıcılı Sihirli Kumanda Webos25 Nanocell Tv",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

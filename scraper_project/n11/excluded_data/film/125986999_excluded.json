@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 734811,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Teşekkürler ",
+      "productTitle": "Dvd-Roberto Rossellini 4 Dvd Box Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1644012995661,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 125986999,
+      "__unknown_productSubTitle": "Dvd-Roberto Rossellini 4 Dvd Box Set",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734812,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "DVDler çizik çıktı",
+      "productTitle": "Dvd-Roberto Rossellini 4 Dvd Box Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1479755750138,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 125986999,
+      "__unknown_productSubTitle": "Dvd-Roberto Rossellini 4 Dvd Box Set",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

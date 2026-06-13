@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 259920,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel bir ürün",
+      "productTitle": "Oyun Parkı Yatağı Sünger Yatak Alezli 10 x 65 x 95 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1661590582854,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 351189243,
+      "__unknown_productSubTitle": "Oyun Parkı Yatağı Sünger Yatak Alezli 10 x 65 x 95 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 259921,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "sünger yatak",
+      "productTitle": "Oyun Parkı Yatağı Sünger Yatak Alezli 10 x 65 x 95 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1585749317964,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 351189243,
+      "__unknown_productSubTitle": "Oyun Parkı Yatağı Sünger Yatak Alezli 10 x 65 x 95 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

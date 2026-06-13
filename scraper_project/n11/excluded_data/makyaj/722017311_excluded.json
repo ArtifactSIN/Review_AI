@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 852614,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Siyah Kalpli Makyaj Çantası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768116013791,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 722017311,
+      "__unknown_productSubTitle": "Siyah Kalpli Makyaj Çantası Açık Bej",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 852615,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Siyah Kalpli Makyaj Çantası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767908526111,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 722017311,
+      "__unknown_productSubTitle": "Siyah Kalpli Makyaj Çantası Açık Bej",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

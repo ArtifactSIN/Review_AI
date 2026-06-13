@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1490829,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Redka Hedef 5 Zeka Mantık ve Strateji Oyunu Akıl Oyunları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1679315320097,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/03/20/57/85/81/31/70/98/66/47/58/84860915477797452797.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 526279001,
+      "__unknown_productSubTitle": "Redka Hedef 5 Zeka Mantık ve Strateji Oyunu Akıl Oyunları",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1758838,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/03/20/57/85/81/31/70/98/66/47/58/84860915477797452797.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/03/20/57/85/81/31/70/98/66/47/58/84860915477797452797.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/03/20/57/85/81/31/70/98/66/47/58/84860915477797452797.jpg"
+    }
+  },
+  {
+    "gid_ref": 1490830,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Redka Hedef 5 Zeka Mantık ve Strateji Oyunu Akıl Oyunları",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1537957721305,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 212170312,
+      "__unknown_productSubTitle": "Redka Hedef 5 Zeka Mantık ve Strateji Oyunu Akıl Oyunları",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

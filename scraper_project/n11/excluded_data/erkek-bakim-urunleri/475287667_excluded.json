@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 507157,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permasharp Yarım Ustura Jileti 100'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742914879452,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 475287667,
+      "__unknown_productSubTitle": "Gillette Permasharp Yarım Ustura Jileti 100'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 507158,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permasharp Yarım Ustura Jileti 100'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697738661590,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 475287667,
+      "__unknown_productSubTitle": "Gillette Permasharp Yarım Ustura Jileti 100'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 507159,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permasharp Yarım Ustura Jileti 100'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697061124592,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/10/12/57/35/07/62/87/68/63/43/90/96563531883279136995.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 475287667,
+      "__unknown_productSubTitle": "Gillette Permasharp Yarım Ustura Jileti 100'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2497986,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/12/57/35/07/62/87/68/63/43/90/96563531883279136995.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/10/12/57/35/07/62/87/68/63/43/90/96563531883279136995.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/10/12/57/35/07/62/87/68/63/43/90/96563531883279136995.jpg"
+    }
+  }
+]

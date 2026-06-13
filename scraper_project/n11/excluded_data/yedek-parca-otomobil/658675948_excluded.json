@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1474030,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Photon Milestone D2s Compact Led Ballast Versiyon Led Zenon",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759332567803,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/01/72/19/41/83/38/51/54/45/28/65200552073108472708.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 658675948,
+      "__unknown_productSubTitle": "Photon Milestone D2s Compact Led Ballast Versiyon Led Zenon ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7749857,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/01/91/82/15/64/44/24/73/31/94/55690767968507284086.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/01/72/19/41/83/38/51/54/45/28/65200552073108472708.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/01/72/19/41/83/38/51/54/45/28/65200552073108472708.png"
+    }
+  },
+  {
+    "gid_ref": 1474031,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Photon Milestone D2s Compact Led Ballast Versiyon Led Zenon",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1751712724853,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 658675948,
+      "__unknown_productSubTitle": "Photon Milestone D2s Compact Led Ballast Versiyon Led Zenon ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

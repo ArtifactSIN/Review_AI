@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1313750,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Duracell 6LR61/MN1604 Alkalin 9V Pil 3'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744802949385,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592060079,
+      "__unknown_productSubTitle": "Duracell 6LR61/MN1604 Alkalin 9V Pil 3'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1313751,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Duracell 6LR61/MN1604 Alkalin 9V Pil 3'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743042553592,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592060079,
+      "__unknown_productSubTitle": "Duracell 6LR61/MN1604 Alkalin 9V Pil 3'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1313752,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Orjinal ürün",
+      "productTitle": "Duracell 6LR61/MN1604 Alkalin 9V Pil 3'lü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1613205080856,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 406625275,
+      "__unknown_productSubTitle": "Duracell 6LR61/MN1604 Alkalin 9V Pil 3'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

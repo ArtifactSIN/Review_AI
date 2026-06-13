@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 1515664,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Solante Pigmenta Sun Care Lotion SPF50+ 2 x 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774964459229,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/62/19/40/59/67/32/43/08/15/84364342967866340545.jpg",
+      "__unknown_lastModifiedDate": 1774964459229,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 672711990,
+      "__unknown_productSubTitle": "Solante Pigmenta Sun Care Lotion SPF50+ 2 x 150 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8539295,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/62/19/40/59/67/32/43/08/15/84364342967866340545.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/62/19/40/59/67/32/43/08/15/84364342967866340545.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/62/19/40/59/67/32/43/08/15/84364342967866340545.jpg"
+    }
+  },
+  {
+    "gid_ref": 1515665,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Solante Pigmenta Sun Care Lotion SPF50+ 2 x 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765688229313,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/14/84/51/42/07/96/42/51/06/12/98442642167590991508.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 672711990,
+      "__unknown_productSubTitle": "Solante Pigmenta Sun Care Lotion SPF50+ 2 x 150 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8116578,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/14/84/51/42/07/96/42/51/06/12/98442642167590991508.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/14/84/51/42/07/96/42/51/06/12/98442642167590991508.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/14/84/51/42/07/96/42/51/06/12/98442642167590991508.png"
+    }
+  },
+  {
+    "gid_ref": 1515666,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Solante Pigmenta Sun Care Lotion SPF50+ 2 x 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756745318430,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 672711990,
+      "__unknown_productSubTitle": "Solante Pigmenta Sun Care Lotion SPF50+ 2 x 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

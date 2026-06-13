@@ -1,0 +1,102 @@
+[
+  {
+    "gid_ref": 1066899,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Creme Supreme Saç Boyası 9-16 Küllü Soğuk Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774563035896,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/66/65/17/87/12/69/13/03/92/35875055495758170814.jpg",
+      "__unknown_lastModifiedDate": 1774563035896,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675625680,
+      "__unknown_productSubTitle": "Creme Supreme Saç Boyası 9-16 Küllü Soğuk Sarı Diğer",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8525059,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/66/65/17/87/12/69/13/03/92/35875055495758170814.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/66/65/17/87/12/69/13/03/92/35875055495758170814.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/66/65/17/87/12/69/13/03/92/35875055495758170814.jpg"
+    }
+  },
+  {
+    "gid_ref": 1066900,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Creme Supreme Saç Boyası 9-16 Küllü Soğuk Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773325053829,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/12/79/00/18/32/14/42/80/71/29/82945233686547874614.png",
+      "__unknown_lastModifiedDate": 1773325053829,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675625680,
+      "__unknown_productSubTitle": "Creme Supreme Saç Boyası 9-16 Küllü Soğuk Sarı Diğer",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8464057,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/12/79/00/18/32/14/42/80/71/29/82945233686547874614.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/12/79/00/18/32/14/42/80/71/29/82945233686547874614.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/12/79/00/18/32/14/42/80/71/29/82945233686547874614.png"
+    }
+  },
+  {
+    "gid_ref": 1066901,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Creme Supreme Saç Boyası 9-16 Küllü Soğuk Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773268268808,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773268268808,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675625680,
+      "__unknown_productSubTitle": "Creme Supreme Saç Boyası 9-16 Küllü Soğuk Sarı Diğer",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1066902,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Creme Supreme Saç Boyası 9-16 Küllü Soğuk Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772900932853,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772900932853,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675625680,
+      "__unknown_productSubTitle": "Creme Supreme Saç Boyası 9-16 Küllü Soğuk Sarı Diğer",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

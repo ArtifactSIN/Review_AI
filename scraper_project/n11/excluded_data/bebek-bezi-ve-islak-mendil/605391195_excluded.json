@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 244119,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prima Bebek Bezi Premium Care 1 Numara 140 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752752341292,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 506995158,
+      "__unknown_productSubTitle": "Prima Bebek Bezi Premium Care 1 Numara 140 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 244120,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prima Bebek Bezi Premium Care 1 Numara 140 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742071513794,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 506995158,
+      "__unknown_productSubTitle": "Prima Bebek Bezi Premium Care 1 Numara 140 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 244121,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prima Bebek Bezi Premium Care 1 Numara 140 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1714428044883,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592813236,
+      "__unknown_productSubTitle": "Prima Bebek Bezi Premium Care 1 Numara 140 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 244122,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prima Bebek Bezi Premium Care 1 Numara 140 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1708268752023,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/18/51/73/76/62/21/62/39/57/31/14188000480561940419.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 506995158,
+      "__unknown_productSubTitle": "Prima Bebek Bezi Premium Care 1 Numara 140 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3915641,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/18/51/73/76/62/21/62/39/57/31/14188000480561940419.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/18/51/73/76/62/21/62/39/57/31/14188000480561940419.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/18/51/73/76/62/21/62/39/57/31/14188000480561940419.jpg"
+    }
+  },
+  {
+    "gid_ref": 244123,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prima Bebek Bezi Premium Care 1 Numara 140 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1677789039302,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 506995158,
+      "__unknown_productSubTitle": "Prima Bebek Bezi Premium Care 1 Numara 140 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

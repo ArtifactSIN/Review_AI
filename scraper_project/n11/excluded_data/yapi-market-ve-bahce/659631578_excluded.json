@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 1399677,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Uzatma Kablosu 3 2.5 Kablo 60 Metre 60 M",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775831129039,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/10/86/74/78/94/17/90/53/96/63/24340603752650815925.png",
+      "__unknown_lastModifiedDate": 1775831129039,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659631578,
+      "__unknown_productSubTitle": "Uzatma Kablosu 3 2.5 Kablo 60 Metre 60 M ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8593414,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/86/74/78/94/17/90/53/96/63/24340603752650815925.png"
+        },
+        {
+          "id": 8593415,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/75/57/21/22/96/25/95/78/68/86429095165327815944.png"
+        },
+        {
+          "id": 8593416,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/89/43/63/47/22/91/08/33/01/23424299216740794234.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/10/86/74/78/94/17/90/53/96/63/24340603752650815925.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/10/86/74/78/94/17/90/53/96/63/24340603752650815925.png"
+    }
+  },
+  {
+    "gid_ref": 1399678,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Uzatma Kablosu 3 2.5 Kablo 60 Metre 60 M",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754915487321,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659631578,
+      "__unknown_productSubTitle": "Uzatma Kablosu 3 2.5 Kablo 60 Metre 60 M ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

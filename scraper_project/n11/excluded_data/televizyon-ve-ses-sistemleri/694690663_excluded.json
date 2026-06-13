@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 1327514,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung 55QN70F 55\" 4K UHD Smart Neo QLED TV",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762667305111,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/09/69/90/12/19/60/47/07/00/68/93642521841811606411.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675688780,
+      "__unknown_productSubTitle": "Samsung 55QN70F 55\" 4K UHD Smart Neo QLED TV",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7947200,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/09/69/90/12/19/60/47/07/00/68/93642521841811606411.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/09/69/90/12/19/60/47/07/00/68/93642521841811606411.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/09/69/90/12/19/60/47/07/00/68/93642521841811606411.png"
+    }
+  },
+  {
+    "gid_ref": 1327515,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung 55QN70F 55\" 4K UHD Smart Neo QLED TV",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762100975958,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 676186347,
+      "__unknown_productSubTitle": "Samsung 55QN70F 55\" 4K UHD Smart Neo QLED TV",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1327516,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung 55QN70F 55\" 4K UHD Smart Neo QLED TV",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1752704376177,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675847174,
+      "__unknown_productSubTitle": "Samsung 55QN70F 55\" 4K UHD Smart Neo QLED TV",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1327517,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung 55QN70F 55\" 4K UHD Smart Neo QLED TV",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752092668937,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675688780,
+      "__unknown_productSubTitle": "Samsung 55QN70F 55\" 4K UHD Smart Neo QLED TV",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1247215,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nestle Coffee Mate Kahve Kreması 900 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753784893007,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 678215175,
+      "__unknown_productSubTitle": "Nestle Coffee Mate Kahve Kreması 900 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1247216,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nestle Coffee Mate Kahve Kreması 900 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730819137613,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/05/59/70/99/32/67/45/44/99/72/05252605277798288565.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638511391,
+      "__unknown_productSubTitle": "Nestle Coffee Mate Kahve Kreması 900 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6131533,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/05/59/70/99/32/67/45/44/99/72/05252605277798288565.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/05/59/70/99/32/67/45/44/99/72/05252605277798288565.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/05/59/70/99/32/67/45/44/99/72/05252605277798288565.png"
+    }
+  }
+]

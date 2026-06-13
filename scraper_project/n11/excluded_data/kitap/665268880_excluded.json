@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 815338,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Deniz Hoca Ayt Edebiyat 12 Deneme Kr Akademi Yayınları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746028175048,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665268880,
+      "__unknown_productSubTitle": "Deniz Hoca Ayt Edebiyat 12 Deneme Kr Akademi Yayınları",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 815339,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Deniz Hoca Ayt Edebiyat 12 Deneme Kr Akademi Yayınları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745658755345,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/26/69/12/06/62/67/24/14/84/03/61647406388640105341.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665268880,
+      "__unknown_productSubTitle": "Deniz Hoca Ayt Edebiyat 12 Deneme Kr Akademi Yayınları",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7136334,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/26/69/12/06/62/67/24/14/84/03/61647406388640105341.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/26/69/12/06/62/67/24/14/84/03/61647406388640105341.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/26/69/12/06/62/67/24/14/84/03/61647406388640105341.png"
+    }
+  },
+  {
+    "gid_ref": 815340,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Deniz Hoca Ayt Edebiyat 12 Deneme Kr Akademi Yayınları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744782493093,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665268880,
+      "__unknown_productSubTitle": "Deniz Hoca Ayt Edebiyat 12 Deneme Kr Akademi Yayınları",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 815341,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Deniz Hoca Ayt Edebiyat 12 Deneme Kr Akademi Yayınları",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744451898772,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665268880,
+      "__unknown_productSubTitle": "Deniz Hoca Ayt Edebiyat 12 Deneme Kr Akademi Yayınları",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

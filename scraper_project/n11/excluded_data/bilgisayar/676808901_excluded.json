@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 350202,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hyperx Quadcast 2 S Rgb Oyuncu Mikrofonu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1769103417126,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/22/77/22/39/29/57/33/88/50/05/498479606916532165.PNG",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690402615,
+      "__unknown_productSubTitle": "Hyperx Quadcast 2 S Rgb Oyuncu Mikrofonu Black",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8283710,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/22/77/22/39/29/57/33/88/50/05/498479606916532165.PNG"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/22/77/22/39/29/57/33/88/50/05/498479606916532165.PNG",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/22/77/22/39/29/57/33/88/50/05/498479606916532165.PNG"
+    }
+  },
+  {
+    "gid_ref": 350203,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hyperx Quadcast 2 S Rgb Oyuncu Mikrofonu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764688910385,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 681396922,
+      "__unknown_productSubTitle": "Hyperx Quadcast 2 S Rgb Oyuncu Mikrofonu Black",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

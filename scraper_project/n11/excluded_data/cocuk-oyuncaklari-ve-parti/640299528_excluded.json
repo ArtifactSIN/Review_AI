@@ -1,0 +1,120 @@
+[
+  {
+    "gid_ref": 396407,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fil Masalcı Piyano Mavi Birlik 855-31A",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774895925127,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/75/13/62/81/90/82/78/66/31/78306155233343290417.jpg",
+      "__unknown_lastModifiedDate": 1774895925127,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639759696,
+      "__unknown_productSubTitle": "Fil Masalcı Piyano Mavi Birlik 855-31A",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8533175,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/75/13/62/81/90/82/78/66/31/78306155233343290417.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/75/13/62/81/90/82/78/66/31/78306155233343290417.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/75/13/62/81/90/82/78/66/31/78306155233343290417.jpg"
+    }
+  },
+  {
+    "gid_ref": 396408,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fil Masalcı Piyano Mavi Birlik 855-31A",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773571028801,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773571028801,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639759696,
+      "__unknown_productSubTitle": "Fil Masalcı Piyano Mavi Birlik 855-31A",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 396409,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fil Masalcı Piyano Mavi Birlik 855-31A",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764788803391,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/03/48/46/65/46/31/05/62/49/90/11598967807732332926.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639759696,
+      "__unknown_productSubTitle": "Fil Masalcı Piyano Mavi Birlik 855-31A",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8070372,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/03/48/46/65/46/31/05/62/49/90/11598967807732332926.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/03/48/46/65/46/31/05/62/49/90/11598967807732332926.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/03/48/46/65/46/31/05/62/49/90/11598967807732332926.png"
+    }
+  },
+  {
+    "gid_ref": 396410,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fil Masalcı Piyano Mavi Birlik 855-31A",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1742637637722,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639759696,
+      "__unknown_productSubTitle": "Fil Masalcı Piyano Mavi Birlik 855-31A",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 396411,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fil Masalcı Piyano Mavi Birlik 855-31A",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739306651087,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639759696,
+      "__unknown_productSubTitle": "Fil Masalcı Piyano Mavi Birlik 855-31A",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

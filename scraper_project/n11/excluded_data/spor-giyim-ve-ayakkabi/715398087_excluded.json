@@ -1,0 +1,56 @@
+[
+  {
+    "gid_ref": 1161658,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Arch Fit Recon - Cadell Erkek Siyah Outdoor Ayakkabı 204409 Blk Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774166668314,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/22/76/70/66/63/24/15/63/40/40/45165325661392883695.png",
+      "__unknown_lastModifiedDate": 1774166668314,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645520756,
+      "__unknown_productSubTitle": "Skechers Arch Fit Recon - Cadell Erkek Siyah Outdoor Ayakkabı 204409 Blk Siyah 41",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8482246,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/22/76/70/66/63/24/15/63/40/40/45165325661392883695.png"
+        },
+        {
+          "id": 8482247,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/22/81/82/42/49/27/49/87/78/52/41231270910702013247.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/22/76/70/66/63/24/15/63/40/40/45165325661392883695.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/22/76/70/66/63/24/15/63/40/40/45165325661392883695.png"
+    }
+  },
+  {
+    "gid_ref": 1161659,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Arch Fit Recon - Cadell Erkek Siyah Outdoor Ayakkabı 204409 Blk Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772054828741,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645520756,
+      "__unknown_productSubTitle": "Skechers Arch Fit Recon - Cadell Erkek Siyah Outdoor Ayakkabı 204409 Blk Siyah 41",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

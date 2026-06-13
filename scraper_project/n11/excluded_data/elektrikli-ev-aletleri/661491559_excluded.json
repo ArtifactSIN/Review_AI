@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 471993,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sınger 622 Plastik Çanta (543174222)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774618460718,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/71/62/44/85/70/61/11/24/11/45994138471862939844.jpg",
+      "__unknown_lastModifiedDate": 1774618460718,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661491559,
+      "__unknown_productSubTitle": "Sınger 622 Plastik Çanta (543174222)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8526920,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/71/62/44/85/70/61/11/24/11/45994138471862939844.jpg"
+        },
+        {
+          "id": 8526921,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/55/56/80/50/28/62/01/29/24/85808435883796546388.jpg"
+        },
+        {
+          "id": 8526922,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/90/51/28/86/04/57/38/66/36/46776174306786259548.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/71/62/44/85/70/61/11/24/11/45994138471862939844.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/71/62/44/85/70/61/11/24/11/45994138471862939844.jpg"
+    }
+  },
+  {
+    "gid_ref": 471994,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sınger 622 Plastik Çanta (543174222)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762719853831,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 674937424,
+      "__unknown_productSubTitle": "Sınger 622 Plastik Çanta (543174222)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 471995,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sınger 622 Plastik Çanta (543174222)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750353234402,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661491559,
+      "__unknown_productSubTitle": "Sınger 622 Plastik Çanta (543174222)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

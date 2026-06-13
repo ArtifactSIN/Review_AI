@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 735673,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Interpreter - Çevirmen Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1716624465240,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/25/64/99/32/65/50/80/85/73/68/77144170801548117737.jpg",
+      "__unknown_lastModifiedDate": 1716624545447,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 59947858,
+      "__unknown_productSubTitle": "Interpreter - Çevirmen Blu-Ray",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4777052,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/25/64/99/32/65/50/80/85/73/68/77144170801548117737.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/25/64/99/32/65/50/80/85/73/68/77144170801548117737.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/25/64/99/32/65/50/80/85/73/68/77144170801548117737.jpg"
+    }
+  },
+  {
+    "gid_ref": 735674,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Interpreter - Çevirmen Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1670936905614,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 59947858,
+      "__unknown_productSubTitle": "Interpreter - Çevirmen Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735675,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kaliteli filmler",
+      "productTitle": "Interpreter - Çevirmen Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1581717280353,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 59947858,
+      "__unknown_productSubTitle": "Interpreter - Çevirmen Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

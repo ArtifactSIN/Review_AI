@@ -1,0 +1,55 @@
+[
+  {
+    "gid_ref": 261508,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gelişim Yatak Ortopedik Bebe  Yatağı ve Yastığı -40 x 80 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1696432180173,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/10/04/91/22/75/11/18/43/43/26/29/2378823541298187707.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 537218022,
+      "__unknown_productSubTitle": "Gelişim Yatak Ortopedik Bebe  Yatağı ve Yastığı 40 x 80 CM",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2469100,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/04/91/22/75/11/18/43/43/26/29/2378823541298187707.jpg"
+        },
+        {
+          "id": 2469101,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/04/65/41/21/26/99/08/17/70/61/78567430518884876391.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/10/04/91/22/75/11/18/43/43/26/29/2378823541298187707.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/10/04/91/22/75/11/18/43/43/26/29/2378823541298187707.jpg"
+    }
+  },
+  {
+    "gid_ref": 261509,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "harika bir urun",
+      "productTitle": "Gelişim Yatak Ortopedik Bebe  Yatağı ve Yastığı -40 x 80 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1662028814051,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 537218022,
+      "__unknown_productSubTitle": "Gelişim Yatak Ortopedik Bebe  Yatağı ve Yastığı 40 x 80 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

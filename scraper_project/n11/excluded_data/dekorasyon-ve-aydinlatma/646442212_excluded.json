@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 419233,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Brano Yapışkanlı Kaplama Folyosu Siyah Mermer 75 Cm x 3 Metre",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774739469035,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/29/61/43/12/00/66/53/14/59/21/75635981792021428793.png",
+      "__unknown_lastModifiedDate": 1774739469035,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646442212,
+      "__unknown_productSubTitle": "Brano Yapışkanlı Kaplama Folyosu Siyah Mermer 75 Cm x 3 Metre",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8523098,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/29/61/43/12/00/66/53/14/59/21/75635981792021428793.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/29/61/43/12/00/66/53/14/59/21/75635981792021428793.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/29/61/43/12/00/66/53/14/59/21/75635981792021428793.png"
+    }
+  },
+  {
+    "gid_ref": 419234,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Brano Yapışkanlı Kaplama Folyosu Siyah Mermer 75 Cm x 3 Metre",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764023553063,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646442212,
+      "__unknown_productSubTitle": "Brano Yapışkanlı Kaplama Folyosu Siyah Mermer 75 Cm x 3 Metre",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "gid_ref": 746872,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Diesel Fitness Kauçuk Kaplı 3,75 Kg Ağırlık Plakası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775418563193,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/05/84/16/90/64/84/61/67/23/14/21683804826335100221.png",
+      "__unknown_lastModifiedDate": 1775418563193,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 709422866,
+      "__unknown_productSubTitle": "Diesel Fitness Kauçuk Kaplı 3,75 Kg Ağırlık Plakası ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8574651,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/05/84/16/90/64/84/61/67/23/14/21683804826335100221.png"
+        },
+        {
+          "id": 8574652,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/05/61/57/54/00/17/13/61/21/88/04357227762906449939.png"
+        },
+        {
+          "id": 8574653,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/05/66/91/87/76/29/97/25/95/15/95717431781062654621.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/05/84/16/90/64/84/61/67/23/14/21683804826335100221.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/05/84/16/90/64/84/61/67/23/14/21683804826335100221.png"
+    }
+  },
+  {
+    "gid_ref": 746873,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Diesel Fitness Kauçuk Kaplı 3,75 Kg Ağırlık Plakası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775418474145,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/05/50/44/30/15/29/72/62/37/41/52170652081755015817.png",
+      "__unknown_lastModifiedDate": 1775418474145,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 709422866,
+      "__unknown_productSubTitle": "Diesel Fitness Kauçuk Kaplı 3,75 Kg Ağırlık Plakası ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8571458,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/05/50/44/30/15/29/72/62/37/41/52170652081755015817.png"
+        },
+        {
+          "id": 8571459,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/05/90/96/29/61/14/17/37/20/14/17660844346829590294.png"
+        },
+        {
+          "id": 8571460,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/05/49/71/68/46/43/83/70/69/84/45077737019698952450.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/05/50/44/30/15/29/72/62/37/41/52170652081755015817.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/05/50/44/30/15/29/72/62/37/41/52170652081755015817.png"
+    }
+  }
+]

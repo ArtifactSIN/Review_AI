@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 946142,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Presto Gitar Duvar Askısı Gitar Duvar Standı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738322240313,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/31/58/82/58/01/47/51/92/52/85/99073970697024157143.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584217305,
+      "__unknown_productSubTitle": "Presto Gitar Duvar Askısı Gitar Duvar Standı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6778431,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/31/58/82/58/01/47/51/92/52/85/99073970697024157143.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/31/58/82/58/01/47/51/92/52/85/99073970697024157143.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/31/58/82/58/01/47/51/92/52/85/99073970697024157143.png"
+    }
+  },
+  {
+    "gid_ref": 946143,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Presto Gitar Duvar Askısı Gitar Duvar Standı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738009553510,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584217305,
+      "__unknown_productSubTitle": "Presto Gitar Duvar Askısı Gitar Duvar Standı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946144,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Presto Gitar Duvar Askısı Gitar Duvar Standı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719772009270,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584217305,
+      "__unknown_productSubTitle": "Presto Gitar Duvar Askısı Gitar Duvar Standı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946145,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Presto Gitar Duvar Askısı Gitar Duvar Standı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1708534160690,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584217305,
+      "__unknown_productSubTitle": "Presto Gitar Duvar Askısı Gitar Duvar Standı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

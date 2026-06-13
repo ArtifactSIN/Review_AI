@@ -1,0 +1,55 @@
+[
+  {
+    "gid_ref": 1162151,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Go Walk 7 - Clear Path Kadın Siyah Yürüyüş Ayakkabısı 125207 Bbk Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773688341508,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773688341508,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664813851,
+      "__unknown_productSubTitle": "Skechers Go Walk 7 - Clear Path Kadın Siyah Yürüyüş Ayakkabısı 125207 Bbk Siyah 36.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1162152,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Go Walk 7 - Clear Path Kadın Siyah Yürüyüş Ayakkabısı 125207 Bbk Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764345959605,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/28/83/66/51/81/91/23/29/93/43/66222367599418820155.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 680820041,
+      "__unknown_productSubTitle": "Skechers Go Walk 7 - Clear Path Kadın Siyah Yürüyüş Ayakkabısı 125207 Bbk Siyah 37",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8033447,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/83/66/51/81/91/23/29/93/43/66222367599418820155.jpg"
+        },
+        {
+          "id": 8033448,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/63/14/57/49/06/03/63/67/00/61121951820891664840.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/28/83/66/51/81/91/23/29/93/43/66222367599418820155.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/28/83/66/51/81/91/23/29/93/43/66222367599418820155.jpg"
+    }
+  }
+]

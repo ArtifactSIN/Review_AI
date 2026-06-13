@@ -1,0 +1,100 @@
+[
+  {
+    "gid_ref": 932507,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pirge Duo Kasap Bıçağı No.1 14,5 Cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769639962453,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/29/82/14/74/57/35/95/13/64/32/62289485404513022177.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592128314,
+      "__unknown_productSubTitle": "Pirge Duo Kasap Bıçağı No.1 14,5 Cm",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8298526,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/29/82/14/74/57/35/95/13/64/32/62289485404513022177.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/29/82/14/74/57/35/95/13/64/32/62289485404513022177.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/29/82/14/74/57/35/95/13/64/32/62289485404513022177.png"
+    }
+  },
+  {
+    "gid_ref": 932508,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pirge Duo Kasap Bıçağı No.1 14,5 Cm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767640648974,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/05/77/40/84/83/94/55/77/33/38/82865466743152622892.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643928179,
+      "__unknown_productSubTitle": "Pirge Duo Kasap Bıçağı No.1 14,5 Cm",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8220611,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/05/77/40/84/83/94/55/77/33/38/82865466743152622892.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/05/77/40/84/83/94/55/77/33/38/82865466743152622892.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/05/77/40/84/83/94/55/77/33/38/82865466743152622892.png"
+    }
+  },
+  {
+    "gid_ref": 932509,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pirge Duo Kasap Bıçağı No.1 14,5 Cm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756713526614,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643928179,
+      "__unknown_productSubTitle": "Pirge Duo Kasap Bıçağı No.1 14,5 Cm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 932510,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pirge Duo Kasap Bıçağı No.1 14,5 Cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731999332146,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592128314,
+      "__unknown_productSubTitle": "Pirge Duo Kasap Bıçağı No.1 14,5 Cm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "gid_ref": 104665,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rizline Renault Duster 2024 + 3d Bagaj Havuzu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774458378005,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774458378005,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708085405,
+      "__unknown_productSubTitle": "Rizline Renault Duster 2024 + 3d Bagaj Havuzu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 104666,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rizline Renault Duster 2024 + 3d Bagaj Havuzu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770917268050,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708085405,
+      "__unknown_productSubTitle": "Rizline Renault Duster 2024 + 3d Bagaj Havuzu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 104667,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rizline Renault Duster 2024 + 3d Bagaj Havuzu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765552076722,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/12/55/78/16/85/38/40/65/53/81/36217975627174134496.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708085405,
+      "__unknown_productSubTitle": "Rizline Renault Duster 2024 + 3d Bagaj Havuzu ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8106800,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/12/55/78/16/85/38/40/65/53/81/36217975627174134496.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/12/55/78/16/85/38/40/65/53/81/36217975627174134496.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/12/55/78/16/85/38/40/65/53/81/36217975627174134496.jpg"
+    }
+  },
+  {
+    "gid_ref": 104668,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rizline Renault Duster 2024 + 3d Bagaj Havuzu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760372719152,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708085405,
+      "__unknown_productSubTitle": "Rizline Renault Duster 2024 + 3d Bagaj Havuzu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 104669,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rizline Renault Duster 2024 + 3d Bagaj Havuzu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1757007865031,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 674878864,
+      "__unknown_productSubTitle": "Rizline Renault Duster 2024 + 3d Bagaj Havuzu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "gid_ref": 1335519,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 240 S Uzun Tip Kaborta Brandası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729973104568,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 507947893,
+      "__unknown_productSubTitle": "Massey Ferguson 240 S Uzun Tip Kaborta Brandası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1335520,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 240 S Uzun Tip Kaborta Brandası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714820727757,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/04/84/32/14/65/34/94/32/66/24/61162658192078032465.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 507947893,
+      "__unknown_productSubTitle": "Massey Ferguson 240 S Uzun Tip Kaborta Brandası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4592523,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/04/84/32/14/65/34/94/32/66/24/61162658192078032465.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/04/84/32/14/65/34/94/32/66/24/61162658192078032465.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/04/84/32/14/65/34/94/32/66/24/61162658192078032465.jpg"
+    }
+  },
+  {
+    "gid_ref": 1335521,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ürün",
+      "productTitle": "Massey Ferguson 240 S Uzun Tip Kaborta Brandası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1669484529326,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 507947893,
+      "__unknown_productSubTitle": "Massey Ferguson 240 S Uzun Tip Kaborta Brandası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1335522,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 240 S Uzun Tip Kaborta Brandası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1650388204564,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/04/19/51/67/22/11/63/97/49/97/66/45446873160354675443.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 507947893,
+      "__unknown_productSubTitle": "Massey Ferguson 240 S Uzun Tip Kaborta Brandası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 540749,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/04/19/51/67/22/11/63/97/49/97/66/45446873160354675443.jpg"
+        },
+        {
+          "id": 561250,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/04/19/82/70/12/57/07/44/43/07/27/27196362963728380758.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/04/19/51/67/22/11/63/97/49/97/66/45446873160354675443.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/04/19/51/67/22/11/63/97/49/97/66/45446873160354675443.jpg"
+    }
+  }
+]

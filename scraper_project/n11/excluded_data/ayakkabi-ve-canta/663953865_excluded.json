@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 133984,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Puma Court Lally Beyaz Kadın Sneaker Beyaz-sıyah Beyaz - Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775026042449,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/52/80/97/24/61/75/83/52/39/02277704067404022110.png",
+      "__unknown_lastModifiedDate": 1775026042449,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663203222,
+      "__unknown_productSubTitle": "Puma Court Lally Beyaz Kadın Sneaker Beyaz-sıyah Beyaz - Siyah 38",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8551801,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/52/80/97/24/61/75/83/52/39/02277704067404022110.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/52/80/97/24/61/75/83/52/39/02277704067404022110.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/52/80/97/24/61/75/83/52/39/02277704067404022110.png"
+    }
+  },
+  {
+    "gid_ref": 133985,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Puma Court Lally Beyaz Kadın Sneaker Beyaz-sıyah Beyaz - Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753462014218,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663203224,
+      "__unknown_productSubTitle": "Puma Court Lally Beyaz Kadın Sneaker Beyaz-sıyah Beyaz - Siyah 39",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

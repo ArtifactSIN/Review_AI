@@ -1,0 +1,84 @@
+[
+  {
+    "gid_ref": 541308,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Goldmaster GM-7146 Prestij Saç Kesme Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773847188308,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773847188308,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734395159,
+      "__unknown_productSubTitle": "Goldmaster GM-7146 Prestij Saç Kesme Makinesi Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 541309,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Goldmaster GM-7146 Prestij Saç Kesme Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732630572504,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639847475,
+      "__unknown_productSubTitle": "Goldmaster GM-7146 Prestij Saç Kesme Makinesi Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 541310,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Goldmaster GM-7146 Prestij Saç Kesme Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729678730412,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1729679945074,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639847475,
+      "__unknown_productSubTitle": "Goldmaster GM-7146 Prestij Saç Kesme Makinesi Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 541311,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Goldmaster GM-7146 Prestij Saç Kesme Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1693240702393,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 286364580,
+      "__unknown_productSubTitle": "Goldmaster Prestij Profesyonel Saç Kesme Makinesi 7146",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 383940,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ümit 2047 Alpına-m-bmx-v- Kız Çocuk Bisikleti 20 Jant Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765711180599,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/14/91/79/01/77/29/64/66/87/13/94370292496806426454.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650059260,
+      "__unknown_productSubTitle": "Ümit 2047 Alpına-m-bmx-v- Kız Çocuk Bisikleti 20 Jant Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8112832,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/14/91/79/01/77/29/64/66/87/13/94370292496806426454.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/14/91/79/01/77/29/64/66/87/13/94370292496806426454.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/14/91/79/01/77/29/64/66/87/13/94370292496806426454.png"
+    }
+  },
+  {
+    "gid_ref": 383941,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ümit 2047 Alpına-m-bmx-v- Kız Çocuk Bisikleti 20 Jant Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728591559269,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592131441,
+      "__unknown_productSubTitle": "Ümit 2047 Alpına-m-bmx-v- Kız Çocuk Bisikleti 20 Jant Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

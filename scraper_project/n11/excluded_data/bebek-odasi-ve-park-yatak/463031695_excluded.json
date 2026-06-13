@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 261192,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hugoy 80 x 130 Fitilli Sünger Yatak 5 Cm 80*130",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1676623815665,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/02/17/63/76/85/88/80/17/71/75/98/86224931180858947239.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 463031695,
+      "__unknown_productSubTitle": "Hugoy 80 x 130 Fitilli Sünger Yatak 5 Cm 80*130",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1623516,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/02/17/63/76/85/88/80/17/71/75/98/86224931180858947239.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/02/17/63/76/85/88/80/17/71/75/98/86224931180858947239.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/02/17/63/76/85/88/80/17/71/75/98/86224931180858947239.jpg"
+    }
+  },
+  {
+    "gid_ref": 261193,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hugoy 80 x 130 Fitilli Sünger Yatak 5 Cm 80*130",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1613576485947,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 463031695,
+      "__unknown_productSubTitle": "Hugoy 80 x 130 Fitilli Sünger Yatak 5 Cm 80*130",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1492789,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Excavator İş Makinesi 66 Parça 3d Puzzle - Truck Serisi Magic Puz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732905170939,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628642004,
+      "__unknown_productSubTitle": "Excavator İş Makinesi 66 Parça 3d Puzzle - Truck Serisi Magic Puz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492790,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Excavator İş Makinesi 66 Parça 3d Puzzle - Truck Serisi Magic Puz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697271890653,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/10/14/81/65/13/44/67/02/78/90/16/1985928880199614203.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 570694909,
+      "__unknown_productSubTitle": "Excavator İş Makinesi 66 Parça 3D Puzzle - Truck Serisi Magic Puz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2535633,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/14/81/65/13/44/67/02/78/90/16/1985928880199614203.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/10/14/81/65/13/44/67/02/78/90/16/1985928880199614203.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/10/14/81/65/13/44/67/02/78/90/16/1985928880199614203.png"
+    }
+  },
+  {
+    "gid_ref": 1492791,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "KALİTE",
+      "productTitle": "Excavator İş Makinesi 66 Parça 3d Puzzle - Truck Serisi Magic Puz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1638865894700,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 410182856,
+      "__unknown_productSubTitle": "HSYLMZ01646",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

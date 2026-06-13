@@ -1,0 +1,123 @@
+[
+  {
+    "gid_ref": 848383,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Rimel Telescopic Falselash Maskara Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772213769650,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559898584,
+      "__unknown_productSubTitle": "L'Oreal Paris Rimel Telescopic Falselash Maskara Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 848384,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Rimel Telescopic Falselash Maskara Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765172355107,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559898584,
+      "__unknown_productSubTitle": "L'Oreal Paris Rimel Telescopic Falselash Maskara Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 848385,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Rimel Telescopic Falselash Maskara Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764938529854,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/05/80/05/73/81/34/99/16/64/02/4120222451453872457.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559898584,
+      "__unknown_productSubTitle": "L'Oreal Paris Rimel Telescopic Falselash Maskara Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8078705,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/05/80/05/73/81/34/99/16/64/02/4120222451453872457.jpg"
+        },
+        {
+          "id": 8078706,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/05/55/88/28/10/75/90/11/44/17/3451282354741424643.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/05/80/05/73/81/34/99/16/64/02/4120222451453872457.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/05/80/05/73/81/34/99/16/64/02/4120222451453872457.jpg"
+    }
+  },
+  {
+    "gid_ref": 848386,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Rimel Telescopic Falselash Maskara Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1723676147875,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559898584,
+      "__unknown_productSubTitle": "L'Oreal Paris Rimel Telescopic Falselash Maskara Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 848387,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Rimel Telescopic Falselash Maskara Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722890013026,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/05/55/39/98/40/72/97/64/82/84/46327928222295505016.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605425749,
+      "__unknown_productSubTitle": "L'Oreal Paris Rimel Telescopic Falselash Maskara Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5353010,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/05/55/39/98/40/72/97/64/82/84/46327928222295505016.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/05/55/39/98/40/72/97/64/82/84/46327928222295505016.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/05/55/39/98/40/72/97/64/82/84/46327928222295505016.png"
+    }
+  }
+]

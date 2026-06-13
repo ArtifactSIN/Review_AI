@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 1493697,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Monopoly Deal",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1716996628551,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/29/66/78/87/01/24/23/49/39/32/21633298368366362150.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 426586000,
+      "__unknown_productSubTitle": "Monopoly Deal",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4819081,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/29/66/78/87/01/24/23/49/39/32/21633298368366362150.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/29/66/78/87/01/24/23/49/39/32/21633298368366362150.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/29/66/78/87/01/24/23/49/39/32/21633298368366362150.jpg"
+    }
+  },
+  {
+    "gid_ref": 1493698,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Monopoly Deal",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1691073949758,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/08/03/82/94/74/54/53/72/80/62/26/37147959208331359501.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 541062779,
+      "__unknown_productSubTitle": "Hızlı Gönderi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2271103,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/08/03/82/94/74/54/53/72/80/62/26/37147959208331359501.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/08/03/82/94/74/54/53/72/80/62/26/37147959208331359501.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/08/03/82/94/74/54/53/72/80/62/26/37147959208331359501.png"
+    }
+  },
+  {
+    "gid_ref": 1493699,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Monopoly Deal",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1690453328607,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 479833345,
+      "__unknown_productSubTitle": "Monopoly Deal",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1493700,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Monopoly Deal",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1669815144687,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 541062779,
+      "__unknown_productSubTitle": "Hızlı Gönderi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

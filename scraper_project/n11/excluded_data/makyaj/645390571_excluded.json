@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 845407,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Morfose Ossion Makyaj Sabitleyici Sprey 300 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774445380493,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/87/52/61/80/80/22/31/81/10/28575827688305542544.png",
+      "__unknown_lastModifiedDate": 1774445380493,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645390571,
+      "__unknown_productSubTitle": "Morfose Ossion Makyaj Sabitleyici Sprey 300 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8507711,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/87/52/61/80/80/22/31/81/10/28575827688305542544.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/87/52/61/80/80/22/31/81/10/28575827688305542544.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/87/52/61/80/80/22/31/81/10/28575827688305542544.png"
+    }
+  },
+  {
+    "gid_ref": 845408,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Morfose Ossion Makyaj Sabitleyici Sprey 300 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710797422017,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 336588480,
+      "__unknown_productSubTitle": "Morfose Ossion Makyaj Sabitleyici Sprey 300 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

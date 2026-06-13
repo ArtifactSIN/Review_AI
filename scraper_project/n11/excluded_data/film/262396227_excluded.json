@@ -1,0 +1,65 @@
+[
+  {
+    "gid_ref": 735338,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "DVD Şeytan - Devil",
+      "productTitle": "Dvd-Şeytan - Devil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1668713647245,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 262396227,
+      "__unknown_productSubTitle": "Dvd-Şeytan - Devil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735339,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Sorunsuz :=)",
+      "productTitle": "Dvd-Şeytan - Devil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1665646736067,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 262396227,
+      "__unknown_productSubTitle": "Dvd-Şeytan - Devil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735340,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "orj ürün",
+      "productTitle": "Dvd-Şeytan - Devil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1578731251374,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 262396227,
+      "__unknown_productSubTitle": "Dvd-Şeytan - Devil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

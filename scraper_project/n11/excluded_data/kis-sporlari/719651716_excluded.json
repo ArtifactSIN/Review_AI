@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 802932,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Atomic Hawx Magna R90 2026 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770968876593,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/13/80/35/98/31/19/27/85/11/99/86419600442187101903.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719651702,
+      "__unknown_productSubTitle": "Atomic Hawx Magna R90 2026 Siyah 28 - 28.5",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8364652,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/13/80/35/98/31/19/27/85/11/99/86419600442187101903.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/13/80/35/98/31/19/27/85/11/99/86419600442187101903.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/13/80/35/98/31/19/27/85/11/99/86419600442187101903.jpg"
+    }
+  },
+  {
+    "gid_ref": 802933,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Atomic Hawx Magna R90 2026 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769056071881,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719651702,
+      "__unknown_productSubTitle": "Atomic Hawx Magna R90 2026 Siyah 28 - 28.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

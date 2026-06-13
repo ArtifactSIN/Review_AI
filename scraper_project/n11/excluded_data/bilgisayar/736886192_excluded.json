@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 364030,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Inox X24 6motor 3pt 4g E-sim Solar Kamera",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774566706872,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/88/07/90/12/29/05/47/49/90/71603617217540505491.png",
+      "__unknown_lastModifiedDate": 1774566706872,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733789565,
+      "__unknown_productSubTitle": "Inox X24 6motor 3pt 4g E-sim Solar Kamera ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8525617,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/88/07/90/12/29/05/47/49/90/71603617217540505491.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/88/07/90/12/29/05/47/49/90/71603617217540505491.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/88/07/90/12/29/05/47/49/90/71603617217540505491.png"
+    }
+  },
+  {
+    "gid_ref": 364031,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Inox X24 6motor 3pt 4g E-sim Solar Kamera",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774466878329,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/74/27/81/91/31/74/99/82/62/16172276248642433788.png",
+      "__unknown_lastModifiedDate": 1774466878329,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733789565,
+      "__unknown_productSubTitle": "Inox X24 6motor 3pt 4g E-sim Solar Kamera ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8506270,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/74/27/81/91/31/74/99/82/62/16172276248642433788.png"
+        },
+        {
+          "id": 8506271,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/48/77/91/15/15/44/29/53/30/37982628586038867703.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/74/27/81/91/31/74/99/82/62/16172276248642433788.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/74/27/81/91/31/74/99/82/62/16172276248642433788.png"
+    }
+  }
+]

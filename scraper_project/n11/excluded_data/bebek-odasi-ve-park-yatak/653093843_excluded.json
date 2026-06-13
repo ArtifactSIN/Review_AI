@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 263387,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Holmer Coolstyle Anne Yanı/park Yatak Multi Pro Oyun Parkı/Anne Yanı/Beşik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771355936534,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653093843,
+      "__unknown_productSubTitle": "Holmer Coolstyle Anne Yanı/park Yatak Multi Pro Oyun Parkı/Anne Yanı/Beşik Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 263388,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Holmer Coolstyle Anne Yanı/park Yatak Multi Pro Oyun Parkı/Anne Yanı/Beşik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747492837542,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653093841,
+      "__unknown_productSubTitle": "Holmer Coolstyle Anne Yanı/park Yatak Multi Pro Oyun Parkı/Anne Yanı/Beşik Bej",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 263389,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Holmer Coolstyle Anne Yanı/park Yatak Multi Pro Oyun Parkı/Anne Yanı/Beşik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739373237730,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/12/84/01/04/64/71/61/86/89/45/23785254413029032006.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653093841,
+      "__unknown_productSubTitle": "Holmer Coolstyle Anne Yanı/park Yatak Multi Pro Oyun Parkı/Anne Yanı/Beşik Bej",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6833578,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/12/84/01/04/64/71/61/86/89/45/23785254413029032006.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/12/84/01/04/64/71/61/86/89/45/23785254413029032006.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/12/84/01/04/64/71/61/86/89/45/23785254413029032006.jpg"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 1493377,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pontiac Gto Welly 1/36",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775050377929,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/70/70/46/90/16/72/55/17/33/52548211264487966406.jpg",
+      "__unknown_lastModifiedDate": 1775050377929,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646988355,
+      "__unknown_productSubTitle": "Pontiac Gto Welly 1/36 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8559663,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/70/70/46/90/16/72/55/17/33/52548211264487966406.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/70/70/46/90/16/72/55/17/33/52548211264487966406.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/70/70/46/90/16/72/55/17/33/52548211264487966406.jpg"
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 946573,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mooer Sd10ıgr Akıllı Gitar Amfisi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748694767827,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/31/81/61/87/71/85/33/67/59/35/35162558138382858942.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643335188,
+      "__unknown_productSubTitle": "Mooer Sd10ıgr Akıllı Gitar Amfisi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7286316,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/31/81/61/87/71/85/33/67/59/35/35162558138382858942.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/31/81/61/87/71/85/33/67/59/35/35162558138382858942.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/31/81/61/87/71/85/33/67/59/35/35162558138382858942.png"
+    }
+  },
+  {
+    "gid_ref": 946574,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mooer Sd10ıgr Akıllı Gitar Amfisi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748694719123,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/31/52/34/06/75/29/09/67/28/78/38452995890340515450.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643335188,
+      "__unknown_productSubTitle": "Mooer Sd10ıgr Akıllı Gitar Amfisi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7289852,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/31/52/34/06/75/29/09/67/28/78/38452995890340515450.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/31/52/34/06/75/29/09/67/28/78/38452995890340515450.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/31/52/34/06/75/29/09/67/28/78/38452995890340515450.png"
+    }
+  },
+  {
+    "gid_ref": 946575,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mooer Sd10ıgr Akıllı Gitar Amfisi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739637355456,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643335188,
+      "__unknown_productSubTitle": "Mooer Sd10ıgr Akıllı Gitar Amfisi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

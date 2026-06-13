@@ -1,0 +1,123 @@
+[
+  {
+    "gid_ref": 200207,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dalin Sprey Bebek Yağı 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769847983257,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645406857,
+      "__unknown_productSubTitle": "Dalin Sprey Bebek Yağı 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 200208,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dalin Sprey Bebek Yağı 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1759675941753,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646922884,
+      "__unknown_productSubTitle": "Dalin Sprey Bebek Yağı 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 200209,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dalin Sprey Bebek Yağı 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745091626312,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645406857,
+      "__unknown_productSubTitle": "Dalin Sprey Bebek Yağı 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 200210,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dalin Sprey Bebek Yağı 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1735134737179,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586227896,
+      "__unknown_productSubTitle": "Dalin Sprey Bebek Yağı 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 200211,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dalin Sprey Bebek Yağı 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715633259893,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586227896,
+      "__unknown_productSubTitle": "Dalin Sprey Bebek Yağı 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 200212,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dalin Sprey Bebek Yağı 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1699075311169,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586227896,
+      "__unknown_productSubTitle": "Dalin Sprey Bebek Yağı 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

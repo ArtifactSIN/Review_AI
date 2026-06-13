@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 947707,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babybjörn Balance Bliss Cotton Ana Kucağı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1712553693519,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/08/64/28/43/78/67/74/84/43/00/72694784700582609908.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592050213,
+      "__unknown_productSubTitle": "Babybjörn Balance Bliss Cotton Ana Kucağı Anthracite",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4381164,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/08/64/28/43/78/67/74/84/43/00/72694784700582609908.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/08/64/28/43/78/67/74/84/43/00/72694784700582609908.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/08/64/28/43/78/67/74/84/43/00/72694784700582609908.jpg"
+    }
+  },
+  {
+    "gid_ref": 947708,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "güzel ürün",
+      "productTitle": "Babybjörn Balance Bliss Cotton Ana Kucağı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1663351159708,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 515694422,
+      "__unknown_productSubTitle": "Babybjörn Balance Bliss Cotton Ana Kucağı Anthracite",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947709,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Başarılı",
+      "productTitle": "Babybjörn Balance Bliss Cotton Ana Kucağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1641480339527,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 471821853,
+      "__unknown_productSubTitle": "Babybjörn Balance Bliss Cotton Ana Kucağı Anthracite",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

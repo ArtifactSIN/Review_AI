@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 1250483,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sealux Dıştan Takma Motor Taşıma Arabası Tekne Bot Vs..",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1618846979408,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 431379493,
+      "__unknown_productSubTitle": "Sealux Dıştan Takma Motor Taşıma Arabası Tekne Bot Vs..",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1250484,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Başarılı",
+      "productTitle": "Sealux Dıştan Takma Motor Taşıma Arabası Tekne Bot Vs..",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1608017694627,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/20/12/15/78/97/65/95/39/03/69/72/44/04950297432296372922.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 431379493,
+      "__unknown_productSubTitle": "Sealux Dıştan Takma Motor Taşıma Arabası Tekne Bot Vs..",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3037094,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/20/12/15/78/97/65/95/39/03/69/72/44/04950297432296372922.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/20/12/15/78/97/65/95/39/03/69/72/44/04950297432296372922.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/20/12/15/78/97/65/95/39/03/69/72/44/04950297432296372922.jpg"
+    }
+  },
+  {
+    "gid_ref": 1250485,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kaliteli Ürün ",
+      "productTitle": "Sealux Dıştan Takma Motor Taşıma Arabası Tekne Bot Vs..",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1597048279846,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 431379493,
+      "__unknown_productSubTitle": "Sealux Dıştan Takma Motor Taşıma Arabası Tekne Bot Vs..",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

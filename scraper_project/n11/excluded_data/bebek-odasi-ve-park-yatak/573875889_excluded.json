@@ -1,0 +1,68 @@
+[
+  {
+    "gid_ref": 262077,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patika BDLP 048 Sonomo Dolap Ahşap",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747294848538,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/15/69/45/29/44/27/33/17/21/41/42878904056138741147.png",
+      "__unknown_lastModifiedDate": 1750664859628,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573875889,
+      "__unknown_productSubTitle": "Patika BDLP 048 Sonomo Dolap Ahşap ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7221004,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/15/69/45/29/44/27/33/17/21/41/42878904056138741147.png"
+        },
+        {
+          "id": 7221005,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/15/56/22/08/86/10/35/75/83/44/02665839911870378302.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/15/69/45/29/44/27/33/17/21/41/42878904056138741147.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/15/69/45/29/44/27/33/17/21/41/42878904056138741147.png"
+    }
+  },
+  {
+    "gid_ref": 262078,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patika BDLP 048 Sonomo Dolap Ahşap",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1703336557849,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/12/23/81/46/75/85/41/18/70/26/41/34021706243485645001.jpeg",
+      "__unknown_lastModifiedDate": 1750664859628,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573875889,
+      "__unknown_productSubTitle": "Patika BDLP 048 Sonomo Dolap Ahşap ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2867231,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/23/81/46/75/85/41/18/70/26/41/34021706243485645001.jpeg"
+        },
+        {
+          "id": 2867232,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/23/60/87/81/28/01/04/71/59/83/89138747824335768829.jpeg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/12/23/81/46/75/85/41/18/70/26/41/34021706243485645001.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/12/23/81/46/75/85/41/18/70/26/41/34021706243485645001.jpeg"
+    }
+  }
+]

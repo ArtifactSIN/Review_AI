@@ -1,0 +1,126 @@
+[
+  {
+    "gid_ref": 746911,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Venatura Çinko Asetat 30 Pastil",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1742652945939,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/22/84/31/53/03/65/59/15/76/20/3589081750172318352.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638507104,
+      "__unknown_productSubTitle": "Venatura Çinko Asetat 30 Pastil",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7002869,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/22/84/31/53/03/65/59/15/76/20/3589081750172318352.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/22/84/31/53/03/65/59/15/76/20/3589081750172318352.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/22/84/31/53/03/65/59/15/76/20/3589081750172318352.png"
+    }
+  },
+  {
+    "gid_ref": 746912,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Venatura Çinko Asetat 30 Pastil",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739284851697,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/11/53/36/81/85/00/14/88/72/65/62665177094490861694.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638507104,
+      "__unknown_productSubTitle": "Venatura Çinko Asetat 30 Pastil",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6830614,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/11/53/36/81/85/00/14/88/72/65/62665177094490861694.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/11/53/36/81/85/00/14/88/72/65/62665177094490861694.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/11/53/36/81/85/00/14/88/72/65/62665177094490861694.jpg"
+    }
+  },
+  {
+    "gid_ref": 746913,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Venatura Çinko Asetat 30 Pastil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727099405349,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/23/52/12/66/14/63/47/41/66/71/61385925873713562419.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605508937,
+      "__unknown_productSubTitle": "Venatura Çinko Asetat 30 Pastil",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5733474,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/23/52/12/66/14/63/47/41/66/71/61385925873713562419.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/23/52/12/66/14/63/47/41/66/71/61385925873713562419.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/23/52/12/66/14/63/47/41/66/71/61385925873713562419.png"
+    }
+  },
+  {
+    "gid_ref": 746914,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Venatura Çinko Asetat 30 Pastil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711304515235,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582637291,
+      "__unknown_productSubTitle": "Venatura Çinko Asetat 30 Pastil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 746915,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Venatura Çinko Asetat 30 Pastil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1707855654144,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582637291,
+      "__unknown_productSubTitle": "Venatura Çinko Asetat 30 Pastil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

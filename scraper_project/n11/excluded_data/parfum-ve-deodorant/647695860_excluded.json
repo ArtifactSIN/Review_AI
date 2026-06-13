@@ -1,0 +1,113 @@
+[
+  {
+    "gid_ref": 1022438,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blade Cool Fresh Erkek Roll-On Deodorant 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773122582262,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773122582262,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647695860,
+      "__unknown_productSubTitle": "Blade Cool Fresh Erkek Roll-On Deodorant 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1022439,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blade Cool Fresh Erkek Roll-On Deodorant 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767906223957,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595923444,
+      "__unknown_productSubTitle": "Blade Cool Fresh Erkek Roll-On Deodorant 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1022440,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blade Cool Fresh Erkek Roll-On Deodorant 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767433559096,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587716005,
+      "__unknown_productSubTitle": "Blade Cool Fresh Erkek Roll-On Deodorant 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1022441,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blade Cool Fresh Erkek Roll-On Deodorant 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738610344825,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/03/50/12/84/78/08/50/49/01/48/92963796970335352577.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647695860,
+      "__unknown_productSubTitle": "Blade Cool Fresh Erkek Roll-On Deodorant 50 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6796213,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/03/50/12/84/78/08/50/49/01/48/92963796970335352577.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/03/50/12/84/78/08/50/49/01/48/92963796970335352577.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/03/50/12/84/78/08/50/49/01/48/92963796970335352577.jpg"
+    }
+  },
+  {
+    "gid_ref": 1022442,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blade Cool Fresh Erkek Roll-On Deodorant 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1687779241991,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575127843,
+      "__unknown_productSubTitle": "Blade Cool Fresh Erkek Roll-On Deodorant 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

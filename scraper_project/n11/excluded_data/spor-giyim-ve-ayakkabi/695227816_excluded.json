@@ -1,0 +1,65 @@
+[
+  {
+    "gid_ref": 1161125,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Jn3057 Real Icon Tp Erkek Eşofman Altı Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773760325191,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773760325191,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695227766,
+      "__unknown_productSubTitle": "Adidas Jn3057 Real Icon Tp Erkek Eşofman Altı Mavi L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161126,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Jn3057 Real Icon Tp Erkek Eşofman Altı Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773001133588,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773001133588,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695227768,
+      "__unknown_productSubTitle": "Adidas Jn3057 Real Icon Tp Erkek Eşofman Altı Mavi M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161127,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Jn3057 Real Icon Tp Erkek Eşofman Altı Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771073770088,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695227812,
+      "__unknown_productSubTitle": "Adidas Jn3057 Real Icon Tp Erkek Eşofman Altı Mavi S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "gid_ref": 706166,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mycat Az Tahıllı Somon Balıklı Diyet & Kısırlaştırılmış Yetişkin Kedi Maması 2 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768936891331,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/20/74/02/43/52/09/61/98/47/05/14467935267315403250.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648544856,
+      "__unknown_productSubTitle": "Mycat Az Tahıllı Somon Balıklı Diyet & Kısırlaştırılmış Yetişkin Kedi Maması 2 KG",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8276410,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/20/74/02/43/52/09/61/98/47/05/14467935267315403250.png"
+        },
+        {
+          "id": 8276411,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/20/51/69/81/30/87/32/00/49/07/13288854540816957538.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/20/74/02/43/52/09/61/98/47/05/14467935267315403250.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/20/74/02/43/52/09/61/98/47/05/14467935267315403250.png"
+    }
+  },
+  {
+    "gid_ref": 706167,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mycat Az Tahıllı Somon Balıklı Diyet & Kısırlaştırılmış Yetişkin Kedi Maması 2 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761905719680,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648544856,
+      "__unknown_productSubTitle": "Mycat Az Tahıllı Somon Balıklı Diyet & Kısırlaştırılmış Yetişkin Kedi Maması 2 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

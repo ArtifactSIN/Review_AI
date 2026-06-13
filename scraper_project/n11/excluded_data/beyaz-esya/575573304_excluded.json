@@ -1,0 +1,75 @@
+[
+  {
+    "gid_ref": 288906,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dökümsan Small Elektirikli Ani Su Isıtıcısı Şofben 7000 W",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775797481605,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/10/86/61/04/79/49/18/65/17/94/36477319885162106566.png",
+      "__unknown_lastModifiedDate": 1775797481605,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575573304,
+      "__unknown_productSubTitle": "Dökümsan Small Elektirikli Ani Su Isıtıcısı Şofben 7000 W",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8593756,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/86/61/04/79/49/18/65/17/94/36477319885162106566.png"
+        },
+        {
+          "id": 8593757,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/60/63/48/84/50/56/50/66/11/6910656688567989828.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/10/86/61/04/79/49/18/65/17/94/36477319885162106566.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/10/86/61/04/79/49/18/65/17/94/36477319885162106566.png"
+    }
+  },
+  {
+    "gid_ref": 288907,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dökümsan Small Elektirikli Ani Su Isıtıcısı Şofben 7000 W",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730305625228,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575573304,
+      "__unknown_productSubTitle": "Dökümsan Small Elektirikli Ani Su Isıtıcısı Şofben 7000 W",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 288908,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dökümsan Small Elektirikli Ani Su Isıtıcısı Şofben 7000 W",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719647097723,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575573304,
+      "__unknown_productSubTitle": "Dökümsan Small Elektirikli Ani Su Isıtıcısı Şofben 7000 W",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

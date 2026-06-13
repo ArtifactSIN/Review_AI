@@ -1,0 +1,84 @@
+[
+  {
+    "gid_ref": 925199,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kaiser Classic Kelepçeli Kek Kalıbı 24 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773073419785,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/09/63/16/96/31/15/49/58/01/01/28884683156792952357.jpg",
+      "__unknown_lastModifiedDate": 1773073419785,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 644568085,
+      "__unknown_productSubTitle": "Kaiser Classic Kelepçeli Kek Kalıbı 24 CM",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8448609,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/09/63/16/96/31/15/49/58/01/01/28884683156792952357.jpg"
+        },
+        {
+          "id": 8448611,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/09/59/85/63/08/70/48/16/35/21/12896485866569353884.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/09/63/16/96/31/15/49/58/01/01/28884683156792952357.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/09/63/16/96/31/15/49/58/01/01/28884683156792952357.jpg"
+    }
+  },
+  {
+    "gid_ref": 925200,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kaiser Classic Kelepçeli Kek Kalıbı 24 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772983161038,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/08/91/52/11/23/91/08/78/36/22/4150461367707715941.png",
+      "__unknown_lastModifiedDate": 1772983161038,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 644568085,
+      "__unknown_productSubTitle": "Kaiser Classic Kelepçeli Kek Kalıbı 24 CM",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8445407,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/08/91/52/11/23/91/08/78/36/22/4150461367707715941.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/08/91/52/11/23/91/08/78/36/22/4150461367707715941.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/08/91/52/11/23/91/08/78/36/22/4150461367707715941.png"
+    }
+  },
+  {
+    "gid_ref": 925201,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kaiser Classic Kelepçeli Kek Kalıbı 24 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762239445728,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 644568085,
+      "__unknown_productSubTitle": "Kaiser Classic Kelepçeli Kek Kalıbı 24 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

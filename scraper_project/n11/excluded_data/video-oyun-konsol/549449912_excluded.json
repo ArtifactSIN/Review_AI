@@ -1,0 +1,118 @@
+[
+  {
+    "gid_ref": 1337471,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "PS4 Uyumlu V2 Gamepad Açık Mavi (PS4 Uyumlu Ve Pc Uyumlu)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1718969529838,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 549449912,
+      "__unknown_productSubTitle": "PS4 Uyumlu V2 Gamepad Açık Mavi (PS4 Uyumlu Ve Pc Uyumlu)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337472,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "PS4 Uyumlu V2 Gamepad Açık Mavi (PS4 Uyumlu Ve Pc Uyumlu)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717365367994,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/03/58/04/99/36/44/63/66/46/27/0823603902163207913.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 549449912,
+      "__unknown_productSubTitle": "PS4 Uyumlu V2 Gamepad Açık Mavi (PS4 Uyumlu Ve Pc Uyumlu)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4863145,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/03/58/04/99/36/44/63/66/46/27/0823603902163207913.png"
+        },
+        {
+          "id": 4863146,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/03/83/82/35/04/11/94/41/79/53/26935790358592765987.png"
+        },
+        {
+          "id": 4863147,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/03/72/98/18/45/19/90/31/26/18/22684975946325381004.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/03/58/04/99/36/44/63/66/46/27/0823603902163207913.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/03/58/04/99/36/44/63/66/46/27/0823603902163207913.png"
+    }
+  },
+  {
+    "gid_ref": 1337473,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "PS4 Uyumlu V2 Gamepad Açık Mavi (PS4 Uyumlu Ve Pc Uyumlu)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1716924032895,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 549449912,
+      "__unknown_productSubTitle": "PS4 Uyumlu V2 Gamepad Açık Mavi (PS4 Uyumlu Ve Pc Uyumlu)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337474,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "PS4 Uyumlu V2 Gamepad Açık Mavi (PS4 Uyumlu Ve Pc Uyumlu)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1711403667943,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562858943,
+      "__unknown_productSubTitle": "PS4 Uyumlu V2 Gamepad Açık Mavi (PS4 Uyumlu Ve Pc Uyumlu)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337475,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "PS4 Uyumlu V2 Gamepad Açık Mavi (PS4 Uyumlu Ve Pc Uyumlu)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1680264227542,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 549449912,
+      "__unknown_productSubTitle": "PS4 Uyumlu V2 Gamepad Açık Mavi (PS4 Uyumlu Ve Pc Uyumlu)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 308112,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bambino P0230 Kauçuk Yumuşak Diş Kaşıyıcı Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739398529183,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/13/81/10/32/80/63/44/61/89/44/06494549469753789985.png",
+      "__unknown_lastModifiedDate": 1750665105794,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606403959,
+      "__unknown_productSubTitle": "Bambino P0230 Kauçuk Yumuşak Diş Kaşıyıcı Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6830541,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/13/81/10/32/80/63/44/61/89/44/06494549469753789985.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/13/81/10/32/80/63/44/61/89/44/06494549469753789985.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/13/81/10/32/80/63/44/61/89/44/06494549469753789985.png"
+    }
+  },
+  {
+    "gid_ref": 308113,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bambino P0230 Kauçuk Yumuşak Diş Kaşıyıcı Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713469436238,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750665105794,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581147296,
+      "__unknown_productSubTitle": "Bambino P0230 Kauçuk Yumuşak Diş Kaşıyıcı Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

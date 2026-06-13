@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 188667,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Günlük Deniz Suyu Burun Spreyi 100ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731755883916,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 564129561,
+      "__unknown_productSubTitle": "Günlük Deniz Suyu Burun Spreyi 100ml Diğer",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 188668,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Günlük Deniz Suyu Burun Spreyi 100ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730490378014,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/01/85/04/05/04/37/17/28/29/19/56105725460837743176.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 564129561,
+      "__unknown_productSubTitle": "Günlük Deniz Suyu Burun Spreyi 100ml Diğer",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6100103,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/01/85/04/05/04/37/17/28/29/19/56105725460837743176.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/01/85/04/05/04/37/17/28/29/19/56105725460837743176.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/01/85/04/05/04/37/17/28/29/19/56105725460837743176.png"
+    }
+  },
+  {
+    "gid_ref": 188669,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Günlük Deniz Suyu Burun Spreyi 100ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1687600744932,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 564129561,
+      "__unknown_productSubTitle": "Günlük Deniz Suyu Burun Spreyi 100ml Diğer",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 520953,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wahl Home Pro Saç Kesme Makinesi 09155-1216",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762773449207,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601203511,
+      "__unknown_productSubTitle": "Wahl Home Pro Saç Kesme Makinesi 09155-1216 Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 520954,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wahl Home Pro Saç Kesme Makinesi 09155-1216",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1761206262651,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/23/90/93/36/38/15/73/45/09/80/735816714076862804.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601203511,
+      "__unknown_productSubTitle": "Wahl Home Pro Saç Kesme Makinesi 09155-1216 Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7846700,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/23/90/93/36/38/15/73/45/09/80/735816714076862804.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/23/90/93/36/38/15/73/45/09/80/735816714076862804.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/23/90/93/36/38/15/73/45/09/80/735816714076862804.png"
+    }
+  }
+]

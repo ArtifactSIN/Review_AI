@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 125656,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adelina Bags Erkek %100 Hakiki Deri Çelik Kasalı El Ve Omuz Çantası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747763690024,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/20/50/73/44/38/07/37/11/55/89/5144367869073471559.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 545535904,
+      "__unknown_productSubTitle": "Adelina Bags Erkek %100 Hakiki Deri Çelik Kasalı El Ve Omuz Çantası Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7239412,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/20/50/73/44/38/07/37/11/55/89/5144367869073471559.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/20/50/73/44/38/07/37/11/55/89/5144367869073471559.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/20/50/73/44/38/07/37/11/55/89/5144367869073471559.jpg"
+    }
+  },
+  {
+    "gid_ref": 125657,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adelina Bags Erkek %100 Hakiki Deri Çelik Kasalı El Ve Omuz Çantası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726404539270,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 545535904,
+      "__unknown_productSubTitle": "Adelina Bags Erkek %100 Hakiki Deri Çelik Kasalı El Ve Omuz Çantası Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

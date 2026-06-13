@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 537971,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec Tr-2828 Saç Kesme Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766229429742,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 723406220,
+      "__unknown_productSubTitle": "Powertec Tr-2828 Saç Kesme Makinesi Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 537972,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec Tr-2828 Saç Kesme Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765556125311,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/12/65/69/94/20/21/51/04/36/80/24752996450733438534.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 723406220,
+      "__unknown_productSubTitle": "Powertec Tr-2828 Saç Kesme Makinesi Kırmızı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8108509,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/12/65/69/94/20/21/51/04/36/80/24752996450733438534.png"
+        },
+        {
+          "id": 8108510,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/12/69/86/65/46/97/23/99/88/59/56579915561469889627.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/12/65/69/94/20/21/51/04/36/80/24752996450733438534.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/12/65/69/94/20/21/51/04/36/80/24752996450733438534.png"
+    }
+  }
+]

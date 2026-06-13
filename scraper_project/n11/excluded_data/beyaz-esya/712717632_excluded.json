@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 302142,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Etna - 3-11 Bar Basınç Şalteri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724349253331,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 392165541,
+      "__unknown_productSubTitle": "Etna - 3-11 Bar Basınç Şalteri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 302143,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Etna - 3-11 Bar Basınç Şalteri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1691161529186,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/08/04/73/76/62/10/48/31/09/25/45/88345719202778271484.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582894104,
+      "__unknown_productSubTitle": "Etna - 3-11 Bar Basınç Şalteri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2273805,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/08/04/73/76/62/10/48/31/09/25/45/88345719202778271484.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/08/04/73/76/62/10/48/31/09/25/45/88345719202778271484.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/08/04/73/76/62/10/48/31/09/25/45/88345719202778271484.png"
+    }
+  }
+]

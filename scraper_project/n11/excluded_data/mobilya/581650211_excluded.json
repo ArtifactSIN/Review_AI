@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 864255,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Türksit Range Mini Oyuncu Koltuğu Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756466114072,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581650211,
+      "__unknown_productSubTitle": "Türksit Range Mini Oyuncu Koltuğu Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 864256,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Türksit Range Mini Oyuncu Koltuğu Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1722839506068,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/05/87/66/85/55/80/78/55/35/42/75185995739612530966.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581650211,
+      "__unknown_productSubTitle": "Türksit Range Mini Oyuncu Koltuğu Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5323256,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/05/87/66/85/55/80/78/55/35/42/75185995739612530966.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/05/87/66/85/55/80/78/55/35/42/75185995739612530966.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/05/87/66/85/55/80/78/55/35/42/75185995739612530966.jpg"
+    }
+  }
+]

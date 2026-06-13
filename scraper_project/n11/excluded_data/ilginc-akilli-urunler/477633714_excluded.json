@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 755463,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gagalı Renkli Örgü Şişi 2 Numaradan 10 Numaraya (13 Çeşit Seçenek)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768909454857,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 477633714,
+      "__unknown_productSubTitle": "Gagalı Renkli Örgü Şişi 2 Numaradan 10 Numaraya (13 Çeşit Seçenek) 2",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 755464,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gagalı Renkli Örgü Şişi 2 Numaradan 10 Numaraya (13 Çeşit Seçenek)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1705858264390,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/01/21/91/64/00/12/28/99/65/71/13/07187409574803360827.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 477633714,
+      "__unknown_productSubTitle": "Gagalı Renkli Örgü Şişi 2 Numaradan 10 Numaraya (13 Çeşit Seçenek) 2",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3236272,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/01/21/91/64/00/12/28/99/65/71/13/07187409574803360827.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/01/21/91/64/00/12/28/99/65/71/13/07187409574803360827.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/01/21/91/64/00/12/28/99/65/71/13/07187409574803360827.jpg"
+    }
+  },
+  {
+    "gid_ref": 755465,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gagalı Renkli Örgü Şişi 2 Numaradan 10 Numaraya (13 Çeşit Seçenek)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1646745355185,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 477633714,
+      "__unknown_productSubTitle": "Gagalı Renkli Örgü Şişi 2 Numaradan 10 Numaraya (13 Çeşit Seçenek) 2",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

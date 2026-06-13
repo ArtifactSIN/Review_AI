@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 410142,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ahşap, Separatör, Ahşap Paravan, 70 200",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773334269500,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773334269500,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585378060,
+      "__unknown_productSubTitle": "Ahşap, Separatör, Ahşap Paravan, 70 200",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 410143,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ahşap, Separatör, Ahşap Paravan, 70 200",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758810733246,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/25/90/94/61/31/50/84/07/54/07/76762504445584981337.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585378060,
+      "__unknown_productSubTitle": "Ahşap, Separatör, Ahşap Paravan, 70 200",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7722480,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/25/90/94/61/31/50/84/07/54/07/76762504445584981337.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/25/90/94/61/31/50/84/07/54/07/76762504445584981337.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/25/90/94/61/31/50/84/07/54/07/76762504445584981337.jpg"
+    }
+  },
+  {
+    "gid_ref": 410144,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ahşap, Separatör, Ahşap Paravan, 70 200",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754513241619,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585378060,
+      "__unknown_productSubTitle": "Ahşap, Separatör, Ahşap Paravan, 70 200",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 410145,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ahşap, Separatör, Ahşap Paravan, 70 200",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744464570114,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585378060,
+      "__unknown_productSubTitle": "Ahşap, Separatör, Ahşap Paravan, 70 200",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 410146,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ahşap, Separatör, Ahşap Paravan, 70 200",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1712657304726,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585378060,
+      "__unknown_productSubTitle": "Ahşap, Separatör, Ahşap Paravan, 70 200",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

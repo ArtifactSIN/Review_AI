@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 1495231,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DJI Mini 5 Pro Fly More Combo (DJI RC2)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774266308830,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/23/65/28/15/96/22/42/62/63/34/75833419645484614619.png",
+      "__unknown_lastModifiedDate": 1774266308830,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 735550273,
+      "__unknown_productSubTitle": "DJI Mini 5 Pro Fly More Combo (DJI RC2)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8496361,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/23/65/28/15/96/22/42/62/63/34/75833419645484614619.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/23/65/28/15/96/22/42/62/63/34/75833419645484614619.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/23/65/28/15/96/22/42/62/63/34/75833419645484614619.png"
+    }
+  }
+]

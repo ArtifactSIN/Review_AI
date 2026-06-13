@@ -1,0 +1,94 @@
+[
+  {
+    "gid_ref": 932517,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oval Kahve Ve Çay Sunum Tepsi Paslanmaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775762002149,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775762002149,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683382179,
+      "__unknown_productSubTitle": "Oval Kahve Ve Çay Sunum Tepsi Paslanmaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 932518,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oval Kahve Ve Çay Sunum Tepsi Paslanmaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773867245936,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773867245936,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683382179,
+      "__unknown_productSubTitle": "Oval Kahve Ve Çay Sunum Tepsi Paslanmaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 932519,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oval Kahve Ve Çay Sunum Tepsi Paslanmaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770141801934,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683382179,
+      "__unknown_productSubTitle": "Oval Kahve Ve Çay Sunum Tepsi Paslanmaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 932520,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oval Kahve Ve Çay Sunum Tepsi Paslanmaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767278022441,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/01/72/66/55/60/21/97/47/65/32/58958964106059336420.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683382179,
+      "__unknown_productSubTitle": "Oval Kahve Ve Çay Sunum Tepsi Paslanmaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8202284,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/01/72/66/55/60/21/97/47/65/32/58958964106059336420.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/01/72/66/55/60/21/97/47/65/32/58958964106059336420.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/01/72/66/55/60/21/97/47/65/32/58958964106059336420.png"
+    }
+  }
+]

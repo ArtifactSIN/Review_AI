@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 760700,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lapiden Klasik Kırmızı Tüy Dökücü Krem 40 Gr 5 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732027679871,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/19/84/29/94/79/15/33/67/76/05/44127522029732974264.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637819619,
+      "__unknown_productSubTitle": "Lapiden Klasik Kırmızı Tüy Dökücü Krem 40 Gr 5 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6277716,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/19/84/29/94/79/15/33/67/76/05/44127522029732974264.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/19/84/29/94/79/15/33/67/76/05/44127522029732974264.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/19/84/29/94/79/15/33/67/76/05/44127522029732974264.png"
+    }
+  },
+  {
+    "gid_ref": 760701,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lapiden Klasik Kırmızı Tüy Dökücü Krem 40 Gr 5 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726172705864,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601496851,
+      "__unknown_productSubTitle": "Lapiden Klasik Kırmızı Tüy Dökücü Krem 40 Gr 5 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 760702,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lapiden Klasik Kırmızı Tüy Dökücü Krem 40 Gr 5 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715770699209,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601496851,
+      "__unknown_productSubTitle": "Lapiden Klasik Kırmızı Tüy Dökücü Krem 40 Gr 5 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 760703,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lapiden Klasik Kırmızı Tüy Dökücü Krem 40 Gr 5 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1713974894250,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601496851,
+      "__unknown_productSubTitle": "Lapiden Klasik Kırmızı Tüy Dökücü Krem 40 Gr 5 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 735511,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Brotherhood of the Wolf - Kurtların Kardeşliği Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1707505778488,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/09/50/23/06/12/13/17/88/09/96/13246472812239801015.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 543866641,
+      "__unknown_productSubTitle": "Brotherhood of the Wolf - Kurtların Kardeşliği Dvd",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3861594,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/09/50/23/06/12/13/17/88/09/96/13246472812239801015.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/09/50/23/06/12/13/17/88/09/96/13246472812239801015.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/09/50/23/06/12/13/17/88/09/96/13246472812239801015.png"
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "gid_ref": 752668,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Polaroid Color Film for i-Type -( Renkli Film )",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737051239406,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640304714,
+      "__unknown_productSubTitle": "Polaroid Color Film for i-Type -( Renkli Film )",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 752669,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Polaroid Color Film for i-Type -( Renkli Film )",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1735422789591,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/29/68/60/21/35/76/55/95/06/16/02746003298137555760.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579738273,
+      "__unknown_productSubTitle": "Polaroid Color Film for i-Type -( Renkli Film )",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6601104,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/29/68/60/21/35/76/55/95/06/16/02746003298137555760.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/29/68/60/21/35/76/55/95/06/16/02746003298137555760.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/29/68/60/21/35/76/55/95/06/16/02746003298137555760.jpg"
+    }
+  },
+  {
+    "gid_ref": 752670,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Polaroid Color Film for i-Type -( Renkli Film )",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1735422572235,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/29/88/30/85/31/34/69/22/23/53/04980055922901205225.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579738273,
+      "__unknown_productSubTitle": "Polaroid Color Film for i-Type -( Renkli Film )",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6602558,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/29/88/30/85/31/34/69/22/23/53/04980055922901205225.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/29/88/30/85/31/34/69/22/23/53/04980055922901205225.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/29/88/30/85/31/34/69/22/23/53/04980055922901205225.jpg"
+    }
+  },
+  {
+    "gid_ref": 752671,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Polaroid Color Film for i-Type -( Renkli Film )",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731102437633,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 269202773,
+      "__unknown_productSubTitle": " POLAROİD TÜRKİYE RESMİ DİSTRİBÜTÖRÜ KARFO KARACASULU",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 752672,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Son kullanma tarihi geçmiş",
+      "productTitle": "Polaroid Color Film for i-Type -( Renkli Film )",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1565696202380,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 269202773,
+      "__unknown_productSubTitle": " POLAROİD TÜRKİYE RESMİ DİSTRİBÜTÖRÜ KARFO KARACASULU",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

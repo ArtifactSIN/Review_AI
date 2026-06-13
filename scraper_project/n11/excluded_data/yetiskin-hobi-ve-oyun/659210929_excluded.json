@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 1494023,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wooden Kirpi Bultak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774709263461,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774709263461,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659210929,
+      "__unknown_productSubTitle": "Wooden Kirpi Bultak ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1494024,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wooden Kirpi Bultak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1750845800478,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/25/65/14/95/20/79/89/09/88/85/94608757100315167877.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603348751,
+      "__unknown_productSubTitle": "Wooden Kirpi Bultak ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7377203,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/25/65/14/95/20/79/89/09/88/85/94608757100315167877.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/25/65/14/95/20/79/89/09/88/85/94608757100315167877.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/25/65/14/95/20/79/89/09/88/85/94608757100315167877.png"
+    }
+  }
+]

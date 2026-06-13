@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 783022,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hat Kağıdı Mat Kuşe A4 100Yp",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724963936992,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 415395416,
+      "__unknown_productSubTitle": "Hat Kağıdı Mat Kuşe A4 100Yp",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 783023,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hat Kağıdı Mat Kuşe A4 100Yp",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1708195740374,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 415395416,
+      "__unknown_productSubTitle": "Hat Kağıdı Mat Kuşe A4 100Yp",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

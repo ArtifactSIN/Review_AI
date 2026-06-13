@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 178281,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pilsan Eğitici Köpek Klozet Turuncu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725776179867,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/08/71/66/44/05/96/18/97/33/90/05966396427236230139.jpg",
+      "__unknown_lastModifiedDate": 1750705316380,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633767997,
+      "__unknown_productSubTitle": "Pilsan Eğitici Köpek Klozet Turuncu ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5604621,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/08/71/66/44/05/96/18/97/33/90/05966396427236230139.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/08/71/66/44/05/96/18/97/33/90/05966396427236230139.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/08/71/66/44/05/96/18/97/33/90/05966396427236230139.jpg"
+    }
+  },
+  {
+    "gid_ref": 178282,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Satıcı ilgili resimde anlatıldığı gibi ",
+      "productTitle": "Pilsan Eğitici Köpek Klozet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1608635840675,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 458671519,
+      "__unknown_productSubTitle": "Pilsan Eğitici Köpek Klozet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

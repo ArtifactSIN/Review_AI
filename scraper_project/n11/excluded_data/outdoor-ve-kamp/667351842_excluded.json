@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 963333,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Igloo Coremax 16 Buzluk 16 Litre Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769616345387,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667351842,
+      "__unknown_productSubTitle": "Igloo Coremax 16 Buzluk 16 Litre Beyaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 963334,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Igloo Coremax 16 Buzluk 16 Litre Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760547165564,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667351842,
+      "__unknown_productSubTitle": "Igloo Coremax 16 Buzluk 16 Litre Beyaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 963335,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Igloo Coremax 16 Buzluk 16 Litre Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750336842536,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667351842,
+      "__unknown_productSubTitle": "Igloo Coremax 16 Buzluk 16 Litre Beyaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 963336,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Igloo Coremax 16 Buzluk 16 Litre Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750085053875,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/16/58/80/05/20/56/84/57/04/78/62557161434474563536.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667351842,
+      "__unknown_productSubTitle": "Igloo Coremax 16 Buzluk 16 Litre Beyaz ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7339602,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/16/58/80/05/20/56/84/57/04/78/62557161434474563536.png"
+        },
+        {
+          "id": 7339603,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/16/50/67/59/79/77/17/04/36/22/23685001796694030917.png"
+        },
+        {
+          "id": 7339604,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/16/86/54/60/96/19/28/75/13/47/11024615825349524464.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/16/58/80/05/20/56/84/57/04/78/62557161434474563536.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/16/58/80/05/20/56/84/57/04/78/62557161434474563536.png"
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 527629,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Fusion Yedek Tıraş Bıçağı 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775841206208,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/10/85/97/53/53/65/21/28/01/48/75841095758791655605.png",
+      "__unknown_lastModifiedDate": 1775841206208,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650017961,
+      "__unknown_productSubTitle": "Gillette Fusion Yedek Tıraş Bıçağı 4'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8591174,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/85/97/53/53/65/21/28/01/48/75841095758791655605.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/10/85/97/53/53/65/21/28/01/48/75841095758791655605.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/10/85/97/53/53/65/21/28/01/48/75841095758791655605.png"
+    }
+  },
+  {
+    "gid_ref": 527630,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Fusion Yedek Tıraş Bıçağı 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746633199694,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650017961,
+      "__unknown_productSubTitle": "Gillette Fusion Yedek Tıraş Bıçağı 4'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 527631,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Fusion Yedek Tıraş Bıçağı 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740481836069,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650017961,
+      "__unknown_productSubTitle": "Gillette Fusion Yedek Tıraş Bıçağı 4'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 527632,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Fusion Yedek Tıraş Bıçağı 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738750427565,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650017961,
+      "__unknown_productSubTitle": "Gillette Fusion Yedek Tıraş Bıçağı 4'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

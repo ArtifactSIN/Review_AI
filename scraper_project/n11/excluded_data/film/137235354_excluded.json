@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 734865,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Açlık Oyunları: Ateşi Yakalamak Blu Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730032844671,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 137235354,
+      "__unknown_productSubTitle": "Açlık Oyunları: Ateşi Yakalamak Blu Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734866,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Bayıldım",
+      "productTitle": "Açlık Oyunları: Ateşi Yakalamak Blu Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1610541335808,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 137235354,
+      "__unknown_productSubTitle": "Açlık Oyunları: Ateşi Yakalamak Blu Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

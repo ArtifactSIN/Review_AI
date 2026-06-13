@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 514556,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun Elek 5771.5773. 5774.5775.5776.5715.5716 +",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1689168930367,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579539570,
+      "__unknown_productSubTitle": "Braun Elek 5771.5773. 5774.5775.5776.5715.5716 +",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 514557,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun Elek 5771.5773. 5774.5775.5776.5715.5716 +",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1630148491197,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 126337779,
+      "__unknown_productSubTitle": "Braun Elek 5771.5773. 5774.5775.5776.5715.5716 +",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 514558,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Braun",
+      "productTitle": "Braun Elek 5771.5773. 5774.5775.5776.5715.5716 +",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1518708806764,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 126337779,
+      "__unknown_productSubTitle": "Braun Elek 5771.5773. 5774.5775.5776.5715.5716 +",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

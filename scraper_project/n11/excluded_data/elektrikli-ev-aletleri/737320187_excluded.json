@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 492060,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dyson V8 Absolute Total Şarjlı Dikey Süpürge",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773951791150,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773951791150,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733692883,
+      "__unknown_productSubTitle": "Dyson V8 Absolute Total Şarjlı Dikey Süpürge Gümüş - Sarı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 492061,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dyson V8 Absolute Total Şarjlı Dikey Süpürge",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773341684126,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/12/60/66/39/99/93/48/98/44/55/57605290696013333715.jpg",
+      "__unknown_lastModifiedDate": 1773341684126,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733692883,
+      "__unknown_productSubTitle": "Dyson V8 Absolute Total Şarjlı Dikey Süpürge Gümüş - Sarı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8460519,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/12/60/66/39/99/93/48/98/44/55/57605290696013333715.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/12/60/66/39/99/93/48/98/44/55/57605290696013333715.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/12/60/66/39/99/93/48/98/44/55/57605290696013333715.jpg"
+    }
+  },
+  {
+    "gid_ref": 492062,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dyson V8 Absolute Total Şarjlı Dikey Süpürge",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1738956786564,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651803027,
+      "__unknown_productSubTitle": "Dyson V8 Absolute Total Şarjlı Dikey Süpürge Gümüş - Sarı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

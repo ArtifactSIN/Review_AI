@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 841769,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Color Riche Intense Volume Matte Ruj 346 Rouge Determination",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1686423171099,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551739119,
+      "__unknown_productSubTitle": "L'Oreal Paris Color Riche Intense Volume Matte Ruj 346 Rouge Determination",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 841770,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Color Riche Intense Volume Matte Ruj 346 Rouge Determination",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1681573667223,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/04/15/50/40/02/89/98/10/26/92/00/31269193734388271806.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551739119,
+      "__unknown_productSubTitle": "L'Oreal Paris Color Riche Intense Volume Matte Ruj 346 Rouge Determination",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1877972,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/04/15/50/40/02/89/98/10/26/92/00/31269193734388271806.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/04/15/50/40/02/89/98/10/26/92/00/31269193734388271806.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/04/15/50/40/02/89/98/10/26/92/00/31269193734388271806.jpg"
+    }
+  }
+]

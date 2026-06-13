@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 735292,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "türkçe seslendirme değilmiş",
+      "productTitle": "İyilik Yap İyilik Bul / Pay İt Forward DVD",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1529479574311,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 207397251,
+      "__unknown_productSubTitle": "İyilik Yap İyilik Bul / Pay İt Forward DVD",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

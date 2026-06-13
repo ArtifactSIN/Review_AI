@@ -1,0 +1,114 @@
+[
+  {
+    "gid_ref": 451156,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Osimo 15 Cm Sanayi Tipi El Blender",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1740759300619,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639409690,
+      "__unknown_productSubTitle": "Osimo 15 Cm Sanayi Tipi El Blender",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 451157,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Osimo 15 Cm Sanayi Tipi El Blender",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732515439748,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639409690,
+      "__unknown_productSubTitle": "Osimo 15 Cm Sanayi Tipi El Blender",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 451158,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Osimo 15 Cm Sanayi Tipi El Blender",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731527887415,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639409690,
+      "__unknown_productSubTitle": "Osimo 15 Cm Sanayi Tipi El Blender",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 451159,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Osimo 15 Cm Sanayi Tipi El Blender",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731125875964,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/09/57/45/82/80/80/37/56/28/58/12215146475071619983.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639409690,
+      "__unknown_productSubTitle": "Osimo 15 Cm Sanayi Tipi El Blender",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6170775,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/09/57/45/82/80/80/37/56/28/58/12215146475071619983.png"
+        },
+        {
+          "id": 6170776,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/09/46/85/67/76/33/61/96/99/16/32646086013680568392.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/09/57/45/82/80/80/37/56/28/58/12215146475071619983.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/09/57/45/82/80/80/37/56/28/58/12215146475071619983.png"
+    }
+  },
+  {
+    "gid_ref": 451160,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Osimo 15 Cm Sanayi Tipi El Blender",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730570580734,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639409690,
+      "__unknown_productSubTitle": "Osimo 15 Cm Sanayi Tipi El Blender",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

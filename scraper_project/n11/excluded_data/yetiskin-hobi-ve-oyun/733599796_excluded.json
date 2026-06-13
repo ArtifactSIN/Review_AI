@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 1495199,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DJI Mavic Mini 3 PRO OEM Pervane 4'Lü Full Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731856913282,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733599796,
+      "__unknown_productSubTitle": "DJI Mavic Mini 3 PRO OEM Pervane 4'Lü Full Set ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1495200,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DJI Mavic Mini 3 PRO OEM Pervane 4'Lü Full Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1688818359067,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/07/08/81/29/84/91/01/23/67/71/99/34569298608638768639.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733599796,
+      "__unknown_productSubTitle": "DJI Mavic Mini 3 PRO OEM Pervane 4'Lü Full Set ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2162658,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/07/08/81/29/84/91/01/23/67/71/99/34569298608638768639.png"
+        },
+        {
+          "id": 2162659,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/07/08/58/41/78/43/80/55/93/79/76/88206890456429511890.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/07/08/81/29/84/91/01/23/67/71/99/34569298608638768639.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/07/08/81/29/84/91/01/23/67/71/99/34569298608638768639.png"
+    }
+  }
+]

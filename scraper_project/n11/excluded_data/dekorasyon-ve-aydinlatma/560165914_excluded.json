@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 406906,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Renkli Evim Panel Çit Tel Koruyucu Üst Kapak 1,25 M 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752255519841,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/11/81/74/43/23/48/42/81/28/58/75900610564771657086.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 560165914,
+      "__unknown_productSubTitle": "Renkli Evim Panel Çit Tel Koruyucu Üst Kapak 1,25 M 2 Adet 2.50 M 1 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7444552,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/11/81/74/43/23/48/42/81/28/58/75900610564771657086.jpg"
+        },
+        {
+          "id": 7444553,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/11/81/89/37/77/97/88/02/32/30/26206523426338588635.jpg"
+        },
+        {
+          "id": 7444554,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/11/87/06/20/84/48/59/93/20/38/88603835516296251640.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/11/81/74/43/23/48/42/81/28/58/75900610564771657086.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/11/81/74/43/23/48/42/81/28/58/75900610564771657086.jpg"
+    }
+  },
+  {
+    "gid_ref": 406907,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Renkli Evim Panel Çit Tel Koruyucu Üst Kapak 1,25 M 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1687323724041,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 560165914,
+      "__unknown_productSubTitle": "Renkli Evim Panel Çit Tel Koruyucu Üst Kapak 1,25 M 2 Adet 2.50 M 1 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

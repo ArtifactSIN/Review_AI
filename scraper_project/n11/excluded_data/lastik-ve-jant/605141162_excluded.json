@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 825736,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "11253 - Mekanik Makaslı Kriko 2 Ton Cırcır Kollu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760026633984,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605141162,
+      "__unknown_productSubTitle": "11253 - Mekanik Makaslı Kriko 2 Ton Cırcır Kollu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 825737,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "11253 - Mekanik Makaslı Kriko 2 Ton Cırcır Kollu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744118237730,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605141162,
+      "__unknown_productSubTitle": "11253 - Mekanik Makaslı Kriko 2 Ton Cırcır Kollu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 825513,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Meşem Lastik Hava Basınç Ölçer 200psı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743854793100,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603755808,
+      "__unknown_productSubTitle": "Meşem Lastik Hava Basınç Ölçer 200psı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 825514,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Meşem Lastik Hava Basınç Ölçer 200psı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742208963568,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603755808,
+      "__unknown_productSubTitle": "Meşem Lastik Hava Basınç Ölçer 200psı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 825515,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Meşem Lastik Hava Basınç Ölçer 200psı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729696258713,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/23/80/35/01/78/62/26/61/48/23/24069471932219410389.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603755808,
+      "__unknown_productSubTitle": "Meşem Lastik Hava Basınç Ölçer 200psı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6000715,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/23/80/35/01/78/62/26/61/48/23/24069471932219410389.png"
+        },
+        {
+          "id": 6000716,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/23/78/33/84/92/42/80/70/00/86/77831971248225303070.png"
+        },
+        {
+          "id": 6000717,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/23/90/32/65/03/03/39/25/40/47/54417678827003690758.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/23/80/35/01/78/62/26/61/48/23/24069471932219410389.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/23/80/35/01/78/62/26/61/48/23/24069471932219410389.png"
+    }
+  }
+]

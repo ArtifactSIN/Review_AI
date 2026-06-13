@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 420570,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sylvanıa 14w Led Ampul 14 W",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774697814843,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/28/90/05/02/09/34/48/59/68/16/15492618252969528289.jpg",
+      "__unknown_lastModifiedDate": 1774697814843,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659694214,
+      "__unknown_productSubTitle": "Sylvanıa 14w Led Ampul 14 W",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8524588,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/90/05/02/09/34/48/59/68/16/15492618252969528289.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/28/90/05/02/09/34/48/59/68/16/15492618252969528289.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/28/90/05/02/09/34/48/59/68/16/15492618252969528289.jpg"
+    }
+  },
+  {
+    "gid_ref": 420571,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sylvanıa 14w Led Ampul 14 W",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768949472330,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659694214,
+      "__unknown_productSubTitle": "Sylvanıa 14w Led Ampul 14 W",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

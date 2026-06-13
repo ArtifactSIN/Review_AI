@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 1491831,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Matchbox 9´Lu Araba Seti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1738433761854,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/01/91/79/82/06/00/64/55/19/58/72873376304571564580.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576772370,
+      "__unknown_productSubTitle": "Matchbox 9´Lu Araba Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6789608,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/01/91/79/82/06/00/64/55/19/58/72873376304571564580.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/01/91/79/82/06/00/64/55/19/58/72873376304571564580.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/01/91/79/82/06/00/64/55/19/58/72873376304571564580.png"
+    }
+  },
+  {
+    "gid_ref": 1491832,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Matchbox 9´Lu Araba Seti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1691241304899,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/08/05/46/32/10/13/94/52/35/71/17/64347597056194659368.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 571689053,
+      "__unknown_productSubTitle": "Matchbox 9´Lu Araba Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2271119,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/08/05/46/32/10/13/94/52/35/71/17/64347597056194659368.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/08/05/46/32/10/13/94/52/35/71/17/64347597056194659368.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/08/05/46/32/10/13/94/52/35/71/17/64347597056194659368.jpg"
+    }
+  },
+  {
+    "gid_ref": 1491833,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Matchbox 9´Lu Araba Seti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1691082823763,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 571689053,
+      "__unknown_productSubTitle": "Matchbox 9´Lu Araba Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

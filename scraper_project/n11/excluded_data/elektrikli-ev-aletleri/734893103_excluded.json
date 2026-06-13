@@ -1,0 +1,85 @@
+[
+  {
+    "gid_ref": 489024,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bosch BBS1041RBA Unlimited 10 Şarjlı Dikey Süpürge",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774799894110,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/29/83/19/18/54/74/53/36/33/76/96029573545803232977.png",
+      "__unknown_lastModifiedDate": 1774799894110,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 658543774,
+      "__unknown_productSubTitle": "Bosch BBS1041RBA Unlimited 10 Şarjlı Dikey Süpürge Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8538552,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/29/83/19/18/54/74/53/36/33/76/96029573545803232977.png"
+        },
+        {
+          "id": 8538553,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/29/85/94/61/35/66/78/05/15/37/75424754773980396594.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/29/83/19/18/54/74/53/36/33/76/96029573545803232977.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/29/83/19/18/54/74/53/36/33/76/96029573545803232977.png"
+    }
+  },
+  {
+    "gid_ref": 489025,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bosch BBS1041RBA Unlimited 10 Şarjlı Dikey Süpürge",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774529075150,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/54/36/23/62/69/89/19/81/24/32849271324302657827.jpg",
+      "__unknown_lastModifiedDate": 1774529075150,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 658543774,
+      "__unknown_productSubTitle": "Bosch BBS1041RBA Unlimited 10 Şarjlı Dikey Süpürge Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8515655,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/54/36/23/62/69/89/19/81/24/32849271324302657827.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/54/36/23/62/69/89/19/81/24/32849271324302657827.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/54/36/23/62/69/89/19/81/24/32849271324302657827.jpg"
+    }
+  },
+  {
+    "gid_ref": 489026,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bosch BBS1041RBA Unlimited 10 Şarjlı Dikey Süpürge",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774467317734,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774467317734,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 658543774,
+      "__unknown_productSubTitle": "Bosch BBS1041RBA Unlimited 10 Şarjlı Dikey Süpürge Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1338746,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tom Clancy's Splinter Cell Double Agent PS3 Oyun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1707149111599,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593791881,
+      "__unknown_productSubTitle": "Tom Clancy's Splinter Cell Double Agent PS3 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1338747,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Gayet iyi iyi iyi iyi",
+      "productTitle": "Tom Clancy's Splinter Cell Double Agent PS3 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1614249817229,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 305634746,
+      "__unknown_productSubTitle": "Tom Clancy's Splinter Cell Double Agent PS3 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 237445,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Ecologic Yenidoğan Islak Bebek Bakım Havlusu 12 X 40'Lı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774435644709,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774435644709,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572117976,
+      "__unknown_productSubTitle": "Sleepy Ecologic Yenidoğan Islak Bebek Bakım Havlusu 12 X 40'Lı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 237446,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Ecologic Yenidoğan Islak Bebek Bakım Havlusu 12 X 40'Lı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1754049824353,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/01/78/82/17/15/44/25/08/16/86/36226481563020839601.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 534267735,
+      "__unknown_productSubTitle": "Sleepy Ecologic Yenidoğan Islak Bebek Bakım Havlusu 12 X 40'Lı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7512057,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/01/78/82/17/15/44/25/08/16/86/36226481563020839601.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/01/78/82/17/15/44/25/08/16/86/36226481563020839601.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/01/78/82/17/15/44/25/08/16/86/36226481563020839601.png"
+    }
+  },
+  {
+    "gid_ref": 237447,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Ecologic Yenidoğan Islak Bebek Bakım Havlusu 12 X 40'Lı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739004785007,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/08/88/66/50/83/46/92/88/40/09/48462905727582683236.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 534267735,
+      "__unknown_productSubTitle": "Sleepy Ecologic Yenidoğan Islak Bebek Bakım Havlusu 12 X 40'Lı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6812215,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/08/88/66/50/83/46/92/88/40/09/48462905727582683236.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/08/88/66/50/83/46/92/88/40/09/48462905727582683236.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/08/88/66/50/83/46/92/88/40/09/48462905727582683236.jpg"
+    }
+  }
+]

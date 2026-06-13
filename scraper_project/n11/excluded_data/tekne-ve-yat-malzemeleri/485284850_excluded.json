@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1250735,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sealux Marine Motor Yıkama Kulağı B.Boy Dikdörtgen",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765874410387,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 485284850,
+      "__unknown_productSubTitle": "Sealux Marine Motor Yıkama Kulağı B.Boy Dikdörtgen",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1250736,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sealux Marine Motor Yıkama Kulağı B.Boy Dikdörtgen",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1641364763065,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 485284850,
+      "__unknown_productSubTitle": "Sealux Marine Motor Yıkama Kulağı B.Boy Dikdörtgen",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

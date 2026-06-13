@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 270431,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arı Mama Sütlü Pirinç Unu 200 Gr x 8 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753389646746,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573997598,
+      "__unknown_productSubTitle": "Arı Mama Sütlü Pirinç Unu 200 Gr x 8 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 270432,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arı Mama Sütlü Pirinç Unu 200 Gr x 8 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1703095036562,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573997598,
+      "__unknown_productSubTitle": "Arı Mama Sütlü Pirinç Unu 200 Gr x 8 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

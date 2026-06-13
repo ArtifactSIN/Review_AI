@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 1337074,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sony Playstation 3 Oyun Kolu Joystick Ds3 Dualshock 3 PS3 Kol",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1700038332400,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 534396813,
+      "__unknown_productSubTitle": "Sony Playstation 3 Oyun Kolu Joystick Ds3 Dualshock 3 PS3 Kol",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337075,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kesinlikle almayın",
+      "productTitle": "Sony Playstation 3 Oyun Kolu Joystick Ds3 Dualshock 3 PS3 Kol",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1658267839046,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/07/20/68/59/10/41/81/61/12/88/53/95456045034388210606.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 537218941,
+      "__unknown_productSubTitle": "Sony Playstation 3 Oyun Kolu Joystick Ds3 Dualshock 3 PS3 Kol",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 862652,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/07/20/68/59/10/41/81/61/12/88/53/95456045034388210606.jpeg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/07/20/68/59/10/41/81/61/12/88/53/95456045034388210606.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/07/20/68/59/10/41/81/61/12/88/53/95456045034388210606.jpeg"
+    }
+  }
+]

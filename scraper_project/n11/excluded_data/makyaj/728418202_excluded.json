@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 853253,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Volume Mıllıon Lashes Maskara Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1749378854824,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 410124098,
+      "__unknown_productSubTitle": "L'Oreal Paris Volume Mıllıon Lashes Maskara Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 853254,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Volume Mıllıon Lashes Maskara Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744275020100,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/10/48/38/81/82/32/44/81/75/11/18093150354917115096.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645386250,
+      "__unknown_productSubTitle": "L'Oreal Paris Volume Mıllıon Lashes Maskara Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7085656,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/10/48/38/81/82/32/44/81/75/11/18093150354917115096.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/10/48/38/81/82/32/44/81/75/11/18093150354917115096.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/10/48/38/81/82/32/44/81/75/11/18093150354917115096.png"
+    }
+  },
+  {
+    "gid_ref": 853255,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Volume Mıllıon Lashes Maskara Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729080310644,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 410124098,
+      "__unknown_productSubTitle": "L'Oreal Paris Volume Mıllıon Lashes Maskara Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 853256,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Volume Mıllıon Lashes Maskara Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1717879234981,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 410124098,
+      "__unknown_productSubTitle": "L'Oreal Paris Volume Mıllıon Lashes Maskara Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 853257,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Volume Mıllıon Lashes Maskara Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1695534885104,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572543741,
+      "__unknown_productSubTitle": "L'Oreal Paris Volume Mıllıon Lashes Maskara Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

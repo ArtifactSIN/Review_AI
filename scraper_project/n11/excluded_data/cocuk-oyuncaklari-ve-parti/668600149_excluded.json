@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 399308,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "5 Yaş Üstü Işıklı Mavi Scooter Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767859798662,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668600149,
+      "__unknown_productSubTitle": "5 Yaş Üstü Işıklı Mavi Scooter Mavi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 399309,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "5 Yaş Üstü Işıklı Mavi Scooter Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1761586086046,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668600149,
+      "__unknown_productSubTitle": "5 Yaş Üstü Işıklı Mavi Scooter Mavi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 399310,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "5 Yaş Üstü Işıklı Mavi Scooter Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1759928622637,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/08/68/88/49/12/30/83/36/34/23/04834978083225779037.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668600149,
+      "__unknown_productSubTitle": "5 Yaş Üstü Işıklı Mavi Scooter Mavi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7773142,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/08/68/88/49/12/30/83/36/34/23/04834978083225779037.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/08/68/88/49/12/30/83/36/34/23/04834978083225779037.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/08/68/88/49/12/30/83/36/34/23/04834978083225779037.png"
+    }
+  },
+  {
+    "gid_ref": 399311,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "5 Yaş Üstü Işıklı Mavi Scooter Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1759912193837,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/08/74/68/00/85/34/80/63/71/18/21291024692325011360.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668600149,
+      "__unknown_productSubTitle": "5 Yaş Üstü Işıklı Mavi Scooter Mavi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7772434,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/08/74/68/00/85/34/80/63/71/18/21291024692325011360.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/08/74/68/00/85/34/80/63/71/18/21291024692325011360.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/08/74/68/00/85/34/80/63/71/18/21291024692325011360.png"
+    }
+  }
+]

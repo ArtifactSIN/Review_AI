@@ -1,0 +1,76 @@
+[
+  {
+    "gid_ref": 135707,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ikea Omtanksam 86 Cm Ayakkabı Çekeceği Kerata Çelik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770032137354,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700748192,
+      "__unknown_productSubTitle": "Ikea Omtanksam 86 Cm Ayakkabı Çekeceği Kerata Çelik ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 135708,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ikea Omtanksam 86 Cm Ayakkabı Çekeceği Kerata Çelik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769008159907,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/21/57/40/28/83/89/16/05/66/29/52590300887703207765.jpg",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700748192,
+      "__unknown_productSubTitle": "Ikea Omtanksam 86 Cm Ayakkabı Çekeceği Kerata Çelik ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8278618,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/21/57/40/28/83/89/16/05/66/29/52590300887703207765.jpg"
+        },
+        {
+          "id": 8278620,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/21/63/81/12/45/45/15/18/14/12/57322191421105655050.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/21/57/40/28/83/89/16/05/66/29/52590300887703207765.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/21/57/40/28/83/89/16/05/66/29/52590300887703207765.jpg"
+    }
+  },
+  {
+    "gid_ref": 135709,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ikea Omtanksam 86 Cm Ayakkabı Çekeceği Kerata Çelik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765279188027,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700748192,
+      "__unknown_productSubTitle": "Ikea Omtanksam 86 Cm Ayakkabı Çekeceği Kerata Çelik ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

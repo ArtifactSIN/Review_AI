@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1491072,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "+8 Yaş Geçmeli Birim Küpler 100 Adet (gürbüz Yayınları)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774642029659,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774642029659,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 536095897,
+      "__unknown_productSubTitle": "+8 Yaş Geçmeli Birim Küpler 100 Adet (gürbüz Yayınları)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1491073,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "+8 Yaş Geçmeli Birim Küpler 100 Adet (gürbüz Yayınları)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730375375476,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 536095897,
+      "__unknown_productSubTitle": "+8 Yaş Geçmeli Birim Küpler 100 Adet (gürbüz Yayınları)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 273944,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sma Optipro 2 Devam Sütü 1200 G 4 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761054312181,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/21/85/07/07/21/90/51/86/06/11/15978480696673191689.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654238180,
+      "__unknown_productSubTitle": "Sma Optipro 2 Devam Sütü 1200 G 4 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7834602,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/21/71/98/46/71/96/71/26/83/96/14031135587868756118.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/21/85/07/07/21/90/51/86/06/11/15978480696673191689.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/21/85/07/07/21/90/51/86/06/11/15978480696673191689.jpg"
+    }
+  }
+]

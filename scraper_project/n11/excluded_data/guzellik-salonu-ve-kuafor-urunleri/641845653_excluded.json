@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 754019,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-01 Düz Saç Kesim Makası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770463266368,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641845653,
+      "__unknown_productSubTitle": "Powertec TR-01 Düz Saç Kesim Makası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 754020,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-01 Düz Saç Kesim Makası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745523380277,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641845653,
+      "__unknown_productSubTitle": "Powertec TR-01 Düz Saç Kesim Makası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 754021,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-01 Düz Saç Kesim Makası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736165856539,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641845653,
+      "__unknown_productSubTitle": "Powertec TR-01 Düz Saç Kesim Makası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 826392,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jant Göbeği Etiketi Chevrolet 60Mm Çap Siyah (502481169)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731631371602,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 502481169,
+      "__unknown_productSubTitle": "Jant Göbeği Etiketi Chevrolet 60Mm Çap Siyah (502481169)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 826393,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jant Göbeği Etiketi Chevrolet 60Mm Çap Siyah (502481169)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1679501554814,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/03/22/80/32/96/06/41/11/03/79/22/62493331251778927649.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 502481169,
+      "__unknown_productSubTitle": "Jant Göbeği Etiketi Chevrolet 60Mm Çap Siyah (502481169)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1782751,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/03/22/80/32/96/06/41/11/03/79/22/62493331251778927649.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/03/22/80/32/96/06/41/11/03/79/22/62493331251778927649.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/03/22/80/32/96/06/41/11/03/79/22/62493331251778927649.png"
+    }
+  }
+]

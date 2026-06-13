@@ -1,0 +1,94 @@
+[
+  {
+    "gid_ref": 802911,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Şişme Kar Kızağı Büyük Boy 110 Cm Çap Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774334551436,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774334551436,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647778331,
+      "__unknown_productSubTitle": "Şişme Kar Kızağı Büyük Boy 110 Cm Çap Kırmızı XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802912,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Şişme Kar Kızağı Büyük Boy 110 Cm Çap Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772481732447,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647778331,
+      "__unknown_productSubTitle": "Şişme Kar Kızağı Büyük Boy 110 Cm Çap Kırmızı XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802913,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Şişme Kar Kızağı Büyük Boy 110 Cm Çap Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739895513069,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/18/53/89/60/34/42/00/86/75/61/61844682634204985525.jpg",
+      "__unknown_lastModifiedDate": 1749510632090,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647778331,
+      "__unknown_productSubTitle": "Şişme Kar Kızağı Büyük Boy 110 Cm Çap Kırmızı XL",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6859888,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/18/53/89/60/34/42/00/86/75/61/61844682634204985525.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/18/53/89/60/34/42/00/86/75/61/61844682634204985525.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/18/53/89/60/34/42/00/86/75/61/61844682634204985525.jpg"
+    }
+  },
+  {
+    "gid_ref": 802914,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Şişme Kar Kızağı Büyük Boy 110 Cm Çap Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737559750448,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1749510632090,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647778331,
+      "__unknown_productSubTitle": "Şişme Kar Kızağı Büyük Boy 110 Cm Çap Kırmızı XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

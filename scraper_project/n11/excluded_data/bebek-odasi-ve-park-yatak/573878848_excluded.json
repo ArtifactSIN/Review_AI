@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 262083,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patiko Sahra 058 2 Kapılı Dolap Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758436423414,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573878848,
+      "__unknown_productSubTitle": "Patiko Sahra 058 2 Kapılı Dolap Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 262084,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patiko Sahra 058 2 Kapılı Dolap Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711776284543,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/30/65/27/62/25/85/14/29/37/79/6692157679159195093.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573878848,
+      "__unknown_productSubTitle": "Patiko Sahra 058 2 Kapılı Dolap Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4298201,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/30/75/27/79/65/06/97/30/61/69/6133764451218079058.jpg"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/30/65/27/62/25/85/14/29/37/79/6692157679159195093.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/30/65/27/62/25/85/14/29/37/79/6692157679159195093.jpg"
+    }
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "gid_ref": 959908,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fenix E03r V2.0 Limited Edition 500 Lümen El Feneri 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773498567479,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773498567479,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695180363,
+      "__unknown_productSubTitle": "Fenix E03r V2.0 Limited Edition 500 Lümen El Feneri 001 Mavi - Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 959909,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fenix E03r V2.0 Limited Edition 500 Lümen El Feneri 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770848216979,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/12/66/46/62/70/64/90/29/64/69/41828953392124704921.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 706451334,
+      "__unknown_productSubTitle": "Fenix E03r V2.0 Limited Edition 500 Lümen El Feneri 001 Kırmızı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8342395,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/12/66/46/62/70/64/90/29/64/69/41828953392124704921.png"
+        },
+        {
+          "id": 8342397,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/12/71/57/54/57/73/21/44/22/80/85938721600256624184.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/12/66/46/62/70/64/90/29/64/69/41828953392124704921.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/12/66/46/62/70/64/90/29/64/69/41828953392124704921.png"
+    }
+  },
+  {
+    "gid_ref": 959910,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fenix E03r V2.0 Limited Edition 500 Lümen El Feneri 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770501715790,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/08/90/05/86/20/17/30/84/71/72/92872622440162702707.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695180362,
+      "__unknown_productSubTitle": "Fenix E03r V2.0 Limited Edition 500 Lümen El Feneri 001 Kırmızı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8330842,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/08/90/05/86/20/17/30/84/71/72/92872622440162702707.png"
+        },
+        {
+          "id": 8330843,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/08/47/29/07/66/55/96/14/29/19/18222821935626928748.png"
+        },
+        {
+          "id": 8330844,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/08/89/34/45/68/04/67/98/16/80/14844004485646761479.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/08/90/05/86/20/17/30/84/71/72/92872622440162702707.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/08/90/05/86/20/17/30/84/71/72/92872622440162702707.png"
+    }
+  },
+  {
+    "gid_ref": 959911,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fenix E03r V2.0 Limited Edition 500 Lümen El Feneri 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1718132823037,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597392466,
+      "__unknown_productSubTitle": "Fenix E03r V2.0 Limited Edition 500 Lümen El Feneri 001 Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

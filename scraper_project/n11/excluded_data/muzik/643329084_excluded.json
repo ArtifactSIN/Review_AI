@@ -1,0 +1,86 @@
+[
+  {
+    "gid_ref": 946570,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nux Mg-101 Gitar Efekt Prosesörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765613406985,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/13/64/73/78/54/67/66/89/68/06/68474194619772127203.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635426106,
+      "__unknown_productSubTitle": "Nux Mg-101 Gitar Efekt Prosesörü ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8118354,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/13/64/73/78/54/67/66/89/68/06/68474194619772127203.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/13/64/73/78/54/67/66/89/68/06/68474194619772127203.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/13/64/73/78/54/67/66/89/68/06/68474194619772127203.png"
+    }
+  },
+  {
+    "gid_ref": 946571,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nux Mg-101 Gitar Efekt Prosesörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746564100878,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649877136,
+      "__unknown_productSubTitle": "Nux Mg-101 Gitar Efekt Prosesörü ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946572,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nux Mg-101 Gitar Efekt Prosesörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736502381643,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/10/58/73/53/66/85/15/75/22/11/46613490428789870539.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643329084,
+      "__unknown_productSubTitle": "Nux Mg-101 Gitar Efekt Prosesörü ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6675038,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/10/58/73/53/66/85/15/75/22/11/46613490428789870539.png"
+        },
+        {
+          "id": 6675039,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/10/69/59/67/65/09/98/78/96/75/74927679361178290971.png"
+        },
+        {
+          "id": 6675040,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/10/68/33/67/80/98/64/76/36/35/97772809267932410751.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/10/58/73/53/66/85/15/75/22/11/46613490428789870539.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/10/58/73/53/66/85/15/75/22/11/46613490428789870539.png"
+    }
+  }
+]

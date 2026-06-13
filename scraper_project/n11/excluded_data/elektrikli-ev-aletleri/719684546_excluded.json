@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 479913,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sinbo SK-8035 1800 W Su Isıtıcı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775134130494,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775134130494,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719684546,
+      "__unknown_productSubTitle": "Sinbo SK-8035 1800 W Su Isıtıcı Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 479914,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sinbo SK-8035 1800 W Su Isıtıcı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771764433947,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719684546,
+      "__unknown_productSubTitle": "Sinbo SK-8035 1800 W Su Isıtıcı Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 479915,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sinbo SK-8035 1800 W Su Isıtıcı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763652823673,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 714778898,
+      "__unknown_productSubTitle": "Sinbo SK-8035 1800 W Su Isıtıcı Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

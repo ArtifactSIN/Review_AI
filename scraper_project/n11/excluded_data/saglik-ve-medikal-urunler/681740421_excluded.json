@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1124856,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tabvitamins Longawin 30 Kapsül 8680133003066",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759493613146,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 681740421,
+      "__unknown_productSubTitle": "Tabvitamins Longawin 30 Kapsül 8680133003066 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1124857,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tabvitamins Longawin 30 Kapsül 8680133003066",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756917570364,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/03/58/86/68/02/53/54/02/41/45/17020572024642750038.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 681740421,
+      "__unknown_productSubTitle": "Tabvitamins Longawin 30 Kapsül 8680133003066 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7635417,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/03/58/86/68/02/53/54/02/41/45/17020572024642750038.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/03/58/86/68/02/53/54/02/41/45/17020572024642750038.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/03/58/86/68/02/53/54/02/41/45/17020572024642750038.png"
+    }
+  }
+]

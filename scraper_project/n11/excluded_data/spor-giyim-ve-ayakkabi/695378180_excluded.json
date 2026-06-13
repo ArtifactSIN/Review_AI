@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1161128,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Asics Gt-1000 13 Tr Erkek Koşu Ayakkabısı 1011c043-300 Yeşil",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765103738603,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/07/63/76/14/12/07/14/00/84/01/43199175918220299344.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665549393,
+      "__unknown_productSubTitle": "Asics Gt-1000 13 Tr Erkek Koşu Ayakkabısı 1011c043-300 Yeşil 43.5",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8081586,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/07/63/76/14/12/07/14/00/84/01/43199175918220299344.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/07/63/76/14/12/07/14/00/84/01/43199175918220299344.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/07/63/76/14/12/07/14/00/84/01/43199175918220299344.png"
+    }
+  },
+  {
+    "gid_ref": 1161129,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Asics Gt-1000 13 Tr Erkek Koşu Ayakkabısı 1011c043-300 Yeşil",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1761549207552,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665549393,
+      "__unknown_productSubTitle": "Asics Gt-1000 13 Tr Erkek Koşu Ayakkabısı 1011c043-300 Yeşil 43.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

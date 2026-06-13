@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 753865,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İha Cilt Şapı 4 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753382530231,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583996990,
+      "__unknown_productSubTitle": "İha Cilt Şapı 4 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 753866,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İha Cilt Şapı 4 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1704641373595,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583996990,
+      "__unknown_productSubTitle": "İha Cilt Şapı 4 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 753867,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İha Cilt Şapı 4 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1667020662596,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 461119236,
+      "__unknown_productSubTitle": "İha Cilt Şapı 4 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

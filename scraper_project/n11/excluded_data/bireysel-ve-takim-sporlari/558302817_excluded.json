@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 368595,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Desfabe PDS 135x35Cm Kolonlu Kum Torba+Aparat Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746111601558,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/01/70/28/97/21/97/70/65/74/66/76633193282019177357.jpg",
+      "__unknown_lastModifiedDate": 1749508448497,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558302817,
+      "__unknown_productSubTitle": "Desfabe PDS 135x35Cm Kolonlu Kum Torba+Aparat Siyah ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7154814,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/01/70/28/97/21/97/70/65/74/66/76633193282019177357.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/01/70/28/97/21/97/70/65/74/66/76633193282019177357.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/01/70/28/97/21/97/70/65/74/66/76633193282019177357.jpg"
+    }
+  },
+  {
+    "gid_ref": 368596,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Desfabe PDS 135x35Cm Kolonlu Kum Torba+Aparat Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744704791420,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1749508448497,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558302817,
+      "__unknown_productSubTitle": "Desfabe PDS 135x35Cm Kolonlu Kum Torba+Aparat Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

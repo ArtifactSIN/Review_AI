@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 1161865,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Under Armour UA Undeniable 5.0 XS Silindir Çanta 1369221-012",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760998411216,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661713816,
+      "__unknown_productSubTitle": "Under Armour UA Undeniable 5.0 XS Silindir Çanta 1369221-012",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161866,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Under Armour UA Undeniable 5.0 XS Silindir Çanta 1369221-012",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1749791878473,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/13/86/03/10/99/28/05/22/88/54/44545186161446371858.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652914112,
+      "__unknown_productSubTitle": "Under Armour UA Undeniable 5.0 XS Silindir Çanta 1369221-012",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7321363,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/13/86/03/10/99/28/05/22/88/54/44545186161446371858.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/13/86/03/10/99/28/05/22/88/54/44545186161446371858.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/13/86/03/10/99/28/05/22/88/54/44545186161446371858.png"
+    }
+  },
+  {
+    "gid_ref": 1161867,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Under Armour UA Undeniable 5.0 XS Silindir Çanta 1369221-012",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1710333964979,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524641916,
+      "__unknown_productSubTitle": "Under Armour UA Undeniable 5.0 XS Silindir Çanta 1369221-012",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161868,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Under Armour UA Undeniable 5.0 XS Silindir Çanta 1369221-012",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697959002837,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524641916,
+      "__unknown_productSubTitle": "Under Armour UA Undeniable 5.0 XS Silindir Çanta 1369221-012",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

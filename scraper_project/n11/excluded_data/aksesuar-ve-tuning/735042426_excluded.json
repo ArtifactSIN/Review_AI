@@ -1,0 +1,265 @@
+[
+  {
+    "gid_ref": 111622,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selsil Emniyet Kemeri Yağlayıcı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774530777597,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774530777597,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733404830,
+      "__unknown_productSubTitle": "Selsil Emniyet Kemeri Yağlayıcı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 111623,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selsil Emniyet Kemeri Yağlayıcı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773761782107,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773761782107,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733404830,
+      "__unknown_productSubTitle": "Selsil Emniyet Kemeri Yağlayıcı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 111624,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selsil Emniyet Kemeri Yağlayıcı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773144665473,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773144665473,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733404830,
+      "__unknown_productSubTitle": "Selsil Emniyet Kemeri Yağlayıcı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 111625,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selsil Emniyet Kemeri Yağlayıcı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771948126912,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/24/73/19/94/43/00/01/98/82/01/55588822431470930807.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733927964,
+      "__unknown_productSubTitle": "Selsil Emniyet Kemeri Yağlayıcı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8410317,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/24/73/19/94/43/00/01/98/82/01/55588822431470930807.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/24/73/19/94/43/00/01/98/82/01/55588822431470930807.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/24/73/19/94/43/00/01/98/82/01/55588822431470930807.png"
+    }
+  },
+  {
+    "gid_ref": 111626,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selsil Emniyet Kemeri Yağlayıcı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771247210700,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718426581,
+      "__unknown_productSubTitle": "Selsil Emniyet Kemeri Yağlayıcı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 111627,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selsil Emniyet Kemeri Yağlayıcı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770656237702,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718426581,
+      "__unknown_productSubTitle": "Selsil Emniyet Kemeri Yağlayıcı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 111628,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selsil Emniyet Kemeri Yağlayıcı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767510521425,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718426581,
+      "__unknown_productSubTitle": "Selsil Emniyet Kemeri Yağlayıcı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 111629,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selsil Emniyet Kemeri Yağlayıcı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765386439439,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718426581,
+      "__unknown_productSubTitle": "Selsil Emniyet Kemeri Yağlayıcı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 111630,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selsil Emniyet Kemeri Yağlayıcı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764952335607,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718426581,
+      "__unknown_productSubTitle": "Selsil Emniyet Kemeri Yağlayıcı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 111631,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selsil Emniyet Kemeri Yağlayıcı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764805059393,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718426581,
+      "__unknown_productSubTitle": "Selsil Emniyet Kemeri Yağlayıcı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 111632,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selsil Emniyet Kemeri Yağlayıcı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764008174920,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718426581,
+      "__unknown_productSubTitle": "Selsil Emniyet Kemeri Yağlayıcı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 111633,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selsil Emniyet Kemeri Yağlayıcı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763824075668,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/22/75/71/57/62/76/83/00/54/40/47189037617095098241.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718426581,
+      "__unknown_productSubTitle": "Selsil Emniyet Kemeri Yağlayıcı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8003422,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/22/75/71/57/62/76/83/00/54/40/47189037617095098241.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/22/75/71/57/62/76/83/00/54/40/47189037617095098241.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/22/75/71/57/62/76/83/00/54/40/47189037617095098241.png"
+    }
+  }
+]

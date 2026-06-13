@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 383953,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Deore Fc-m5100-1 Aynakol 1x10/11v 32t 170mm Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755546469205,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650651078,
+      "__unknown_productSubTitle": "Shimano Deore Fc-m5100-1 Aynakol 1x10/11v 32t 170mm Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 383954,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Deore Fc-m5100-1 Aynakol 1x10/11v 32t 170mm Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747470165319,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/17/59/17/87/55/31/80/77/19/79/05389516387997233189.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650651078,
+      "__unknown_productSubTitle": "Shimano Deore Fc-m5100-1 Aynakol 1x10/11v 32t 170mm Siyah ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7223839,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/17/59/17/87/55/31/80/77/19/79/05389516387997233189.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/17/59/17/87/55/31/80/77/19/79/05389516387997233189.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/17/59/17/87/55/31/80/77/19/79/05389516387997233189.png"
+    }
+  },
+  {
+    "gid_ref": 383955,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Deore Fc-m5100-1 Aynakol 1x10/11v 32t 170mm Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745760060245,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650651078,
+      "__unknown_productSubTitle": "Shimano Deore Fc-m5100-1 Aynakol 1x10/11v 32t 170mm Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

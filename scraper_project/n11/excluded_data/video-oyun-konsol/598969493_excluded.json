@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1339313,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sony Playstation 3 PS3 Analog Motoru 3 Pin Kol Tamiri 4 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767506548640,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598969493,
+      "__unknown_productSubTitle": "Sony Playstation 3 PS3 Analog Motoru 3 Pin Kol Tamiri 4 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1339314,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sony Playstation 3 PS3 Analog Motoru 3 Pin Kol Tamiri 4 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724880391710,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 368287377,
+      "__unknown_productSubTitle": "Sony Playstation 3 PS3 Analog Motoru 3 Pin Kol Tamiri 4 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

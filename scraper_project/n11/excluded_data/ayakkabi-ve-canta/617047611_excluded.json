@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 130744,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dexter Navigator P619-11 Erkek Ayakkabı Kahverengi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1749075133534,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 617047565,
+      "__unknown_productSubTitle": "Dexter Navigator P619-11 Erkek Ayakkabı Kahverengi 42.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 130745,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dexter Navigator P619-11 Erkek Ayakkabı Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732896726201,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1744717560117,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 617047593,
+      "__unknown_productSubTitle": "Dexter Navigator P619-11 Erkek Ayakkabı Kahverengi 43",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

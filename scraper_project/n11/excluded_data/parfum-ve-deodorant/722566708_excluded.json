@@ -1,0 +1,49 @@
+[
+  {
+    "gid_ref": 1030025,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farmasi No.70 Erkek Parfüm EDP 80 ML + No.70 Tıraş Sonrası Losyonu 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726757765841,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584032940,
+      "__unknown_productSubTitle": "Farmasi No.70 Erkek Parfüm EDP 80 ML + No.70 Tıraş Sonrası Losyonu 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1030026,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farmasi No.70 Erkek Parfüm EDP 80 ML + No.70 Tıraş Sonrası Losyonu 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722078377490,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/27/56/63/13/12/56/81/63/69/55/88693007926679027122.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580651355,
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5274574,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/27/56/63/13/12/56/81/63/69/55/88693007926679027122.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/27/56/63/13/12/56/81/63/69/55/88693007926679027122.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/27/56/63/13/12/56/81/63/69/55/88693007926679027122.png"
+    }
+  }
+]

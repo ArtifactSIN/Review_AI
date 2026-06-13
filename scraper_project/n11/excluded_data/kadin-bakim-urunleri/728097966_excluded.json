@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 764361,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Veet Çok Amaçlı Tüy Alım Sonrası Mucizevi Yağ 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728170127876,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584973784,
+      "__unknown_productSubTitle": "Veet Çok Amaçlı Tüy Alım Sonrası Mucizevi Yağ 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 764362,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Veet Çok Amaçlı Tüy Alım Sonrası Mucizevi Yağ 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724014781031,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/18/59/72/18/87/72/81/11/28/37/73947138125024901455.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584973784,
+      "__unknown_productSubTitle": "Veet Çok Amaçlı Tüy Alım Sonrası Mucizevi Yağ 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5447560,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/18/59/72/18/87/72/81/11/28/37/73947138125024901455.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/18/59/72/18/87/72/81/11/28/37/73947138125024901455.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/18/59/72/18/87/72/81/11/28/37/73947138125024901455.jpg"
+    }
+  }
+]

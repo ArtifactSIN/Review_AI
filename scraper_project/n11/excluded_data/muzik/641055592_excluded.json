@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 946526,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yamaha ARIUS YDP-105B Dijital Piyano (Kulaklık + Tabure)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1742490551889,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641055592,
+      "__unknown_productSubTitle": "Yamaha ARIUS YDP-105B Dijital Piyano (Kulaklık + Tabure) ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946527,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yamaha ARIUS YDP-105B Dijital Piyano (Kulaklık + Tabure)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1741895500009,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 731850568,
+      "__unknown_productSubTitle": "Yamaha ARIUS YDP-105B Dijital Piyano (Kulaklık + Tabure) ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946528,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yamaha ARIUS YDP-105B Dijital Piyano (Kulaklık + Tabure)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737791237221,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584930841,
+      "__unknown_productSubTitle": "Yamaha ARIUS YDP-105B Dijital Piyano (Kulaklık + Tabure) ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946529,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yamaha ARIUS YDP-105B Dijital Piyano (Kulaklık + Tabure)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732183874413,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/21/61/32/02/58/69/73/28/65/20/05274879505401492463.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584930841,
+      "__unknown_productSubTitle": "Yamaha ARIUS YDP-105B Dijital Piyano (Kulaklık + Tabure) ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6289870,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/21/61/32/02/58/69/73/28/65/20/05274879505401492463.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/21/61/32/02/58/69/73/28/65/20/05274879505401492463.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/21/61/32/02/58/69/73/28/65/20/05274879505401492463.jpg"
+    }
+  },
+  {
+    "gid_ref": 946530,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yamaha ARIUS YDP-105B Dijital Piyano (Kulaklık + Tabure)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697115332979,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584930841,
+      "__unknown_productSubTitle": "Yamaha ARIUS YDP-105B Dijital Piyano (Kulaklık + Tabure) ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

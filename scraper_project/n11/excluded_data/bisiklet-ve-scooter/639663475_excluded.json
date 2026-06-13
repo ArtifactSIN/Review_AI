@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 383370,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rectus Bisiklet Elcik Alyan Sıkmalı Kırmızı Kırmızı - Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772189819585,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/27/79/68/09/65/53/93/90/47/77/11646314046192205266.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639663475,
+      "__unknown_productSubTitle": "Rectus Bisiklet Elcik Alyan Sıkmalı Kırmızı Kırmızı - Siyah ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8417463,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/27/79/68/09/65/53/93/90/47/77/11646314046192205266.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/27/79/68/09/65/53/93/90/47/77/11646314046192205266.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/27/79/68/09/65/53/93/90/47/77/11646314046192205266.png"
+    }
+  },
+  {
+    "gid_ref": 383371,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rectus Bisiklet Elcik Alyan Sıkmalı Kırmızı Kırmızı - Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756559283871,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639663475,
+      "__unknown_productSubTitle": "Rectus Bisiklet Elcik Alyan Sıkmalı Kırmızı Kırmızı - Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 630127,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Koltuk Örtüsü Jakarlı Esnek Ve Lastikli 3 Kişilik Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1751395630865,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645697152,
+      "__unknown_productSubTitle": "Koltuk Örtüsü Jakarlı Esnek Ve Lastikli 3 Kişilik Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 630128,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Koltuk Örtüsü Jakarlı Esnek Ve Lastikli 3 Kişilik Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738319819395,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/31/81/65/97/23/71/96/50/67/31/45868471955487346130.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645697152,
+      "__unknown_productSubTitle": "Koltuk Örtüsü Jakarlı Esnek Ve Lastikli 3 Kişilik Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6775674,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/31/81/65/97/23/71/96/50/67/31/45868471955487346130.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/31/81/65/97/23/71/96/50/67/31/45868471955487346130.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/31/81/65/97/23/71/96/50/67/31/45868471955487346130.jpg"
+    }
+  }
+]

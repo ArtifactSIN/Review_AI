@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 824947,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Billas 900-16 12pr Bl320 Traktör Römork Lastiği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775322616854,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/04/52/96/51/66/77/80/17/84/64/65059263029255684425.png",
+      "__unknown_lastModifiedDate": 1775322616854,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590786053,
+      "__unknown_productSubTitle": "Billas 900-16 12pr Bl320 Traktör Römork Lastiği",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8568474,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/04/52/96/51/66/77/80/17/84/64/65059263029255684425.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/04/52/96/51/66/77/80/17/84/64/65059263029255684425.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/04/52/96/51/66/77/80/17/84/64/65059263029255684425.png"
+    }
+  },
+  {
+    "gid_ref": 824948,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Billas 900-16 12pr Bl320 Traktör Römork Lastiği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726069144517,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590786053,
+      "__unknown_productSubTitle": "Billas 900-16 12pr Bl320 Traktör Römork Lastiği",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 824949,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Billas 900-16 12pr Bl320 Traktör Römork Lastiği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726069132704,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590786053,
+      "__unknown_productSubTitle": "Billas 900-16 12pr Bl320 Traktör Römork Lastiği",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 824950,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Billas 900-16 12pr Bl320 Traktör Römork Lastiği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721242997569,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590786053,
+      "__unknown_productSubTitle": "Billas 900-16 12pr Bl320 Traktör Römork Lastiği",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

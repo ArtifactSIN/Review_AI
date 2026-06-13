@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 734877,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "İzlemeye değmez",
+      "productTitle": "Dvd-Bulut Atlası-Cloud Atlas-Tom Hanks",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1540177041758,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 140099938,
+      "__unknown_productSubTitle": "Dvd-Bulut Atlası-Cloud Atlas-Tom Hanks",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

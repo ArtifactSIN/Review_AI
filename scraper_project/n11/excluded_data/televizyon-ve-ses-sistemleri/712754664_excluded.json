@@ -1,0 +1,67 @@
+[
+  {
+    "gid_ref": 1328433,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pioneer Xdj-rx3 2 Kanal Dj Setup",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772628168224,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/04/79/33/92/22/80/87/20/65/08/23636591515737997340.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712754664,
+      "__unknown_productSubTitle": "Pioneer Xdj-rx3 2 Kanal Dj Setup ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8426180,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/04/79/33/92/22/80/87/20/65/08/23636591515737997340.jpg"
+        },
+        {
+          "id": 8426181,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/04/84/43/59/09/30/72/83/48/81/8445280095938198792.jpg"
+        },
+        {
+          "id": 8426182,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/04/64/93/22/40/31/34/58/06/45/82556240375294245376.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/04/79/33/92/22/80/87/20/65/08/23636591515737997340.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/04/79/33/92/22/80/87/20/65/08/23636591515737997340.jpg"
+    }
+  },
+  {
+    "gid_ref": 1328434,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pioneer Xdj-rx3 2 Kanal Dj Setup",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764586892615,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/01/68/61/62/78/66/75/40/27/91/68913542648756584973.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712754664,
+      "__unknown_productSubTitle": "Pioneer Xdj-rx3 2 Kanal Dj Setup ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8052871,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/01/68/61/62/78/66/75/40/27/91/68913542648756584973.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/01/68/61/62/78/66/75/40/27/91/68913542648756584973.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/01/68/61/62/78/66/75/40/27/91/68913542648756584973.png"
+    }
+  }
+]

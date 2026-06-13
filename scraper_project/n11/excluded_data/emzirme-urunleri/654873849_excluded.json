@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 498192,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Maternite Göğüs Ucu Kremi 30 ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724974424826,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587148395,
+      "__unknown_productSubTitle": "Mustela Maternite Göğüs Ucu Kremi 30 ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 498193,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Maternite Göğüs Ucu Kremi 30 ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1660743865568,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/08/17/73/32/19/54/06/27/76/51/43/88959661322009201813.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551881666,
+      "__unknown_productSubTitle": "Mustela Maternite Göğüs Ucu Kremi 30 ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 948050,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/08/17/73/32/19/54/06/27/76/51/43/88959661322009201813.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/08/17/73/32/19/54/06/27/76/51/43/88959661322009201813.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/08/17/73/32/19/54/06/27/76/51/43/88959661322009201813.jpeg"
+    }
+  }
+]

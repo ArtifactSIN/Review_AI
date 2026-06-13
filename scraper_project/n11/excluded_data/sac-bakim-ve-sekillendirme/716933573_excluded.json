@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 1069432,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Batiste Fresh Kuru Şampuan 2 x 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774166103304,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774166103304,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 716933573,
+      "__unknown_productSubTitle": "Batiste Fresh Kuru Şampuan 2 x 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1069433,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Batiste Fresh Kuru Şampuan 2 x 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773668088695,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773668088695,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 716933573,
+      "__unknown_productSubTitle": "Batiste Fresh Kuru Şampuan 2 x 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1069434,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Batiste Fresh Kuru Şampuan 2 x 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728667418445,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592048259,
+      "__unknown_productSubTitle": "Batiste Fresh Kuru Şampuan 2 x 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

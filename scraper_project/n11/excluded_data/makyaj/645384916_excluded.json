@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 845078,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Paris True Match Aydınlatan Serum Kapatıcı - 1.5N 11 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764876993548,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645384916,
+      "__unknown_productSubTitle": "L'Oréal Paris True Match Aydınlatan Serum Kapatıcı - 1.5N 11 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 845079,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Paris True Match Aydınlatan Serum Kapatıcı - 1.5N 11 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764846920437,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/04/53/82/11/16/58/09/59/00/18/88016900555539528101.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645384916,
+      "__unknown_productSubTitle": "L'Oréal Paris True Match Aydınlatan Serum Kapatıcı - 1.5N 11 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8071628,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/04/53/82/11/16/58/09/59/00/18/88016900555539528101.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/04/53/82/11/16/58/09/59/00/18/88016900555539528101.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/04/53/82/11/16/58/09/59/00/18/88016900555539528101.png"
+    }
+  },
+  {
+    "gid_ref": 845080,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Paris True Match Aydınlatan Serum Kapatıcı - 1.5N 11 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724351960277,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602120192,
+      "__unknown_productSubTitle": "L'Oréal Paris True Match Aydınlatan Serum Kapatıcı - 1.5N 11 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

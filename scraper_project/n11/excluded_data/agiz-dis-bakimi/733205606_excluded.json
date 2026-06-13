@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 33043,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Colgate Hassasiyete Pro Çözüm Beyazlatıcı Sensitive Diş Macunu 2 x 75 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725085968370,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 544977203,
+      "__unknown_productSubTitle": "Colgate Hassasiyete Pro Çözüm Beyazlatıcı Sensitive Diş Macunu 2 x 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 33044,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Colgate Hassasiyete Pro Çözüm Beyazlatıcı Sensitive Diş Macunu 2 x 75 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1671011123408,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/12/14/61/15/00/96/93/84/13/23/66/08421279231063641713.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 544977203,
+      "__unknown_productSubTitle": "Colgate Hassasiyete Pro Çözüm Beyazlatıcı Sensitive Diş Macunu 2 x 75 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1390505,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/12/14/61/15/00/96/93/84/13/23/66/08421279231063641713.png"
+        },
+        {
+          "id": 1390507,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/12/14/65/37/54/56/35/00/60/21/59/55028354931259688706.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/12/14/61/15/00/96/93/84/13/23/66/08421279231063641713.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/12/14/61/15/00/96/93/84/13/23/66/08421279231063641713.png"
+    }
+  }
+]

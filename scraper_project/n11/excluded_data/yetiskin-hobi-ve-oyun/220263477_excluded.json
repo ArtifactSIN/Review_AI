@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1489539,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Monopoly Türkiye Aile Kutu Oyunu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1699470917846,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 220263477,
+      "__unknown_productSubTitle": "Monopoly Türkiye Aile Kutu Oyunu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1489540,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Monopoly Türkiye Aile Kutu Oyunu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1698479014569,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 220263477,
+      "__unknown_productSubTitle": "Monopoly Türkiye Aile Kutu Oyunu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

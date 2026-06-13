@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 1343970,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "PS4 Uyumlu V1 PS4 Uyumlu Oyun Kolu Siyah -",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1680775074846,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/04/06/51/37/18/43/93/55/55/12/16/71951122951286375841.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 483083226,
+      "__unknown_productSubTitle": "PS4 Uyumlu V1 PS4 Uyumlu Oyun Kolu Siyah -",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1841065,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/04/06/51/37/18/43/93/55/55/12/16/71951122951286375841.png"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/04/06/51/37/18/43/93/55/55/12/16/71951122951286375841.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/04/06/51/37/18/43/93/55/55/12/16/71951122951286375841.png"
+    }
+  },
+  {
+    "gid_ref": 1343971,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Dualshock 4",
+      "productTitle": "PS4 Uyumlu V1 PS4 Uyumlu Oyun Kolu Siyah -",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1670335877983,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/12/06/91/75/42/34/34/69/44/84/59/22065041004011079329.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557669509,
+      "__unknown_productSubTitle": "PS4 Uyumlu V1 PS4 Uyumlu Oyun Kolu Siyah -",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1353461,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/12/06/91/75/42/34/34/69/44/84/59/22065041004011079329.jpeg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/12/06/91/75/42/34/34/69/44/84/59/22065041004011079329.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/12/06/91/75/42/34/34/69/44/84/59/22065041004011079329.jpeg"
+    }
+  }
+]

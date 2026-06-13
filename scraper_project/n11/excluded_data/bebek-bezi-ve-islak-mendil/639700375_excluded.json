@@ -1,0 +1,92 @@
+[
+  {
+    "gid_ref": 244392,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Molfix Bebek Bezi 1 Numara Yenidoğan Ekonomik Paket 120 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746346439987,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639700375,
+      "__unknown_productSubTitle": "Molfix Bebek Bezi 1 Numara Yenidoğan Ekonomik Paket 120 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 244393,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Molfix Bebek Bezi 1 Numara Yenidoğan Ekonomik Paket 120 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697556908944,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/10/17/55/06/68/38/62/15/29/16/82/63407633308741054470.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 538225398,
+      "__unknown_productSubTitle": "Molfix Bebek Bezi 1 Numara Yenidoğan Ekonomik Paket 120 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2558574,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/17/55/06/68/38/62/15/29/16/82/63407633308741054470.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/10/17/55/06/68/38/62/15/29/16/82/63407633308741054470.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/10/17/55/06/68/38/62/15/29/16/82/63407633308741054470.png"
+    }
+  },
+  {
+    "gid_ref": 244394,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "3 paket",
+      "productTitle": "Molfix Bebek Bezi 1 Numara Yenidoğan Ekonomik Paket 120 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1665660219300,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 538225398,
+      "__unknown_productSubTitle": "Molfix Bebek Bezi 1 Numara Yenidoğan Ekonomik Paket 120 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 244395,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Molfix bez",
+      "productTitle": "Molfix Bebek Bezi 1 Numara Yenidoğan Ekonomik Paket 120 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1662655822342,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 538225398,
+      "__unknown_productSubTitle": "Molfix Bebek Bezi 1 Numara Yenidoğan Ekonomik Paket 120 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

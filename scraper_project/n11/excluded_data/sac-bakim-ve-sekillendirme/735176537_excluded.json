@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1073208,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Style Guide Sea Salt Sprey 200 ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773164215156,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773164215156,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 735176537,
+      "__unknown_productSubTitle": "Style Guide Sea Salt Sprey 200 ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1073209,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Style Guide Sea Salt Sprey 200 ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758295942082,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645403594,
+      "__unknown_productSubTitle": "Style Guide Sea Salt Sprey 200 ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1073210,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Style Guide Sea Salt Sprey 200 ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733310299820,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645403594,
+      "__unknown_productSubTitle": "Style Guide Sea Salt Sprey 200 ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

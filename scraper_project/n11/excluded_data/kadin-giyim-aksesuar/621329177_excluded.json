@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 773723,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dündar Çorap Kokulu Bambu 12'li Patik Çorap 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773073257658,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773073257658,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 621329177,
+      "__unknown_productSubTitle": "Dündar Çorap Kokulu Bambu 12'li Patik Çorap 001 Siyah 36 - 41",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 773724,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dündar Çorap Kokulu Bambu 12'li Patik Çorap 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762288709661,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/04/89/71/53/46/48/70/76/17/94/12489701685101576180.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602259832,
+      "__unknown_productSubTitle": "Dündar Çorap Kokulu Bambu 12'li Patik Çorap 001 Beyaz - Siyah 36 - 41",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7913978,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/04/89/71/53/46/48/70/76/17/94/12489701685101576180.jpg"
+        },
+        {
+          "id": 7913979,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/04/92/13/29/42/38/98/06/71/12/78448177959592312520.jpg"
+        },
+        {
+          "id": 7913980,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/04/54/02/67/68/54/46/79/92/26/3290911720788967169.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/04/89/71/53/46/48/70/76/17/94/12489701685101576180.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/04/89/71/53/46/48/70/76/17/94/12489701685101576180.jpg"
+    }
+  },
+  {
+    "gid_ref": 773725,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dündar Çorap Kokulu Bambu 12'li Patik Çorap 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730271003886,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602259832,
+      "__unknown_productSubTitle": "Dündar Çorap Kokulu Bambu 12'li Patik Çorap 001 Beyaz - Siyah 36 - 41",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 773726,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dündar Çorap Kokulu Bambu 12'li Patik Çorap 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719337168784,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602259832,
+      "__unknown_productSubTitle": "Dündar Çorap Kokulu Bambu 12'li Patik Çorap 001 Beyaz - Siyah 36 - 41",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

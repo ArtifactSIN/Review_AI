@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 888962,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motul E5 Shine & Go Hızlı Yıkama Ve Cila",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728046286609,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/04/72/13/81/10/33/02/70/32/64/36662210696963704893.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606184834,
+      "__unknown_productSubTitle": "Motul E5 Shine & Go Hızlı Yıkama Ve Cila",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5845626,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/04/72/13/81/10/33/02/70/32/64/36662210696963704893.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/04/72/13/81/10/33/02/70/32/64/36662210696963704893.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/04/72/13/81/10/33/02/70/32/64/36662210696963704893.png"
+    }
+  },
+  {
+    "gid_ref": 888963,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motul E5 Shine & Go Hızlı Yıkama Ve Cila",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1684157597935,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 574362304,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 888964,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Mükemmel",
+      "productTitle": "Motul E5 Shine & Go Hızlı Yıkama Ve Cila",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1661674998531,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 349685837,
+      "__unknown_productSubTitle": "Motul E5 Shine & Go Hızlı Yıkama Ve Cila",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 888965,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kalite...",
+      "productTitle": "Motul E5 Shine & Go Hızlı Yıkama Ve Cila",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1658735590702,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 349685837,
+      "__unknown_productSubTitle": "Motul E5 Shine & Go Hızlı Yıkama Ve Cila",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

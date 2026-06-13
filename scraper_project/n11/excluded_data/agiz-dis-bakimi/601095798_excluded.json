@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 18325,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Signal White Now Sensitive Diş Macunu 75 ML + Diş Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769526702145,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601095798,
+      "__unknown_productSubTitle": "Signal White Now Sensitive Diş Macunu 75 ML + Diş Fırçası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 18326,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Signal White Now Sensitive Diş Macunu 75 ML + Diş Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738260078501,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601095798,
+      "__unknown_productSubTitle": "Signal White Now Sensitive Diş Macunu 75 ML + Diş Fırçası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 496498,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bambino Figürlü Emzik Askısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729761723997,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606321974,
+      "__unknown_productSubTitle": "Bambino Figürlü Emzik Askısı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 496499,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bambino Figürlü Emzik Askısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1722601508335,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561199020,
+      "__unknown_productSubTitle": "Bambino Figürlü Emzik Askısı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 496500,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bambino Figürlü Emzik Askısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1675172041629,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/01/31/78/47/70/90/63/86/60/39/30/21364405754043056467.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561199020,
+      "__unknown_productSubTitle": "Bambino Figürlü Emzik Askısı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1542924,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/31/78/47/70/90/63/86/60/39/30/21364405754043056467.jpg"
+        },
+        {
+          "id": 1542925,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/31/54/08/15/41/78/19/73/03/50/14961092691958645580.jpg"
+        },
+        {
+          "id": 1542926,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/31/71/62/14/31/53/12/04/89/74/63853994536832680220.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/01/31/78/47/70/90/63/86/60/39/30/21364405754043056467.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/01/31/78/47/70/90/63/86/60/39/30/21364405754043056467.jpg"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "gid_ref": 392295,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bultak Boeling Sallanan Halkalar 92 Parça Blok Eğitici Zeka",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725190974746,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 508984589,
+      "__unknown_productSubTitle": "Bultak Boeling Sallanan Halkalar 92 Parça Blok Eğitici Zeka",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 392296,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bultak Boeling Sallanan Halkalar 92 Parça Blok Eğitici Zeka",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714429077138,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/30/90/32/04/52/24/75/22/32/76/95945501295619754559.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 508984589,
+      "__unknown_productSubTitle": "Bultak Boeling Sallanan Halkalar 92 Parça Blok Eğitici Zeka",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4545268,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/30/90/32/04/52/24/75/22/32/76/95945501295619754559.png"
+        },
+        {
+          "id": 4545269,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/30/71/99/42/87/10/47/74/88/65/14151423691778536281.png"
+        },
+        {
+          "id": 4545270,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/30/64/51/10/00/56/61/57/37/90/1961621763573923672.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/30/90/32/04/52/24/75/22/32/76/95945501295619754559.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/30/90/32/04/52/24/75/22/32/76/95945501295619754559.png"
+    }
+  },
+  {
+    "gid_ref": 392297,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bultak Boeling Sallanan Halkalar 92 Parça Blok Eğitici Zeka",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1655815653376,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/06/21/51/54/85/69/72/76/62/37/84/1601863868039019044.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524603537,
+      "__unknown_productSubTitle": "Bultak Boeling Sallanan Halkalar 92 Parça Blok Eğitici Zeka",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 763887,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/06/21/51/54/85/69/72/76/62/37/84/1601863868039019044.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/06/21/51/54/85/69/72/76/62/37/84/1601863868039019044.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/06/21/51/54/85/69/72/76/62/37/84/1601863868039019044.jpg"
+    }
+  }
+]

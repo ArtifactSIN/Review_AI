@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1516179,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Solante Pigmenta Tinted Güneş Losyonu  SPF50+ 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765263156953,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 677217144,
+      "__unknown_productSubTitle": "Solante Pigmenta Tinted Güneş Losyonu  SPF50+ 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1516180,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Solante Pigmenta Tinted Güneş Losyonu  SPF50+ 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750924211885,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 677217144,
+      "__unknown_productSubTitle": "Solante Pigmenta Tinted Güneş Losyonu  SPF50+ 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

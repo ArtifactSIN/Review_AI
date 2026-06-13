@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1341846,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps5/Ps4 Analog Koruyucu Batman 4lü Paket - GP5-39",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767008887320,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/29/75/01/02/83/22/90/43/60/64/17255386194158962835.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666464381,
+      "__unknown_productSubTitle": "Ps5/Ps4 Analog Koruyucu Batman 4lü Paket - GP5-39 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8182137,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/29/75/01/02/83/22/90/43/60/64/17255386194158962835.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/29/75/01/02/83/22/90/43/60/64/17255386194158962835.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/29/75/01/02/83/22/90/43/60/64/17255386194158962835.jpeg"
+    }
+  },
+  {
+    "gid_ref": 1341847,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps5/Ps4 Analog Koruyucu Batman 4lü Paket - GP5-39",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763215844366,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666464381,
+      "__unknown_productSubTitle": "Ps5/Ps4 Analog Koruyucu Batman 4lü Paket - GP5-39 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

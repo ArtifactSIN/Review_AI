@@ -1,0 +1,126 @@
+[
+  {
+    "gid_ref": 25426,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Pro3 3900 Serisi Şarjlı Diş Fırçası 2'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742812569430,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652947230,
+      "__unknown_productSubTitle": "Oral-B Pro3 3900 Serisi Şarjlı Diş Fırçası 2'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 25427,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Pro3 3900 Serisi Şarjlı Diş Fırçası 2'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739374828167,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/12/82/92/40/33/34/95/90/38/54/71957078191301414018.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652947230,
+      "__unknown_productSubTitle": "Oral-B Pro3 3900 Serisi Şarjlı Diş Fırçası 2'li",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6829583,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/12/82/92/40/33/34/95/90/38/54/71957078191301414018.png"
+        },
+        {
+          "id": 6829584,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/12/55/06/14/80/38/78/13/16/15/75785935869536025342.png"
+        },
+        {
+          "id": 6829585,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/12/67/50/57/57/73/13/75/58/02/731959979316657206.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/12/82/92/40/33/34/95/90/38/54/71957078191301414018.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/12/82/92/40/33/34/95/90/38/54/71957078191301414018.png"
+    }
+  },
+  {
+    "gid_ref": 25428,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Pro3 3900 Serisi Şarjlı Diş Fırçası 2'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737136597997,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641605672,
+      "__unknown_productSubTitle": "Oral-B Pro3 3900 Serisi Şarjlı Diş Fırçası 2'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 25429,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Pro3 3900 Serisi Şarjlı Diş Fırçası 2'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736425112041,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/09/60/73/73/94/10/89/88/77/45/07528122861709052783.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641605672,
+      "__unknown_productSubTitle": "Oral-B Pro3 3900 Serisi Şarjlı Diş Fırçası 2'li",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6674619,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/09/60/73/73/94/10/89/88/77/45/07528122861709052783.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/09/60/73/73/94/10/89/88/77/45/07528122861709052783.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/09/60/73/73/94/10/89/88/77/45/07528122861709052783.jpg"
+    }
+  },
+  {
+    "gid_ref": 25430,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Pro3 3900 Serisi Şarjlı Diş Fırçası 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724272487501,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631991782,
+      "__unknown_productSubTitle": "Oral-B Pro3 3900 Serisi Şarjlı Diş Fırçası 2'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

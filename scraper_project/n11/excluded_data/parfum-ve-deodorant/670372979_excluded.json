@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1025008,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Deotak Invisible Kadın Roll-On Deodorant 6 x 35 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760983388962,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/20/63/37/15/02/77/19/08/89/38/12925746410193568061.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670372979,
+      "__unknown_productSubTitle": "Deotak Invisible Kadın Roll-On Deodorant 6 x 35 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7820335,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/20/63/37/15/02/77/19/08/89/38/12925746410193568061.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/20/63/37/15/02/77/19/08/89/38/12925746410193568061.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/20/63/37/15/02/77/19/08/89/38/12925746410193568061.png"
+    }
+  },
+  {
+    "gid_ref": 1025009,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Deotak Invisible Kadın Roll-On Deodorant 6 x 35 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757794750083,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670372979,
+      "__unknown_productSubTitle": "Deotak Invisible Kadın Roll-On Deodorant 6 x 35 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1025010,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Deotak Invisible Kadın Roll-On Deodorant 6 x 35 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753600572091,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670372979,
+      "__unknown_productSubTitle": "Deotak Invisible Kadın Roll-On Deodorant 6 x 35 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "gid_ref": 894751,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "GP Kompozit Universal Büyük Boy Motosiklet Brandası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766822988425,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/27/75/31/57/70/10/55/27/62/11/93867595365817495972.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665813829,
+      "__unknown_productSubTitle": "GP Kompozit Universal Büyük Boy Motosiklet Brandası Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8174391,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/27/75/31/57/70/10/55/27/62/11/93867595365817495972.jpg"
+        },
+        {
+          "id": 8174392,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/27/72/12/14/06/61/11/74/69/99/22166479507643874839.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/27/75/31/57/70/10/55/27/62/11/93867595365817495972.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/27/75/31/57/70/10/55/27/62/11/93867595365817495972.jpg"
+    }
+  },
+  {
+    "gid_ref": 894752,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "GP Kompozit Universal Büyük Boy Motosiklet Brandası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766792837610,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665813829,
+      "__unknown_productSubTitle": "GP Kompozit Universal Büyük Boy Motosiklet Brandası Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 894753,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "GP Kompozit Universal Büyük Boy Motosiklet Brandası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766301019957,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1766301644132,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665813829,
+      "__unknown_productSubTitle": "GP Kompozit Universal Büyük Boy Motosiklet Brandası Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 894754,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "GP Kompozit Universal Büyük Boy Motosiklet Brandası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762377759997,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665813829,
+      "__unknown_productSubTitle": "GP Kompozit Universal Büyük Boy Motosiklet Brandası Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

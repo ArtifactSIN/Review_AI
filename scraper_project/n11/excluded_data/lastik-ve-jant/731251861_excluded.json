@@ -1,0 +1,85 @@
+[
+  {
+    "gid_ref": 834375,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Starmaxx 205/55r16 Tl 91h Naturen St562 Yaz Lastiği 2026",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775863084388,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775863084388,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 731251861,
+      "__unknown_productSubTitle": "Starmaxx 205/55r16 Tl 91h Naturen St562 Yaz Lastiği 2026",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 834376,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Starmaxx 205/55r16 Tl 91h Naturen St562 Yaz Lastiği 2026",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773144667894,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/10/90/82/94/32/27/38/85/27/19/38431798548509537811.jpg",
+      "__unknown_lastModifiedDate": 1773144667894,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732525053,
+      "__unknown_productSubTitle": "Starmaxx 205/55r16 Tl 91h Naturen St562 Yaz Lastiği 2026",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8450407,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/10/90/82/94/32/27/38/85/27/19/38431798548509537811.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/10/90/82/94/32/27/38/85/27/19/38431798548509537811.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/10/90/82/94/32/27/38/85/27/19/38431798548509537811.jpg"
+    }
+  },
+  {
+    "gid_ref": 834377,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Starmaxx 205/55r16 Tl 91h Naturen St562 Yaz Lastiği 2026",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771597095144,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/20/86/94/80/62/61/89/26/72/83/01265474191487381642.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732525053,
+      "__unknown_productSubTitle": "Starmaxx 205/55r16 Tl 91h Naturen St562 Yaz Lastiği 2026",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8396511,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/20/86/94/80/62/61/89/26/72/83/01265474191487381642.png"
+        },
+        {
+          "id": 8396512,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/20/61/90/40/02/25/04/57/14/49/95031836666040266902.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/20/86/94/80/62/61/89/26/72/83/01265474191487381642.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/20/86/94/80/62/61/89/26/72/83/01265474191487381642.png"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 815298,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tyt Matematik 12'li Deneme Sınavı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775115441809,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/02/47/18/87/21/69/12/42/44/04/93720768976997928101.png",
+      "__unknown_lastModifiedDate": 1775115441809,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659684175,
+      "__unknown_productSubTitle": "Tyt Matematik 12'li Deneme Sınavı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8560376,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/47/18/87/21/69/12/42/44/04/93720768976997928101.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/02/47/18/87/21/69/12/42/44/04/93720768976997928101.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/02/47/18/87/21/69/12/42/44/04/93720768976997928101.png"
+    }
+  },
+  {
+    "gid_ref": 815299,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tyt Matematik 12'li Deneme Sınavı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774760344269,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774760344269,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659684175,
+      "__unknown_productSubTitle": "Tyt Matematik 12'li Deneme Sınavı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

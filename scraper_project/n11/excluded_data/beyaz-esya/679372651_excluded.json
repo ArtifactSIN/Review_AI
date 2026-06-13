@@ -1,0 +1,82 @@
+[
+  {
+    "gid_ref": 300957,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips CX-2550/00 Ayaklı Vantilatör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1753784633614,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661395332,
+      "__unknown_productSubTitle": "Philips Cx-2550/00 Ayaklı Vantilatör Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 300958,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips CX-2550/00 Ayaklı Vantilatör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1753448124859,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661395332,
+      "__unknown_productSubTitle": "Philips Cx-2550/00 Ayaklı Vantilatör Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 300959,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips CX-2550/00 Ayaklı Vantilatör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747206373832,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661395332,
+      "__unknown_productSubTitle": "Philips Cx-2550/00 Ayaklı Vantilatör Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 300960,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips CX-2550/00 Ayaklı Vantilatör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1746745951064,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661395332,
+      "__unknown_productSubTitle": "Philips Cx-2550/00 Ayaklı Vantilatör Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

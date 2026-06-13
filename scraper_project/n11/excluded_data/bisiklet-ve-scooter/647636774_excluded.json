@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 383789,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano PD-EH500  Pedal Siyah Spd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764153668445,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/26/87/60/42/23/67/10/81/51/15/15402919826913184544.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647636774,
+      "__unknown_productSubTitle": "Shimano PD-EH500  Pedal Siyah Spd",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8032205,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/26/87/60/42/23/67/10/81/51/15/15402919826913184544.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/26/87/60/42/23/67/10/81/51/15/15402919826913184544.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/26/87/60/42/23/67/10/81/51/15/15402919826913184544.jpg"
+    }
+  },
+  {
+    "gid_ref": 383790,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano PD-EH500  Pedal Siyah Spd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763811841157,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647636774,
+      "__unknown_productSubTitle": "Shimano PD-EH500  Pedal Siyah Spd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

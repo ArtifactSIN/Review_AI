@@ -1,0 +1,135 @@
+[
+  {
+    "gid_ref": 1251203,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "SNC SANCIOĞLU Römork Çeki  Kaplini",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773048542553,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773048542553,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569852963,
+      "__unknown_productSubTitle": "SNC SANCIOĞLU Römork Çeki  Kaplini",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251204,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "SNC SANCIOĞLU Römork Çeki  Kaplini",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765796229446,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/15/61/53/11/34/15/26/03/63/68/51020208939459657371.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569852963,
+      "__unknown_productSubTitle": "SNC SANCIOĞLU Römork Çeki  Kaplini",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8113298,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/15/61/53/11/34/15/26/03/63/68/51020208939459657371.png"
+        },
+        {
+          "id": 8113299,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/15/66/14/83/68/71/96/12/06/81/18778214304658243733.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/15/61/53/11/34/15/26/03/63/68/51020208939459657371.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/15/61/53/11/34/15/26/03/63/68/51020208939459657371.png"
+    }
+  },
+  {
+    "gid_ref": 1251205,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "SNC SANCIOĞLU Römork Çeki  Kaplini",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745394033057,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569852963,
+      "__unknown_productSubTitle": "SNC SANCIOĞLU Römork Çeki  Kaplini",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251206,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "SNC SANCIOĞLU Römork Çeki  Kaplini",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743758020120,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569852963,
+      "__unknown_productSubTitle": "SNC SANCIOĞLU Römork Çeki  Kaplini",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251207,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "SNC SANCIOĞLU Römork Çeki  Kaplini",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734681877863,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569852963,
+      "__unknown_productSubTitle": "SNC SANCIOĞLU Römork Çeki  Kaplini",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251208,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "SNC SANCIOĞLU Römork Çeki  Kaplini",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717859508147,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569852963,
+      "__unknown_productSubTitle": "SNC SANCIOĞLU Römork Çeki  Kaplini",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

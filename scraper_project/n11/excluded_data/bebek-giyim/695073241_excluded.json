@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 253018,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Defacto Erkek Bebek Bisiklet Yaka Kaplan Baskılı Çizgili Kazak F2582a525auer42 Ekru",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774977998009,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/47/44/18/40/54/63/28/40/35/77118508355591685060.png",
+      "__unknown_lastModifiedDate": 1774977998009,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695073306,
+      "__unknown_productSubTitle": "Defacto Erkek Bebek Bisiklet Yaka Kaplan Baskılı Çizgili Kazak F2582a525auer42 Ekru 4 - 5 Yaş",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8542384,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/47/44/18/40/54/63/28/40/35/77118508355591685060.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/47/44/18/40/54/63/28/40/35/77118508355591685060.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/47/44/18/40/54/63/28/40/35/77118508355591685060.png"
+    }
+  },
+  {
+    "gid_ref": 253019,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Defacto Erkek Bebek Bisiklet Yaka Kaplan Baskılı Çizgili Kazak F2582a525auer42 Ekru",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763826951800,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695073241,
+      "__unknown_productSubTitle": "Defacto Erkek Bebek Bisiklet Yaka Kaplan Baskılı Çizgili Kazak F2582a525auer42 Ekru 18 - 24 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

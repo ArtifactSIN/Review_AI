@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 466123,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Su Arıtma Cihazı B12 Alkali Filtre Ph 8+",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774366846957,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774366846957,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639061392,
+      "__unknown_productSubTitle": "Su Arıtma Cihazı B12 Alkali Filtre Ph 8+ ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 466124,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Su Arıtma Cihazı B12 Alkali Filtre Ph 8+",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732645974732,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639061392,
+      "__unknown_productSubTitle": "Su Arıtma Cihazı B12 Alkali Filtre Ph 8+ ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

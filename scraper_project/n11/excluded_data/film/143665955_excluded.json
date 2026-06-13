@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 734884,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Paketleme daha iyi olabilir ",
+      "productTitle": "Dvd-The Leopard / Burt Lancaster - 2 Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1645350298233,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 143665955,
+      "__unknown_productSubTitle": "Dvd-The Leopard / Burt Lancaster - 2 Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734885,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-The Leopard / Burt Lancaster - 2 Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1634892664415,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 143665955,
+      "__unknown_productSubTitle": "Dvd-The Leopard / Burt Lancaster - 2 Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 263027,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bundera Kids Bebek Uyku Salıncağı Ahşap Hamak Beşik Salıncak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1699273338909,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/11/06/89/00/41/01/49/93/43/40/51/61512467862417130772.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 486204169,
+      "__unknown_productSubTitle": "Bundera Kids Bebek Uyku Salıncağı Ahşap Hamak Beşik Salıncak Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2685709,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/11/06/89/00/41/01/49/93/43/40/51/61512467862417130772.png"
+        },
+        {
+          "id": 2685710,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/11/06/79/21/81/58/45/29/20/53/29/66887333843568801916.png"
+        },
+        {
+          "id": 2685711,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/11/06/70/13/75/36/95/29/72/81/43/44202632585438147679.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/11/06/89/00/41/01/49/93/43/40/51/61512467862417130772.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/11/06/89/00/41/01/49/93/43/40/51/61512467862417130772.png"
+    }
+  },
+  {
+    "gid_ref": 263028,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bundera Kids Bebek Uyku Salıncağı Ahşap Hamak Beşik Salıncak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1686156645395,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 486204169,
+      "__unknown_productSubTitle": "Bundera Kids Bebek Uyku Salıncağı Ahşap Hamak Beşik Salıncak Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 263029,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kaliteli ürün",
+      "productTitle": "Bundera Kids Bebek Uyku Salıncağı Ahşap Hamak Beşik Salıncak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1667457852244,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 486204169,
+      "__unknown_productSubTitle": "Bundera Kids Bebek Uyku Salıncağı Ahşap Hamak Beşik Salıncak Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 946186,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Emel Sayın - Başrolde Plak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763210299580,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/15/48/09/95/60/33/05/91/45/01/3458796951754656144.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690837990,
+      "__unknown_productSubTitle": "Emel Sayın - Başrolde Plak",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7971599,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/15/48/09/95/60/33/05/91/45/01/3458796951754656144.jpg"
+        },
+        {
+          "id": 7978400,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/15/49/41/11/52/38/79/43/01/00/81906368073757471235.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/15/48/09/95/60/33/05/91/45/01/3458796951754656144.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/15/48/09/95/60/33/05/91/45/01/3458796951754656144.jpg"
+    }
+  },
+  {
+    "gid_ref": 946187,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Emel Sayın - Başrolde Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1710363099108,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 518707896,
+      "__unknown_productSubTitle": "Emel Sayın - Başrolde Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946188,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Emel Sayın - Başrolde Plak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1707576755754,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588362066,
+      "__unknown_productSubTitle": "Emel Sayın - Başrolde Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

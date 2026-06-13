@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 135710,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gezer Erkek Kışlık Pu Rahat Taban Ev Bahçe Gondol Terlik Kahve",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766660353781,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/25/68/83/25/99/13/19/41/86/67/54538979269774036523.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700761766,
+      "__unknown_productSubTitle": "Gezer Erkek Kışlık Pu Rahat Taban Ev Bahçe Gondol Terlik Kahve 45",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8175407,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/25/68/83/25/99/13/19/41/86/67/54538979269774036523.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/25/68/83/25/99/13/19/41/86/67/54538979269774036523.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/25/68/83/25/99/13/19/41/86/67/54538979269774036523.png"
+    }
+  },
+  {
+    "gid_ref": 135711,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gezer Erkek Kışlık Pu Rahat Taban Ev Bahçe Gondol Terlik Kahve",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765465379845,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700761758,
+      "__unknown_productSubTitle": "Gezer Erkek Kışlık Pu Rahat Taban Ev Bahçe Gondol Terlik Kahve 44",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 135712,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gezer Erkek Kışlık Pu Rahat Taban Ev Bahçe Gondol Terlik Kahve",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765465364649,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700761766,
+      "__unknown_productSubTitle": "Gezer Erkek Kışlık Pu Rahat Taban Ev Bahçe Gondol Terlik Kahve 45",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

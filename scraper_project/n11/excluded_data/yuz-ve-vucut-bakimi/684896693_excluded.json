@@ -1,0 +1,131 @@
+[
+  {
+    "gid_ref": 1516636,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Svr C Ampoule Ox Aydınlatıcı Serum 30 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771444054703,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684896693,
+      "__unknown_productSubTitle": "Svr C Ampoule Ox Aydınlatıcı Serum 30 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1516637,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Svr C Ampoule Ox Aydınlatıcı Serum 30 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766258788604,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598651823,
+      "__unknown_productSubTitle": "Svr C Ampoule Ox Aydınlatıcı Serum 30 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1516638,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Svr C Ampoule Ox Aydınlatıcı Serum 30 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719414167294,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/26/86/62/50/65/78/11/53/92/70/47418252108988891548.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603014192,
+      "__unknown_productSubTitle": "Svr C Ampoule Ox Aydınlatıcı Serum 30 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5058181,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/26/86/62/50/65/78/11/53/92/70/47418252108988891548.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/26/86/62/50/65/78/11/53/92/70/47418252108988891548.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/26/86/62/50/65/78/11/53/92/70/47418252108988891548.png"
+    }
+  },
+  {
+    "gid_ref": 1516639,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Svr C Ampoule Anti-Ox Aydınlatıcı Serum 30 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1714422489938,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 535262460,
+      "__unknown_productSubTitle": "Svr C Ampoule Anti-Ox Aydınlatıcı Serum 30 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1516640,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Svr C Ampoule Ox Aydınlatıcı Serum 30 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1688659914412,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 436308826,
+      "__unknown_productSubTitle": "Svr C Ampoule Ox Aydınlatıcı Serum 30 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1516641,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Svr C Ampoule Ox Aydınlatıcı Serum 30 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1594908839412,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 436308826,
+      "__unknown_productSubTitle": "Svr C Ampoule Ox Aydınlatıcı Serum 30 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "gid_ref": 755255,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Parlingerie Hamile Lohusa Gecelik Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1749727531624,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/12/69/22/44/26/10/33/62/85/96/04846707521219019495.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611824030,
+      "__unknown_productSubTitle": "Parlingerie Hamile Lohusa Gecelik Mavi 2XL",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7326051,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/12/69/22/44/26/10/33/62/85/96/04846707521219019495.png"
+        },
+        {
+          "id": 7326052,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/12/79/40/96/94/76/52/34/36/30/03939081089581367006.png"
+        },
+        {
+          "id": 7326053,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/12/59/91/93/66/23/77/46/98/34/53484372240823176157.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/12/69/22/44/26/10/33/62/85/96/04846707521219019495.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/12/69/22/44/26/10/33/62/85/96/04846707521219019495.png"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 735330,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-Lego Ninjango Filmi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733416448930,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/05/85/09/52/00/40/47/92/58/89/2571465190983580416.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 253736750,
+      "__unknown_productSubTitle": "Dvd-Lego Ninjango Filmi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6424190,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/05/85/09/52/00/40/47/92/58/89/2571465190983580416.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/05/85/09/52/00/40/47/92/58/89/2571465190983580416.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/05/85/09/52/00/40/47/92/58/89/2571465190983580416.png"
+    }
+  }
+]

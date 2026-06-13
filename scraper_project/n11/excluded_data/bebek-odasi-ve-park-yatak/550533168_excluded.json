@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 261667,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Özdilek Ranforce Bebek Yorganı Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697195747972,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/10/13/78/74/78/60/01/90/16/53/62/94546000301744212259.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 550533168,
+      "__unknown_productSubTitle": "Özdilek Ranforce Bebek Yorganı Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2539664,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/13/78/74/78/60/01/90/16/53/62/94546000301744212259.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/10/13/78/74/78/60/01/90/16/53/62/94546000301744212259.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/10/13/78/74/78/60/01/90/16/53/62/94546000301744212259.jpg"
+    }
+  },
+  {
+    "gid_ref": 261668,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Özdilek Ranforce Bebek Yorganı Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1622286613572,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 314215198,
+      "__unknown_productSubTitle": "Özdilek Ranforce Bebek Yorganı Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 261669,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Sahanee",
+      "productTitle": "Özdilek Ranforce Bebek Yorganı Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1551859396702,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 314215198,
+      "__unknown_productSubTitle": "Özdilek Ranforce Bebek Yorganı Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

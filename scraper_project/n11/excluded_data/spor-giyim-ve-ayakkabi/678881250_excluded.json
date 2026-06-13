@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 1160978,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Rapidmove 2 Erkek Siyah Antrenman Ayakkabısı Ih5255 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768816734948,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/19/83/65/32/98/80/50/72/65/55/04430952515829545223.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 678881247,
+      "__unknown_productSubTitle": "Adidas Rapidmove 2 Erkek Siyah Antrenman Ayakkabısı Ih5255 Siyah 42",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8259739,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/19/83/65/32/98/80/50/72/65/55/04430952515829545223.png"
+        },
+        {
+          "id": 8259740,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/19/92/09/25/60/32/28/66/89/82/92675632592262546134.png"
+        },
+        {
+          "id": 8259741,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/19/73/45/07/92/70/34/61/26/28/13037708915410617880.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/19/83/65/32/98/80/50/72/65/55/04430952515829545223.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/19/83/65/32/98/80/50/72/65/55/04430952515829545223.png"
+    }
+  },
+  {
+    "gid_ref": 1160979,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Rapidmove 2 Erkek Siyah Antrenman Ayakkabısı Ih5255 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767717210020,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 678881247,
+      "__unknown_productSubTitle": "Adidas Rapidmove 2 Erkek Siyah Antrenman Ayakkabısı Ih5255 Siyah 42",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

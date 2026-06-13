@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 400297,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® City Hurdalık ve Arabalar 60472 - 7 Yaş ve Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (871 Parça)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774793311822,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774793311822,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 693398720,
+      "__unknown_productSubTitle": "LEGO® City Hurdalık ve Arabalar 60472 - 7 Yaş ve Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (871 Parça)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 400298,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® City Hurdalık ve Arabalar 60472 - 7 Yaş ve Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (871 Parça)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1750664563981,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648534189,
+      "__unknown_productSubTitle": "LEGO® City Hurdalık ve Arabalar 60472 - 7 Yaş ve Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (871 Parça)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 400299,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® City Hurdalık ve Arabalar 60472",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747320087826,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/15/62/63/06/27/57/33/20/51/22/67289708141490584197.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 672623789,
+      "__unknown_productSubTitle": "LEGO® City Hurdalık ve Arabalar 60472",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7227757,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/15/62/63/06/27/57/33/20/51/22/67289708141490584197.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/15/62/63/06/27/57/33/20/51/22/67289708141490584197.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/15/62/63/06/27/57/33/20/51/22/67289708141490584197.png"
+    }
+  },
+  {
+    "gid_ref": 400300,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® City Hurdalık ve Arabalar 60472 - 7 Yaş ve Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (871 Parça)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739870165474,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648534189,
+      "__unknown_productSubTitle": "LEGO® City Hurdalık ve Arabalar 60472 - 7 Yaş ve Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (871 Parça)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

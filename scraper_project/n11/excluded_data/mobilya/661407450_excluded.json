@@ -1,0 +1,150 @@
+[
+  {
+    "gid_ref": 870294,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Metal Kitaplık 5 Raf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762177880590,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661407450,
+      "__unknown_productSubTitle": "Metal Kitaplık 5 Raf",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 870295,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Metal Kitaplık 5 Raf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757927649953,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661407450,
+      "__unknown_productSubTitle": "Metal Kitaplık 5 Raf",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 870296,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Metal Kitaplık 5 Raf",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1750231275456,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/18/88/83/19/69/90/27/71/75/31/97169001147041530563.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591015754,
+      "__unknown_productSubTitle": "Metal Kitaplık 5 Raf",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7349625,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/18/88/83/19/69/90/27/71/75/31/97169001147041530563.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/18/88/83/19/69/90/27/71/75/31/97169001147041530563.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/18/88/83/19/69/90/27/71/75/31/97169001147041530563.png"
+    }
+  },
+  {
+    "gid_ref": 870297,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Metal Kitaplık 5 Raf",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1709067684710,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591015754,
+      "__unknown_productSubTitle": "Metal Kitaplık 5 Raf",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 870298,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Metal Kitaplık 5 Raf",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1704618541475,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591015754,
+      "__unknown_productSubTitle": "Metal Kitaplık 5 Raf",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 870299,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Metal Kitaplık 5 Raf",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1704579544021,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591015754,
+      "__unknown_productSubTitle": "Metal Kitaplık 5 Raf",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 870300,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Metal Kitaplık 5 Raf",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1701177810984,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591015754,
+      "__unknown_productSubTitle": "Metal Kitaplık 5 Raf",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

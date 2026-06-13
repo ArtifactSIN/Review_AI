@@ -1,0 +1,89 @@
+[
+  {
+    "gid_ref": 733719,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pet's Clean Tüy Toplayıcı Yedek 12li+aparat 1 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775666030074,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/08/73/10/66/31/78/77/72/75/90/31472304555928866291.jpg",
+      "__unknown_lastModifiedDate": 1775666030074,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 736525064,
+      "__unknown_productSubTitle": "Pet's Clean Tüy Toplayıcı Yedek 12li+aparat 1 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8588264,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/08/73/10/66/31/78/77/72/75/90/31472304555928866291.jpg"
+        },
+        {
+          "id": 8588265,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/08/47/73/46/16/75/06/68/20/01/55623812737137291851.jpg"
+        },
+        {
+          "id": 8588266,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/08/81/03/43/36/38/07/98/08/47/32047969466055504807.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/08/73/10/66/31/78/77/72/75/90/31472304555928866291.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/08/73/10/66/31/78/77/72/75/90/31472304555928866291.jpg"
+    }
+  },
+  {
+    "gid_ref": 733720,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pet's Clean Tüy Toplayıcı Yedek 12li+aparat 1 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775565584891,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775565584891,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 736525064,
+      "__unknown_productSubTitle": "Pet's Clean Tüy Toplayıcı Yedek 12li+aparat 1 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 733721,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pet's Clean Tüy Toplayıcı Yedek 12li+aparat 1 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774470379174,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/55/26/98/13/05/78/59/82/36/64213736785360211319.png",
+      "__unknown_lastModifiedDate": 1774470379174,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 736525064,
+      "__unknown_productSubTitle": "Pet's Clean Tüy Toplayıcı Yedek 12li+aparat 1 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8506714,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/55/26/98/13/05/78/59/82/36/64213736785360211319.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/55/26/98/13/05/78/59/82/36/64213736785360211319.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/55/26/98/13/05/78/59/82/36/64213736785360211319.png"
+    }
+  }
+]

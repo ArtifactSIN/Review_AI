@@ -1,0 +1,112 @@
+[
+  {
+    "gid_ref": 47121,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farecla G3 Sıvı Pasta 1lt",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774983451211,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/67/47/44/55/21/29/86/56/89/36355842013391859832.jpg",
+      "__unknown_lastModifiedDate": 1774983451211,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 426780058,
+      "__unknown_productSubTitle": "Farecla G3 Sıvı Pasta 1lt",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8542391,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/67/47/44/55/21/29/86/56/89/36355842013391859832.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/67/47/44/55/21/29/86/56/89/36355842013391859832.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/67/47/44/55/21/29/86/56/89/36355842013391859832.jpg"
+    }
+  },
+  {
+    "gid_ref": 47122,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farecla G3 Sıvı Pasta 1lt",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773767106202,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773767106202,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 426780058,
+      "__unknown_productSubTitle": "Farecla G3 Sıvı Pasta 1lt",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 47123,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farecla G3 Sıvı Pasta 1lt",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759232735762,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 426780058,
+      "__unknown_productSubTitle": "Farecla G3 Sıvı Pasta 1lt",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 47124,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farecla G3 Sıvı Pasta 1lt",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753770032543,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 672191244,
+      "__unknown_productSubTitle": "Farecla G3 Sıvı Pasta 1lt",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 47125,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farecla G3 Sıvı Pasta 1lt",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750778464612,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 672191244,
+      "__unknown_productSubTitle": "Farecla G3 Sıvı Pasta 1lt",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

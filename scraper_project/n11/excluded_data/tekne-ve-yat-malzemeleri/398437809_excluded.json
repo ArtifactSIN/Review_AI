@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1250119,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sealux Ayaklı Büyük Pusula Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1607026289537,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 398437809,
+      "__unknown_productSubTitle": "Sealux Ayaklı Büyük Pusula Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1250120,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sealux Ayaklı Büyük Pusula Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1591355758480,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 398437809,
+      "__unknown_productSubTitle": "Sealux Ayaklı Büyük Pusula Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

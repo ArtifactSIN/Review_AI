@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1512182,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Neutrogena Hydro Boost Makyaj Temizleme Mendili 25'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763909318391,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645390722,
+      "__unknown_productSubTitle": "Neutrogena Hydro Boost Makyaj Temizleme Mendili 25'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1512183,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Neutrogena Hydro Boost Makyaj Temizleme Mendili 25'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697322246326,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 462062986,
+      "__unknown_productSubTitle": "Neutrogena Hydro Boost Makyaj Temizleme Mendili 25'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

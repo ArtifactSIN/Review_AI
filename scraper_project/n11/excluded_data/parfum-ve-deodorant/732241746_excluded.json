@@ -1,0 +1,92 @@
+[
+  {
+    "gid_ref": 1031350,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Defacto Mexico Erkek Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775061651481,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775061651481,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732241746,
+      "__unknown_productSubTitle": "Defacto Mexico Erkek Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1031351,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Defacto Mexico Erkek Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1718395607079,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597296698,
+      "__unknown_productSubTitle": "Defacto Mexico Erkek Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1031352,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Defacto Mexico Erkek Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1711288400706,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597296698,
+      "__unknown_productSubTitle": "Defacto Mexico Erkek Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1031353,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Defacto Mexico Erkek Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1710340510538,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/13/89/26/11/68/05/63/22/91/70/63593039460786061609.png",
+      "__unknown_lastModifiedDate": 1710349990548,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597296698,
+      "__unknown_productSubTitle": "Defacto Mexico Erkek Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4119384,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/13/89/26/11/68/05/63/22/91/70/63593039460786061609.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/13/89/26/11/68/05/63/22/91/70/63593039460786061609.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/13/89/26/11/68/05/63/22/91/70/63593039460786061609.png"
+    }
+  }
+]

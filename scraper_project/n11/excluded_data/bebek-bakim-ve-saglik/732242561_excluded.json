@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 209935,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Stelatopia Huile Lavante Cleansing Oil 500 Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772486057062,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 526957942,
+      "__unknown_productSubTitle": "Mustela Stelatopia Huile Lavante Cleansing Oil 500 Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 209936,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Stelatopia Huile Lavante Cleansing Oil 500 Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1720363816976,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590112332,
+      "__unknown_productSubTitle": "Mustela Stelatopia Huile Lavante Cleansing Oil 500 Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 957842,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lafuma Access Clım Erkek Ayakkabı Lfg2278 6099 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761939788632,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 623717168,
+      "__unknown_productSubTitle": "Lafuma Access Clım Erkek Ayakkabı Lfg2278 6099 001 Gri 45 1/3",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 957843,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lafuma Access Clım Erkek Ayakkabı Lfg2278 6099 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739043704047,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 623717162,
+      "__unknown_productSubTitle": "Lafuma Access Clım Erkek Ayakkabı Lfg2278 6099 001 Gri 46 2/3",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

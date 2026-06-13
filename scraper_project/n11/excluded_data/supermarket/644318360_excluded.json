@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1225497,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kahve Dünyası Teneke Sıcak Çikolata 2 x 1 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771704699160,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 644318360,
+      "__unknown_productSubTitle": "Kahve Dünyası Teneke Sıcak Çikolata 2 x 1 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1225498,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kahve Dünyası Teneke Sıcak Çikolata 2 x 1 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752959991727,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 644318360,
+      "__unknown_productSubTitle": "Kahve Dünyası Teneke Sıcak Çikolata 2 x 1 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1225499,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kahve Dünyası Teneke Sıcak Çikolata 2 x 1 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732908922995,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 644318360,
+      "__unknown_productSubTitle": "Kahve Dünyası Teneke Sıcak Çikolata 2 x 1 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

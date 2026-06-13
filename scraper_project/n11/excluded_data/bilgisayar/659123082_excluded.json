@@ -1,0 +1,131 @@
+[
+  {
+    "gid_ref": 347307,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kobo Clara Colour 6\" 16 GB E Kitap Okuyucu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769338823023,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659123082,
+      "__unknown_productSubTitle": "Kobo Clara Colour 6\" 16 GB E Kitap Okuyucu Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347308,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kobo Clara Colour 6\" 16 GB E Kitap Okuyucu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766402169780,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628909546,
+      "__unknown_productSubTitle": "Kobo Clara Colour 6\" 16 GB E Kitap Okuyucu Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347309,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kobo Clara Colour 6\" 16 GB E Kitap Okuyucu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746452019109,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628909546,
+      "__unknown_productSubTitle": "Kobo Clara Colour 6\" 16 GB E Kitap Okuyucu Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347310,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kobo Clara Colour 6\" 16 GB E Kitap Okuyucu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745575887899,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/25/57/84/72/33/54/05/77/84/04/47128996346227019586.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628909546,
+      "__unknown_productSubTitle": "Kobo Clara Colour 6\" 16 GB E Kitap Okuyucu Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7131234,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/25/57/84/72/33/54/05/77/84/04/47128996346227019586.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/25/57/84/72/33/54/05/77/84/04/47128996346227019586.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/25/57/84/72/33/54/05/77/84/04/47128996346227019586.png"
+    }
+  },
+  {
+    "gid_ref": 347311,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kobo Clara Colour 6\" 16 GB E Kitap Okuyucu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745400678131,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628909546,
+      "__unknown_productSubTitle": "Kobo Clara Colour 6\" 16 GB E Kitap Okuyucu Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347312,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kobo Clara Colour 6\" 16 GB E Kitap Okuyucu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744467043096,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628909546,
+      "__unknown_productSubTitle": "Kobo Clara Colour 6\" 16 GB E Kitap Okuyucu Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

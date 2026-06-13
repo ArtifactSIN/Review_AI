@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 630855,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Medus Çift Kişilik Yatak Örtüsü - Beyaz Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775808485279,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775808485279,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653111949,
+      "__unknown_productSubTitle": "Madame Coco Medus Çift Kişilik Yatak Örtüsü - Beyaz Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 630856,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Medus Çift Kişilik Yatak Örtüsü - Beyaz Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756413281511,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/28/82/40/99/39/83/85/82/57/05/32728977541698795355.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653111949,
+      "__unknown_productSubTitle": "Madame Coco Medus Çift Kişilik Yatak Örtüsü - Beyaz Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7608391,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/28/82/40/99/39/83/85/82/57/05/32728977541698795355.jpg"
+        },
+        {
+          "id": 7608392,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/28/54/61/46/27/02/02/08/67/95/14929193143564584064.jpg"
+        },
+        {
+          "id": 7608393,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/28/57/02/09/11/77/69/48/18/70/62961598832900158500.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/28/82/40/99/39/83/85/82/57/05/32728977541698795355.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/28/82/40/99/39/83/85/82/57/05/32728977541698795355.jpg"
+    }
+  },
+  {
+    "gid_ref": 630857,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Medus Çift Kişilik Yatak Örtüsü - Beyaz Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744061840208,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653111949,
+      "__unknown_productSubTitle": "Madame Coco Medus Çift Kişilik Yatak Örtüsü - Beyaz Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

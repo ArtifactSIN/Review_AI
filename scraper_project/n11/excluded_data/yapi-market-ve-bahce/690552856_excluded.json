@@ -1,0 +1,86 @@
+[
+  {
+    "gid_ref": 1403764,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tek Yönlü Çapa Makinası Pulluğu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774888150713,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774888150713,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690552856,
+      "__unknown_productSubTitle": "Tek Yönlü Çapa Makinası Pulluğu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1403765,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tek Yönlü Çapa Makinası Pulluğu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774136619132,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774136619132,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690552856,
+      "__unknown_productSubTitle": "Tek Yönlü Çapa Makinası Pulluğu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1403766,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "hiç bir işe yaramaz sakın almayın oyuncak",
+      "productTitle": "Tek Yönlü Çapa Makinası Pulluğu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1647447530267,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 509570025,
+      "__unknown_productSubTitle": "Tek Yönlü Çapa Makinası Pulluğu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1403767,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "NEDEN PULLUK BAĞLANTI DEMİRİ YOK RESİMDE VAR LÜTFEN GÖNDERİN",
+      "productTitle": "Tek Yönlü Çapa Makinası Pulluğu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1643385327889,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 509570025,
+      "__unknown_productSubTitle": "Tek Yönlü Çapa Makinası Pulluğu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

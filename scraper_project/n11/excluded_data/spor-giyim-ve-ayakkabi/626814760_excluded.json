@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 1159832,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Puma Marathon Yüksek Bel Tam Boy Kadın Koşu Tayt",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768721949265,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 626814763,
+      "__unknown_productSubTitle": "Puma Marathon Yüksek Bel Tam Boy Kadın Koşu Tayt S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1159833,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Puma Marathon Yüksek Bel Tam Boy Kadın Koşu Tayt",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1738316686914,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/31/87/91/56/20/63/69/82/18/02/54341481742381137241.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 626814757,
+      "__unknown_productSubTitle": "Puma Marathon Yüksek Bel Tam Boy Kadın Koşu Tayt L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6780418,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/31/87/91/56/20/63/69/82/18/02/54341481742381137241.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/31/87/91/56/20/63/69/82/18/02/54341481742381137241.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/31/87/91/56/20/63/69/82/18/02/54341481742381137241.png"
+    }
+  }
+]

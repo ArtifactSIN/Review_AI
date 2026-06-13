@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 574657,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lufian Erkek Laon Smart Polo T-shirt 111040206 Haki Haki",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747988632259,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667494201,
+      "__unknown_productSubTitle": "Lufian Erkek Laon Smart Polo T-shirt 111040206 Haki Haki XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 574658,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lufian Erkek Laon Smart Polo T-shirt 111040206 Haki Haki",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746127544201,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667494199,
+      "__unknown_productSubTitle": "Lufian Erkek Laon Smart Polo T-shirt 111040206 Haki Haki M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

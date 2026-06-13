@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1225495,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tchibo Barista Çekirdek Kahve Tanışma Seti Çekirdek 2 x 500 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746462309244,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643701526,
+      "__unknown_productSubTitle": "Tchibo Barista Çekirdek Kahve Tanışma Seti Çekirdek 2 x 500 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1225496,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tchibo Barista Çekirdek Kahve Tanışma Seti Çekirdek 2 x 500 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739902923047,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/18/75/02/39/30/05/79/93/77/32/69160605066329700151.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643701526,
+      "__unknown_productSubTitle": "Tchibo Barista Çekirdek Kahve Tanışma Seti Çekirdek 2 x 500 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6857791,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/18/75/02/39/30/05/79/93/77/32/69160605066329700151.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/18/75/02/39/30/05/79/93/77/32/69160605066329700151.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/18/75/02/39/30/05/79/93/77/32/69160605066329700151.png"
+    }
+  }
+]

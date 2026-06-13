@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 790108,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Noki Telli Dosya Eco 4828 Kırmızı 50'li Paket",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759743534694,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/06/54/82/07/14/15/29/89/13/80/95171073558816273368.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578077283,
+      "__unknown_productSubTitle": "Noki Telli Dosya Eco 4828 Kırmızı 50'li Paket",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7774501,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/06/54/82/07/14/15/29/89/13/80/95171073558816273368.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/06/54/82/07/14/15/29/89/13/80/95171073558816273368.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/06/54/82/07/14/15/29/89/13/80/95171073558816273368.jpg"
+    }
+  },
+  {
+    "gid_ref": 790109,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Noki Telli Dosya Eco 4828 Kırmızı 50'li Paket",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758357478488,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578077283,
+      "__unknown_productSubTitle": "Noki Telli Dosya Eco 4828 Kırmızı 50'li Paket",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 790110,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Noki Telli Dosya Eco 4828 Kırmızı 50'li Paket",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724324757993,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578077283,
+      "__unknown_productSubTitle": "Noki Telli Dosya Eco 4828 Kırmızı 50'li Paket",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

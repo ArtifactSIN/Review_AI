@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 881542,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lifan Discovery 150 Km Saat Kilometre Saati Or.",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773589625908,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/15/60/83/79/10/03/54/42/13/52/93056944933049053766.png",
+      "__unknown_lastModifiedDate": 1773589625908,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524626504,
+      "__unknown_productSubTitle": "Lifan Discovery 150 Km Saat Kilometre Saati Or.",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8471364,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/15/60/83/79/10/03/54/42/13/52/93056944933049053766.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/15/60/83/79/10/03/54/42/13/52/93056944933049053766.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/15/60/83/79/10/03/54/42/13/52/93056944933049053766.png"
+    }
+  },
+  {
+    "gid_ref": 881543,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lifan Discovery 150 Km Saat Kilometre Saati Or.",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724856678969,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524626504,
+      "__unknown_productSubTitle": "Lifan Discovery 150 Km Saat Kilometre Saati Or.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

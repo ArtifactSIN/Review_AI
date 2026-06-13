@@ -1,0 +1,55 @@
+[
+  {
+    "gid_ref": 181160,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jusso Voyage Pro Max Travel Sistem Bebek Arabası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771605428333,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/20/47/28/60/11/66/83/05/62/10/13856207515611646058.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605761975,
+      "__unknown_productSubTitle": "Jusso Voyage Pro Max Travel Sistem Bebek Arabası Gold-kahve",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8394708,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/20/47/28/60/11/66/83/05/62/10/13856207515611646058.jpg"
+        },
+        {
+          "id": 8394709,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/20/80/72/82/00/88/31/34/34/01/68161442881314111513.jpg"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/20/47/28/60/11/66/83/05/62/10/13856207515611646058.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/20/47/28/60/11/66/83/05/62/10/13856207515611646058.jpg"
+    }
+  },
+  {
+    "gid_ref": 181161,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jusso Voyage Pro Max Travel Sistem Bebek Arabası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763141388036,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611751302,
+      "__unknown_productSubTitle": "Jusso Voyage Pro Max Travel Sistem Bebek Arabası Gold-siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

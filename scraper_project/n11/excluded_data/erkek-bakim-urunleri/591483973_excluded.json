@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 519972,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Valkrone Philips SH71/50-S5538-S5585-S5587 Modellerine Uyumlu Tıraş Bıçak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754466565864,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591483973,
+      "__unknown_productSubTitle": "Valkrone Philips SH71/50-S5538-S5585-S5587 Modellerine Uyumlu Tıraş Bıçak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 519973,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Valkrone Philips SH71/50-S5538-S5585-S5587 Modellerine Uyumlu Tıraş Bıçak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734118902733,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/13/85/07/20/94/08/26/51/48/40/33534376957186428467.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591483973,
+      "__unknown_productSubTitle": "Valkrone Philips SH71/50-S5538-S5585-S5587 Modellerine Uyumlu Tıraş Bıçak",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6494400,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/13/85/07/20/94/08/26/51/48/40/33534376957186428467.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/13/85/07/20/94/08/26/51/48/40/33534376957186428467.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/13/85/07/20/94/08/26/51/48/40/33534376957186428467.png"
+    }
+  },
+  {
+    "gid_ref": 519974,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Valkrone Philips SH71/50-S5538-S5585-S5587 Modellerine Uyumlu Tıraş Bıçak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1723828717178,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591483973,
+      "__unknown_productSubTitle": "Valkrone Philips SH71/50-S5538-S5585-S5587 Modellerine Uyumlu Tıraş Bıçak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

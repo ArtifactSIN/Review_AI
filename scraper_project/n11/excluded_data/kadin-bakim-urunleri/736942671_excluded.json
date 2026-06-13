@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 765641,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun Silk-épil 1 1-010 Epilatör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766486138085,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634882710,
+      "__unknown_productSubTitle": "Braun Silk-épil 1 1-010 Epilatör Beyaz - Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 765642,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun Silk-épil 1 1-010 Epilatör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763647840007,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652513636,
+      "__unknown_productSubTitle": "Braun Silk-épil 1 1-010 Epilatör Beyaz - Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 765643,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun Silk-épil 1 1-010 Epilatör",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762410514189,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603164892,
+      "__unknown_productSubTitle": "Braun Silk-épil 1 1-010 Epilatör Beyaz - Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 765644,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun Silk-épil 1 1-010 Epilatör",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762368225133,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/05/75/43/50/35/72/96/80/10/75/64178123046166088601.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603164892,
+      "__unknown_productSubTitle": "Braun Silk-épil 1 1-010 Epilatör Beyaz - Pembe",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7927805,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/05/75/43/50/35/72/96/80/10/75/64178123046166088601.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/05/75/43/50/35/72/96/80/10/75/64178123046166088601.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/05/75/43/50/35/72/96/80/10/75/64178123046166088601.png"
+    }
+  }
+]

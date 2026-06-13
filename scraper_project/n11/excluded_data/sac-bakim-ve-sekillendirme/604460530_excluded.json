@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1052744,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hacı Şakir Zeytinyağlı Şampuan 12 x 500 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1757088681005,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604460530,
+      "__unknown_productSubTitle": "Hacı Şakir Zeytinyağlı Şampuan 12 x 500 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1052745,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hacı Şakir Zeytinyağlı Şampuan 12 x 500 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739990146077,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/19/63/37/52/64/07/20/28/73/43/66359278788291479580.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604460530,
+      "__unknown_productSubTitle": "Hacı Şakir Zeytinyağlı Şampuan 12 x 500 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6869802,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/19/63/37/52/64/07/20/28/73/43/66359278788291479580.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/19/63/37/52/64/07/20/28/73/43/66359278788291479580.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/19/63/37/52/64/07/20/28/73/43/66359278788291479580.jpg"
+    }
+  },
+  {
+    "gid_ref": 1052746,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hacı Şakir Zeytinyağlı Şampuan 12 x 500 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722094373550,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604460530,
+      "__unknown_productSubTitle": "Hacı Şakir Zeytinyağlı Şampuan 12 x 500 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

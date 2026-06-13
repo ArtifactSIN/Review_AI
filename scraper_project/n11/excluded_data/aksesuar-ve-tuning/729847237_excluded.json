@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 109662,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yüksek Basınçlı Araç Yıkama Köpük Makinası Oto Yıkama Pompası Basınçlı Köpük Pompası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773314270102,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773314270102,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667315758,
+      "__unknown_productSubTitle": "Yüksek Basınçlı Araç Yıkama Köpük Makinası Oto Yıkama Pompası Basınçlı Köpük Pompası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 109663,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yüksek Basınçlı Araç Yıkama Köpük Makinası Oto Yıkama Pompası Basınçlı Köpük Pompası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1751726965797,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/05/65/12/77/23/87/38/09/23/31/11930745856920799271.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667315758,
+      "__unknown_productSubTitle": "Yüksek Basınçlı Araç Yıkama Köpük Makinası Oto Yıkama Pompası Basınçlı Köpük Pompası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7411518,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/05/65/12/77/23/87/38/09/23/31/11930745856920799271.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/05/65/12/77/23/87/38/09/23/31/11930745856920799271.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/05/65/12/77/23/87/38/09/23/31/11930745856920799271.png"
+    }
+  },
+  {
+    "gid_ref": 109664,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yüksek Basınçlı Araç Yıkama Köpük Makinası Oto Yıkama Pompası Basınçlı Köpük Pompası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747256220251,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635237480,
+      "__unknown_productSubTitle": "Yüksek Basınçlı Araç Yıkama Köpük Makinası Oto Yıkama Pompası Basınçlı Köpük Pompası ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

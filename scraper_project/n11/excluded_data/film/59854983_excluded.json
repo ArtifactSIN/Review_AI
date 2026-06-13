@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 735655,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Green Zone - Yeşil Bölge Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757514884277,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 59854983,
+      "__unknown_productSubTitle": "Green Zone - Yeşil Bölge Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735656,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Green Zone - Yeşil Bölge Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1716623330752,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/25/54/59/05/23/41/80/46/11/30/87725586138798078968.jpg",
+      "__unknown_lastModifiedDate": 1716623455686,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 59854983,
+      "__unknown_productSubTitle": "Green Zone - Yeşil Bölge Blu-Ray",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4770207,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/25/54/59/05/23/41/80/46/11/30/87725586138798078968.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/25/54/59/05/23/41/80/46/11/30/87725586138798078968.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/25/54/59/05/23/41/80/46/11/30/87725586138798078968.jpg"
+    }
+  },
+  {
+    "gid_ref": 735657,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel ",
+      "productTitle": "Green Zone - Yeşil Bölge Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1586284261895,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 59854983,
+      "__unknown_productSubTitle": "Green Zone - Yeşil Bölge Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

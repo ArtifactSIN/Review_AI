@@ -1,0 +1,105 @@
+[
+  {
+    "gid_ref": 421148,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yapay Çiçek 10lu Pembe Şakayık Demeti Erengül Gelin Buketi Çiçeği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775334291949,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/04/73/20/65/56/54/51/03/64/29/03788211566357231189.png",
+      "__unknown_lastModifiedDate": 1775334291949,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664449264,
+      "__unknown_productSubTitle": "Yapay Çiçek 10lu Pembe Şakayık Demeti Erengül Gelin Buketi Çiçeği",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8568981,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/04/73/20/65/56/54/51/03/64/29/03788211566357231189.png"
+        },
+        {
+          "id": 8568982,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/04/87/61/93/50/28/95/93/39/64/56150651744728993305.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/04/73/20/65/56/54/51/03/64/29/03788211566357231189.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/04/73/20/65/56/54/51/03/64/29/03788211566357231189.png"
+    }
+  },
+  {
+    "gid_ref": 421149,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yapay Çiçek 10lu Pembe Şakayık Demeti Erengül Gelin Buketi Çiçeği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774595901481,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/72/66/72/12/66/53/23/34/79/78810440032291734341.jpg",
+      "__unknown_lastModifiedDate": 1774595901481,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664449264,
+      "__unknown_productSubTitle": "Yapay Çiçek 10lu Pembe Şakayık Demeti Erengül Gelin Buketi Çiçeği",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8525511,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/72/66/72/12/66/53/23/34/79/78810440032291734341.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/72/66/72/12/66/53/23/34/79/78810440032291734341.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/72/66/72/12/66/53/23/34/79/78810440032291734341.jpg"
+    }
+  },
+  {
+    "gid_ref": 421150,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yapay Çiçek 10lu Pembe Şakayık Demeti Erengül Gelin Buketi Çiçeği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768371801568,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664449264,
+      "__unknown_productSubTitle": "Yapay Çiçek 10lu Pembe Şakayık Demeti Erengül Gelin Buketi Çiçeği",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 421151,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yapay Çiçek 10lu Pembe Şakayık Demeti Erengül Gelin Buketi Çiçeği",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732738662112,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664449264,
+      "__unknown_productSubTitle": "Yapay Çiçek 10lu Pembe Şakayık Demeti Erengül Gelin Buketi Çiçeği",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

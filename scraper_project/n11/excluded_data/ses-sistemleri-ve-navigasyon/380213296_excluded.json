@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1147571,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Özenhifi'Den Audison Connection B 918.2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711120271825,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 380213296,
+      "__unknown_productSubTitle": "Özenhifi'Den Audison Connection B 918.2",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1147572,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Özenhifi'Den Audison Connection B 918.2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1691641197126,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/08/10/86/80/66/48/26/08/11/04/09/96569922824648607459.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 380213296,
+      "__unknown_productSubTitle": "Özenhifi'Den Audison Connection B 918.2",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2273117,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/08/10/86/80/66/48/26/08/11/04/09/96569922824648607459.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/08/10/86/80/66/48/26/08/11/04/09/96569922824648607459.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/08/10/86/80/66/48/26/08/11/04/09/96569922824648607459.jpg"
+    }
+  },
+  {
+    "gid_ref": 1147573,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Özenhifi'Den Audison Connection B 918.2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1590195697846,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 380213296,
+      "__unknown_productSubTitle": "Özenhifi'Den Audison Connection B 918.2",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 385669,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Onvo X12 Plus Ayna Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765525344544,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654962378,
+      "__unknown_productSubTitle": "Onvo X12 Plus Ayna Takımı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 385670,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Onvo X12 Plus Ayna Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744741285698,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654962378,
+      "__unknown_productSubTitle": "Onvo X12 Plus Ayna Takımı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

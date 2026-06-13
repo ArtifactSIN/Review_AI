@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 1164388,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Baby Shark Can Simidi 50 Cm Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1754405973514,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 673944216,
+      "__unknown_productSubTitle": "Baby Shark Can Simidi 50 Cm Çok Renkli 2 - 4 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1164389,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Baby Shark Can Simidi 50 Cm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727987590632,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578903815,
+      "__unknown_productSubTitle": "Baby Shark Can Simidi 50 Cm 2 - 4 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1164390,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Baby Shark Can Simidi 50 Cm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1716236630711,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/20/88/42/97/03/59/57/28/97/52/26006792448913916095.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578903815,
+      "__unknown_productSubTitle": "Baby Shark Can Simidi 50 Cm 2 - 4 Yaş",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4737541,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/20/88/42/97/03/59/57/28/97/52/26006792448913916095.png"
+        },
+        {
+          "id": 4737542,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/20/84/27/03/53/28/41/33/62/87/95572926732055167344.png"
+        },
+        {
+          "id": 4737543,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/20/63/77/46/24/76/83/52/49/42/63435617880341852901.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/20/88/42/97/03/59/57/28/97/52/26006792448913916095.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/20/88/42/97/03/59/57/28/97/52/26006792448913916095.png"
+    }
+  },
+  {
+    "gid_ref": 1164391,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Baby Shark Can Simidi 50 Cm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1698647693110,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578903815,
+      "__unknown_productSubTitle": "Baby Shark Can Simidi 50 Cm 2 - 4 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

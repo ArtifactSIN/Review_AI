@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 828877,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Anlas 20x4.00 Fat Bike Dış Lastik 2024 Üretim",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1776107740844,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1776107740844,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 674065523,
+      "__unknown_productSubTitle": "Anlas 20x4.00 Fat Bike Dış Lastik 2024 Üretim ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 828878,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Anlas 20x4.00 Fat Bike Dış Lastik 2024 Üretim",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773302153802,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/12/61/38/04/24/25/66/92/09/40/56978747790994879950.jpg",
+      "__unknown_lastModifiedDate": 1773302153802,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705240778,
+      "__unknown_productSubTitle": "Anlas 20x4.00 Fat Bike Dış Lastik 2024 Üretim ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8464401,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/12/61/38/04/24/25/66/92/09/40/56978747790994879950.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/12/61/38/04/24/25/66/92/09/40/56978747790994879950.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/12/61/38/04/24/25/66/92/09/40/56978747790994879950.jpg"
+    }
+  }
+]

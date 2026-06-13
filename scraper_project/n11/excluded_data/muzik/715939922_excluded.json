@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 947378,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nazan Öncel - Bir Hadise Var Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1670412948781,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/12/07/52/36/16/60/91/97/16/24/87/83301353932699681717.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 224844054,
+      "__unknown_productSubTitle": "Nazan Öncel - Bir Hadise Var Plak",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1365050,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/12/07/52/36/16/60/91/97/16/24/87/83301353932699681717.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/12/07/52/36/16/60/91/97/16/24/87/83301353932699681717.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/12/07/52/36/16/60/91/97/16/24/87/83301353932699681717.jpg"
+    }
+  },
+  {
+    "gid_ref": 947379,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "baskı yeni ",
+      "productTitle": "Nazan Öncel - Bir Hadise Var Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1606581245910,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 224844054,
+      "__unknown_productSubTitle": "Nazan Öncel - Bir Hadise Var Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

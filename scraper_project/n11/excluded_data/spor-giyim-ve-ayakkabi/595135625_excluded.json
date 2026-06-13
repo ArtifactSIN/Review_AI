@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1159091,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Q&Q HS-43 KRONOMETRE",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773430281967,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773430281967,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 696669981,
+      "__unknown_productSubTitle": "Q&q Hs-43 Kronometre",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1159092,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Q&Q HS-43 KRONOMETRE",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1749401295769,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595135625,
+      "__unknown_productSubTitle": "Q&q Hs-43 Kronometre",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

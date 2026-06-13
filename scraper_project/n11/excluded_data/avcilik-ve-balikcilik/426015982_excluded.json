@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 117005,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Antenli Merca, Sinarit, Trança Takımı Doğaçlama Fosforlu, Gezerli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697188549039,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 426015982,
+      "__unknown_productSubTitle": "Antenli Merca, Sinarit, Trança Takımı Doğaçlama Fosforlu, Gezerli 50Gr",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 117006,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Antenli Merca, Sinarit, Trança Takımı Doğaçlama Fosforlu, Gezerli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1681246172225,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/04/11/73/77/92/52/81/75/10/88/63/95552405575488091410.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 426015982,
+      "__unknown_productSubTitle": "Antenli Merca, Sinarit, Trança Takımı Doğaçlama Fosforlu, Gezerli 50Gr",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1847684,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/04/11/73/77/92/52/81/75/10/88/63/95552405575488091410.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/04/11/73/77/92/52/81/75/10/88/63/95552405575488091410.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/04/11/73/77/92/52/81/75/10/88/63/95552405575488091410.jpeg"
+    }
+  },
+  {
+    "gid_ref": 117007,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "güvenilir satici",
+      "productTitle": "Antenli Merca, Sinarit, Trança Takımı Doğaçlama Fosforlu, Gezerli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1615470136697,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 426015982,
+      "__unknown_productSubTitle": "Antenli Merca, Sinarit, Trança Takımı Doğaçlama Fosforlu, Gezerli 50Gr",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

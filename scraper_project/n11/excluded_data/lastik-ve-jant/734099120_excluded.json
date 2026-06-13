@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 835024,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çobanoğlu Grup Volkswagen Transporter 16 Inç Kırılmaz Jant Kapağı-Amblem",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775760627015,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775760627015,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734099120,
+      "__unknown_productSubTitle": "Çobanoğlu Grup Volkswagen Transporter 16 Inç Kırılmaz Jant Kapağı-Amblem",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 835025,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çobanoğlu Grup Volkswagen Transporter 16 Inç Kırılmaz Jant Kapağı-Amblem",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758899356202,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650547907,
+      "__unknown_productSubTitle": "Çobanoğlu Grup Volkswagen Transporter 16 Inç Kırılmaz Jant Kapağı-Amblem",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 835026,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "jant kapağı",
+      "productTitle": "Çobanoğlu Grup Volkswagen Transporter 16 Inç Kırılmaz Jant Kapağı-Amblem",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1597395647906,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/20/08/14/61/97/43/93/04/17/55/22/27/23421177662241194147.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 341097895,
+      "__unknown_productSubTitle": "Çobanoğlu Grup Volkswagen Transporter 16 Inç Kırılmaz Jant Kapağı-Amblem",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3097461,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/20/08/14/61/97/43/93/04/17/55/22/27/23421177662241194147.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/20/08/14/61/97/43/93/04/17/55/22/27/23421177662241194147.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/20/08/14/61/97/43/93/04/17/55/22/27/23421177662241194147.jpeg"
+    }
+  }
+]

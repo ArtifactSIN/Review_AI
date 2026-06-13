@@ -1,0 +1,76 @@
+[
+  {
+    "gid_ref": 30676,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Direct Nexus Şarj Edilebilir Elektrikli Diş Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773934657138,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773934657138,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690619799,
+      "__unknown_productSubTitle": "Direct Nexus Şarj Edilebilir Elektrikli Diş Fırçası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 30677,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Direct Nexus Şarj Edilebilir Elektrikli Diş Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767434740692,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690619799,
+      "__unknown_productSubTitle": "Direct Nexus Şarj Edilebilir Elektrikli Diş Fırçası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 30678,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Direct Nexus Şarj Edilebilir Elektrikli Diş Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766782152142,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/26/57/00/23/93/81/70/82/90/29/12219648754773345069.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690619799,
+      "__unknown_productSubTitle": "Direct Nexus Şarj Edilebilir Elektrikli Diş Fırçası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8171339,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/26/57/00/23/93/81/70/82/90/29/12219648754773345069.png"
+        },
+        {
+          "id": 8171340,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/26/47/70/89/47/57/08/23/72/74/4130103688990735834.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/26/57/00/23/93/81/70/82/90/29/12219648754773345069.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/26/57/00/23/93/81/70/82/90/29/12219648754773345069.png"
+    }
+  }
+]

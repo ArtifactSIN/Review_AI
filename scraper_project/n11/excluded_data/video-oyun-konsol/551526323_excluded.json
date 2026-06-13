@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1337485,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sony PS5 DualSense Kablosuz Gamepad Starlight Blue (Sony Eurasia Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1685204109157,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551526323,
+      "__unknown_productSubTitle": "Sony PS5 DualSense Kablosuz Gamepad Starlight Blue (Sony Eurasia Garantili)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337486,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "başarılı",
+      "productTitle": "Sony PS5 DualSense Kablosuz Gamepad Starlight Blue (Sony Eurasia Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1663785944898,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551526323,
+      "__unknown_productSubTitle": "Sony PS5 DualSense Kablosuz Gamepad Starlight Blue (Sony Eurasia Garantili)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

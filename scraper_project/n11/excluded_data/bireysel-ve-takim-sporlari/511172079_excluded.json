@@ -1,0 +1,92 @@
+[
+  {
+    "gid_ref": 368130,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oyuncak Futbol Kalesi Ayaklı Basketbol Potası Erkek",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768833054485,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 511172079,
+      "__unknown_productSubTitle": "Oyuncak Futbol Kalesi Ayaklı Basketbol Potası Erkek",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 368131,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oyuncak Futbol Kalesi Ayaklı Basketbol Potası Erkek",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719919841427,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/02/85/22/21/46/03/54/10/56/84/67415169476533962811.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 511172079,
+      "__unknown_productSubTitle": "Oyuncak Futbol Kalesi Ayaklı Basketbol Potası Erkek",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5125506,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/02/85/22/21/46/03/54/10/56/84/67415169476533962811.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/02/85/22/21/46/03/54/10/56/84/67415169476533962811.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/02/85/22/21/46/03/54/10/56/84/67415169476533962811.png"
+    }
+  },
+  {
+    "gid_ref": 368132,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oyuncak Futbol Kalesi Ayaklı Basketbol Potası Erkek",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1673540961017,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 511172079,
+      "__unknown_productSubTitle": "Oyuncak Futbol Kalesi Ayaklı Basketbol Potası Erkek",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 368133,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Harika",
+      "productTitle": "Oyuncak Futbol Kalesi Ayaklı Basketbol Potası Erkek",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1656856720118,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 511172079,
+      "__unknown_productSubTitle": "Oyuncak Futbol Kalesi Ayaklı Basketbol Potası Erkek",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

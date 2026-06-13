@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 184400,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Weleda Bebek ve Çocuklar için Organik Diş Macunu 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697646797059,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/10/18/46/48/75/53/54/37/35/26/80/38842164511149504872.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 423873022,
+      "__unknown_productSubTitle": "Weleda Bebek ve Çocuklar için Organik Diş Macunu 50 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2564923,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/10/18/72/27/54/84/27/49/03/21/11/57240843410008196138.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/10/18/46/48/75/53/54/37/35/26/80/38842164511149504872.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/10/18/46/48/75/53/54/37/35/26/80/38842164511149504872.jpg"
+    }
+  },
+  {
+    "gid_ref": 184401,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Weleda Bebek ve Çocuklar için Organik Diş Macunu 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697462393905,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 423873022,
+      "__unknown_productSubTitle": "Weleda Bebek ve Çocuklar için Organik Diş Macunu 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 845836,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Super Stay Skin Tint  Fondöten - 05",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737135956703,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593576217,
+      "__unknown_productSubTitle": "Maybelline New York Super Stay Skin Tint  Fondöten - 05",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 845837,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Super Stay Skin Tint  Fondöten - 05",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731352755298,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1731352880945,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593576217,
+      "__unknown_productSubTitle": "Maybelline New York Super Stay Skin Tint  Fondöten - 05",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

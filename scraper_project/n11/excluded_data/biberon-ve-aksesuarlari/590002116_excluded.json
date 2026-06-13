@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 307868,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sozzy Toys Müzikli  Aslanım Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720613576892,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/10/86/12/25/01/94/31/46/00/32/88283199708641379454.jpg",
+      "__unknown_lastModifiedDate": 1750658463577,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590002116,
+      "__unknown_productSubTitle": "Sozzy Toys Müzikli  Aslanım Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5175164,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/10/86/12/25/01/94/31/46/00/32/88283199708641379454.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/10/86/12/25/01/94/31/46/00/32/88283199708641379454.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/10/86/12/25/01/94/31/46/00/32/88283199708641379454.jpg"
+    }
+  }
+]

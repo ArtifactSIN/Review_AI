@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 933115,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cooker 0.75 Litre Çelik Termos Mor Ckr2002 Mor",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767120229289,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 685884915,
+      "__unknown_productSubTitle": "Cooker 0.75 Litre Çelik Termos Mor Ckr2002 Mor ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 933116,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cooker 0.75 Litre Çelik Termos Mor Ckr2002 Mor",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764423616840,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/29/64/16/08/37/35/02/32/19/66/75988145381215744215.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 685884915,
+      "__unknown_productSubTitle": "Cooker 0.75 Litre Çelik Termos Mor Ckr2002 Mor ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8049558,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/29/64/16/08/37/35/02/32/19/66/75988145381215744215.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/29/64/16/08/37/35/02/32/19/66/75988145381215744215.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/29/64/16/08/37/35/02/32/19/66/75988145381215744215.png"
+    }
+  },
+  {
+    "gid_ref": 933117,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cooker 0.75 Litre Çelik Termos Mor Ckr2002 Mor",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758048222644,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 685884915,
+      "__unknown_productSubTitle": "Cooker 0.75 Litre Çelik Termos Mor Ckr2002 Mor ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 933118,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cooker 0.75 Litre Çelik Termos Mor Ckr2002 Mor",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758048194467,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 685884915,
+      "__unknown_productSubTitle": "Cooker 0.75 Litre Çelik Termos Mor Ckr2002 Mor ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 544735,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Derby Doğa Ferahlığı Tıraş Köpüğü 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770815542730,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592351174,
+      "__unknown_productSubTitle": "Derby Doğa Ferahlığı Tıraş Köpüğü 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 544736,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Derby Doğa Ferahlığı Tıraş Köpüğü 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1753452257426,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/25/81/43/09/23/15/15/75/35/53/31361932007490799247.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597297961,
+      "__unknown_productSubTitle": "Derby Doğa Ferahlığı Tıraş Köpüğü 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7486319,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/25/81/43/09/23/15/15/75/35/53/31361932007490799247.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/25/81/43/09/23/15/15/75/35/53/31361932007490799247.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/25/81/43/09/23/15/15/75/35/53/31361932007490799247.jpg"
+    }
+  },
+  {
+    "gid_ref": 544737,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Derby Doğa Ferahlığı Tıraş Köpüğü 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730739495885,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641229278,
+      "__unknown_productSubTitle": "Derby Doğa Ferahlığı Tıraş Köpüğü 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 544738,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Derby Doğa Ferahlığı Tıraş Köpüğü 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715678891058,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592351174,
+      "__unknown_productSubTitle": "Derby Doğa Ferahlığı Tıraş Köpüğü 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 544739,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Derby Doğa Ferahlığı Tıraş Köpüğü 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708526068278,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592351174,
+      "__unknown_productSubTitle": "Derby Doğa Ferahlığı Tıraş Köpüğü 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

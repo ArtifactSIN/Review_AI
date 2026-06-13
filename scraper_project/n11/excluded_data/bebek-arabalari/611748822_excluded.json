@@ -1,0 +1,105 @@
+[
+  {
+    "gid_ref": 179866,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Safari Müslin Puset Örtüsü Fermuarlı Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760814979752,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611748822,
+      "__unknown_productSubTitle": "Safari Müslin Puset Örtüsü Fermuarlı Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 179867,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Safari Müslin Puset Örtüsü Fermuarlı Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732343921279,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750660251212,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 565449475,
+      "__unknown_productSubTitle": "Safari Müslin Puset Örtüsü Fermuarlı Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 179868,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Safari Müslin Puset Örtüsü Fermuarlı Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1723112206847,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/08/80/37/48/12/52/56/36/66/45/16574981680326688468.jpg",
+      "__unknown_lastModifiedDate": 1750660251763,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611748822,
+      "__unknown_productSubTitle": "Safari Müslin Puset Örtüsü Fermuarlı Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5364448,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/08/80/37/48/12/52/56/36/66/45/16574981680326688468.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/08/80/37/48/12/52/56/36/66/45/16574981680326688468.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/08/80/37/48/12/52/56/36/66/45/16574981680326688468.jpg"
+    }
+  },
+  {
+    "gid_ref": 179869,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Safari Müslin Puset Örtüsü Fermuarlı Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720566140509,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/10/80/56/07/62/25/21/84/89/61/06122705279318902625.png",
+      "__unknown_lastModifiedDate": 1750660251763,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611748822,
+      "__unknown_productSubTitle": "Safari Müslin Puset Örtüsü Fermuarlı Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5171951,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/10/80/56/07/62/25/21/84/89/61/06122705279318902625.png"
+        },
+        {
+          "id": 5171952,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/10/62/68/04/40/69/30/98/90/29/81692375366204409046.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/10/80/56/07/62/25/21/84/89/61/06122705279318902625.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/10/80/56/07/62/25/21/84/89/61/06122705279318902625.png"
+    }
+  }
+]

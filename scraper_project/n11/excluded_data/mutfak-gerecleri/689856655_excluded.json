@@ -1,0 +1,81 @@
+[
+  {
+    "gid_ref": 933308,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Recoletta 2'li Pilli Baharat Öğütücü Siyah Standsız",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775845548024,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775845548024,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 689856655,
+      "__unknown_productSubTitle": "Recoletta 2'li Pilli Baharat Öğütücü Siyah Standsız ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 933309,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Recoletta 2'li Pilli Baharat Öğütücü Siyah Standsız",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775845200517,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/10/54/33/77/10/13/98/26/79/17/86417647479128408577.jpg",
+      "__unknown_lastModifiedDate": 1775845200517,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 689856655,
+      "__unknown_productSubTitle": "Recoletta 2'li Pilli Baharat Öğütücü Siyah Standsız ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8592668,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/54/33/77/10/13/98/26/79/17/86417647479128408577.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/10/54/33/77/10/13/98/26/79/17/86417647479128408577.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/10/54/33/77/10/13/98/26/79/17/86417647479128408577.jpg"
+    }
+  },
+  {
+    "gid_ref": 933310,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Recoletta 2'li Pilli Baharat Öğütücü Siyah Standsız",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774382438732,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/24/58/94/08/40/08/28/43/02/42/9410783672178001979.png",
+      "__unknown_lastModifiedDate": 1774382438732,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 689856655,
+      "__unknown_productSubTitle": "Recoletta 2'li Pilli Baharat Öğütücü Siyah Standsız ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8495236,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/24/58/94/08/40/08/28/43/02/42/9410783672178001979.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/24/58/94/08/40/08/28/43/02/42/9410783672178001979.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/24/58/94/08/40/08/28/43/02/42/9410783672178001979.png"
+    }
+  }
+]

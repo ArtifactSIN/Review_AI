@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 564332,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Seher Yıldızı Seher Erkek Beyaz 6'lı Paket Klasik Penye Atlet Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772484838626,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/02/76/67/42/58/01/52/82/56/93/86660067311294790683.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 620876420,
+      "__unknown_productSubTitle": "Seher Yıldızı Seher Erkek Beyaz 6'lı Paket Klasik Penye Atlet Beyaz L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8430310,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/02/76/67/42/58/01/52/82/56/93/86660067311294790683.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/02/76/67/42/58/01/52/82/56/93/86660067311294790683.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/02/76/67/42/58/01/52/82/56/93/86660067311294790683.jpg"
+    }
+  },
+  {
+    "gid_ref": 564333,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Seher Yıldızı Seher Erkek Beyaz 6'lı Paket Klasik Penye Atlet Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767622765931,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 620876420,
+      "__unknown_productSubTitle": "Seher Yıldızı Seher Erkek Beyaz 6'lı Paket Klasik Penye Atlet Beyaz L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 564334,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Seher Yıldızı Seher Erkek Beyaz 6'lı Paket Klasik Penye Atlet Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729092641486,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1742470621879,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 620876424,
+      "__unknown_productSubTitle": "Seher Yıldızı Seher Erkek Beyaz 6'lı Paket Klasik Penye Atlet Beyaz XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

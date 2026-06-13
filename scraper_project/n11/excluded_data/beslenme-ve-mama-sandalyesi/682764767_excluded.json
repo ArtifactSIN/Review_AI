@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 275017,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tommee Tippee 2x Breastlike Emzik 6-18 Ay",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1717657396452,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/06/53/28/50/56/08/57/49/96/25/76918252269176374667.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 565459244,
+      "__unknown_productSubTitle": "Tommee Tippee 2x Breastlike Emzik 6-18 Ay",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4888530,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/06/53/28/50/56/08/57/49/96/25/76918252269176374667.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/06/53/28/50/56/08/57/49/96/25/76918252269176374667.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/06/53/28/50/56/08/57/49/96/25/76918252269176374667.jpg"
+    }
+  },
+  {
+    "gid_ref": 275018,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "kaliteli ürün",
+      "productTitle": "Tommee Tippee 2x Breastlike Emzik 6-18 Ay Turuncu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1665589041995,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750659622659,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 495716954,
+      "__unknown_productSubTitle": "Tommee Tippee 2x Breastlike Emzik 6-18 Ay Turuncu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

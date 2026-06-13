@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 125176,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Remixon New Energy 6000 Olta Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727893464033,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/02/85/37/35/36/22/03/39/49/54/87365179974304353035.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603567792,
+      "__unknown_productSubTitle": "Remixon New Energy 6000 Olta Makinesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5829107,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/02/85/37/35/36/22/03/39/49/54/87365179974304353035.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/02/85/37/35/36/22/03/39/49/54/87365179974304353035.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/02/85/37/35/36/22/03/39/49/54/87365179974304353035.png"
+    }
+  }
+]

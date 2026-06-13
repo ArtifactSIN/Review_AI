@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 466753,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "8 Litre 15 Aşama Mineralli 75 Gpd Su Arıtma Cihazı Hmaxs3512",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748159589554,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/25/80/04/47/29/85/37/43/55/85/7300718046365108202.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642763342,
+      "__unknown_productSubTitle": "8 Litre 15 Aşama Mineralli 75 Gpd Su Arıtma Cihazı Hmaxs3512 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7263721,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/25/65/91/72/47/07/82/31/98/42/18545138356733066813.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/25/80/04/47/29/85/37/43/55/85/7300718046365108202.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/25/80/04/47/29/85/37/43/55/85/7300718046365108202.jpg"
+    }
+  },
+  {
+    "gid_ref": 466754,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "8 Litre 15 Aşama Mineralli 75 Gpd Su Arıtma Cihazı Hmaxs3512",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737124353455,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642763342,
+      "__unknown_productSubTitle": "8 Litre 15 Aşama Mineralli 75 Gpd Su Arıtma Cihazı Hmaxs3512 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

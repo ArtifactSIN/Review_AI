@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 1001892,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prada Paradoxe EDP Intense 90 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774355721595,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774355721595,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586836239,
+      "__unknown_productSubTitle": "Prada Paradoxe EDP Intense 90 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1337828,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Comouflage Red PS4 Uyumlu Joystick PS4 Uyumlu Oyun Kolu Controller",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697225598521,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562962812,
+      "__unknown_productSubTitle": "Comouflage Red PS4 Uyumlu Joystick PS4 Uyumlu Oyun Kolu Controller",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337829,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Comouflage Red PS4 Uyumlu Joystick PS4 Uyumlu Oyun Kolu Controller",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1689604407860,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/07/17/63/13/96/89/01/65/08/69/12/01331000569604032422.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 536490813,
+      "__unknown_productSubTitle": "Comouflage Red PS4 Uyumlu Joystick PS4 Uyumlu Oyun Kolu Controller",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2185113,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/07/17/63/13/96/89/01/65/08/69/12/01331000569604032422.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/07/17/63/13/96/89/01/65/08/69/12/01331000569604032422.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/07/17/63/13/96/89/01/65/08/69/12/01331000569604032422.jpg"
+    }
+  }
+]

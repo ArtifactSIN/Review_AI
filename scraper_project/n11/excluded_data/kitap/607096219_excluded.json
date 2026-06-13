@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 812297,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "199 Flags- Usborne",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773649327190,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773649327190,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 607096219,
+      "__unknown_productSubTitle": "199 Flags- Usborne",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 812298,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "199 Flags- Usborne",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771922204228,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/24/73/92/79/44/00/97/33/09/54/18413601972876521783.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 607096219,
+      "__unknown_productSubTitle": "199 Flags- Usborne",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8413250,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/24/73/92/79/44/00/97/33/09/54/18413601972876521783.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/24/73/92/79/44/00/97/33/09/54/18413601972876521783.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/24/73/92/79/44/00/97/33/09/54/18413601972876521783.jpg"
+    }
+  }
+]

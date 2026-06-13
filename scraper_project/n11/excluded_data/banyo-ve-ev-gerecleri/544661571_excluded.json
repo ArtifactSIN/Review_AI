@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 145799,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kale Versus Gömme Rezervuar Seti Mat Krom 310200500040 Krom",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1761534189688,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 505076218,
+      "__unknown_productSubTitle": "Kale Versus Gömme Rezervuar Seti Mat Krom 310200500040 Krom ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 145800,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kale Versus Gömme Rezervuar Seti Mat Krom 310200500040 Krom",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732697040193,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/27/56/36/38/31/65/79/05/14/53/97290352725075512053.png",
+      "__unknown_lastModifiedDate": 1752100768429,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580535425,
+      "__unknown_productSubTitle": "Kale Versus Gömme Rezervuar Seti Mat Krom 310200500040 Krom ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6341559,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/27/56/36/38/31/65/79/05/14/53/97290352725075512053.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/27/56/36/38/31/65/79/05/14/53/97290352725075512053.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/27/56/36/38/31/65/79/05/14/53/97290352725075512053.png"
+    }
+  }
+]

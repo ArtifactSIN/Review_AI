@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 484474,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Delonghi ECAM22.110 Magnificas Kahve Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747229695653,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 512373752,
+      "__unknown_productSubTitle": "Delonghi ECAM22.110 Magnificas Kahve Makinesi Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 484475,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Delonghi ECAM22.110 Magnificas Kahve Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745495993297,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/24/70/37/63/24/33/40/63/39/40/62603025412452534233.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 512373752,
+      "__unknown_productSubTitle": "Delonghi ECAM22.110 Magnificas Kahve Makinesi Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7135278,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/24/70/37/63/24/33/40/63/39/40/62603025412452534233.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/24/70/37/63/24/33/40/63/39/40/62603025412452534233.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/24/70/37/63/24/33/40/63/39/40/62603025412452534233.png"
+    }
+  },
+  {
+    "gid_ref": 484476,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Delonghi ECAM22.110 Magnificas Kahve Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1743762928507,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 512373752,
+      "__unknown_productSubTitle": "Delonghi ECAM22.110 Magnificas Kahve Makinesi Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 484477,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "delobghi espresso kahve makinası",
+      "productTitle": "Delonghi ECAM22.110 Magnificas Kahve Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1636984871337,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 474907132,
+      "__unknown_productSubTitle": "Delonghi ECAM22.110 Magnificas Kahve Makinesi Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

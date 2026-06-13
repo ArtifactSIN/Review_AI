@@ -1,0 +1,84 @@
+[
+  {
+    "gid_ref": 523277,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Derby Samurai3 Platinum Tıraş Bıçağı Kartela 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772909229745,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772909229745,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642264563,
+      "__unknown_productSubTitle": "Derby Samurai3 Platinum Tıraş Bıçağı Kartela 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 523278,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Derby Samurai3 Platinum Tıraş Bıçağı Kartela 10'lu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772909212887,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772909212887,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 607029530,
+      "__unknown_productSubTitle": "Derby Samurai3 Platinum Tıraş Bıçağı Kartela 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 523279,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Derby Samurai3 Platinum Tıraş Bıçağı Kartela 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1737704080145,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642264563,
+      "__unknown_productSubTitle": "Derby Samurai3 Platinum Tıraş Bıçağı Kartela 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 523280,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Derby Samurai3 Platinum Tıraş Bıçağı Kartela 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1696613679237,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 565237660,
+      "__unknown_productSubTitle": "Samurai 3 Platinum 10lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

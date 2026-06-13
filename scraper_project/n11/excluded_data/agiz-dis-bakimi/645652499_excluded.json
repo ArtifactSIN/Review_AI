@@ -1,0 +1,118 @@
+[
+  {
+    "gid_ref": 21488,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Super Floss Diş İpi 50'li x 4 Paket",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760709702696,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/17/50/49/15/73/44/24/92/80/05/33019424981796602795.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 662378104,
+      "__unknown_productSubTitle": "Oral-B Super Floss Diş İpi 50'li x 4 Paket",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7809331,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/17/50/49/15/73/44/24/92/80/05/33019424981796602795.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/17/50/49/15/73/44/24/92/80/05/33019424981796602795.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/17/50/49/15/73/44/24/92/80/05/33019424981796602795.jpg"
+    }
+  },
+  {
+    "gid_ref": 21489,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Super Floss Diş İpi 50'li x 4 Paket",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728120670141,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/05/79/33/22/74/04/26/86/36/54/87339411081716777312.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592905860,
+      "__unknown_productSubTitle": "Oral-B Super Floss Diş İpi 50'li x 4 Paket",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5854962,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/05/79/33/22/74/04/26/86/36/54/87339411081716777312.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/05/79/33/22/74/04/26/86/36/54/87339411081716777312.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/05/79/33/22/74/04/26/86/36/54/87339411081716777312.png"
+    }
+  },
+  {
+    "gid_ref": 21490,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Super Floss Diş İpi 50'li x 4 Paket",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726762525008,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592799787,
+      "__unknown_productSubTitle": "Oral-B Super Floss Diş İpi 50'li x 4 Paket",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 21491,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Super Floss Diş İpi 50'li x 4 Paket",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722584409471,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606547298,
+      "__unknown_productSubTitle": "Oral-B Super Floss Diş İpi 50'li x 4 Paket",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 21492,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Super Floss Diş İpi 50'li x 4 Paket",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719386352524,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606547298,
+      "__unknown_productSubTitle": "Oral-B Super Floss Diş İpi 50'li x 4 Paket",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

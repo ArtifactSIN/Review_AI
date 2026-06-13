@@ -1,0 +1,119 @@
+[
+  {
+    "gid_ref": 526598,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sedef Krom Tıraş Usturası + Tam Jilet 10'lu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775058808593,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775058808593,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646561372,
+      "__unknown_productSubTitle": "Sedef Krom Tıraş Usturası + Tam Jilet 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 526599,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sedef Krom Tıraş Usturası + Tam Jilet 10'lu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764338619152,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646561372,
+      "__unknown_productSubTitle": "Sedef Krom Tıraş Usturası + Tam Jilet 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 526600,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sedef Krom Tıraş Usturası + Tam Jilet 10'lu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763493751781,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/18/46/86/50/95/15/67/46/07/79/77983653158767213998.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646561372,
+      "__unknown_productSubTitle": "Sedef Krom Tıraş Usturası + Tam Jilet 10'lu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7987786,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/18/46/86/50/95/15/67/46/07/79/77983653158767213998.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/18/46/86/50/95/15/67/46/07/79/77983653158767213998.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/18/46/86/50/95/15/67/46/07/79/77983653158767213998.png"
+    }
+  },
+  {
+    "gid_ref": 526601,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sedef Krom Tıraş Usturası + Tam Jilet 10'lu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761367382059,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646561372,
+      "__unknown_productSubTitle": "Sedef Krom Tıraş Usturası + Tam Jilet 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 526602,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sedef Krom Tıraş Usturası + Tam Jilet 10'lu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744460605266,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/12/57/26/65/57/62/28/52/51/07/44916459747823106668.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646561372,
+      "__unknown_productSubTitle": "Sedef Krom Tıraş Usturası + Tam Jilet 10'lu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7083146,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/12/57/26/65/57/62/28/52/51/07/44916459747823106668.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/12/57/26/65/57/62/28/52/51/07/44916459747823106668.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/12/57/26/65/57/62/28/52/51/07/44916459747823106668.jpg"
+    }
+  }
+]

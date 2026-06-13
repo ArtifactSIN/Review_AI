@@ -1,0 +1,85 @@
+[
+  {
+    "gid_ref": 536231,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Hassas Tıraş Köpüğü 2 x 300 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767540250682,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705795547,
+      "__unknown_productSubTitle": "Gillette Hassas Tıraş Köpüğü 2 x 300 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 536232,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Hassas Tıraş Köpüğü 2 x 300 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1669363036469,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 401771010,
+      "__unknown_productSubTitle": "%100 ORJİNAL ÜRÜN AYNI GÜN ÜCRETSİZ KARGO",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 536233,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Özensiz!",
+      "productTitle": "Gillette Hassas Tıraş Köpüğü 2 x 300 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1602768008258,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 401771010,
+      "__unknown_productSubTitle": "%100 ORJİNAL ÜRÜN AYNI GÜN ÜCRETSİZ KARGO",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 536234,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ürün gelmedi ki ",
+      "productTitle": "Gillette Hassas Tıraş Köpüğü 2 x 300 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1594921184680,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 401771010,
+      "__unknown_productSubTitle": "%100 ORJİNAL ÜRÜN AYNI GÜN ÜCRETSİZ KARGO",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 943516,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ibanez Grx20-Bkn Elektro Gitar (Kılıf+Pena+Askı+Jak Kablo)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717534812931,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 166171434,
+      "__unknown_productSubTitle": "Ibanez Grx20-Bkn Elektro Gitar (Kılıf+Pena+Askı+Jak Kablo)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 943517,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Yeni Başladım",
+      "productTitle": "Ibanez Grx20-Bkn Elektro Gitar (Kılıf+Pena+Askı+Jak Kablo)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1647703430433,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1649269463749,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 166171434,
+      "__unknown_productSubTitle": "Ibanez Grx20-Bkn Elektro Gitar (Kılıf+Pena+Askı+Jak Kablo)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 943518,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Mükemmel ",
+      "productTitle": "Ibanez Grx20-Bkn Elektro Gitar (Kılıf+Pena+Askı+Jak Kablo)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1643200985963,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/01/26/62/52/71/19/81/98/25/23/18/31790317202884048365.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 166171434,
+      "__unknown_productSubTitle": "Ibanez Grx20-Bkn Elektro Gitar (Kılıf+Pena+Askı+Jak Kablo)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3255760,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/01/26/62/52/71/19/81/98/25/23/18/31790317202884048365.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/01/26/62/52/71/19/81/98/25/23/18/31790317202884048365.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/01/26/62/52/71/19/81/98/25/23/18/31790317202884048365.jpeg"
+    }
+  }
+]

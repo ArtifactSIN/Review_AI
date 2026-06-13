@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 846034,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Glow Paradise Lipstick 353 Mulberry Ecstatic",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773159040644,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773159040644,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645399603,
+      "__unknown_productSubTitle": "L'Oreal Paris Glow Paradise Lipstick 353 Mulberry Ecstatic",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 846035,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Glow Paradise Lipstick 353 Mulberry Ecstatic",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745497445905,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597878336,
+      "__unknown_productSubTitle": "L'Oreal Paris Glow Paradise Lipstick 353 Mulberry Ecstatic",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 846036,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Glow Paradise Lipstick 353 Mulberry Ecstatic",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722701155217,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597878336,
+      "__unknown_productSubTitle": "L'Oreal Paris Glow Paradise Lipstick 353 Mulberry Ecstatic",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 846037,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Glow Paradise Lipstick 353 Mulberry Ecstatic",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1712646783755,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597878336,
+      "__unknown_productSubTitle": "L'Oreal Paris Glow Paradise Lipstick 353 Mulberry Ecstatic",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

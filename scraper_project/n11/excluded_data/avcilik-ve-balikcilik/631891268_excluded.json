@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 123856,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mepps Comet Olta Kaşığı Beyaz-kırmızı No:0",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775249738684,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775249738684,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631891268,
+      "__unknown_productSubTitle": "Mepps Comet Olta Kaşığı Beyaz-kırmızı No:0 Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 123857,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mepps Comet Olta Kaşığı Beyaz-kırmızı No:0",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756904443242,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631891268,
+      "__unknown_productSubTitle": "Mepps Comet Olta Kaşığı Beyaz-kırmızı No:0 Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

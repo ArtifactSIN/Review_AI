@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 716129,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Feliway Classic Sprey Kediler İçin Sakinleştirici Sprey 60 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752849742043,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 676928055,
+      "__unknown_productSubTitle": "Feliway Classic Sprey Kediler İçin Sakinleştirici Sprey 60 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 716130,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Feliway Classic Sprey Kediler İçin Sakinleştirici Sprey 60 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1681999869782,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 535842886,
+      "__unknown_productSubTitle": "Feliway Classic Sprey Kediler İçin Sakinleştirici Sprey 60 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 716131,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Feliway Classic Sprey Kediler İçin Sakinleştirici Sprey 60 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1676395582748,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 535842886,
+      "__unknown_productSubTitle": "Feliway Classic Sprey Kediler İçin Sakinleştirici Sprey 60 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

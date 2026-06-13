@@ -1,0 +1,123 @@
+[
+  {
+    "gid_ref": 983783,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Mis gibi Hazan kolonyası",
+      "productTitle": "Kertil Çam 70 Derece Hazan Kolonyası Cam 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1586591636565,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/20/04/11/57/81/45/62/84/02/60/11/92/55352474230698362135.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 413219558,
+      "__unknown_productSubTitle": "Kertil Çam 70 Derece Hazan Kolonyası Cam 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3075853,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/20/04/11/57/81/45/62/84/02/60/11/92/55352474230698362135.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/20/04/11/57/81/45/62/84/02/60/11/92/55352474230698362135.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/20/04/11/57/81/45/62/84/02/60/11/92/55352474230698362135.jpg"
+    }
+  },
+  {
+    "gid_ref": 983784,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Parfum gibi",
+      "productTitle": "Kertil Çam 70 Derece Hazan Kolonyası Cam 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1586425009409,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 413219558,
+      "__unknown_productSubTitle": "Kertil Çam 70 Derece Hazan Kolonyası Cam 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 983785,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "GüZel",
+      "productTitle": "Kertil Çam 70 Derece Hazan Kolonyası Cam 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1584605202024,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 329820845,
+      "__unknown_productSubTitle": "Kertil Çam 70 Derece Hazan Kolonyası Cam 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 983786,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel",
+      "productTitle": "Kertil Çam 70 Derece Hazan Kolonyası Cam 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1582023853443,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/20/02/18/57/56/30/52/17/91/85/63/51/45543183800529499749.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 329820845,
+      "__unknown_productSubTitle": "Kertil Çam 70 Derece Hazan Kolonyası Cam 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3062798,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/20/02/18/57/56/30/52/17/91/85/63/51/45543183800529499749.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/20/02/18/57/56/30/52/17/91/85/63/51/45543183800529499749.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/20/02/18/57/56/30/52/17/91/85/63/51/45543183800529499749.jpg"
+    }
+  },
+  {
+    "gid_ref": 983787,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "çok güzel",
+      "productTitle": "Kertil Çam 70 Derece Hazan Kolonyası Cam 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1578993124990,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 329820845,
+      "__unknown_productSubTitle": "Kertil Çam 70 Derece Hazan Kolonyası Cam 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 257659,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Portakal Safety Otomatik Kapanır Çocuk Güvenlik Kapısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1673211475428,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/01/08/80/45/88/71/36/36/89/41/03/07078390622697702536.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 70826817,
+      "__unknown_productSubTitle": "Portakal Safety Otomatik Kapanır Çocuk Güvenlik Kapısı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1463279,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/08/80/45/88/71/36/36/89/41/03/07078390622697702536.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/01/08/80/45/88/71/36/36/89/41/03/07078390622697702536.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/01/08/80/45/88/71/36/36/89/41/03/07078390622697702536.jpg"
+    }
+  },
+  {
+    "gid_ref": 257660,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Portakal Safety Otomatik Kapanır Çocuk Güvenlik Kapısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1486652126386,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 70826817,
+      "__unknown_productSubTitle": "Portakal Safety Otomatik Kapanır Çocuk Güvenlik Kapısı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 846469,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Loreal Infaillible More Than Concealer Kapatıcı 328 Lin",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772261439044,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645404079,
+      "__unknown_productSubTitle": "Loreal Infaillible More Than Concealer Kapatıcı 328 Lin",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 846470,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Loreal Infaillible More Than Concealer Kapatıcı 328 Lin",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762439219940,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 673190060,
+      "__unknown_productSubTitle": "Loreal Infaillible More Than Concealer Kapatıcı 328 Lin",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

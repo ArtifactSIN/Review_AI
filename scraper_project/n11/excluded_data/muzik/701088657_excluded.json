@@ -1,0 +1,80 @@
+[
+  {
+    "gid_ref": 947310,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lino Melodika 32 Tuşlu Bez Çantalı Pembe",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775859831214,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/11/61/67/10/05/07/16/13/37/52/7594538964875953926.png",
+      "__unknown_lastModifiedDate": 1775859831214,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701088657,
+      "__unknown_productSubTitle": "Lino Melodika 32 Tuşlu Bez Çantalı Pembe",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8593680,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/11/61/67/10/05/07/16/13/37/52/7594538964875953926.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/11/61/67/10/05/07/16/13/37/52/7594538964875953926.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/11/61/67/10/05/07/16/13/37/52/7594538964875953926.png"
+    }
+  },
+  {
+    "gid_ref": 947311,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lino Melodika 32 Tuşlu Bez Çantalı Pembe",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770406559778,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/06/74/24/73/66/30/45/36/25/72/48103716856746262225.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701088657,
+      "__unknown_productSubTitle": "Lino Melodika 32 Tuşlu Bez Çantalı Pembe",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8333430,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/06/74/24/73/66/30/45/36/25/72/48103716856746262225.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/06/74/24/73/66/30/45/36/25/72/48103716856746262225.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/06/74/24/73/66/30/45/36/25/72/48103716856746262225.png"
+    }
+  },
+  {
+    "gid_ref": 947312,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lino Melodika 32 Tuşlu Bez Çantalı Pembe",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726603554834,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630104021,
+      "__unknown_productSubTitle": "Lino Melodika 32 Tuşlu Bez Çantalı Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

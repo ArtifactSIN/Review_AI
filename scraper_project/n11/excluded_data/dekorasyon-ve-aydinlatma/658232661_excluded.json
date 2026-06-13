@@ -1,0 +1,87 @@
+[
+  {
+    "gid_ref": 420330,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ey-El Tasarım A++ Plus Ahtapot Beyaz Gold Led Avize Sarkıt Toplu Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770162825659,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/04/65/36/27/97/78/50/14/41/66/46670468783579088987.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 658232661,
+      "__unknown_productSubTitle": "Ey-El Tasarım A++ Plus Ahtapot Beyaz Gold Led Avize Sarkıt Toplu Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8314332,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/04/65/36/27/97/78/50/14/41/66/46670468783579088987.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/04/65/36/27/97/78/50/14/41/66/46670468783579088987.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/04/65/36/27/97/78/50/14/41/66/46670468783579088987.png"
+    }
+  },
+  {
+    "gid_ref": 420331,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ey-El Tasarım A++ Plus Ahtapot Beyaz Gold Led Avize Sarkıt Toplu Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764869256164,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/04/69/38/23/62/34/52/86/80/10/55164720741604344063.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 658232661,
+      "__unknown_productSubTitle": "Ey-El Tasarım A++ Plus Ahtapot Beyaz Gold Led Avize Sarkıt Toplu Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8069375,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/04/69/38/23/62/34/52/86/80/10/55164720741604344063.png"
+        },
+        {
+          "id": 8069376,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/04/81/67/01/66/78/47/39/82/28/51653625736930504949.png"
+        },
+        {
+          "id": 8069377,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/04/52/77/38/75/55/92/07/65/25/18523468149867629260.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/04/69/38/23/62/34/52/86/80/10/55164720741604344063.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/04/69/38/23/62/34/52/86/80/10/55164720741604344063.png"
+    }
+  },
+  {
+    "gid_ref": 420332,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ey-El Tasarım A++ Plus Ahtapot Beyaz Gold Led Avize Sarkıt Toplu Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760956344308,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 658232661,
+      "__unknown_productSubTitle": "Ey-El Tasarım A++ Plus Ahtapot Beyaz Gold Led Avize Sarkıt Toplu Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

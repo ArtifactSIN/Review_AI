@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 753313,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "More For You Kullan At Boya Naylonu Beyaz 30 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731846136617,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 465057151,
+      "__unknown_productSubTitle": "More For You Kullan At Boya Naylonu Beyaz 30 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 753314,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "More For You Kullan At Boya Naylonu Beyaz 30 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726246727065,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/13/72/29/71/42/93/83/76/24/45/74550205029471861832.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 465057151,
+      "__unknown_productSubTitle": "More For You Kullan At Boya Naylonu Beyaz 30 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5655299,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/13/72/29/71/42/93/83/76/24/45/74550205029471861832.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/13/72/29/71/42/93/83/76/24/45/74550205029471861832.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/13/72/29/71/42/93/83/76/24/45/74550205029471861832.jpg"
+    }
+  },
+  {
+    "gid_ref": 753315,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "More For You Kullan At Boya Naylonu Beyaz 30 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1675420476645,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 465057151,
+      "__unknown_productSubTitle": "More For You Kullan At Boya Naylonu Beyaz 30 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

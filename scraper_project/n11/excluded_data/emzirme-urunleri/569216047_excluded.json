@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 496864,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fırfırlı Emzirme Yastığı Ve Destek Minderi Çift Taraflı Pam",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733250376307,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569216047,
+      "__unknown_productSubTitle": "Fırfırlı Emzirme Yastığı Ve Destek Minderi Çift Taraflı Pam",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 496865,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fırfırlı Emzirme Yastığı Ve Destek Minderi Çift Taraflı Pam",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730395123745,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/31/64/08/05/39/87/45/86/84/62/13408633757534240238.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569216047,
+      "__unknown_productSubTitle": "Fırfırlı Emzirme Yastığı Ve Destek Minderi Çift Taraflı Pam",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6079020,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/31/64/08/05/39/87/45/86/84/62/13408633757534240238.jpg"
+        },
+        {
+          "id": 6079021,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/31/73/69/41/34/76/26/87/55/24/76631321404492987533.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/31/64/08/05/39/87/45/86/84/62/13408633757534240238.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/31/64/08/05/39/87/45/86/84/62/13408633757534240238.jpg"
+    }
+  }
+]

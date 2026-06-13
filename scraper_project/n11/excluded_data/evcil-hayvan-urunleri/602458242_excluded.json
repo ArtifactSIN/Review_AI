@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 701266,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "MORIO KURDU 50 adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775226531841,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775226531841,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602458242,
+      "__unknown_productSubTitle": "MORIO KURDU 50 adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 701267,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "MORIO KURDU 50 adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766912537855,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645655466,
+      "__unknown_productSubTitle": "MORIO KURDU 50 adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 701268,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "MORIO KURDU 50 adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1675850361264,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561423472,
+      "__unknown_productSubTitle": "SÜRÜNGEN,BALIK,KUŞ,CİVCİV YEMİ  ve OLTA BALIKCILIĞINDA KULLANILIR",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

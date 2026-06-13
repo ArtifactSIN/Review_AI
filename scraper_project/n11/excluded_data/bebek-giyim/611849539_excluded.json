@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 252129,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Grand Court 2.0 Cf I Bebek Günlük Ayakkabı Id5271 Beyaz Id5271 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775546591534,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/07/86/16/38/88/33/21/42/24/48/98295020486852363021.png",
+      "__unknown_lastModifiedDate": 1775546591534,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611849539,
+      "__unknown_productSubTitle": "Adidas Grand Court 2.0 Cf I Bebek Günlük Ayakkabı Id5271 Beyaz Id5271 Beyaz 27",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8571433,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/07/86/16/38/88/33/21/42/24/48/98295020486852363021.png"
+        },
+        {
+          "id": 8571434,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/07/90/38/40/31/51/18/11/00/50/63848610283065358065.png"
+        },
+        {
+          "id": 8571435,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/07/50/76/37/77/02/83/36/65/34/65411501046038417299.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/07/86/16/38/88/33/21/42/24/48/98295020486852363021.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/07/86/16/38/88/33/21/42/24/48/98295020486852363021.png"
+    }
+  },
+  {
+    "gid_ref": 252130,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Grand Court 2.0 Cf I Bebek Günlük Ayakkabı Id5271 Beyaz Id5271 Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1735414661328,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750684777730,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611849537,
+      "__unknown_productSubTitle": "Adidas Grand Court 2.0 Cf I Bebek Günlük Ayakkabı Id5271 Beyaz Id5271 Beyaz 25.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

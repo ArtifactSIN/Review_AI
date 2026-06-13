@@ -1,0 +1,106 @@
+[
+  {
+    "gid_ref": 847565,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Fit Me Kapatıcı 25 Medium",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1680332206051,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 533819613,
+      "__unknown_productSubTitle": "MAYBELLİNE FİT ME CONCEALER 25",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 847566,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "urun",
+      "productTitle": "Maybelline New York Fit Me Kapatıcı 25 Medium",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1653424915582,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 535655938,
+      "__unknown_productSubTitle": "Maybelline New York Fit Me Kapatıcı 25 Medium",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 847567,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ürünü 3 senedir kullanıyorum çok güzel",
+      "productTitle": "Maybelline New York Fit Me Kapatıcı 25 Medium",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1653130176618,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 535655938,
+      "__unknown_productSubTitle": "Maybelline New York Fit Me Kapatıcı 25 Medium",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 847568,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün kaliteli satıcı hızlı",
+      "productTitle": "Maybelline New York Fit Me Kapatıcı 25 Medium",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1611684800889,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 237811517,
+      "__unknown_productSubTitle": "Maybelline New York Fit Me Kapatıcı 25 Medium",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 847569,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Cok  dogal duruyor",
+      "productTitle": "Maybelline New York Fit Me Kapatıcı 25 Medium",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1588172452316,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 237811517,
+      "__unknown_productSubTitle": "Maybelline New York Fit Me Kapatıcı 25 Medium",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

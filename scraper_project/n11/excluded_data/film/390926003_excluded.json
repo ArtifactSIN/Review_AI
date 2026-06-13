@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 735431,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Billy Elliot Live Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768207522755,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/12/88/04/43/69/34/14/79/27/36/92209001131819512869.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 390926003,
+      "__unknown_productSubTitle": "Billy Elliot Live Blu-Ray",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8241583,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/12/88/04/43/69/34/14/79/27/36/92209001131819512869.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/12/88/04/43/69/34/14/79/27/36/92209001131819512869.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/12/88/04/43/69/34/14/79/27/36/92209001131819512869.png"
+    }
+  }
+]

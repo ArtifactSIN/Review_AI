@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 306131,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "uygun fiyat kaliteli ürün",
+      "productTitle": "Wee Baby Pembe Klasik Cam Biberon Seti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1658944777007,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 543488043,
+      "__unknown_productSubTitle": "Wee Baby Pembe Klasik Cam Biberon Seti Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 306132,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wee Baby Pembe Klasik Cam Biberon Seti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1654020885022,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 543488043,
+      "__unknown_productSubTitle": "Wee Baby Pembe Klasik Cam Biberon Seti Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

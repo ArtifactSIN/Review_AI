@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 7032,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Marvis Ginger Mint +Xylitol Diş Macunu 85 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1746834854406,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649539705,
+      "__unknown_productSubTitle": "Marvis Ginger Mint +Xylitol Diş Macunu 85 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 7033,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Marvis Ginger Mint +Xylitol Diş Macunu 85 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744727526827,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 527420423,
+      "__unknown_productSubTitle": "Marvis Ginger Mint +Xylitol Diş Macunu 85 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 7034,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Marvis Ginger Mint +Xylitol Diş Macunu 85 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734558847466,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 527420423,
+      "__unknown_productSubTitle": "Marvis Ginger Mint +Xylitol Diş Macunu 85 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 7035,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Marvis Ginger Mint +Xylitol Diş Macunu 85 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733524826801,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606581881,
+      "__unknown_productSubTitle": "Marvis Ginger Mint +Xylitol Diş Macunu 85 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 7036,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Marvis Ginger Mint +Xylitol Diş Macunu 85 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727085356549,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/23/87/68/67/35/92/57/11/38/09/47446516479138810844.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606581881,
+      "__unknown_productSubTitle": "Marvis Ginger Mint +Xylitol Diş Macunu 85 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5735261,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/23/87/68/67/35/92/57/11/38/09/47446516479138810844.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/23/87/68/67/35/92/57/11/38/09/47446516479138810844.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/23/87/68/67/35/92/57/11/38/09/47446516479138810844.jpg"
+    }
+  }
+]

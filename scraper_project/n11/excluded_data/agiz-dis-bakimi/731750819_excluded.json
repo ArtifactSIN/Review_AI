@@ -1,0 +1,65 @@
+[
+  {
+    "gid_ref": 31595,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "KALİTELİ",
+      "productTitle": "One Drop Only Dil Temizleyici",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1634808690408,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 487720083,
+      "__unknown_productSubTitle": "One Drop Only Dil Temizleyici Beyaz - Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 31596,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Mükemmel ürün",
+      "productTitle": "One Drop Only Dil Temizleyici",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1634807031015,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 487720083,
+      "__unknown_productSubTitle": "One Drop Only Dil Temizleyici Beyaz - Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 31597,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "kaliteli ürün",
+      "productTitle": "One Drop Only Dil Temizleyici",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1620212697116,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 487720083,
+      "__unknown_productSubTitle": "One Drop Only Dil Temizleyici Beyaz - Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

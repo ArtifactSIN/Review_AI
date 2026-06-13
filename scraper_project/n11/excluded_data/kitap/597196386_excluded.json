@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 811569,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yeni İstanbul A1 Ders Kitabı+Çalışma Kitabı+Karekod",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761086502469,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597196386,
+      "__unknown_productSubTitle": "Yeni İstanbul A1 Ders Kitabı+Çalışma Kitabı+Karekod",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811570,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yeni İstanbul A1 Ders Kitabı+Çalışma Kitabı+Karekod",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760983426167,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/20/59/90/69/71/72/34/10/62/22/73707429704234677576.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597196386,
+      "__unknown_productSubTitle": "Yeni İstanbul A1 Ders Kitabı+Çalışma Kitabı+Karekod",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7824374,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/20/59/90/69/71/72/34/10/62/22/73707429704234677576.png"
+        },
+        {
+          "id": 7824375,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/20/74/44/10/91/38/26/19/31/16/04699387619344956361.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/20/59/90/69/71/72/34/10/62/22/73707429704234677576.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/20/59/90/69/71/72/34/10/62/22/73707429704234677576.png"
+    }
+  }
+]

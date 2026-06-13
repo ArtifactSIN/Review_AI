@@ -1,0 +1,101 @@
+[
+  {
+    "gid_ref": 498219,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mochi Anne Sütü Saklama Poşeti 200 Ml 120 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744996616436,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/18/84/34/18/14/52/79/29/48/21/86702082738718720848.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593348941,
+      "__unknown_productSubTitle": "Mochi Anne Sütü Saklama Poşeti 200 Ml 120 Adet Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7115672,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/18/84/34/18/14/52/79/29/48/21/86702082738718720848.jpg"
+        },
+        {
+          "id": 7115673,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/18/46/34/57/38/75/12/50/57/11/36872164493038630289.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/18/84/34/18/14/52/79/29/48/21/86702082738718720848.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/18/84/34/18/14/52/79/29/48/21/86702082738718720848.jpg"
+    }
+  },
+  {
+    "gid_ref": 498220,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mochi Anne Sütü Saklama Poşeti 200 Ml 120 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732378045524,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593348941,
+      "__unknown_productSubTitle": "Mochi Anne Sütü Saklama Poşeti 200 Ml 120 Adet Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 498221,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mochi Anne Sütü Saklama Poşeti 200 Ml 120 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722634614626,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/03/75/10/15/24/32/74/09/99/49/07413153058210951895.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594231007,
+      "__unknown_productSubTitle": "Mochi Anne Sütü Saklama Poşeti 200 Ml 120 Adet Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5329945,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/03/75/10/15/24/32/74/09/99/49/07413153058210951895.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/03/75/10/15/24/32/74/09/99/49/07413153058210951895.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/03/75/10/15/24/32/74/09/99/49/07413153058210951895.png"
+    }
+  },
+  {
+    "gid_ref": 498222,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mochi Anne Sütü Saklama Poşeti 200 Ml 120 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1700396980081,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585439051,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

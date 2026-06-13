@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 789445,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Stabilo Boss Canlı Renkler Fosforlu Kalem 6'Lı Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758314305734,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572544820,
+      "__unknown_productSubTitle": "Stabilo Boss Canlı Renkler Fosforlu Kalem 6'Lı Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 789446,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Stabilo Boss Canlı Renkler Fosforlu Kalem 6'Lı Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1702548361427,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/12/14/49/91/34/57/56/78/25/82/28/68488247150330727855.png",
+      "__unknown_lastModifiedDate": 1752100915231,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572544820,
+      "__unknown_productSubTitle": "Stabilo Boss Canlı Renkler Fosforlu Kalem 6'Lı Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2837976,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/14/49/91/34/57/56/78/25/82/28/68488247150330727855.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/12/14/49/91/34/57/56/78/25/82/28/68488247150330727855.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/12/14/49/91/34/57/56/78/25/82/28/68488247150330727855.png"
+    }
+  },
+  {
+    "gid_ref": 789447,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Stabilo Boss Canlı Renkler Fosforlu Kalem 6'Lı Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1700854299281,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1752100915231,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572544820,
+      "__unknown_productSubTitle": "Stabilo Boss Canlı Renkler Fosforlu Kalem 6'Lı Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

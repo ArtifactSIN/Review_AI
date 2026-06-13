@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 123770,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Effe Cyber 6000 Olta Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763760476601,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629504616,
+      "__unknown_productSubTitle": "Effe Cyber 6000 Olta Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 123771,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Effe Cyber 6000 Olta Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762277199174,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/04/87/10/33/49/42/47/50/56/13/51403930186588571613.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629504616,
+      "__unknown_productSubTitle": "Effe Cyber 6000 Olta Makinesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7913025,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/04/87/10/33/49/42/47/50/56/13/51403930186588571613.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/04/87/10/33/49/42/47/50/56/13/51403930186588571613.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/04/87/10/33/49/42/47/50/56/13/51403930186588571613.png"
+    }
+  },
+  {
+    "gid_ref": 123772,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Effe Cyber 6000 Olta Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1689710794545,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 344609890,
+      "__unknown_productSubTitle": "Effe Cyber 6000 Olta Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 123773,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Çeker gücü iyi",
+      "productTitle": "Effe Cyber 6000 Olta Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1604599865246,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 312463595,
+      "__unknown_productSubTitle": "Effe Cyber 6000 Olta Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

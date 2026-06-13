@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 496893,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nipplecare Göğüs Ucu Kremi 15 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715011205480,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/06/75/39/33/29/37/71/66/92/41/86969225906648363201.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582596830,
+      "__unknown_productSubTitle": "Nipplecare Göğüs Ucu Kremi 15 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4606957,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/06/75/39/33/29/37/71/66/92/41/86969225906648363201.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/06/75/39/33/29/37/71/66/92/41/86969225906648363201.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/06/75/39/33/29/37/71/66/92/41/86969225906648363201.png"
+    }
+  },
+  {
+    "gid_ref": 496894,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nipplecare Göğüs Ucu Kremi 15 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710497667125,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582596830,
+      "__unknown_productSubTitle": "Nipplecare Göğüs Ucu Kremi 15 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

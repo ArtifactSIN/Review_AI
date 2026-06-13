@@ -1,0 +1,85 @@
+[
+  {
+    "gid_ref": 1285047,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nothing Phone 3a Pro Telefon Kılıfı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775569900228,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/07/76/03/90/72/60/32/80/66/27/66975215252335475471.png",
+      "__unknown_lastModifiedDate": 1775569900228,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733438241,
+      "__unknown_productSubTitle": "Nothing Phone 3a Pro Telefon Kılıfı Seç",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8573244,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/07/76/03/90/72/60/32/80/66/27/66975215252335475471.png"
+        },
+        {
+          "id": 8573245,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/07/58/80/44/61/46/09/76/10/98/39006338327982029408.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/07/76/03/90/72/60/32/80/66/27/66975215252335475471.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/07/76/03/90/72/60/32/80/66/27/66975215252335475471.png"
+    }
+  },
+  {
+    "gid_ref": 1285048,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nothing Phone 3a Pro Telefon Kılıfı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774682054606,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/28/51/20/66/53/35/89/29/53/32/74280431428138545880.png",
+      "__unknown_lastModifiedDate": 1774682054606,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733438241,
+      "__unknown_productSubTitle": "Nothing Phone 3a Pro Telefon Kılıfı Seç",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8524090,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/51/20/66/53/35/89/29/53/32/74280431428138545880.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/28/51/20/66/53/35/89/29/53/32/74280431428138545880.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/28/51/20/66/53/35/89/29/53/32/74280431428138545880.png"
+    }
+  },
+  {
+    "gid_ref": 1285049,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nothing Phone 3a Pro Telefon Kılıfı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773399447095,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773399447095,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733438241,
+      "__unknown_productSubTitle": "Nothing Phone 3a Pro Telefon Kılıfı Seç",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

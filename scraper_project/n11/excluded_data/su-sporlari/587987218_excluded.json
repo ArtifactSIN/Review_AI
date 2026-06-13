@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1163580,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İntex Deniz Yaşamı Desenli Yelek Sarı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719262968350,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1742210935870,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606850907,
+      "__unknown_productSubTitle": "İntex Deniz Yaşamı Desenli Yelek Sarı DUMMY 82568083 1494",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1163581,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İntex Deniz Yaşamı Desenli Yelek",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697318443986,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572866043,
+      "__unknown_productSubTitle": "INT-59661",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1163582,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İntex Deniz Yaşamı Desenli Yelek",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1691473925309,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572866043,
+      "__unknown_productSubTitle": "INT-59661",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

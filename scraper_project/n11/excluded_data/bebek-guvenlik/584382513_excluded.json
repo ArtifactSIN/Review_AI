@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 255773,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyjem Bebek Boyun Koruyucu Yastık Yeşil-9426",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766613073995,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/25/47/58/04/52/10/25/65/36/29/1927592620200539142.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584382513,
+      "__unknown_productSubTitle": "Babyjem Bebek Boyun Koruyucu Yastık Yeşil-9426",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8171951,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/25/47/58/04/52/10/25/65/36/29/1927592620200539142.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/25/47/58/04/52/10/25/65/36/29/1927592620200539142.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/25/47/58/04/52/10/25/65/36/29/1927592620200539142.jpg"
+    }
+  },
+  {
+    "gid_ref": 255774,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyjem Bebek Boyun Koruyucu Yastık Yeşil-9426",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763318252337,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584382513,
+      "__unknown_productSubTitle": "Babyjem Bebek Boyun Koruyucu Yastık Yeşil-9426",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 10789,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Listerine Total Care Diş Koruması 6 Etki 1 Arada Ağız Bakım Suyu 1000 ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772652979677,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575244504,
+      "__unknown_productSubTitle": "Listerine Total Care Diş Koruması 6 Etki 1 Arada Ağız Bakım Suyu 1000 ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 10790,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Listerine Total Care Diş Koruması 6 Etki 1 Arada Ağız Bakım Suyu 1000 ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755795577968,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575244504,
+      "__unknown_productSubTitle": "Listerine Total Care Diş Koruması 6 Etki 1 Arada Ağız Bakım Suyu 1000 ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

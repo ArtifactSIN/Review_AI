@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 932513,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oval Kahve Ve Çay Sunum Tepsi Kelebekli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1776001800959,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1776001800959,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683380888,
+      "__unknown_productSubTitle": "Oval Kahve Ve Çay Sunum Tepsi Kelebekli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 932514,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oval Kahve Ve Çay Sunum Tepsi Kelebekli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772831459447,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/07/59/94/62/38/25/04/03/99/89/53798563585145128566.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683380888,
+      "__unknown_productSubTitle": "Oval Kahve Ve Çay Sunum Tepsi Kelebekli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8440072,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/07/59/94/62/38/25/04/03/99/89/53798563585145128566.jpg"
+        },
+        {
+          "id": 8440073,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/07/72/27/58/05/22/37/45/63/80/03023071442893752736.jpg"
+        },
+        {
+          "id": 8440074,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/07/58/62/41/83/02/71/57/73/81/68885926577782701065.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/07/59/94/62/38/25/04/03/99/89/53798563585145128566.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/07/59/94/62/38/25/04/03/99/89/53798563585145128566.jpg"
+    }
+  },
+  {
+    "gid_ref": 932515,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oval Kahve Ve Çay Sunum Tepsi Kelebekli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770789548827,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/11/85/22/55/66/23/40/38/24/06/73075115118739569857.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683380888,
+      "__unknown_productSubTitle": "Oval Kahve Ve Çay Sunum Tepsi Kelebekli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8346255,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/11/85/22/55/66/23/40/38/24/06/73075115118739569857.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/11/85/22/55/66/23/40/38/24/06/73075115118739569857.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/11/85/22/55/66/23/40/38/24/06/73075115118739569857.png"
+    }
+  },
+  {
+    "gid_ref": 932516,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oval Kahve Ve Çay Sunum Tepsi Kelebekli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770634851535,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683380888,
+      "__unknown_productSubTitle": "Oval Kahve Ve Çay Sunum Tepsi Kelebekli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

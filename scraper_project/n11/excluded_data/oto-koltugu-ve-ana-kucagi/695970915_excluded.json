@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 949664,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Merfbaby Oyuncaklı Ana Kucağı - Kahve - Taşıma Çantalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758391593154,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/20/52/33/74/85/83/46/69/18/65/26118944100693330392.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695970915,
+      "__unknown_productSubTitle": "Merfbaby Oyuncaklı Ana Kucağı - Kahve - Taşıma Çantalı Kahve",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7700592,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/20/52/33/74/85/83/46/69/18/65/26118944100693330392.jpg"
+        },
+        {
+          "id": 7700593,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/20/48/47/97/82/10/32/16/99/29/47939074267639268177.jpg"
+        },
+        {
+          "id": 7700594,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/20/59/19/23/98/89/49/85/34/77/1780605363819334264.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/20/52/33/74/85/83/46/69/18/65/26118944100693330392.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/20/52/33/74/85/83/46/69/18/65/26118944100693330392.jpg"
+    }
+  },
+  {
+    "gid_ref": 949665,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Merfbaby Oyuncaklı Ana Kucağı - Kahve - Taşıma Çantalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758359478033,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695970915,
+      "__unknown_productSubTitle": "Merfbaby Oyuncaklı Ana Kucağı - Kahve - Taşıma Çantalı Kahve",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 949666,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Merfbaby Oyuncaklı Ana Kucağı - Kahve - Taşıma Çantalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756829261218,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/02/60/58/12/33/48/30/85/16/96/24841836469502588866.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695970915,
+      "__unknown_productSubTitle": "Merfbaby Oyuncaklı Ana Kucağı - Kahve - Taşıma Çantalı Kahve",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7625394,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/02/60/58/12/33/48/30/85/16/96/24841836469502588866.jpg"
+        },
+        {
+          "id": 7625395,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/02/82/49/81/26/27/20/41/55/97/48255384504298945951.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/02/60/58/12/33/48/30/85/16/96/24841836469502588866.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/02/60/58/12/33/48/30/85/16/96/24841836469502588866.jpg"
+    }
+  }
+]

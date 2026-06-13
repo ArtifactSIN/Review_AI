@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 1057709,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Excellence Creme Saç Boyası 8 Koyu Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769517542489,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645402911,
+      "__unknown_productSubTitle": "L'Oreal Paris Excellence Creme Saç Boyası 8 Koyu Sarı 8 Koyu Sarı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1057710,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Excellence Creme Saç Boyası 8 Koyu Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759990689090,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645402911,
+      "__unknown_productSubTitle": "L'Oreal Paris Excellence Creme Saç Boyası 8 Koyu Sarı 8 Koyu Sarı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1057711,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Excellence Creme Saç Boyası 8 Koyu Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759830741829,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645402911,
+      "__unknown_productSubTitle": "L'Oreal Paris Excellence Creme Saç Boyası 8 Koyu Sarı 8 Koyu Sarı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1057712,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Excellence Creme Saç Boyası 8 Koyu Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755005037207,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/12/51/63/82/35/42/94/21/78/95/61306469439457968021.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645402911,
+      "__unknown_productSubTitle": "L'Oreal Paris Excellence Creme Saç Boyası 8 Koyu Sarı 8 Koyu Sarı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7551409,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/12/51/63/82/35/42/94/21/78/95/61306469439457968021.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/12/51/63/82/35/42/94/21/78/95/61306469439457968021.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/12/51/63/82/35/42/94/21/78/95/61306469439457968021.png"
+    }
+  }
+]

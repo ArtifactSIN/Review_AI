@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 1340024,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Silent Hill 2 Remake PS5 Oyun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750763924233,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1752647457619,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639809334,
+      "__unknown_productSubTitle": "Silent Hill 2 Remake PS5 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1340025,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Silent Hill 2 Remake PS5 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744044445946,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/07/50/03/27/63/09/17/41/43/61/36864369632793899597.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 660676075,
+      "__unknown_productSubTitle": "Silent Hill 2 Remake PS5 Oyun",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7069458,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/07/80/48/87/64/60/04/48/20/00/05510185268672612932.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/07/50/03/27/63/09/17/41/43/61/36864369632793899597.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/07/50/03/27/63/09/17/41/43/61/36864369632793899597.png"
+    }
+  },
+  {
+    "gid_ref": 1340026,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Silent Hill 2 Remake PS5 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732874659919,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643855008,
+      "__unknown_productSubTitle": "Silent Hill 2 Remake PS5 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1340027,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Silent Hill 2 Remake PS5 Oyun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730456634970,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/01/82/26/09/19/92/42/60/83/83/42667756684697486064.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639809334,
+      "__unknown_productSubTitle": "Silent Hill 2 Remake PS5 Oyun",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6086075,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/01/82/26/09/19/92/42/60/83/83/42667756684697486064.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/01/82/26/09/19/92/42/60/83/83/42667756684697486064.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/01/82/26/09/19/92/42/60/83/83/42667756684697486064.png"
+    }
+  }
+]

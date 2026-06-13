@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 1161192,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Asics 1012b770-003 Gel-sonoma 8 Gtx Kadın Koşu Ayakkabısı Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774692701103,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774692701103,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 697374817,
+      "__unknown_productSubTitle": "Asics 1012b770-003 Gel-sonoma 8 Gtx Kadın Koşu Ayakkabısı Siyah 39",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161193,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Asics 1012b770-003 Gel-sonoma 8 Gtx Kadın Koşu Ayakkabısı Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773926782057,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773926782057,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 697374804,
+      "__unknown_productSubTitle": "Asics 1012b770-003 Gel-sonoma 8 Gtx Kadın Koşu Ayakkabısı Siyah 39.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

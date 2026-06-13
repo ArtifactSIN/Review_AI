@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 762472,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Orkid Deofresh Eko Korumalı Günlük Ped 40'lı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1740593932794,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/26/57/47/72/44/72/88/34/10/39/26430648283199418499.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561357345,
+      "__unknown_productSubTitle": "Orkid Deofresh Eko Korumalı Günlük Ped 40'lı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6895868,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/26/57/47/72/44/72/88/34/10/39/26430648283199418499.png"
+        },
+        {
+          "id": 6895869,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/26/82/19/67/83/32/90/20/00/14/82545583010400680902.png"
+        },
+        {
+          "id": 6895870,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/26/87/40/16/56/78/73/07/03/12/84778627595422118867.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/26/57/47/72/44/72/88/34/10/39/26430648283199418499.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/26/57/47/72/44/72/88/34/10/39/26430648283199418499.png"
+    }
+  },
+  {
+    "gid_ref": 762473,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Orkid Deofresh Eko Korumalı Günlük Ped 40'lı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1707724994581,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 547843023,
+      "__unknown_productSubTitle": "Orkid Deofresh Eko Korumalı Günlük Ped 40'lı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

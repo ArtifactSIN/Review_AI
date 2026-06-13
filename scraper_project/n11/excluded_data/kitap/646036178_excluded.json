@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 814595,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fenomen 6 Paragraf Soru Bankası A",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768327078968,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646036178,
+      "__unknown_productSubTitle": "Fenomen 6 Paragraf Soru Bankası A",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 814596,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fenomen 6 Paragraf Soru Bankası A",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766076580710,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/18/81/19/23/58/22/24/92/77/24/61351281215600112343.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646036178,
+      "__unknown_productSubTitle": "Fenomen 6 Paragraf Soru Bankası A",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8140410,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/18/81/19/23/58/22/24/92/77/24/61351281215600112343.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/18/81/19/23/58/22/24/92/77/24/61351281215600112343.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/18/81/19/23/58/22/24/92/77/24/61351281215600112343.png"
+    }
+  }
+]

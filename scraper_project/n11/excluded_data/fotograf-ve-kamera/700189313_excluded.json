@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 752432,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xtar Vc4 Universal Pil  Şarj Cihazı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765648833644,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/13/61/66/29/33/44/15/87/08/62/64380836691168347734.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 428981868,
+      "__unknown_productSubTitle": "Xtar Vc4 Universal Pil  Şarj Cihazı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8114467,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/13/61/66/29/33/44/15/87/08/62/64380836691168347734.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/13/61/66/29/33/44/15/87/08/62/64380836691168347734.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/13/61/66/29/33/44/15/87/08/62/64380836691168347734.png"
+    }
+  },
+  {
+    "gid_ref": 752433,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel",
+      "productTitle": "Xtar Vc4 Universal Pil  Şarj Cihazı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1604575636937,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 428981868,
+      "__unknown_productSubTitle": "Xtar Vc4 Universal Pil  Şarj Cihazı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

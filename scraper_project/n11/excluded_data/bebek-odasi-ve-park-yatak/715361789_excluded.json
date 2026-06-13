@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 264413,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ahşap Çocuk & Bebek Salıncağı Gri Renk Minder Yastık Ve Diş Halkalı Tavan Salıncak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770648657107,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/09/85/16/89/07/45/58/62/41/98/73523318091724403908.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 715361789,
+      "__unknown_productSubTitle": "Ahşap Çocuk & Bebek Salıncağı Gri Renk Minder Yastık Ve Diş Halkalı Tavan Salıncak Açık Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8338367,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/09/85/16/89/07/45/58/62/41/98/73523318091724403908.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/09/85/16/89/07/45/58/62/41/98/73523318091724403908.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/09/85/16/89/07/45/58/62/41/98/73523318091724403908.jpg"
+    }
+  },
+  {
+    "gid_ref": 264414,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ahşap Çocuk & Bebek Salıncağı Gri Renk Minder Yastık Ve Diş Halkalı Tavan Salıncak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765302856804,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 715361789,
+      "__unknown_productSubTitle": "Ahşap Çocuk & Bebek Salıncağı Gri Renk Minder Yastık Ve Diş Halkalı Tavan Salıncak Açık Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

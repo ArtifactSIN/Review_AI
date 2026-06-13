@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 188713,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Weleda Baby Calendula Bebek Yağı 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724679411632,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585349877,
+      "__unknown_productSubTitle": "Weleda Baby Calendula Bebek Yağı 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 188714,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Weleda Baby Calendula Bebek Yağı 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1677831109704,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524682792,
+      "__unknown_productSubTitle": "Weleda Baby Calendula Bebek Yağı 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

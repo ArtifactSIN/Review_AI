@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 761537,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Venus Smooth Tıraş Bıçağı Yedeği 8'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758287909476,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664128817,
+      "__unknown_productSubTitle": "Gillette Venus Smooth Tıraş Bıçağı Yedeği 8'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 761538,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Venus Smooth Tıraş Bıçağı Yedeği 8'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757062896644,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641030528,
+      "__unknown_productSubTitle": "Gillette Venus Smooth Tıraş Bıçağı Yedeği 8'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 761539,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Venus Smooth Tıraş Bıçağı Yedeği 8'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734771978586,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641030528,
+      "__unknown_productSubTitle": "Gillette Venus Smooth Tıraş Bıçağı Yedeği 8'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

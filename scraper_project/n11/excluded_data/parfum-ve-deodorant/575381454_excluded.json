@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 999313,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hugo Boss Hugo Man Erkek Parfümü EDT 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765755470823,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 544235670,
+      "__unknown_productSubTitle": "Hugo Boss Hugo Man Erkek Parfümü EDT 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 999314,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hugo Boss Hugo Man Erkek Parfümü EDT 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1757934722217,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/15/67/15/85/11/39/06/60/61/23/65442246298218575907.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 564871989,
+      "__unknown_productSubTitle": "Hugo Boss Hugo Man Erkek Parfümü EDT 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7679745,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/15/88/38/13/14/60/55/66/52/91/61342021484910785353.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/15/67/15/85/11/39/06/60/61/23/65442246298218575907.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/15/67/15/85/11/39/06/60/61/23/65442246298218575907.png"
+    }
+  },
+  {
+    "gid_ref": 999315,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hugo Boss Hugo Man Erkek Parfümü EDT 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750670634404,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 544235670,
+      "__unknown_productSubTitle": "Hugo Boss Hugo Man Erkek Parfümü EDT 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 999316,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hugo Boss Hugo Man Erkek Parfümü EDT 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726269048570,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 544235670,
+      "__unknown_productSubTitle": "Hugo Boss Hugo Man Erkek Parfümü EDT 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

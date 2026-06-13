@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 259797,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Heyner 60 x 120 Bamboo Visco Oyun Parkı Yatağı 60*120 Visco Yatak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1552064406217,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 234651449,
+      "__unknown_productSubTitle": "Heyner 60 x 120 Bamboo Visco Oyun Parkı Yatağı 60*120 Visco Yatak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 259798,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HEYNER 60X120 BAMBOO VİSCO OYUN PARKI YATAĞI 60*120 VİSCO YATAK",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1517745966113,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 227415220,
+      "__unknown_productSubTitle": "60X120 OYUN PARKI YATAĞI HEYNER BAMBOO VİSCO BEBEK YATAĞI 60*120",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

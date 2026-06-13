@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1285914,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple MEUX4TU/A Watch Series 11 Gps 46 MM Akıllı Saat (Distribütör Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765613176777,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/13/53/54/16/32/98/28/56/23/80/07342378708474744517.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 723484738,
+      "__unknown_productSubTitle": "Apple MEUX4TU/A Watch Series 11 Gps 46 MM Akıllı Saat (Distribütör Garantili) Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8117401,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/13/53/54/16/32/98/28/56/23/80/07342378708474744517.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/13/53/54/16/32/98/28/56/23/80/07342378708474744517.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/13/53/54/16/32/98/28/56/23/80/07342378708474744517.jpg"
+    }
+  },
+  {
+    "gid_ref": 1285915,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple MEUX4TU/A Watch Series 11 Gps 46 MM Akıllı Saat (Distribütör Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765387572603,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 723484738,
+      "__unknown_productSubTitle": "Apple MEUX4TU/A Watch Series 11 Gps 46 MM Akıllı Saat (Distribütör Garantili) Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

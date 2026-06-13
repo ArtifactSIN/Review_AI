@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 892633,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bajaj Dominar 250-400 Ön Siperlik Tur Camı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760265567146,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/12/68/09/02/18/73/73/30/43/67/43033986767215804797.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634761114,
+      "__unknown_productSubTitle": "Bajaj Dominar 250-400 Ön Siperlik Tur Camı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7786742,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/12/68/09/02/18/73/73/30/43/67/43033986767215804797.png"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/12/68/09/02/18/73/73/30/43/67/43033986767215804797.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/12/68/09/02/18/73/73/30/43/67/43033986767215804797.png"
+    }
+  },
+  {
+    "gid_ref": 892634,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bajaj Dominar 250-400 Ön Siperlik Tur Camı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756752904386,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634761114,
+      "__unknown_productSubTitle": "Bajaj Dominar 250-400 Ön Siperlik Tur Camı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 892635,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bajaj Dominar 250-400 Ön Siperlik Tur Camı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745397870654,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634761114,
+      "__unknown_productSubTitle": "Bajaj Dominar 250-400 Ön Siperlik Tur Camı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

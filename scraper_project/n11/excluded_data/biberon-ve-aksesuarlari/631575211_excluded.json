@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 308277,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hanymish Biberon Temizleme",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730734078173,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/04/92/08/02/79/23/39/39/24/65/54991341716623413070.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631575211,
+      "__unknown_productSubTitle": "Hanymish Biberon Temizleme Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6124335,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/04/92/08/02/79/23/39/39/24/65/54991341716623413070.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/04/92/08/02/79/23/39/39/24/65/54991341716623413070.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/04/92/08/02/79/23/39/39/24/65/54991341716623413070.png"
+    }
+  }
+]

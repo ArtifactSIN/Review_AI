@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 577280,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Little Big Ltb Fowenı Düz Paça Antrasit Eşofman Altı Antrasit",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775133876708,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/02/85/18/06/06/69/90/90/79/55/4788698560043499594.png",
+      "__unknown_lastModifiedDate": 1775133876708,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719810592,
+      "__unknown_productSubTitle": "Little Big Ltb Fowenı Düz Paça Antrasit Eşofman Altı Antrasit 2XL",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8562275,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/85/18/06/06/69/90/90/79/55/4788698560043499594.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/02/85/18/06/06/69/90/90/79/55/4788698560043499594.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/02/85/18/06/06/69/90/90/79/55/4788698560043499594.png"
+    }
+  },
+  {
+    "gid_ref": 577281,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Little Big Ltb Fowenı Düz Paça Antrasit Eşofman Altı Antrasit",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775060426532,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775060426532,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719810594,
+      "__unknown_productSubTitle": "Little Big Ltb Fowenı Düz Paça Antrasit Eşofman Altı Antrasit M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

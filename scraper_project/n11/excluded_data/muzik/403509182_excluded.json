@@ -1,0 +1,133 @@
+[
+  {
+    "gid_ref": 944208,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alice Tırnak Penası Numaralı 5 Adet Set Olarak Gönderilecektir",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721585949805,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 403509182,
+      "__unknown_productSubTitle": "Alice Tırnak Penası Numaralı 5 Adet Set Olarak Gönderilecektir",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 944209,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alice Tırnak Penası Numaralı 5 Adet Set Olarak Gönderilecektir",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1678081779039,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 403509182,
+      "__unknown_productSubTitle": "Alice Tırnak Penası Numaralı 5 Adet Set Olarak Gönderilecektir",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 944210,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alice Tırnak Penası Numaralı 5 Adet Set Olarak Gönderilecektir",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1635335204148,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 403509182,
+      "__unknown_productSubTitle": "Alice Tırnak Penası Numaralı 5 Adet Set Olarak Gönderilecektir",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 944211,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Alışmak lazım...",
+      "productTitle": "Alice Tırnak Penası Numaralı 5 Adet Set Olarak Gönderilecektir",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1628073212482,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/21/08/04/91/47/21/98/22/04/90/64/58/17907413176006757535.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 403509182,
+      "__unknown_productSubTitle": "Alice Tırnak Penası Numaralı 5 Adet Set Olarak Gönderilecektir",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2994062,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/21/08/04/91/47/21/98/22/04/90/64/58/17907413176006757535.jpeg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/21/08/04/91/47/21/98/22/04/90/64/58/17907413176006757535.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/21/08/04/91/47/21/98/22/04/90/64/58/17907413176006757535.jpeg"
+    }
+  },
+  {
+    "gid_ref": 944212,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Başarılı",
+      "productTitle": "Alice Tırnak Penası Numaralı 5 Adet Set Olarak Gönderilecektir",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1620045309356,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 403509182,
+      "__unknown_productSubTitle": "Alice Tırnak Penası Numaralı 5 Adet Set Olarak Gönderilecektir",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 944213,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Çok kullanışsız bir ürün",
+      "productTitle": "Alice Tırnak Penası Numaralı 5 Adet Set Olarak Gönderilecektir",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1599488202389,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 403509182,
+      "__unknown_productSubTitle": "Alice Tırnak Penası Numaralı 5 Adet Set Olarak Gönderilecektir",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

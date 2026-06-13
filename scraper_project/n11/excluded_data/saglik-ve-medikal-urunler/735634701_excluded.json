@@ -1,0 +1,103 @@
+[
+  {
+    "gid_ref": 1143542,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Assos Pikassos 45 Tablet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775505818872,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775505818872,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 735634701,
+      "__unknown_productSubTitle": "Assos Pikassos 45 Tablet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1143543,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Assos Pikassos 45 Tablet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762936444685,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668428096,
+      "__unknown_productSubTitle": "Assos Pikassos 45 Tablet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1143544,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Assos Pikassos 45 Tablet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762936431134,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668428096,
+      "__unknown_productSubTitle": "Assos Pikassos 45 Tablet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1143545,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Assos Pikassos 45 Tablet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762936411953,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668428096,
+      "__unknown_productSubTitle": "Assos Pikassos 45 Tablet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1143546,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Assos Pikassos 45 Tablet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725287051649,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628657815,
+      "__unknown_productSubTitle": "Assos Pikassos 45 Tablet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 815250,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "4. Sınıf Turbo Paket Deneme",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773279928692,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773279928692,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654257798,
+      "__unknown_productSubTitle": "4. Sınıf Turbo Paket Deneme",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 815251,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "4. Sınıf Turbo Paket Deneme",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763966475828,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654257798,
+      "__unknown_productSubTitle": "4. Sınıf Turbo Paket Deneme",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 815252,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "4. Sınıf Turbo Paket Deneme",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1714485161162,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/30/75/94/59/62/84/99/59/28/17/65588467569767921776.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589524471,
+      "__unknown_productSubTitle": "4. Sınıf Turbo Paket Deneme",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4501265,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/30/75/94/59/62/84/99/59/28/17/65588467569767921776.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/30/75/94/59/62/84/99/59/28/17/65588467569767921776.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/30/75/94/59/62/84/99/59/28/17/65588467569767921776.jpg"
+    }
+  }
+]

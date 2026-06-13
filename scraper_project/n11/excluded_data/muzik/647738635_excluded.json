@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 946724,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "BEHRINGER DI-20 DI BOX",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737624263599,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/23/58/93/06/82/38/65/80/05/78/75411739190796599057.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647738635,
+      "__unknown_productSubTitle": "BEHRINGER DI-20 DI BOX ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6732875,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/23/58/93/06/82/38/65/80/05/78/75411739190796599057.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/23/58/93/06/82/38/65/80/05/78/75411739190796599057.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/23/58/93/06/82/38/65/80/05/78/75411739190796599057.jpg"
+    }
+  }
+]

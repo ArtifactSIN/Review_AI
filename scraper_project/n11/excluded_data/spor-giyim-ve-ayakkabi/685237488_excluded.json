@@ -1,0 +1,106 @@
+[
+  {
+    "gid_ref": 1161018,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Slazenger MIRAGE I Büyük Beden Erkek  Beyaz Koşu & Yürüyüş Spor Ayakkabısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764848681105,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 685237487,
+      "__unknown_productSubTitle": "Slazenger MIRAGE I Büyük Beden Erkek  Beyaz Koşu & Yürüyüş Spor Ayakkabısı   46",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161019,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Slazenger MIRAGE I Büyük Beden Erkek  Beyaz Koşu & Yürüyüş Spor Ayakkabısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764232984811,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/27/67/79/71/10/23/57/84/50/60/83702283266295286297.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 685237487,
+      "__unknown_productSubTitle": "Slazenger MIRAGE I Büyük Beden Erkek  Beyaz Koşu & Yürüyüş Spor Ayakkabısı   46",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8036252,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/27/67/79/71/10/23/57/84/50/60/83702283266295286297.png"
+        },
+        {
+          "id": 8036253,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/27/77/82/85/12/25/15/86/93/08/6328922981538678138.png"
+        },
+        {
+          "id": 8036254,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/27/52/91/26/81/48/06/58/72/02/16132598411788989135.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/27/67/79/71/10/23/57/84/50/60/83702283266295286297.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/27/67/79/71/10/23/57/84/50/60/83702283266295286297.png"
+    }
+  },
+  {
+    "gid_ref": 1161020,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Slazenger MIRAGE I Büyük Beden Erkek  Beyaz Koşu & Yürüyüş Spor Ayakkabısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761996062237,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/01/62/87/98/71/94/04/72/94/40/22736655487181370420.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 685237487,
+      "__unknown_productSubTitle": "Slazenger MIRAGE I Büyük Beden Erkek  Beyaz Koşu & Yürüyüş Spor Ayakkabısı   46",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7903956,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/01/62/87/98/71/94/04/72/94/40/22736655487181370420.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/01/62/87/98/71/94/04/72/94/40/22736655487181370420.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/01/62/87/98/71/94/04/72/94/40/22736655487181370420.jpg"
+    }
+  },
+  {
+    "gid_ref": 1161021,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Slazenger MIRAGE I Büyük Beden Erkek  Beyaz Koşu & Yürüyüş Spor Ayakkabısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757503139664,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 685237485,
+      "__unknown_productSubTitle": "Slazenger MIRAGE I Büyük Beden Erkek  Beyaz Koşu & Yürüyüş Spor Ayakkabısı   45",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

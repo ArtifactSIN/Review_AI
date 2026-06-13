@@ -1,0 +1,135 @@
+[
+  {
+    "gid_ref": 1281660,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy Z Fold7 512 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772126808100,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 728805916,
+      "__unknown_productSubTitle": "Samsung Galaxy Z Fold7 512 GB (Samsung Türkiye Garantili) Gece Siyahı 512 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1281661,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy Z Fold7 512 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765963782334,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/17/90/95/92/86/74/70/27/13/50/64829682626381133406.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700004797,
+      "__unknown_productSubTitle": "Samsung Galaxy Z Fold7 512 GB (Samsung Türkiye Garantili) Gölge Mavisi 512 GB",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8121442,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/17/90/95/92/86/74/70/27/13/50/64829682626381133406.png"
+        },
+        {
+          "id": 8121443,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/17/57/04/68/35/12/00/16/94/32/55506041057747945438.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/17/90/95/92/86/74/70/27/13/50/64829682626381133406.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/17/90/95/92/86/74/70/27/13/50/64829682626381133406.png"
+    }
+  },
+  {
+    "gid_ref": 1281662,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy Z Fold7 512 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765196464446,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 687779636,
+      "__unknown_productSubTitle": "Samsung Galaxy Z Fold7 512 GB (Samsung Türkiye Garantili) Gece Siyahı 512 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1281663,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy Z Fold7 512 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764778113768,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 687779636,
+      "__unknown_productSubTitle": "Samsung Galaxy Z Fold7 512 GB (Samsung Türkiye Garantili) Gece Siyahı 512 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1281664,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy Z Fold7 512 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764570290620,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 687779620,
+      "__unknown_productSubTitle": "Samsung Galaxy Z Fold7 512 GB (Samsung Türkiye Garantili) Gölge Mavisi 512 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1281665,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy Z Fold7 512 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1759097216012,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 687779636,
+      "__unknown_productSubTitle": "Samsung Galaxy Z Fold7 512 GB (Samsung Türkiye Garantili) Gece Siyahı 512 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

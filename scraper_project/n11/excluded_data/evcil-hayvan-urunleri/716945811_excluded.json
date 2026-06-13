@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 720596,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prosport Yetişkin Karışık Kedi Konserve Maması",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766255418806,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/20/65/61/76/07/48/45/14/05/42/88588008103898037712.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 716945811,
+      "__unknown_productSubTitle": "Prosport Yetişkin Karışık Kedi Konserve Maması ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8148719,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/20/65/61/76/07/48/45/14/05/42/88588008103898037712.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/20/65/61/76/07/48/45/14/05/42/88588008103898037712.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/20/65/61/76/07/48/45/14/05/42/88588008103898037712.png"
+    }
+  },
+  {
+    "gid_ref": 720597,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prosport Yetişkin Karışık Kedi Konserve Maması",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764329523417,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 716945811,
+      "__unknown_productSubTitle": "Prosport Yetişkin Karışık Kedi Konserve Maması ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 720598,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prosport Yetişkin Karışık Kedi Konserve Maması",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762804265568,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 716945811,
+      "__unknown_productSubTitle": "Prosport Yetişkin Karışık Kedi Konserve Maması ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

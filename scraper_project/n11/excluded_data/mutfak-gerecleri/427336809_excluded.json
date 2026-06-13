@@ -1,0 +1,84 @@
+[
+  {
+    "gid_ref": 906919,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zwilling  Aircontrol Düdüklü Tencere 4 LT",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774367692900,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774367692900,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734981352,
+      "__unknown_productSubTitle": "Zwilling  Aircontrol Düdüklü Tencere 4 LT",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 906920,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zwilling  Aircontrol Düdüklü Tencere 4 LT",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767295371462,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 427336809,
+      "__unknown_productSubTitle": "Zwilling  Aircontrol Düdüklü Tencere 4 LT",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 906921,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zwilling  Aircontrol Düdüklü Tencere 4 LT",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763482969069,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653860785,
+      "__unknown_productSubTitle": "Zwilling  Aircontrol Düdüklü Tencere 4 LT",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 906922,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zwilling  Aircontrol Düdüklü Tencere 4 LT",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763482880030,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 427336809,
+      "__unknown_productSubTitle": "Zwilling  Aircontrol Düdüklü Tencere 4 LT",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

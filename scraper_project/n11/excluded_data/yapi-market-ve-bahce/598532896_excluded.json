@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 1379327,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "urun 1 bucuk ayda ariza yapdi koş pesine ki yapilsin yada deyisim olsun isitmiyor",
+      "productTitle": "Bosch Professional GHG 20-60 Çok Yönlü Sıcak Hava Tabancası - 06012A6400",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1657311841017,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 295568549,
+      "__unknown_productSubTitle": "Bosch Professional GHG 20-60 Çok Yönlü Sıcak Hava Tabancası - 06012A6400",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1379328,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "orjinal",
+      "productTitle": "Bosch Professional GHG 20-60 Çok Yönlü Sıcak Hava Tabancası - 06012A6400",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1601316016336,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 340947461,
+      "__unknown_productSubTitle": "Bosch Professional GHG 20-60 Çok Yönlü Sıcak Hava Tabancası - 06012A6400",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

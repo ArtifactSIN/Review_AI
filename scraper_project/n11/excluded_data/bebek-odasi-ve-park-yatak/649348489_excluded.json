@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 263358,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kraft Comfort Oyun Parkı Yatağı Sünger10 cm 70x120 cm 74464YKS2SS1",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763372367495,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 696228255,
+      "__unknown_productSubTitle": "Kraft Comfort Oyun Parkı Yatağı Sünger10 cm 70x120 cm 74464YKS2SS1 Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 263359,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kraft Comfort Oyun Parkı Yatağı Sünger10 cm 70x120 cm 74464YKS2SS1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758923028858,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/27/50/33/62/05/40/55/23/55/19/92591683453911480876.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649348489,
+      "__unknown_productSubTitle": "Kraft Comfort Oyun Parkı Yatağı Sünger10 cm 70x120 cm 74464YKS2SS1 Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7730412,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/27/50/33/62/05/40/55/23/55/19/92591683453911480876.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/27/50/33/62/05/40/55/23/55/19/92591683453911480876.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/27/50/33/62/05/40/55/23/55/19/92591683453911480876.png"
+    }
+  }
+]

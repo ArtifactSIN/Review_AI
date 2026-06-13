@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1090185,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Redoxon Pro 15 Efervesan Tablet 3 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764934092052,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600220285,
+      "__unknown_productSubTitle": "Redoxon Pro 15 Efervesan Tablet 3 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1090186,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Redoxon Pro 15 Efervesan Tablet 3 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708877806911,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/25/82/51/47/33/00/61/71/42/75/28077044907894619438.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595204549,
+      "__unknown_productSubTitle": "Redoxon Pro 15 Efervesan Tablet 3 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3979242,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/25/82/51/47/33/00/61/71/42/75/28077044907894619438.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/25/82/51/47/33/00/61/71/42/75/28077044907894619438.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/25/82/51/47/33/00/61/71/42/75/28077044907894619438.jpg"
+    }
+  }
+]

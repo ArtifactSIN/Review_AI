@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 530499,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Marcham Beard Sakal Serumu 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733996552793,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1738857615503,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 532547189,
+      "__unknown_productSubTitle": "Marcham Beard Sakal Serumu 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 530500,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Marcham Beard Sakal Serumu 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730022949798,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 293410250,
+      "__unknown_productSubTitle": "Aynı Gün ÜCRETSİZ Kargo..!",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 530501,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Marcham Beard Sakal Serumu 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1723199008722,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/09/88/91/20/95/13/98/57/30/86/931017182303111881.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 465057274,
+      "__unknown_productSubTitle": "Marcham Beard Sakal Serumu 50 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5377158,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/09/88/91/20/95/13/98/57/30/86/931017182303111881.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/09/88/91/20/95/13/98/57/30/86/931017182303111881.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/09/88/91/20/95/13/98/57/30/86/931017182303111881.png"
+    }
+  },
+  {
+    "gid_ref": 530502,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Marcham Beard Sakal Serumu 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713608513253,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/20/60/74/89/50/62/59/67/84/19/93841816713419798351.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 465057274,
+      "__unknown_productSubTitle": "Marcham Beard Sakal Serumu 50 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4463433,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/20/60/74/89/50/62/59/67/84/19/93841816713419798351.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/20/60/74/89/50/62/59/67/84/19/93841816713419798351.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/20/60/74/89/50/62/59/67/84/19/93841816713419798351.png"
+    }
+  }
+]

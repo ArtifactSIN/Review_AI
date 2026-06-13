@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 753365,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hydra Cobalt 2277/6.5 Berber Makası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767983995287,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 564149617,
+      "__unknown_productSubTitle": "Tarko Hydra Cobalt 2277/6.5 Berber Makası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 753366,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hydra Cobalt 2277/6.5 Berber Makası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1691751806494,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/08/11/68/31/06/56/89/64/26/12/30/66262107114807119352.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 564149617,
+      "__unknown_productSubTitle": "Tarko Hydra Cobalt 2277/6.5 Berber Makası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2266028,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/08/11/82/92/40/54/27/99/57/25/55/81959625249959330521.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/08/11/68/31/06/56/89/64/26/12/30/66262107114807119352.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/08/11/68/31/06/56/89/64/26/12/30/66262107114807119352.png"
+    }
+  },
+  {
+    "gid_ref": 753367,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hydra Cobalt 2277/6.5 Berber Makası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1689272310486,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 564149617,
+      "__unknown_productSubTitle": "Tarko Hydra Cobalt 2277/6.5 Berber Makası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 753368,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hydra Cobalt 2277/6.5 Berber Makası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1661102576257,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 547892620,
+      "__unknown_productSubTitle": "Hydra Cobalt 2277/6.5 Berber Makası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

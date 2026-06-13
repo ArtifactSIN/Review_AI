@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 814177,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Son Savaş Kurtuluş 10 Lu Hikaye Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758913699428,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/26/46/17/31/77/81/01/99/12/41/61373724611233661281.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640925781,
+      "__unknown_productSubTitle": "Son Savaş Kurtuluş 10 Lu Hikaye Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7732212,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/26/46/17/31/77/81/01/99/12/41/61373724611233661281.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/26/46/17/31/77/81/01/99/12/41/61373724611233661281.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/26/46/17/31/77/81/01/99/12/41/61373724611233661281.png"
+    }
+  },
+  {
+    "gid_ref": 814178,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Son Savaş Kurtuluş 10 Lu Hikaye Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737148381919,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/18/62/16/97/34/15/17/77/48/69/81868632671412993797.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640925781,
+      "__unknown_productSubTitle": "Son Savaş Kurtuluş 10 Lu Hikaye Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6720164,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/18/62/16/97/34/15/17/77/48/69/81868632671412993797.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/18/62/16/97/34/15/17/77/48/69/81868632671412993797.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/18/62/16/97/34/15/17/77/48/69/81868632671412993797.png"
+    }
+  },
+  {
+    "gid_ref": 814179,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Son Savaş Kurtuluş 10 Lu Hikaye Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731424754955,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1731424958392,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640925781,
+      "__unknown_productSubTitle": "Son Savaş Kurtuluş 10 Lu Hikaye Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

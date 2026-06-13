@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 124219,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Remixon Spider Deluxe Serisi 1000M Monofilament Misina (378082800)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774369667976,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/24/83/81/92/27/95/91/49/99/56/77373116982492218622.jpg",
+      "__unknown_lastModifiedDate": 1774369667976,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654361516,
+      "__unknown_productSubTitle": "Remixon Spider Deluxe Serisi 1000M Monofilament Misina (378082800)-0,30Mm",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8499516,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/24/83/81/92/27/95/91/49/99/56/77373116982492218622.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/24/83/81/92/27/95/91/49/99/56/77373116982492218622.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/24/83/81/92/27/95/91/49/99/56/77373116982492218622.jpg"
+    }
+  },
+  {
+    "gid_ref": 124220,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Remixon Spider Deluxe Serisi 1000M Monofilament Misina (378082800)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1687540008332,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 563514597,
+      "__unknown_productSubTitle": "0,45mm misina 1000mt",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

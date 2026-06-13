@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 378985,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Buzz Rack Colibri Tek Bisikletlik Taşıma Aparatı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763441376195,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/18/79/31/46/85/98/56/45/92/41/0797592430852751214.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 547614516,
+      "__unknown_productSubTitle": "Buzz Rack Colibri Tek Bisikletlik Taşıma Aparatı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7965722,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/18/79/31/46/85/98/56/45/92/41/0797592430852751214.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/18/79/31/46/85/98/56/45/92/41/0797592430852751214.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/18/79/31/46/85/98/56/45/92/41/0797592430852751214.jpg"
+    }
+  },
+  {
+    "gid_ref": 378986,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Buzz Rack Colibri Tek Bisikletlik Taşıma Aparatı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1682523671836,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 547614516,
+      "__unknown_productSubTitle": "Buzz Rack Colibri Tek Bisikletlik Taşıma Aparatı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

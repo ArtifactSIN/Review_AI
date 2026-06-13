@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 396391,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rondo Vario - Metal Kutu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772043037598,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639444481,
+      "__unknown_productSubTitle": "Rondo Vario - Metal Kutu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 396392,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "rondo vario ",
+      "productTitle": "Rondo Vario - Metal Kutu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1642164361056,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 514255811,
+      "__unknown_productSubTitle": "Rondo Vario - Metal Kutu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

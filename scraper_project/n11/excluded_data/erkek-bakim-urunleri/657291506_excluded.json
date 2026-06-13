@@ -1,0 +1,41 @@
+[
+  {
+    "gid_ref": 528549,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-1058 Tıraş Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766764312348,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606598170,
+      "__unknown_productSubTitle": "Powertec TR-1058 Tıraş Makinesi Altın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 528550,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-1058 Tıraş Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1761502025195,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590675352,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

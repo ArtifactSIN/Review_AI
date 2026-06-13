@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 737714,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kingsize Nutrition Arginine Powder 765 Gr",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1708155419996,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/17/50/70/93/50/99/13/34/44/11/31446055569143480237.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 467676849,
+      "__unknown_productSubTitle": "Kingsize Nutrition Arginine Powder 765 Gr",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3910482,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/17/50/70/93/50/99/13/34/44/11/31446055569143480237.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/17/50/70/93/50/99/13/34/44/11/31446055569143480237.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/17/50/70/93/50/99/13/34/44/11/31446055569143480237.jpg"
+    }
+  },
+  {
+    "gid_ref": 737715,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel. ",
+      "productTitle": "Kingsize Nutrition Arginine Powder 765 Gr",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1636979389881,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 467676849,
+      "__unknown_productSubTitle": "Kingsize Nutrition Arginine Powder 765 Gr",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 394213,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bruder Bahçivan Çim Biçme Mak. ve Aksesuarlar Br62103",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750615552623,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586968126,
+      "__unknown_productSubTitle": "Bruder Bahçivan Çim Biçme Mak. ve Aksesuarlar Br62103",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 394214,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bruder Bahçivan Çim Biçme Mak. ve Aksesuarlar Br62103",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750615261390,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/22/61/36/76/76/54/14/61/72/12/13171035093590952791.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586968126,
+      "__unknown_productSubTitle": "Bruder Bahçivan Çim Biçme Mak. ve Aksesuarlar Br62103",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7347562,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/22/49/41/36/14/18/44/46/63/71/13377600076371872790.jpeg"
+        },
+        {
+          "id": 7347563,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/22/55/09/08/55/51/16/95/81/66/72165078063404725661.jpeg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/22/61/36/76/76/54/14/61/72/12/13171035093590952791.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/22/61/36/76/76/54/14/61/72/12/13171035093590952791.jpeg"
+    }
+  }
+]

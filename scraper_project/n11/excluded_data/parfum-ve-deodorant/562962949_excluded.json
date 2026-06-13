@@ -1,0 +1,131 @@
+[
+  {
+    "gid_ref": 996147,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Christian Dior Sauvage Parfum Erkek Parfüm EDP 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774374308458,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774374308458,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562962949,
+      "__unknown_productSubTitle": "Christian Dior Sauvage Parfum Erkek Parfüm EDP 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 996148,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Christian Dior Sauvage Parfum Erkek Parfüm EDP 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763321523466,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569417602,
+      "__unknown_productSubTitle": "Christian Dior Sauvage Parfum Erkek Parfüm EDP 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 996149,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Christian Dior Sauvage Parfum Erkek Parfüm EDP 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757451547831,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562962949,
+      "__unknown_productSubTitle": "Christian Dior Sauvage Parfum Erkek Parfüm EDP 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 996150,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Christian Dior Sauvage Parfum Erkek Parfüm EDP 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722515580224,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/01/75/60/79/62/24/49/32/55/98/38332147915595073987.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583949812,
+      "__unknown_productSubTitle": "Christian Dior Sauvage Parfum Erkek Parfüm EDP 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5320521,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/01/75/60/79/62/24/49/32/55/98/38332147915595073987.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/01/75/60/79/62/24/49/32/55/98/38332147915595073987.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/01/75/60/79/62/24/49/32/55/98/38332147915595073987.png"
+    }
+  },
+  {
+    "gid_ref": 996151,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Christian Dior Sauvage Parfum Erkek Parfüm EDP 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1717232381266,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592386467,
+      "__unknown_productSubTitle": "Christian Dior Sauvage Parfum Erkek Parfüm EDP 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 996152,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Christian Dior Sauvage Parfum Erkek Parfüm EDP 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1685135047585,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562962949,
+      "__unknown_productSubTitle": "Christian Dior Sauvage Parfum Erkek Parfüm EDP 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

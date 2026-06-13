@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 1514666,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Ordinary Retinol 0.5% in Squalane 30 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771920595803,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659228425,
+      "__unknown_productSubTitle": "The Ordinary Retinol 0.5% in Squalane 30 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1514667,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Ordinary Retinol 0.5% in Squalane 30 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1700295282355,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/11/18/60/96/01/63/64/25/06/86/97/42279501292607355779.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 564368336,
+      "__unknown_productSubTitle": "The Ordinary Retinol 0.5% in Squalane 30 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2726038,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/11/18/60/96/01/63/64/25/06/86/97/42279501292607355779.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/11/18/60/96/01/63/64/25/06/86/97/42279501292607355779.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/11/18/60/96/01/63/64/25/06/86/97/42279501292607355779.jpg"
+    }
+  }
+]

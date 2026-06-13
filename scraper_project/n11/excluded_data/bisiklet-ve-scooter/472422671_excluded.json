@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 376213,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bta 3’lü Bisiklet Taşıma Aparatı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1682498932799,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 472422671,
+      "__unknown_productSubTitle": "Bta 3’lü Bisiklet Taşıma Aparatı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 376214,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ÜRÜN İYİ / PAKETLEME KÖTÜ",
+      "productTitle": "Bta 3’lü Bisiklet Taşıma Aparatı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1617175478814,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 472422671,
+      "__unknown_productSubTitle": "Bta 3’lü Bisiklet Taşıma Aparatı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

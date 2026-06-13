@@ -1,0 +1,81 @@
+[
+  {
+    "gid_ref": 577706,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LTB Uzun Kollu Sıfır Yaka Slogan Baskılı Gri Sweatshırt Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775734527417,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775734527417,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 728097965,
+      "__unknown_productSubTitle": "LTB Uzun Kollu Sıfır Yaka Slogan Baskılı Gri Sweatshırt Çok Renkli XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 577707,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LTB Uzun Kollu Sıfır Yaka Slogan Baskılı Gri Sweatshırt Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775589724832,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/07/74/39/57/89/77/53/50/19/49/93217357685909863186.jpg",
+      "__unknown_lastModifiedDate": 1775589724832,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 728097965,
+      "__unknown_productSubTitle": "LTB Uzun Kollu Sıfır Yaka Slogan Baskılı Gri Sweatshırt Çok Renkli XL",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8575737,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/07/74/39/57/89/77/53/50/19/49/93217357685909863186.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/07/74/39/57/89/77/53/50/19/49/93217357685909863186.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/07/74/39/57/89/77/53/50/19/49/93217357685909863186.jpg"
+    }
+  },
+  {
+    "gid_ref": 577708,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LTB Uzun Kollu Sıfır Yaka Slogan Baskılı Gri Sweatshırt Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774982871121,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/79/20/63/73/09/54/91/40/07/02018911559137735047.png",
+      "__unknown_lastModifiedDate": 1774982871121,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 728097965,
+      "__unknown_productSubTitle": "LTB Uzun Kollu Sıfır Yaka Slogan Baskılı Gri Sweatshırt Çok Renkli XL",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8543324,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/79/20/63/73/09/54/91/40/07/02018911559137735047.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/79/20/63/73/09/54/91/40/07/02018911559137735047.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/79/20/63/73/09/54/91/40/07/02018911559137735047.png"
+    }
+  }
+]

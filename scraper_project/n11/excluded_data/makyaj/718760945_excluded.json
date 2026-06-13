@@ -1,0 +1,94 @@
+[
+  {
+    "gid_ref": 852549,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 009 Latte Crush",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769973107031,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718760945,
+      "__unknown_productSubTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 009 Latte Crush",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 852550,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 009 Latte Crush",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769466291295,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718760945,
+      "__unknown_productSubTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 009 Latte Crush",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 852551,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 009 Latte Crush",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768920428710,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/20/70/46/65/35/56/96/85/55/99/65941256874921736692.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718760945,
+      "__unknown_productSubTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 009 Latte Crush",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8278307,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/20/70/46/65/35/56/96/85/55/99/65941256874921736692.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/20/70/46/65/35/56/96/85/55/99/65941256874921736692.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/20/70/46/65/35/56/96/85/55/99/65941256874921736692.png"
+    }
+  },
+  {
+    "gid_ref": 852552,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 009 Latte Crush",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768328557430,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718760945,
+      "__unknown_productSubTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 009 Latte Crush",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

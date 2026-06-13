@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 911490,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sürmene Sürbisa 061007 Meyve Bıçağı 6'lı Set Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774636552909,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/71/81/29/69/25/81/08/80/47/055343820951302648.jpg",
+      "__unknown_lastModifiedDate": 1774636552909,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 526284292,
+      "__unknown_productSubTitle": "Sürmene Sürbisa 061007 Meyve Bıçağı 6'lı Set Yeşil",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8526788,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/71/81/29/69/25/81/08/80/47/055343820951302648.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/71/81/29/69/25/81/08/80/47/055343820951302648.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/71/81/29/69/25/81/08/80/47/055343820951302648.jpg"
+    }
+  },
+  {
+    "gid_ref": 911491,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sürmene Sürbisa 061007 Meyve Bıçağı 6'lı Set Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766369860107,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 526284292,
+      "__unknown_productSubTitle": "Sürmene Sürbisa 061007 Meyve Bıçağı 6'lı Set Yeşil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

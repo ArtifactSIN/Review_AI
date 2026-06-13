@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 792561,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Uni-Ball Kuru Toga Versatil Kalem 0.5 Mm Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775242185836,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775242185836,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 735670054,
+      "__unknown_productSubTitle": "Uni-Ball Kuru Toga Versatil Kalem 0.5 Mm Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 792562,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Uni-Ball Kuru Toga Versatil Kalem 0.5 Mm Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1693331918741,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584450398,
+      "__unknown_productSubTitle": "Uni-Ball Kuru Toga Versatil Kalem 0.5 Mm Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 792563,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Uni-Ball Kuru Toga Versatil Kalem 0.5 Mm Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1693052787684,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584450398,
+      "__unknown_productSubTitle": "Uni-Ball Kuru Toga Versatil Kalem 0.5 Mm Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

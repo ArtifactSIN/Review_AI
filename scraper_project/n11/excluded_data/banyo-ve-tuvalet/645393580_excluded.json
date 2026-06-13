@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 176211,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Johnson's Baby Bedtime Bebek Sabunu 100 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767172438111,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645393580,
+      "__unknown_productSubTitle": "Johnson's Baby Bedtime Bebek Sabunu 100 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 176212,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Johnson's Baby Bedtime Bebek Sabunu 100 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763042921262,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645393580,
+      "__unknown_productSubTitle": "Johnson's Baby Bedtime Bebek Sabunu 100 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 176213,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Johnson's Baby Bedtime Bebek Sabunu 100 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753117868916,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/21/72/02/49/32/58/04/07/94/37/22506349566397858667.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645393580,
+      "__unknown_productSubTitle": "Johnson's Baby Bedtime Bebek Sabunu 100 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7470676,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/21/72/02/49/32/58/04/07/94/37/22506349566397858667.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/21/72/02/49/32/58/04/07/94/37/22506349566397858667.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/21/72/02/49/32/58/04/07/94/37/22506349566397858667.png"
+    }
+  }
+]

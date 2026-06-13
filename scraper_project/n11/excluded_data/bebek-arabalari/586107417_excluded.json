@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 179765,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Malzek Bebek Arabası Yağmurluğu Şeffaf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1703593667945,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750661636067,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586107417,
+      "__unknown_productSubTitle": "Malzek Bebek Arabası Yağmurluğu Şeffaf ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 179766,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Malzek Bebek Arabası Yağmurluğu Şeffaf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1701512251349,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/12/02/87/19/01/16/10/81/36/69/02/44843223407573945637.png",
+      "__unknown_lastModifiedDate": 1750661636067,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586107417,
+      "__unknown_productSubTitle": "Malzek Bebek Arabası Yağmurluğu Şeffaf ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2788078,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/02/87/19/01/16/10/81/36/69/02/44843223407573945637.png"
+        },
+        {
+          "id": 2788079,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/02/79/10/86/71/39/20/82/28/32/49125978570633887723.png"
+        },
+        {
+          "id": 2788080,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/02/79/98/70/81/76/15/45/78/03/32032340362510028299.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/12/02/87/19/01/16/10/81/36/69/02/44843223407573945637.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/12/02/87/19/01/16/10/81/36/69/02/44843223407573945637.png"
+    }
+  }
+]

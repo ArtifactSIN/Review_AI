@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 252498,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DeFacto Erkek Bebek Kaydırmaz Taban 4'lü Pamuklu Patik Çorap D2473A5NSKR1 Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775061503300,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/64/11/72/75/95/54/90/42/26/88473819299587078922.png",
+      "__unknown_lastModifiedDate": 1775061503300,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641896387,
+      "__unknown_productSubTitle": "DeFacto Erkek Bebek Kaydırmaz Taban 4'lü Pamuklu Patik Çorap D2473A5NSKR1 Çok Renkli 6 - 12 Ay",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8555061,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/64/11/72/75/95/54/90/42/26/88473819299587078922.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/64/11/72/75/95/54/90/42/26/88473819299587078922.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/64/11/72/75/95/54/90/42/26/88473819299587078922.png"
+    }
+  },
+  {
+    "gid_ref": 252499,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DeFacto Erkek Bebek Kaydırmaz Taban 4'lü Pamuklu Patik Çorap D2473A5NSKR1 Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773397123670,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773397123670,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641896389,
+      "__unknown_productSubTitle": "DeFacto Erkek Bebek Kaydırmaz Taban 4'lü Pamuklu Patik Çorap D2473A5NSKR1 Çok Renkli 24 - 36 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 252500,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DeFacto Erkek Bebek Kaydırmaz Taban 4'lü Pamuklu Patik Çorap D2473A5NSKR1 Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1738949674230,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750697194580,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641896388,
+      "__unknown_productSubTitle": "DeFacto Erkek Bebek Kaydırmaz Taban 4'lü Pamuklu Patik Çorap D2473A5NSKR1 Çok Renkli 12 - 24 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

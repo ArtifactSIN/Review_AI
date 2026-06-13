@@ -1,0 +1,546 @@
+[
+  {
+    "gid_ref": 811133,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760294775927,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811134,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1751827339741,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811135,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739998310532,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811136,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737823945361,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/25/71/28/90/51/89/29/97/41/44/78944101832943420560.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6748242,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/25/71/28/90/51/89/29/97/41/44/78944101832943420560.png"
+        },
+        {
+          "id": 6748243,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/25/56/21/80/67/75/13/73/12/16/35787285464680383588.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/25/71/28/90/51/89/29/97/41/44/78944101832943420560.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/25/71/28/90/51/89/29/97/41/44/78944101832943420560.png"
+    }
+  },
+  {
+    "gid_ref": 811137,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734339071687,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/16/62/96/82/92/87/52/52/22/10/75114377342794578470.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6501291,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/16/62/96/82/92/87/52/52/22/10/75114377342794578470.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/16/62/96/82/92/87/52/52/22/10/75114377342794578470.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/16/62/96/82/92/87/52/52/22/10/75114377342794578470.png"
+    }
+  },
+  {
+    "gid_ref": 811138,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733245850226,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/03/63/30/07/33/69/15/85/33/38/96891123768463307110.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6404924,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/03/63/30/07/33/69/15/85/33/38/96891123768463307110.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/03/63/30/07/33/69/15/85/33/38/96891123768463307110.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/03/63/30/07/33/69/15/85/33/38/96891123768463307110.jpg"
+    }
+  },
+  {
+    "gid_ref": 811139,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732640907954,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/26/62/32/20/56/71/11/26/01/05/53328847404412324686.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6328476,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/26/62/32/20/56/71/11/26/01/05/53328847404412324686.jpg"
+        },
+        {
+          "id": 6328477,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/26/80/99/88/29/17/55/60/52/13/44825944191036639504.jpg"
+        },
+        {
+          "id": 6328478,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/26/66/76/33/09/73/08/58/94/43/97327361396932691306.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/26/62/32/20/56/71/11/26/01/05/53328847404412324686.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/26/62/32/20/56/71/11/26/01/05/53328847404412324686.jpg"
+    }
+  },
+  {
+    "gid_ref": 811140,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731444724419,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811141,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727977075609,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811142,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727646227933,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811143,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727202027599,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811144,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1723567742865,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811145,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721505039792,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/20/53/41/97/52/52/20/82/73/54/56135876583192020560.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5231984,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/20/53/41/97/52/52/20/82/73/54/56135876583192020560.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/20/53/41/97/52/52/20/82/73/54/56135876583192020560.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/20/53/41/97/52/52/20/82/73/54/56135876583192020560.png"
+    }
+  },
+  {
+    "gid_ref": 811146,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721230611734,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811147,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721143481461,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811148,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721069883138,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811149,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719566127777,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/28/50/11/51/79/12/31/16/05/37/7958680541954395509.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5083407,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/28/50/11/51/79/12/31/16/05/37/7958680541954395509.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/28/50/11/51/79/12/31/16/05/37/7958680541954395509.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/28/50/11/51/79/12/31/16/05/37/7958680541954395509.png"
+    }
+  },
+  {
+    "gid_ref": 811150,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719390823459,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/26/62/68/12/63/96/35/16/01/95/18177237798610093864.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5058305,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/26/62/68/12/63/96/35/16/01/95/18177237798610093864.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/26/62/68/12/63/96/35/16/01/95/18177237798610093864.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/26/62/68/12/63/96/35/16/01/95/18177237798610093864.jpg"
+    }
+  },
+  {
+    "gid_ref": 811151,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1718570406700,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811152,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1716328096095,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811153,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715677026104,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/14/61/51/55/80/05/42/47/07/84/58153792561308548519.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4679764,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/14/61/51/55/80/05/42/47/07/84/58153792561308548519.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/14/61/51/55/80/05/42/47/07/84/58153792561308548519.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/14/61/51/55/80/05/42/47/07/84/58153792561308548519.jpg"
+    }
+  },
+  {
+    "gid_ref": 811154,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1713983976924,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/24/60/96/70/16/75/57/45/02/85/85994975000289851079.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4507501,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/24/60/96/70/16/75/57/45/02/85/85994975000289851079.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/24/60/96/70/16/75/57/45/02/85/85994975000289851079.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/24/60/96/70/16/75/57/45/02/85/85994975000289851079.png"
+    }
+  },
+  {
+    "gid_ref": 811155,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711367149901,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593782498,
+      "__unknown_productSubTitle": "Ek Gıda Tarif Kitabı Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

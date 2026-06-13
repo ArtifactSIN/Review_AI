@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1164155,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Intex Tamir Onarım Yaması",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733861053100,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576110984,
+      "__unknown_productSubTitle": "Intex Tamir Onarım Yaması",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1164156,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Intex Tamir Onarım Yaması Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1710387846413,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750435051658,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582878339,
+      "__unknown_productSubTitle": "Intex Tamir Onarım Yaması Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

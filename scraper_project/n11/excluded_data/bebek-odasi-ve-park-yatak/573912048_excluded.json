@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 262089,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patiko Rose Büyüyen Asansörlü Beşik Meşe",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1702756216742,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/12/16/54/59/82/31/01/68/95/10/30/31186663749496847877.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573912048,
+      "__unknown_productSubTitle": "Patiko Rose Büyüyen Asansörlü Beşik Meşe",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2858074,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/16/54/59/82/31/01/68/95/10/30/31186663749496847877.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/12/16/54/59/82/31/01/68/95/10/30/31186663749496847877.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/12/16/54/59/82/31/01/68/95/10/30/31186663749496847877.png"
+    }
+  },
+  {
+    "gid_ref": 262090,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patiko Rose Büyüyen Asansörlü Beşik Meşe",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697400564498,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573912048,
+      "__unknown_productSubTitle": "Patiko Rose Büyüyen Asansörlü Beşik Meşe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

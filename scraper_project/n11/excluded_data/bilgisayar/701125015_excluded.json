@@ -1,0 +1,82 @@
+[
+  {
+    "gid_ref": 352097,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Logitech M500S Kablolu Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750098064667,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 570599635,
+      "__unknown_productSubTitle": "Logitech M500S Kablolu Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 352098,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Logitech M500S Kablolu Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745213046589,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637399999,
+      "__unknown_productSubTitle": "Logitech M500S Kablolu Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 352099,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Logitech M500S Kablolu Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1720167857096,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579208117,
+      "__unknown_productSubTitle": "Logitech M500S Kablolu Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 352100,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Logitech M500S Kablolu Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1691693237019,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551008109,
+      "__unknown_productSubTitle": "Logitech Türkiye Garantili",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

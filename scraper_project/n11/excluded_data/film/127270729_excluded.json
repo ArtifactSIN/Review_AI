@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 734829,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kaliteli Ürün.",
+      "productTitle": "New York'ta Beş Minare DVD",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1670923989944,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 127270729,
+      "__unknown_productSubTitle": "New York'ta Beş Minare DVD",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

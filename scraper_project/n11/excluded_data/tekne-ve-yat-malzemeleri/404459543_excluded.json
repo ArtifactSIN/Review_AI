@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 1250223,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "super",
+      "productTitle": "Sealux Marine Işıklı Şamandıra 4 Pilli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1612940082505,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/21/02/10/88/89/55/69/98/00/00/64/78/9755795789965603165.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 404459543,
+      "__unknown_productSubTitle": "Sealux Marine Işıklı Şamandıra 4 Pilli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3101651,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/21/02/10/88/89/55/69/98/00/00/64/78/9755795789965603165.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/21/02/10/88/89/55/69/98/00/00/64/78/9755795789965603165.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/21/02/10/88/89/55/69/98/00/00/64/78/9755795789965603165.jpg"
+    }
+  }
+]

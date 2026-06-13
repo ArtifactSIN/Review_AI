@@ -1,0 +1,107 @@
+[
+  {
+    "gid_ref": 537515,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Trina Sakal Kesme Makinesi - 04 - Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774031315971,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774031315971,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642841921,
+      "__unknown_productSubTitle": "Trina Sakal Kesme Makinesi - 04 - Çok Renkli Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 537516,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Trina Sakal Kesme Makinesi - 04 - Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719040971108,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/22/62/74/36/17/56/60/76/88/54/91393065718881601541.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579007086,
+      "__unknown_productSubTitle": "Trina Sakal Kesme Makinesi - 04 - Çok Renkli Çok Renkli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5012894,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/22/62/74/36/17/56/60/76/88/54/91393065718881601541.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/22/62/74/36/17/56/60/76/88/54/91393065718881601541.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/22/62/74/36/17/56/60/76/88/54/91393065718881601541.png"
+    }
+  },
+  {
+    "gid_ref": 537517,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Trina Sakal Kesme Makinesi - 04 - Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719040935517,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/22/76/70/22/72/88/49/40/33/67/95487573078208824214.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579007086,
+      "__unknown_productSubTitle": "Trina Sakal Kesme Makinesi - 04 - Çok Renkli Çok Renkli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5019782,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/22/76/70/22/72/88/49/40/33/67/95487573078208824214.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/22/76/70/22/72/88/49/40/33/67/95487573078208824214.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/22/76/70/22/72/88/49/40/33/67/95487573078208824214.png"
+    }
+  },
+  {
+    "gid_ref": 537518,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Trina Sakal Kesme Makinesi - 04 - Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719040843799,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/22/71/95/38/40/14/68/86/32/89/8718091088844243734.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579007086,
+      "__unknown_productSubTitle": "Trina Sakal Kesme Makinesi - 04 - Çok Renkli Çok Renkli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5020427,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/22/71/95/38/40/14/68/86/32/89/8718091088844243734.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/22/71/95/38/40/14/68/86/32/89/8718091088844243734.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/22/71/95/38/40/14/68/86/32/89/8718091088844243734.png"
+    }
+  }
+]

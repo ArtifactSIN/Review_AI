@@ -1,0 +1,134 @@
+[
+  {
+    "gid_ref": 168886,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ar Melia Eviye Mutfak Bataryası 102118148",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764235244879,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639585976,
+      "__unknown_productSubTitle": "Ar Melia Eviye Mutfak Bataryası 102118148",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 168887,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ar Melia Eviye Mutfak Bataryası 102118148",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756988544477,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688862145,
+      "__unknown_productSubTitle": "Ar Melia Eviye Mutfak Bataryası 102118148",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 168888,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ar Melia Eviye Mutfak Bataryası 102118148",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729018516035,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580290907,
+      "__unknown_productSubTitle": "Ar Melia Eviye Mutfak Bataryası 102118148",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 168889,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ar Melia Eviye Mutfak Bataryası 102118148",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719999883409,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/03/82/34/88/97/37/70/79/12/23/13338522288042259929.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583134970,
+      "__unknown_productSubTitle": "Ar Melia Eviye Mutfak Bataryası 102118148",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5126289,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/03/47/87/36/79/00/68/37/34/22/2467222859888937355.jpg"
+        },
+        {
+          "id": 5126290,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/03/73/70/14/26/25/98/19/97/66/97206247991958785373.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/03/82/34/88/97/37/70/79/12/23/13338522288042259929.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/03/82/34/88/97/37/70/79/12/23/13338522288042259929.jpg"
+    }
+  },
+  {
+    "gid_ref": 168890,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ar Melia Eviye Mutfak Bataryası 102118148",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709713403332,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583134970,
+      "__unknown_productSubTitle": "Ar Melia Eviye Mutfak Bataryası 102118148",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 168891,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ar Melia Eviye Mutfak Bataryası 102118148",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1708788412705,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583134970,
+      "__unknown_productSubTitle": "Ar Melia Eviye Mutfak Bataryası 102118148",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

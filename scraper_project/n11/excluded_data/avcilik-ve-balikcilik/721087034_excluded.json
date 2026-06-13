@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 125049,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powerex Kamış Standı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773341670173,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773341670173,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721087034,
+      "__unknown_productSubTitle": "Powerex Kamış Standı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 125050,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powerex Kamış Standı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770992766968,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/13/84/75/73/27/95/27/91/45/96/39086046500430499451.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721087034,
+      "__unknown_productSubTitle": "Powerex Kamış Standı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8365109,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/13/84/75/73/27/95/27/91/45/96/39086046500430499451.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/13/84/75/73/27/95/27/91/45/96/39086046500430499451.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/13/84/75/73/27/95/27/91/45/96/39086046500430499451.png"
+    }
+  }
+]

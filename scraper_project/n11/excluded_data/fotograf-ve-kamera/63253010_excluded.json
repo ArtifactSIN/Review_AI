@@ -1,0 +1,93 @@
+[
+  {
+    "gid_ref": 751949,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Deyatech 3570 Tripod Pleat",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748034895484,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/24/77/19/95/15/36/27/29/16/48/31707666023372965902.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 63253010,
+      "__unknown_productSubTitle": "Deyatech 3570 Tripod Pleat",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7260707,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/24/77/19/95/15/36/27/29/16/48/31707666023372965902.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/24/77/19/95/15/36/27/29/16/48/31707666023372965902.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/24/77/19/95/15/36/27/29/16/48/31707666023372965902.jpg"
+    }
+  },
+  {
+    "gid_ref": 751950,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel ürün.",
+      "productTitle": "Deyatech 3570 Tripod Pleat",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1587409462660,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 63253010,
+      "__unknown_productSubTitle": "Deyatech 3570 Tripod Pleat",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751951,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "İşe yaradı teşekkürler",
+      "productTitle": "Deyatech 3570 Tripod Pleat",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1557314758928,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 63253010,
+      "__unknown_productSubTitle": "Deyatech 3570 Tripod Pleat",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751952,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Memnun Kaldım",
+      "productTitle": "Deyatech 3570 Tripod Pleat",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1492765265637,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 63253010,
+      "__unknown_productSubTitle": "Deyatech 3570 Tripod Pleat",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

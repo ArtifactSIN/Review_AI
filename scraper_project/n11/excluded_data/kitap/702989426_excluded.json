@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 816140,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pegem Coğrafya Ezberbozan Soru Bankası 2026 Kpss",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771434572367,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702989426,
+      "__unknown_productSubTitle": "Pegem Coğrafya Ezberbozan Soru Bankası 2026 Kpss ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 816141,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pegem Coğrafya Ezberbozan Soru Bankası 2026 Kpss",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764739913661,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/03/59/90/63/12/63/47/44/43/30/94273451931405274186.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702989426,
+      "__unknown_productSubTitle": "Pegem Coğrafya Ezberbozan Soru Bankası 2026 Kpss ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8069050,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/03/59/90/63/12/63/47/44/43/30/94273451931405274186.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/03/59/90/63/12/63/47/44/43/30/94273451931405274186.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/03/59/90/63/12/63/47/44/43/30/94273451931405274186.png"
+    }
+  }
+]

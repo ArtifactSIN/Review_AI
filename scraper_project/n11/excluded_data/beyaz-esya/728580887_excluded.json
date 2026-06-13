@@ -1,0 +1,55 @@
+[
+  {
+    "gid_ref": 303312,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Siemens HU736AEV0T 76 LT Buhar Destekli Ankastre Fırın",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774423038779,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/50/07/26/04/70/37/74/29/71/16630154262475197198.png",
+      "__unknown_lastModifiedDate": 1774423038779,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666281780,
+      "__unknown_productSubTitle": "Siemens HU736AEV0T 76 LT Buhar Destekli Ankastre Fırın",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8507351,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/50/07/26/04/70/37/74/29/71/16630154262475197198.png"
+        },
+        {
+          "id": 8507352,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/48/85/54/84/36/85/89/40/25/01047562814096194343.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/50/07/26/04/70/37/74/29/71/16630154262475197198.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/50/07/26/04/70/37/74/29/71/16630154262475197198.png"
+    }
+  },
+  {
+    "gid_ref": 303313,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Siemens HU736AEV0T 76 LT Buhar Destekli Ankastre Fırın",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765190086734,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666281780,
+      "__unknown_productSubTitle": "Siemens HU736AEV0T 76 LT Buhar Destekli Ankastre Fırın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

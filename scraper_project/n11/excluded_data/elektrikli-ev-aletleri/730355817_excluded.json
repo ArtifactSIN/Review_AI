@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 484532,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips Series 5000 Hda150/61 Inox Türk Kahve Makinesi (Teşhir&Outlet)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773229777066,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773229777066,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730355817,
+      "__unknown_productSubTitle": "Philips Series 5000 Hda150/61 Inox Türk Kahve Makinesi (Teşhir&Outlet)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 484533,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips Series 5000 Hda150/61 Inox Türk Kahve Makinesi (Teşhir&Outlet)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771700359099,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 730355817,
+      "__unknown_productSubTitle": "Philips Series 5000 Hda150/61 Inox Türk Kahve Makinesi (Teşhir&Outlet)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 484534,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips Series 5000 Hda150/61 Inox Türk Kahve Makinesi (Teşhir&Outlet)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1741531565722,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/09/52/34/89/70/78/32/61/09/93/76598246744103273401.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654701190,
+      "__unknown_productSubTitle": "Philips Series 5000 Hda150/61 Inox Türk Kahve Makinesi (Teşhir&Outlet)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6948375,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/09/52/34/89/70/78/32/61/09/93/76598246744103273401.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/09/52/34/89/70/78/32/61/09/93/76598246744103273401.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/09/52/34/89/70/78/32/61/09/93/76598246744103273401.jpg"
+    }
+  }
+]

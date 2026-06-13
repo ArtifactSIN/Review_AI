@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 527627,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Remington HC6001 X6 Power-X Serisi Saç Kesme Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771417192361,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649753925,
+      "__unknown_productSubTitle": "Remington HC6001 X6 Power-X Serisi Saç Kesme Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 527628,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Remington HC6001 X6 Power-X Serisi Saç Kesme Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769154864836,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649753925,
+      "__unknown_productSubTitle": "Remington HC6001 X6 Power-X Serisi Saç Kesme Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

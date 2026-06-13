@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 802811,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Şişme Kar Kızağı 90cm Çapında Turuncu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734640137203,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1749506205803,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591149249,
+      "__unknown_productSubTitle": "Şişme Kar Kızağı 90cm Çapında Turuncu Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802812,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Şişme Kar Kızağı 90cm Çapında Turuncu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1708959882085,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/26/53/51/58/98/85/70/92/45/79/32441696260632588407.png",
+      "__unknown_lastModifiedDate": 1749506205803,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591149249,
+      "__unknown_productSubTitle": "Şişme Kar Kızağı 90cm Çapında Turuncu Standart",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3983029,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/26/53/51/58/98/85/70/92/45/79/32441696260632588407.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/26/53/51/58/98/85/70/92/45/79/32441696260632588407.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/26/53/51/58/98/85/70/92/45/79/32441696260632588407.png"
+    }
+  },
+  {
+    "gid_ref": 802813,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Şişme Kar Kızağı 90cm Çapında Turuncu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1707331022928,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1749506205803,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591149249,
+      "__unknown_productSubTitle": "Şişme Kar Kızağı 90cm Çapında Turuncu Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

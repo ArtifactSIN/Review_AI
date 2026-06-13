@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 817343,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "345 Tyt-ayt Geometri 2. Kitap Soru Bankası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765986109241,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/17/72/07/97/63/92/49/52/44/79/28513093305459324961.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649957715,
+      "__unknown_productSubTitle": "345 Tyt-ayt Geometri 2. Kitap Soru Bankası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8124844,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/17/72/07/97/63/92/49/52/44/79/28513093305459324961.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/17/72/07/97/63/92/49/52/44/79/28513093305459324961.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/17/72/07/97/63/92/49/52/44/79/28513093305459324961.png"
+    }
+  },
+  {
+    "gid_ref": 817344,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "345 Tyt-ayt Geometri 2. Kitap Soru Bankası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765456662853,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649957715,
+      "__unknown_productSubTitle": "345 Tyt-ayt Geometri 2. Kitap Soru Bankası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 817345,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "345 Tyt-ayt Geometri 2. Kitap Soru Bankası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741990942369,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/15/90/41/76/67/57/52/70/13/15/83918940985705412797.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649957715,
+      "__unknown_productSubTitle": "345 Tyt-ayt Geometri 2. Kitap Soru Bankası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6960884,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/15/90/41/76/67/57/52/70/13/15/83918940985705412797.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/15/90/41/76/67/57/52/70/13/15/83918940985705412797.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/15/90/41/76/67/57/52/70/13/15/83918940985705412797.png"
+    }
+  },
+  {
+    "gid_ref": 817346,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "345 Tyt-ayt Geometri 2. Kitap Soru Bankası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739441557769,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649957715,
+      "__unknown_productSubTitle": "345 Tyt-ayt Geometri 2. Kitap Soru Bankası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 744768,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hıq Flavn Dream 150g Chocolate Fudge Flavored",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775561023280,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775561023280,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651294818,
+      "__unknown_productSubTitle": "Hıq Flavn Dream 150g Chocolate Fudge Flavored",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 744769,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hıq Flavn Dream 150g Chocolate Fudge Flavored",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744545241687,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/13/80/78/52/79/12/93/53/19/97/93222190443166712614.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651294818,
+      "__unknown_productSubTitle": "Hıq Flavn Dream 150g Chocolate Fudge Flavored",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7083992,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/13/80/78/52/79/12/93/53/19/97/93222190443166712614.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/13/80/78/52/79/12/93/53/19/97/93222190443166712614.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/13/80/78/52/79/12/93/53/19/97/93222190443166712614.jpg"
+    }
+  }
+]

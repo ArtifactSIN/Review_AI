@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 384542,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Deore Rd-m5130 Linkglide Arka Aktarıcı 1x10v Gs",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771329453746,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666167268,
+      "__unknown_productSubTitle": "Shimano Deore Rd-m5130 Linkglide Arka Aktarıcı 1x10v Gs ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 384543,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Deore Rd-m5130 Linkglide Arka Aktarıcı 1x10v Gs",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763832683445,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/22/49/95/29/47/28/21/63/31/15/34738513803591174091.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666167268,
+      "__unknown_productSubTitle": "Shimano Deore Rd-m5130 Linkglide Arka Aktarıcı 1x10v Gs ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8004412,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/22/49/95/29/47/28/21/63/31/15/34738513803591174091.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/22/49/95/29/47/28/21/63/31/15/34738513803591174091.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/22/49/95/29/47/28/21/63/31/15/34738513803591174091.png"
+    }
+  },
+  {
+    "gid_ref": 384544,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Deore Rd-m5130 Linkglide Arka Aktarıcı 1x10v Gs",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762882086509,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/11/62/57/73/52/83/63/38/95/51/1732941460364479015.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666167268,
+      "__unknown_productSubTitle": "Shimano Deore Rd-m5130 Linkglide Arka Aktarıcı 1x10v Gs ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7951381,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/11/73/38/63/05/82/57/92/69/04/91763060025001527087.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/11/62/57/73/52/83/63/38/95/51/1732941460364479015.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/11/62/57/73/52/83/63/38/95/51/1732941460364479015.jpg"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 254092,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Portakal Safety Fırın Kilidi 8 CM x 5.5 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1608182707547,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 331736808,
+      "__unknown_productSubTitle": "Portakal Safety Fırın Kilidi 8 CM x 5.5 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 254093,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel ürün tavsiye edilir.",
+      "productTitle": "Portakal Safety Fırın Kilidi 8 CM x 5.5 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1588842221078,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 331736808,
+      "__unknown_productSubTitle": "Portakal Safety Fırın Kilidi 8 CM x 5.5 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

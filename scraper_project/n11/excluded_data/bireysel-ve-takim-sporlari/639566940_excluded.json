@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 371717,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Attack Sport Buzz Boks Eldiveni 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1751535691028,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639566937,
+      "__unknown_productSubTitle": "Attack Sport Buzz Boks Eldiveni 001 Siyah 12 OZ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 371718,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Attack Sport Buzz Boks Eldiveni 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739985065308,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639566939,
+      "__unknown_productSubTitle": "Attack Sport Buzz Boks Eldiveni 001 Siyah 8 OZ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 371719,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Attack Sport Buzz Boks Eldiveni 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737485966111,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639566938,
+      "__unknown_productSubTitle": "Attack Sport Buzz Boks Eldiveni 001 Siyah 6 OZ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 371720,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Attack Sport Buzz Boks Eldiveni 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729534273703,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/21/53/99/73/16/78/71/83/81/68/86030046811971760612.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639566938,
+      "__unknown_productSubTitle": "Attack Sport Buzz Boks Eldiveni 001 Siyah 6 OZ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5981995,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/21/53/99/73/16/78/71/83/81/68/86030046811971760612.png"
+        },
+        {
+          "id": 5981996,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/21/81/26/76/72/26/97/70/58/93/38603947398324334791.png"
+        },
+        {
+          "id": 5981997,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/21/76/94/36/29/48/95/82/01/68/34304438102625305146.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/21/53/99/73/16/78/71/83/81/68/86030046811971760612.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/21/53/99/73/16/78/71/83/81/68/86030046811971760612.png"
+    }
+  }
+]

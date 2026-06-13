@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 273908,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pilsan 07-570 Star Mama Sandalyesi Tepsili",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758121781546,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653484934,
+      "__unknown_productSubTitle": "Pilsan 07-570 Star Mama Sandalyesi Tepsili Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 273909,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pilsan 07-570 Star Mama Sandalyesi Tepsili",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1692036673516,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579404809,
+      "__unknown_productSubTitle": "Pilsan 07-570 Star Mama Sandalyesi Tepsili Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

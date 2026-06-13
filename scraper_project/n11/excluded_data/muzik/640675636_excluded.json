@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 946521,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beyerdynamic DT 990 Pro (250 Ohm) Profesyonel Kulak Üstü Stüdyo Kulaklık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759856054074,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640675636,
+      "__unknown_productSubTitle": "Beyerdynamic DT 990 Pro (250 Ohm) Profesyonel Kulak Üstü Stüdyo Kulaklık Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946522,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beyerdynamic DT 990 Pro (250 Ohm) Profesyonel Kulak Üstü Stüdyo Kulaklık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744322272985,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/11/87/50/82/29/21/25/47/35/42/61708389405855431023.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640675636,
+      "__unknown_productSubTitle": "Beyerdynamic DT 990 Pro (250 Ohm) Profesyonel Kulak Üstü Stüdyo Kulaklık Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7081218,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/11/63/61/86/60/37/04/56/75/15/87488564610575844246.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/11/87/50/82/29/21/25/47/35/42/61708389405855431023.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/11/87/50/82/29/21/25/47/35/42/61708389405855431023.jpg"
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 380016,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wellgo Katlanır Bisiklet Pedalı F178du",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730477855536,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/01/73/48/87/33/60/83/86/75/92/62103066360339320166.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558719795,
+      "__unknown_productSubTitle": "Wellgo Katlanır Bisiklet Pedalı F178du",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6092139,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/01/73/48/87/33/60/83/86/75/92/62103066360339320166.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/01/73/48/87/33/60/83/86/75/92/62103066360339320166.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/01/73/48/87/33/60/83/86/75/92/62103066360339320166.png"
+    }
+  },
+  {
+    "gid_ref": 380017,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wellgo Katlanır Bisiklet Pedalı F178du",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726353670851,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558719795,
+      "__unknown_productSubTitle": "Wellgo Katlanır Bisiklet Pedalı F178du",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 380018,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wellgo Katlanır Bisiklet Pedalı F178du",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1718270963789,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558719795,
+      "__unknown_productSubTitle": "Wellgo Katlanır Bisiklet Pedalı F178du",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 380019,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kargoya çok geç  veriliyor. ",
+      "productTitle": "Wellgo Katlanır Bisiklet Pedalı F178du",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1636038008358,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 419707631,
+      "__unknown_productSubTitle": "Wellgo Katlanır Bisiklet Pedalı F178Du",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

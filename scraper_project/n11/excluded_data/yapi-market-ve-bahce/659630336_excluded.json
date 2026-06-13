@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 1399675,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "3x2,5 Ttr 80metre Beyaz Başlıksız",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774615972560,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/51/47/86/85/26/42/59/93/56/0514250749328312512.png",
+      "__unknown_lastModifiedDate": 1774615972560,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659630336,
+      "__unknown_productSubTitle": "3x2,5 Ttr 80metre Beyaz Başlıksız",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8524418,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/51/47/86/85/26/42/59/93/56/0514250749328312512.png"
+        },
+        {
+          "id": 8524419,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/52/00/53/80/76/96/68/59/66/14168498573791546834.png"
+        },
+        {
+          "id": 8524420,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/54/20/57/56/60/45/68/18/21/84742862800006890713.png"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/51/47/86/85/26/42/59/93/56/0514250749328312512.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/51/47/86/85/26/42/59/93/56/0514250749328312512.png"
+    }
+  },
+  {
+    "gid_ref": 1399676,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "3x2,5 Ttr 80metre Beyaz Başlıksız",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769616291428,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659630336,
+      "__unknown_productSubTitle": "3x2,5 Ttr 80metre Beyaz Başlıksız",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

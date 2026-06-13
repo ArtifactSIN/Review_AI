@@ -1,0 +1,82 @@
+[
+  {
+    "gid_ref": 1273801,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi Redmi Note 9 Lcd Ekran+Dokunmatik",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766408556749,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 681075834,
+      "__unknown_productSubTitle": "Xiaomi Redmi Note 9 Lcd Ekran+Dokunmatik Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1273802,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi Redmi Note 9 Lcd Ekran+Dokunmatik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734046868303,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655426852,
+      "__unknown_productSubTitle": "Xiaomi Redmi Note 9 Lcd Ekran+Dokunmatik Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1273803,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi Redmi Note 9 Lcd Ekran+Dokunmatik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1695735952860,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 495755253,
+      "__unknown_productSubTitle": "Xiaomi Redmi Note 9 Lcd Ekran+Dokunmatik Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1273804,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xiaomi Redmi Note 9 Lcd Ekran+Dokunmatik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1693433150599,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 495755253,
+      "__unknown_productSubTitle": "Xiaomi Redmi Note 9 Lcd Ekran+Dokunmatik Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

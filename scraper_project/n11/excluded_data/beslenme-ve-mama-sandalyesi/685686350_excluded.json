@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 275246,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aptamil 1 Bebek Sütü 1200 G 6 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1754507637818,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603508265,
+      "__unknown_productSubTitle": "Aptamil 1 Bebek Sütü 1200 G 6 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 275247,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aptamil 1 Bebek Sütü 1200 G 6 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1711458523697,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 509650153,
+      "__unknown_productSubTitle": "Aptamil 1 Bebek Sütü 1200 G 6 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 275248,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aptamil 1 Bebek Sütü 1200 G 6 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1709416601933,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 509650153,
+      "__unknown_productSubTitle": "Aptamil 1 Bebek Sütü 1200 G 6 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

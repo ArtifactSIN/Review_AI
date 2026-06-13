@@ -1,0 +1,92 @@
+[
+  {
+    "gid_ref": 59646,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Renault Broadway 4D Havuzlu Soft Kaucuk Oto Paspas Seti Değer 1-Değer 2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775042932183,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/81/92/35/97/30/51/82/05/00/17367790090933126978.png",
+      "__unknown_lastModifiedDate": 1775042932183,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 533551192,
+      "__unknown_productSubTitle": "Renault Broadway 4D Havuzlu Soft Kaucuk Oto Paspas Seti Değer 1-Değer 2",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8558355,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/81/92/35/97/30/51/82/05/00/17367790090933126978.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/81/92/35/97/30/51/82/05/00/17367790090933126978.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/81/92/35/97/30/51/82/05/00/17367790090933126978.png"
+    }
+  },
+  {
+    "gid_ref": 59647,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Renault Broadway 4D Havuzlu Soft Kaucuk Oto Paspas Seti Değer 1-Değer 2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767379101413,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 533551192,
+      "__unknown_productSubTitle": "Renault Broadway 4D Havuzlu Soft Kaucuk Oto Paspas Seti Değer 1-Değer 2",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 59648,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Renault Broadway 4D Havuzlu Soft Kaucuk Oto Paspas Seti Değer 1-Değer 2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745933954245,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 533551192,
+      "__unknown_productSubTitle": "Renault Broadway 4D Havuzlu Soft Kaucuk Oto Paspas Seti Değer 1-Değer 2",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 59649,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Renault Broadway 4D Havuzlu Soft Kaucuk Oto Paspas Seti Değer 1-Değer 2",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731512032971,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 533551192,
+      "__unknown_productSubTitle": "Renault Broadway 4D Havuzlu Soft Kaucuk Oto Paspas Seti Değer 1-Değer 2",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 487992,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tefal X-Force Flex 14.80 Aqua Dikey Şarjlı Süpürge",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767795442337,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684150671,
+      "__unknown_productSubTitle": "Tefal X-Force Flex 14.80 Aqua Dikey Şarjlı Süpürge Mavi - Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 487993,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tefal X-Force Flex 14.80 Aqua Dikey Şarjlı Süpürge",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763402168702,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/17/56/09/57/55/89/20/22/22/34/66044911508294485236.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684150671,
+      "__unknown_productSubTitle": "Tefal X-Force Flex 14.80 Aqua Dikey Şarjlı Süpürge Mavi - Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7964815,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/17/56/09/57/55/89/20/22/22/34/66044911508294485236.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/17/56/09/57/55/89/20/22/22/34/66044911508294485236.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/17/56/09/57/55/89/20/22/22/34/66044911508294485236.png"
+    }
+  },
+  {
+    "gid_ref": 487994,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tefal X-Force Flex 14.80 Aqua Dikey Şarjlı Süpürge",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1754071967229,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684150671,
+      "__unknown_productSubTitle": "Tefal X-Force Flex 14.80 Aqua Dikey Şarjlı Süpürge Mavi - Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 718816,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Royal Canin Urinary S/O Yetişkin Kedi Maması 7 KG",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775639824006,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775639824006,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 703735474,
+      "__unknown_productSubTitle": "Royal Canin Urinary S/O Yetişkin Kedi Maması 7 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 718817,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Royal Canin Urinary S/O Yetişkin Kedi Maması 7 KG",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770133402497,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/03/55/25/34/94/93/85/22/53/79/72075438719813240031.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 703735474,
+      "__unknown_productSubTitle": "Royal Canin Urinary S/O Yetişkin Kedi Maması 7 KG",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8316523,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/03/55/25/34/94/93/85/22/53/79/72075438719813240031.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/03/55/25/34/94/93/85/22/53/79/72075438719813240031.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/03/55/25/34/94/93/85/22/53/79/72075438719813240031.jpg"
+    }
+  }
+]

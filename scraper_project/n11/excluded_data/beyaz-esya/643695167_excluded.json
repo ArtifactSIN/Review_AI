@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 295335,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig GRNE 357 357 L No-Frost Çift Kapılı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775600772412,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775600772412,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643695167,
+      "__unknown_productSubTitle": "Grundig GRNE 357 357 L No-Frost Çift Kapılı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 295336,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig GRNE 357 357 L No-Frost Çift Kapılı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764689321887,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/02/64/30/19/14/37/11/17/29/21/75975669300223296763.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643695167,
+      "__unknown_productSubTitle": "Grundig GRNE 357 357 L No-Frost Çift Kapılı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8053048,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/02/64/30/19/14/37/11/17/29/21/75975669300223296763.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/02/64/30/19/14/37/11/17/29/21/75975669300223296763.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/02/64/30/19/14/37/11/17/29/21/75975669300223296763.png"
+    }
+  },
+  {
+    "gid_ref": 295337,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig GRNE 357 357 L No-Frost Çift Kapılı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764316906714,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/28/90/73/57/34/67/45/10/60/05/19088486060904171510.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643695167,
+      "__unknown_productSubTitle": "Grundig GRNE 357 357 L No-Frost Çift Kapılı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8035574,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/90/73/57/34/67/45/10/60/05/19088486060904171510.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/28/90/73/57/34/67/45/10/60/05/19088486060904171510.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/28/90/73/57/34/67/45/10/60/05/19088486060904171510.png"
+    }
+  },
+  {
+    "gid_ref": 295338,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig GRNE 357 357 L No-Frost Çift Kapılı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752912703968,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643695167,
+      "__unknown_productSubTitle": "Grundig GRNE 357 357 L No-Frost Çift Kapılı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

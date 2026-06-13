@@ -1,0 +1,39 @@
+[
+  {
+    "gid_ref": 472837,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig CG 1504 1800 W Tost Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748554263312,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/30/61/34/92/59/73/53/14/96/41/92564411108472147138.png",
+      "__unknown_lastModifiedDate": 1748555305584,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 669693868,
+      "__unknown_productSubTitle": "Grundig CG 1504 1800 W Tost Makinesi Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7277277,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/30/61/34/92/59/73/53/14/96/41/92564411108472147138.png"
+        },
+        {
+          "id": 7277278,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/30/67/39/07/38/62/94/96/28/84/61078487402049614869.png"
+        },
+        {
+          "id": 7277279,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/30/76/31/16/84/75/77/33/83/91/23211092783577186997.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/30/61/34/92/59/73/53/14/96/41/92564411108472147138.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/30/61/34/92/59/73/53/14/96/41/92564411108472147138.png"
+    }
+  }
+]

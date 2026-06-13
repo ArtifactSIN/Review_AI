@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 124670,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mepps Aglia Tw Olta Kaşığı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774890133806,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774890133806,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 672108047,
+      "__unknown_productSubTitle": "Mepps Aglia Tw Olta Kaşığı Sarı - No:3",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 124671,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mepps Aglia Tw Olta Kaşığı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768489521135,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683423117,
+      "__unknown_productSubTitle": "Mepps Aglia Tw Olta Kaşığı Gümüş - No:3",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

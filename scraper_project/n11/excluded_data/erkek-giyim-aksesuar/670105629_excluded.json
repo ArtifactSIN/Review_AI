@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 574717,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kral Socks Erkek Çorap 6 Çift Dikişsiz Yazlık Bambu Kısa Patik Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765828945103,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670105629,
+      "__unknown_productSubTitle": "Kral Socks Erkek Çorap 6 Çift Dikişsiz Yazlık Bambu Kısa Patik Set 40 - 44",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 574718,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kral Socks Erkek Çorap 6 Çift Dikişsiz Yazlık Bambu Kısa Patik Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752518085043,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/14/47/11/26/70/53/51/21/71/89/35674852603685719653.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670105629,
+      "__unknown_productSubTitle": "Kral Socks Erkek Çorap 6 Çift Dikişsiz Yazlık Bambu Kısa Patik Set 40 - 44",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7444342,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/14/47/11/26/70/53/51/21/71/89/35674852603685719653.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/14/47/11/26/70/53/51/21/71/89/35674852603685719653.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/14/47/11/26/70/53/51/21/71/89/35674852603685719653.png"
+    }
+  }
+]

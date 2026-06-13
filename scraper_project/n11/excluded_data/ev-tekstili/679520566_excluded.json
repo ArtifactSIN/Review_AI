@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 633677,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çift Mekanizmalı Tül Ve Stor Perde - Model 8 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764439524947,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679520502,
+      "__unknown_productSubTitle": "Çift Mekanizmalı Tül Ve Stor Perde - Model 8 Beyaz 170 x 200",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 633678,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çift Mekanizmalı Tül Ve Stor Perde - Model 8 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764177029354,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/26/88/08/12/02/14/39/26/19/43/97253847509055786490.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679520525,
+      "__unknown_productSubTitle": "Çift Mekanizmalı Tül Ve Stor Perde - Model 8 Beyaz 150 x 200",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8028373,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/26/88/08/12/02/14/39/26/19/43/97253847509055786490.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/26/88/08/12/02/14/39/26/19/43/97253847509055786490.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/26/88/08/12/02/14/39/26/19/43/97253847509055786490.png"
+    }
+  },
+  {
+    "gid_ref": 633679,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çift Mekanizmalı Tül Ve Stor Perde - Model 8 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756742341664,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679520526,
+      "__unknown_productSubTitle": "Çift Mekanizmalı Tül Ve Stor Perde - Model 8 Beyaz 100 x 260",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

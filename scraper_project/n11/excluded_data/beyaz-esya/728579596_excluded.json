@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 303304,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Siemens LC66KPJ20T 60 CM Duvar Tipi Davlumbaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762545253761,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712268346,
+      "__unknown_productSubTitle": "Siemens LC66KPJ20T 60 CM Duvar Tipi Davlumbaz Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 303305,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Siemens LC66KPJ20T 60 CM Duvar Tipi Davlumbaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744751371345,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/16/89/31/17/93/69/34/79/35/24/93618344707935453343.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632288156,
+      "__unknown_productSubTitle": "Siemens LC66KPJ20T 60 CM Duvar Tipi Davlumbaz Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7106751,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/16/89/31/17/93/69/34/79/35/24/93618344707935453343.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/16/89/31/17/93/69/34/79/35/24/93618344707935453343.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/16/89/31/17/93/69/34/79/35/24/93618344707935453343.png"
+    }
+  },
+  {
+    "gid_ref": 303306,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Siemens LC66KPJ20T 60 CM Duvar Tipi Davlumbaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729795652595,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632288156,
+      "__unknown_productSubTitle": "Siemens LC66KPJ20T 60 CM Duvar Tipi Davlumbaz Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

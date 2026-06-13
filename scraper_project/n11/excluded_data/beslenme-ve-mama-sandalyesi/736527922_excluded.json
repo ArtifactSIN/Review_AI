@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 279691,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sma Optıpro Probıyotık 1200 Gr.",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747730545637,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670350181,
+      "__unknown_productSubTitle": "Sma Optıpro Probıyotık 1200 Gr. ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 279692,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sma Optıpro Probıyotık 1200 Gr.",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747162910650,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670350181,
+      "__unknown_productSubTitle": "Sma Optıpro Probıyotık 1200 Gr. ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

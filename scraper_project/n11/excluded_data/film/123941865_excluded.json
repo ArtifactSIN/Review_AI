@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 734797,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün",
+      "productTitle": "Delibal - DVD",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1553788543335,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 123941865,
+      "__unknown_productSubTitle": "Delibal - DVD",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

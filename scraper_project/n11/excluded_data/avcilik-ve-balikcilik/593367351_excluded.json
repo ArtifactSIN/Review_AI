@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 119719,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kendo Legend 3.90m 80-180gr Olta Kamışı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766816406599,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593367351,
+      "__unknown_productSubTitle": "Kendo Legend 3.90m 80-180gr Olta Kamışı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 119720,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kendo Legend 3.90m 80-180gr Olta Kamışı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739660941809,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/16/74/42/40/52/46/32/40/15/46/56189381710308686287.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 729917863,
+      "__unknown_productSubTitle": "Kendo Legend 3.90m 80-180gr Olta Kamışı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6847484,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/16/74/42/40/52/46/32/40/15/46/56189381710308686287.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/16/74/42/40/52/46/32/40/15/46/56189381710308686287.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/16/74/42/40/52/46/32/40/15/46/56189381710308686287.png"
+    }
+  }
+]

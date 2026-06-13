@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 495307,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lansinoh Stroge Steril Süt Saklama Poşeti 25 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1736806261909,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 109037610,
+      "__unknown_productSubTitle": "Lansinoh Stroge Steril Süt Saklama Poşeti 25 Adet Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 495308,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lansinoh Stroge Steril Süt Saklama Poşeti 25 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732906280972,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594884494,
+      "__unknown_productSubTitle": "Lansinoh Stroge Steril Süt Saklama Poşeti 25 Adet Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 495309,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lansinoh Stroge Steril Süt Saklama Poşeti 25 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1723037563457,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 396636650,
+      "__unknown_productSubTitle": "Lansinoh Stroge Steril Süt Saklama Poşeti 25 Adet Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

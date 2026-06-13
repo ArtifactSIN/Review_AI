@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1335618,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 240 S Efsane/ 260 G Direksiyon Orta Kapak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734118252447,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539989489,
+      "__unknown_productSubTitle": "Massey Ferguson 240 S Efsane/ 260 G Direksiyon Orta Kapak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1335619,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 240 S Efsane/ 260 G Direksiyon Orta Kapak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719506271301,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539989489,
+      "__unknown_productSubTitle": "Massey Ferguson 240 S Efsane/ 260 G Direksiyon Orta Kapak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,883 @@
+[
+  {
+    "gid_ref": 1272959,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773385739470,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773385739470,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732185590,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272960,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771532276335,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675624952,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272961,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771491714524,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/19/91/44/26/98/01/72/65/21/85/43208649122162689445.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675624952,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8389551,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/19/91/44/26/98/01/72/65/21/85/43208649122162689445.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/19/91/44/26/98/01/72/65/21/85/43208649122162689445.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/19/91/44/26/98/01/72/65/21/85/43208649122162689445.png"
+    }
+  },
+  {
+    "gid_ref": 1272962,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769665926863,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682384545,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272963,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767620603548,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675624464,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272964,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767107348792,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665259044,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272965,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766007317032,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667256505,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272966,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763940261467,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/24/53/68/43/37/97/73/40/80/32/17214485942831760206.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666267174,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8005826,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/24/53/68/43/37/97/73/40/80/32/17214485942831760206.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/24/53/68/43/37/97/73/40/80/32/17214485942831760206.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/24/53/68/43/37/97/73/40/80/32/17214485942831760206.png"
+    }
+  },
+  {
+    "gid_ref": 1272967,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762432328829,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667256505,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272968,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761225230421,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 713178243,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272969,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760424652740,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666267153,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272970,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758526973972,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 669603431,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272971,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756481616121,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665259044,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272972,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1755683541570,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/20/52/40/13/64/19/05/40/86/07/28628580092358079696.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665259044,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7572398,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/20/52/40/13/64/19/05/40/86/07/28628580092358079696.png"
+        },
+        {
+          "id": 7572399,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/20/80/88/03/71/90/02/89/82/82/9616788450507768289.png"
+        },
+        {
+          "id": 7586250,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/20/74/02/11/00/25/62/55/11/53/47843411641256162500.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/20/52/40/13/64/19/05/40/86/07/28628580092358079696.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/20/52/40/13/64/19/05/40/86/07/28628580092358079696.png"
+    }
+  },
+  {
+    "gid_ref": 1272973,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1755256784960,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667344233,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272974,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1754937464465,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667344233,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272975,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754919217254,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675624952,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272976,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754857131532,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/10/91/28/31/15/59/90/71/11/34/87767016630330440626.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667256505,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7541501,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/10/91/28/31/15/59/90/71/11/34/87767016630330440626.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/10/91/28/31/15/59/90/71/11/34/87767016630330440626.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/10/91/28/31/15/59/90/71/11/34/87767016630330440626.png"
+    }
+  },
+  {
+    "gid_ref": 1272977,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754636773288,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667256505,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272978,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1754570603561,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665259044,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272979,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1754308522702,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665259044,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272980,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752924844996,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666267174,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272981,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1752582322070,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665259044,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272982,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752161814529,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667256505,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272983,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1752095891488,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665259044,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272984,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752095885440,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667256505,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272985,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1751970031740,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 681354689,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272986,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1751786947537,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667256505,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272987,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1751641844116,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666267174,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272988,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1750965486978,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667344233,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272989,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1750832582741,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 672138641,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272990,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1750756811642,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/24/59/04/91/31/70/91/53/08/25/35846619357282715313.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 680490957,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Açık Pembe 128 GB",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7367393,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/24/59/04/91/31/70/91/53/08/25/35846619357282715313.png"
+        },
+        {
+          "id": 7367394,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/24/65/46/29/16/66/92/90/98/51/11697560708304386509.png"
+        },
+        {
+          "id": 7367395,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/24/73/52/91/07/43/20/54/70/32/28499329530848757380.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/24/59/04/91/31/70/91/53/08/25/35846619357282715313.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/24/59/04/91/31/70/91/53/08/25/35846619357282715313.png"
+    }
+  },
+  {
+    "gid_ref": 1272991,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1750680030090,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665259044,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272992,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1750405547571,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665259044,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272993,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1749878528245,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665259044,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272994,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748854179440,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666267153,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272995,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1748320530967,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 672138641,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272996,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1748006270514,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 672138641,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272997,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747756741253,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665259044,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272998,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747733494528,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666267174,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Antrasit 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272999,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746886976787,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666267153,
+      "__unknown_productSubTitle": "Samsung Galaxy A56 5G 128 GB (Samsung Türkiye Garantili) Gri 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

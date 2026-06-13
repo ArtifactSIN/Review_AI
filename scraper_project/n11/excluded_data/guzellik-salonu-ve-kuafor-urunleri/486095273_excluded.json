@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 753342,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Solingen Siyah Kaş Makası - Kıvrık Ağızlı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1749859821281,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/14/80/35/27/33/21/09/75/62/06/87818738223938424577.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 486095273,
+      "__unknown_productSubTitle": "Solingen Siyah Kaş Makası - Kıvrık Ağızlı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7320331,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/14/80/35/27/33/21/09/75/62/06/87818738223938424577.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/14/80/35/27/33/21/09/75/62/06/87818738223938424577.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/14/80/35/27/33/21/09/75/62/06/87818738223938424577.jpg"
+    }
+  },
+  {
+    "gid_ref": 753343,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Solingen Siyah Kaş Makası - Kıvrık Ağızlı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730323515613,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/31/67/46/46/57/81/35/22/78/08/85555795269578633719.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 486095273,
+      "__unknown_productSubTitle": "Solingen Siyah Kaş Makası - Kıvrık Ağızlı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6065885,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/31/67/46/46/57/81/35/22/78/08/85555795269578633719.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/31/67/46/46/57/81/35/22/78/08/85555795269578633719.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/31/67/46/46/57/81/35/22/78/08/85555795269578633719.png"
+    }
+  },
+  {
+    "gid_ref": 753344,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Solingen Siyah Kaş Makası - Kıvrık Ağızlı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727009758526,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 486095273,
+      "__unknown_productSubTitle": "Solingen Siyah Kaş Makası - Kıvrık Ağızlı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

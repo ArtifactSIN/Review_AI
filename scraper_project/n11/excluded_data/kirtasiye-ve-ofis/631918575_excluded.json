@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 796016,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vagonlife Uzspace 3037 650ml Tritan Matara",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769490842900,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631918575,
+      "__unknown_productSubTitle": "Vagonlife Uzspace 3037 650ml Tritan Matara",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 796017,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vagonlife Uzspace 3037 650ml Tritan Matara",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766644042428,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631918575,
+      "__unknown_productSubTitle": "Vagonlife Uzspace 3037 650ml Tritan Matara",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 269241,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Munchkin Sabit Vakumlu Beslenme Tabağı 6+ Ay Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763234975510,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 548251642,
+      "__unknown_productSubTitle": "Munchkin Sabit Vakumlu Beslenme Tabağı 6+ Ay Yeşil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 269242,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Munchkin Sabit Vakumlu Beslenme Tabağı 6+ Ay Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732635915745,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/26/62/31/59/20/32/44/43/63/51/3825885159292028960.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 548251642,
+      "__unknown_productSubTitle": "Munchkin Sabit Vakumlu Beslenme Tabağı 6+ Ay Yeşil",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6328246,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/26/62/31/59/20/32/44/43/63/51/3825885159292028960.jpg"
+        },
+        {
+          "id": 6328247,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/26/66/27/32/27/34/68/59/86/39/02148983260834842654.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/26/62/31/59/20/32/44/43/63/51/3825885159292028960.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/26/62/31/59/20/32/44/43/63/51/3825885159292028960.jpg"
+    }
+  }
+]

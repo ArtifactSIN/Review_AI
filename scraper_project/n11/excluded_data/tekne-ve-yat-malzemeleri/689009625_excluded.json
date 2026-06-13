@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 1252081,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yangın Battaniyesi 2,1X1,6M",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774173784137,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/22/74/26/99/24/14/53/41/73/66/49067338740108082472.png",
+      "__unknown_lastModifiedDate": 1774173784137,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 689009625,
+      "__unknown_productSubTitle": "Yangın Battaniyesi 2,1X1,6M",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8492801,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/22/74/26/99/24/14/53/41/73/66/49067338740108082472.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/22/74/26/99/24/14/53/41/73/66/49067338740108082472.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/22/74/26/99/24/14/53/41/73/66/49067338740108082472.png"
+    }
+  }
+]

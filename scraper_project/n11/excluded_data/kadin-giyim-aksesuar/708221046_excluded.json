@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 777861,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin Kadın Siyah Kaban 50314165-vr046 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774935099815,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774935099815,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708221033,
+      "__unknown_productSubTitle": "Pierre Cardin Kadın Siyah Kaban 50314165-vr046 Siyah 36",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 777862,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin Kadın Siyah Kaban 50314165-vr046 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773867016008,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773867016008,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708220978,
+      "__unknown_productSubTitle": "Pierre Cardin Kadın Siyah Kaban 50314165-vr046 Siyah 40",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

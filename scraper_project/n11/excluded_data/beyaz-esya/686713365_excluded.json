@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 301346,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bosch WGK264ZRTR 11 KG 1400 Devir Çamaşır Makinesi Antrasit",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770388164027,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/06/69/54/76/84/79/00/79/99/82/04547269545443506538.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712350746,
+      "__unknown_productSubTitle": "Bosch WGK264ZRTR 11 KG 1400 Devir Çamaşır Makinesi Antrasit",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8330424,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/06/69/54/76/84/79/00/79/99/82/04547269545443506538.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/06/69/54/76/84/79/00/79/99/82/04547269545443506538.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/06/69/54/76/84/79/00/79/99/82/04547269545443506538.jpg"
+    }
+  },
+  {
+    "gid_ref": 301347,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bosch WGK264ZRTR 11 KG 1400 Devir Çamaşır Makinesi Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768640767316,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 686713365,
+      "__unknown_productSubTitle": "Bosch WGK264ZRTR 11 KG 1400 Devir Çamaşır Makinesi Antrasit",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

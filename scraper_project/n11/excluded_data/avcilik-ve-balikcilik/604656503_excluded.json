@@ -1,0 +1,68 @@
+[
+  {
+    "gid_ref": 120150,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ryuji 4 Cepli 3 Gözlü 100cm Lüx Olta Çantası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775219921545,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/03/54/49/53/98/72/25/07/91/37/08865960156304421108.jpg",
+      "__unknown_lastModifiedDate": 1775219921545,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604656503,
+      "__unknown_productSubTitle": "Ryuji 4 Cepli 3 Gözlü 100cm Lüx Olta Çantası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8565264,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/03/54/49/53/98/72/25/07/91/37/08865960156304421108.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/03/54/49/53/98/72/25/07/91/37/08865960156304421108.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/03/54/49/53/98/72/25/07/91/37/08865960156304421108.jpg"
+    }
+  },
+  {
+    "gid_ref": 120151,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ryuji 4 Cepli 3 Gözlü 100cm Lüx Olta Çantası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770572375761,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/08/91/24/01/66/89/08/37/73/91/44521142725996756346.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604656503,
+      "__unknown_productSubTitle": "Ryuji 4 Cepli 3 Gözlü 100cm Lüx Olta Çantası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8334299,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/08/91/24/01/66/89/08/37/73/91/44521142725996756346.png"
+        },
+        {
+          "id": 8340450,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/08/77/89/34/51/87/93/47/19/57/95074016514601405976.png"
+        },
+        {
+          "id": 8340451,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/08/78/27/49/22/20/27/17/54/32/74680721301744144064.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/08/91/24/01/66/89/08/37/73/91/44521142725996756346.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/08/91/24/01/66/89/08/37/73/91/44521142725996756346.png"
+    }
+  }
+]

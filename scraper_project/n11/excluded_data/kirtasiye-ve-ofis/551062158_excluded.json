@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 786796,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Faber Castell Creative Studio Toz Pastel Boya Yarım Boy 72 Renk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762274452967,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551062158,
+      "__unknown_productSubTitle": "Faber Castell Creative Studio Toz Pastel Boya Yarım Boy 72 Renk",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 786797,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "yetersiz paketleme",
+      "productTitle": "Faber Castell Creative Studio Toz Pastel Boya Yarım Boy 72 Renk",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1626449025494,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1737373397942,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 220927323,
+      "__unknown_productSubTitle": "Faber Castell Creative Studio Toz Pastel Boya Yarım Boy 72 Renk",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

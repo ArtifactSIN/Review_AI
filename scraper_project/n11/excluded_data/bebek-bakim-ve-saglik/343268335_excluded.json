@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 184271,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rhinobebe Yedek Uç Maxi Paket 3 Kutu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732437515340,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 343268335,
+      "__unknown_productSubTitle": "Rhinobebe Yedek Uç Maxi Paket 3 Kutu Şeffaf",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 184272,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Uygun fiyat kaliteli ürün",
+      "productTitle": "Rhinobebe Yedek Uç Maxi Paket 3 Kutu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1599736610704,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 343268335,
+      "__unknown_productSubTitle": "Rhinobebe Yedek Uç Maxi Paket 3 Kutu Şeffaf",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

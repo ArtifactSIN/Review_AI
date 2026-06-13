@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 264445,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "%100 Organik Pamuk Penye Lastikli Bebek Çarşafı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775400531334,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775400531334,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721523721,
+      "__unknown_productSubTitle": "%100 Organik Pamuk Penye Lastikli Bebek Çarşafı Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 264446,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "%100 Organik Pamuk Penye Lastikli Bebek Çarşafı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1746510225960,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/06/79/06/30/25/08/07/56/44/73/51083162931638257993.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 660975707,
+      "__unknown_productSubTitle": "%100 Organik Pamuk Penye Lastikli Bebek Çarşafı Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7179412,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/06/79/06/30/25/08/07/56/44/73/51083162931638257993.jpg"
+        },
+        {
+          "id": 7179413,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/06/62/46/34/50/46/54/57/65/32/62155467815690285223.jpg"
+        },
+        {
+          "id": 7179414,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/06/60/70/75/79/95/36/74/43/70/76546602469487327221.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/06/79/06/30/25/08/07/56/44/73/51083162931638257993.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/06/79/06/30/25/08/07/56/44/73/51083162931638257993.jpg"
+    }
+  }
+]

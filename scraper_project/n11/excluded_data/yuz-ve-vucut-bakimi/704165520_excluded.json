@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1517128,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Men Expert Total Clean 5i1 Duş Jeli 300 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713877959798,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573809758,
+      "__unknown_productSubTitle": "L'Oreal Paris Men Expert Total Clean 5i1 Duş Jeli 300 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1517129,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Men Expert Total Clean 5i1 Duş Jeli 300 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1712251740141,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573809758,
+      "__unknown_productSubTitle": "L'Oreal Paris Men Expert Total Clean 5i1 Duş Jeli 300 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

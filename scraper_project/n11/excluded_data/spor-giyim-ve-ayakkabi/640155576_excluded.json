@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1159995,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gsstore Umbro Sweatshırt Tc-0114-1 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766018461355,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640155572,
+      "__unknown_productSubTitle": "Gsstore Umbro Sweatshırt Tc-0114-1 Siyah XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1159996,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gsstore Umbro Sweatshırt Tc-0114-1 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766004317512,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/17/67/37/22/71/90/73/93/10/26/99011515781392284179.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640155575,
+      "__unknown_productSubTitle": "Gsstore Umbro Sweatshırt Tc-0114-1 Siyah L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8127844,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/17/67/37/22/71/90/73/93/10/26/99011515781392284179.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/17/67/37/22/71/90/73/93/10/26/99011515781392284179.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/17/67/37/22/71/90/73/93/10/26/99011515781392284179.png"
+    }
+  },
+  {
+    "gid_ref": 1159997,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gsstore Umbro Sweatshırt Tc-0114-1 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766004212667,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640155573,
+      "__unknown_productSubTitle": "Gsstore Umbro Sweatshırt Tc-0114-1 Siyah S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

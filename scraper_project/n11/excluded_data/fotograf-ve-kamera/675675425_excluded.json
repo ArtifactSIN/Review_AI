@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 752252,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP DVD-R 4.7 GB 120 Min 16 X 50'Li Shrink",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1752269986815,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577134116,
+      "__unknown_productSubTitle": "HP DVD-R 4.7 GB 120 Min 16 X 50'Li Shrink",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 752253,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP DVD-R 4.7 GB 120 Min 16 X 50'Li Shrink",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1684830101146,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577134116,
+      "__unknown_productSubTitle": "HP DVD-R 4.7 GB 120 Min 16 X 50'Li Shrink",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 749962,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Panasonic Cga-S005E Batarya Pil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725299188952,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/02/69/69/34/29/61/86/63/67/80/35063297381039293612.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 328628036,
+      "__unknown_productSubTitle": "Panasonic Cga-S005E Batarya Pil",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5561289,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/02/69/69/34/29/61/86/63/67/80/35063297381039293612.jpg"
+        },
+        {
+          "id": 5561290,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/02/64/15/89/71/61/64/20/92/04/565705705576285556.jpg"
+        },
+        {
+          "id": 5561291,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/02/89/29/45/85/20/01/28/53/96/37537805439093852092.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/02/69/69/34/29/61/86/63/67/80/35063297381039293612.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/02/69/69/34/29/61/86/63/67/80/35063297381039293612.jpg"
+    }
+  },
+  {
+    "gid_ref": 749963,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Panasonic Cga-S005E Batarya Pil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1698914216816,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 328628036,
+      "__unknown_productSubTitle": "Panasonic Cga-S005E Batarya Pil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

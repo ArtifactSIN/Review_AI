@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 395463,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Matrax Flexy Tangles 150 Parça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772186808198,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600969764,
+      "__unknown_productSubTitle": "Matrax Flexy Tangles 150 Parça",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 395464,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Matrax Flexy Tangles 150 Parça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741854541084,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/13/88/46/31/15/93/85/62/81/17/56580135874932159372.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600969764,
+      "__unknown_productSubTitle": "Matrax Flexy Tangles 150 Parça",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6967400,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/13/88/46/31/15/93/85/62/81/17/56580135874932159372.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/13/88/46/31/15/93/85/62/81/17/56580135874932159372.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/13/88/46/31/15/93/85/62/81/17/56580135874932159372.png"
+    }
+  },
+  {
+    "gid_ref": 395465,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Matrax Flexy Tangles 150 Parça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734282901515,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600969764,
+      "__unknown_productSubTitle": "Matrax Flexy Tangles 150 Parça",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 395466,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Matrax Flexy Tangles 150 Parça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728458528910,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/09/53/13/78/91/08/94/79/86/99/24828821765860340677.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600969764,
+      "__unknown_productSubTitle": "Matrax Flexy Tangles 150 Parça",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5878268,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/09/53/13/78/91/08/94/79/86/99/24828821765860340677.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/09/53/13/78/91/08/94/79/86/99/24828821765860340677.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/09/53/13/78/91/08/94/79/86/99/24828821765860340677.jpeg"
+    }
+  }
+]

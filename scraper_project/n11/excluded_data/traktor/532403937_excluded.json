@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 1335604,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 135/148/240 S Orta Kol Pimi 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715448492460,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/11/59/27/31/78/48/06/45/49/51/38538336498676709479.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 532403937,
+      "__unknown_productSubTitle": "Massey Ferguson 135/148/240 S Orta Kol Pimi 2 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4660666,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/11/56/58/67/79/13/38/21/01/95/0978835518145054971.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/11/59/27/31/78/48/06/45/49/51/38538336498676709479.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/11/59/27/31/78/48/06/45/49/51/38538336498676709479.jpg"
+    }
+  },
+  {
+    "gid_ref": 1335605,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 135/148/240 S Orta Kol Pimi 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1650387556483,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/04/19/71/22/98/33/20/14/66/33/49/26080746239333844484.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 532403937,
+      "__unknown_productSubTitle": "Massey Ferguson 135/148/240 S Orta Kol Pimi 2 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 541397,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/04/19/71/22/98/33/20/14/66/33/49/26080746239333844484.jpg"
+        },
+        {
+          "id": 541398,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/04/19/89/75/55/90/00/01/28/59/50/96276477831212940647.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/04/19/71/22/98/33/20/14/66/33/49/26080746239333844484.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/04/19/71/22/98/33/20/14/66/33/49/26080746239333844484.jpg"
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 1251612,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tekne Burun Seyir Feneri. Paslanmaz. Iskele Sancak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728286077814,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 407579228,
+      "__unknown_productSubTitle": "Tekne Burun Seyir Feneri. Paslanmaz. Iskele Sancak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251613,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tekne Burun Seyir Feneri. Paslanmaz. Iskele Sancak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1712685123935,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 407579228,
+      "__unknown_productSubTitle": "Tekne Burun Seyir Feneri. Paslanmaz. Iskele Sancak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251614,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tekne Burun Seyir Feneri. Paslanmaz. Iskele Sancak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1684063085410,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569934242,
+      "__unknown_productSubTitle": "Tekne Burun Seyir Feneri. Paslanmaz. Iskele Sancak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251615,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Şık",
+      "productTitle": "Tekne Burun Seyir Feneri. Paslanmaz. Iskele Sancak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1590436055451,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 407579228,
+      "__unknown_productSubTitle": "Tekne Burun Seyir Feneri. Paslanmaz. Iskele Sancak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

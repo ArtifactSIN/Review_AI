@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 897127,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motul C3 400 ML + Zincir Temizleme Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770279321095,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/05/74/14/42/21/54/46/97/64/89/34723615562086500115.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700428845,
+      "__unknown_productSubTitle": "Motul C3 400 ML+ Zincir Temizleme Fırçası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8328653,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/05/74/14/42/21/54/46/97/64/89/34723615562086500115.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/05/74/14/42/21/54/46/97/64/89/34723615562086500115.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/05/74/14/42/21/54/46/97/64/89/34723615562086500115.png"
+    }
+  },
+  {
+    "gid_ref": 897128,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motul C3 400 ML + Zincir Temizleme Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767427585243,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700428845,
+      "__unknown_productSubTitle": "Motul C3 400 ML+ Zincir Temizleme Fırçası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

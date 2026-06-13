@@ -1,0 +1,131 @@
+[
+  {
+    "gid_ref": 1509264,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vichy Liftactiv Collagen Specialist Göz Bakım Kremi 15 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768244374433,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640066669,
+      "__unknown_productSubTitle": "Vichy Liftactiv Collagen Specialist Göz Bakım Kremi 15 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1509265,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vichy Liftactiv Collagen Specialist Göz Bakım Kremi 15 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1746624095246,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598895201,
+      "__unknown_productSubTitle": "Vichy Liftactiv Collagen Specialist Göz Bakım Kremi 15 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1509266,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vichy Liftactiv Collagen Specialist Göz Bakım Kremi 15 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739014485331,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/08/53/24/85/65/10/76/70/60/64/34398243009474478674.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606406858,
+      "__unknown_productSubTitle": "Vichy Liftactiv Collagen Specialist Göz Bakım Kremi 15 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6810920,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/08/53/24/85/65/10/76/70/60/64/34398243009474478674.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/08/53/24/85/65/10/76/70/60/64/34398243009474478674.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/08/53/24/85/65/10/76/70/60/64/34398243009474478674.jpg"
+    }
+  },
+  {
+    "gid_ref": 1509267,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vichy Liftactiv Collagen Specialist Göz Bakım Kremi 15 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738778007746,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606406858,
+      "__unknown_productSubTitle": "Vichy Liftactiv Collagen Specialist Göz Bakım Kremi 15 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1509268,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vichy Liftactiv Collagen Specialist Göz Bakım Kremi 15 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728904508299,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606406858,
+      "__unknown_productSubTitle": "Vichy Liftactiv Collagen Specialist Göz Bakım Kremi 15 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1509269,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vichy Liftactiv Collagen Specialist Göz Bakım Kremi 15 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719431835946,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600483390,
+      "__unknown_productSubTitle": "Vichy Liftactiv Collagen Specialist Göz Bakım Kremi 15 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

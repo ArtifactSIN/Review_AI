@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 526155,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-575 Profesyonel Günlük Sakal Tıraş Makinesi + Yedek Başlık",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767106560694,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652131676,
+      "__unknown_productSubTitle": "Powertec TR-575 Profesyonel Günlük Sakal Tıraş Makinesi + Yedek Başlık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 526156,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-575 Profesyonel Günlük Sakal Tıraş Makinesi + Yedek Başlık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758548789693,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/22/58/01/14/00/75/98/60/35/19/54994970771841531231.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641112923,
+      "__unknown_productSubTitle": "Powertec TR-575 Profesyonel Günlük Sakal Tıraş Makinesi + Yedek Başlık",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7713821,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/22/58/01/14/00/75/98/60/35/19/54994970771841531231.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/22/58/01/14/00/75/98/60/35/19/54994970771841531231.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/22/58/01/14/00/75/98/60/35/19/54994970771841531231.png"
+    }
+  },
+  {
+    "gid_ref": 526157,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-575 Profesyonel Günlük Sakal Tıraş Makinesi + Yedek Başlık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739488043107,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641112923,
+      "__unknown_productSubTitle": "Powertec TR-575 Profesyonel Günlük Sakal Tıraş Makinesi + Yedek Başlık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

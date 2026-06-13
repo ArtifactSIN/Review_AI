@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1061921,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vichy Dercos Densi Solution Saç Bakım Serumu 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1704300487178,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 419997277,
+      "__unknown_productSubTitle": "Vichy Dercos Densi Solution Saç Bakım Serumu 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1061922,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vichy Dercos Densi Solution Saç Bakım Serumu 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1670934265506,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 518506062,
+      "__unknown_productSubTitle": "Vichy Dercos Densi Solution Saç Bakım Serumu 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 378399,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sunringle Jant Çemberi Inferno 23 26\" Disk 32D",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725451653693,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 502807245,
+      "__unknown_productSubTitle": "Sunringle Jant Çemberi Inferno 23 26\" Disk 32D",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 378400,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sunringle Jant Çemberi Inferno 23 26\" Disk 32D",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710698489453,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/17/78/21/51/09/44/26/87/17/75/86363632249681038761.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 502807245,
+      "__unknown_productSubTitle": "Sunringle Jant Çemberi Inferno 23 26\" Disk 32D",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4157704,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/17/78/21/51/09/44/26/87/17/75/86363632249681038761.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/17/78/21/51/09/44/26/87/17/75/86363632249681038761.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/17/78/21/51/09/44/26/87/17/75/86363632249681038761.jpg"
+    }
+  },
+  {
+    "gid_ref": 378401,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "harika",
+      "productTitle": "Sunringle Jant Çemberi Inferno 23 26\" Disk 32D",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1666348920898,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/10/21/57/05/60/97/20/79/74/64/57/01210231910866662884.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 502807245,
+      "__unknown_productSubTitle": "Sunringle Jant Çemberi Inferno 23 26\" Disk 32D",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1170503,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/10/21/57/05/60/97/20/79/74/64/57/01210231910866662884.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/10/21/57/05/60/97/20/79/74/64/57/01210231910866662884.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/10/21/57/05/60/97/20/79/74/64/57/01210231910866662884.jpeg"
+    }
+  }
+]

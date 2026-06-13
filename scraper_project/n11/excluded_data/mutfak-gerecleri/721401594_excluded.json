@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 934737,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yunusoğlu Home Klasik Çaydanlık Takımı 0,8l Demlik 1,25l Alt Demlik Paslanmaz Çelik Soğuk Tutma Saplı Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775905032574,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/11/49/77/79/40/60/07/36/65/69/02409456119022796204.png",
+      "__unknown_lastModifiedDate": 1775905032574,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721401594,
+      "__unknown_productSubTitle": "Yunusoğlu Home Klasik Çaydanlık Takımı 0,8l Demlik 1,25l Alt Demlik Paslanmaz Çelik Soğuk Tutma Saplı Gri ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8591875,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/11/49/77/79/40/60/07/36/65/69/02409456119022796204.png"
+        },
+        {
+          "id": 8591876,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/11/47/11/69/14/33/31/82/10/94/59056500478486202711.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/11/49/77/79/40/60/07/36/65/69/02409456119022796204.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/11/49/77/79/40/60/07/36/65/69/02409456119022796204.png"
+    }
+  },
+  {
+    "gid_ref": 934738,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yunusoğlu Home Klasik Çaydanlık Takımı 0,8l Demlik 1,25l Alt Demlik Paslanmaz Çelik Soğuk Tutma Saplı Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775510315012,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/07/58/41/23/73/08/55/05/79/13/3681074106461473977.png",
+      "__unknown_lastModifiedDate": 1775510315012,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 721401594,
+      "__unknown_productSubTitle": "Yunusoğlu Home Klasik Çaydanlık Takımı 0,8l Demlik 1,25l Alt Demlik Paslanmaz Çelik Soğuk Tutma Saplı Gri ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8576858,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/07/58/41/23/73/08/55/05/79/13/3681074106461473977.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/07/58/41/23/73/08/55/05/79/13/3681074106461473977.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/07/58/41/23/73/08/55/05/79/13/3681074106461473977.png"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 791164,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Everest JP-710C Evrak İmha Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763892337815,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/23/57/82/81/89/40/15/20/87/44/92323732313060194009.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659340983,
+      "__unknown_productSubTitle": "Everest JP-710C Evrak İmha Makinesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8007057,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/23/57/82/81/89/40/15/20/87/44/92323732313060194009.png"
+        },
+        {
+          "id": 8007058,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/23/77/23/65/81/08/10/63/45/14/66958269636759893757.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/23/57/82/81/89/40/15/20/87/44/92323732313060194009.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/23/57/82/81/89/40/15/20/87/44/92323732313060194009.png"
+    }
+  },
+  {
+    "gid_ref": 791165,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Everest JP-710C Evrak İmha Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1742297553418,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604039546,
+      "__unknown_productSubTitle": "Everest JP-710C Evrak İmha Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 791166,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Everest JP-710C Evrak İmha Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1586014917474,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 282396221,
+      "__unknown_productSubTitle": "Everest JP-710C Evrak İmha Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

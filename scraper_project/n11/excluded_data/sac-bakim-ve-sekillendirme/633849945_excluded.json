@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1054781,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Elseve Hyaluron Pure Scalp Yağlanma Karşıtı Peeling Etkili Saç Serumu 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743629659974,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645385217,
+      "__unknown_productSubTitle": "Elseve Hyaluron Pure Scalp Yağlanma Karşıtı Peeling Etkili Saç Serumu 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1054782,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Elseve Hyaluron Pure Scalp Yağlanma Karşıtı Peeling Etkili Saç Serumu 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728759512404,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/12/75/57/17/16/27/07/29/77/38/63423493196893633808.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635468492,
+      "__unknown_productSubTitle": "Elseve Hyaluron Pure Scalp Yağlanma Karşıtı Peeling Etkili Saç Serumu 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5908434,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/12/75/57/17/16/27/07/29/77/38/63423493196893633808.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/12/75/57/17/16/27/07/29/77/38/63423493196893633808.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/12/75/57/17/16/27/07/29/77/38/63423493196893633808.png"
+    }
+  }
+]

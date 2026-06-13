@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 396229,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Masha&Koca Ayı Oyun Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774425000113,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774425000113,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 622242223,
+      "__unknown_productSubTitle": "Masha&Koca Ayı Oyun Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 396230,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Masha&Koca Ayı Oyun Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1749107124655,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 622242223,
+      "__unknown_productSubTitle": "Masha&Koca Ayı Oyun Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 396231,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Masha&Koca Ayı Oyun Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738334778556,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 622242223,
+      "__unknown_productSubTitle": "Masha&Koca Ayı Oyun Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

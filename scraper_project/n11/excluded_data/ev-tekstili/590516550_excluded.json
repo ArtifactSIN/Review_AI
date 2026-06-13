@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 612900,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Roni Pvc Masa Örtüsü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774939064915,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774939064915,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590516550,
+      "__unknown_productSubTitle": "Madame Coco Roni Pvc Masa Örtüsü 140 x 200",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 612901,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Roni Pvc Masa Örtüsü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764075582155,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590516550,
+      "__unknown_productSubTitle": "Madame Coco Roni Pvc Masa Örtüsü 140 x 200",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 612902,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Roni Pvc Masa Örtüsü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753190697157,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/22/64/82/48/58/17/80/48/97/28/04226054352937373137.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590516550,
+      "__unknown_productSubTitle": "Madame Coco Roni Pvc Masa Örtüsü 140 x 200",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7470633,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/22/64/82/48/58/17/80/48/97/28/04226054352937373137.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/22/64/82/48/58/17/80/48/97/28/04226054352937373137.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/22/64/82/48/58/17/80/48/97/28/04226054352937373137.jpg"
+    }
+  },
+  {
+    "gid_ref": 612903,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Roni Pvc Masa Örtüsü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724512248811,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585320713,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 612904,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Roni Pvc Masa Örtüsü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1723225077552,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590516550,
+      "__unknown_productSubTitle": "Madame Coco Roni Pvc Masa Örtüsü 140 x 200",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

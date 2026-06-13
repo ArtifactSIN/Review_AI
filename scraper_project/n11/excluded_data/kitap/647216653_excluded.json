@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 814616,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bilsem Mülakat 1.2.3. Sınıf için Ortak Kitap -  Editör",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774652499257,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774652499257,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647216653,
+      "__unknown_productSubTitle": "Bilsem Mülakat 1.2.3. Sınıf için Ortak Kitap -  Editör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 814617,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bilsem Mülakat 1.2.3. Sınıf için Ortak Kitap -  Editör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728996451306,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584229212,
+      "__unknown_productSubTitle": "Bilsem Mülakat 1.2.3. Sınıf için Ortak Kitap -  Editör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 814618,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bilsem Mülakat 1.2.3. Sınıf için Ortak Kitap -  Editör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715081518576,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584229212,
+      "__unknown_productSubTitle": "Bilsem Mülakat 1.2.3. Sınıf için Ortak Kitap -  Editör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 814619,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bilsem Mülakat 1.2.3. Sınıf için Ortak Kitap -  Editör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1714602139521,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/02/86/17/27/87/84/76/88/73/68/52823210763765922352.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584229212,
+      "__unknown_productSubTitle": "Bilsem Mülakat 1.2.3. Sınıf için Ortak Kitap -  Editör",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4564481,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/02/86/17/27/87/84/76/88/73/68/52823210763765922352.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/02/86/17/27/87/84/76/88/73/68/52823210763765922352.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/02/86/17/27/87/84/76/88/73/68/52823210763765922352.png"
+    }
+  },
+  {
+    "gid_ref": 814620,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bilsem Mülakat 1.2.3. Sınıf için Ortak Kitap -  Editör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1714252990358,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584229212,
+      "__unknown_productSubTitle": "Bilsem Mülakat 1.2.3. Sınıf için Ortak Kitap -  Editör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

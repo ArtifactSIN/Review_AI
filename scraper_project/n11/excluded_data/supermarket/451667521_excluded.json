@@ -1,0 +1,119 @@
+[
+  {
+    "gid_ref": 1183423,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nescafe 2 si 1 Arada Hazır Kahve 40 x 5 G 20'li Koli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742223733729,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 451667521,
+      "__unknown_productSubTitle": "Nescafe 2 si 1 Arada Hazır Kahve 40 x 5 G 20'li Koli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1183424,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nescafe 2 si 1 Arada Hazır Kahve 40 x 5 G 20'li Koli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714548397022,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/01/48/27/20/91/12/86/73/61/09/21965720451081128640.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 451667521,
+      "__unknown_productSubTitle": "Nescafe 2 si 1 Arada Hazır Kahve 40 x 5 G 20'li Koli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4553048,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/01/48/27/20/91/12/86/73/61/09/21965720451081128640.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/01/48/27/20/91/12/86/73/61/09/21965720451081128640.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/01/48/27/20/91/12/86/73/61/09/21965720451081128640.png"
+    }
+  },
+  {
+    "gid_ref": 1183425,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nescafe 2 si 1 Arada Hazır Kahve 40 x 5 G 20'li Koli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711638605515,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/28/72/80/54/16/00/74/45/46/38/71410971780288561865.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 451667521,
+      "__unknown_productSubTitle": "Nescafe 2 si 1 Arada Hazır Kahve 40 x 5 G 20'li Koli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4268678,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/28/72/80/54/16/00/74/45/46/38/71410971780288561865.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/28/72/80/54/16/00/74/45/46/38/71410971780288561865.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/28/72/80/54/16/00/74/45/46/38/71410971780288561865.png"
+    }
+  },
+  {
+    "gid_ref": 1183426,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nescafe 2 si 1 Arada Hazır Kahve 40 x 5 G 20'li Koli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708010173066,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 522855453,
+      "__unknown_productSubTitle": "Nescafe 2 si 1 Arada Hazır Kahve 40 x 5 G 20'li Koli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1183427,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "İyi",
+      "productTitle": "Nescafe 2 si 1 Arada Hazır Kahve 40 x 5 G 20'li Koli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1645297561215,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 451667521,
+      "__unknown_productSubTitle": "Nescafe 2 si 1 Arada Hazır Kahve 40 x 5 G 20'li Koli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

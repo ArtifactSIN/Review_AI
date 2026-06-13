@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1122382,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nbtlife Methyllife B Vitamin Kompleksi içeren Takviye Edici Gıda 60 Kapsül",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774536865181,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/52/12/49/36/00/44/72/08/28/46235053223208961116.jpg",
+      "__unknown_lastModifiedDate": 1774536865181,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 671031248,
+      "__unknown_productSubTitle": "Nbtlife Methyllife B Vitamin Kompleksi içeren Takviye Edici Gıda 60 Kapsül",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8516864,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/52/12/49/36/00/44/72/08/28/46235053223208961116.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/52/12/49/36/00/44/72/08/28/46235053223208961116.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/52/12/49/36/00/44/72/08/28/46235053223208961116.jpg"
+    }
+  },
+  {
+    "gid_ref": 1122383,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nbtlife Methyllife B Vitamin Kompleksi içeren Takviye Edici Gıda 60 Kapsül",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1742306645159,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633407302,
+      "__unknown_productSubTitle": "Nbtlife Methyllife B Vitamin Kompleksi içeren Takviye Edici Gıda 60 Kapsül",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1122384,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nbtlife Methyllife B Vitamin Kompleksi içeren Takviye Edici Gıda 60 Kapsül",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729875109633,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 608357219,
+      "__unknown_productSubTitle": "Nbtlife Methyllife B Vitamin Kompleksi içeren Takviye Edici Gıda 60 Kapsül",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

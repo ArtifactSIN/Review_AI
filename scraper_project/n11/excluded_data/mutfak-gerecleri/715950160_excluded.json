@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 934218,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Emsan Pro Tri Ply Tava 24 Cm Gümüş",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775323493185,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775323493185,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 715950160,
+      "__unknown_productSubTitle": "Emsan Pro Tri Ply Tava 24 Cm Gümüş ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 934219,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Emsan Pro Tri Ply Tava 24 Cm Gümüş",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762015395904,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/01/47/06/99/29/08/80/53/12/40/98125248020154761248.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 644552796,
+      "__unknown_productSubTitle": "Emsan Pro Tri Ply Tava 24 Cm Gümüş ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7907417,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/01/47/06/99/29/08/80/53/12/40/98125248020154761248.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/01/47/06/99/29/08/80/53/12/40/98125248020154761248.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/01/47/06/99/29/08/80/53/12/40/98125248020154761248.jpg"
+    }
+  }
+]

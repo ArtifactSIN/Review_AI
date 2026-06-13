@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 274787,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Hüsran bir alışveriş oldu",
+      "productTitle": "Aptamil 1 Bebek Sütü 350 G 4 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1563623001212,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 360020844,
+      "__unknown_productSubTitle": "Aptamil 1 Bebek Sütü 350 G 4 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 176451,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zambak Plastik Star Çiftli Gırgır Z151",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762934799284,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646318221,
+      "__unknown_productSubTitle": "Zambak Plastik Star Çiftli Gırgır Z151",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 176452,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zambak Plastik Star Çiftli Gırgır Z151",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755100744098,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646318221,
+      "__unknown_productSubTitle": "Zambak Plastik Star Çiftli Gırgır Z151",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

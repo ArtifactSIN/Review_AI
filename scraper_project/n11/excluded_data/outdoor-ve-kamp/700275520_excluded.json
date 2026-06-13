@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 964233,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Salomon X Ultra 360 Gore-tex Erkek Outdoor Ayakkabı L47860400 L47860400 Lac Lacivert",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774725813292,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774725813292,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 699088141,
+      "__unknown_productSubTitle": "Salomon X Ultra 360 Gore-tex Erkek Outdoor Ayakkabı L47860400 L47860400 Lac Lacivert 42.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 964234,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Salomon X Ultra 360 Gore-tex Erkek Outdoor Ayakkabı L47860400 L47860400 Lac Lacivert",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767871187670,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/08/71/09/00/00/48/50/34/90/68/55247846652490826287.jpg",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 696653376,
+      "__unknown_productSubTitle": "Salomon X Ultra 360 Gore-tex Erkek Outdoor Ayakkabı L47860400 L47860400 Lac Lacivert 42.5",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8229971,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/08/71/09/00/00/48/50/34/90/68/55247846652490826287.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/08/71/09/00/00/48/50/34/90/68/55247846652490826287.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/08/71/09/00/00/48/50/34/90/68/55247846652490826287.jpg"
+    }
+  },
+  {
+    "gid_ref": 964235,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Salomon X Ultra 360 Gore-tex Erkek Outdoor Ayakkabı L47860400 L47860400 Lac Lacivert",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767603271890,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695371833,
+      "__unknown_productSubTitle": "Salomon X Ultra 360 Gore-tex Erkek Outdoor Ayakkabı L47860400 L47860400 Lac Lacivert 42",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

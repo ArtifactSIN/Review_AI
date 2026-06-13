@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 840470,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Color Riche Saten Bitişli Ruj 540 Nude Unstoppable",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726126042796,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/12/61/15/01/34/03/93/07/38/42/23428579445910030598.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594892855,
+      "__unknown_productSubTitle": "L'Oreal Paris Color Riche Saten Bitişli Ruj 540 Nude Unstoppable",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5648304,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/12/61/15/01/34/03/93/07/38/42/23428579445910030598.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/12/61/15/01/34/03/93/07/38/42/23428579445910030598.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/12/61/15/01/34/03/93/07/38/42/23428579445910030598.jpg"
+    }
+  },
+  {
+    "gid_ref": 840471,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Color Riche Saten Bitişli Ruj 540 Nude Unstoppable",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721660686884,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594892855,
+      "__unknown_productSubTitle": "L'Oreal Paris Color Riche Saten Bitişli Ruj 540 Nude Unstoppable",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

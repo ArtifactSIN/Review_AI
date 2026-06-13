@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 525414,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin PC-A31001 Yüksek Hızlı Yuvarlak Oynar Başlıklı Tıraş Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742884209105,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629680923,
+      "__unknown_productSubTitle": "Pierre Cardin PC-A31001 Yüksek Hızlı Yuvarlak Oynar Başlıklı Tıraş Makinesi Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 525415,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin PC-A31001 Yüksek Hızlı Yuvarlak Oynar Başlıklı Tıraş Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732287890147,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629680923,
+      "__unknown_productSubTitle": "Pierre Cardin PC-A31001 Yüksek Hızlı Yuvarlak Oynar Başlıklı Tıraş Makinesi Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 525416,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin PC-A31001 Yüksek Hızlı Yuvarlak Oynar Başlıklı Tıraş Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732001531296,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/19/52/72/82/77/94/60/11/49/19/6156658584822265547.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629680923,
+      "__unknown_productSubTitle": "Pierre Cardin PC-A31001 Yüksek Hızlı Yuvarlak Oynar Başlıklı Tıraş Makinesi Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6268931,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/19/52/72/82/77/94/60/11/49/19/6156658584822265547.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/19/52/72/82/77/94/60/11/49/19/6156658584822265547.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/19/52/72/82/77/94/60/11/49/19/6156658584822265547.png"
+    }
+  },
+  {
+    "gid_ref": 525417,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin PC-A31001 Yüksek Hızlı Yuvarlak Oynar Başlıklı Tıraş Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724092157839,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629680923,
+      "__unknown_productSubTitle": "Pierre Cardin PC-A31001 Yüksek Hızlı Yuvarlak Oynar Başlıklı Tıraş Makinesi Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

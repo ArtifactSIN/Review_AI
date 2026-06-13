@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 1330199,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Anker Soundcore Select 2s Bluetooth Hoparlör",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773310717452,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773310717452,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655393987,
+      "__unknown_productSubTitle": "Anker Soundcore Select 2s Bluetooth Hoparlör Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1330200,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Anker Soundcore Select 2s Bluetooth Hoparlör",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770554169965,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655393987,
+      "__unknown_productSubTitle": "Anker Soundcore Select 2s Bluetooth Hoparlör Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1330201,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Anker Soundcore Select 2s Bluetooth Hoparlör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1748171269145,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667453145,
+      "__unknown_productSubTitle": "Anker Soundcore Select 2s Bluetooth Hoparlör Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

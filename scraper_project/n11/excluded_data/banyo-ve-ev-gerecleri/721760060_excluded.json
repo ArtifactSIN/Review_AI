@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 165063,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grohe 42320000 Gömme Rezervuar İç Takımı Pnömatik Boşaltma Grubu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752044397278,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 462819658,
+      "__unknown_productSubTitle": "Grohe 42320000 Gömme Rezervuar İç Takımı Pnömatik Boşaltma Grubu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 165064,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grohe 42320000 Gömme Rezervuar İç Takımı Pnömatik Boşaltma Grubu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1704779055505,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592064590,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 165065,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Harika",
+      "productTitle": "Grohe 42320000 Gömme Rezervuar İç Takımı Pnömatik Boşaltma Grubu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1634058730369,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 462819658,
+      "__unknown_productSubTitle": "Grohe 42320000 Gömme Rezervuar İç Takımı Pnömatik Boşaltma Grubu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

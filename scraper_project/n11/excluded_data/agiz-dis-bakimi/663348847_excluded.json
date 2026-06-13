@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 25857,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Splat Sensitive White Florür İçermeyen Diş Macunu 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732011496810,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/19/61/11/37/26/96/23/29/32/90/48594098997787838639.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 608638941,
+      "__unknown_productSubTitle": "Splat Sensitive White Florür İçermeyen Diş Macunu 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6271827,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/19/61/11/37/26/96/23/29/32/90/48594098997787838639.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/19/61/11/37/26/96/23/29/32/90/48594098997787838639.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/19/61/11/37/26/96/23/29/32/90/48594098997787838639.png"
+    }
+  },
+  {
+    "gid_ref": 25858,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Splat Sensitive White Florür İçermeyen Diş Macunu 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1670949371574,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 541703689,
+      "__unknown_productSubTitle": "Splat Sensitive White Diş Macunu 100 ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

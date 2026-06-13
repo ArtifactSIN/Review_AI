@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 1158454,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kaleci Forması-Turkuaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715699304341,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 438432564,
+      "__unknown_productSubTitle": "Kaleci Forması-Turkuaz XS",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1158455,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "HATALI ÜRÜN",
+      "productTitle": "Kaleci Forması-Turkuaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1643541969486,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 438432564,
+      "__unknown_productSubTitle": "Kaleci Forması-Turkuaz XS",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1158456,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "güzel",
+      "productTitle": "Kaleci Forması-Turkuaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1638030327192,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 438432564,
+      "__unknown_productSubTitle": "Kaleci Forması-Turkuaz XS",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

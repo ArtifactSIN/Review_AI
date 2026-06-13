@@ -1,0 +1,35 @@
+[
+  {
+    "gid_ref": 1159075,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Terrex Cold.rdy Merino Wool Bere Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733357544290,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/05/59/79/19/04/05/79/36/37/01/77185746772692021703.jpg",
+      "__unknown_lastModifiedDate": 1749539621068,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593710076,
+      "__unknown_productSubTitle": "Adidas Terrex Cold.rdy Merino Wool Bere Siyah Standart",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6408846,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/05/59/79/19/04/05/79/36/37/01/77185746772692021703.jpg"
+        },
+        {
+          "id": 6408847,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/05/60/74/42/52/74/10/14/07/84/72900738380521125367.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/05/59/79/19/04/05/79/36/37/01/77185746772692021703.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/05/59/79/19/04/05/79/36/37/01/77185746772692021703.jpg"
+    }
+  }
+]

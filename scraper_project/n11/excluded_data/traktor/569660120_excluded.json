@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1335707,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "GÖSTERGE TABLOSU BOŞ ÜÇLÜ (YENİ MODEL)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729985352248,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/27/90/90/47/41/21/82/89/34/22/54885219893611810074.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569660120,
+      "__unknown_productSubTitle": "GÖSTERGE TABLOSU BOŞ ÜÇLÜ (YENİ MODEL)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6030892,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/27/90/90/47/41/21/82/89/34/22/54885219893611810074.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/27/90/90/47/41/21/82/89/34/22/54885219893611810074.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/27/90/90/47/41/21/82/89/34/22/54885219893611810074.png"
+    }
+  },
+  {
+    "gid_ref": 1335708,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "GÖSTERGE TABLOSU BOŞ ÜÇLÜ (YENİ MODEL)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710490138659,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569660120,
+      "__unknown_productSubTitle": "GÖSTERGE TABLOSU BOŞ ÜÇLÜ (YENİ MODEL)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

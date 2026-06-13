@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 308347,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mamajoo Pipetli Bardak 270 ML Mor",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733816597145,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640414741,
+      "__unknown_productSubTitle": "Mamajoo Pipetli Bardak 270 ML Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 308348,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mamajoo Pipetli Bardak 270 ML Mor",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715808063437,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588145348,
+      "__unknown_productSubTitle": "Mamajoo Pipetli Bardak 270 ML Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 308349,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mamajoo Pipetli Bardak 270 ML Mor",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1700118384668,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584355248,
+      "__unknown_productSubTitle": "Mamajoo Pipetli Bardak 270 ML Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

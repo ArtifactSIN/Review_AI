@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 1490480,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lüks Ahşap Satranç Takımı Ahşap Figür Kaliteli Ahşap Takım",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714817493753,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/04/61/19/28/55/72/43/11/46/98/53113635009615477734.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 440971269,
+      "__unknown_productSubTitle": "Lüks Ahşap Satranç Takımı Ahşap Figür Kaliteli Ahşap Takım",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4587825,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/04/61/19/28/55/72/43/11/46/98/53113635009615477734.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/04/61/19/28/55/72/43/11/46/98/53113635009615477734.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/04/61/19/28/55/72/43/11/46/98/53113635009615477734.png"
+    }
+  },
+  {
+    "gid_ref": 1490481,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lüks Ahşap Satranç Takımı Ahşap Figür Kaliteli Ahşap Takım",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710271226054,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/12/66/85/45/91/49/59/80/26/89/8252047909308841218.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 440971269,
+      "__unknown_productSubTitle": "Lüks Ahşap Satranç Takımı Ahşap Figür Kaliteli Ahşap Takım",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4108590,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/12/66/85/45/91/49/59/80/26/89/8252047909308841218.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/12/66/85/45/91/49/59/80/26/89/8252047909308841218.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/12/66/85/45/91/49/59/80/26/89/8252047909308841218.png"
+    }
+  }
+]

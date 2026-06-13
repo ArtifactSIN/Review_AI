@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 185340,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hamur Fox Bebek Bakım Çantası Organizer Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773758966144,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773758966144,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 479257902,
+      "__unknown_productSubTitle": "Hamur Fox Bebek Bakım Çantası Organizer Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 185341,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hamur Fox Bebek Bakım Çantası Organizer Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725180949137,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/01/74/78/04/43/42/53/47/80/99/34329286463606703196.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 479257902,
+      "__unknown_productSubTitle": "Hamur Fox Bebek Bakım Çantası Organizer Çok Renkli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5552781,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/01/74/78/04/43/42/53/47/80/99/34329286463606703196.jpg"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/01/74/78/04/43/42/53/47/80/99/34329286463606703196.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/01/74/78/04/43/42/53/47/80/99/34329286463606703196.jpg"
+    }
+  },
+  {
+    "gid_ref": 185342,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hamur Fox Bebek Bakım Çantası Organizer Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1672842941070,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 479257902,
+      "__unknown_productSubTitle": "Hamur Fox Bebek Bakım Çantası Organizer Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

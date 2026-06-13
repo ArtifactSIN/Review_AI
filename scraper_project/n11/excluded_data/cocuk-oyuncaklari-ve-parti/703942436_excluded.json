@@ -1,0 +1,76 @@
+[
+  {
+    "gid_ref": 400991,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Sonic the Hedgehog™ Sonic Takımı Komuta Kamyonu 77006 - 8 Yaş ve Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (747 Parça)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773169247035,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/10/53/62/13/68/54/93/98/79/41/43408341853849668036.png",
+      "__unknown_lastModifiedDate": 1773169247035,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719839305,
+      "__unknown_productSubTitle": "LEGO® Sonic the Hedgehog™ Sonic Takımı Komuta Kamyonu 77006 - 8 Yaş ve Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (747 Parça)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8444291,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/10/53/62/13/68/54/93/98/79/41/43408341853849668036.png"
+        },
+        {
+          "id": 8444292,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/10/58/88/50/37/33/42/35/74/20/27224340461814432102.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/10/53/62/13/68/54/93/98/79/41/43408341853849668036.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/10/53/62/13/68/54/93/98/79/41/43408341853849668036.png"
+    }
+  },
+  {
+    "gid_ref": 400992,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Sonic the Hedgehog™ Sonic Takımı Komuta Kamyonu 77006 - 8 Yaş ve Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (747 Parça)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773123184797,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773123184797,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 703942436,
+      "__unknown_productSubTitle": "LEGO® Sonic the Hedgehog™ Sonic Takımı Komuta Kamyonu 77006 - 8 Yaş ve Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (747 Parça)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 400993,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LEGO® Sonic the Hedgehog™ Sonic Takımı Komuta Kamyonu 77006 - 8 Yaş ve Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (747 Parça)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1760990737911,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 686394001,
+      "__unknown_productSubTitle": "LEGO® Sonic the Hedgehog™ Sonic Takımı Komuta Kamyonu 77006 - 8 Yaş ve Üzeri Çocuklar için Yaratıcı Oyuncak Yapım Seti (747 Parça)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

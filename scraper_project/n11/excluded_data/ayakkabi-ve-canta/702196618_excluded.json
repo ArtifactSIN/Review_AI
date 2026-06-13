@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 135742,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers 237804 Bbk Hillcrest 2.0 Erkek Spor Ayakkabı Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772986537209,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772986537209,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702196618,
+      "__unknown_productSubTitle": "Skechers 237804 Bbk Hillcrest 2.0 Erkek Spor Ayakkabı Renkli 40",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 135743,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers 237804 Bbk Hillcrest 2.0 Erkek Spor Ayakkabı Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764241260125,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/27/76/92/85/53/24/93/16/89/67/21495146815484150495.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 709041646,
+      "__unknown_productSubTitle": "Skechers 237804 Bbk Hillcrest 2.0 Erkek Spor Ayakkabı Renkli 43",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8031785,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/27/76/92/85/53/24/93/16/89/67/21495146815484150495.jpg"
+        },
+        {
+          "id": 8031786,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/27/47/96/48/47/64/31/42/82/02/4827551865685231490.jpg"
+        },
+        {
+          "id": 8031787,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/27/57/74/69/45/80/74/68/16/74/33553617104146577630.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/27/76/92/85/53/24/93/16/89/67/21495146815484150495.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/27/76/92/85/53/24/93/16/89/67/21495146815484150495.jpg"
+    }
+  }
+]

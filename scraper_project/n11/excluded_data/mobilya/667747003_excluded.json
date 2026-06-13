@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 870361,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "260 Cm Sefa Hazır Mutfak Dolabı Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772399853033,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667747003,
+      "__unknown_productSubTitle": "260 Cm Sefa Hazır Mutfak Dolabı Beyaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 870362,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "260 Cm Sefa Hazır Mutfak Dolabı Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772212810008,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667747003,
+      "__unknown_productSubTitle": "260 Cm Sefa Hazır Mutfak Dolabı Beyaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "gid_ref": 947146,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ferdi Özbeğen - Can Suyum 2 Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771961472314,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 518707637,
+      "__unknown_productSubTitle": "Ferdi Özbeğen - Can Suyum 2 Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947147,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ferdi Özbeğen - Can Suyum 2 Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756207570116,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 488103919,
+      "__unknown_productSubTitle": "Ferdi Özbeğen - Can Suyum 2 Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947148,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ferdi Özbeğen - Can Suyum 2 Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1688904453731,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 518707637,
+      "__unknown_productSubTitle": "Ferdi Özbeğen - Can Suyum 2 Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947149,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ferdi Özbeğen - Can Suyum 2 Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1681139894700,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/04/10/66/30/47/84/90/53/17/77/85/05815610324457600139.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 518707637,
+      "__unknown_productSubTitle": "Ferdi Özbeğen - Can Suyum 2 Plak",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1847830,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/04/10/66/30/47/84/90/53/17/77/85/05815610324457600139.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/04/10/66/30/47/84/90/53/17/77/85/05815610324457600139.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/04/10/66/30/47/84/90/53/17/77/85/05815610324457600139.jpg"
+    }
+  },
+  {
+    "gid_ref": 947150,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "mutlaka alin.",
+      "productTitle": "Ferdi Özbeğen - Can Suyum 2 Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1621445785917,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 488103919,
+      "__unknown_productSubTitle": "Ferdi Özbeğen - Can Suyum 2 Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947151,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Harikaydı",
+      "productTitle": "Ferdi Özbeğen - Can Suyum 2 Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1620828711609,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 488103919,
+      "__unknown_productSubTitle": "Ferdi Özbeğen - Can Suyum 2 Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

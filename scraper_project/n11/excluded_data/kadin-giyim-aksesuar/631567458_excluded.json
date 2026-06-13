@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 774526,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "WWF Panda Beyaz T-Shirt Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773832293621,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773832293621,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631567458,
+      "__unknown_productSubTitle": "WWF Panda Beyaz T-Shirt Beyaz S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 774527,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "WWF Panda Beyaz T-Shirt Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773515384457,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773515384457,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631567455,
+      "__unknown_productSubTitle": "WWF Panda Beyaz T-Shirt Beyaz M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 774528,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "WWF Panda Beyaz T-Shirt Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762515861017,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631567457,
+      "__unknown_productSubTitle": "WWF Panda Beyaz T-Shirt Beyaz XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

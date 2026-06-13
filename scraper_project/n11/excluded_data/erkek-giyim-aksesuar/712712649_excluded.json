@@ -1,0 +1,92 @@
+[
+  {
+    "gid_ref": 577022,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Erkek Bisiklet Yaka Regular Fit Siyah İnce Sweatshirt 50316315-VR046",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774981846110,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774981846110,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712712649,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Erkek Bisiklet Yaka Regular Fit Siyah İnce Sweatshirt 50316315-VR046  M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 577023,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Erkek Bisiklet Yaka Regular Fit Siyah İnce Sweatshirt 50316315-VR046",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773354482243,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773354482243,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712712667,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Erkek Bisiklet Yaka Regular Fit Siyah İnce Sweatshirt 50316315-VR046  L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 577024,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Erkek Bisiklet Yaka Regular Fit Siyah İnce Sweatshirt 50316315-VR046",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766845083178,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/27/66/95/79/08/73/40/71/72/62/05305394331900229683.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712712525,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Erkek Bisiklet Yaka Regular Fit Siyah İnce Sweatshirt 50316315-VR046 XL",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8182802,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/27/66/95/79/08/73/40/71/72/62/05305394331900229683.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/27/66/95/79/08/73/40/71/72/62/05305394331900229683.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/27/66/95/79/08/73/40/71/72/62/05305394331900229683.jpg"
+    }
+  },
+  {
+    "gid_ref": 577025,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Erkek Bisiklet Yaka Regular Fit Siyah İnce Sweatshirt 50316315-VR046",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765796394478,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712712649,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Erkek Bisiklet Yaka Regular Fit Siyah İnce Sweatshirt 50316315-VR046  M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

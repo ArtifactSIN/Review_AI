@@ -1,0 +1,105 @@
+[
+  {
+    "gid_ref": 1345037,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Orjinal sıfır ürün",
+      "productTitle": "Destiny 2 PS4 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1595968225786,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 422840897,
+      "__unknown_productSubTitle": "Destiny 2 PS4 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1345038,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Başarılı satıcı tebrikler",
+      "productTitle": "Destiny 2 PS4 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1509704043402,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 75482634,
+      "__unknown_productSubTitle": "Destiny 2 PS4 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1345039,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Destiny 2 PS4 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1494861046351,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 75482634,
+      "__unknown_productSubTitle": "Destiny 2 PS4 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1345040,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Destiny 2 PS4 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1464098995837,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 75482634,
+      "__unknown_productSubTitle": "Destiny 2 PS4 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1345041,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "anlatıldığı gibi her şey",
+      "productTitle": "Destiny 2 PS4 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1443812642033,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 75482634,
+      "__unknown_productSubTitle": "Destiny 2 PS4 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

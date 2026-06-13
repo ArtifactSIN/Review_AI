@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 1149645,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toyota Hoparlör Soketi 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775249936319,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775249936319,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 505351478,
+      "__unknown_productSubTitle": "Toyota Hoparlör Soketi 2 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1149646,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toyota Hoparlör Soketi 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1692487655367,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 505351478,
+      "__unknown_productSubTitle": "Toyota Hoparlör Soketi 2 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1149647,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Corolla hoparlör soket ",
+      "productTitle": "Toyota Hoparlör Soketi 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1641395448504,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 505351478,
+      "__unknown_productSubTitle": "Toyota Hoparlör Soketi 2 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

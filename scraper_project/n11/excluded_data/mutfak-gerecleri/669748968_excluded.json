@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 931093,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nehir Lalezar Sade 12'Li Çay Kaşık",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774734556396,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774734556396,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 669748968,
+      "__unknown_productSubTitle": "Nehir Lalezar Sade 12'Li Çay Kaşık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 931094,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nehir Lalezar Sade 12'Li Çay Kaşık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750997887877,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/27/58/08/21/20/49/01/36/77/67/07224563435777867129.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552967237,
+      "__unknown_productSubTitle": "Nehir Lalezar Sade 12'Li Çay Kaşık",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7385567,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/27/58/08/21/20/49/01/36/77/67/07224563435777867129.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/27/58/08/21/20/49/01/36/77/67/07224563435777867129.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/27/58/08/21/20/49/01/36/77/67/07224563435777867129.png"
+    }
+  }
+]

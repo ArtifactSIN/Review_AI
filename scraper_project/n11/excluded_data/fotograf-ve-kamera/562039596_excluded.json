@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 751179,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Murata 1 Adet Sr920Sw 371 Japon Malı Saat Pili",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736533729130,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/10/78/95/66/16/34/01/25/35/12/24745601714279988650.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562039596,
+      "__unknown_productSubTitle": "Murata 1 Adet Sr920Sw 371 Japon Malı Saat Pili",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6675094,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/10/78/95/66/16/34/01/25/35/12/24745601714279988650.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/10/78/95/66/16/34/01/25/35/12/24745601714279988650.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/10/78/95/66/16/34/01/25/35/12/24745601714279988650.png"
+    }
+  },
+  {
+    "gid_ref": 751180,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Murata 1 Adet Sr920Sw 371 Japon Malı Saat Pili",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1703514705050,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562039596,
+      "__unknown_productSubTitle": "Murata 1 Adet Sr920Sw 371 Japon Malı Saat Pili",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

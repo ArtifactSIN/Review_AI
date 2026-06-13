@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 744423,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Züber Kakao Parçacıklı Protein Barı - 12 Adet x 35 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764319203802,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647447855,
+      "__unknown_productSubTitle": "Züber Kakao Parçacıklı Protein Barı - 12 Adet X 35 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 744424,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Züber Kakao Parçacıklı Protein Barı - 12 Adet x 35 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734584722328,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/19/50/11/42/62/11/22/73/46/35/51937968877355513256.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647447855,
+      "__unknown_productSubTitle": "Züber Kakao Parçacıklı Protein Barı - 12 Adet X 35 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6522052,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/19/50/11/42/62/11/22/73/46/35/51937968877355513256.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/19/50/11/42/62/11/22/73/46/35/51937968877355513256.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/19/50/11/42/62/11/22/73/46/35/51937968877355513256.jpg"
+    }
+  }
+]

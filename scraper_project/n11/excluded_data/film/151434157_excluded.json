@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 734948,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel",
+      "productTitle": "Dvd-Toz Ol / Skiptrace",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1636654103295,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 151434157,
+      "__unknown_productSubTitle": "Dvd-Toz Ol / Skiptrace",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734949,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Teşekkürlar",
+      "productTitle": "Dvd-Toz Ol / Skiptrace",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1574453663563,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 151434157,
+      "__unknown_productSubTitle": "Dvd-Toz Ol / Skiptrace",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1250732,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kare Evye Paslanmaz Delikli Tekne ve Karavan Evyesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746863719837,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 484308955,
+      "__unknown_productSubTitle": "Kare Evye Paslanmaz Delikli Tekne ve Karavan Evyesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1250733,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kare Evye Paslanmaz Delikli Tekne ve Karavan Evyesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1618002495731,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 484308955,
+      "__unknown_productSubTitle": "Kare Evye Paslanmaz Delikli Tekne ve Karavan Evyesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

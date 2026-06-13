@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 706757,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jungle Hairball & Multivitamin Kedi Macunu 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762272140622,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/04/85/11/28/57/23/70/22/25/69/86418120228853664944.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649973597,
+      "__unknown_productSubTitle": "Jungle Hairball & Multivitamin Kedi Macunu 75 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7912431,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/04/85/11/28/57/23/70/22/25/69/86418120228853664944.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/04/85/11/28/57/23/70/22/25/69/86418120228853664944.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/04/85/11/28/57/23/70/22/25/69/86418120228853664944.png"
+    }
+  },
+  {
+    "gid_ref": 706758,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jungle Hairball & Multivitamin Kedi Macunu 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736353280108,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649973597,
+      "__unknown_productSubTitle": "Jungle Hairball & Multivitamin Kedi Macunu 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

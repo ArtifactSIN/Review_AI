@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1252179,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dijital Voltmetre Göstergesi 5-30 Volt",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1623938375304,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 359340578,
+      "__unknown_productSubTitle": "Dijital Voltmetre Göstergesi 5-30 Volt",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1252180,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kargo rezalet",
+      "productTitle": "Dijital Voltmetre Göstergesi 5-30 Volt",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1607256122641,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 359340578,
+      "__unknown_productSubTitle": "Dijital Voltmetre Göstergesi 5-30 Volt",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1252181,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dijital Voltmetre Göstergesi 5-30 Volt",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1591806660897,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 359340578,
+      "__unknown_productSubTitle": "Dijital Voltmetre Göstergesi 5-30 Volt",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

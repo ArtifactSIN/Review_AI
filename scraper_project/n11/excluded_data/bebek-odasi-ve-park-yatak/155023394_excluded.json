@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 259528,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Özdilek Fitted 70 x 140 Sıvı Geçirmez Bebek Alezi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722509404060,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/01/90/15/52/37/12/50/59/83/79/78035927314860653609.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585462633,
+      "__unknown_productSubTitle": "Özdilek Fitted 70 x 140 Sıvı Geçirmez Bebek Alezi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5325765,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/01/90/15/52/37/12/50/59/83/79/78035927314860653609.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/01/90/15/52/37/12/50/59/83/79/78035927314860653609.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/01/90/15/52/37/12/50/59/83/79/78035927314860653609.png"
+    }
+  },
+  {
+    "gid_ref": 259529,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "kalite",
+      "productTitle": "Özdilek Fitted 70 x 140 Sıvı Geçirmez Bebek Alezi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1495687404346,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 155023394,
+      "__unknown_productSubTitle": "Özdilek Fitted 70 x 140 Sıvı Geçirmez Bebek Alezi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "gid_ref": 7200,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Colgate 360° Optik Beyaz 1+1 Diş Fırçası Medium",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768504923055,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 416718573,
+      "__unknown_productSubTitle": "Colgate 360 Optik Beyaz Diş Fırçası Orta 1+1",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 7201,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Colgate 360 Optik Beyaz Diş Fırçası Medium 2'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711135899800,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/22/70/38/96/88/47/52/41/02/16/48476643914046654826.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 532377569,
+      "__unknown_productSubTitle": "Colgate 360 Optik Beyaz Diş Fırçası Medium 2'li Mavi - Mor",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4200634,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/22/70/38/96/88/47/52/41/02/16/48476643914046654826.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/22/70/38/96/88/47/52/41/02/16/48476643914046654826.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/22/70/38/96/88/47/52/41/02/16/48476643914046654826.png"
+    }
+  },
+  {
+    "gid_ref": 7202,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Colgate 360 Optik Beyaz Diş Fırçası Medium 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1709674172461,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524674969,
+      "__unknown_productSubTitle": "Colgate 360 Optik Beyaz Diş Fırçası Medium 2'li Mavi - Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 7203,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Colgate 360 Optik Beyaz Diş Fırçası Medium 2'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1708009972659,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 532377569,
+      "__unknown_productSubTitle": "Colgate 360 Optik Beyaz Diş Fırçası Medium 2'li Mavi - Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 7204,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Colgate 360 Optik Beyaz Diş Fırçası Medium 2'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1693086271694,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 386416564,
+      "__unknown_productSubTitle": "Colgate 360 Optik Beyaz Diş Fırçası Medium 2'li Mavi - Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 7205,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Çok güzel",
+      "productTitle": "Colgate 360 Optik Beyaz Diş Fırçası Medium 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1663932602959,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 420447934,
+      "__unknown_productSubTitle": "Colgate 360 Optik Beyaz Diş Fırçası Medium 2'li Mavi - Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

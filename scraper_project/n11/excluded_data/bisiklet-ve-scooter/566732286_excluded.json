@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 380461,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Selle Royal Vivo Konforlu Sele",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724411759456,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/23/71/29/96/95/67/43/22/56/76/7132017050369674052.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566732286,
+      "__unknown_productSubTitle": "Selle Royal Vivo Konforlu Sele",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5484361,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/23/71/29/96/95/67/43/22/56/76/7132017050369674052.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/23/71/29/96/95/67/43/22/56/76/7132017050369674052.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/23/71/29/96/95/67/43/22/56/76/7132017050369674052.png"
+    }
+  }
+]

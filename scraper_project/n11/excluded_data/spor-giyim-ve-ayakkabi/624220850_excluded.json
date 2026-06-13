@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 1159717,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers D'lux Trekker Erkek Kahverengi Outdoor Ayakkabı 237565 Brrd Kahverengi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763141064830,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/14/48/13/08/45/07/67/67/71/32/86117011895229238066.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702286941,
+      "__unknown_productSubTitle": "Skechers D'lux Trekker Erkek Kahverengi Outdoor Ayakkabı 237565 Brrd Kahverengi 41.5",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7975324,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/14/48/13/08/45/07/67/67/71/32/86117011895229238066.png"
+        },
+        {
+          "id": 7975325,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/14/61/04/94/85/84/22/32/07/00/26430611721346500919.png"
+        },
+        {
+          "id": 7975326,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/14/78/81/92/47/23/87/75/76/56/34952380629610576650.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/14/48/13/08/45/07/67/67/71/32/86117011895229238066.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/14/48/13/08/45/07/67/67/71/32/86117011895229238066.png"
+    }
+  },
+  {
+    "gid_ref": 1159718,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers D'lux Trekker Erkek Kahverengi Outdoor Ayakkabı 237565 Brrd Kahverengi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762372250641,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702286941,
+      "__unknown_productSubTitle": "Skechers D'lux Trekker Erkek Kahverengi Outdoor Ayakkabı 237565 Brrd Kahverengi 41.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

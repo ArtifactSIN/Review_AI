@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 182581,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "4 Baby Cool Travel Sistem Bebek Arabası Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760880367896,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/19/83/03/73/06/98/05/44/80/61/65954225906882725339.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643727736,
+      "__unknown_productSubTitle": "4 Baby Cool Travel Sistem Bebek Arabası Kahverengi Kahverengi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7822275,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/19/83/03/73/06/98/05/44/80/61/65954225906882725339.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/19/83/03/73/06/98/05/44/80/61/65954225906882725339.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/19/83/03/73/06/98/05/44/80/61/65954225906882725339.png"
+    }
+  },
+  {
+    "gid_ref": 182582,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "4 Baby Cool Travel Sistem Bebek Arabası Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756299107414,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643727736,
+      "__unknown_productSubTitle": "4 Baby Cool Travel Sistem Bebek Arabası Kahverengi Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 182583,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "4 Baby Cool Travel Sistem Bebek Arabası Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755198027184,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643727736,
+      "__unknown_productSubTitle": "4 Baby Cool Travel Sistem Bebek Arabası Kahverengi Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

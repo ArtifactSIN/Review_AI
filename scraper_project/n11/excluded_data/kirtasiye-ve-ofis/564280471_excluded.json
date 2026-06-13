@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 788677,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Serve Deep Versatil Kalem Doğa Teması – Hardal Sarısı Denizyıldız",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764445510479,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/29/66/98/33/62/81/98/29/93/98/88548274019942248949.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572225763,
+      "__unknown_productSubTitle": "Serve Deep Versatil Kalem Doğa Teması – Hardal Sarısı Denizyıldız",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8044576,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/29/66/98/33/62/81/98/29/93/98/88548274019942248949.png"
+        },
+        {
+          "id": 8044577,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/29/57/78/98/57/14/83/53/12/66/42518584660030633471.png"
+        },
+        {
+          "id": 8044578,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/29/52/59/88/39/99/06/06/23/73/12017051798948001215.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/29/66/98/33/62/81/98/29/93/98/88548274019942248949.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/29/66/98/33/62/81/98/29/93/98/88548274019942248949.png"
+    }
+  },
+  {
+    "gid_ref": 788678,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Serve Deep Versatil Kalem Doğa Teması – Hardal Sarısı Denizyıldız",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762941260047,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1765661003202,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572225763,
+      "__unknown_productSubTitle": "Serve Deep Versatil Kalem Doğa Teması – Hardal Sarısı Denizyıldız",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 788679,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Serve Deep Versatil Kalem Doğa Teması – Hardal Sarısı Denizyıldız",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1687026569321,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 576269620,
+      "__unknown_productSubTitle": "Serve Deep Versatil Kalem Doğa Teması – Hardal Sarısı Denizyıldız",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

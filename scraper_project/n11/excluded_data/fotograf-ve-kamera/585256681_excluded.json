@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 751449,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP-T13 Çok Amaçlı Kumandalı Selfie Çubuğu Masa Üstü Tripod 107 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1722015359047,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585256681,
+      "__unknown_productSubTitle": "HP-T13 Çok Amaçlı Kumandalı Selfie Çubuğu Masa Üstü Tripod 107 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751450,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP-T13 Çok Amaçlı Kumandalı Selfie Çubuğu Masa Üstü Tripod 107 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714408763630,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/29/54/36/97/63/55/42/45/79/40/44370263573595702100.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585256681,
+      "__unknown_productSubTitle": "HP-T13 Çok Amaçlı Kumandalı Selfie Çubuğu Masa Üstü Tripod 107 CM",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4540820,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/29/54/36/97/63/55/42/45/79/40/44370263573595702100.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/29/54/36/97/63/55/42/45/79/40/44370263573595702100.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/29/54/36/97/63/55/42/45/79/40/44370263573595702100.jpg"
+    }
+  }
+]

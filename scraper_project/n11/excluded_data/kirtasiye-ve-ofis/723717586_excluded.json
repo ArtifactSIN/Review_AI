@@ -1,0 +1,112 @@
+[
+  {
+    "gid_ref": 801767,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rubenis Şekilli Makas 6 Farklı Model",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774907773014,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/78/56/69/16/98/71/00/61/33/47554725949162830875.jpg",
+      "__unknown_lastModifiedDate": 1774907773014,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 723717586,
+      "__unknown_productSubTitle": "Rubenis Şekilli Makas 6 Farklı Model",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8532446,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/78/56/69/16/98/71/00/61/33/47554725949162830875.jpg"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/78/56/69/16/98/71/00/61/33/47554725949162830875.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/78/56/69/16/98/71/00/61/33/47554725949162830875.jpg"
+    }
+  },
+  {
+    "gid_ref": 801768,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rubenis Şekilli Makas 6 Farklı Model",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771614607479,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/20/75/07/18/72/57/84/87/86/54/33849128758163847170.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 723717586,
+      "__unknown_productSubTitle": "Rubenis Şekilli Makas 6 Farklı Model",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8396417,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/20/75/07/18/72/57/84/87/86/54/33849128758163847170.jpg"
+        },
+        {
+          "id": 8396418,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/20/86/91/49/02/49/16/93/53/65/41917386975677664174.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/20/75/07/18/72/57/84/87/86/54/33849128758163847170.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/20/75/07/18/72/57/84/87/86/54/33849128758163847170.jpg"
+    }
+  },
+  {
+    "gid_ref": 801769,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rubenis Şekilli Makas 6 Farklı Model",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764348012625,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/28/71/65/69/55/12/38/07/08/28/05364529132010161454.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642320601,
+      "__unknown_productSubTitle": "Rubenis Şekilli Makas 6 Farklı Model",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8041753,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/68/53/81/06/52/35/09/51/67/45566625096463762970.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/28/71/65/69/55/12/38/07/08/28/05364529132010161454.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/28/71/65/69/55/12/38/07/08/28/05364529132010161454.png"
+    }
+  },
+  {
+    "gid_ref": 801770,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rubenis Şekilli Makas 6 Farklı Model",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1701514128336,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 488778965,
+      "__unknown_productSubTitle": "Rubenis Şekilli Makas 6 Farklı Model",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

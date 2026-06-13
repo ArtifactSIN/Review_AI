@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 750796,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Green.L 58 MM UV Filtre",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1686837292879,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 570989067,
+      "__unknown_productSubTitle": "Green.L 58 MM UV Filtre",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 750797,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kaliteli.",
+      "productTitle": "Green.L 58 MM UV Filtre",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1438158937909,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 47835636,
+      "__unknown_productSubTitle": "Green.L 58 MM UV Filtre",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

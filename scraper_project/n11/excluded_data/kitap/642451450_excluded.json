@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 814221,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patrones 7. Sayı Ekim 2024",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771710270856,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642451450,
+      "__unknown_productSubTitle": "Patrones 7. Sayı Ekim 2024",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 814222,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patrones 7. Sayı Ekim 2024",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732360385604,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/23/74/16/31/51/54/82/42/77/29/68644743686911213012.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642451450,
+      "__unknown_productSubTitle": "Patrones 7. Sayı Ekim 2024",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6307329,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/23/74/16/31/51/54/82/42/77/29/68644743686911213012.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/23/74/16/31/51/54/82/42/77/29/68644743686911213012.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/23/74/16/31/51/54/82/42/77/29/68644743686911213012.png"
+    }
+  },
+  {
+    "gid_ref": 814223,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Patrones 7. Sayı Ekim 2024",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731490863336,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/13/54/42/17/01/88/72/46/05/00/09058640799078396037.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642451450,
+      "__unknown_productSubTitle": "Patrones 7. Sayı Ekim 2024",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6209775,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/13/50/99/30/80/08/88/89/89/63/09162443762249741041.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/13/54/42/17/01/88/72/46/05/00/09058640799078396037.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/13/54/42/17/01/88/72/46/05/00/09058640799078396037.jpg"
+    }
+  }
+]

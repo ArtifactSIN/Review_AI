@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 735346,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Post - Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729346296892,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 269161014,
+      "__unknown_productSubTitle": "The Post - Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735347,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "The Post",
+      "productTitle": "The Post - Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1639829147864,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/21/12/18/62/38/61/52/14/28/28/87/90/5996308530883114079.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 269161014,
+      "__unknown_productSubTitle": "The Post - Dvd",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3271223,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/21/12/18/62/38/61/52/14/28/28/87/90/5996308530883114079.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/21/12/18/62/38/61/52/14/28/28/87/90/5996308530883114079.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/21/12/18/62/38/61/52/14/28/28/87/90/5996308530883114079.jpg"
+    }
+  },
+  {
+    "gid_ref": 735348,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Çok güzel bir film...",
+      "productTitle": "The Post - Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1631291977863,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 269161014,
+      "__unknown_productSubTitle": "The Post - Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

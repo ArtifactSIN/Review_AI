@@ -1,0 +1,121 @@
+[
+  {
+    "gid_ref": 307207,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oioi Silikon Mama Önlüğü Kahverengi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775794068391,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/10/83/04/95/84/48/26/07/09/72/76713032346780452504.jpg",
+      "__unknown_lastModifiedDate": 1775794068391,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587269928,
+      "__unknown_productSubTitle": "Oioi Silikon Mama Önlüğü Kahverengi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8591703,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/83/04/95/84/48/26/07/09/72/76713032346780452504.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/10/83/04/95/84/48/26/07/09/72/76713032346780452504.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/10/83/04/95/84/48/26/07/09/72/76713032346780452504.jpg"
+    }
+  },
+  {
+    "gid_ref": 307208,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oioi Silikon Mama Önlüğü Kahverengi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772309285554,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587269928,
+      "__unknown_productSubTitle": "Oioi Silikon Mama Önlüğü Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 307209,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oioi Silikon Mama Önlüğü Kahverengi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770992875148,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587269928,
+      "__unknown_productSubTitle": "Oioi Silikon Mama Önlüğü Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 307210,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oioi Silikon Mama Önlüğü Kahverengi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1707900716460,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/14/86/69/32/62/84/57/71/73/97/13010049191107315271.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587269928,
+      "__unknown_productSubTitle": "Oioi Silikon Mama Önlüğü Kahverengi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3894201,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/14/86/69/32/62/84/57/71/73/97/13010049191107315271.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/14/86/69/32/62/84/57/71/73/97/13010049191107315271.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/14/86/69/32/62/84/57/71/73/97/13010049191107315271.png"
+    }
+  },
+  {
+    "gid_ref": 307211,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oioi Silikon Mama Önlüğü Kahverengi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1668238861341,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557168435,
+      "__unknown_productSubTitle": "Oioi Silikon Mama Önlüğü Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

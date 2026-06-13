@@ -1,0 +1,40 @@
+[
+  {
+    "gid_ref": 255355,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Been Bebek Dikiz Aynası Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732735073823,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580192046,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 255356,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Been Bebek Dikiz Aynası Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1700397020368,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580192046,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

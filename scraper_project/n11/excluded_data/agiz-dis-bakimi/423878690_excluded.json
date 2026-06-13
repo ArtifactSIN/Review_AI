@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 581,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Weleda Deniz Tuzu Mineralli Organik Diş Macunu 75ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1705435483674,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/01/16/90/33/34/37/94/32/25/82/05/26976342630408175470.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 571258860,
+      "__unknown_productSubTitle": "Weleda Deniz Tuzu Mineralli Organik Diş Macunu 75ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3218369,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/01/16/90/33/34/37/94/32/25/82/05/26976342630408175470.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/01/16/90/33/34/37/94/32/25/82/05/26976342630408175470.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/01/16/90/33/34/37/94/32/25/82/05/26976342630408175470.png"
+    }
+  }
+]

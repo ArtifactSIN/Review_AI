@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 871600,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sarmobi Arden 5 Çekmeceli Şifonyer , Çamaşırlık Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775329595609,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775329595609,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 692558357,
+      "__unknown_productSubTitle": "Sarmobi Arden 5 Çekmeceli Şifonyer , Çamaşırlık Kahverengi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 871601,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sarmobi Arden 5 Çekmeceli Şifonyer , Çamaşırlık Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773173293331,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773173293331,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 692558357,
+      "__unknown_productSubTitle": "Sarmobi Arden 5 Çekmeceli Şifonyer , Çamaşırlık Kahverengi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 871602,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sarmobi Arden 5 Çekmeceli Şifonyer , Çamaşırlık Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761470728904,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/26/63/47/82/98/70/86/81/26/54/05729732095201423906.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 692558357,
+      "__unknown_productSubTitle": "Sarmobi Arden 5 Çekmeceli Şifonyer , Çamaşırlık Kahverengi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7856403,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/26/63/47/82/98/70/86/81/26/54/05729732095201423906.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/26/63/47/82/98/70/86/81/26/54/05729732095201423906.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/26/63/47/82/98/70/86/81/26/54/05729732095201423906.png"
+    }
+  }
+]

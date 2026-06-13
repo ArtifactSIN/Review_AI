@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 574389,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mavi - Mitte Street Indigo Mavi Denim Jean Pantolon 0010101-87669 Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764530240378,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 656230210,
+      "__unknown_productSubTitle": "Mavi - Mitte Street Indigo Mavi Denim Jean Pantolon 0010101-87669 Mavi 29 - 30",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 574390,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mavi - Mitte Street Indigo Mavi Denim Jean Pantolon 0010101-87669 Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1752497420244,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 656230226,
+      "__unknown_productSubTitle": "Mavi - Mitte Street Indigo Mavi Denim Jean Pantolon 0010101-87669 Mavi 33 - 32",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 574391,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mavi - Mitte Street Indigo Mavi Denim Jean Pantolon 0010101-87669 Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1750015536830,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/15/51/76/74/74/99/46/10/82/13/67262438323949843014.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 656230215,
+      "__unknown_productSubTitle": "Mavi - Mitte Street Indigo Mavi Denim Jean Pantolon 0010101-87669 Mavi 30 - 30",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7335152,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/15/51/76/74/74/99/46/10/82/13/67262438323949843014.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/15/51/76/74/74/99/46/10/82/13/67262438323949843014.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/15/51/76/74/74/99/46/10/82/13/67262438323949843014.jpg"
+    }
+  }
+]

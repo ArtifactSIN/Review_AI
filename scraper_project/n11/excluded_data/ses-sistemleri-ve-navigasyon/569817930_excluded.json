@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1151945,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "BLAM 690RC Oval Hoparlör",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774691622753,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774691622753,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569817930,
+      "__unknown_productSubTitle": "BLAM 690RC Oval Hoparlör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1151946,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "BLAM 690RC Oval Hoparlör",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760101800015,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569817930,
+      "__unknown_productSubTitle": "BLAM 690RC Oval Hoparlör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

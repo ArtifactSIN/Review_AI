@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1051790,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Clear Scalpceuticals Şampuan 2 x 300 ML + Serum 45 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1716328333704,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598271827,
+      "__unknown_productSubTitle": "Clear Scalpceuticals Şampuan 2 x 300 ML + Serum 45 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1051791,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Clear Scalpceuticals Şampuan 2 x 300 ML + Serum 45 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714327537956,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/28/88/23/26/16/12/14/98/48/64/62682418049863955181.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598271827,
+      "__unknown_productSubTitle": "Clear Scalpceuticals Şampuan 2 x 300 ML + Serum 45 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4535178,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/28/88/23/26/16/12/14/98/48/64/62682418049863955181.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/28/88/23/26/16/12/14/98/48/64/62682418049863955181.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/28/88/23/26/16/12/14/98/48/64/62682418049863955181.png"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "gid_ref": 160251,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Eca Nita 102518350 3 Akışlı Arıtıcı Mutfak Eviye Bataryası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774460733966,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774460733966,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700399767,
+      "__unknown_productSubTitle": "Eca Nita 102518350 3 Akışlı Arıtıcı Mutfak Eviye Bataryası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 160252,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Eca Nita 102518350 3 Akışlı Arıtıcı Mutfak Eviye Bataryası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773509483144,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/14/63/11/15/69/26/04/10/84/24/81414171414072049185.jpg",
+      "__unknown_lastModifiedDate": 1773509483144,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700399767,
+      "__unknown_productSubTitle": "Eca Nita 102518350 3 Akışlı Arıtıcı Mutfak Eviye Bataryası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8463284,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/14/63/11/15/69/26/04/10/84/24/81414171414072049185.jpg"
+        },
+        {
+          "id": 8463285,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/14/54/93/31/50/38/15/83/72/97/45465249375640862337.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/14/63/11/15/69/26/04/10/84/24/81414171414072049185.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/14/63/11/15/69/26/04/10/84/24/81414171414072049185.jpg"
+    }
+  }
+]

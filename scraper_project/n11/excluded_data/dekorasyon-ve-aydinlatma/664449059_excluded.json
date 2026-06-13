@@ -1,0 +1,106 @@
+[
+  {
+    "gid_ref": 421063,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yapay Zeytin Ağacı 160Cm Tek Gövdeli Çalılı Doğal Gerçek Görünüml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760017587697,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664449059,
+      "__unknown_productSubTitle": "Yapay Zeytin Ağacı 160Cm Tek Gövdeli Çalılı Doğal Gerçek Görünüml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 421064,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yapay Zeytin Ağacı 160Cm Tek Gövdeli Çalılı Doğal Gerçek Görünüml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754059213576,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/01/91/05/71/16/09/02/53/19/47/8983972359566636227.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664449059,
+      "__unknown_productSubTitle": "Yapay Zeytin Ağacı 160Cm Tek Gövdeli Çalılı Doğal Gerçek Görünüml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7514259,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/01/91/05/71/16/09/02/53/19/47/8983972359566636227.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/01/91/05/71/16/09/02/53/19/47/8983972359566636227.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/01/91/05/71/16/09/02/53/19/47/8983972359566636227.jpg"
+    }
+  },
+  {
+    "gid_ref": 421065,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yapay Zeytin Ağacı 160Cm Tek Gövdeli Çalılı Doğal Gerçek Görünüml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742644898559,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/22/71/82/13/68/01/96/50/44/25/38871293648367273490.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664449059,
+      "__unknown_productSubTitle": "Yapay Zeytin Ağacı 160Cm Tek Gövdeli Çalılı Doğal Gerçek Görünüml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7006071,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/22/71/82/13/68/01/96/50/44/25/38871293648367273490.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/22/71/82/13/68/01/96/50/44/25/38871293648367273490.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/22/71/82/13/68/01/96/50/44/25/38871293648367273490.jpg"
+    }
+  },
+  {
+    "gid_ref": 421066,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yapay Zeytin Ağacı 160Cm Tek Gövdeli Çalılı Doğal Gerçek Görünüml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719924582447,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/02/58/49/47/90/77/86/88/44/91/63145787940120971619.PNG",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664449059,
+      "__unknown_productSubTitle": "Yapay Zeytin Ağacı 160Cm Tek Gövdeli Çalılı Doğal Gerçek Görünüml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5088829,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/02/58/49/47/90/77/86/88/44/91/63145787940120971619.PNG"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/02/58/49/47/90/77/86/88/44/91/63145787940120971619.PNG",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/02/58/49/47/90/77/86/88/44/91/63145787940120971619.PNG"
+    }
+  }
+]

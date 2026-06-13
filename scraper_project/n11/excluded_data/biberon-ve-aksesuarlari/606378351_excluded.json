@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 308107,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dr Brown's 3. Seviye Geniş Ağız Silikon Biberon Emziği 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775628899120,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775628899120,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606378351,
+      "__unknown_productSubTitle": "Dr Brown's 3. Seviye Geniş Ağız Silikon Biberon Emziği 2'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 308108,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dr Brown's 3. Seviye Geniş Ağız Silikon Biberon Emziği 2'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744378187429,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/11/79/06/03/50/44/46/22/83/28/48282828324915923572.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578191077,
+      "__unknown_productSubTitle": "Dr Brown's 3. Seviye Geniş Ağız Silikon Biberon Emziği 2'li",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7087168,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/11/79/06/03/50/44/46/22/83/28/48282828324915923572.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/11/79/06/03/50/44/46/22/83/28/48282828324915923572.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/11/79/06/03/50/44/46/22/83/28/48282828324915923572.png"
+    }
+  }
+]

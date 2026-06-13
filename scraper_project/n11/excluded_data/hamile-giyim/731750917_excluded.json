@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 755332,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mecit 1826 Hamile Lohusa Gecelik Sabahlık Takımı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1673529505103,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/01/12/47/04/63/61/79/93/06/02/03/15372577553042354354.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 237828188,
+      "__unknown_productSubTitle": "Mecit 1826 Hamile Lohusa Gecelik Sabahlık Takımı Mavi L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1484365,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/12/48/08/26/20/43/87/16/88/48/72148441512700853883.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/01/12/47/04/63/61/79/93/06/02/03/15372577553042354354.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/01/12/47/04/63/61/79/93/06/02/03/15372577553042354354.png"
+    }
+  },
+  {
+    "gid_ref": 755333,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "SORUNSUZ ALIŞVERİŞ",
+      "productTitle": "Mecit 1826 Hamile Lohusa Gecelik Sabahlık Takımı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1536318775833,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 237828188,
+      "__unknown_productSubTitle": "Mecit 1826 Hamile Lohusa Gecelik Sabahlık Takımı Mavi L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 755334,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Gecelik",
+      "productTitle": "Mecit 1826 Hamile Lohusa Gecelik Sabahlık Takımı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1526564328557,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 237828188,
+      "__unknown_productSubTitle": "Mecit 1826 Hamile Lohusa Gecelik Sabahlık Takımı Mavi L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

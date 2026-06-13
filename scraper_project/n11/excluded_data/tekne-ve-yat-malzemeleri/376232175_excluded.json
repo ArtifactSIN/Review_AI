@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1250020,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Plastik  Mandal 4'Lü  Paket",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1618561611366,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 376232175,
+      "__unknown_productSubTitle": "Plastik  Mandal 4'Lü  Paket",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1250021,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Plastik  Mandal 4'Lü  Paket",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1598999346628,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 376232175,
+      "__unknown_productSubTitle": "Plastik  Mandal 4'Lü  Paket",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

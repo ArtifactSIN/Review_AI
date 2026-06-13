@@ -1,0 +1,81 @@
+[
+  {
+    "gid_ref": 953062,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LIGHTINGHM 42 litre dağcı BEJ taktik kamp sırt çantası Bej",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1708790430160,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1749539088358,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569727368,
+      "__unknown_productSubTitle": "LIGHTINGHM 42 litre dağcı BEJ taktik kamp sırt çantası Bej ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 953063,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LIGHTINGHM 42 litre dağcı BEJ taktik kamp sırt çantası Bej",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697379953322,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1749539088358,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569727368,
+      "__unknown_productSubTitle": "LIGHTINGHM 42 litre dağcı BEJ taktik kamp sırt çantası Bej ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 953064,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LIGHTINGHM 42 litre dağcı BEJ taktik kamp sırt çantası Bej",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1681282895410,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/04/12/87/46/90/56/48/41/58/13/35/11456564749961965613.png",
+      "__unknown_lastModifiedDate": 1749539088358,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569727368,
+      "__unknown_productSubTitle": "LIGHTINGHM 42 litre dağcı BEJ taktik kamp sırt çantası Bej ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1868702,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/04/12/87/46/90/56/48/41/58/13/35/11456564749961965613.png"
+        },
+        {
+          "id": 1868703,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/04/12/62/16/52/09/47/88/31/14/10/28570376179022777162.png"
+        },
+        {
+          "id": 1868704,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/04/12/51/76/82/68/33/62/96/18/20/32536281624034391484.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/04/12/87/46/90/56/48/41/58/13/35/11456564749961965613.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/04/12/87/46/90/56/48/41/58/13/35/11456564749961965613.png"
+    }
+  }
+]

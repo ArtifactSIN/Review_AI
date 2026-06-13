@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 193081,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dalin Bebe Yağı 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765846690282,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/16/74/75/00/59/07/07/44/82/26/12087929635082817236.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589654656,
+      "__unknown_productSubTitle": "Dalin Bebe Yağı 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8127452,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/16/74/75/00/59/07/07/44/82/26/12087929635082817236.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/16/74/75/00/59/07/07/44/82/26/12087929635082817236.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/16/74/75/00/59/07/07/44/82/26/12087929635082817236.jpg"
+    }
+  },
+  {
+    "gid_ref": 193082,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ürün biraz pahalı ama kalitesi güzel.",
+      "productTitle": "Dalin Bebe Yağı 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1652161172359,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 538674210,
+      "__unknown_productSubTitle": "Dalin Bebe Yağı 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

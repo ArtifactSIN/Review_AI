@@ -1,0 +1,55 @@
+[
+  {
+    "gid_ref": 384886,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Raceface Ar27 Ofset Jant Çemberi 29\" Disk Fren 32d",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774451651972,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/48/08/98/78/35/73/17/31/72/31206145432240306173.png",
+      "__unknown_lastModifiedDate": 1774451651972,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 687461641,
+      "__unknown_productSubTitle": "Raceface Ar27 Ofset Jant Çemberi 29\" Disk Fren 32d ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8503461,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/48/08/98/78/35/73/17/31/72/31206145432240306173.png"
+        },
+        {
+          "id": 8503462,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/76/69/06/19/70/36/34/25/73/3899431270272877415.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/48/08/98/78/35/73/17/31/72/31206145432240306173.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/48/08/98/78/35/73/17/31/72/31206145432240306173.png"
+    }
+  },
+  {
+    "gid_ref": 384887,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Raceface Ar27 Ofset Jant Çemberi 29\" Disk Fren 32d",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762723387421,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 687461641,
+      "__unknown_productSubTitle": "Raceface Ar27 Ofset Jant Çemberi 29\" Disk Fren 32d ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

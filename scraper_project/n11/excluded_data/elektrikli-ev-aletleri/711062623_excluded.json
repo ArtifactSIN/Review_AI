@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 478963,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dyson Purifier Hot+cool Hp1 Isıtıcı Özellikli Hava Temizleyici Beyaz/beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774912251891,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774912251891,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719578890,
+      "__unknown_productSubTitle": "Dyson Purifier Hot+cool Hp1 Isıtıcı Özellikli Hava Temizleyici Beyaz/beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 478964,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dyson Purifier Hot+cool Hp1 Isıtıcı Özellikli Hava Temizleyici Beyaz/beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774518049965,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/72/82/88/21/69/02/50/62/72/45396881503520180421.jpg",
+      "__unknown_lastModifiedDate": 1774518049965,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719578890,
+      "__unknown_productSubTitle": "Dyson Purifier Hot+cool Hp1 Isıtıcı Özellikli Hava Temizleyici Beyaz/beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8517702,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/72/82/88/21/69/02/50/62/72/45396881503520180421.jpg"
+        },
+        {
+          "id": 8517703,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/52/93/00/13/21/19/95/89/60/23521243280241177442.jpg"
+        },
+        {
+          "id": 8517704,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/47/93/29/76/85/33/08/17/87/91909593977321244558.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/72/82/88/21/69/02/50/62/72/45396881503520180421.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/72/82/88/21/69/02/50/62/72/45396881503520180421.jpg"
+    }
+  }
+]

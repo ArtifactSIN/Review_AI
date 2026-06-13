@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 507745,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec Tr-600 Batarya",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763104654508,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 493824035,
+      "__unknown_productSubTitle": "Powertec Tr-600 Batarya",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 507746,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec Tr-600 Batarya",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727353101730,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 493824035,
+      "__unknown_productSubTitle": "Powertec Tr-600 Batarya",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 507747,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec Tr-600 Batarya",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1688573133487,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 493824035,
+      "__unknown_productSubTitle": "Powertec Tr-600 Batarya",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 507748,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec Tr-600 Batarya",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1673301712535,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/01/10/89/19/35/19/56/24/08/00/75/61337704882745526988.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 493824035,
+      "__unknown_productSubTitle": "Powertec Tr-600 Batarya",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1463624,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/10/72/86/22/81/37/66/37/61/13/42796154942741497201.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/01/10/89/19/35/19/56/24/08/00/75/61337704882745526988.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/01/10/89/19/35/19/56/24/08/00/75/61337704882745526988.png"
+    }
+  },
+  {
+    "gid_ref": 507749,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "vasat",
+      "productTitle": "Powertec Tr-600 Batarya",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1659464263379,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 493824035,
+      "__unknown_productSubTitle": "Powertec Tr-600 Batarya",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

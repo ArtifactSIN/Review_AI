@@ -1,0 +1,68 @@
+[
+  {
+    "gid_ref": 1031447,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aqua di Polo 1987 Bamboo Green Tea Eau de Cologne Kolonya 200 ML APPKBY03UC ",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775180852994,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/03/72/77/81/60/49/90/91/15/47/06631145732644254813.png",
+      "__unknown_lastModifiedDate": 1775180852994,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732811404,
+      "__unknown_productSubTitle": "Aqua di Polo 1987 Bamboo Green Tea Eau de Cologne Kolonya 200 ML APPKBY03UC ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8565503,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/03/72/77/81/60/49/90/91/15/47/06631145732644254813.png"
+        },
+        {
+          "id": 8565504,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/03/46/60/42/08/43/66/66/01/05/1147408169282454240.png"
+        },
+        {
+          "id": 8565505,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/03/87/72/69/28/15/84/75/18/07/92987058064283552902.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/03/72/77/81/60/49/90/91/15/47/06631145732644254813.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/03/72/77/81/60/49/90/91/15/47/06631145732644254813.png"
+    }
+  },
+  {
+    "gid_ref": 1031448,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aqua di Polo 1987 Bamboo Green Tea Eau de Cologne Kolonya 200 ML APPKBY03UC ",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775067422592,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/91/88/63/68/58/71/41/47/33/35309015842509995881.png",
+      "__unknown_lastModifiedDate": 1775067422592,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732811404,
+      "__unknown_productSubTitle": "Aqua di Polo 1987 Bamboo Green Tea Eau de Cologne Kolonya 200 ML APPKBY03UC ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8558018,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/91/88/63/68/58/71/41/47/33/35309015842509995881.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/91/88/63/68/58/71/41/47/33/35309015842509995881.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/91/88/63/68/58/71/41/47/33/35309015842509995881.png"
+    }
+  }
+]

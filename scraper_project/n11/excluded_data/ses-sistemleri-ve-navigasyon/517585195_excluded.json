@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 1149725,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Teyp Cepliği Universal",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771238794408,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 517585195,
+      "__unknown_productSubTitle": "Teyp Cepliği Universal",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1149726,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Teyp Cepliği Universal",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1690709824626,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 517585195,
+      "__unknown_productSubTitle": "Teyp Cepliği Universal",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1149727,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Teyp Cepliği Universal",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1674450307247,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 517585195,
+      "__unknown_productSubTitle": "Teyp Cepliği Universal",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1149728,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Teyp Cepliği Universal",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1672249734549,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 517585195,
+      "__unknown_productSubTitle": "Teyp Cepliği Universal",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

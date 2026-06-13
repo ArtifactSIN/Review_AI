@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1335668,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 135 Kilometre Saati",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1684006022432,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 564645697,
+      "__unknown_productSubTitle": "Massey Ferguson 135 Kilometre Saati",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1335669,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "mf 135-148 km saati\nmf135-148 km saati",
+      "productTitle": "Massey Ferguson 135 Kilometre Saati",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1663311874871,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 521815478,
+      "__unknown_productSubTitle": "Massey Ferguson 135 Kilometre Saati",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

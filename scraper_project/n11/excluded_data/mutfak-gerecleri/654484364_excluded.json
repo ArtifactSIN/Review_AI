@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 927028,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lava Demir Döküm Yuvarlak 28 Cm Kızartma Tavası Metal Saplı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1736789842593,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645222967,
+      "__unknown_productSubTitle": "Lava Demir Döküm Yuvarlak 28 Cm Kızartma Tavası Metal Saplı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 927029,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lava Demir Döküm Yuvarlak 28 Cm Kızartma Tavası Metal Saplı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726777791038,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/19/71/88/49/22/62/79/96/19/23/14357970837282731975.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593963419,
+      "__unknown_productSubTitle": "Lava Demir Döküm Yuvarlak 28 Cm Kızartma Tavası Metal Saplı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5702346,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/19/71/88/49/22/62/79/96/19/23/14357970837282731975.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/19/71/88/49/22/62/79/96/19/23/14357970837282731975.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/19/71/88/49/22/62/79/96/19/23/14357970837282731975.jpg"
+    }
+  }
+]

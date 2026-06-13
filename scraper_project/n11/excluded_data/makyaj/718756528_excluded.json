@@ -1,0 +1,113 @@
+[
+  {
+    "gid_ref": 852544,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 008 Acai Glaze",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769066646343,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718756528,
+      "__unknown_productSubTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 008 Acai Glaze",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 852545,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 008 Acai Glaze",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768480039211,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/15/58/99/33/03/56/35/72/87/97/86889348065309705542.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718756528,
+      "__unknown_productSubTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 008 Acai Glaze",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8254692,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/15/58/99/33/03/56/35/72/87/97/86889348065309705542.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/15/58/99/33/03/56/35/72/87/97/86889348065309705542.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/15/58/99/33/03/56/35/72/87/97/86889348065309705542.png"
+    }
+  },
+  {
+    "gid_ref": 852546,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 008 Acai Glaze",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767475993778,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718756528,
+      "__unknown_productSubTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 008 Acai Glaze",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 852547,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 008 Acai Glaze",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767164253069,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718756528,
+      "__unknown_productSubTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 008 Acai Glaze",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 852548,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 008 Acai Glaze",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765911526053,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718756528,
+      "__unknown_productSubTitle": "Maybelline New York Lifter Glaze Renkli Dudak Balmı 008 Acai Glaze",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

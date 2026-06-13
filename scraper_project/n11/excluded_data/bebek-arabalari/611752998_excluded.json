@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 181739,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Baby Home Single-to Travel Sistem Bebek Arabası + Maya Anne Yanı Bebek Sepeti Beşik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1679579561276,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/03/23/50/19/71/21/60/59/08/04/21/3583397386552196446.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 510935671,
+      "__unknown_productSubTitle": "Baby Home Single-to Travel Sistem Bebek Arabası + Maya Anne Yanı Bebek Sepeti Beşik Altın - Kahverengi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1777112,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/03/23/50/19/71/21/60/59/08/04/21/3583397386552196446.png"
+        },
+        {
+          "id": 1777113,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/03/23/70/83/59/62/90/42/40/45/34/493122544247718661.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/03/23/50/19/71/21/60/59/08/04/21/3583397386552196446.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/03/23/50/19/71/21/60/59/08/04/21/3583397386552196446.png"
+    }
+  },
+  {
+    "gid_ref": 181740,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Baby Home Single-to Travel Sistem Bebek Arabası + Maya Anne Yanı Bebek Sepeti Beşik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1676456274304,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 510935671,
+      "__unknown_productSubTitle": "Baby Home Single-to Travel Sistem Bebek Arabası + Maya Anne Yanı Bebek Sepeti Beşik Altın - Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

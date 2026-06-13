@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 1494474,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "URT021-002 Gökkuşağı Kule -Birlik",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766156816761,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597727624,
+      "__unknown_productSubTitle": "URT021-002 Gökkuşağı Kule -Birlik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1494475,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "URT021-002 Gökkuşağı Kule -Birlik",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745849483609,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597727624,
+      "__unknown_productSubTitle": "URT021-002 Gökkuşağı Kule -Birlik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1494476,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "URT021-002 Gökkuşağı Kule -Birlik",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1717095373196,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/30/78/44/65/14/33/58/67/89/40/07622572290153991548.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597727624,
+      "__unknown_productSubTitle": "URT021-002 Gökkuşağı Kule -Birlik",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4836346,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/30/78/44/65/14/33/58/67/89/40/07622572290153991548.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/30/78/44/65/14/33/58/67/89/40/07622572290153991548.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/30/78/44/65/14/33/58/67/89/40/07622572290153991548.jpg"
+    }
+  },
+  {
+    "gid_ref": 1494477,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "URT021-002 Gökkuşağı Kule -Birlik",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697266404473,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573319759,
+      "__unknown_productSubTitle": "BRL-795018",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

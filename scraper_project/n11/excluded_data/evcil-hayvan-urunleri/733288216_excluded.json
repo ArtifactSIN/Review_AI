@@ -1,0 +1,84 @@
+[
+  {
+    "gid_ref": 733263,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Royal Canin Renal Yetişkin Kedi Maması 2 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770502374904,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 708249611,
+      "__unknown_productSubTitle": "Royal Canin Renal Yetişkin Kedi Maması 2 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 733264,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Royal Canin Renal Yetişkin Kedi Maması 2 KG",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1769082040457,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679732653,
+      "__unknown_productSubTitle": "Royal Canin Renal Yetişkin Kedi Maması 2 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 733265,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Royal Canin Renal Yetişkin Kedi Maması 2 KG",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1759313672367,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 703733982,
+      "__unknown_productSubTitle": "Royal Canin Renal Yetişkin Kedi Maması 2 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 733266,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Royal Canin Renal Yetişkin Kedi Maması 2 KG",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1757004708807,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679732653,
+      "__unknown_productSubTitle": "Royal Canin Renal Yetişkin Kedi Maması 2 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

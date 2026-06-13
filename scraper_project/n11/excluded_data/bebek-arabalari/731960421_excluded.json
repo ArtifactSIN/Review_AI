@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 182722,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanz X-Go Silver Travel Sistem Bebek Arabası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731503337952,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611751833,
+      "__unknown_productSubTitle": "Kanz X-Go Silver Travel Sistem Bebek Arabası Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 182723,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Başarılı",
+      "productTitle": "Kanz X-Go Silver Travel Sistem Bebek Arabası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1620728586358,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 458523791,
+      "__unknown_productSubTitle": "Kanz X-Go Silver Travel Bebek Arabası Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

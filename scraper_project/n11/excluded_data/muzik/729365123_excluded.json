@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 947529,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ferdi Tayfur - Prangalar Plak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766777416536,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 722012804,
+      "__unknown_productSubTitle": "Ferdi Tayfur - Prangalar Plak ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947530,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ferdi Tayfur - Prangalar Plak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765187274738,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/08/88/79/86/86/17/13/91/39/48/13735645591335095858.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 722012804,
+      "__unknown_productSubTitle": "Ferdi Tayfur - Prangalar Plak ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8085388,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/08/88/79/86/86/17/13/91/39/48/13735645591335095858.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/08/88/79/86/86/17/13/91/39/48/13735645591335095858.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/08/88/79/86/86/17/13/91/39/48/13735645591335095858.jpg"
+    }
+  },
+  {
+    "gid_ref": 947531,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ferdi Tayfur - Prangalar Plak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765187202885,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/08/87/91/24/90/64/33/39/92/80/36724593712084831454.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 722012804,
+      "__unknown_productSubTitle": "Ferdi Tayfur - Prangalar Plak ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8088364,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/08/87/91/24/90/64/33/39/92/80/36724593712084831454.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/08/87/91/24/90/64/33/39/92/80/36724593712084831454.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/08/87/91/24/90/64/33/39/92/80/36724593712084831454.jpg"
+    }
+  },
+  {
+    "gid_ref": 947532,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ferdi Tayfur - Prangalar Plak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764536388930,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 722012804,
+      "__unknown_productSubTitle": "Ferdi Tayfur - Prangalar Plak ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

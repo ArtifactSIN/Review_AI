@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 263424,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Holmer Maxi Comfort Coolstyle Anne Yanı Deluxe Kumaş Premium Dönenceli Oyun Parkı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747247530586,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653093849,
+      "__unknown_productSubTitle": "Holmer Maxi Comfort Coolstyle Anne Yanı Deluxe Kumaş Premium Dönenceli Oyun Parkı Bej",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 263425,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Holmer Maxi Comfort Coolstyle Anne Yanı Deluxe Kumaş Premium Dönenceli Oyun Parkı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730439686442,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599714502,
+      "__unknown_productSubTitle": "Holmer Maxi Comfort Coolstyle Anne Yanı Deluxe Kumaş Premium Dönenceli Oyun Parkı Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 263426,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Holmer Maxi Comfort Coolstyle Anne Yanı Deluxe Kumaş Premium Dönenceli Oyun Parkı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715323194179,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/10/82/14/82/97/17/42/34/13/59/44808968259431252681.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599714502,
+      "__unknown_productSubTitle": "Holmer Maxi Comfort Coolstyle Anne Yanı Deluxe Kumaş Premium Dönenceli Oyun Parkı Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4646554,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/10/48/52/40/93/48/77/91/21/16/7278479751577685681.jpg"
+        },
+        {
+          "id": 4646555,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/10/66/11/44/15/16/23/73/46/15/84950824930840168591.jpg"
+        },
+        {
+          "id": 4646553,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/10/82/14/82/97/17/42/34/13/59/44808968259431252681.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/10/82/14/82/97/17/42/34/13/59/44808968259431252681.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/10/82/14/82/97/17/42/34/13/59/44808968259431252681.jpg"
+    }
+  }
+]

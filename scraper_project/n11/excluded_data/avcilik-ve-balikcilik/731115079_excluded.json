@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 125173,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Remixon Speed 2.70m 20-60gr Teleskopik Olta Kamışı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758785942873,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639776781,
+      "__unknown_productSubTitle": "Remixon Speed 2.70m 20-60gr Teleskopik Olta Kamışı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 125174,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Remixon Speed 2.70m 20-60gr Teleskopik Olta Kamışı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745498610213,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/24/60/23/56/69/62/72/78/67/13/84334407991159574134.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639776781,
+      "__unknown_productSubTitle": "Remixon Speed 2.70m 20-60gr Teleskopik Olta Kamışı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7131295,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/24/60/23/56/69/62/72/78/67/13/84334407991159574134.jpg"
+        },
+        {
+          "id": 7131296,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/24/64/24/17/62/33/78/82/44/07/85164778824020937921.jpg"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/24/60/23/56/69/62/72/78/67/13/84334407991159574134.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/24/60/23/56/69/62/72/78/67/13/84334407991159574134.jpg"
+    }
+  },
+  {
+    "gid_ref": 125175,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Remixon Speed 2.70m 20-60gr Teleskopik Olta Kamışı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732004086836,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639776781,
+      "__unknown_productSubTitle": "Remixon Speed 2.70m 20-60gr Teleskopik Olta Kamışı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

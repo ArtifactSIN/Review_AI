@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 755292,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Penti Mikro 40 Hamile Külotlu Çorap 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763900647086,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 621361026,
+      "__unknown_productSubTitle": "Penti Mikro 40 Hamile Külotlu Çorap 001 Siyah 4",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 755293,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Penti Mikro 40 Hamile Külotlu Çorap 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763551059433,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 621361026,
+      "__unknown_productSubTitle": "Penti Mikro 40 Hamile Külotlu Çorap 001 Siyah 4",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

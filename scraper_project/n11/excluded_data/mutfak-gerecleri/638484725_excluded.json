@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 924699,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Carol 6 'lı Çay Bardağı Seti - 115ml Bard0000000028",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765052138102,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638484725,
+      "__unknown_productSubTitle": "Madame Coco Carol 6 'lı Çay Bardağı Seti - 115ml Bard0000000028",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 924700,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Carol 6 'lı Çay Bardağı Seti - 115ml Bard0000000028",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729618463643,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/22/87/21/25/75/65/88/23/06/35/7558258476781714611.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638484725,
+      "__unknown_productSubTitle": "Madame Coco Carol 6 'lı Çay Bardağı Seti - 115ml Bard0000000028",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5990069,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/22/87/21/25/75/65/88/23/06/35/7558258476781714611.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/22/87/21/25/75/65/88/23/06/35/7558258476781714611.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/22/87/21/25/75/65/88/23/06/35/7558258476781714611.png"
+    }
+  }
+]

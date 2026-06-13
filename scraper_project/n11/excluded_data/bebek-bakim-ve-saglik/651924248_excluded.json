@@ -1,0 +1,92 @@
+[
+  {
+    "gid_ref": 201407,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Otribebe Monodoz 5 Ml x 20 Flakon 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772086133050,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651924248,
+      "__unknown_productSubTitle": "Otribebe Monodoz 5 Ml x 20 Flakon 2 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 201408,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Otribebe Monodoz 5 Ml x 20 Flakon 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769945180450,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651924248,
+      "__unknown_productSubTitle": "Otribebe Monodoz 5 Ml x 20 Flakon 2 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 201409,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Otribebe Monodoz 5 Ml x 20 Flakon 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766856005566,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/27/85/07/23/99/81/55/41/16/99/72545265447236223268.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651924248,
+      "__unknown_productSubTitle": "Otribebe Monodoz 5 Ml x 20 Flakon 2 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8182309,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/27/85/07/23/99/81/55/41/16/99/72545265447236223268.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/27/85/07/23/99/81/55/41/16/99/72545265447236223268.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/27/85/07/23/99/81/55/41/16/99/72545265447236223268.png"
+    }
+  },
+  {
+    "gid_ref": 201410,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Otribebe Monodoz 5 Ml x 20 Flakon 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746788464506,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651924248,
+      "__unknown_productSubTitle": "Otribebe Monodoz 5 Ml x 20 Flakon 2 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

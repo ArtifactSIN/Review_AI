@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 293902,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Siemens LC63KPJ20T Davlumbaz Duvar Tipi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766518956693,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632796540,
+      "__unknown_productSubTitle": "Siemens LC63KPJ20T Davlumbaz Duvar Tipi Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 293903,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Siemens LC63KPJ20T Davlumbaz Duvar Tipi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1746620447201,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629023998,
+      "__unknown_productSubTitle": "Siemens LC63KPJ20T Davlumbaz Duvar Tipi Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 293904,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Siemens LC63KPJ20T Davlumbaz Duvar Tipi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733946765737,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/11/84/71/39/73/58/71/53/26/60/08158847614109828312.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632796540,
+      "__unknown_productSubTitle": "Siemens LC63KPJ20T Davlumbaz Duvar Tipi Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6472064,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/11/84/71/39/73/58/71/53/26/60/08158847614109828312.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/11/84/71/39/73/58/71/53/26/60/08158847614109828312.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/11/84/71/39/73/58/71/53/26/60/08158847614109828312.png"
+    }
+  }
+]

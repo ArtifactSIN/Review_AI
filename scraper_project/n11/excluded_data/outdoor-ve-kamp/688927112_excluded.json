@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 963799,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lerato Basic Xxl Katlanır Kamp Sandalyesi Lacivert",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775840766330,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775840766330,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688927112,
+      "__unknown_productSubTitle": "Lerato Basic Xxl Katlanır Kamp Sandalyesi Lacivert",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 963800,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lerato Basic Xxl Katlanır Kamp Sandalyesi Lacivert",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757411037883,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/09/62/18/72/59/57/97/28/43/17/43930043997670100013.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688927112,
+      "__unknown_productSubTitle": "Lerato Basic Xxl Katlanır Kamp Sandalyesi Lacivert",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7663748,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/09/62/18/72/59/57/97/28/43/17/43930043997670100013.png"
+        },
+        {
+          "id": 7663749,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/09/46/80/17/21/44/13/46/21/25/14380640678214939025.png"
+        },
+        {
+          "id": 7674300,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/09/87/40/21/56/32/67/72/50/73/42421480377114604106.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/09/62/18/72/59/57/97/28/43/17/43930043997670100013.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/09/62/18/72/59/57/97/28/43/17/43930043997670100013.png"
+    }
+  }
+]

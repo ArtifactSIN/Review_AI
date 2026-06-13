@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 946804,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Audio-Technica ATH-M50X Profesyonel Stüdyo Kulaklık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734638145140,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 435489064,
+      "__unknown_productSubTitle": "Audio-Technica ATH-M50X Profesyonel Stüdyo Kulaklık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946805,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "m50x referans kulaklık",
+      "productTitle": "Audio-Technica ATH-M50X Profesyonel Stüdyo Kulaklık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1648068051486,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/03/23/83/55/37/08/54/04/12/50/12/6950040246479439911.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 435489064,
+      "__unknown_productSubTitle": "Audio-Technica ATH-M50X Profesyonel Stüdyo Kulaklık",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 458507,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/03/23/83/55/37/08/54/04/12/50/12/6950040246479439911.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/03/23/83/55/37/08/54/04/12/50/12/6950040246479439911.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/03/23/83/55/37/08/54/04/12/50/12/6950040246479439911.jpg"
+    }
+  },
+  {
+    "gid_ref": 946806,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Referans kulaklık",
+      "productTitle": "Audio-Technica ATH-M50X Profesyonel Stüdyo Kulaklık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1644050263850,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 435489064,
+      "__unknown_productSubTitle": "Audio-Technica ATH-M50X Profesyonel Stüdyo Kulaklık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

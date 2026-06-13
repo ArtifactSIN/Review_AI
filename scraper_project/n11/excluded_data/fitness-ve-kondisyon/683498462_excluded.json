@@ -1,0 +1,80 @@
+[
+  {
+    "gid_ref": 745901,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps Spor 20 Kg Dambıl 10 Kg 2 Adet Gönderim Yapılır",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773330942713,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/12/55/71/90/03/94/84/41/25/27/96278498372225513737.jpeg",
+      "__unknown_lastModifiedDate": 1773330942713,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683498462,
+      "__unknown_productSubTitle": "Ps Spor 20 Kg Dambıl 10 Kg 2 Adet Gönderim Yapılır ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8464812,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/12/55/71/90/03/94/84/41/25/27/96278498372225513737.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/12/55/71/90/03/94/84/41/25/27/96278498372225513737.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/12/55/71/90/03/94/84/41/25/27/96278498372225513737.jpeg"
+    }
+  },
+  {
+    "gid_ref": 745902,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps Spor 20 Kg Dambıl 10 Kg 2 Adet Gönderim Yapılır",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771369545906,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683498462,
+      "__unknown_productSubTitle": "Ps Spor 20 Kg Dambıl 10 Kg 2 Adet Gönderim Yapılır ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 745903,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps Spor 20 Kg Dambıl 10 Kg 2 Adet Gönderim Yapılır",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765813920042,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/15/92/12/19/68/28/19/87/26/95/62368864575858361829.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683498462,
+      "__unknown_productSubTitle": "Ps Spor 20 Kg Dambıl 10 Kg 2 Adet Gönderim Yapılır ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8123753,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/15/92/12/19/68/28/19/87/26/95/62368864575858361829.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/15/92/12/19/68/28/19/87/26/95/62368864575858361829.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/15/92/12/19/68/28/19/87/26/95/62368864575858361829.png"
+    }
+  }
+]

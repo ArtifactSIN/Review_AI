@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 301307,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sf-7701 Masaüstü Fan",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764862880503,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1764863978911,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 686661989,
+      "__unknown_productSubTitle": "Sf-7701 Masaüstü Fan Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 301308,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sf-7701 Masaüstü Fan",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1755170836376,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 685665329,
+      "__unknown_productSubTitle": "Sf-7701 Masaüstü Fan Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

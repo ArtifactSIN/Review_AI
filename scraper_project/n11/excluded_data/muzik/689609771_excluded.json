@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 947041,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Magicvoice Mv-4676 Dinamik Gri Kablolu El Mikrofonu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730570687166,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/02/47/37/06/15/04/27/53/49/52/94396929138900682588.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524330277,
+      "__unknown_productSubTitle": "Magicvoice Mv-4676 Dinamik Gri Kablolu El Mikrofonu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6105247,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/02/47/37/06/15/04/27/53/49/52/94396929138900682588.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/02/47/37/06/15/04/27/53/49/52/94396929138900682588.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/02/47/37/06/15/04/27/53/49/52/94396929138900682588.png"
+    }
+  },
+  {
+    "gid_ref": 947042,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Magicvoice Mv-4676 Dinamik Gri Kablolu El Mikrofonu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729710616345,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/23/74/39/96/31/91/82/44/93/80/44588452004094560165.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 524330277,
+      "__unknown_productSubTitle": "Magicvoice Mv-4676 Dinamik Gri Kablolu El Mikrofonu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5999973,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/23/74/39/96/31/91/82/44/93/80/44588452004094560165.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/23/74/39/96/31/91/82/44/93/80/44588452004094560165.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/23/74/39/96/31/91/82/44/93/80/44588452004094560165.png"
+    }
+  }
+]

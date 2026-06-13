@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1045701,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yasomi S1 Pro 7 İn 1 Saç Şekillendirme Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771930707648,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/24/62/06/30/05/45/94/03/05/19/4406774002945968216.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580152895,
+      "__unknown_productSubTitle": "Yasomi S1 Pro 7 İn 1 Saç Şekillendirme Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8395046,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/24/62/06/30/05/45/94/03/05/19/4406774002945968216.png"
+        },
+        {
+          "id": 8395047,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/24/66/09/76/06/35/14/88/54/07/23657493379150990173.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/24/62/06/30/05/45/94/03/05/19/4406774002945968216.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/24/62/06/30/05/45/94/03/05/19/4406774002945968216.png"
+    }
+  },
+  {
+    "gid_ref": 1045702,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yasomi S1 Pro 7 İn 1 Saç Şekillendirme Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730144453272,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/28/84/45/70/12/24/02/40/52/88/52357665730934096509.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580152895,
+      "__unknown_productSubTitle": "Yasomi S1 Pro 7 İn 1 Saç Şekillendirme Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6048787,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/28/84/45/70/12/24/02/40/52/88/52357665730934096509.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/28/84/45/70/12/24/02/40/52/88/52357665730934096509.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/28/84/45/70/12/24/02/40/52/88/52357665730934096509.jpg"
+    }
+  }
+]

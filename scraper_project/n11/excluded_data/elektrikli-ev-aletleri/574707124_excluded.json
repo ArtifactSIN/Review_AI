@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 446326,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "3 Yollu Arıtma Bataryası Şebeke Ve Arıtma Çıkış Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727677632098,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 574707124,
+      "__unknown_productSubTitle": "3 Yollu Arıtma Bataryası Şebeke Ve Arıtma Çıkış Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 446327,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "3 Yollu Arıtma Bataryası Şebeke Ve Arıtma Çıkış Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726219240993,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/13/58/69/20/09/28/33/44/32/90/13833050604024448051.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 574707124,
+      "__unknown_productSubTitle": "3 Yollu Arıtma Bataryası Şebeke Ve Arıtma Çıkış Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5661556,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/13/58/69/20/09/28/33/44/32/90/13833050604024448051.png"
+        },
+        {
+          "id": 5661557,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/13/86/69/70/27/23/41/55/98/54/74193499764959720974.png"
+        },
+        {
+          "id": 5661558,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/13/84/45/75/77/07/08/81/20/36/5420389278212534333.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/13/58/69/20/09/28/33/44/32/90/13833050604024448051.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/13/58/69/20/09/28/33/44/32/90/13833050604024448051.png"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 252153,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. U.S. Polo Assn Lisanslı Classic Açık Kahve Erkek Bebek Uzun Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721817592796,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/24/78/41/68/40/43/85/73/24/63/1996519341795721616.png",
+      "__unknown_lastModifiedDate": 1750733728338,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575056575,
+      "__unknown_productSubTitle": "U.S. Polo Assn. U.S. Polo Assn Lisanslı Classic Açık Kahve Erkek Bebek Uzun Kahverengi 6 - 9 Ay",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5252177,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/24/78/41/68/40/43/85/73/24/63/1996519341795721616.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/24/78/41/68/40/43/85/73/24/63/1996519341795721616.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/24/78/41/68/40/43/85/73/24/63/1996519341795721616.png"
+    }
+  },
+  {
+    "gid_ref": 252154,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. U.S. Polo Assn Lisanslı Classic Açık Kahve Erkek Bebek Uzun Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1716542531664,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750733728338,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575056575,
+      "__unknown_productSubTitle": "U.S. Polo Assn. U.S. Polo Assn Lisanslı Classic Açık Kahve Erkek Bebek Uzun Kahverengi 6 - 9 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

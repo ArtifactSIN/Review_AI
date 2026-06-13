@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 18113,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral White Cleaning Pro Diş İpi Naneli 50 M",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756746928971,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/01/69/64/64/04/05/77/27/43/51/61300558358190864203.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598811787,
+      "__unknown_productSubTitle": "Oral White Cleaning Pro Diş İpi Naneli 50 M",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7621228,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/01/69/64/64/04/05/77/27/43/51/61300558358190864203.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/01/69/64/64/04/05/77/27/43/51/61300558358190864203.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/01/69/64/64/04/05/77/27/43/51/61300558358190864203.png"
+    }
+  },
+  {
+    "gid_ref": 18114,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral White Cleaning Pro Diş İpi Naneli 50 M",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748778613153,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598811787,
+      "__unknown_productSubTitle": "Oral White Cleaning Pro Diş İpi Naneli 50 M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 18115,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral White Cleaning Pro Diş İpi Naneli 50 M",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729099505846,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598811787,
+      "__unknown_productSubTitle": "Oral White Cleaning Pro Diş İpi Naneli 50 M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

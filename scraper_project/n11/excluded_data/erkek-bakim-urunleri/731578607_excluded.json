@@ -1,0 +1,112 @@
+[
+  {
+    "gid_ref": 540170,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Mach3 Turbo Tıraş Makinesi + 1 Yedek Bıçak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730289253851,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632770589,
+      "__unknown_productSubTitle": "Gillette Mach3 Turbo Tıraş Makinesi + 1 Yedek Bıçak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 540171,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Mach3 Turbo Tıraş Makinesi + 1 Yedek Bıçak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727101873572,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 636384435,
+      "__unknown_productSubTitle": "Gillette Mach3 Turbo Tıraş Makinesi + 1 Yedek Bıçak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 540172,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Mach3 Turbo Tıraş Makinesi + 1 Yedek Bıçak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726487082431,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/16/61/20/27/81/83/62/40/99/04/04995252814472066357.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632770589,
+      "__unknown_productSubTitle": "Gillette Mach3 Turbo Tıraş Makinesi + 1 Yedek Bıçak",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5675940,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/16/61/20/27/81/83/62/40/99/04/04995252814472066357.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/16/61/20/27/81/83/62/40/99/04/04995252814472066357.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/16/61/20/27/81/83/62/40/99/04/04995252814472066357.png"
+    }
+  },
+  {
+    "gid_ref": 540173,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "aldatıcı başlık atılmış",
+      "productTitle": "Gillette Mach3 Turbo Tıraş Makinesi + 1 Yedek Bıçak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1668021971675,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 532399419,
+      "__unknown_productSubTitle": "Gillette Mach3 Tıraş Makinesi + 1 Yedek",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 540174,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Tek bıçaklı ürün",
+      "productTitle": "Gillette Mach3 Turbo Tıraş Makinesi + 1 Yedek Bıçak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1667503003482,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 532399419,
+      "__unknown_productSubTitle": "Gillette Mach3 Tıraş Makinesi + 1 Yedek",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

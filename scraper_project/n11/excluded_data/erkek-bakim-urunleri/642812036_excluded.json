@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 526259,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Proraso Okaliptüs ve Mentollü Tıraş Öncesi Kremi 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708155773673,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588585662,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 526260,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "İnanılmaz etki",
+      "productTitle": "Proraso Okaliptüs ve Mentollü Tıraş Öncesi Kremi 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1590146127340,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 423662855,
+      "__unknown_productSubTitle": "Proraso Okaliptüs ve Mentollü Tıraş Öncesi Kremi 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

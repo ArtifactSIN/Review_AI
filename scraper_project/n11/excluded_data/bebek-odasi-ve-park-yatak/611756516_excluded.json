@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 262617,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bundera Lora Kanguru Bebek ve Çocuk Salıncağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763892434586,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/23/65/59/88/89/74/54/27/41/24/16648541386404675649.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611756513,
+      "__unknown_productSubTitle": "Bundera Lora Kanguru Bebek ve Çocuk Salıncağı Pembe",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7998943,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/23/65/59/88/89/74/54/27/41/24/16648541386404675649.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/23/65/59/88/89/74/54/27/41/24/16648541386404675649.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/23/65/59/88/89/74/54/27/41/24/16648541386404675649.png"
+    }
+  },
+  {
+    "gid_ref": 262618,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bundera Lora Kanguru Bebek ve Çocuk Salıncağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726059873348,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611756515,
+      "__unknown_productSubTitle": "Bundera Lora Kanguru Bebek ve Çocuk Salıncağı Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 262619,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "kullanışlı",
+      "productTitle": "Bundera Lora Kanguru Bebek ve Çocuk Salıncağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1652627309150,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/05/15/81/37/22/07/64/38/40/26/07/46427512438029239655.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 435981135,
+      "__unknown_productSubTitle": "Bundera Lora Kanguru Bebek ve Çocuk Salıncağı Turkuaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 632340,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/05/15/81/37/22/07/64/38/40/26/07/46427512438029239655.jpeg"
+        },
+        {
+          "id": 632341,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/05/15/71/80/46/82/70/62/95/56/53/73328449214262786803.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/05/15/81/37/22/07/64/38/40/26/07/46427512438029239655.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/05/15/81/37/22/07/64/38/40/26/07/46427512438029239655.jpeg"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 392079,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nerf  Elite 2.0 Shockwave RD-15  E9527",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726826005736,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 534194985,
+      "__unknown_productSubTitle": "Nerf  Elite 2.0 Shockwave RD-15  E9527",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 392080,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nerf  Elite 2.0 Shockwave RD-15  E9527",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1709740188062,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/06/75/32/03/47/74/79/71/73/42/73653486232988596487.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 479832464,
+      "__unknown_productSubTitle": "Nerf  Elite 2.0 Shockwave RD-15  E9527",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4066279,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/06/75/32/03/47/74/79/71/73/42/73653486232988596487.png"
+        },
+        {
+          "id": 4066280,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/06/79/66/05/89/11/10/26/30/74/57137281808150542647.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/06/75/32/03/47/74/79/71/73/42/73653486232988596487.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/06/75/32/03/47/74/79/71/73/42/73653486232988596487.png"
+    }
+  },
+  {
+    "gid_ref": 392081,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nerf  Elite 2.0 Shockwave RD-15  E9527",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1691742888256,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 479832464,
+      "__unknown_productSubTitle": "Nerf  Elite 2.0 Shockwave RD-15  E9527",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

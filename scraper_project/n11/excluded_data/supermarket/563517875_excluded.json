@@ -1,0 +1,92 @@
+[
+  {
+    "gid_ref": 1200629,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mahmood Coffee Türk Kahvesi Özel Teneke Kutu 220 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736175325254,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/06/57/31/03/72/25/41/58/18/11/72174796817369184516.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 563517875,
+      "__unknown_productSubTitle": "Mahmood Coffee Türk Kahvesi Özel Teneke Kutu 220 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6660706,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/06/57/31/03/72/25/41/58/18/11/72174796817369184516.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/06/57/31/03/72/25/41/58/18/11/72174796817369184516.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/06/57/31/03/72/25/41/58/18/11/72174796817369184516.png"
+    }
+  },
+  {
+    "gid_ref": 1200630,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mahmood Coffee Türk Kahvesi Özel Teneke Kutu 220 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731141127599,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 563517875,
+      "__unknown_productSubTitle": "Mahmood Coffee Türk Kahvesi Özel Teneke Kutu 220 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1200631,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Mahmood Caffee Türk kahvesi Özel Teneke kutu ",
+      "productTitle": "Mahmood Coffee Türk Kahvesi Özel Teneke Kutu 220 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1662140795403,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 563517875,
+      "__unknown_productSubTitle": "Mahmood Coffee Türk Kahvesi Özel Teneke Kutu 220 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1200632,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "en güzel kahve",
+      "productTitle": "Mahmood Coffee Türk Kahvesi Özel Teneke Kutu 220 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1643653172850,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 527510719,
+      "__unknown_productSubTitle": "Mahmood Coffee Türk Kahvesi Teneke Kutu 220 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

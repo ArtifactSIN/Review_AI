@@ -1,0 +1,100 @@
+[
+  {
+    "gid_ref": 394487,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hot Wheels Dikey Uçuş Heyecan Yarış Seti GRW39",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773779194741,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773779194741,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589908210,
+      "__unknown_productSubTitle": "Hot Wheels Dikey Uçuş Heyecan Yarış Seti GRW39",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 394488,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hot Wheels Dikey Uçuş Heyecan Yarış Seti GRW39",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768587087077,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/16/47/05/62/76/61/64/59/54/46/61388681250570522182.jpg",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589908210,
+      "__unknown_productSubTitle": "Hot Wheels Dikey Uçuş Heyecan Yarış Seti GRW39",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8259667,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/16/47/05/62/76/61/64/59/54/46/61388681250570522182.jpg"
+        },
+        {
+          "id": 8259668,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/16/47/89/04/86/34/02/85/06/92/78158132765018600615.jpg"
+        },
+        {
+          "id": 8259669,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/16/74/96/93/88/39/67/00/34/45/33898378635919473798.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/16/47/05/62/76/61/64/59/54/46/61388681250570522182.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/16/47/05/62/76/61/64/59/54/46/61388681250570522182.jpg"
+    }
+  },
+  {
+    "gid_ref": 394489,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hot Wheels Dikey Uçuş Heyecan Yarış Seti GRW39",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1735207112799,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577565598,
+      "__unknown_productSubTitle": "Hot Wheels Dikey Uçuş Heyecan Yarış Seti GRW39",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 394490,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hot Wheels Dikey Uçuş Heyecan Yarış Seti GRW39",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1711640902185,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577565598,
+      "__unknown_productSubTitle": "Hot Wheels Dikey Uçuş Heyecan Yarış Seti GRW39",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

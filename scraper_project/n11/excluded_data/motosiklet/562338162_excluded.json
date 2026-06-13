@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 884327,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "K.M SAATİ (BLAZER XR)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753909346618,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562338162,
+      "__unknown_productSubTitle": "K.M SAATİ (BLAZER XR)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 884328,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "K.M SAATİ (BLAZER XR)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724884703336,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562338162,
+      "__unknown_productSubTitle": "K.M SAATİ (BLAZER XR)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 884329,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "K.M SAATİ (BLAZER XR)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1678723788935,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/03/13/85/35/00/83/72/47/93/67/83/37049598237163303240.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 562338162,
+      "__unknown_productSubTitle": "K.M SAATİ (BLAZER XR)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1737854,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/03/13/85/35/00/83/72/47/93/67/83/37049598237163303240.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/03/13/85/35/00/83/72/47/93/67/83/37049598237163303240.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/03/13/85/35/00/83/72/47/93/67/83/37049598237163303240.png"
+    }
+  }
+]

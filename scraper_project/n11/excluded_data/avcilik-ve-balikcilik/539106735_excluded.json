@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 118456,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sasa Yumuşak Kalamar Zokası 5Li Set 5 Cm 4 Gr",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729929237621,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/26/87/54/37/76/78/39/64/56/16/51466763160572019034.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539106735,
+      "__unknown_productSubTitle": "Sasa Yumuşak Kalamar Zokası 5Li Set 5 Cm 4 Gr",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6029461,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/26/87/54/37/76/78/39/64/56/16/51466763160572019034.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/26/87/54/37/76/78/39/64/56/16/51466763160572019034.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/26/87/54/37/76/78/39/64/56/16/51466763160572019034.png"
+    }
+  },
+  {
+    "gid_ref": 118457,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sasa Yumuşak Kalamar Zokası 5Li Set 5 Cm 4 Gr",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1673550432646,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539106735,
+      "__unknown_productSubTitle": "Sasa Yumuşak Kalamar Zokası 5Li Set 5 Cm 4 Gr",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 118458,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Sasa silikon Kalamar zoka",
+      "productTitle": "Sasa Yumuşak Kalamar Zokası 5Li Set 5 Cm 4 Gr",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1664725914958,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539106735,
+      "__unknown_productSubTitle": "Sasa Yumuşak Kalamar Zokası 5Li Set 5 Cm 4 Gr",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

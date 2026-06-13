@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 1489840,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kaliteli",
+      "productTitle": "Servo Uzatma Kablosu 60 CM Dişi - Erkek",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1588778256290,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 362113672,
+      "__unknown_productSubTitle": "Servo Uzatma Kablosu 60 CM Dişi - Erkek",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1489841,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Orjinal çok güzel",
+      "productTitle": "Servo Uzatma Kablosu 60 CM Dişi - Erkek",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1587118306100,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 362113672,
+      "__unknown_productSubTitle": "Servo Uzatma Kablosu 60 CM Dişi - Erkek",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1489842,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Servo Uzatma Kablosu 60 CM Dişi - Erkek",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1580286206402,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 362113672,
+      "__unknown_productSubTitle": "Servo Uzatma Kablosu 60 CM Dişi - Erkek",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

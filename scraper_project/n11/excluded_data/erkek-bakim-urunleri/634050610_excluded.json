@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 525646,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Floid The Genuine Tıraş Sonrası Losyon 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765036494584,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 709314104,
+      "__unknown_productSubTitle": "Floid The Genuine Tıraş Sonrası Losyon 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 525647,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Floid The Genuine Tıraş Sonrası Losyon 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734174359335,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/14/56/94/67/73/37/11/34/21/12/54786879879692173983.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634050610,
+      "__unknown_productSubTitle": "Floid The Genuine Tıraş Sonrası Losyon 150 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6488518,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/14/56/94/67/73/37/11/34/21/12/54786879879692173983.png"
+        },
+        {
+          "id": 6488519,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/14/59/84/70/08/44/64/90/54/32/94953210259834357364.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/14/56/94/67/73/37/11/34/21/12/54786879879692173983.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/14/56/94/67/73/37/11/34/21/12/54786879879692173983.png"
+    }
+  }
+]

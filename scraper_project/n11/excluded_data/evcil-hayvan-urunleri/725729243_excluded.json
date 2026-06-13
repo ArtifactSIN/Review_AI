@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 728288,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "20 Lt Lavantalı Kedi Kumu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775837802837,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/10/80/84/52/48/98/27/31/79/49/76403297446220218784.jpg",
+      "__unknown_lastModifiedDate": 1775837802837,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 725729243,
+      "__unknown_productSubTitle": "20 Lt Lavantalı Kedi Kumu ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8591720,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/80/84/52/48/98/27/31/79/49/76403297446220218784.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/10/80/84/52/48/98/27/31/79/49/76403297446220218784.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/10/80/84/52/48/98/27/31/79/49/76403297446220218784.jpg"
+    }
+  },
+  {
+    "gid_ref": 728289,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "20 Lt Lavantalı Kedi Kumu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775717669153,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775717669153,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 725729243,
+      "__unknown_productSubTitle": "20 Lt Lavantalı Kedi Kumu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 728290,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "20 Lt Lavantalı Kedi Kumu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769723687118,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 725729243,
+      "__unknown_productSubTitle": "20 Lt Lavantalı Kedi Kumu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

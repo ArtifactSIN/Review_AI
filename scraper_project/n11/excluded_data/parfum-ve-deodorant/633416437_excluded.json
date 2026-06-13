@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1013993,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farmasi Invisible Erkek Roll-On Deodorant 2 x 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771257127594,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633416437,
+      "__unknown_productSubTitle": "Farmasi Invisible Erkek Roll-On Deodorant 2 x 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1013994,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farmasi Invisible Erkek Roll-On Deodorant 2 x 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739056903602,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633416437,
+      "__unknown_productSubTitle": "Farmasi Invisible Erkek Roll-On Deodorant 2 x 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1013995,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Farmasi Invisible Erkek Roll-On Deodorant 2 x 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734024241496,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633416437,
+      "__unknown_productSubTitle": "Farmasi Invisible Erkek Roll-On Deodorant 2 x 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

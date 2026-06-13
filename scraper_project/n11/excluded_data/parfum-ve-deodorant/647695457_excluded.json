@@ -1,0 +1,95 @@
+[
+  {
+    "gid_ref": 1022429,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nivea Fresh Cherry Kadın Deodorant 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729785480226,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/24/72/76/24/38/60/24/21/91/41/77074697882934264224.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606455231,
+      "__unknown_productSubTitle": "Nivea Fresh Cherry Kadın Deodorant 150 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6011904,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/24/72/76/24/38/60/24/21/91/41/77074697882934264224.jpg"
+        },
+        {
+          "id": 6011905,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/24/80/24/39/79/45/62/62/62/15/91719609113912165861.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/24/72/76/24/38/60/24/21/91/41/77074697882934264224.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/24/72/76/24/38/60/24/21/91/41/77074697882934264224.jpg"
+    }
+  },
+  {
+    "gid_ref": 1022430,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nivea Fresh Cherry Kadın Deodorant 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1721236299163,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 527349211,
+      "__unknown_productSubTitle": "Nivea Fresh Cherry Kadın Deodorant 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1022431,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nivea Fresh Cherry Kadın Deodorant 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715107932204,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590392784,
+      "__unknown_productSubTitle": "Nivea Fresh Cherry Kadın Deodorant 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1022432,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ürün",
+      "productTitle": "Nivea Fresh Cherry Kadın Deodorant 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1629797508834,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 488955510,
+      "__unknown_productSubTitle": "NIVEA DEO FRESH CHERRY 150ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

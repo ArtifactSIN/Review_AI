@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 841595,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lancome Beauty Box Makyaj Bakım Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750606118845,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/22/65/80/43/76/24/07/50/98/97/48765454621627236202.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598861710,
+      "__unknown_productSubTitle": "Lancome Beauty Box Makyaj Bakım Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7364723,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/22/65/80/43/76/24/07/50/98/97/48765454621627236202.jpg"
+        },
+        {
+          "id": 7364724,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/22/90/63/63/51/70/45/04/93/68/78254780759569250162.jpg"
+        },
+        {
+          "id": 7364725,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/22/48/36/91/41/78/80/55/46/97/35425006645561308361.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/22/65/80/43/76/24/07/50/98/97/48765454621627236202.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/22/65/80/43/76/24/07/50/98/97/48765454621627236202.jpg"
+    }
+  },
+  {
+    "gid_ref": 841596,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lancome Beauty Box Makyaj Bakım Seti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731680962982,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643277826,
+      "__unknown_productSubTitle": "Lancome Beauty Box Makyaj Bakım Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

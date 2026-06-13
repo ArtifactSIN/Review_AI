@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1521207,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cerave Hydrating Hyaluronic Acid Serum 30 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733346873938,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/05/63/17/56/76/65/90/94/20/20/53783209657905885636.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598100930,
+      "__unknown_productSubTitle": "Cerave Hydrating Hyaluronic Acid Serum 30 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6411245,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/05/63/17/56/76/65/90/94/20/20/53783209657905885636.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/05/63/17/56/76/65/90/94/20/20/53783209657905885636.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/05/63/17/56/76/65/90/94/20/20/53783209657905885636.jpg"
+    }
+  },
+  {
+    "gid_ref": 1521208,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cerave Hydrating Hyaluronic Acid Serum 30 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1717086940797,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591916562,
+      "__unknown_productSubTitle": "Cerave Hydrating Hyaluronic Acid Serum 30 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

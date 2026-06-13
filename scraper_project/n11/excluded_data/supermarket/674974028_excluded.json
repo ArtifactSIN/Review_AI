@@ -1,0 +1,108 @@
+[
+  {
+    "gid_ref": 1237787,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Diox Bitki Çayı 60'lı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774726069596,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774726069596,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 674974028,
+      "__unknown_productSubTitle": "Diox Bitki Çayı 60'lı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1237788,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Diox Bitki Çayı 60'lı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753878874725,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/30/87/94/42/25/94/79/62/86/64/87162184647061554040.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 674974028,
+      "__unknown_productSubTitle": "Diox Bitki Çayı 60'lı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7506320,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/30/87/94/42/25/94/79/62/86/64/87162184647061554040.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/30/87/94/42/25/94/79/62/86/64/87162184647061554040.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/30/87/94/42/25/94/79/62/86/64/87162184647061554040.png"
+    }
+  },
+  {
+    "gid_ref": 1237789,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Diox Bitki Çayı 60'lı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1749764711727,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/13/92/07/58/87/54/63/58/50/95/45314787286606235266.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654606839,
+      "__unknown_productSubTitle": "Diox Bitki Çayı 60'lı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7318966,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/13/92/07/58/87/54/63/58/50/95/45314787286606235266.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/13/92/07/58/87/54/63/58/50/95/45314787286606235266.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/13/92/07/58/87/54/63/58/50/95/45314787286606235266.png"
+    }
+  },
+  {
+    "gid_ref": 1237790,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Diox Bitki Çayı 60'lı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1746637054882,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/07/52/12/94/87/87/61/67/57/42/32183546085532613299.png",
+      "__unknown_lastModifiedDate": 1748881814688,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654606839,
+      "__unknown_productSubTitle": "Diox Bitki Çayı 60'lı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7193318,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/07/52/12/94/87/87/61/67/57/42/32183546085532613299.png"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/07/52/12/94/87/87/61/67/57/42/32183546085532613299.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/07/52/12/94/87/87/61/67/57/42/32183546085532613299.png"
+    }
+  }
+]

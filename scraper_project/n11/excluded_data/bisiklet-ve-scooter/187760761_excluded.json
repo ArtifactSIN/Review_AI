@@ -1,0 +1,53 @@
+[
+  {
+    "gid_ref": 372918,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Zincir Cn-hg53 9s 116l Gri - Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734004650137,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1742209030265,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 187760761,
+      "__unknown_productSubTitle": "Shimano Zincir Cn-hg53 9s 116l Gri - Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 372919,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Uygun fiyat ",
+      "productTitle": "Shimano Zincir Cn-hg53 9s 116l Gri - Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1577272518208,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/19/12/25/57/62/74/25/90/25/76/11/61/24290957583980148133.jpeg",
+      "__unknown_lastModifiedDate": 1742209030265,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 187760761,
+      "__unknown_productSubTitle": "Shimano Zincir Cn-hg53 9s 116l Gri - Siyah ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3165005,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/19/12/25/57/62/74/25/90/25/76/11/61/24290957583980148133.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/19/12/25/57/62/74/25/90/25/76/11/61/24290957583980148133.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/19/12/25/57/62/74/25/90/25/76/11/61/24290957583980148133.jpeg"
+    }
+  }
+]

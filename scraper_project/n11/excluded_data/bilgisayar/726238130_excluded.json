@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 357150,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Notus 95-argb Hava Soğutucusu Argb Kuletipi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775352487617,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/05/53/21/86/87/26/43/86/11/53/12621927292107536519.png",
+      "__unknown_lastModifiedDate": 1775352487617,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 726238130,
+      "__unknown_productSubTitle": "Notus 95-argb Hava Soğutucusu Argb Kuletipi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8567064,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/05/53/21/86/87/26/43/86/11/53/12621927292107536519.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/05/53/21/86/87/26/43/86/11/53/12621927292107536519.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/05/53/21/86/87/26/43/86/11/53/12621927292107536519.png"
+    }
+  },
+  {
+    "gid_ref": 357151,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Notus 95-argb Hava Soğutucusu Argb Kuletipi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774183462934,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774183462934,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 726238130,
+      "__unknown_productSubTitle": "Notus 95-argb Hava Soğutucusu Argb Kuletipi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 357152,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Notus 95-argb Hava Soğutucusu Argb Kuletipi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772790828287,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 726238130,
+      "__unknown_productSubTitle": "Notus 95-argb Hava Soğutucusu Argb Kuletipi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

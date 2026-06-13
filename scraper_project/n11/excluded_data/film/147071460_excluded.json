@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 734919,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-Genç Astronotlar",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763472298914,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 147071460,
+      "__unknown_productSubTitle": "Dvd-Genç Astronotlar",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734920,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-Genç Astronotlar",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746784570626,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 147071460,
+      "__unknown_productSubTitle": "Dvd-Genç Astronotlar",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734921,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-Genç Astronotlar",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729750305538,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 147071460,
+      "__unknown_productSubTitle": "Dvd-Genç Astronotlar",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

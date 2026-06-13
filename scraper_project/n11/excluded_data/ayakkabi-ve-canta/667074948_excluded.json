@@ -1,0 +1,135 @@
+[
+  {
+    "gid_ref": 134041,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Puma Court Lally Kadın Beyaz Sneaker Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772130946142,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663203322,
+      "__unknown_productSubTitle": "Puma Court Lally Kadın Beyaz Sneaker Beyaz 37.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 134042,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Puma Court Lally Kadın Beyaz Sneaker Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772032921805,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663953916,
+      "__unknown_productSubTitle": "Puma Court Lally Kadın Beyaz Sneaker Beyaz 38",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 134043,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Puma Court Lally Kadın Beyaz Sneaker Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772025781282,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663203319,
+      "__unknown_productSubTitle": "Puma Court Lally Kadın Beyaz Sneaker Beyaz 38.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 134044,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Puma Court Lally Kadın Beyaz Sneaker Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770591335819,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/09/84/11/86/59/92/71/53/91/82/34623832641275408451.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663953932,
+      "__unknown_productSubTitle": "Puma Court Lally Kadın Beyaz Sneaker Beyaz 39",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8338707,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/09/84/11/86/59/92/71/53/91/82/34623832641275408451.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/09/84/11/86/59/92/71/53/91/82/34623832641275408451.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/09/84/11/86/59/92/71/53/91/82/34623832641275408451.png"
+    }
+  },
+  {
+    "gid_ref": 134045,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Puma Court Lally Kadın Beyaz Sneaker Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1769636105138,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663203319,
+      "__unknown_productSubTitle": "Puma Court Lally Kadın Beyaz Sneaker Beyaz 38.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 134046,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Puma Court Lally Kadın Beyaz Sneaker Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1761907708448,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663203319,
+      "__unknown_productSubTitle": "Puma Court Lally Kadın Beyaz Sneaker Beyaz 38.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

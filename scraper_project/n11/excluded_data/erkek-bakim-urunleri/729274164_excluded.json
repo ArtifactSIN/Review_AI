@@ -1,0 +1,442 @@
+[
+  {
+    "gid_ref": 539688,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775373404192,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775373404192,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 729274164,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539689,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772521514438,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654669803,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539690,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765163387274,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575052063,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539691,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1752144820926,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/10/49/50/59/00/28/36/71/04/77/34571151866992507027.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573923825,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7431954,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/10/49/50/59/00/28/36/71/04/77/34571151866992507027.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/10/49/50/59/00/28/36/71/04/77/34571151866992507027.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/10/49/50/59/00/28/36/71/04/77/34571151866992507027.png"
+    }
+  },
+  {
+    "gid_ref": 539692,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1736355926283,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 64209576,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539693,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725540273936,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 448187108,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539694,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724450281884,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 64209576,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539695,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721839234071,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/24/82/22/38/52/56/88/05/21/19/66992002148981390652.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573923825,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5255191,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/24/82/22/38/52/56/88/05/21/19/66992002148981390652.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/24/82/22/38/52/56/88/05/21/19/66992002148981390652.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/24/82/22/38/52/56/88/05/21/19/66992002148981390652.png"
+    }
+  },
+  {
+    "gid_ref": 539696,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719138435262,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 64209576,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539697,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715212479547,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 380206604,
+      "__unknown_productSubTitle": "Permatik Banyo 10lu Poset",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539698,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713940794788,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573923825,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539699,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713813461703,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573923825,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539700,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713609224370,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573923825,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539701,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711337422883,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575052063,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539702,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697870795765,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575052063,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539703,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697796657193,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575052063,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539704,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1694547080725,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575052063,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539705,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1685943193980,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575052063,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539706,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1684505903196,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575052063,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539707,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "İyi",
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1616966816114,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 64209576,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 539708,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "uygun fiyat sorunsuz alışveriş",
+      "productTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1550122582335,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 313234574,
+      "__unknown_productSubTitle": "Gillette Permatik Banyo Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

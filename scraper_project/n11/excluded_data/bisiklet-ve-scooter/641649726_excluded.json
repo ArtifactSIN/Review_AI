@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 383436,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ümit 2634 Explorer Kadın Dağ Bisikleti V 26 Jant 21 Vites Turkuaz Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1751964717158,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594701295,
+      "__unknown_productSubTitle": "Ümit 2634 Explorer Kadın Dağ Bisikleti V 26 Jant 21 Vites Turkuaz Mavi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 383437,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ümit 2634 Explorer Kadın Dağ Bisikleti V 26 Jant 21 Vites Turkuaz Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1742644668196,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/22/55/68/18/44/11/55/29/60/62/39089673445710579725.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645596110,
+      "__unknown_productSubTitle": "Ümit 2634 Explorer Kadın Dağ Bisikleti V 26 Jant 21 Vites Turkuaz Mavi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6997844,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/22/55/68/18/44/11/55/29/60/62/39089673445710579725.png"
+        },
+        {
+          "id": 6997845,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/22/46/33/08/33/28/25/47/39/14/27882306347349525929.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/22/55/68/18/44/11/55/29/60/62/39089673445710579725.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/22/55/68/18/44/11/55/29/60/62/39089673445710579725.png"
+    }
+  }
+]

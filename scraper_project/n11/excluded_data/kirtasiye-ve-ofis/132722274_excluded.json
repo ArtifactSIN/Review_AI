@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 779461,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Schneider Tükenmez Kalem Beyaz K15",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774443074663,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774443074663,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 132722274,
+      "__unknown_productSubTitle": "Schneider Tükenmez Kalem Beyaz K15",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 779462,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Schneider Tükenmez Kalem Beyaz K15",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1572442941232,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 132722274,
+      "__unknown_productSubTitle": "Schneider Tükenmez Kalem Beyaz K15",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

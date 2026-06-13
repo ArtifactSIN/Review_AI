@@ -1,0 +1,22 @@
+[
+  {
+    "gid_ref": 818600,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Uyanış  -",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1583223811320,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 376582684,
+      "__unknown_productSubTitle": "Uyanış  -",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 162630,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Herevin 5 Lt Paslanmaz Çelik Çöp Kovası Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775031181393,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/48/96/28/62/86/67/14/93/37/94375318031843569979.png",
+      "__unknown_lastModifiedDate": 1775031181393,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 681337847,
+      "__unknown_productSubTitle": "Herevin 5 Lt Paslanmaz Çelik Çöp Kovası Gri ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8555950,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/48/96/28/62/86/67/14/93/37/94375318031843569979.png"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/48/96/28/62/86/67/14/93/37/94375318031843569979.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/48/96/28/62/86/67/14/93/37/94375318031843569979.png"
+    }
+  },
+  {
+    "gid_ref": 162631,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Herevin 5 Lt Paslanmaz Çelik Çöp Kovası Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774881472119,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/64/76/39/38/25/71/26/54/64/27976224339829538875.png",
+      "__unknown_lastModifiedDate": 1774881472119,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 681337847,
+      "__unknown_productSubTitle": "Herevin 5 Lt Paslanmaz Çelik Çöp Kovası Gri ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8535375,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/64/76/39/38/25/71/26/54/64/27976224339829538875.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/64/76/39/38/25/71/26/54/64/27976224339829538875.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/64/76/39/38/25/71/26/54/64/27976224339829538875.png"
+    }
+  }
+]

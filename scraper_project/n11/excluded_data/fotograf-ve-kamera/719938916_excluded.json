@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 752624,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Canon Selphy CP1500  Compact Fotoğraf Yazıcısı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1754486985276,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593776346,
+      "__unknown_productSubTitle": "Canon Selphy CP1500  Compact Fotoğraf Yazıcısı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 752625,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Canon Selphy CP1500  Compact Fotoğraf Yazıcısı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734646169021,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593776346,
+      "__unknown_productSubTitle": "Canon Selphy CP1500  Compact Fotoğraf Yazıcısı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

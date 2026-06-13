@@ -1,0 +1,53 @@
+[
+  {
+    "gid_ref": 265740,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Isimli Emzik Zinciri - Emzik Askısı - Bebek Bez062 Şeffaf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774174808025,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/22/58/41/81/58/83/06/10/38/30/11364465803327327954.png",
+      "__unknown_lastModifiedDate": 1774174808025,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 406450247,
+      "__unknown_productSubTitle": "Isimli Emzik Zinciri - Emzik Askısı - Bebek Bez062 Şeffaf ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8492210,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/22/58/41/81/58/83/06/10/38/30/11364465803327327954.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/22/58/41/81/58/83/06/10/38/30/11364465803327327954.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/22/58/41/81/58/83/06/10/38/30/11364465803327327954.png"
+    }
+  },
+  {
+    "gid_ref": 265741,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "urun guzel fakat",
+      "productTitle": "Isimli Emzik Zinciri - Emzik Askısı - Bebek Bez062 Şeffaf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1589294322367,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750665416917,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 406450247,
+      "__unknown_productSubTitle": "Isimli Emzik Zinciri - Emzik Askısı - Bebek Bez062 Şeffaf ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

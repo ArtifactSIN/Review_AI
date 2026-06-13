@@ -1,0 +1,93 @@
+[
+  {
+    "gid_ref": 745904,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "8 Kg Dambıl X 2 Adet 16 Kg",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769247288319,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683498492,
+      "__unknown_productSubTitle": "8 Kg Dambıl X 2 Adet 16 Kg ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 745905,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "8 Kg Dambıl X 2 Adet 16 Kg",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768468949420,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683498492,
+      "__unknown_productSubTitle": "8 Kg Dambıl X 2 Adet 16 Kg ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 745906,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "8 Kg Dambıl X 2 Adet 16 Kg",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767441318434,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683498492,
+      "__unknown_productSubTitle": "8 Kg Dambıl X 2 Adet 16 Kg ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 745907,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "8 Kg Dambıl X 2 Adet 16 Kg",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757340569494,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/08/56/60/70/08/88/03/20/99/30/78209603445475263653.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683498492,
+      "__unknown_productSubTitle": "8 Kg Dambıl X 2 Adet 16 Kg ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7657871,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/08/56/60/70/08/88/03/20/99/30/78209603445475263653.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/08/56/60/70/08/88/03/20/99/30/78209603445475263653.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/08/56/60/70/08/88/03/20/99/30/78209603445475263653.png"
+    }
+  }
+]

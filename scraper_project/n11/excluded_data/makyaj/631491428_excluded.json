@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 842337,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Pazlanmaz Çelik Cımbız Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745341314576,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631491428,
+      "__unknown_productSubTitle": "Avon Pazlanmaz Çelik Cımbız Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 842338,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Pazlanmaz Çelik Cımbız Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726133357912,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631491428,
+      "__unknown_productSubTitle": "Avon Pazlanmaz Çelik Cımbız Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

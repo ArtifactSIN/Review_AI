@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 370193,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Leon Boks, Kickbox & Muay Thai El Bandajı 3,5 Metre Siyah (447975721)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739984966504,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603270648,
+      "__unknown_productSubTitle": "Leon Boks, Kickbox & Muay Thai El Bandajı 3,5 Metre Siyah (447975721) Turuncu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 370194,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Leon Boks, Kickbox & Muay Thai El Bandajı 3,5 Metre Siyah (447975721)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720444691899,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/08/78/34/83/29/82/92/79/92/23/64100461226158306697.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 623166078,
+      "__unknown_productSubTitle": "Leon Boks, Kickbox & Muay Thai El Bandajı 3,5 Metre Siyah (447975721) Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5152391,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/08/78/34/83/29/82/92/79/92/23/64100461226158306697.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/08/78/34/83/29/82/92/79/92/23/64100461226158306697.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/08/78/34/83/29/82/92/79/92/23/64100461226158306697.png"
+    }
+  },
+  {
+    "gid_ref": 370195,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "süper ürün",
+      "productTitle": "Leon Boks, Kickbox & Muay Thai El Bandajı 3,5 Metre Siyah (447975721)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1652596340379,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 447975721,
+      "__unknown_productSubTitle": "Leon Boks, Kickbox & Muay Thai El Bandajı 3,5 Metre Siyah (447975721) Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

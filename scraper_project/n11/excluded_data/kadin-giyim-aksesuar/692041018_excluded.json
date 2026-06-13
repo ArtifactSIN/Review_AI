@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 777029,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Defacto Regular Fit Bisiklet Yaka Kazak H6905az25wnbn468 Kahve",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765443478875,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 692040628,
+      "__unknown_productSubTitle": "Defacto Regular Fit Bisiklet Yaka Kazak H6905az25wnbn468 Kahve M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 777030,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Defacto Regular Fit Bisiklet Yaka Kazak H6905az25wnbn468 Kahve",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764667672486,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 692041018,
+      "__unknown_productSubTitle": "Defacto Regular Fit Bisiklet Yaka Kazak H6905az25wnbn468 Kahve S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

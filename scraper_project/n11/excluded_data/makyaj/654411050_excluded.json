@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 847113,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Super Stay Lumi Matte Fondöten 96",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775136081937,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775136081937,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654411050,
+      "__unknown_productSubTitle": "Maybelline New York Super Stay Lumi Matte Fondöten 96",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 847114,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Maybelline New York Super Stay Lumi Matte Fondöten 96",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770821919277,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654411050,
+      "__unknown_productSubTitle": "Maybelline New York Super Stay Lumi Matte Fondöten 96",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

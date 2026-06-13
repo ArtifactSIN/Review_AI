@@ -1,0 +1,55 @@
+[
+  {
+    "gid_ref": 497190,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Parlingerie 2li Emzirme Atleti Beyaz-beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774985025612,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/48/46/89/36/69/59/25/90/71/37381711456921928024.jpg",
+      "__unknown_lastModifiedDate": 1774985025612,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595357960,
+      "__unknown_productSubTitle": "Parlingerie 2li Emzirme Atleti Beyaz-beyaz S",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8545915,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/48/46/89/36/69/59/25/90/71/37381711456921928024.jpg"
+        },
+        {
+          "id": 8545916,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/83/55/34/48/77/66/17/60/10/79028970865568662032.jpg"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/48/46/89/36/69/59/25/90/71/37381711456921928024.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/48/46/89/36/69/59/25/90/71/37381711456921928024.jpg"
+    }
+  },
+  {
+    "gid_ref": 497191,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Parlingerie 2li Emzirme Atleti Beyaz-beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763986404365,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611892747,
+      "__unknown_productSubTitle": "Parlingerie 2li Emzirme Atleti Beyaz-beyaz 2XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

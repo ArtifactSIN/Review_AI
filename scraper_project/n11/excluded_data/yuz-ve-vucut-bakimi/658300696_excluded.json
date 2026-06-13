@@ -1,0 +1,112 @@
+[
+  {
+    "gid_ref": 1514642,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Bath Factory Vanilya Duş Jeli 400 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771183222516,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 658300696,
+      "__unknown_productSubTitle": "The Bath Factory Vanilya Duş Jeli 400 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1514643,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Bath Factory Vanilya Duş Jeli 400 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768496809113,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 658300696,
+      "__unknown_productSubTitle": "The Bath Factory Vanilya Duş Jeli 400 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1514644,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Bath Factory Vanilya Duş Jeli 400 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762973578974,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 658300696,
+      "__unknown_productSubTitle": "The Bath Factory Vanilya Duş Jeli 400 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1514645,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Bath Factory Vanilya Duş Jeli 400 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731077479861,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/08/69/49/39/66/71/88/00/39/04/01417383272402696529.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639588380,
+      "__unknown_productSubTitle": "The Bath Factory Vanilya Duş Jeli 400 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6168610,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/08/69/49/39/66/71/88/00/39/04/01417383272402696529.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/08/69/49/39/66/71/88/00/39/04/01417383272402696529.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/08/69/49/39/66/71/88/00/39/04/01417383272402696529.png"
+    }
+  },
+  {
+    "gid_ref": 1514646,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Bath Factory Vanilya Duş Jeli 400 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730367892413,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639588380,
+      "__unknown_productSubTitle": "The Bath Factory Vanilya Duş Jeli 400 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

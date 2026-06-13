@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 1408768,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beykon 6+6 Gold Çift Çıkışlı Alüminyum Merdiven",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767888374298,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/08/83/30/23/75/40/24/68/36/63/76327798282612490210.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724399445,
+      "__unknown_productSubTitle": "Beykon 6+6 Gold Çift Çıkışlı Alüminyum Merdiven",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8226188,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/08/83/30/23/75/40/24/68/36/63/76327798282612490210.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/08/83/30/23/75/40/24/68/36/63/76327798282612490210.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/08/83/30/23/75/40/24/68/36/63/76327798282612490210.png"
+    }
+  },
+  {
+    "gid_ref": 1408769,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beykon 6+6 Gold Çift Çıkışlı Alüminyum Merdiven",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765387838311,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665733471,
+      "__unknown_productSubTitle": "Beykon 6+6 Gold Çift Çıkışlı Alüminyum Merdiven",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1408770,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beykon 6+6 Gold Çift Çıkışlı Alüminyum Merdiven",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750690647664,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/23/87/77/97/01/18/71/13/14/48/47605391528450505635.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724399445,
+      "__unknown_productSubTitle": "Beykon 6+6 Gold Çift Çıkışlı Alüminyum Merdiven",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7360435,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/23/87/77/97/01/18/71/13/14/48/47605391528450505635.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/23/87/77/97/01/18/71/13/14/48/47605391528450505635.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/23/87/77/97/01/18/71/13/14/48/47605391528450505635.png"
+    }
+  }
+]

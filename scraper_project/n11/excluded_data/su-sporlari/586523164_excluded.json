@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 1163576,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Freecamp Kayak Trolley 4.1 Kano Taşıyıcı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730658734765,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 523600849,
+      "__unknown_productSubTitle": "Freecamp Kayak Trolley 4.1 Kano Taşıyıcı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1163577,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Freecamp Kayak Trolley 4.1 Kano Taşıyıcı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709396093004,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586523164,
+      "__unknown_productSubTitle": "Freecamp Kayak Trolley 4.1 Kano Taşıyıcı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1163578,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Freecamp Kayak Trolley 4.1 Kano Taşıyıcı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1690551258995,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/07/28/51/95/86/10/55/01/93/93/27/86444482555924923747.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 523600849,
+      "__unknown_productSubTitle": "Freecamp Kayak Trolley 4.1 Kano Taşıyıcı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2243950,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/07/28/51/95/86/10/55/01/93/93/27/86444482555924923747.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/07/28/51/95/86/10/55/01/93/93/27/86444482555924923747.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/07/28/51/95/86/10/55/01/93/93/27/86444482555924923747.jpeg"
+    }
+  },
+  {
+    "gid_ref": 1163579,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Yamuk ve eksik urun",
+      "productTitle": "Freecamp Kayak Trolley 4.1 Kano Taşıyıcı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1658092182804,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/07/18/55/72/10/18/22/40/04/35/58/91619901124334236957.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 523600849,
+      "__unknown_productSubTitle": "Freecamp Kayak Trolley 4.1 Kano Taşıyıcı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 844229,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/07/18/89/92/85/55/25/33/45/60/47/08627678311530909306.jpeg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/07/18/55/72/10/18/22/40/04/35/58/91619901124334236957.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/07/18/55/72/10/18/22/40/04/35/58/91619901124334236957.jpeg"
+    }
+  }
+]

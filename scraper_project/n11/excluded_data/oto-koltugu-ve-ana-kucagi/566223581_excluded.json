@@ -1,0 +1,106 @@
+[
+  {
+    "gid_ref": 947739,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Neko Start Kanguru - Denim",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757840879174,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566223581,
+      "__unknown_productSubTitle": "Neko Start Kanguru - Denim Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947740,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Neko Start Kanguru - Denim",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734342507265,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/16/57/52/98/32/96/70/25/88/75/7108954719916571687.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566223581,
+      "__unknown_productSubTitle": "Neko Start Kanguru - Denim Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6504312,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/16/57/52/98/32/96/70/25/88/75/7108954719916571687.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/16/57/52/98/32/96/70/25/88/75/7108954719916571687.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/16/57/52/98/32/96/70/25/88/75/7108954719916571687.png"
+    }
+  },
+  {
+    "gid_ref": 947741,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Neko Start Kanguru - Denim",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717221338321,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/01/81/81/30/35/27/56/16/58/93/12041969283442326249.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566223581,
+      "__unknown_productSubTitle": "Neko Start Kanguru - Denim Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4856453,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/01/81/81/30/35/27/56/16/58/93/12041969283442326249.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/01/81/81/30/35/27/56/16/58/93/12041969283442326249.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/01/81/81/30/35/27/56/16/58/93/12041969283442326249.png"
+    }
+  },
+  {
+    "gid_ref": 947742,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Neko Start Kanguru - Denim",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717221318927,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/01/76/74/42/57/06/24/87/96/37/14213400917024787303.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566223581,
+      "__unknown_productSubTitle": "Neko Start Kanguru - Denim Mavi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4851720,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/01/76/74/42/57/06/24/87/96/37/14213400917024787303.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/01/76/74/42/57/06/24/87/96/37/14213400917024787303.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/01/76/74/42/57/06/24/87/96/37/14213400917024787303.png"
+    }
+  }
+]

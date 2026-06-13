@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1495307,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DJI Flip (RC 2) (GL) Drone",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773495077340,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773495077340,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655455558,
+      "__unknown_productSubTitle": "DJI Flip (RC 2) (GL) Drone",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1495308,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DJI Flip (RC 2) (GL) Drone",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1742880881755,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 657879172,
+      "__unknown_productSubTitle": "DJI Flip (RC 2) (GL) Drone",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1495309,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DJI Flip (RC 2) (GL) Drone",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1742550248524,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 657879172,
+      "__unknown_productSubTitle": "DJI Flip (RC 2) (GL) Drone",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

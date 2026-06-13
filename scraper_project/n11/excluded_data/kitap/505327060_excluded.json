@@ -1,0 +1,140 @@
+[
+  {
+    "gid_ref": 804481,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tığ İşi 1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774968684509,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774968684509,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 505327060,
+      "__unknown_productSubTitle": "Tığ İşi 1",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 804482,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tığ İşi 1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771426698367,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 505327060,
+      "__unknown_productSubTitle": "Tığ İşi 1",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 804483,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tığ İşi 1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719522901485,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/28/58/09/29/74/20/16/68/82/23/98254669907789855682.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 505327060,
+      "__unknown_productSubTitle": "Tığ İşi 1",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5084950,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/28/58/09/29/74/20/16/68/82/23/98254669907789855682.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/28/58/09/29/74/20/16/68/82/23/98254669907789855682.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/28/58/09/29/74/20/16/68/82/23/98254669907789855682.png"
+    }
+  },
+  {
+    "gid_ref": 804484,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tığ İşi 1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1716133206657,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 505327060,
+      "__unknown_productSubTitle": "Tığ İşi 1",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 804485,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tığ İşi 1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710512027487,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/15/82/31/32/49/57/65/83/89/28/32736681916969864634.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 505327060,
+      "__unknown_productSubTitle": "Tığ İşi 1",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4139223,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/15/82/31/32/49/57/65/83/89/28/32736681916969864634.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/15/82/31/32/49/57/65/83/89/28/32736681916969864634.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/15/82/31/32/49/57/65/83/89/28/32736681916969864634.jpg"
+    }
+  },
+  {
+    "gid_ref": 804486,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tığ İşi 1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1706603637803,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 505327060,
+      "__unknown_productSubTitle": "Tığ İşi 1",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

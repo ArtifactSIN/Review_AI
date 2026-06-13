@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 498131,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nimo XN-J201 Manuel Tekli Göğüs Pompası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745598360544,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/25/62/08/76/12/73/14/09/11/04/88940632625017865353.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628782238,
+      "__unknown_productSubTitle": "Nimo XN-J201 Manuel Tekli Göğüs Pompası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7136282,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/25/62/08/76/12/73/14/09/11/04/88940632625017865353.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/25/62/08/76/12/73/14/09/11/04/88940632625017865353.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/25/62/08/76/12/73/14/09/11/04/88940632625017865353.png"
+    }
+  },
+  {
+    "gid_ref": 498132,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nimo XN-J201 Manuel Tekli Göğüs Pompası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744994305791,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628782238,
+      "__unknown_productSubTitle": "Nimo XN-J201 Manuel Tekli Göğüs Pompası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 498133,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Tavsiye ederim",
+      "productTitle": "Nimo XN-J201 Manuel Tekli Göğüs Pompası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1549569326262,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 160361275,
+      "__unknown_productSubTitle": "Nimo XN-J201 Manuel Tekli Göğüs Pompası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

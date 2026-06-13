@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 797786,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bic Multifunction 3+1 Tükenmez / Versatil Hb Kalem",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772348133206,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682993184,
+      "__unknown_productSubTitle": "Bic Multifunction 3+1 Tükenmez / Versatil Hb Kalem",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 797787,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bic Multifunction 3+1 Tükenmez / Versatil Hb Kalem",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1717138432171,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/31/89/75/90/49/23/96/86/65/89/66888257111006621954.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601135587,
+      "__unknown_productSubTitle": "Bic Multifunction 3+1 Tükenmez / Versatil Hb Kalem",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4841190,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/31/89/75/90/49/23/96/86/65/89/66888257111006621954.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/31/89/75/90/49/23/96/86/65/89/66888257111006621954.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/31/89/75/90/49/23/96/86/65/89/66888257111006621954.png"
+    }
+  }
+]

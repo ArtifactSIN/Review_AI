@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 261527,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gelişim Yatak Spring Gold Baby Yarı Ortopedik Bamboo Yatak 70 x 120 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1696052652699,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 537220542,
+      "__unknown_productSubTitle": "Gelişim Yatak Spring Gold Baby Yarı Ortopedik Bamboo Yatak 70 x 120 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 261528,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gelişim Yatak Spring Gold Baby Yarı Ortopedik Bamboo Yatak 70 x 120 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1689275030120,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/07/13/77/91/70/81/93/29/90/73/34/96369191990478484798.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 537220542,
+      "__unknown_productSubTitle": "Gelişim Yatak Spring Gold Baby Yarı Ortopedik Bamboo Yatak 70 x 120 CM",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2181879,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/07/13/77/91/70/81/93/29/90/73/34/96369191990478484798.jpg"
+        },
+        {
+          "id": 2181880,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/07/13/66/82/58/72/11/63/23/61/37/57259273031344960780.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/07/13/77/91/70/81/93/29/90/73/34/96369191990478484798.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/07/13/77/91/70/81/93/29/90/73/34/96369191990478484798.jpg"
+    }
+  },
+  {
+    "gid_ref": 261529,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gelişim Yatak Spring Gold Baby Yarı Ortopedik Bamboo Yatak 70 x 120 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1681813644255,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 537220542,
+      "__unknown_productSubTitle": "Gelişim Yatak Spring Gold Baby Yarı Ortopedik Bamboo Yatak 70 x 120 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

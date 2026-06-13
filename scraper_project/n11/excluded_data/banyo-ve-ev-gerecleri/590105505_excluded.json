@@ -1,0 +1,108 @@
+[
+  {
+    "gid_ref": 154158,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Artema Root Square Eviye Bataryası A42753",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772015345539,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/25/79/58/34/58/23/55/23/00/97/55009069564728359794.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 728124182,
+      "__unknown_productSubTitle": "Artema Root Square Eviye Bataryası A42753",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8411423,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/25/79/58/34/58/23/55/23/00/97/55009069564728359794.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/25/79/58/34/58/23/55/23/00/97/55009069564728359794.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/25/79/58/34/58/23/55/23/00/97/55009069564728359794.png"
+    }
+  },
+  {
+    "gid_ref": 154159,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Artema Root Square Eviye Bataryası A42753",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769143724389,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/23/70/94/21/99/23/90/11/89/68/14503004397083509814.jpg",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 728124182,
+      "__unknown_productSubTitle": "Artema Root Square Eviye Bataryası A42753",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8284913,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/23/70/94/21/99/23/90/11/89/68/14503004397083509814.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/23/70/94/21/99/23/90/11/89/68/14503004397083509814.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/23/70/94/21/99/23/90/11/89/68/14503004397083509814.jpg"
+    }
+  },
+  {
+    "gid_ref": 154160,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Artema Root Square Eviye Bataryası A42753",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731565278212,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/14/69/46/28/57/62/54/90/68/78/74554111654868856967.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643452350,
+      "__unknown_productSubTitle": "Artema Root Square Eviye Bataryası A42753",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6216796,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/14/69/46/28/57/62/54/90/68/78/74554111654868856967.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/14/69/46/28/57/62/54/90/68/78/74554111654868856967.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/14/69/46/28/57/62/54/90/68/78/74554111654868856967.png"
+    }
+  },
+  {
+    "gid_ref": 154161,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Artema Root Square Eviye Bataryası A42753",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710949176466,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 540254713,
+      "__unknown_productSubTitle": "Artema Root Square Eviye Bataryası A42753",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

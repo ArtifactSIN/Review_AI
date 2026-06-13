@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 1161523,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Tiro League Spor Çantası Orta Boy - HS9749",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773354928277,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/13/49/74/51/14/47/05/96/41/26/67166648763646165951.jpg",
+      "__unknown_lastModifiedDate": 1773354928277,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705356071,
+      "__unknown_productSubTitle": "Adidas Tiro League Spor Çantası Orta Boy - HS9749",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8463012,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/13/49/74/51/14/47/05/96/41/26/67166648763646165951.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/13/49/74/51/14/47/05/96/41/26/67166648763646165951.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/13/49/74/51/14/47/05/96/41/26/67166648763646165951.jpg"
+    }
+  },
+  {
+    "gid_ref": 1161524,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Tiro League Spor Çantası Orta Boy - HS9749",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761152772951,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/22/85/28/41/70/56/46/36/32/23/55790683309093963754.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573925104,
+      "__unknown_productSubTitle": "Adidas Tiro League Spor Çantası Orta Boy - HS9749",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7834964,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/22/85/28/41/70/56/46/36/32/23/55790683309093963754.jpg"
+        },
+        {
+          "id": 7834965,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/22/79/45/53/17/12/34/49/19/45/62712797603953819534.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/22/85/28/41/70/56/46/36/32/23/55790683309093963754.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/22/85/28/41/70/56/46/36/32/23/55790683309093963754.jpg"
+    }
+  },
+  {
+    "gid_ref": 1161525,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Tiro League Spor Çantası Orta Boy - HS9749",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1690557825537,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573925104,
+      "__unknown_productSubTitle": "Adidas Tiro League Spor Çantası Orta Boy - HS9749",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

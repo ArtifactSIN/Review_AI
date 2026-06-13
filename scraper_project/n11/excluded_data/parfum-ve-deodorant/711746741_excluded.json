@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1029182,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Viva La Vita Kadın Parfüm EDP 3 x 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733226687137,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606092968,
+      "__unknown_productSubTitle": "Avon Viva La Vita Kadın Parfüm EDP 3 x 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1029183,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avon Viva La Vita Kadın Parfüm EDP 3 x 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732010403953,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606092968,
+      "__unknown_productSubTitle": "Avon Viva La Vita Kadın Parfüm EDP 3 x 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

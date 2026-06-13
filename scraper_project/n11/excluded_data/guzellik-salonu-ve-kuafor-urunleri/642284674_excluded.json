@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 754025,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-F01 Profesyonel Fön Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737708560625,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642284674,
+      "__unknown_productSubTitle": "Powertec TR-F01 Profesyonel Fön Fırçası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 754026,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-F01 Profesyonel Fön Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737135071238,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/17/46/76/98/37/02/29/76/62/17/16124503801953957693.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642284674,
+      "__unknown_productSubTitle": "Powertec TR-F01 Profesyonel Fön Fırçası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6717521,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/17/46/76/98/37/02/29/76/62/17/16124503801953957693.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/17/46/76/98/37/02/29/76/62/17/16124503801953957693.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/17/46/76/98/37/02/29/76/62/17/16124503801953957693.png"
+    }
+  },
+  {
+    "gid_ref": 754027,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-F01 Profesyonel Fön Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734425075081,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/17/90/73/72/75/02/97/37/36/75/33835562421601286382.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642284674,
+      "__unknown_productSubTitle": "Powertec TR-F01 Profesyonel Fön Fırçası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6506177,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/17/90/73/72/75/02/97/37/36/75/33835562421601286382.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/17/90/73/72/75/02/97/37/36/75/33835562421601286382.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/17/90/73/72/75/02/97/37/36/75/33835562421601286382.png"
+    }
+  },
+  {
+    "gid_ref": 754028,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-F01 Profesyonel Fön Fırçası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731518031298,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642284674,
+      "__unknown_productSubTitle": "Powertec TR-F01 Profesyonel Fön Fırçası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

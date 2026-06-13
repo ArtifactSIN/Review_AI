@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 124217,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel misina",
+      "productTitle": "Remixon Spider 1000M Multicolor Misina (386700491)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1673094310571,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/01/07/82/18/11/05/18/82/29/38/77/23522466458513721554.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 386700491,
+      "__unknown_productSubTitle": "Remixon Spider 1000M Multicolor Misina (386700491)-0,30Mm",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1467820,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/07/90/27/64/90/47/90/32/58/49/7247246596950700147.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/01/07/82/18/11/05/18/82/29/38/77/23522466458513721554.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/01/07/82/18/11/05/18/82/29/38/77/23522466458513721554.jpeg"
+    }
+  },
+  {
+    "gid_ref": 124218,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "yanlis renk",
+      "productTitle": "Remixon Spider 1000M Multicolor Misina (386700491)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1590246499986,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 386700491,
+      "__unknown_productSubTitle": "Remixon Spider 1000M Multicolor Misina (386700491)-0,30Mm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 1161521,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nike Bv6918 M Nk Dry Acdpr Jkt Eşofman Üstü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774501156184,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774501156184,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705353407,
+      "__unknown_productSubTitle": "Nike Bv6918 M Nk Dry Acdpr Jkt Eşofman Üstü Siyah XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161522,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "NİKE DRY ACADEMY EŞOFMAN ÜSTÜ",
+      "productTitle": "Nike Bv6918 M Nk Dry Acdpr Jkt Eşofman Üstü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1668327139352,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 489921356,
+      "__unknown_productSubTitle": "Nike Bv6918 M Nk Dry Acdpr Jkt Eşofman Üstü Gri - Siyah 2XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

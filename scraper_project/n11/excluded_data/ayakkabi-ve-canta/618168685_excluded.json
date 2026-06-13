@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 130831,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İgor 22Y KS10271-Tobby Solid Çocuk Sandalet - Sarı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1749677310050,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 618168673,
+      "__unknown_productSubTitle": "İgor 22Y KS10271-Tobby Solid Çocuk Sandalet - Sarı 21",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 130832,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İgor 22Y KS10271-Tobby Solid Çocuk Sandalet - Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747526056858,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/18/76/30/67/75/59/74/07/81/36/03565925472153192326.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 618168675,
+      "__unknown_productSubTitle": "İgor 22Y KS10271-Tobby Solid Çocuk Sandalet - Sarı 28",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7227741,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/18/76/30/67/75/59/74/07/81/36/03565925472153192326.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/18/76/30/67/75/59/74/07/81/36/03565925472153192326.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/18/76/30/67/75/59/74/07/81/36/03565925472153192326.jpg"
+    }
+  },
+  {
+    "gid_ref": 130833,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İgor 22Y KS10271-Tobby Solid Çocuk Sandalet - Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747526019580,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/18/85/64/02/10/84/98/49/72/20/3117057448580067929.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 618168682,
+      "__unknown_productSubTitle": "İgor 22Y KS10271-Tobby Solid Çocuk Sandalet - Sarı 29",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7228596,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/18/85/64/02/10/84/98/49/72/20/3117057448580067929.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/18/85/64/02/10/84/98/49/72/20/3117057448580067929.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/18/85/64/02/10/84/98/49/72/20/3117057448580067929.jpg"
+    }
+  }
+]

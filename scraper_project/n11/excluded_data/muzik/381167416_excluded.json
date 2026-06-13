@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 944116,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Plak Raf Desteği 1 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740151064163,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 381167416,
+      "__unknown_productSubTitle": "Plak Raf Desteği 1 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 944117,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Plak Raf Desteği 1 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1646750735854,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 381167416,
+      "__unknown_productSubTitle": "Plak Raf Desteği 1 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 944118,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Harika",
+      "productTitle": "Plak Raf Desteği 1 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1593199948786,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/20/06/26/46/78/97/64/56/86/98/35/80/48630504809943054714.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 381167416,
+      "__unknown_productSubTitle": "Plak Raf Desteği 1 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3049852,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/20/06/26/46/78/97/64/56/86/98/35/80/48630504809943054714.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/20/06/26/46/78/97/64/56/86/98/35/80/48630504809943054714.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/20/06/26/46/78/97/64/56/86/98/35/80/48630504809943054714.jpg"
+    }
+  }
+]

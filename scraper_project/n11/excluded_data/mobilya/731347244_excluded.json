@@ -1,0 +1,56 @@
+[
+  {
+    "gid_ref": 872199,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Üçlü Metal Ayakkabılık Premium Beyaz Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772978313135,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/08/54/82/58/35/10/87/32/23/07/08165654669631534223.png",
+      "__unknown_lastModifiedDate": 1772978313135,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 731347244,
+      "__unknown_productSubTitle": "Üçlü Metal Ayakkabılık Premium Beyaz Beyaz ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8439799,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/08/54/82/58/35/10/87/32/23/07/08165654669631534223.png"
+        },
+        {
+          "id": 8444550,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/08/90/80/39/47/85/82/26/58/95/57612450516101123373.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/08/54/82/58/35/10/87/32/23/07/08165654669631534223.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/08/54/82/58/35/10/87/32/23/07/08165654669631534223.png"
+    }
+  },
+  {
+    "gid_ref": 872200,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Üçlü Metal Ayakkabılık Premium Beyaz Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770888412434,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 731347244,
+      "__unknown_productSubTitle": "Üçlü Metal Ayakkabılık Premium Beyaz Beyaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

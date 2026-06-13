@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 137120,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vans Filmore Siyah Kadın Sneaker Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765705685408,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/14/58/86/51/34/63/60/14/11/14/42950461605018451305.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 685137298,
+      "__unknown_productSubTitle": "Vans Filmore Siyah Kadın Sneaker Siyah 38.5",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8118379,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/14/58/86/51/34/63/60/14/11/14/42950461605018451305.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/14/58/86/51/34/63/60/14/11/14/42950461605018451305.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/14/58/86/51/34/63/60/14/11/14/42950461605018451305.png"
+    }
+  },
+  {
+    "gid_ref": 137121,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vans Filmore Siyah Kadın Sneaker Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763490278592,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 678121520,
+      "__unknown_productSubTitle": "Vans Filmore Siyah Kadın Sneaker Siyah 37",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 137122,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vans Filmore Siyah Kadın Sneaker Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744404591614,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1744404598173,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 657892673,
+      "__unknown_productSubTitle": "Vans Filmore Siyah Kadın Sneaker Siyah 38.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

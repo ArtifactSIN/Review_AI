@@ -1,0 +1,94 @@
+[
+  {
+    "gid_ref": 344114,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mack Mce-1205 17.3\" Explor 34l Eco Seyahat Sırt Çantası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745490119710,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654018950,
+      "__unknown_productSubTitle": "Mack Mce-1205 17.3\" Explor 34l Eco Seyahat Sırt Çantası ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 344115,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mack Mce-1205 17.3\" Explor 34l Eco Seyahat Sırt Çantası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745215533327,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659493575,
+      "__unknown_productSubTitle": "Mack Mce-1205 17.3\" Explor 34l Eco Seyahat Sırt Çantası ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 344116,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mack Mce-1205 17.3\" Explor 34l Eco Seyahat Sırt Çantası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733340169721,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/04/89/18/78/90/33/92/40/11/87/1412099310075922892.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641516271,
+      "__unknown_productSubTitle": "Mack Mce-1205 17.3\" Explor 34l Eco Seyahat Sırt Çantası ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6414066,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/04/89/18/78/90/33/92/40/11/87/1412099310075922892.jpg"
+        },
+        {
+          "id": 6414067,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/04/50/70/05/86/82/27/43/28/94/83935058920696823086.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/04/89/18/78/90/33/92/40/11/87/1412099310075922892.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/04/89/18/78/90/33/92/40/11/87/1412099310075922892.jpg"
+    }
+  },
+  {
+    "gid_ref": 344117,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mack Mce-1205 17.3\" Explor 34l Eco Seyahat Sırt Çantası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732437325298,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641516271,
+      "__unknown_productSubTitle": "Mack Mce-1205 17.3\" Explor 34l Eco Seyahat Sırt Çantası ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

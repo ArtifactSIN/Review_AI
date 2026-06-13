@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 308306,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hanymish Kulplu Cam Biberon 125 ML 403 Pembe",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772617755218,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631878798,
+      "__unknown_productSubTitle": "Hanymish Kulplu Cam Biberon 125 ML 403 Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 308307,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hanymish Kulplu Cam Biberon 125 ML 403 Pembe",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747324656958,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/15/49/72/17/98/13/53/01/10/23/12940762594810115540.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631878798,
+      "__unknown_productSubTitle": "Hanymish Kulplu Cam Biberon 125 ML 403 Pembe",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7221913,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/15/49/72/17/98/13/53/01/10/23/12940762594810115540.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/15/49/72/17/98/13/53/01/10/23/12940762594810115540.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/15/49/72/17/98/13/53/01/10/23/12940762594810115540.jpg"
+    }
+  },
+  {
+    "gid_ref": 308308,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hanymish Kulplu Cam Biberon 125 ML 403 Pembe",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741459445979,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631878798,
+      "__unknown_productSubTitle": "Hanymish Kulplu Cam Biberon 125 ML 403 Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

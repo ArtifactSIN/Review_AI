@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 1335632,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 285 / 276 Kabin Içi Paspas Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739524569785,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 546378757,
+      "__unknown_productSubTitle": "Massey Ferguson 285 / 276 Kabin Içi Paspas Takımı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1335633,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 285 / 276 Kabin Içi Paspas Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1675332296266,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/02/02/78/41/66/92/76/29/32/70/60/37376202333534372564.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 546378757,
+      "__unknown_productSubTitle": "Massey Ferguson 285 / 276 Kabin Içi Paspas Takımı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1563608,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/02/02/78/41/66/92/76/29/32/70/60/37376202333534372564.png"
+        },
+        {
+          "id": 1563609,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/02/02/61/58/98/55/09/00/84/54/25/87223404089015187307.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/02/02/78/41/66/92/76/29/32/70/60/37376202333534372564.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/02/02/78/41/66/92/76/29/32/70/60/37376202333534372564.png"
+    }
+  }
+]

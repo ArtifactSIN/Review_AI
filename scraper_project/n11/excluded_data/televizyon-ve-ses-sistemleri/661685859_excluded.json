@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1323591,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jvc Lt-55u700 Uyumlu 55\" Inç 140 Ekran Tv Ekran Koruyucu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762267511395,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/04/74/91/54/58/64/04/90/65/80/62125074644006946456.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661685859,
+      "__unknown_productSubTitle": "Jvc Lt-55u700 Uyumlu 55\" Inç 140 Ekran Tv Ekran Koruyucu ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7915412,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/04/74/91/54/58/64/04/90/65/80/62125074644006946456.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/04/74/91/54/58/64/04/90/65/80/62125074644006946456.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/04/74/91/54/58/64/04/90/65/80/62125074644006946456.png"
+    }
+  },
+  {
+    "gid_ref": 1323592,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jvc Lt-55u700 Uyumlu 55\" Inç 140 Ekran Tv Ekran Koruyucu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759850669202,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661685859,
+      "__unknown_productSubTitle": "Jvc Lt-55u700 Uyumlu 55\" Inç 140 Ekran Tv Ekran Koruyucu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

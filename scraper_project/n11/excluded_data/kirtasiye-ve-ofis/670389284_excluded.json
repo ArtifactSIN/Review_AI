@@ -1,0 +1,67 @@
+[
+  {
+    "gid_ref": 799880,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Serve Deep 3'lü Okul Seti - Metalik Siyah 07mm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771250897274,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/16/84/63/97/67/45/69/38/14/11/86686582969213993455.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 670389284,
+      "__unknown_productSubTitle": "Serve Deep 3'lü Okul Seti - Metalik Siyah 07mm",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8376505,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/16/84/63/97/67/45/69/38/14/11/86686582969213993455.png"
+        },
+        {
+          "id": 8376506,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/16/67/53/20/11/00/03/74/84/96/42895575531938823606.png"
+        },
+        {
+          "id": 8376507,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/16/52/78/08/37/10/21/15/41/97/31351099071025034588.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/16/84/63/97/67/45/69/38/14/11/86686582969213993455.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/16/84/63/97/67/45/69/38/14/11/86686582969213993455.png"
+    }
+  },
+  {
+    "gid_ref": 799881,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Serve Deep 3'lü Okul Seti - Metalik Siyah 07mm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765271443007,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/09/63/71/25/21/16/74/09/53/56/14178280314641233866.JPG",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679851807,
+      "__unknown_productSubTitle": "Serve Deep 3'lü Okul Seti - Metalik Siyah 07mm",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8076661,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/09/63/71/25/21/16/74/09/53/56/14178280314641233866.JPG"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/09/63/71/25/21/16/74/09/53/56/14178280314641233866.JPG",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/09/63/71/25/21/16/74/09/53/56/14178280314641233866.JPG"
+    }
+  }
+]

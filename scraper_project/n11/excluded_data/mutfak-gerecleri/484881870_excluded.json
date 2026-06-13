@@ -1,0 +1,86 @@
+[
+  {
+    "gid_ref": 908066,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gülsan İrem 8 Parça Çelik Tencere  Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766684206828,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/25/58/53/59/91/52/24/79/26/88/72188386014019930294.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 484881870,
+      "__unknown_productSubTitle": "Gülsan İrem 8 Parça Çelik Tencere  Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8172969,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/25/58/53/59/91/52/24/79/26/88/72188386014019930294.png"
+        },
+        {
+          "id": 8172971,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/25/51/02/32/45/87/76/36/37/70/34082424102634277966.png"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/25/58/53/59/91/52/24/79/26/88/72188386014019930294.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/25/58/53/59/91/52/24/79/26/88/72188386014019930294.png"
+    }
+  },
+  {
+    "gid_ref": 908067,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gülsan İrem 8 Parça Çelik Tencere  Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762780543004,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/10/90/80/25/35/11/55/51/33/60/4421258078633413165.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 484881870,
+      "__unknown_productSubTitle": "Gülsan İrem 8 Parça Çelik Tencere  Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7941080,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/10/90/80/25/35/11/55/51/33/60/4421258078633413165.png"
+        },
+        {
+          "id": 7941081,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/10/79/69/76/98/88/37/31/18/72/78244605328199994680.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/10/90/80/25/35/11/55/51/33/60/4421258078633413165.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/10/90/80/25/35/11/55/51/33/60/4421258078633413165.png"
+    }
+  },
+  {
+    "gid_ref": 908068,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gülsan İrem 8 Parça Çelik Tencere  Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754591589614,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 484881870,
+      "__unknown_productSubTitle": "Gülsan İrem 8 Parça Çelik Tencere  Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

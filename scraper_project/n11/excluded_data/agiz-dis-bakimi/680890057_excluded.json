@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 28030,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Colgate Sensitive Diş Macunu 75 Ml X 4 Adet Ağız Kokusu Önleyici",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770713495729,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/10/90/72/46/68/90/02/95/39/90/13081943546505837119.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701986295,
+      "__unknown_productSubTitle": "Colgate Sensitive Diş Macunu 75 Ml X 4 Adet Ağız Kokusu Önleyici ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8336292,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/10/90/72/46/68/90/02/95/39/90/13081943546505837119.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/10/90/72/46/68/90/02/95/39/90/13081943546505837119.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/10/90/72/46/68/90/02/95/39/90/13081943546505837119.png"
+    }
+  },
+  {
+    "gid_ref": 28031,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Colgate Sensitive Diş Macunu 75 Ml X 4 Adet Ağız Kokusu Önleyici",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767672036925,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/06/64/48/06/82/64/32/49/12/41/81401843134334780801.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 701986295,
+      "__unknown_productSubTitle": "Colgate Sensitive Diş Macunu 75 Ml X 4 Adet Ağız Kokusu Önleyici ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8214293,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/06/64/48/06/82/64/32/49/12/41/81401843134334780801.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/06/64/48/06/82/64/32/49/12/41/81401843134334780801.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/06/64/48/06/82/64/32/49/12/41/81401843134334780801.png"
+    }
+  }
+]

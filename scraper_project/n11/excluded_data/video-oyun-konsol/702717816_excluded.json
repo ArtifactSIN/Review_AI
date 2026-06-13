@@ -1,0 +1,89 @@
+[
+  {
+    "gid_ref": 1342224,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dualshock 4 V2 Mortal Kombat Zct2 Kablosuz Ps4 Oyun Kolu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770051872652,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702717816,
+      "__unknown_productSubTitle": "Dualshock 4 V2 Mortal Kombat Zct2 Kablosuz Ps4 Oyun Kolu ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1342225,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dualshock 4 V2 Mortal Kombat Zct2 Kablosuz Ps4 Oyun Kolu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769021619453,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/21/72/06/30/23/21/02/19/62/31/82258334762204836394.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702717816,
+      "__unknown_productSubTitle": "Dualshock 4 V2 Mortal Kombat Zct2 Kablosuz Ps4 Oyun Kolu ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8270395,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/21/72/06/30/23/21/02/19/62/31/82258334762204836394.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/21/72/06/30/23/21/02/19/62/31/82258334762204836394.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/21/72/06/30/23/21/02/19/62/31/82258334762204836394.png"
+    }
+  },
+  {
+    "gid_ref": 1342226,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dualshock 4 V2 Mortal Kombat Zct2 Kablosuz Ps4 Oyun Kolu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767946342457,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/09/62/98/96/69/15/75/63/17/94/95954787587397956089.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702717816,
+      "__unknown_productSubTitle": "Dualshock 4 V2 Mortal Kombat Zct2 Kablosuz Ps4 Oyun Kolu ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8230133,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/09/62/98/96/69/15/75/63/17/94/95954787587397956089.png"
+        },
+        {
+          "id": 8230134,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/09/62/65/88/72/78/16/89/58/66/43044173105860330624.png"
+        },
+        {
+          "id": 8230135,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/09/65/25/61/62/52/50/88/22/27/93886985778210816694.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/09/62/98/96/69/15/75/63/17/94/95954787587397956089.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/09/62/98/96/69/15/75/63/17/94/95954787587397956089.png"
+    }
+  }
+]

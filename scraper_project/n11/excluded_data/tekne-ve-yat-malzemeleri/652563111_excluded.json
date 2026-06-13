@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 1251637,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Akü Kutusu 18x40 Cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761467334883,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/26/84/79/37/24/58/47/79/43/76/27010122332596384044.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652563111,
+      "__unknown_productSubTitle": "Akü Kutusu 18x40 Cm ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7859402,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/26/84/79/37/24/58/47/79/43/76/27010122332596384044.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/26/84/79/37/24/58/47/79/43/76/27010122332596384044.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/26/84/79/37/24/58/47/79/43/76/27010122332596384044.jpg"
+    }
+  }
+]

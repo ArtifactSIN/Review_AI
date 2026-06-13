@@ -1,0 +1,86 @@
+[
+  {
+    "gid_ref": 544765,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Derby Tıraş Köpüğü Okyanus Esintisi 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1753452299644,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/25/60/77/81/89/84/26/55/20/45/04978308621425555072.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597298156,
+      "__unknown_productSubTitle": "Derby Tıraş Köpüğü Okyanus Esintisi 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7492022,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/25/60/77/81/89/84/26/55/20/45/04978308621425555072.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/25/60/77/81/89/84/26/55/20/45/04978308621425555072.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/25/60/77/81/89/84/26/55/20/45/04978308621425555072.jpg"
+    }
+  },
+  {
+    "gid_ref": 544766,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Derby Tıraş Köpüğü Okyanus Esintisi 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1742647661086,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597298156,
+      "__unknown_productSubTitle": "Derby Tıraş Köpüğü Okyanus Esintisi 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 544767,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Derby Tıraş Köpüğü Okyanus Esintisi 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715118455627,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/08/53/38/37/11/43/00/70/79/39/43477872473518292285.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580882254,
+      "__unknown_productSubTitle": "Derby Tıraş Köpüğü Okyanus Esintisi 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4617022,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/08/53/38/37/11/43/00/70/79/39/43477872473518292285.png"
+        },
+        {
+          "id": 4617023,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/08/85/67/39/35/75/86/86/52/44/74127194870263662062.png"
+        },
+        {
+          "id": 4617024,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/08/56/15/11/94/17/92/12/72/28/26456389665920076499.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/08/53/38/37/11/43/00/70/79/39/43477872473518292285.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/08/53/38/37/11/43/00/70/79/39/43477872473518292285.png"
+    }
+  }
+]

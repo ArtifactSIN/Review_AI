@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 400222,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "5 'li Mini Figürler Seti Sonic",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775116850169,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/02/57/48/37/63/12/19/26/68/23/18113508367877648815.jpg",
+      "__unknown_lastModifiedDate": 1775116850169,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 693324115,
+      "__unknown_productSubTitle": "5 'li Mini Figürler Seti Sonic",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8557126,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/57/48/37/63/12/19/26/68/23/18113508367877648815.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/02/57/48/37/63/12/19/26/68/23/18113508367877648815.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/02/57/48/37/63/12/19/26/68/23/18113508367877648815.jpg"
+    }
+  },
+  {
+    "gid_ref": 400223,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "5 'li Mini Figürler Seti Sonic",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772994039141,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772994039141,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 693324115,
+      "__unknown_productSubTitle": "5 'li Mini Figürler Seti Sonic",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 400224,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "5 'li Mini Figürler Seti Sonic",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767007364972,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 693324115,
+      "__unknown_productSubTitle": "5 'li Mini Figürler Seti Sonic",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

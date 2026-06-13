@@ -1,0 +1,81 @@
+[
+  {
+    "gid_ref": 252274,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Koton Kız Bebek Sweatshirt Ekru 5wmg10068ak 25ky59000338 Y5915 Ekru",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774801620775,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/29/65/92/61/04/50/22/25/85/36/36427418142982227435.png",
+      "__unknown_lastModifiedDate": 1774801620775,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638051911,
+      "__unknown_productSubTitle": "Koton Kız Bebek Sweatshirt Ekru 5wmg10068ak 25ky59000338 Y5915 Ekru 9 - 12 Ay",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8532280,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/29/65/92/61/04/50/22/25/85/36/36427418142982227435.png"
+        },
+        {
+          "id": 8532281,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/29/58/70/70/69/97/17/05/48/86/31378365660367337396.png"
+        },
+        {
+          "id": 8532282,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/29/66/12/07/94/65/23/05/52/16/54673551377887415963.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/29/65/92/61/04/50/22/25/85/36/36427418142982227435.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/29/65/92/61/04/50/22/25/85/36/36427418142982227435.png"
+    }
+  },
+  {
+    "gid_ref": 252275,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Koton Kız Bebek Sweatshirt Ekru 5wmg10068ak 25ky59000338 Y5915 Ekru",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773146955596,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773146955596,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638051911,
+      "__unknown_productSubTitle": "Koton Kız Bebek Sweatshirt Ekru 5wmg10068ak 25ky59000338 Y5915 Ekru 9 - 12 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 252276,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Koton Kız Bebek Sweatshirt Ekru 5wmg10068ak 25ky59000338 Y5915 Ekru",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772900817461,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772900817461,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638051911,
+      "__unknown_productSubTitle": "Koton Kız Bebek Sweatshirt Ekru 5wmg10068ak 25ky59000338 Y5915 Ekru 9 - 12 Ay",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

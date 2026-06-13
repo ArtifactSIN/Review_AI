@@ -1,0 +1,76 @@
+[
+  {
+    "gid_ref": 939665,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aryıldız 8 Parça Aria Tencere Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1776063077731,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1776063077731,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727011514,
+      "__unknown_productSubTitle": "Aryıldız 8 Parça Aria Tencere Seti ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 939666,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aryıldız 8 Parça Aria Tencere Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770661486897,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727011514,
+      "__unknown_productSubTitle": "Aryıldız 8 Parça Aria Tencere Seti ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 939667,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aryıldız 8 Parça Aria Tencere Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748027736805,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/23/88/78/10/40/40/52/70/81/74/52545833336537435623.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667548121,
+      "__unknown_productSubTitle": "Aryıldız 8 Parça Aria Tencere Seti ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7260758,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/23/88/78/10/40/40/52/70/81/74/52545833336537435623.png"
+        },
+        {
+          "id": 7260759,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/23/70/60/94/91/84/56/30/28/26/23910982044152450391.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/23/88/78/10/40/40/52/70/81/74/52545833336537435623.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/23/88/78/10/40/40/52/70/81/74/52545833336537435623.png"
+    }
+  }
+]

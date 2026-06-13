@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 751429,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fujifilm Instax Mini Evo Fotoğraf Makinesi Ve 20'li Film",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767450463515,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582611098,
+      "__unknown_productSubTitle": "Fujifilm Instax Mini Evo Fotoğraf Makinesi Ve 20'li Film Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751430,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fujifilm Instax Mini Evo Fotoğraf Makinesi Ve 20'li Film",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724168365877,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582611098,
+      "__unknown_productSubTitle": "Fujifilm Instax Mini Evo Fotoğraf Makinesi Ve 20'li Film Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751431,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fujifilm Instax Mini Evo Fotoğraf Makinesi Ve 20'li Film",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1702303846997,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583428144,
+      "__unknown_productSubTitle": "Fujifilm Instax Mini Evo Fotoğraf Makinesi Ve 20'li Film Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751432,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fujifilm Instax Mini Evo Fotoğraf Makinesi Ve 20'li Film",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1701553601386,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/12/03/54/19/05/09/74/90/41/67/18/17611371762504481872.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583428144,
+      "__unknown_productSubTitle": "Fujifilm Instax Mini Evo Fotoğraf Makinesi Ve 20'li Film Kahverengi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2803756,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/03/54/19/05/09/74/90/41/67/18/17611371762504481872.jpg"
+        },
+        {
+          "id": 2803757,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/03/82/55/86/69/27/96/72/22/48/42148359831963153628.jpg"
+        },
+        {
+          "id": 2803758,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/03/71/76/40/78/13/07/20/29/43/88556694178834527183.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/12/03/54/19/05/09/74/90/41/67/18/17611371762504481872.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/12/03/54/19/05/09/74/90/41/67/18/17611371762504481872.jpg"
+    }
+  }
+]

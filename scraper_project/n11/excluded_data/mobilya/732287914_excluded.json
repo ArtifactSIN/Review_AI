@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 872209,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Drift Luna Çocuk Çalışma Sandalyesi Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774892382465,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/89/83/37/74/95/33/60/16/61/89194401252643026661.jpg",
+      "__unknown_lastModifiedDate": 1774892382465,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732287914,
+      "__unknown_productSubTitle": "Drift Luna Çocuk Çalışma Sandalyesi Gri ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8531999,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/89/83/37/74/95/33/60/16/61/89194401252643026661.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/89/83/37/74/95/33/60/16/61/89194401252643026661.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/89/83/37/74/95/33/60/16/61/89194401252643026661.jpg"
+    }
+  },
+  {
+    "gid_ref": 872210,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Drift Luna Çocuk Çalışma Sandalyesi Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774886277004,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/70/30/80/81/39/48/75/86/03/32320182969888519902.png",
+      "__unknown_lastModifiedDate": 1774886277004,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732287914,
+      "__unknown_productSubTitle": "Drift Luna Çocuk Çalışma Sandalyesi Gri ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8538380,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/70/30/80/81/39/48/75/86/03/32320182969888519902.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/70/30/80/81/39/48/75/86/03/32320182969888519902.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/70/30/80/81/39/48/75/86/03/32320182969888519902.png"
+    }
+  }
+]

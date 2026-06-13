@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 1160790,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "New Balance Tsm2215-bk Erkek Tişört 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775677253767,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775677253767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667130916,
+      "__unknown_productSubTitle": "New Balance Tsm2215-bk Erkek Tişört 001 Siyah M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1160791,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "New Balance Tsm2215-bk Erkek Tişört 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754224448169,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667130965,
+      "__unknown_productSubTitle": "New Balance Tsm2215-bk Erkek Tişört 001 Siyah S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1160792,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "New Balance Tsm2215-bk Erkek Tişört 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747215189212,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667130962,
+      "__unknown_productSubTitle": "New Balance Tsm2215-bk Erkek Tişört 001 Siyah L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1160793,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "New Balance Tsm2215-bk Erkek Tişört 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726673086692,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629285332,
+      "__unknown_productSubTitle": "New Balance Tsm2215-bk Erkek Tişört 001 Siyah XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

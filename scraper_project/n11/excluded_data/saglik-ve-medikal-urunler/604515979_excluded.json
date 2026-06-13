@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 1111515,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dr. Flexi 0.25 x 25 MM Steril Akupunktur İğnesi 200'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772708146789,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604515979,
+      "__unknown_productSubTitle": "Dr. Flexi 0.25 x 25 MM Steril Akupunktur İğnesi 200'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1111516,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dr. Flexi 0.25 x 25 MM Steril Akupunktur İğnesi 200'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728329630218,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/07/46/45/45/39/95/62/10/03/66/38821176007083211222.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604515979,
+      "__unknown_productSubTitle": "Dr. Flexi 0.25 x 25 MM Steril Akupunktur İğnesi 200'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5868241,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/07/46/45/45/39/95/62/10/03/66/38821176007083211222.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/07/46/45/45/39/95/62/10/03/66/38821176007083211222.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/07/46/45/45/39/95/62/10/03/66/38821176007083211222.png"
+    }
+  }
+]

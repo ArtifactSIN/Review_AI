@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 262589,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bundera Kids Bebek Uyku Salıncağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762033818169,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611755693,
+      "__unknown_productSubTitle": "Bundera Kids Bebek Uyku Salıncağı Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 262590,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bundera Kids Bebek Uyku Salıncağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729757228860,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/24/67/81/37/07/60/08/93/67/13/8526393326567274552.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611755693,
+      "__unknown_productSubTitle": "Bundera Kids Bebek Uyku Salıncağı Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6004611,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/24/67/81/37/07/60/08/93/67/13/8526393326567274552.png"
+        },
+        {
+          "id": 6004612,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/24/54/17/78/97/96/15/69/22/43/23458636230408948131.png"
+        },
+        {
+          "id": 6004613,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/24/56/15/23/45/90/05/03/33/63/83490562601038558749.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/24/67/81/37/07/60/08/93/67/13/8526393326567274552.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/24/67/81/37/07/60/08/93/67/13/8526393326567274552.png"
+    }
+  },
+  {
+    "gid_ref": 262591,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bundera Kids Bebek Uyku Salıncağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720687497608,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 486397527,
+      "__unknown_productSubTitle": "Bundera Kids Bebek Uyku Salıncağı Sarı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

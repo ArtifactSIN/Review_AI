@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 743573,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Delly Beyaz Çikolata & Kurabiye Aromalı Yüksek Proteinli Bar 12 x 40 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736453167950,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/09/54/58/94/34/37/74/12/40/81/197299904871878596.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628690062,
+      "__unknown_productSubTitle": "Delly Beyaz Çikolata & Kurabiye Aromalı Yüksek Proteinli Bar 12 x 40 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6677916,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/09/54/58/94/34/37/74/12/40/81/197299904871878596.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/09/54/58/94/34/37/74/12/40/81/197299904871878596.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/09/54/58/94/34/37/74/12/40/81/197299904871878596.png"
+    }
+  },
+  {
+    "gid_ref": 743574,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Delly Beyaz Çikolata & Kurabiye Aromalı Yüksek Proteinli Bar 12 x 40 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732652968331,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628690062,
+      "__unknown_productSubTitle": "Delly Beyaz Çikolata & Kurabiye Aromalı Yüksek Proteinli Bar 12 x 40 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

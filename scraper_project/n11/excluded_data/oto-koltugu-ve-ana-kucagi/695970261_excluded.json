@@ -1,0 +1,109 @@
+[
+  {
+    "gid_ref": 949660,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Merfbaby Oyuncaklı Ana Kucağı - Kahve",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773693371006,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773693371006,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695970261,
+      "__unknown_productSubTitle": "Merfbaby Oyuncaklı Ana Kucağı - Kahve Kahve",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 949661,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Merfbaby Oyuncaklı Ana Kucağı - Kahve",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769419281489,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/26/51/04/88/96/46/30/88/16/77/85078010786612032479.jpg",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695970261,
+      "__unknown_productSubTitle": "Merfbaby Oyuncaklı Ana Kucağı - Kahve Kahve",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8296352,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/26/51/04/88/96/46/30/88/16/77/85078010786612032479.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/26/51/04/88/96/46/30/88/16/77/85078010786612032479.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/26/51/04/88/96/46/30/88/16/77/85078010786612032479.jpg"
+    }
+  },
+  {
+    "gid_ref": 949662,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Merfbaby Oyuncaklı Ana Kucağı - Kahve",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768034463586,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/10/56/48/02/85/68/40/11/31/49/43151630980722702818.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695970261,
+      "__unknown_productSubTitle": "Merfbaby Oyuncaklı Ana Kucağı - Kahve Kahve",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8229340,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/10/56/48/02/85/68/40/11/31/49/43151630980722702818.png"
+        },
+        {
+          "id": 8229341,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/10/85/26/30/48/70/80/23/96/48/8963190477685410880.png"
+        },
+        {
+          "id": 8229342,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/10/76/18/85/25/56/62/98/53/08/83456419028126682002.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/10/56/48/02/85/68/40/11/31/49/43151630980722702818.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/10/56/48/02/85/68/40/11/31/49/43151630980722702818.png"
+    }
+  },
+  {
+    "gid_ref": 949663,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Merfbaby Oyuncaklı Ana Kucağı - Kahve",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766599898982,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695970261,
+      "__unknown_productSubTitle": "Merfbaby Oyuncaklı Ana Kucağı - Kahve Kahve",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

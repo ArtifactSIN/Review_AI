@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 735589,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "John Wick (Dvd)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745591589865,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573362286,
+      "__unknown_productSubTitle": "John Wick (Dvd) ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735590,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "John Wick (Dvd)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740404621172,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/24/88/77/80/41/85/19/31/29/47/83304160259301197491.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573362286,
+      "__unknown_productSubTitle": "John Wick (Dvd) ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6888609,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/24/88/77/80/41/85/19/31/29/47/83304160259301197491.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/24/88/77/80/41/85/19/31/29/47/83304160259301197491.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/24/88/77/80/41/85/19/31/29/47/83304160259301197491.png"
+    }
+  },
+  {
+    "gid_ref": 735591,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "John Wick (Dvd)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727189751379,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573362286,
+      "__unknown_productSubTitle": "John Wick (Dvd) ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

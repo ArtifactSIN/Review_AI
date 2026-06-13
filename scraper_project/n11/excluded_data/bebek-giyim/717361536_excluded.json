@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 253178,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çiçek Basdkılı Pullu Sweatshirt 1-6 Yaş Lacivert Lacivert",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775228243261,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/03/80/14/74/80/14/47/63/70/59/32899189067400198045.png",
+      "__unknown_lastModifiedDate": 1775228243261,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717361536,
+      "__unknown_productSubTitle": "Çiçek Basdkılı Pullu Sweatshirt 1-6 Yaş Lacivert Lacivert 7 - 8 Yaş",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8568268,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/03/80/14/74/80/14/47/63/70/59/32899189067400198045.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/03/80/14/74/80/14/47/63/70/59/32899189067400198045.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/03/80/14/74/80/14/47/63/70/59/32899189067400198045.png"
+    }
+  },
+  {
+    "gid_ref": 253179,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çiçek Basdkılı Pullu Sweatshirt 1-6 Yaş Lacivert Lacivert",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774371952811,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/24/49/58/53/89/07/17/25/35/29/33340778640127996562.jpg",
+      "__unknown_lastModifiedDate": 1774371952811,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717361534,
+      "__unknown_productSubTitle": "Çiçek Basdkılı Pullu Sweatshirt 1-6 Yaş Lacivert Lacivert 6 - 7 Yaş",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8492668,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/24/49/58/53/89/07/17/25/35/29/33340778640127996562.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/24/49/58/53/89/07/17/25/35/29/33340778640127996562.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/24/49/58/53/89/07/17/25/35/29/33340778640127996562.jpg"
+    }
+  }
+]

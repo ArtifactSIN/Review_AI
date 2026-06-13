@@ -1,0 +1,101 @@
+[
+  {
+    "gid_ref": 1272708,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vivo Y04 4 GB (Vivo Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1769017799102,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 725071460,
+      "__unknown_productSubTitle": "Vivo Y04 4 GB (Vivo Türkiye Garantili) Yeşil 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272709,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vivo Y04 4 GB (Vivo Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768495794091,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/15/49/18/91/25/68/48/64/16/79/56662897236067698634.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 722441903,
+      "__unknown_productSubTitle": "Vivo Y04 4 GB (Vivo Türkiye Garantili) Yeşil 128 GB",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8253199,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/15/51/26/11/72/47/53/42/60/64/24432164223874385921.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/15/49/18/91/25/68/48/64/16/79/56662897236067698634.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/15/49/18/91/25/68/48/64/16/79/56662897236067698634.png"
+    }
+  },
+  {
+    "gid_ref": 1272710,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vivo Y04 4 GB (Vivo Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768392771247,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 725197302,
+      "__unknown_productSubTitle": "Vivo Y04 4 GB (Vivo Türkiye Garantili) Altın 128 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1272711,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vivo Y04 4 GB (Vivo Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766345673956,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/21/85/92/82/57/88/67/42/10/96/1558785620648478038.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 725067736,
+      "__unknown_productSubTitle": "Vivo Y04 4 GB (Vivo Türkiye Garantili) Altın 128 GB",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8155710,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/21/85/92/82/57/88/67/42/10/96/1558785620648478038.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/21/85/92/82/57/88/67/42/10/96/1558785620648478038.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/21/85/92/82/57/88/67/42/10/96/1558785620648478038.png"
+    }
+  }
+]

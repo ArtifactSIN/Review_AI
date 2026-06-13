@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 29110,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arm & Hammer Advance White Pro Diş Macunu 2 x 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769902645254,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 713773688,
+      "__unknown_productSubTitle": "Arm & Hammer Advance White Pro Diş Macunu 2 x 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 29111,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arm & Hammer Advance White Pro Diş Macunu 2 x 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744779311479,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641267083,
+      "__unknown_productSubTitle": "Arm & Hammer Advance White Pro Diş Macunu 2 x 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 29112,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arm & Hammer Advance White Pro Diş Macunu 2 x 75 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729838889759,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589851057,
+      "__unknown_productSubTitle": "Arm & Hammer Advance White Pro Diş Macunu 2 x 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 29113,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arm & Hammer Advance White Pro Diş Macunu 2 x 75 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1707242775504,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589851057,
+      "__unknown_productSubTitle": "Arm & Hammer Advance White Pro Diş Macunu 2 x 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

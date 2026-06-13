@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 1520503,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Koza Doğal Kükürtlü Sabun 6 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741071067107,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645223719,
+      "__unknown_productSubTitle": "Koza Doğal Kükürtlü Sabun 6 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1520504,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Koza Doğal Kükürtlü Sabun 6 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1718564387877,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 571992466,
+      "__unknown_productSubTitle": "Koza Doğal Kükürtlü Sabun 6 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1520505,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Koza Doğal Kükürtlü Sabun 6 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1711388872319,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596886990,
+      "__unknown_productSubTitle": "Koza Doğal Kükürtlü Sabun 6 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1520506,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Koza Doğal Kükürtlü Sabun 6 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1688849717178,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/07/08/53/66/13/16/96/64/26/37/57/01770608035023338504.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 571992466,
+      "__unknown_productSubTitle": "Koza Doğal Kükürtlü Sabun 6 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2166957,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/07/08/53/66/13/16/96/64/26/37/57/01770608035023338504.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/07/08/53/66/13/16/96/64/26/37/57/01770608035023338504.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/07/08/53/66/13/16/96/64/26/37/57/01770608035023338504.png"
+    }
+  }
+]

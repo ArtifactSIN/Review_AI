@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 838288,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nascita Profesyonel Oval Yapılı Kapatıcı Fırçası No: 136",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732351709227,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/23/69/65/42/04/91/24/93/38/56/9255607633412310857.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589495176,
+      "__unknown_productSubTitle": "Nascita Profesyonel Oval Yapılı Kapatıcı Fırçası No: 136 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6303299,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/23/69/65/42/04/91/24/93/38/56/9255607633412310857.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/23/69/65/42/04/91/24/93/38/56/9255607633412310857.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/23/69/65/42/04/91/24/93/38/56/9255607633412310857.jpg"
+    }
+  },
+  {
+    "gid_ref": 838289,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nascita Profesyonel Oval Yapılı Kapatıcı Fırçası No: 136",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728142357928,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/05/84/14/88/82/25/02/11/76/20/68403647445740830879.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589495176,
+      "__unknown_productSubTitle": "Nascita Profesyonel Oval Yapılı Kapatıcı Fırçası No: 136 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5851028,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/05/84/14/88/82/25/02/11/76/20/68403647445740830879.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/05/84/14/88/82/25/02/11/76/20/68403647445740830879.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/05/84/14/88/82/25/02/11/76/20/68403647445740830879.jpg"
+    }
+  }
+]

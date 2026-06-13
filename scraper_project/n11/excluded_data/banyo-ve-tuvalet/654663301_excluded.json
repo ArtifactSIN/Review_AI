@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 176502,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Gentle Papatya Özlü Şampuan 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730284154910,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 534715955,
+      "__unknown_productSubTitle": "Mustela Gentle Papatya Özlü Şampuan 200 ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 176503,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Gentle Papatya Özlü Şampuan 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727443237175,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 542075617,
+      "__unknown_productSubTitle": "Mustela Gentle Papatya Özlü Şampuan 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 176504,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Gentle Papatya Özlü Şampuan 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1695647204290,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/09/25/88/25/41/07/05/14/66/01/12/98778467648710292053.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 542075617,
+      "__unknown_productSubTitle": "Mustela Gentle Papatya Özlü Şampuan 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2433960,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/09/25/88/25/41/07/05/14/66/01/12/98778467648710292053.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/09/25/88/25/41/07/05/14/66/01/12/98778467648710292053.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/09/25/88/25/41/07/05/14/66/01/12/98778467648710292053.png"
+    }
+  }
+]

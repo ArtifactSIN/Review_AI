@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 1251433,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sigorta Kutusu 12'Li Ikaz Işıklı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770750868362,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596874026,
+      "__unknown_productSubTitle": "Sigorta Kutusu 12'Li Ikaz Işıklı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251434,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sigorta Kutusu 12'Li Ikaz Işıklı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728995834987,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596874026,
+      "__unknown_productSubTitle": "Sigorta Kutusu 12'Li Ikaz Işıklı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251435,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sigorta Kutusu 12'Li Ikaz Işıklı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726061924636,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/11/59/20/04/66/06/19/32/29/19/95705776782802960800.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596874026,
+      "__unknown_productSubTitle": "Sigorta Kutusu 12'Li Ikaz Işıklı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5629718,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/11/83/64/62/44/02/82/77/23/36/14111476066360379143.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/11/59/20/04/66/06/19/32/29/19/95705776782802960800.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/11/59/20/04/66/06/19/32/29/19/95705776782802960800.jpeg"
+    }
+  },
+  {
+    "gid_ref": 1251436,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sigorta Kutusu 12'Li Ikaz Işıklı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1682280728623,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 502960178,
+      "__unknown_productSubTitle": "Sigorta Kutusu 12'li İkaz ışıklı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1521226,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bebak Acı Badem Bakım Kremi Kavanoz 70 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763731033479,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/21/76/26/50/90/63/43/51/91/16/01090435764157497486.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590687932,
+      "__unknown_productSubTitle": "Bebak Acı Badem Bakım Kremi Kavanoz 70 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8001652,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/21/76/26/50/90/63/43/51/91/16/01090435764157497486.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/21/76/26/50/90/63/43/51/91/16/01090435764157497486.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/21/76/26/50/90/63/43/51/91/16/01090435764157497486.jpg"
+    }
+  },
+  {
+    "gid_ref": 1521227,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bebak Acı Badem Bakım Kremi Kavanoz 70 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763398716549,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645389305,
+      "__unknown_productSubTitle": "Bebak Acı Badem Bakım Kremi Kavanoz 70 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1521228,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bebak Acı Badem Bakım Kremi Kavanoz 70 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1757916874304,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645389305,
+      "__unknown_productSubTitle": "Bebak Acı Badem Bakım Kremi Kavanoz 70 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 949658,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Merfbaby Oyuncaklı Ana Kucağı - Bej - Taşıma Çantalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758035161305,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/16/72/17/25/83/22/45/15/90/62/64459598834873055043.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695967531,
+      "__unknown_productSubTitle": "Merfbaby Oyuncaklı Ana Kucağı - Bej - Taşıma Çantalı Bej",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7687374,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/16/72/17/25/83/22/45/15/90/62/64459598834873055043.png"
+        },
+        {
+          "id": 7687375,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/16/55/19/76/79/98/60/74/54/31/28146344692679066426.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/16/72/17/25/83/22/45/15/90/62/64459598834873055043.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/16/72/17/25/83/22/45/15/90/62/64459598834873055043.png"
+    }
+  },
+  {
+    "gid_ref": 949659,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Merfbaby Oyuncaklı Ana Kucağı - Bej - Taşıma Çantalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757761386583,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695967531,
+      "__unknown_productSubTitle": "Merfbaby Oyuncaklı Ana Kucağı - Bej - Taşıma Çantalı Bej",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

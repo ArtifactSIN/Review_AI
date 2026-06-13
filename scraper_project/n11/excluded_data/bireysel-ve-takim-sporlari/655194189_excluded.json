@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 371926,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Swimwear M 7 Inch Swimshort Erkek Siyah Deniz Şortu S241141-001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765283312545,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/09/53/86/52/83/19/27/16/42/66/92506594071223615659.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 617991301,
+      "__unknown_productSubTitle": "Skechers Swimwear M 7 Inch Swimshort Erkek Siyah Deniz Şortu S241141-001 L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8087486,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/09/53/86/52/83/19/27/16/42/66/92506594071223615659.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/09/53/86/52/83/19/27/16/42/66/92506594071223615659.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/09/53/86/52/83/19/27/16/42/66/92506594071223615659.png"
+    }
+  },
+  {
+    "gid_ref": 371927,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Swimwear M 7 Inch Swimshort Erkek Siyah Deniz Şortu S241141-001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764591646840,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655194189,
+      "__unknown_productSubTitle": "Skechers Swimwear M 7 Inch Swimshort Erkek Siyah Deniz Şortu S241141-001 M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 371928,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Skechers Swimwear M 7 Inch Swimshort Erkek Siyah Deniz Şortu S241141-001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762283877185,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 617991301,
+      "__unknown_productSubTitle": "Skechers Swimwear M 7 Inch Swimshort Erkek Siyah Deniz Şortu S241141-001 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

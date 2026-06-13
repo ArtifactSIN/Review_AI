@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1155307,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pioneer Ts-G1020F 210 W 10 CM Yuvarlak Oto Hoparlör",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773908141448,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773908141448,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 673605306,
+      "__unknown_productSubTitle": "Pioneer Ts-G1020F 210 W 10 CM Yuvarlak Oto Hoparlör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1155308,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pioneer Ts-G1020F 210 W 10 CM Yuvarlak Oto Hoparlör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713334902551,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 541639531,
+      "__unknown_productSubTitle": "Pioneer Ts-G1020F 210 W 10 CM Yuvarlak Oto Hoparlör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

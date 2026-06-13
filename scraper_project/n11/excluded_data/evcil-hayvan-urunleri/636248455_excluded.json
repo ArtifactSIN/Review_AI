@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 704814,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vision Model S 01 (457x356x508)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745364977441,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/23/79/36/61/89/29/60/10/09/39/22846299144512320934.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 636248455,
+      "__unknown_productSubTitle": "Vision Model S 01 (457x356x508)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7121149,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/23/79/36/61/89/29/60/10/09/39/22846299144512320934.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/23/79/36/61/89/29/60/10/09/39/22846299144512320934.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/23/79/36/61/89/29/60/10/09/39/22846299144512320934.jpg"
+    }
+  },
+  {
+    "gid_ref": 704815,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vision Model S 01 (457x356x508)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715239788043,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578547360,
+      "__unknown_productSubTitle": "Vision Model S 01 (457x356x508)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

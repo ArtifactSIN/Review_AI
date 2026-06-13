@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 850929,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Paris Plump Ambition Hyaluron Lip Oil Besleyici ve Nemlendirici Dudak Parlatıcısı 510 La Nuit Sparkle",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769718599132,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 689638960,
+      "__unknown_productSubTitle": "L'Oréal Paris Plump Ambition Hyaluron Lip Oil Besleyici ve Nemlendirici Dudak Parlatıcısı 510 La Nuit Sparkle",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 850930,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Paris Plump Ambition Hyaluron Lip Oil Besleyici ve Nemlendirici Dudak Parlatıcısı 510 La Nuit Sparkle",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766960748938,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/29/69/01/61/19/56/34/51/29/49/18854609541637913537.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 689638960,
+      "__unknown_productSubTitle": "L'Oréal Paris Plump Ambition Hyaluron Lip Oil Besleyici ve Nemlendirici Dudak Parlatıcısı 510 La Nuit Sparkle",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8177438,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/29/69/01/61/19/56/34/51/29/49/18854609541637913537.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/29/69/01/61/19/56/34/51/29/49/18854609541637913537.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/29/69/01/61/19/56/34/51/29/49/18854609541637913537.png"
+    }
+  }
+]

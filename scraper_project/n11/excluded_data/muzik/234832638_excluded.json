@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 943654,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zeynel Abidin Cmb01Cc Siyah Cümbüş-Siyah Renk-Kılıf",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758106995828,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/17/70/79/21/40/75/17/49/56/69/01772979683464989554.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 674873720,
+      "__unknown_productSubTitle": "Zeynel Abidin Cmb01Cc Siyah Cümbüş-Siyah Renk-Kılıf",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7700009,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/17/70/79/21/40/75/17/49/56/69/01772979683464989554.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/17/70/79/21/40/75/17/49/56/69/01772979683464989554.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/17/70/79/21/40/75/17/49/56/69/01772979683464989554.png"
+    }
+  },
+  {
+    "gid_ref": 943655,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ÜRÜNDE PROBLEM ÇIKARSA ELINIZDE KALIYOR SAKIN ALMAYIN",
+      "productTitle": "Zeynel Abidin Cmb01Cc Siyah Cümbüş-Siyah Renk-Kılıf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1621679959797,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 234832638,
+      "__unknown_productSubTitle": "Zeynel Abidin Cmb01Cc Siyah Cümbüş-Siyah Renk-Kılıf",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 943656,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Harika",
+      "productTitle": "Zeynel Abidin Cmb01Cc Siyah Cümbüş-Siyah Renk-Kılıf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1580972938277,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 234832638,
+      "__unknown_productSubTitle": "Zeynel Abidin Cmb01Cc Siyah Cümbüş-Siyah Renk-Kılıf",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

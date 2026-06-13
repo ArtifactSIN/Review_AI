@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 947109,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bergen - Yıllar Affetmez Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722928565345,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/06/86/46/80/58/13/48/61/24/00/84922385904690248415.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 521398777,
+      "__unknown_productSubTitle": "Bergen - Yıllar Affetmez Plak",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5352820,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/06/86/46/80/58/13/48/61/24/00/84922385904690248415.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/06/86/46/80/58/13/48/61/24/00/84922385904690248415.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/06/86/46/80/58/13/48/61/24/00/84922385904690248415.png"
+    }
+  },
+  {
+    "gid_ref": 947110,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bergen - Yıllar Affetmez Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1673374037132,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 521398777,
+      "__unknown_productSubTitle": "Bergen - Yıllar Affetmez Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947111,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "harika",
+      "productTitle": "Bergen - Yıllar Affetmez Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1666269339844,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 521398777,
+      "__unknown_productSubTitle": "Bergen - Yıllar Affetmez Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

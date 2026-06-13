@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 787442,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "SERVE STEPS SİLGİ PASTEL 6LI PET",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775157420205,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775157420205,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557994317,
+      "__unknown_productSubTitle": "SERVE STEPS SİLGİ PASTEL 6LI PET",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 787443,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "SERVE STEPS SİLGİ PASTEL 6LI PET",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774369268115,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/24/74/09/27/82/19/91/12/74/30/25359070878461507412.png",
+      "__unknown_lastModifiedDate": 1774369268115,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557994317,
+      "__unknown_productSubTitle": "SERVE STEPS SİLGİ PASTEL 6LI PET",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8502502,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/24/74/09/27/82/19/91/12/74/30/25359070878461507412.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/24/74/09/27/82/19/91/12/74/30/25359070878461507412.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/24/74/09/27/82/19/91/12/74/30/25359070878461507412.png"
+    }
+  }
+]

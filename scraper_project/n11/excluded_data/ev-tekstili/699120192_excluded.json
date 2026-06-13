@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 634620,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Süngerli Çubuk Koltuk Örtüsü Sıkıştırma Aparatı 20 Adet B.beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765713603004,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/14/55/39/25/24/63/51/79/28/60/03444233770817834243.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 699120192,
+      "__unknown_productSubTitle": "Süngerli Çubuk Koltuk Örtüsü Sıkıştırma Aparatı 20 Adet B.beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8116772,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/14/55/39/25/24/63/51/79/28/60/03444233770817834243.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/14/55/39/25/24/63/51/79/28/60/03444233770817834243.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/14/55/39/25/24/63/51/79/28/60/03444233770817834243.png"
+    }
+  },
+  {
+    "gid_ref": 634621,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Süngerli Çubuk Koltuk Örtüsü Sıkıştırma Aparatı 20 Adet B.beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763212692798,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 699120192,
+      "__unknown_productSubTitle": "Süngerli Çubuk Koltuk Örtüsü Sıkıştırma Aparatı 20 Adet B.beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

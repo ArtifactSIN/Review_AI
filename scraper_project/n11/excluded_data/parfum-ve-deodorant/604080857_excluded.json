@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 1009978,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nivea Fresh Cherry Kadın Roll-On Deodorant 50 ML x 3",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730132078020,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/28/50/69/86/13/78/22/44/39/62/55738823462501695892.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 527353030,
+      "__unknown_productSubTitle": "Nivea Fresh Cherry Kadın Roll-On Deodorant 50 ML x 3",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6052750,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/28/50/69/86/13/78/22/44/39/62/55738823462501695892.png"
+        },
+        {
+          "id": 6052751,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/28/48/00/82/44/91/00/57/41/61/12757469231305542817.png"
+        },
+        {
+          "id": 6052752,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/28/68/98/16/10/68/90/04/48/25/79125310231000925162.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/28/50/69/86/13/78/22/44/39/62/55738823462501695892.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/28/50/69/86/13/78/22/44/39/62/55738823462501695892.png"
+    }
+  },
+  {
+    "gid_ref": 1009979,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "pahalı",
+      "productTitle": "Nivea Fresh Cherry Kadın Roll-On Deodorant 50 ML x 3",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1581016006100,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 383745673,
+      "__unknown_productSubTitle": "Nivea Fresh Cherry Kadın Roll-On Deodorant 50 ML x 3",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

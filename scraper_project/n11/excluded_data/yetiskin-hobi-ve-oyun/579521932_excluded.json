@@ -1,0 +1,84 @@
+[
+  {
+    "gid_ref": 1491696,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Star Oyun Plastik Satranç Taşları Büyük Boy",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1684923292543,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/05/24/69/56/15/73/87/59/09/20/45/77440000939131686662.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 483127528,
+      "__unknown_productSubTitle": "Star Oyun Plastik Satranç Taşları Büyük Boy",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2038350,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/05/24/69/56/15/73/87/59/09/20/45/77440000939131686662.png"
+        },
+        {
+          "id": 2038351,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/05/24/57/75/50/09/03/06/09/11/40/67274127209745985741.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/05/24/69/56/15/73/87/59/09/20/45/77440000939131686662.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/05/24/69/56/15/73/87/59/09/20/45/77440000939131686662.png"
+    }
+  },
+  {
+    "gid_ref": 1491697,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kendi sınıfının 1. kalitesi",
+      "productTitle": "Star Oyun Plastik Satranç Taşları Büyük Boy",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1667479820353,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/11/03/90/48/35/02/42/29/64/81/55/63921312889757978194.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 483127528,
+      "__unknown_productSubTitle": "Star Oyun Plastik Satranç Taşları Büyük Boy",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1226414,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/11/03/90/48/35/02/42/29/64/81/55/63921312889757978194.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/11/03/90/48/35/02/42/29/64/81/55/63921312889757978194.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/11/03/90/48/35/02/42/29/64/81/55/63921312889757978194.jpg"
+    }
+  },
+  {
+    "gid_ref": 1491698,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "çok iyi",
+      "productTitle": "Star Oyun Plastik Satranç Taşları Büyük Boy",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1642282992394,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 483127528,
+      "__unknown_productSubTitle": "Star Oyun Plastik Satranç Taşları Büyük Boy",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

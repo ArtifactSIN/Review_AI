@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 946045,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jim Dunlop 6551J Limon Yağı Küçük",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745176266431,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 432148766,
+      "__unknown_productSubTitle": "Jim Dunlop 6551J Limon Yağı Küçük",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946046,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jim Dunlop 6551J Limon Yağı Küçük",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1712540320362,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 415723989,
+      "__unknown_productSubTitle": "Jim Dunlop 6551J Limon Yağı Küçük",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946047,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Gayet iyi cok guzel",
+      "productTitle": "Jim Dunlop 6551J Limon Yağı Küçük",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1611822308866,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 432148766,
+      "__unknown_productSubTitle": "Jim Dunlop 6551J Limon Yağı Küçük",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

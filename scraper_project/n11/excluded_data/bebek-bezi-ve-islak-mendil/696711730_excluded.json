@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 247348,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Huggies Drynites Gece Külodu Kız 8-13 Yaş 30-48 Kg 4 Paket 36 Adet 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767262209302,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/01/86/52/14/20/66/03/66/01/25/2443222175194500420.jpg",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 696711730,
+      "__unknown_productSubTitle": "Huggies Drynites Gece Külodu Kız 8-13 Yaş 30-48 Kg 4 Paket 36 Adet 4'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8203413,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/01/86/52/14/20/66/03/66/01/25/2443222175194500420.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/01/86/52/14/20/66/03/66/01/25/2443222175194500420.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/01/86/52/14/20/66/03/66/01/25/2443222175194500420.jpg"
+    }
+  },
+  {
+    "gid_ref": 247349,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Huggies Drynites Gece Külodu Kız 8-13 Yaş 30-48 Kg 4 Paket 36 Adet 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764022223407,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 696711730,
+      "__unknown_productSubTitle": "Huggies Drynites Gece Külodu Kız 8-13 Yaş 30-48 Kg 4 Paket 36 Adet 4'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

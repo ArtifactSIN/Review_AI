@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 383824,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano 105 Pd-r550 Pedal Spd Sl Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741874870439,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647717476,
+      "__unknown_productSubTitle": "Shimano 105 Pd-r550 Pedal Spd Sl Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 383825,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano 105 Pd-r550 Pedal Spd Sl Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1694722135586,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 213791509,
+      "__unknown_productSubTitle": "Shimano 105 PD-R550 Pedal SPD SL Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

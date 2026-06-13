@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 163376,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensörlü Otomatik Plastik Çöp Kovası 18 Litre-beyaz Yerli Üretim Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764430807793,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/29/91/23/29/05/50/00/55/04/89/28481672057431280989.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 689390238,
+      "__unknown_productSubTitle": "Sensörlü Otomatik Plastik Çöp Kovası 18 Litre-beyaz Yerli Üretim Beyaz ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8039039,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/29/91/23/29/05/50/00/55/04/89/28481672057431280989.jpg"
+        },
+        {
+          "id": 8039040,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/29/48/89/93/56/16/68/05/51/52/53768803938355201468.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/29/91/23/29/05/50/00/55/04/89/28481672057431280989.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/29/91/23/29/05/50/00/55/04/89/28481672057431280989.jpg"
+    }
+  },
+  {
+    "gid_ref": 163377,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensörlü Otomatik Plastik Çöp Kovası 18 Litre-beyaz Yerli Üretim Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760020107037,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 689390238,
+      "__unknown_productSubTitle": "Sensörlü Otomatik Plastik Çöp Kovası 18 Litre-beyaz Yerli Üretim Beyaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 163378,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sensörlü Otomatik Plastik Çöp Kovası 18 Litre-beyaz Yerli Üretim Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758618380440,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 689390238,
+      "__unknown_productSubTitle": "Sensörlü Otomatik Plastik Çöp Kovası 18 Litre-beyaz Yerli Üretim Beyaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

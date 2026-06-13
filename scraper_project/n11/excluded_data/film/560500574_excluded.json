@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 735585,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sea Rex: Tarih Öncesi Bir Dünyaya Yolculuk 3D+2D Blu-Ray Tek Disk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774547276418,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/63/28/22/75/40/95/26/21/28/71830528835039704271.png",
+      "__unknown_lastModifiedDate": 1774547276418,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 560500574,
+      "__unknown_productSubTitle": "Sea Rex: Tarih Öncesi Bir Dünyaya Yolculuk 3d+2d Blu-ray Tek Disk",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8525155,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/63/28/22/75/40/95/26/21/28/71830528835039704271.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/63/28/22/75/40/95/26/21/28/71830528835039704271.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/63/28/22/75/40/95/26/21/28/71830528835039704271.png"
+    }
+  },
+  {
+    "gid_ref": 735586,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sea Rex: Tarih Öncesi Bir Dünyaya Yolculuk 3D+2D Blu-Ray Tek Disk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729510457846,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 560500574,
+      "__unknown_productSubTitle": "Sea Rex: Tarih Öncesi Bir Dünyaya Yolculuk 3d+2d Blu-ray Tek Disk",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735587,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sea Rex: Tarih Öncesi Bir Dünyaya Yolculuk 3D+2D Blu-Ray Tek Disk",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726811395360,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 560500574,
+      "__unknown_productSubTitle": "Sea Rex: Tarih Öncesi Bir Dünyaya Yolculuk 3d+2d Blu-ray Tek Disk",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

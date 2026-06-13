@@ -1,0 +1,65 @@
+[
+  {
+    "gid_ref": 947551,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zoom G1 Four Multi-efekt Prosesörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774855437527,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774855437527,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 731829038,
+      "__unknown_productSubTitle": "Zoom G1 Four Multi-efekt Prosesörü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947552,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Hayat kurtaran alet",
+      "productTitle": "Zoom G1 Four Multi-efekt Prosesörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1634213752902,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 392344097,
+      "__unknown_productSubTitle": "Zoom G1 Four Multi-efekt Prosesörü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947553,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Aradığım şeyi buldum.",
+      "productTitle": "Zoom G1 Four Multi-efekt Prosesörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1610879915172,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 392344097,
+      "__unknown_productSubTitle": "Zoom G1 Four Multi-efekt Prosesörü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

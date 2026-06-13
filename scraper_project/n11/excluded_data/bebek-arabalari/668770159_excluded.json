@@ -1,0 +1,80 @@
+[
+  {
+    "gid_ref": 182379,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yoyko City Gri Silver Travel Sistem Bebek Arabası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774728362612,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/28/72/44/19/10/40/58/88/82/55/68348659138968662738.jpg",
+      "__unknown_lastModifiedDate": 1774728362612,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668770159,
+      "__unknown_productSubTitle": "Yoyko City Gri Silver Travel Sistem Bebek Arabası Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8531655,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/72/44/19/10/40/58/88/82/55/68348659138968662738.jpg"
+        },
+        {
+          "id": 8531656,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/61/32/34/21/01/31/99/93/63/84547318659174216913.jpg"
+        },
+        {
+          "id": 8531657,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/86/66/10/95/51/21/22/36/56/06696129481479245446.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/28/72/44/19/10/40/58/88/82/55/68348659138968662738.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/28/72/44/19/10/40/58/88/82/55/68348659138968662738.jpg"
+    }
+  },
+  {
+    "gid_ref": 182380,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yoyko City Gri Silver Travel Sistem Bebek Arabası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772720733412,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668770159,
+      "__unknown_productSubTitle": "Yoyko City Gri Silver Travel Sistem Bebek Arabası Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 182381,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yoyko City Gri Silver Travel Sistem Bebek Arabası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766504933640,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668770159,
+      "__unknown_productSubTitle": "Yoyko City Gri Silver Travel Sistem Bebek Arabası Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

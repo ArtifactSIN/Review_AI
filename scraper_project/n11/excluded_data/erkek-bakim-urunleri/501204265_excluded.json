@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 507905,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Brut After Shave Original Fragrance 147 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775288275574,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/04/86/12/62/01/78/33/95/45/02/63188005670084129083.jpg",
+      "__unknown_lastModifiedDate": 1775288275574,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 501204265,
+      "__unknown_productSubTitle": "Brut After Shave Original Fragrance 147 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8563382,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/04/86/12/62/01/78/33/95/45/02/63188005670084129083.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/04/86/12/62/01/78/33/95/45/02/63188005670084129083.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/04/86/12/62/01/78/33/95/45/02/63188005670084129083.jpg"
+    }
+  },
+  {
+    "gid_ref": 507906,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Brut After Shave Original Fragrance 147 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1676763160117,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1676826631037,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 501204265,
+      "__unknown_productSubTitle": "Brut After Shave Original Fragrance 147 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

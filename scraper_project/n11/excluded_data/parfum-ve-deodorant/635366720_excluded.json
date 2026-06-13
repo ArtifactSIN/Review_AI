@@ -1,0 +1,77 @@
+[
+  {
+    "gid_ref": 1014088,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Men Expert Magnesium Defense Erkek Roll-On Deodorant 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758124248132,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635366720,
+      "__unknown_productSubTitle": "L'Oreal Paris Men Expert Magnesium Defense Erkek Roll-On Deodorant 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1014089,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Men Expert Magnesium Defense Erkek Roll-On Deodorant 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1737197131370,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/18/61/92/78/11/48/49/52/44/15/62624344893313299978.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592650953,
+      "__unknown_productSubTitle": "L'Oreal Paris Men Expert Magnesium Defense Erkek Roll-On Deodorant 50 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6716348,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/18/61/92/78/11/48/49/52/44/15/62624344893313299978.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/18/61/92/78/11/48/49/52/44/15/62624344893313299978.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/18/61/92/78/11/48/49/52/44/15/62624344893313299978.png"
+    }
+  },
+  {
+    "gid_ref": 1014090,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Men Expert Magnesium Defense Erkek Roll-On Deodorant 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1689875439736,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/07/20/58/35/13/94/95/80/73/92/45/15139362821286051238.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 580019058,
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2219656,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/07/20/58/35/13/94/95/80/73/92/45/15139362821286051238.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/07/20/58/35/13/94/95/80/73/92/45/15139362821286051238.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/07/20/58/35/13/94/95/80/73/92/45/15139362821286051238.jpg"
+    }
+  }
+]

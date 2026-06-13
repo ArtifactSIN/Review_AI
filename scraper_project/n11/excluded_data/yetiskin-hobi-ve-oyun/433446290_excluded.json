@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1490443,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Türkiye Haritası Puzzle 81 Parça Eğitici Yapboz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744193291839,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/09/73/73/51/08/28/13/88/75/31/86255160363245388066.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 644764513,
+      "__unknown_productSubTitle": "Türkiye Haritası Puzzle 81 Parça Eğitici Yapboz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7069735,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/09/73/73/51/08/28/13/88/75/31/86255160363245388066.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/09/73/73/51/08/28/13/88/75/31/86255160363245388066.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/09/73/73/51/08/28/13/88/75/31/86255160363245388066.png"
+    }
+  },
+  {
+    "gid_ref": 1490444,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Türkiye Haritası Puzzle 81 Parça Eğitici Yapboz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728225498932,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 433446290,
+      "__unknown_productSubTitle": "Türkiye Haritası Puzzle 81 Parça Eğitici Yapboz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

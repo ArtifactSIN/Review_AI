@@ -1,0 +1,86 @@
+[
+  {
+    "gid_ref": 1287109,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple iPhone 17e 256 GB (Apple Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775537753495,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775537753495,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 736210205,
+      "__unknown_productSubTitle": "Apple iPhone 17e 256 GB (Apple Türkiye Garantili) Açık Pembe 256 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1287110,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple iPhone 17e 256 GB (Apple Türkiye Garantili)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775061017162,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775061017162,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 736087215,
+      "__unknown_productSubTitle": "Apple iPhone 17e 256 GB (Apple Türkiye Garantili) Beyaz 256 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1287111,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple iPhone 17e 256 GB (Apple Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774713387481,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774713387481,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 735596833,
+      "__unknown_productSubTitle": "Apple iPhone 17e 256 GB (Apple Türkiye Garantili) Siyah 256 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1287112,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apple iPhone 17e 256 GB (Apple Türkiye Garantili)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773828185779,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773828185779,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 735596833,
+      "__unknown_productSubTitle": "Apple iPhone 17e 256 GB (Apple Türkiye Garantili) Siyah 256 GB",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

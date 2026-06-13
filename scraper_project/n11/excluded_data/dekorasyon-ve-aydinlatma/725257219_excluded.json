@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 423915,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Galaxy Premium Serisi Ms100 Masa Üstü Çalar Saat Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771947900799,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 725257219,
+      "__unknown_productSubTitle": "Galaxy Premium Serisi Ms100 Masa Üstü Çalar Saat Beyaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 423916,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Galaxy Premium Serisi Ms100 Masa Üstü Çalar Saat Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730439265263,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639188183,
+      "__unknown_productSubTitle": "Galaxy Premium Serisi Ms100 Masa Üstü Çalar Saat Beyaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

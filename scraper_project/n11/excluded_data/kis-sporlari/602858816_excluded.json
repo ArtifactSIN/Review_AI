@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 802821,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motosiklet Bisiklet Balaklava Termal Polar Kayak,Sporcu Kar Maskesi Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770812353438,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602858816,
+      "__unknown_productSubTitle": "Motosiklet Bisiklet Balaklava Termal Polar Kayak,Sporcu Kar Maskesi Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802822,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Motosiklet Bisiklet Balaklava Termal Polar Kayak,Sporcu Kar Maskesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1698953913312,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 567885612,
+      "__unknown_productSubTitle": "Motosiklet Bisiklet Balaklava Termal Polar Kayak,Sporcu Kar Maskesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

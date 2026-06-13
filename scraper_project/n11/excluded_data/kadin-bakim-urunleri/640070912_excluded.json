@@ -1,0 +1,80 @@
+[
+  {
+    "gid_ref": 761490,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "More For You Tek Kullanımlık Ahşap Ağda Spatulası 100'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775191672328,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/03/67/39/76/36/67/00/21/94/44/33165789149115992354.jpg",
+      "__unknown_lastModifiedDate": 1775191672328,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640070912,
+      "__unknown_productSubTitle": "More For You Tek Kullanımlık Ahşap Ağda Spatulası 100'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8567200,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/03/67/39/76/36/67/00/21/94/44/33165789149115992354.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/03/67/39/76/36/67/00/21/94/44/33165789149115992354.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/03/67/39/76/36/67/00/21/94/44/33165789149115992354.jpg"
+    }
+  },
+  {
+    "gid_ref": 761491,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "More For You Tek Kullanımlık Ahşap Ağda Spatulası 100'lü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728454070650,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/09/63/97/88/02/25/10/84/56/91/8144031410318982653.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 334027314,
+      "__unknown_productSubTitle": "More For You Tek Kullanımlık Ahşap Ağda Spatulası 100'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5871041,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/09/63/97/88/02/25/10/84/56/91/8144031410318982653.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/09/63/97/88/02/25/10/84/56/91/8144031410318982653.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/09/63/97/88/02/25/10/84/56/91/8144031410318982653.jpg"
+    }
+  },
+  {
+    "gid_ref": 761492,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ÜRÜN YANLIŞ GELDİ",
+      "productTitle": "More For You Tek Kullanımlık Ahşap Ağda Spatulası 100'lü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1570298357363,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 334027314,
+      "__unknown_productSubTitle": "More For You Tek Kullanımlık Ahşap Ağda Spatulası 100'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

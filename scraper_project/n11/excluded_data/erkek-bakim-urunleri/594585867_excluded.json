@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 520110,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arko Men Cool Köpük 2 x 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1701275729571,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/11/29/64/37/79/69/55/37/76/67/02/22097631557167791651.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 535198266,
+      "__unknown_productSubTitle": "Arko Men Cool Köpük 2 x 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2782361,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/11/29/64/37/79/69/55/37/76/67/02/22097631557167791651.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/11/29/64/37/79/69/55/37/76/67/02/22097631557167791651.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/11/29/64/37/79/69/55/37/76/67/02/22097631557167791651.png"
+    }
+  },
+  {
+    "gid_ref": 520111,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ürünler çok güzel çokta çabuk geldi teşekkürler",
+      "productTitle": "Arko Men Cool Köpük 2 x 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1666709012045,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 535198266,
+      "__unknown_productSubTitle": "Arko Men Cool Köpük 2 x 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

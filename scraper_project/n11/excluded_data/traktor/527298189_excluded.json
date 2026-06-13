@@ -1,0 +1,34 @@
+[
+  {
+    "gid_ref": 1335596,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 148 Yan Arma Kabartmali Takim",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1680084669935,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/03/29/66/17/29/15/02/56/66/84/78/64632602292178145101.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 527298189,
+      "__unknown_productSubTitle": "Massey Ferguson 148 Yan Arma Kabartmali Takim",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1808000,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/03/29/66/17/29/15/02/56/66/84/78/64632602292178145101.png"
+        },
+        {
+          "id": 1808001,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/03/29/60/72/00/59/65/37/38/99/18/5580877592974870462.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/03/29/66/17/29/15/02/56/66/84/78/64632602292178145101.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/03/29/66/17/29/15/02/56/66/84/78/64632602292178145101.png"
+    }
+  }
+]

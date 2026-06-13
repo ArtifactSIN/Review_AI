@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 1250342,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sealux 8 Lt Hidrofor Otomatik 12V Tekne Tekne Karavan",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763057464957,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 413147912,
+      "__unknown_productSubTitle": "Sealux 8 Lt Hidrofor Otomatik 12V Tekne Tekne Karavan",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1250343,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sealux 8 Lt Hidrofor Otomatik 12V Tekne Tekne Karavan",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1722938489015,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/06/48/03/04/53/93/40/71/14/17/96460682907717093627.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 413147912,
+      "__unknown_productSubTitle": "Sealux 8 Lt Hidrofor Otomatik 12V Tekne Tekne Karavan",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5356853,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/06/48/03/04/53/93/40/71/14/17/96460682907717093627.png"
+        },
+        {
+          "id": 5356855,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/06/82/86/09/69/94/13/74/08/01/36130172822894628450.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/06/48/03/04/53/93/40/71/14/17/96460682907717093627.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/06/48/03/04/53/93/40/71/14/17/96460682907717093627.png"
+    }
+  }
+]

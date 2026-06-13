@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 189353,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İpek Maxi 60'lı 18 Paket Bebek Temizleme Pamuğu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739896584286,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/18/83/42/38/03/75/31/35/16/33/02082602291531003511.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 568046796,
+      "__unknown_productSubTitle": "İpek Maxi 60'lı 18 Paket Bebek Temizleme Pamuğu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6858689,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/18/83/42/38/03/75/31/35/16/33/02082602291531003511.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/18/83/42/38/03/75/31/35/16/33/02082602291531003511.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/18/83/42/38/03/75/31/35/16/33/02082602291531003511.png"
+    }
+  },
+  {
+    "gid_ref": 189354,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İpek Maxi 60'lı 18 Paket Bebek Temizleme Pamuğu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730225266697,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 568046796,
+      "__unknown_productSubTitle": "İpek Maxi 60'lı 18 Paket Bebek Temizleme Pamuğu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

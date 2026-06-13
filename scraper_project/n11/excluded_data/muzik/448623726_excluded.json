@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 944640,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Halit Arapoğlu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753465292759,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 448623726,
+      "__unknown_productSubTitle": "Halit Arapoğlu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 944641,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Halit Arapoğlu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732482408628,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 448623726,
+      "__unknown_productSubTitle": "Halit Arapoğlu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 944642,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Halit Arapoğlu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1680081908537,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 448623726,
+      "__unknown_productSubTitle": "Halit Arapoğlu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

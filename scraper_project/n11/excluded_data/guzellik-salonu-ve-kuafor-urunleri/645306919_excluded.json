@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 754038,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zuu Bags Kuaför Berber Deri Malzeme Çantası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744040754889,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645306919,
+      "__unknown_productSubTitle": "Zuu Bags Kuaför Berber Deri Malzeme Çantası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 754039,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zuu Bags Kuaför Berber Deri Malzeme Çantası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742416907990,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/19/57/90/45/31/77/24/56/19/78/41130153269735700243.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645306919,
+      "__unknown_productSubTitle": "Zuu Bags Kuaför Berber Deri Malzeme Çantası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6992021,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/19/57/90/45/31/77/24/56/19/78/41130153269735700243.jpg"
+        },
+        {
+          "id": 6992022,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/19/67/85/11/41/41/80/92/69/14/12665838623838548914.jpg"
+        },
+        {
+          "id": 6992023,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/19/59/88/39/54/31/54/97/36/78/9552885618138266082.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/19/57/90/45/31/77/24/56/19/78/41130153269735700243.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/19/57/90/45/31/77/24/56/19/78/41130153269735700243.jpg"
+    }
+  }
+]

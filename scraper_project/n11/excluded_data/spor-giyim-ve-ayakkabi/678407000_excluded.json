@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 1160974,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gsstore Galatasaray Icardi 99 Artwork T-shirt E241989 Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775147414943,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/02/60/28/85/66/48/81/05/78/54/65886271480321913055.jpg",
+      "__unknown_lastModifiedDate": 1775147414943,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650604384,
+      "__unknown_productSubTitle": "Gsstore Galatasaray Icardi 99 Artwork T-shirt E241989 Beyaz M",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8562726,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/60/28/85/66/48/81/05/78/54/65886271480321913055.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/02/60/28/85/66/48/81/05/78/54/65886271480321913055.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/02/60/28/85/66/48/81/05/78/54/65886271480321913055.jpg"
+    }
+  },
+  {
+    "gid_ref": 1160975,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gsstore Galatasaray Icardi 99 Artwork T-shirt E241989 Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773687724905,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/16/74/66/73/05/14/34/35/40/05/92219704065861923744.png",
+      "__unknown_lastModifiedDate": 1773687724905,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650604384,
+      "__unknown_productSubTitle": "Gsstore Galatasaray Icardi 99 Artwork T-shirt E241989 Beyaz M",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8477013,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/16/74/66/73/05/14/34/35/40/05/92219704065861923744.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/16/74/66/73/05/14/34/35/40/05/92219704065861923744.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/16/74/66/73/05/14/34/35/40/05/92219704065861923744.png"
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 1206756,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nespresso Espresso Volluto Kahve 10 Kapsül",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773921090499,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/19/64/26/77/93/48/01/41/29/53/12407907345459201933.png",
+      "__unknown_lastModifiedDate": 1773921090499,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 694694589,
+      "__unknown_productSubTitle": "Nespresso Espresso Volluto Kahve 10 Kapsül",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8485956,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/19/64/26/77/93/48/01/41/29/53/12407907345459201933.png"
+        },
+        {
+          "id": 8485957,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/19/77/15/54/92/54/14/47/61/93/38881525118022664381.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/19/64/26/77/93/48/01/41/29/53/12407907345459201933.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/19/64/26/77/93/48/01/41/29/53/12407907345459201933.png"
+    }
+  },
+  {
+    "gid_ref": 1206757,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nespresso Espresso Volluto Kahve 10 Kapsül",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764421694522,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/29/70/43/56/35/64/24/45/49/74/38483691985551208483.jpg",
+      "__unknown_lastModifiedDate": 1764421791016,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 694694589,
+      "__unknown_productSubTitle": "Nespresso Espresso Volluto Kahve 10 Kapsül",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8043546,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/29/70/43/56/35/64/24/45/49/74/38483691985551208483.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/29/70/43/56/35/64/24/45/49/74/38483691985551208483.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/29/70/43/56/35/64/24/45/49/74/38483691985551208483.jpg"
+    }
+  }
+]

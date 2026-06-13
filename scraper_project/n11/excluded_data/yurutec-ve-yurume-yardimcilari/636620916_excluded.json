@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1495756,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prego Baby Prego 5082 Dıgo Bebek Yürüteçi Pry-5082 Pembe PRY-5082_Pembe",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766477481955,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 699587044,
+      "__unknown_productSubTitle": "Prego Baby Prego 5082 Dıgo Bebek Yürüteçi Pry-5082 Pembe PRY-5082_Pembe Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1495757,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prego Baby Prego 5082 Dıgo Bebek Yürüteçi Pry-5082 Pembe PRY-5082_Pembe",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765304012791,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637817729,
+      "__unknown_productSubTitle": "Prego Baby Prego 5082 Dıgo Bebek Yürüteçi Pry-5082 Pembe PRY-5082_Pembe Pembe",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

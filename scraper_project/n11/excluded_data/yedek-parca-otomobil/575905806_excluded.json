@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1453262,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "BMW M50 M52 M54 ENJEKTÖR TAMİR KİT",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752847107907,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575905806,
+      "__unknown_productSubTitle": "BMW M50 M52 M54 ENJEKTÖR TAMİR KİT",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1453263,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "BMW M50 M52 M54 ENJEKTÖR TAMİR KİT",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1701711770312,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575905806,
+      "__unknown_productSubTitle": "BMW M50 M52 M54 ENJEKTÖR TAMİR KİT",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

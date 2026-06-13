@@ -1,0 +1,135 @@
+[
+  {
+    "gid_ref": 1003475,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zara Man Silver EDT 100 ML + Man Gold EDT 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774902221910,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774902221910,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589146192,
+      "__unknown_productSubTitle": "Zara Man Silver EDT 100 ML + Man Gold EDT 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1003476,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zara Man Silver EDT 100 ML + Man Gold EDT 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771945781458,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/24/56/13/34/96/88/88/06/50/57/92699469091795154209.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589146192,
+      "__unknown_productSubTitle": "Zara Man Silver EDT 100 ML + Man Gold EDT 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8408470,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/24/56/13/34/96/88/88/06/50/57/92699469091795154209.jpg"
+        },
+        {
+          "id": 8408471,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/24/86/72/34/97/42/62/65/21/00/66141439236992944206.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/24/56/13/34/96/88/88/06/50/57/92699469091795154209.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/24/56/13/34/96/88/88/06/50/57/92699469091795154209.jpg"
+    }
+  },
+  {
+    "gid_ref": 1003477,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zara Man Silver EDT 100 ML + Man Gold EDT 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764820712418,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589146192,
+      "__unknown_productSubTitle": "Zara Man Silver EDT 100 ML + Man Gold EDT 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1003478,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zara Man Silver EDT 100 ML + Man Gold EDT 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760379256041,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589146192,
+      "__unknown_productSubTitle": "Zara Man Silver EDT 100 ML + Man Gold EDT 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1003479,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zara Man Silver EDT 100 ML + Man Gold EDT 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730194353978,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589146192,
+      "__unknown_productSubTitle": "Zara Man Silver EDT 100 ML + Man Gold EDT 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1003480,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zara Man Silver EDT 100 ML + Man Gold EDT 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1687790978927,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 573710992,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

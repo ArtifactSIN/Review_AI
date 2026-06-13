@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 952183,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cee Kapaklı Dış 220 Volt Elektrik Girişi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765298566579,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 504148851,
+      "__unknown_productSubTitle": "Cee Kapaklı Dış 220 Volt Elektrik Girişi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 952184,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Uygun fiyat kaliteli ürün",
+      "productTitle": "Cee Kapaklı Dış 220 Volt Elektrik Girişi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1640204250229,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 504148851,
+      "__unknown_productSubTitle": "Cee Kapaklı Dış 220 Volt Elektrik Girişi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

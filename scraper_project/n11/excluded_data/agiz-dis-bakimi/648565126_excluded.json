@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 25270,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kureyşi Misvak Vakumlu Büyük Boy Misvak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1718564082929,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 487323051,
+      "__unknown_productSubTitle": "Kureyşi Misvak Vakumlu Büyük Boy Misvak Açık Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 25271,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kureyşi Misvak Vakumlu Büyük Boy Misvak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697321193603,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 487323051,
+      "__unknown_productSubTitle": "Kureyşi Misvak Vakumlu Büyük Boy Misvak Açık Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 25272,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kureyşi Misvak Vakumlu Büyük Boy Misvak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1687470277710,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 487323051,
+      "__unknown_productSubTitle": "Kureyşi Misvak Vakumlu Büyük Boy Misvak Açık Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 25273,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Alaa",
+      "productTitle": "Kureyşi Misvak Vakumlu Büyük Boy Misvak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1653246366798,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 535619714,
+      "__unknown_productSubTitle": "Misvak Vakumlu Büyük Boy",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

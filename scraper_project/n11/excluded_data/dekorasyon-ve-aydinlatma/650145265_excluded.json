@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 419515,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jolly Beyaz Renk Salon - Mutfak - Hol Beyaz Led 2 Li Avize Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763760304343,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/22/85/06/54/69/86/87/45/97/28/36362732789384889103.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650145265,
+      "__unknown_productSubTitle": "Jolly Beyaz Renk Salon - Mutfak - Hol Beyaz Led 2 Li Avize Beyaz ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8001313,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/22/85/06/54/69/86/87/45/97/28/36362732789384889103.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/22/85/06/54/69/86/87/45/97/28/36362732789384889103.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/22/85/06/54/69/86/87/45/97/28/36362732789384889103.png"
+    }
+  },
+  {
+    "gid_ref": 419516,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jolly Beyaz Renk Salon - Mutfak - Hol Beyaz Led 2 Li Avize Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763484753355,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/18/46/73/50/91/78/28/96/75/70/64472880573397814012.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650145265,
+      "__unknown_productSubTitle": "Jolly Beyaz Renk Salon - Mutfak - Hol Beyaz Led 2 Li Avize Beyaz ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7987619,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/18/46/73/50/91/78/28/96/75/70/64472880573397814012.png"
+        },
+        {
+          "id": 7987620,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/18/59/36/93/60/25/02/37/12/40/86056456685816953150.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/18/46/73/50/91/78/28/96/75/70/64472880573397814012.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/18/46/73/50/91/78/28/96/75/70/64472880573397814012.png"
+    }
+  }
+]

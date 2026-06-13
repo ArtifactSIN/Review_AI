@@ -1,0 +1,115 @@
+[
+  {
+    "gid_ref": 130912,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Harley Davidson Riddick Erkek Bot Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770562341713,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 618803851,
+      "__unknown_productSubTitle": "Harley Davidson Riddick Erkek Bot Siyah 43",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 130913,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Harley Davidson Riddick Erkek Bot Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768927893759,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 618803851,
+      "__unknown_productSubTitle": "Harley Davidson Riddick Erkek Bot Siyah 43",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 130914,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Harley Davidson Riddick Erkek Bot Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768736144952,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/18/50/35/43/70/91/51/76/07/91/93918615854243233647.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 618803851,
+      "__unknown_productSubTitle": "Harley Davidson Riddick Erkek Bot Siyah 43",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8260841,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/18/50/35/43/70/91/51/76/07/91/93918615854243233647.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/18/50/35/43/70/91/51/76/07/91/93918615854243233647.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/18/50/35/43/70/91/51/76/07/91/93918615854243233647.png"
+    }
+  },
+  {
+    "gid_ref": 130915,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Harley Davidson Riddick Erkek Bot Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732831938909,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1742469897250,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 618803826,
+      "__unknown_productSubTitle": "Harley Davidson Riddick Erkek Bot Siyah 41",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 130916,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Harley Davidson Riddick Erkek Bot Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1703497584825,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1742469895499,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 509997412,
+      "__unknown_productSubTitle": "Harley Davidson Riddick Erkek Bot Siyah 40",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

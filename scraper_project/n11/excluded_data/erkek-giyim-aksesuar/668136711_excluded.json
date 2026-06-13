@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 574692,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Uyguntarz Antrasit Eşofman Takımı Gri1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775469309246,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775469309246,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668136709,
+      "__unknown_productSubTitle": "Uyguntarz Antrasit Eşofman Takımı Gri1 XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 574693,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Uyguntarz Antrasit Eşofman Takımı Gri1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763820839855,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668136711,
+      "__unknown_productSubTitle": "Uyguntarz Antrasit Eşofman Takımı Gri1 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 574694,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Uyguntarz Antrasit Eşofman Takımı Gri1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763762968214,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668136711,
+      "__unknown_productSubTitle": "Uyguntarz Antrasit Eşofman Takımı Gri1 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 574695,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Uyguntarz Antrasit Eşofman Takımı Gri1",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763242148717,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/16/70/14/43/66/40/66/20/41/65/87084005926503401335.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 668136711,
+      "__unknown_productSubTitle": "Uyguntarz Antrasit Eşofman Takımı Gri1 L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7979759,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/16/70/14/43/66/40/66/20/41/65/87084005926503401335.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/16/70/14/43/66/40/66/20/41/65/87084005926503401335.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/16/70/14/43/66/40/66/20/41/65/87084005926503401335.png"
+    }
+  }
+]

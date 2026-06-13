@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 1220098,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kırlangıç Ayçiçek Yağı Teneke 18 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743340121835,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597984792,
+      "__unknown_productSubTitle": "Kırlangıç Ayçiçek Yağı Teneke 18 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1220099,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kırlangıç Ayçiçek Yağı Teneke 18 L",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1689965838542,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578380953,
+      "__unknown_productSubTitle": "Kırlangıç Ayçiçek Yağı Teneke 18 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1220100,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kırlangıç Ayçiçek Yağı Teneke 18 L",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1687361442154,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578380953,
+      "__unknown_productSubTitle": "Kırlangıç Ayçiçek Yağı Teneke 18 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1220101,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Hızlı zamanında teslim",
+      "productTitle": "Kırlangıç Ayçiçek Yağı Teneke 18 L",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1625672302649,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 497480638,
+      "__unknown_productSubTitle": "Kırlangıç Ayçiçek Yağı Teneke 18 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

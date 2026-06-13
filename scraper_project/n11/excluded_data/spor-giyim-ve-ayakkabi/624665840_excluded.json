@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 1159786,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Ent22 Polo Erkek Futbol Polo Tişört Hc5067 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767131992535,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 624665840,
+      "__unknown_productSubTitle": "Adidas Ent22 Polo Erkek Futbol Polo Tişört HC5067 Beyaz L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1159787,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Ent22 Polo Erkek Futbol Polo Tişört Hc5067 Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1749013504637,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 624665834,
+      "__unknown_productSubTitle": "Adidas Ent22 Polo Erkek Futbol Polo Tişört HC5067 Beyaz 2XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1159788,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Ent22 Polo Erkek Futbol Polo Tişört Hc5067 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737807175651,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/25/57/70/15/13/23/27/76/19/57/56600942311383124640.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 624665840,
+      "__unknown_productSubTitle": "Adidas Ent22 Polo Erkek Futbol Polo Tişört HC5067 Beyaz L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6749070,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/25/57/70/15/13/23/27/76/19/57/56600942311383124640.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/25/57/70/15/13/23/27/76/19/57/56600942311383124640.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/25/57/70/15/13/23/27/76/19/57/56600942311383124640.png"
+    }
+  },
+  {
+    "gid_ref": 1159789,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Ent22 Polo Erkek Futbol Polo Tişört Hc5067 Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1711887060389,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578377627,
+      "__unknown_productSubTitle": "Adidas Ent22 Polo Erkek Futbol Polo Tişört Hc5067 Beyaz XS",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1159790,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Ent22 Polo Erkek Futbol Polo Tişört Hc5067 Beyaz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1711886999837,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578377627,
+      "__unknown_productSubTitle": "Adidas Ent22 Polo Erkek Futbol Polo Tişört Hc5067 Beyaz XS",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 179844,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Chicco Trolley Me Bebek Arabası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731275311714,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606495449,
+      "__unknown_productSubTitle": "Chicco Trolley Me Bebek Arabası Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 179845,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Tam istediğim gibi",
+      "productTitle": "Chicco Trolley Me Bebek Arabası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1641381100925,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 523295344,
+      "__unknown_productSubTitle": "Bu Ürün \"Civil\" Güvencesi Altındadır.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

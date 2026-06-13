@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 292856,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Horoz 120' lik Plastik Fan",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739343130499,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 606340595,
+      "__unknown_productSubTitle": "Horoz 120' lik Plastik Fan",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 292857,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Horoz 120' lik Plastik Fan",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1700661468255,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 561465125,
+      "__unknown_productSubTitle": "Horoz 120' lik Plastik Fan",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

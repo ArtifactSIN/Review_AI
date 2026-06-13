@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 310505,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips Avent Scf798-02 Pipetli Alıştırma Bardağı +12 Ay 300 ML Pembe",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1746128811862,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/01/68/84/97/69/86/32/68/16/76/17246881724469297316.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638259877,
+      "__unknown_productSubTitle": "Philips Avent Scf798-02 Pipetli Alıştırma Bardağı +12 Ay 300 ML Pembe",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7164229,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/01/68/84/97/69/86/32/68/16/76/17246881724469297316.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/01/68/84/97/69/86/32/68/16/76/17246881724469297316.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/01/68/84/97/69/86/32/68/16/76/17246881724469297316.png"
+    }
+  },
+  {
+    "gid_ref": 310506,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips Avent Scf798-02 Pipetli Alıştırma Bardağı +12 Ay 300 ML Pembe",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1677746743155,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 482423240,
+      "__unknown_productSubTitle": "Adınıza Faturalı, Memnuniyet Garantili",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

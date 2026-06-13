@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 753560,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Omeniv Paslanmaz Çelik Küt Uçlu Sakal Bıyık - Kulak Burun Bakım Makası Krom",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1705759263188,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/01/20/53/30/75/18/45/50/00/54/17/87622476753005752889.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587412361,
+      "__unknown_productSubTitle": "Omeniv Paslanmaz Çelik Küt Uçlu Sakal Bıyık - Kulak Burun Bakım Makası Krom",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3234223,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/01/20/53/30/75/18/45/50/00/54/17/87622476753005752889.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/01/20/53/30/75/18/45/50/00/54/17/87622476753005752889.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/01/20/53/30/75/18/45/50/00/54/17/87622476753005752889.png"
+    }
+  },
+  {
+    "gid_ref": 753561,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Omeniv Paslanmaz Çelik Küt Uçlu Sakal Bıyık - Kulak Burun Bakım Makası Krom",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1703513958582,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552229549,
+      "__unknown_productSubTitle": "Omeniv Paslanmaz Çelik Küt Uçlu Sakal Bıyık - Kulak Burun Bakım Makası Krom",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 1213852,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beyar Vita Kabak Çekirdeği Yağı 1 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770986107845,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589679053,
+      "__unknown_productSubTitle": "Beyar Vita Kabak Çekirdeği Yağı 1 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1213853,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beyar Vita Kabak Çekirdeği Yağı 1 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760031322214,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589679053,
+      "__unknown_productSubTitle": "Beyar Vita Kabak Çekirdeği Yağı 1 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1213854,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beyar Vita Kabak Çekirdeği Yağı 1 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726677144012,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/18/68/96/86/22/72/12/22/50/94/93914581070218019952.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589679053,
+      "__unknown_productSubTitle": "Beyar Vita Kabak Çekirdeği Yağı 1 KG",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5697058,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/18/68/96/86/22/72/12/22/50/94/93914581070218019952.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/18/68/96/86/22/72/12/22/50/94/93914581070218019952.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/18/68/96/86/22/72/12/22/50/94/93914581070218019952.jpg"
+    }
+  },
+  {
+    "gid_ref": 1213855,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beyar Vita Kabak Çekirdeği Yağı 1 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714558761858,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589679053,
+      "__unknown_productSubTitle": "Beyar Vita Kabak Çekirdeği Yağı 1 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1213856,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beyar Vita Kabak Çekirdeği Yağı 1 KG",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710960706791,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589679053,
+      "__unknown_productSubTitle": "Beyar Vita Kabak Çekirdeği Yağı 1 KG",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

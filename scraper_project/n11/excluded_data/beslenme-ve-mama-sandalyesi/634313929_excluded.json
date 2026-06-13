@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 272857,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aptamil 2 Bebek Maması 900 G 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743792809457,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634313929,
+      "__unknown_productSubTitle": "Aptamil 2 Bebek Maması 900 G 2 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 272858,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aptamil 2 Bebek Maması 900 G 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734632283457,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/19/50/84/89/71/20/62/37/40/77/6466518888213464971.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634313929,
+      "__unknown_productSubTitle": "Aptamil 2 Bebek Maması 900 G 2 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6527221,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/19/50/84/89/71/20/62/37/40/77/6466518888213464971.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/19/50/84/89/71/20/62/37/40/77/6466518888213464971.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/19/50/84/89/71/20/62/37/40/77/6466518888213464971.jpg"
+    }
+  },
+  {
+    "gid_ref": 272859,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aptamil 2 Bebek Maması 900 G 2 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729418515839,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/20/65/13/93/31/39/65/68/30/23/88656823427098394076.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634313929,
+      "__unknown_productSubTitle": "Aptamil 2 Bebek Maması 900 G 2 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5982207,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/20/70/93/40/44/46/84/67/98/82/66359424563715881111.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/20/65/13/93/31/39/65/68/30/23/88656823427098394076.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/20/65/13/93/31/39/65/68/30/23/88656823427098394076.png"
+    }
+  }
+]

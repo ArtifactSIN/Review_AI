@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 162073,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Newarc 150589SP Arıtma Su Girişli Spiralli Evye Bataryası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753895939179,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666552396,
+      "__unknown_productSubTitle": "Newarc 150589SP Arıtma Su Girişli Spiralli Evye Bataryası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 162074,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Newarc 150589SP Arıtma Su Girişli Spiralli Evye Bataryası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1736759813730,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/13/62/12/51/91/87/17/32/22/33/67856733341328127317.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646272525,
+      "__unknown_productSubTitle": "Newarc 150589SP Arıtma Su Girişli Spiralli Evye Bataryası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6695252,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/13/62/12/51/91/87/17/32/22/33/67856733341328127317.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/13/62/12/51/91/87/17/32/22/33/67856733341328127317.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/13/62/12/51/91/87/17/32/22/33/67856733341328127317.png"
+    }
+  }
+]

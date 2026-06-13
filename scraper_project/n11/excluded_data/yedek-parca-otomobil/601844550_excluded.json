@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 1462019,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dacia Duster Kapı Fitili - 4 Kapı - Takım",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775748403465,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/09/51/01/64/33/08/12/07/55/76/82799113024591253261.png",
+      "__unknown_lastModifiedDate": 1775748403465,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601844550,
+      "__unknown_productSubTitle": "Dacia Duster Kapı Fitili - 4 Kapı - Takım ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8584081,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/09/51/01/64/33/08/12/07/55/76/82799113024591253261.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/09/51/01/64/33/08/12/07/55/76/82799113024591253261.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/09/51/01/64/33/08/12/07/55/76/82799113024591253261.png"
+    }
+  },
+  {
+    "gid_ref": 1462020,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dacia Duster Kapı Fitili - 4 Kapı - Takım",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771530308405,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601844550,
+      "__unknown_productSubTitle": "Dacia Duster Kapı Fitili - 4 Kapı - Takım ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1462021,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dacia Duster Kapı Fitili - 4 Kapı - Takım",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760382411580,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601844550,
+      "__unknown_productSubTitle": "Dacia Duster Kapı Fitili - 4 Kapı - Takım ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

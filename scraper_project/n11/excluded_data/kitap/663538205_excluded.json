@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 815334,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tonguç Akademi 7. Sınıf 1. Dönem Yazılı Notları - 1. Dönem Yazılı Denemeleri Set - Süper İkili 2 Kitap",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767898009485,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/08/70/32/16/95/97/51/61/42/47/1758663952862102373.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663538205,
+      "__unknown_productSubTitle": "Tonguç Akademi 7. Sınıf 1. Dönem Yazılı Notları - 1. Dönem Yazılı Denemeleri Set - Süper İkili 2 Kitap",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8229023,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/08/70/32/16/95/97/51/61/42/47/1758663952862102373.png"
+        },
+        {
+          "id": 8229025,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/08/78/74/50/51/38/45/89/05/42/47510751173100653926.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/08/70/32/16/95/97/51/61/42/47/1758663952862102373.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/08/70/32/16/95/97/51/61/42/47/1758663952862102373.png"
+    }
+  },
+  {
+    "gid_ref": 815335,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tonguç Akademi 7. Sınıf 1. Dönem Yazılı Notları - 1. Dönem Yazılı Denemeleri Set - Süper İkili 2 Kitap",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759243662677,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/30/70/17/10/80/62/64/86/54/70/21778790661367746426.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 663538205,
+      "__unknown_productSubTitle": "Tonguç Akademi 7. Sınıf 1. Dönem Yazılı Notları - 1. Dönem Yazılı Denemeleri Set - Süper İkili 2 Kitap",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7737230,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/30/70/17/10/80/62/64/86/54/70/21778790661367746426.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/30/70/17/10/80/62/64/86/54/70/21778790661367746426.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/30/70/17/10/80/62/64/86/54/70/21778790661367746426.jpg"
+    }
+  }
+]

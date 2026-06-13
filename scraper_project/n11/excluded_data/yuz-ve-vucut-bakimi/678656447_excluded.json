@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 1516184,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kendinden Yapışkanlı Nasır Bandı 15'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736715825129,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/13/83/20/24/16/51/57/11/76/63/5580216897306148855.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648200709,
+      "__unknown_productSubTitle": "Kendinden Yapışkanlı Nasır Bandı 15'li",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6688276,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/13/83/20/24/16/51/57/11/76/63/5580216897306148855.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/13/83/20/24/16/51/57/11/76/63/5580216897306148855.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/13/83/20/24/16/51/57/11/76/63/5580216897306148855.png"
+    }
+  }
+]

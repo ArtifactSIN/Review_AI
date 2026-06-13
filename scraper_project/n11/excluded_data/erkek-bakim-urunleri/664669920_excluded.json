@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 529021,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "usturaa",
+      "productTitle": "Paslanmaz Çelik Ustura",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1607112141723,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 386076496,
+      "__unknown_productSubTitle": "Paslanmaz Çelik Ustura",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

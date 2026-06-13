@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 1234432,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Homm Clean Homm Bitkisel Türkiye Bitkisel Leke Çıkarıcı 750 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734120385845,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643960294,
+      "__unknown_productSubTitle": "Homm Clean Homm Bitkisel Türkiye Bitkisel Leke Çıkarıcı 750 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1234433,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Homm Clean Homm Bitkisel Türkiye Bitkisel Leke Çıkarıcı 750 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733814677780,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 610301840,
+      "__unknown_productSubTitle": "Homm Clean Homm Bitkisel Türkiye Bitkisel Leke Çıkarıcı 750 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1234434,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Homm Clean Homm Bitkisel Türkiye Bitkisel Leke Çıkarıcı 750 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1730970682395,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/07/50/17/62/37/30/85/69/12/46/13991328706096153748.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591933854,
+      "__unknown_productSubTitle": "Homm Clean Homm Bitkisel Türkiye Bitkisel Leke Çıkarıcı 750 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6157750,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/07/50/17/62/37/30/85/69/12/46/13991328706096153748.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/07/50/17/62/37/30/85/69/12/46/13991328706096153748.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/07/50/17/62/37/30/85/69/12/46/13991328706096153748.png"
+    }
+  },
+  {
+    "gid_ref": 1234435,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Homm Clean Homm Bitkisel Türkiye Bitkisel Leke Çıkarıcı 750 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728479479132,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629635357,
+      "__unknown_productSubTitle": "Homm Clean Homm Bitkisel Türkiye Bitkisel Leke Çıkarıcı 750 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

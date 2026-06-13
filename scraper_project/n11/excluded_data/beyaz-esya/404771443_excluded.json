@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 281306,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Paket Denge Kabı Pompalı Hesaplı Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775207789578,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775207789578,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 404771443,
+      "__unknown_productSubTitle": "Paket Denge Kabı Pompalı Hesaplı Set",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 281307,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Paket Denge Kabı Pompalı Hesaplı Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770699314972,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 404771443,
+      "__unknown_productSubTitle": "Paket Denge Kabı Pompalı Hesaplı Set",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 281308,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Paket Denge Kabı Pompalı Hesaplı Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1718911023219,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/20/63/56/51/12/08/26/08/29/78/66897054684877637122.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 404771443,
+      "__unknown_productSubTitle": "Paket Denge Kabı Pompalı Hesaplı Set",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5012804,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/20/63/56/51/12/08/26/08/29/78/66897054684877637122.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/20/63/56/51/12/08/26/08/29/78/66897054684877637122.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/20/63/56/51/12/08/26/08/29/78/66897054684877637122.png"
+    }
+  }
+]

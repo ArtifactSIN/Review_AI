@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 301166,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bosch WGK242ZXTR 9 KG 1200 Devir Çamaşır Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766819384223,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/27/61/13/41/94/79/26/11/93/11/13399985951087574654.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 686500282,
+      "__unknown_productSubTitle": "Bosch WGK242ZXTR 9 KG 1200 Devir Çamaşır Makinesi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8171846,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/27/61/13/41/94/79/26/11/93/11/13399985951087574654.jpg"
+        },
+        {
+          "id": 8171847,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/27/57/82/38/47/55/26/61/19/99/87369979781386843414.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/27/61/13/41/94/79/26/11/93/11/13399985951087574654.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/27/61/13/41/94/79/26/11/93/11/13399985951087574654.jpg"
+    }
+  },
+  {
+    "gid_ref": 301167,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bosch WGK242ZXTR 9 KG 1200 Devir Çamaşır Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766062547245,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717254412,
+      "__unknown_productSubTitle": "Bosch WGK242ZXTR 9 KG 1200 Devir Çamaşır Makinesi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 301168,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bosch WGK242ZXTR 9 KG 1200 Devir Çamaşır Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753456053574,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682616052,
+      "__unknown_productSubTitle": "Bosch WGK242ZXTR 9 KG 1200 Devir Çamaşır Makinesi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 295541,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung MS23DG4504AGTR 23 LT Mikrodalga Fırın",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1751123235114,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/28/57/42/20/82/22/53/99/93/04/38929527225986598100.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 674659501,
+      "__unknown_productSubTitle": "Samsung MS23DG4504AGTR 23 LT Mikrodalga Fırın",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7386424,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/28/57/42/20/82/22/53/99/93/04/38929527225986598100.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/28/57/42/20/82/22/53/99/93/04/38929527225986598100.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/28/57/42/20/82/22/53/99/93/04/38929527225986598100.png"
+    }
+  },
+  {
+    "gid_ref": 295542,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung MS23DG4504AGTR 23 LT Mikrodalga Fırın",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1748870608521,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 674659501,
+      "__unknown_productSubTitle": "Samsung MS23DG4504AGTR 23 LT Mikrodalga Fırın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 295543,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung MS23DG4504AGTR 23 LT Mikrodalga Fırın",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1742378841360,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659473093,
+      "__unknown_productSubTitle": "Samsung MS23DG4504AGTR 23 LT Mikrodalga Fırın",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

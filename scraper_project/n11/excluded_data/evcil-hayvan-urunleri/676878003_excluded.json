@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 716122,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Petkit N60 Koku Giderici Purobot / Max Pro / Ultra Uyumlu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763753370588,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 676878003,
+      "__unknown_productSubTitle": "Petkit N60 Koku Giderici Purobot / Max Pro / Ultra Uyumlu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 716123,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Petkit N60 Koku Giderici Purobot / Max Pro / Ultra Uyumlu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762874027348,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 676878003,
+      "__unknown_productSubTitle": "Petkit N60 Koku Giderici Purobot / Max Pro / Ultra Uyumlu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 716124,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Petkit N60 Koku Giderici Purobot / Max Pro / Ultra Uyumlu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757077091278,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/05/67/19/50/35/70/00/30/37/97/5369351893738304794.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 676878003,
+      "__unknown_productSubTitle": "Petkit N60 Koku Giderici Purobot / Max Pro / Ultra Uyumlu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7658708,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/05/67/19/50/35/70/00/30/37/97/5369351893738304794.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/05/67/19/50/35/70/00/30/37/97/5369351893738304794.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/05/67/19/50/35/70/00/30/37/97/5369351893738304794.jpg"
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 888710,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arka Amortisör Takım - Volta Vsm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774078573466,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774078573466,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 660707961,
+      "__unknown_productSubTitle": "Arka Amortisör Takım - Volta Vsm ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 888711,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arka Amortisör Takım - Volta Vsm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1751442612020,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/02/74/91/78/45/14/09/25/23/39/89193967955173329938.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601765615,
+      "__unknown_productSubTitle": "Arka Amortisör Takım - Volta Vsm ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7398288,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/02/74/91/78/45/14/09/25/23/39/89193967955173329938.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/02/74/91/78/45/14/09/25/23/39/89193967955173329938.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/02/74/91/78/45/14/09/25/23/39/89193967955173329938.jpg"
+    }
+  },
+  {
+    "gid_ref": 888712,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arka Amortisör Takım - Volta Vsm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744439362426,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601765615,
+      "__unknown_productSubTitle": "Arka Amortisör Takım - Volta Vsm ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 888713,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arka Amortisör Takım - Volta Vsm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731689506675,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601765615,
+      "__unknown_productSubTitle": "Arka Amortisör Takım - Volta Vsm ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 888714,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arka Amortisör Takım - Volta Vsm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1714411458414,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601765615,
+      "__unknown_productSubTitle": "Arka Amortisör Takım - Volta Vsm ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

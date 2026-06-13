@@ -1,0 +1,101 @@
+[
+  {
+    "gid_ref": 1134401,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Health Horlama Önleyici Solunum Burun Dilatörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775636446563,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775636446563,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718472436,
+      "__unknown_productSubTitle": "Health Horlama Önleyici Solunum Burun Dilatörü ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1134402,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Health Horlama Önleyici Solunum Burun Dilatörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771688268882,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/21/54/51/97/70/29/95/34/42/59/23184126085917000082.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718472436,
+      "__unknown_productSubTitle": "Health Horlama Önleyici Solunum Burun Dilatörü ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8395372,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/21/54/51/97/70/29/95/34/42/59/23184126085917000082.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/21/54/51/97/70/29/95/34/42/59/23184126085917000082.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/21/54/51/97/70/29/95/34/42/59/23184126085917000082.png"
+    }
+  },
+  {
+    "gid_ref": 1134403,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Health Horlama Önleyici Solunum Burun Dilatörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770456419018,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718472436,
+      "__unknown_productSubTitle": "Health Horlama Önleyici Solunum Burun Dilatörü ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1134404,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Health Horlama Önleyici Solunum Burun Dilatörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764684528869,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/02/70/60/09/88/09/22/95/78/38/07551846709787800239.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718472436,
+      "__unknown_productSubTitle": "Health Horlama Önleyici Solunum Burun Dilatörü ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8054447,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/02/70/60/09/88/09/22/95/78/38/07551846709787800239.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/02/70/60/09/88/09/22/95/78/38/07551846709787800239.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/02/70/60/09/88/09/22/95/78/38/07551846709787800239.jpg"
+    }
+  }
+]

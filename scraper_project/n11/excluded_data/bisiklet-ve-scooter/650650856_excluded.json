@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 383951,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Hidrolik Disk Fren Kaliperi Slx Br-m7120 4 Piston",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1751730390527,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/05/62/92/33/64/64/53/51/30/40/25260153375481705316.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 571408772,
+      "__unknown_productSubTitle": "Shimano Hidrolik Disk Fren Kaliperi Slx Br-m7120 4 Piston",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7416451,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/05/62/92/33/64/64/53/51/30/40/25260153375481705316.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/05/62/92/33/64/64/53/51/30/40/25260153375481705316.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/05/62/92/33/64/64/53/51/30/40/25260153375481705316.png"
+    }
+  },
+  {
+    "gid_ref": 383952,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Hidrolik Disk Fren Kaliperi Slx Br-m7120 4 Piston",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743750344430,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650650856,
+      "__unknown_productSubTitle": "Shimano Hidrolik Disk Fren Kaliperi Slx Br-m7120 4 Piston",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

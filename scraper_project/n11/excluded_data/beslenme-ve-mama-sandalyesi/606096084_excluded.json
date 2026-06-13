@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 272322,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Balık Yağı Şurubu 200 Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745928429018,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643167422,
+      "__unknown_productSubTitle": "Balık Yağı Şurubu 200 Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 272323,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Balık Yağı Şurubu 200 Ml",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1695833450330,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 568122400,
+      "__unknown_productSubTitle": "Balık Yağı Şurubu 200 Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

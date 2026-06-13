@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 735229,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "For Love Or Money - Aşk Mı Para Mı? Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741938274258,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 83405471,
+      "__unknown_productSubTitle": "For Love Or Money - Aşk Mı Para Mı? Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735230,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "For Love Or Money - Aşk Mı Para Mı? Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734097617161,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/13/74/59/42/56/24/42/30/71/51/37830584676975526783.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 83405471,
+      "__unknown_productSubTitle": "For Love Or Money - Aşk Mı Para Mı? Blu-Ray",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6484160,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/13/74/59/42/56/24/42/30/71/51/37830584676975526783.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/13/74/59/42/56/24/42/30/71/51/37830584676975526783.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/13/74/59/42/56/24/42/30/71/51/37830584676975526783.jpg"
+    }
+  },
+  {
+    "gid_ref": 735231,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "For Love Or Money - Aşk Mı Para Mı? Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727190096503,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 83405471,
+      "__unknown_productSubTitle": "For Love Or Money - Aşk Mı Para Mı? Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735232,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "🤩 süper",
+      "productTitle": "For Love Or Money - Aşk Mı Para Mı? Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1629294800607,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 187991741,
+      "__unknown_productSubTitle": "For Love Or Money - Aşk Mı Para Mı? Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

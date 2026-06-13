@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 265606,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İsimli Emzik Zinciri - Emzik Askısı - Bebek Bez038 Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732544874878,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/25/51/25/88/04/73/94/54/47/71/65407713609621090694.jpg",
+      "__unknown_lastModifiedDate": 1750656665614,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 294258631,
+      "__unknown_productSubTitle": "İsimli Emzik Zinciri - Emzik Askısı - Bebek Bez038 Mavi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6325007,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/25/51/25/88/04/73/94/54/47/71/65407713609621090694.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/25/51/25/88/04/73/94/54/47/71/65407713609621090694.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/25/51/25/88/04/73/94/54/47/71/65407713609621090694.jpg"
+    }
+  },
+  {
+    "gid_ref": 265607,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İsimli Emzik Zinciri - Emzik Askısı - Bebek Bez038 Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711535188821,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750656665614,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 294258631,
+      "__unknown_productSubTitle": "İsimli Emzik Zinciri - Emzik Askısı - Bebek Bez038 Mavi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 265608,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İsimli Emzik Zinciri - Emzik Askısı - Bebek Bez038 Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1577962973194,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750656665614,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 294258631,
+      "__unknown_productSubTitle": "İsimli Emzik Zinciri - Emzik Askısı - Bebek Bez038 Mavi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

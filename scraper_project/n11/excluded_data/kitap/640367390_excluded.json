@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 814157,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tazof Oyuncu Beyinler Jr. Seviye 1-2 2 Kitap Bir Arada",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770330224599,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649714950,
+      "__unknown_productSubTitle": "Tazof Oyuncu Beyinler Jr. Seviye 1-2 2 Kitap Bir Arada",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 814158,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tazof Oyuncu Beyinler Jr. Seviye 1-2 2 Kitap Bir Arada",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758260085069,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640367390,
+      "__unknown_productSubTitle": "Tazof Oyuncu Beyinler Jr. Seviye 1-2 2 Kitap Bir Arada",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 814159,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tazof Oyuncu Beyinler Jr. Seviye 1-2 2 Kitap Bir Arada",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745323622385,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/22/50/74/68/06/13/33/09/91/45/66188690243328100617.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640367390,
+      "__unknown_productSubTitle": "Tazof Oyuncu Beyinler Jr. Seviye 1-2 2 Kitap Bir Arada",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7128662,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/22/50/74/68/06/13/33/09/91/45/66188690243328100617.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/22/50/74/68/06/13/33/09/91/45/66188690243328100617.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/22/50/74/68/06/13/33/09/91/45/66188690243328100617.png"
+    }
+  },
+  {
+    "gid_ref": 814160,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tazof Oyuncu Beyinler Jr. Seviye 1-2 2 Kitap Bir Arada",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730297931663,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640074526,
+      "__unknown_productSubTitle": "Tazof Oyuncu Beyinler Jr. Seviye 1-2 2 Kitap Bir Arada",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1005424,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Caldion Classic Erkek Parfüm EDT 3 x 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738001373824,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595147321,
+      "__unknown_productSubTitle": "Caldion Classic Erkek Parfüm EDT 3 x 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1005425,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Caldion Classic Erkek Parfüm EDT 3 x 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729147189932,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595147321,
+      "__unknown_productSubTitle": "Caldion Classic Erkek Parfüm EDT 3 x 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

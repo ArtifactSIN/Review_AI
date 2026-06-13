@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 735568,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blu Ray-Kutup Ayıları 3D",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738588142182,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 136861058,
+      "__unknown_productSubTitle": "Blu Ray-Kutup Ayıları 3D",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735569,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blu Ray-Kutup Ayıları 3D",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731230248333,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557731847,
+      "__unknown_productSubTitle": "Blu Ray-Kutup Ayıları 3D",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735570,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blu Ray-Kutup Ayıları 3D",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729510494829,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557731847,
+      "__unknown_productSubTitle": "Blu Ray-Kutup Ayıları 3D",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735571,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blu Ray-Kutup Ayıları 3D",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715187132294,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/08/58/50/30/31/15/22/92/58/40/67889797701003032589.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557731847,
+      "__unknown_productSubTitle": "Blu Ray-Kutup Ayıları 3D",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4624975,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/08/58/50/30/31/15/22/92/58/40/67889797701003032589.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/08/58/50/30/31/15/22/92/58/40/67889797701003032589.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/08/58/50/30/31/15/22/92/58/40/67889797701003032589.png"
+    }
+  }
+]

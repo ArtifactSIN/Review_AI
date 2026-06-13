@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 124209,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kendo Bacaktan Bağlamalı Kutulu Spin  Çantası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1682643409041,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575353313,
+      "__unknown_productSubTitle": "Stoktan Hızlı ve Güvenli Satış!",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 124210,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "kullanışlı, içinden kutu çıkıyor",
+      "productTitle": "Kendo Bacaktan Bağlamalı Spin  Çantası",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1651134668804,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 536146766,
+      "__unknown_productSubTitle": "Kendo Bacaktan Bağlamalı Spin  Çantası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

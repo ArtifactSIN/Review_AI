@@ -1,0 +1,118 @@
+[
+  {
+    "gid_ref": 811345,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Matematik Adası Hikaye Seti / 10 Kitap",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763237135908,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640202430,
+      "__unknown_productSubTitle": "Matematik Adası Hikaye Seti / 10 Kitap",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811346,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Matematik Adası Hikaye Seti / 10 Kitap",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1761058858567,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/21/91/14/10/25/92/96/17/27/08/04082039748933629329.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640202430,
+      "__unknown_productSubTitle": "Matematik Adası Hikaye Seti / 10 Kitap",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7822647,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/21/91/14/10/25/92/96/17/27/08/04082039748933629329.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/21/91/14/10/25/92/96/17/27/08/04082039748933629329.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/21/91/14/10/25/92/96/17/27/08/04082039748933629329.png"
+    }
+  },
+  {
+    "gid_ref": 811347,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Matematik Adası Hikaye Seti / 10 Kitap",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759761602948,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595731501,
+      "__unknown_productSubTitle": "Matematik Adası Hikaye Seti / 10 Kitap",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811348,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Matematik Adası Hikaye Seti / 10 Kitap",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734896275906,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595731501,
+      "__unknown_productSubTitle": "Matematik Adası Hikaye Seti / 10 Kitap",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811349,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Matematik Adası Hikaye Seti / 10 Kitap",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732910445489,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/29/80/85/94/83/98/67/00/73/38/95096321186016608630.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595731501,
+      "__unknown_productSubTitle": "Matematik Adası Hikaye Seti / 10 Kitap",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6366192,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/29/80/85/94/83/98/67/00/73/38/95096321186016608630.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/29/80/85/94/83/98/67/00/73/38/95096321186016608630.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/29/80/85/94/83/98/67/00/73/38/95096321186016608630.jpg"
+    }
+  }
+]

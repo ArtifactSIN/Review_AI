@@ -1,0 +1,132 @@
+[
+  {
+    "gid_ref": 886499,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Orbus 12n9-bs Motosiklet Aküsü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773489294473,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773489294473,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667482140,
+      "__unknown_productSubTitle": "Orbus 12n9-bs Motosiklet Aküsü ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 886500,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Orbus 12n9-bs Motosiklet Aküsü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769205754031,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724398228,
+      "__unknown_productSubTitle": "Orbus 12n9-bs Motosiklet Aküsü ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 886501,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Orbus 12n9-bs Motosiklet Aküsü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756965532138,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667482140,
+      "__unknown_productSubTitle": "Orbus 12n9-bs Motosiklet Aküsü ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 886502,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Orbus 12n9-bs Motosiklet Aküsü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1752238854907,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/11/62/37/22/98/23/92/18/62/92/1930076244999122992.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 667482140,
+      "__unknown_productSubTitle": "Orbus 12n9-bs Motosiklet Aküsü ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7434970,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/11/62/37/22/98/23/92/18/62/92/1930076244999122992.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/11/62/37/22/98/23/92/18/62/92/1930076244999122992.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/11/62/37/22/98/23/92/18/62/92/1930076244999122992.jpg"
+    }
+  },
+  {
+    "gid_ref": 886503,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Orbus 12n9-bs Motosiklet Aküsü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742849047557,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587888732,
+      "__unknown_productSubTitle": "Orbus 12n9-bs Motosiklet Aküsü ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 886504,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Orbus 12n9-bs Motosiklet Aküsü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719922790074,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589719252,
+      "__unknown_productSubTitle": "Orbus 12n9-bs Motosiklet Aküsü ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

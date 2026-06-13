@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 496646,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mycey Göğüs Pedi 40'lı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733751503000,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 556737794,
+      "__unknown_productSubTitle": "Mycey Göğüs Pedi 40'lı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 496647,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mycey Göğüs Pedi 40'lı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728054751462,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 564282574,
+      "__unknown_productSubTitle": "Mycey Göğüs Pedi 40'lı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 496648,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mycey Göğüs Pedi 40'lı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727855691366,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 564282574,
+      "__unknown_productSubTitle": "Mycey Göğüs Pedi 40'lı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

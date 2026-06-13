@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1022781,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fa Sport Erkek Roll-On Deodorant 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768891138841,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647697362,
+      "__unknown_productSubTitle": "Fa Sport Erkek Roll-On Deodorant 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1022782,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fa Sport Erkek Roll-On Deodorant 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757067327121,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647697362,
+      "__unknown_productSubTitle": "Fa Sport Erkek Roll-On Deodorant 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1022783,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fa Sport Erkek Roll-On Deodorant 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755799048854,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/21/77/84/85/77/47/51/57/17/28/13639552143107967742.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647697362,
+      "__unknown_productSubTitle": "Fa Sport Erkek Roll-On Deodorant 50 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7592659,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/21/77/84/85/77/47/51/57/17/28/13639552143107967742.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/21/77/84/85/77/47/51/57/17/28/13639552143107967742.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/21/77/84/85/77/47/51/57/17/28/13639552143107967742.jpg"
+    }
+  }
+]

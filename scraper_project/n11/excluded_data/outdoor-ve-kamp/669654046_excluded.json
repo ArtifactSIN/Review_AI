@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 963435,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The North Face Hedgehog Futurelight Erkek Ayakkabı Siyah/Gri Siyah - Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766411867845,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 669654006,
+      "__unknown_productSubTitle": "The North Face Hedgehog Futurelight Erkek Ayakkabı Siyah/Gri Siyah - Gri 45",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 963436,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The North Face Hedgehog Futurelight Erkek Ayakkabı Siyah/Gri Siyah - Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725363368283,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/03/69/33/51/98/21/24/87/36/60/48430449113512427555.png",
+      "__unknown_lastModifiedDate": 1750439578927,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 623563705,
+      "__unknown_productSubTitle": "The North Face Hedgehog Futurelight Erkek Ayakkabı Siyah/Gri Siyah - Gri 44",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5567309,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/03/69/33/51/98/21/24/87/36/60/48430449113512427555.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/03/69/33/51/98/21/24/87/36/60/48430449113512427555.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/03/69/33/51/98/21/24/87/36/60/48430449113512427555.png"
+    }
+  }
+]

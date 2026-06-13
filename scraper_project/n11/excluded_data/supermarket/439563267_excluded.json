@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1180014,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kombuscoby Kombucha Başlangıç  Kültürü 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774449887160,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774449887160,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 439563267,
+      "__unknown_productSubTitle": "Kombuscoby Kombucha Başlangıç  Kültürü 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1180015,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kombuscoby Kombucha Başlangıç  Kültürü 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1713627195716,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/20/74/99/22/96/48/43/11/34/96/62584669157438307613.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 439563267,
+      "__unknown_productSubTitle": "Kombuscoby Kombucha Başlangıç  Kültürü 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4470704,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/20/74/99/22/96/48/43/11/34/96/62584669157438307613.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/20/74/99/22/96/48/43/11/34/96/62584669157438307613.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/20/74/99/22/96/48/43/11/34/96/62584669157438307613.png"
+    }
+  },
+  {
+    "gid_ref": 1180016,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kombuscoby Kombucha Başlangıç  Kültürü 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1635504274747,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 439563267,
+      "__unknown_productSubTitle": "Kombuscoby Kombucha Başlangıç  Kültürü 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

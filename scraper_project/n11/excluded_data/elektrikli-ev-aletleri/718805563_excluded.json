@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 479865,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "KitchenAid Classic 5K45SSEOB Only Black 275 W Stand Mikser",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773429481891,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/13/89/18/00/32/48/77/12/15/68/14769770501706987631.jpg",
+      "__unknown_lastModifiedDate": 1773429481891,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718805563,
+      "__unknown_productSubTitle": "KitchenAid Classic 5K45SSEOB Only Black 275 W Stand Mikser Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8462443,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/13/89/18/00/32/48/77/12/15/68/14769770501706987631.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/13/89/18/00/32/48/77/12/15/68/14769770501706987631.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/13/89/18/00/32/48/77/12/15/68/14769770501706987631.jpg"
+    }
+  },
+  {
+    "gid_ref": 479866,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "KitchenAid Classic 5K45SSEOB Only Black 275 W Stand Mikser",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770203648373,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718805563,
+      "__unknown_productSubTitle": "KitchenAid Classic 5K45SSEOB Only Black 275 W Stand Mikser Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 479867,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "KitchenAid Classic 5K45SSEOB Only Black 275 W Stand Mikser",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1700823293658,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575034072,
+      "__unknown_productSubTitle": "KitchenAid Classic 5K45SSEOB Only Black 275 W Stand Mikser Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

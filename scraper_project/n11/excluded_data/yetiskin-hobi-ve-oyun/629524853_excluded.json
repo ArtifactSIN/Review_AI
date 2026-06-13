@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 1492793,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Solo Game Moodunu Göster, Moodun Ne, Modun Hangisi, Hangi Moodsun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757334984260,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629524853,
+      "__unknown_productSubTitle": "Solo Game Moodunu Göster, Moodun Ne, Modun Hangisi, Hangi Moodsun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492794,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Solo Game Moodunu Göster, Moodun Ne, Modun Hangisi, Hangi Moodsun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747142570472,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/13/82/29/90/73/56/47/27/12/16/53262743687909585953.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629524853,
+      "__unknown_productSubTitle": "Solo Game Moodunu Göster, Moodun Ne, Modun Hangisi, Hangi Moodsun",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7219609,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/13/82/29/90/73/56/47/27/12/16/53262743687909585953.jpg"
+        },
+        {
+          "id": 7219611,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/13/75/82/31/67/79/68/42/04/26/53397549244770241753.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/13/82/29/90/73/56/47/27/12/16/53262743687909585953.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/13/82/29/90/73/56/47/27/12/16/53262743687909585953.jpg"
+    }
+  },
+  {
+    "gid_ref": 1492795,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Solo Game Moodunu Göster, Moodun Ne, Modun Hangisi, Hangi Moodsun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738247113350,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629524853,
+      "__unknown_productSubTitle": "Solo Game Moodunu Göster, Moodun Ne, Modun Hangisi, Hangi Moodsun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

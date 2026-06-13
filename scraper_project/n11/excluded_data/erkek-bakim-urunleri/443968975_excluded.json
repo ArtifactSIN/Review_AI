@@ -1,0 +1,131 @@
+[
+  {
+    "gid_ref": 506100,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun 5000. 6000 Elek 31B",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708005006165,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 443968975,
+      "__unknown_productSubTitle": "Braun 5000. 6000 Elek 31B",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 506101,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun 5000. 6000 Elek 31B",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1705684781414,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 443968975,
+      "__unknown_productSubTitle": "Braun 5000. 6000 Elek 31B",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 506102,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun 5000. 6000 Elek 31B",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1704475208909,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 443968975,
+      "__unknown_productSubTitle": "Braun 5000. 6000 Elek 31B",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 506103,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun 5000. 6000 Elek 31B",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1685020756572,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/05/25/87/89/80/99/09/85/77/79/21/83211463983911029865.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 443968975,
+      "__unknown_productSubTitle": "Braun 5000. 6000 Elek 31B",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2035964,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/05/25/87/89/80/99/09/85/77/79/21/83211463983911029865.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/05/25/87/89/80/99/09/85/77/79/21/83211463983911029865.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/05/25/87/89/80/99/09/85/77/79/21/83211463983911029865.jpg"
+    }
+  },
+  {
+    "gid_ref": 506104,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun 5000. 6000 Elek 31B",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1669968740831,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 443968975,
+      "__unknown_productSubTitle": "Braun 5000. 6000 Elek 31B",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 506105,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Braun 6015",
+      "productTitle": "Braun 5000. 6000 Elek 31B",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1660845285141,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 443968975,
+      "__unknown_productSubTitle": "Braun 5000. 6000 Elek 31B",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

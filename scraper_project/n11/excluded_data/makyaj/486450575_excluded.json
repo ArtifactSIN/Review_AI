@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 836381,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Golden Rose Total Cover 2 In 1 Fondöten 05 Cool Sand 30 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1755011260916,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/12/84/07/06/22/69/22/05/43/33/72955659585671969504.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645393497,
+      "__unknown_productSubTitle": "Golden Rose Total Cover 2 In 1 Fondöten 05 Cool Sand 30 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7551410,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/12/84/07/06/22/69/22/05/43/33/72955659585671969504.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/12/84/07/06/22/69/22/05/43/33/72955659585671969504.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/12/84/07/06/22/69/22/05/43/33/72955659585671969504.png"
+    }
+  },
+  {
+    "gid_ref": 836382,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Golden Rose Total Cover 2 In 1 Fondöten 05 Cool Sand 30 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1699741811898,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583829520,
+      "__unknown_productSubTitle": "Golden Rose Total Cover 2 In 1 Fondöten 05 Cool Sand 30 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

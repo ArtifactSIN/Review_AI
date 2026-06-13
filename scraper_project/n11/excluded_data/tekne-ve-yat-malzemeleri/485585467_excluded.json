@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1250742,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Fiyatına Göre Yetersiz Ve Çok Küçük",
+      "productTitle": "Seaflo Karavan Tekne Hidroforu 12 Volt 5.0 Lt-Dak 60 Psi 4.1 Bar",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1639933027708,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 485585467,
+      "__unknown_productSubTitle": "Seaflo Karavan Tekne Hidroforu 12 Volt 5.0 Lt-Dak 60 Psi 4.1 Bar",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1250743,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Seaflo Karavan Tekne Hidroforu 12 Volt 5.0 Lt-Dak 60 Psi 4.1 Bar",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1621763887697,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 485585467,
+      "__unknown_productSubTitle": "Seaflo Karavan Tekne Hidroforu 12 Volt 5.0 Lt-Dak 60 Psi 4.1 Bar",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

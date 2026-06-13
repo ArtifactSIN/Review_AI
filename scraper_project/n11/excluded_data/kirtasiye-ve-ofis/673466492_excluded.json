@@ -1,0 +1,93 @@
+[
+  {
+    "gid_ref": 799900,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Seramik Hamuru Başlangıç Seti, Kil Çamuru, Oyun Hamuru, Seramik Şekillendirme Kalemi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774535327257,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/68/64/26/03/74/44/02/75/90/43305014929818272320.jpg",
+      "__unknown_lastModifiedDate": 1774535327257,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 673466492,
+      "__unknown_productSubTitle": "Seramik Hamuru Başlangıç Seti, Kil Çamuru, Oyun Hamuru, Seramik Şekillendirme Kalemi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8521002,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/68/64/26/03/74/44/02/75/90/43305014929818272320.jpg"
+        },
+        {
+          "id": 8521003,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/52/74/02/62/45/35/68/21/26/44778725146759678067.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/68/64/26/03/74/44/02/75/90/43305014929818272320.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/68/64/26/03/74/44/02/75/90/43305014929818272320.jpg"
+    }
+  },
+  {
+    "gid_ref": 799901,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Seramik Hamuru Başlangıç Seti, Kil Çamuru, Oyun Hamuru, Seramik Şekillendirme Kalemi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774205528589,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/22/69/56/29/06/47/06/05/30/02/32323932105048738871.png",
+      "__unknown_lastModifiedDate": 1774205528589,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 673466492,
+      "__unknown_productSubTitle": "Seramik Hamuru Başlangıç Seti, Kil Çamuru, Oyun Hamuru, Seramik Şekillendirme Kalemi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8489311,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/22/69/56/29/06/47/06/05/30/02/32323932105048738871.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/22/69/56/29/06/47/06/05/30/02/32323932105048738871.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/22/69/56/29/06/47/06/05/30/02/32323932105048738871.png"
+    }
+  },
+  {
+    "gid_ref": 799902,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Seramik Hamuru Başlangıç Seti, Kil Çamuru, Oyun Hamuru, Seramik Şekillendirme Kalemi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773614062495,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/16/71/20/20/66/48/74/80/35/02/91389273466744847343.png",
+      "__unknown_lastModifiedDate": 1773614062495,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 673466492,
+      "__unknown_productSubTitle": "Seramik Hamuru Başlangıç Seti, Kil Çamuru, Oyun Hamuru, Seramik Şekillendirme Kalemi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8476807,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/16/71/20/20/66/48/74/80/35/02/91389273466744847343.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/16/71/20/20/66/48/74/80/35/02/91389273466744847343.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/16/71/20/20/66/48/74/80/35/02/91389273466744847343.png"
+    }
+  }
+]

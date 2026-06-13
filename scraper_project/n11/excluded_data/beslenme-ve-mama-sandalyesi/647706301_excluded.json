@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 273407,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hanymish 730 Emzik Saklama Kabı Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752769739159,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647706301,
+      "__unknown_productSubTitle": "Hanymish 730 Emzik Saklama Kabı Yeşil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 273408,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hanymish 730 Emzik Saklama Kabı Yeşil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752622903163,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647706301,
+      "__unknown_productSubTitle": "Hanymish 730 Emzik Saklama Kabı Yeşil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 273409,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hanymish 730 Emzik Saklama Kabı Yeşil",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1714485078241,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/30/77/27/04/27/01/71/87/61/27/85226874693274285487.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588485663,
+      "__unknown_productSubTitle": "Hanymish 730 Emzik Saklama Kabı Yeşil",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4551494,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/30/77/27/04/27/01/71/87/61/27/85226874693274285487.jpg"
+        },
+        {
+          "id": 4551495,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/30/66/60/05/65/27/29/67/56/46/04326662646425040324.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/30/77/27/04/27/01/71/87/61/27/85226874693274285487.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/30/77/27/04/27/01/71/87/61/27/85226874693274285487.jpg"
+    }
+  }
+]

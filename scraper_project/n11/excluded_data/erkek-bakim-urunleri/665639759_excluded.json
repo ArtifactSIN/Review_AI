@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 529478,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Paris Men Expert Pure Charcoal Yüz Yıkama Jeli 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761651509089,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665639759,
+      "__unknown_productSubTitle": "L'Oréal Paris Men Expert Pure Charcoal Yüz Yıkama Jeli 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 529479,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Paris Men Expert Pure Charcoal Yüz Yıkama Jeli 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1686158192310,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 468606845,
+      "__unknown_productSubTitle": "L'Oréal Paris Men Expert Pure Charcoal Yüz Yıkama Jeli 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 811342,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Olimpiyat Köyü Hikaye Seti - 10 Kitap",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1737376643111,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640793405,
+      "__unknown_productSubTitle": "Olimpiyat Köyü Hikaye Seti - 10 Kitap",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811343,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Olimpiyat Köyü Hikaye Seti - 10 Kitap",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734896313953,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595731318,
+      "__unknown_productSubTitle": "Olimpiyat Köyü Hikaye Seti - 10 Kitap",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 811344,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Olimpiyat Köyü Hikaye Seti - 10 Kitap",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1723782555108,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/16/63/35/28/25/47/55/10/93/46/95768831483640171417.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595731318,
+      "__unknown_productSubTitle": "Olimpiyat Köyü Hikaye Seti - 10 Kitap",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5433452,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/16/63/35/28/25/47/55/10/93/46/95768831483640171417.png"
+        },
+        {
+          "id": 5433453,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/16/68/47/16/75/04/60/51/91/43/87756823397840500146.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/16/63/35/28/25/47/55/10/93/46/95768831483640171417.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/16/63/35/28/25/47/55/10/93/46/95768831483640171417.png"
+    }
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "gid_ref": 628618,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin 4'lü Yüz Havlusu Fancy",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775313790028,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/04/72/56/81/57/14/44/41/16/07/01578923392407850223.png",
+      "__unknown_lastModifiedDate": 1775313790028,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 636779469,
+      "__unknown_productSubTitle": "Pierre Cardin 4'lü Yüz Havlusu Fancy ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8563832,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/04/72/56/81/57/14/44/41/16/07/01578923392407850223.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/04/72/56/81/57/14/44/41/16/07/01578923392407850223.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/04/72/56/81/57/14/44/41/16/07/01578923392407850223.png"
+    }
+  },
+  {
+    "gid_ref": 628619,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin 4'lü Yüz Havlusu Fancy",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770656778814,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 636779469,
+      "__unknown_productSubTitle": "Pierre Cardin 4'lü Yüz Havlusu Fancy ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 628620,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin 4'lü Yüz Havlusu Fancy",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767034212369,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 636779469,
+      "__unknown_productSubTitle": "Pierre Cardin 4'lü Yüz Havlusu Fancy ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 628621,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin 4'lü Yüz Havlusu Fancy",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748615989659,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/30/65/36/42/81/95/57/07/41/61/92668782174047745553.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 636779469,
+      "__unknown_productSubTitle": "Pierre Cardin 4'lü Yüz Havlusu Fancy ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7285704,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/30/65/36/42/81/95/57/07/41/61/92668782174047745553.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/30/65/36/42/81/95/57/07/41/61/92668782174047745553.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/30/65/36/42/81/95/57/07/41/61/92668782174047745553.png"
+    }
+  }
+]

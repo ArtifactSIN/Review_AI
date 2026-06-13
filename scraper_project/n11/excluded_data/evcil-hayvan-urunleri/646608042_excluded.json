@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 706075,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Güvercin Keçe Folluk Keçe 50 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775311558915,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/04/54/25/14/50/24/09/28/20/39/58190312144661268838.png",
+      "__unknown_lastModifiedDate": 1775311558915,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646608042,
+      "__unknown_productSubTitle": "Güvercin Keçe Folluk Keçe 50 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8569613,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/04/54/25/14/50/24/09/28/20/39/58190312144661268838.png"
+        },
+        {
+          "id": 8569614,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/04/88/72/36/94/67/04/12/87/01/68806065739410289526.png"
+        },
+        {
+          "id": 8569615,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/04/48/67/62/82/03/37/36/59/98/87046306631564086409.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/04/54/25/14/50/24/09/28/20/39/58190312144661268838.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/04/54/25/14/50/24/09/28/20/39/58190312144661268838.png"
+    }
+  },
+  {
+    "gid_ref": 706076,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Güvercin Keçe Folluk Keçe 50 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762296460703,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646608042,
+      "__unknown_productSubTitle": "Güvercin Keçe Folluk Keçe 50 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

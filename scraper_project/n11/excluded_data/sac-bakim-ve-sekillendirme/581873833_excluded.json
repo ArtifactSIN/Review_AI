@@ -1,0 +1,115 @@
+[
+  {
+    "gid_ref": 1046060,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Heifer Saç Kurutma Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714500227659,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581873833,
+      "__unknown_productSubTitle": "Heifer Saç Kurutma Makinesi Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1046061,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Heifer Saç Kurutma Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711920354547,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/01/88/95/96/37/77/13/97/77/81/48027561651336398998.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581873833,
+      "__unknown_productSubTitle": "Heifer Saç Kurutma Makinesi Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4308235,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/01/88/95/96/37/77/13/97/77/81/48027561651336398998.png"
+        },
+        {
+          "id": 4308236,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/01/54/39/37/70/77/91/03/27/04/02494280068116794638.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/01/88/95/96/37/77/13/97/77/81/48027561651336398998.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/01/88/95/96/37/77/13/97/77/81/48027561651336398998.png"
+    }
+  },
+  {
+    "gid_ref": 1046062,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Heifer Saç Kurutma Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1705072446949,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581873833,
+      "__unknown_productSubTitle": "Heifer Saç Kurutma Makinesi Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1046063,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Heifer Saç Kurutma Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1699521928791,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581873833,
+      "__unknown_productSubTitle": "Heifer Saç Kurutma Makinesi Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1046064,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Bu mağazadan alınan ürünler iade edilemiyor.",
+      "productTitle": "Heifer Saç Kurutma Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1616237918111,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 436089503,
+      "__unknown_productSubTitle": "Heifer Saç Kurutma Makinesi Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

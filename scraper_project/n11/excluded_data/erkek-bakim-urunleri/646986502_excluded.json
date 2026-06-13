@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 526603,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arko Men T1 Kullan-At Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1711120604681,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/22/82/31/25/73/25/45/56/18/80/56977890190964472430.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599353430,
+      "__unknown_productSubTitle": "Arko Men T1 Kullan-At Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4201561,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/22/82/31/25/73/25/45/56/18/80/56977890190964472430.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/22/82/31/25/73/25/45/56/18/80/56977890190964472430.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/22/82/31/25/73/25/45/56/18/80/56977890190964472430.jpg"
+    }
+  },
+  {
+    "gid_ref": 526604,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün",
+      "productTitle": "Arko Men T1 Kullan-At Tıraş Bıçağı 10'lu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1614076213095,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 410180862,
+      "__unknown_productSubTitle": "Arko Men T1 Kullan-At Tıraş Bıçağı 10'lu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

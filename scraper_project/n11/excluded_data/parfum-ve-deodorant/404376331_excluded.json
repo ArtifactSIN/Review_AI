@@ -1,0 +1,142 @@
+[
+  {
+    "gid_ref": 983763,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beyonce Heat Kadın Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775140984698,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775140984698,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 404376331,
+      "__unknown_productSubTitle": "Beyonce Heat Kadın Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 983764,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beyonce Heat Kadın Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765677142662,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 404376331,
+      "__unknown_productSubTitle": "Beyonce Heat Kadın Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 983765,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beyonce Heat Kadın Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762439541397,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/06/78/75/99/44/38/70/48/11/09/15240158937609580750.png",
+      "__unknown_lastModifiedDate": 1762451893854,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 404376331,
+      "__unknown_productSubTitle": "Beyonce Heat Kadın Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7923130,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/06/78/75/99/44/38/70/48/11/09/15240158937609580750.png"
+        },
+        {
+          "id": 7923131,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/06/77/58/08/49/96/06/52/16/36/26531935119029062727.png"
+        },
+        {
+          "id": 7923132,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/06/53/39/52/80/06/64/22/10/94/12377989818497808816.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/06/78/75/99/44/38/70/48/11/09/15240158937609580750.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/06/78/75/99/44/38/70/48/11/09/15240158937609580750.png"
+    }
+  },
+  {
+    "gid_ref": 983766,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beyonce Heat Kadın Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734774266911,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 553076483,
+      "__unknown_productSubTitle": "Beyonce Heat Refill Ed 100 ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 983767,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "orijinal değil",
+      "productTitle": "Beyonce Heat Kadın Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1654690073134,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1654690792285,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 404376331,
+      "__unknown_productSubTitle": "Beyonce Heat Kadın Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 983768,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Beyonce Heat Kadın Parfüm EDP 100 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1643877985781,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 477582398,
+      "__unknown_productSubTitle": "Beyonce Heat Kadın Parfüm EDP 100 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

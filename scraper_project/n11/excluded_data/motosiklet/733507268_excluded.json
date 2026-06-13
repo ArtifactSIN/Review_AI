@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 903055,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mt Helmets Thunder 4 Gloss Black Kask Şeffaf Vizörlü Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774253145262,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774253145262,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733507266,
+      "__unknown_productSubTitle": "Mt Helmets Thunder 4 Gloss Black Kask Şeffaf Vizörlü Siyah L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 903056,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mt Helmets Thunder 4 Gloss Black Kask Şeffaf Vizörlü Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772235333216,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733507268,
+      "__unknown_productSubTitle": "Mt Helmets Thunder 4 Gloss Black Kask Şeffaf Vizörlü Siyah XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

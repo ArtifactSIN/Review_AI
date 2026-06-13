@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 896442,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Giza Motosiklet Çantası 33 Lt Metalik Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760016984108,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679658745,
+      "__unknown_productSubTitle": "Giza Motosiklet Çantası 33 Lt Metalik Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 896443,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Giza Motosiklet Çantası 33 Lt Metalik Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754565944918,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/07/58/63/85/61/06/72/94/23/22/16179625548499893730.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 679658745,
+      "__unknown_productSubTitle": "Giza Motosiklet Çantası 33 Lt Metalik Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7528862,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/07/58/63/85/61/06/72/94/23/22/16179625548499893730.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/07/58/63/85/61/06/72/94/23/22/16179625548499893730.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/07/58/63/85/61/06/72/94/23/22/16179625548499893730.jpg"
+    }
+  }
+]

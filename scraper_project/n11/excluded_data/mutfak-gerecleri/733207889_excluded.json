@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 941317,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Basmali Damacana Su Pompası Manuel El Pompası - Elektriksiz Beyaz - Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1776100996894,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1776100996894,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 733207889,
+      "__unknown_productSubTitle": "Basmali Damacana Su Pompası Manuel El Pompası - Elektriksiz Beyaz - Mavi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 941318,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Basmali Damacana Su Pompası Manuel El Pompası - Elektriksiz Beyaz - Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766312126758,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718369018,
+      "__unknown_productSubTitle": "Basmali Damacana Su Pompası Manuel El Pompası - Elektriksiz Beyaz - Mavi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 941319,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Basmali Damacana Su Pompası Manuel El Pompası - Elektriksiz Beyaz - Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764770302770,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/03/68/59/89/43/31/87/16/79/03/31404466180950412404.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718369018,
+      "__unknown_productSubTitle": "Basmali Damacana Su Pompası Manuel El Pompası - Elektriksiz Beyaz - Mavi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8067410,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/03/68/59/89/43/31/87/16/79/03/31404466180950412404.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/03/68/59/89/43/31/87/16/79/03/31404466180950412404.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/03/68/59/89/43/31/87/16/79/03/31404466180950412404.png"
+    }
+  },
+  {
+    "gid_ref": 941320,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Basmali Damacana Su Pompası Manuel El Pompası - Elektriksiz Beyaz - Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764096983229,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718369018,
+      "__unknown_productSubTitle": "Basmali Damacana Su Pompası Manuel El Pompası - Elektriksiz Beyaz - Mavi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 941321,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Basmali Damacana Su Pompası Manuel El Pompası - Elektriksiz Beyaz - Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763234376155,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718369018,
+      "__unknown_productSubTitle": "Basmali Damacana Su Pompası Manuel El Pompası - Elektriksiz Beyaz - Mavi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

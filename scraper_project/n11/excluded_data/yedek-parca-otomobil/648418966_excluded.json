@@ -1,0 +1,87 @@
+[
+  {
+    "gid_ref": 1470331,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford Ranger 2007 - 2009 Stop Lambası Takım Sağ - Sol Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768033700496,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/10/68/46/13/87/97/66/32/59/36/62816801115038920922.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648418966,
+      "__unknown_productSubTitle": "Ford Ranger 2007 - 2009 Stop Lambası Takım Sağ - Sol Kırmızı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8230597,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/10/68/46/13/87/97/66/32/59/36/62816801115038920922.png"
+        },
+        {
+          "id": 8230598,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/10/81/18/30/66/58/26/24/75/81/32605567561689811061.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/10/68/46/13/87/97/66/32/59/36/62816801115038920922.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/10/68/46/13/87/97/66/32/59/36/62816801115038920922.png"
+    }
+  },
+  {
+    "gid_ref": 1470332,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford Ranger 2007 - 2009 Stop Lambası Takım Sağ - Sol Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766485396606,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/23/64/88/84/18/16/81/41/36/01/05838241332417444579.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648418966,
+      "__unknown_productSubTitle": "Ford Ranger 2007 - 2009 Stop Lambası Takım Sağ - Sol Kırmızı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8156030,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/23/64/88/84/18/16/81/41/36/01/05838241332417444579.png"
+        },
+        {
+          "id": 8156031,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/23/82/03/01/51/00/53/39/64/63/17153188575826654796.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/23/64/88/84/18/16/81/41/36/01/05838241332417444579.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/23/64/88/84/18/16/81/41/36/01/05838241332417444579.png"
+    }
+  },
+  {
+    "gid_ref": 1470333,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford Ranger 2007 - 2009 Stop Lambası Takım Sağ - Sol Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763380327113,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648418966,
+      "__unknown_productSubTitle": "Ford Ranger 2007 - 2009 Stop Lambası Takım Sağ - Sol Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "gid_ref": 742119,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "West Nutrition Whey Protein Tozu 72 Şase +Hediyeli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774267919851,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774267919851,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 622749008,
+      "__unknown_productSubTitle": "West Nutrition Whey Protein Tozu 72 Şase +Hediyeli Antrenman Havlusu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 742120,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "West Nutrition Whey Protein Tozu 72 Şase +Hediyeli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769767510644,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 622749008,
+      "__unknown_productSubTitle": "West Nutrition Whey Protein Tozu 72 Şase +Hediyeli Antrenman Havlusu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 742121,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "West Nutrition Whey Protein Tozu 72 Şase +Hediyeli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769081408624,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 622749008,
+      "__unknown_productSubTitle": "West Nutrition Whey Protein Tozu 72 Şase +Hediyeli Antrenman Havlusu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 742122,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "West Nutrition Whey Protein Tozu 72 Şase +Hediyeli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1703176045645,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/12/21/54/20/98/46/70/88/85/68/55/73739013198632827714.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 414156216,
+      "__unknown_productSubTitle": "West Nutrition Whey Protein Tozu 72 Şase +Hediyeli Shaker",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2874668,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/21/54/20/98/46/70/88/85/68/55/73739013198632827714.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/12/21/54/20/98/46/70/88/85/68/55/73739013198632827714.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/12/21/54/20/98/46/70/88/85/68/55/73739013198632827714.jpg"
+    }
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "gid_ref": 476848,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dyson Cyclone V10 Absolute Dikey Süpürge",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766521577360,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700748909,
+      "__unknown_productSubTitle": "Dyson Cyclone V10 Absolute Dikey Süpürge Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 476849,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dyson Cyclone V10 Absolute Dikey Süpürge",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763568142659,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 694572933,
+      "__unknown_productSubTitle": "Dyson Cyclone V10 Absolute Dikey Süpürge Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 476850,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dyson Cyclone V10 Absolute Dikey Süpürge",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1751273134184,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/30/77/83/41/86/60/84/38/96/13/33681244352546714479.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661655130,
+      "__unknown_productSubTitle": "Dyson Cyclone V10 Absolute Dikey Süpürge Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7398854,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/30/77/83/41/86/60/84/38/96/13/33681244352546714479.png"
+        },
+        {
+          "id": 7398856,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/30/49/83/96/78/16/46/61/44/05/27801701901586119505.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/30/77/83/41/86/60/84/38/96/13/33681244352546714479.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/30/77/83/41/86/60/84/38/96/13/33681244352546714479.png"
+    }
+  },
+  {
+    "gid_ref": 476851,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dyson Cyclone V10 Absolute Dikey Süpürge",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1749983069750,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599013067,
+      "__unknown_productSubTitle": "Dyson Cyclone V10 Absolute Dikey Süpürge Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 476852,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dyson Cyclone V10 Absolute Dikey Süpürge",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1741289160926,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599965329,
+      "__unknown_productSubTitle": "Dyson Cyclone V10 Absolute Dikey Süpürge Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 476853,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dyson Cyclone V10 Absolute Dikey Süpürge",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726740872611,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599013067,
+      "__unknown_productSubTitle": "Dyson Cyclone V10 Absolute Dikey Süpürge Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 476854,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dyson Cyclone V10 Absolute Dikey Süpürge",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1723486826704,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599013067,
+      "__unknown_productSubTitle": "Dyson Cyclone V10 Absolute Dikey Süpürge Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

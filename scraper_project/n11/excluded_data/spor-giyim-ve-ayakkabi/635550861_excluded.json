@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 1159885,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karma Renk Tritan Matara 500ml 3026 Spindrift Blue",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772851664781,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633994891,
+      "__unknown_productSubTitle": "Karma Renk Tritan Matara 500ml 3026 Spindrift Blue",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1159886,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karma Renk Tritan Matara 500ml 3026 Spindrift Blue",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767685112425,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633994891,
+      "__unknown_productSubTitle": "Karma Renk Tritan Matara 500ml 3026 Spindrift Blue",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1159887,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karma Renk Tritan Matara 500ml 3026 Spindrift Blue",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766439621365,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/23/85/96/51/50/36/16/40/41/38/54461544573677290234.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633994891,
+      "__unknown_productSubTitle": "Karma Renk Tritan Matara 500ml 3026 Spindrift Blue",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8157133,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/23/85/96/51/50/36/16/40/41/38/54461544573677290234.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/23/85/96/51/50/36/16/40/41/38/54461544573677290234.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/23/85/96/51/50/36/16/40/41/38/54461544573677290234.png"
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 735312,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Memnunum",
+      "productTitle": "Atomic Blonde - Sarışın Bomba Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1641301745102,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 231862767,
+      "__unknown_productSubTitle": "Atomic Blonde - Sarışın Bomba Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735313,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Atomic Blonde",
+      "productTitle": "Atomic Blonde - Sarışın Bomba Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1639829246165,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 231862767,
+      "__unknown_productSubTitle": "Atomic Blonde - Sarışın Bomba Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

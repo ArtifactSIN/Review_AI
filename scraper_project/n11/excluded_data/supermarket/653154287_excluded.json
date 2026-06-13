@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 1234628,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Digithome One Click Akıllı Mop Paleti XL 32 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1751092407778,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653154287,
+      "__unknown_productSubTitle": "Digithome One Click Akıllı Mop Paleti XL 32 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1234629,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Digithome One Click Akıllı Mop Paleti XL 32 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745252816625,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653154287,
+      "__unknown_productSubTitle": "Digithome One Click Akıllı Mop Paleti XL 32 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1234630,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Digithome One Click Akıllı Mop Paleti XL 32 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740629236457,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653154287,
+      "__unknown_productSubTitle": "Digithome One Click Akıllı Mop Paleti XL 32 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

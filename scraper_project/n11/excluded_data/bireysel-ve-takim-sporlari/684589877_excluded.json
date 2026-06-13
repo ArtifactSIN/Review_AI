@@ -1,0 +1,86 @@
+[
+  {
+    "gid_ref": 372077,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avessa K50 Kaleci Eldiveni Mavi 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772704146138,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684589877,
+      "__unknown_productSubTitle": "Avessa K50 Kaleci Eldiveni Mavi 001 Mavi 9",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 372078,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avessa K50 Kaleci Eldiveni Mavi 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768781114148,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684589878,
+      "__unknown_productSubTitle": "Avessa K50 Kaleci Eldiveni Mavi 001 Mavi 7",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 372079,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avessa K50 Kaleci Eldiveni Mavi 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767610557677,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684589875,
+      "__unknown_productSubTitle": "Avessa K50 Kaleci Eldiveni Mavi 001 Mavi 5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 372080,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Avessa K50 Kaleci Eldiveni Mavi 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767373394103,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684589879,
+      "__unknown_productSubTitle": "Avessa K50 Kaleci Eldiveni Mavi 001 Mavi 8",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

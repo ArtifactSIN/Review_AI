@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 1009136,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bargello 700 Oriental Erkek Parfüm EDP 2 x 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775842896200,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/10/48/16/77/98/27/65/17/33/74/55436333494940027774.png",
+      "__unknown_lastModifiedDate": 1775842896200,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599471723,
+      "__unknown_productSubTitle": "Bargello 700 Oriental Erkek Parfüm EDP 2 x 50 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8598465,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/48/16/77/98/27/65/17/33/74/55436333494940027774.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/10/48/16/77/98/27/65/17/33/74/55436333494940027774.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/10/48/16/77/98/27/65/17/33/74/55436333494940027774.png"
+    }
+  },
+  {
+    "gid_ref": 1009137,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bargello 700 Oriental Erkek Parfüm EDP 2 x 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775225592976,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775225592976,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599471723,
+      "__unknown_productSubTitle": "Bargello 700 Oriental Erkek Parfüm EDP 2 x 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

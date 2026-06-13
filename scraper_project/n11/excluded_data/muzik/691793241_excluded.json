@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 947270,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustafa Sandal - Suç Bende Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725598324350,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629661847,
+      "__unknown_productSubTitle": "Mustafa Sandal - Suç Bende Plak ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947271,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustafa Sandal - Suç Bende Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725014029546,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/30/50/80/34/01/98/81/39/02/97/54700495107460514363.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 629661847,
+      "__unknown_productSubTitle": "Mustafa Sandal - Suç Bende Plak ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5536845,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/30/50/80/34/01/98/81/39/02/97/54700495107460514363.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/30/50/80/34/01/98/81/39/02/97/54700495107460514363.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/30/50/80/34/01/98/81/39/02/97/54700495107460514363.png"
+    }
+  }
+]

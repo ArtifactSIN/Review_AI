@@ -1,0 +1,160 @@
+[
+  {
+    "gid_ref": 735682,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Parker Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744730847010,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/15/61/69/74/95/52/01/52/27/48/18282643505174657330.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 60113788,
+      "__unknown_productSubTitle": "Parker Blu-Ray",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7105701,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/15/61/69/74/95/52/01/52/27/48/18282643505174657330.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/15/61/69/74/95/52/01/52/27/48/18282643505174657330.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/15/61/69/74/95/52/01/52/27/48/18282643505174657330.png"
+    }
+  },
+  {
+    "gid_ref": 735683,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Parker Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740838509145,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 60113788,
+      "__unknown_productSubTitle": "Parker Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735684,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Parker Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1684349470379,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 60113788,
+      "__unknown_productSubTitle": "Parker Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735685,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Parker Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1682177043733,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 60113788,
+      "__unknown_productSubTitle": "Parker Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735686,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Sıkı Aksiyon",
+      "productTitle": "Parker Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1651329422972,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/04/30/87/08/18/37/95/06/12/00/46/01077390042567062991.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 60113788,
+      "__unknown_productSubTitle": "Parker Blu-Ray",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 598907,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/04/30/87/08/18/37/95/06/12/00/46/01077390042567062991.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/04/30/87/08/18/37/95/06/12/00/46/01077390042567062991.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/04/30/87/08/18/37/95/06/12/00/46/01077390042567062991.jpg"
+    }
+  },
+  {
+    "gid_ref": 735687,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "kaliteli ve hızlı ",
+      "productTitle": "Parker Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1453831471418,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 60113788,
+      "__unknown_productSubTitle": "Parker Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735688,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Parker Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1430595924733,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 60113788,
+      "__unknown_productSubTitle": "Parker Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

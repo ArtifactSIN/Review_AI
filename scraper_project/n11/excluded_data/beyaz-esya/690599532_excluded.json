@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 301405,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig GPWM 91624 1000 Devir 9 KG Çamaşır Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768896039135,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690599532,
+      "__unknown_productSubTitle": "Grundig GPWM 91624 1000 Devir 9 KG Çamaşır Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 301406,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Grundig GPWM 91624 1000 Devir 9 KG Çamaşır Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766255299640,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690599532,
+      "__unknown_productSubTitle": "Grundig GPWM 91624 1000 Devir 9 KG Çamaşır Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

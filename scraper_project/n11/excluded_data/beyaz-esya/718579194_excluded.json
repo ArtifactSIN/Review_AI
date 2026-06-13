@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 302308,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bosch SMS6EKI63T 6 Programlı 13 Kişilik Bulaşık Makinesi Inox",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773651012158,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/16/77/15/94/72/10/26/49/75/90/27252491904032554339.jpg",
+      "__unknown_lastModifiedDate": 1773651012158,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734857689,
+      "__unknown_productSubTitle": "Bosch SMS6EKI63T 6 Programlı 13 Kişilik Bulaşık Makinesi Inox ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8469218,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/16/77/15/94/72/10/26/49/75/90/27252491904032554339.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/16/77/15/94/72/10/26/49/75/90/27252491904032554339.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/16/77/15/94/72/10/26/49/75/90/27252491904032554339.jpg"
+    }
+  },
+  {
+    "gid_ref": 302309,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bosch SMS6EKI63T 6 Programlı 13 Kişilik Bulaşık Makinesi Inox",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766082538097,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682615899,
+      "__unknown_productSubTitle": "Bosch SMS6EKI63T 6 Programlı 13 Kişilik Bulaşık Makinesi Inox ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 302310,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bosch SMS6EKI63T 6 Programlı 13 Kişilik Bulaşık Makinesi Inox",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764450985748,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 685128963,
+      "__unknown_productSubTitle": "Bosch SMS6EKI63T 6 Programlı 13 Kişilik Bulaşık Makinesi Inox ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 302311,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bosch SMS6EKI63T 6 Programlı 13 Kişilik Bulaşık Makinesi Inox",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761236252029,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682615899,
+      "__unknown_productSubTitle": "Bosch SMS6EKI63T 6 Programlı 13 Kişilik Bulaşık Makinesi Inox ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

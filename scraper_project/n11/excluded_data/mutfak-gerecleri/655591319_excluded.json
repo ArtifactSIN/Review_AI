@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 927183,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fissler Vitaquick Edition Düdüklü Tencere 6 Litre",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774534388243,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774534388243,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655591319,
+      "__unknown_productSubTitle": "Fissler Vitaquick Edition Düdüklü Tencere 6 Litre",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 927184,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fissler Vitaquick Edition Düdüklü Tencere 6 Litre",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744980288272,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/18/83/74/41/62/92/95/84/78/70/42989831976094513378.png",
+      "__unknown_lastModifiedDate": 1752100955835,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655591319,
+      "__unknown_productSubTitle": "Fissler Vitaquick Edition Düdüklü Tencere 6 Litre",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7110333,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/18/83/74/41/62/92/95/84/78/70/42989831976094513378.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/18/83/74/41/62/92/95/84/78/70/42989831976094513378.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/18/83/74/41/62/92/95/84/78/70/42989831976094513378.png"
+    }
+  }
+]

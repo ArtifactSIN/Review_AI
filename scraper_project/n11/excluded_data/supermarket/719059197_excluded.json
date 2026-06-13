@@ -1,0 +1,81 @@
+[
+  {
+    "gid_ref": 1239534,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nescafe Classic 600 Gr 2 Adet Çözünebilir",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775583686548,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775583686548,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719059197,
+      "__unknown_productSubTitle": "Nescafe Classic 600 Gr 2 Adet Çözünebilir ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1239535,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nescafe Classic 600 Gr 2 Adet Çözünebilir",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775128882169,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/02/87/23/74/68/87/97/67/71/92/82106350774678997704.png",
+      "__unknown_lastModifiedDate": 1775128882169,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719059197,
+      "__unknown_productSubTitle": "Nescafe Classic 600 Gr 2 Adet Çözünebilir ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8560726,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/87/23/74/68/87/97/67/71/92/82106350774678997704.png"
+        },
+        {
+          "id": 8560727,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/52/22/56/76/68/06/46/11/84/06544927033216120170.png"
+        },
+        {
+          "id": 8560728,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/02/67/54/98/13/31/87/84/72/57/45176249201774477277.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/02/87/23/74/68/87/97/67/71/92/82106350774678997704.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/02/87/23/74/68/87/97/67/71/92/82106350774678997704.png"
+    }
+  },
+  {
+    "gid_ref": 1239536,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nescafe Classic 600 Gr 2 Adet Çözünebilir",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770824930471,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719059197,
+      "__unknown_productSubTitle": "Nescafe Classic 600 Gr 2 Adet Çözünebilir ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

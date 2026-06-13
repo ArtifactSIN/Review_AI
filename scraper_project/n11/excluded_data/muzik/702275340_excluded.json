@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 947328,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jazz For Lovers - Çeşitli Sanatçılar Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771961591611,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 378648190,
+      "__unknown_productSubTitle": "Jazz For Lovers - Çeşitli Sanatçılar Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 947329,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jazz For Lovers - Çeşitli Sanatçılar Plak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1741157131268,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 378648190,
+      "__unknown_productSubTitle": "Jazz For Lovers - Çeşitli Sanatçılar Plak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

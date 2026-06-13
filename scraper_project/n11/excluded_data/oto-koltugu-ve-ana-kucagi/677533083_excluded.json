@@ -1,0 +1,80 @@
+[
+  {
+    "gid_ref": 949546,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanz Orbit I-size Oto Koltuğu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769108722136,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/22/51/77/21/82/03/89/42/39/24/45887001374753638083.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 677533039,
+      "__unknown_productSubTitle": "Kanz Orbit I-size Oto Koltuğu Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8285014,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/22/51/77/21/82/03/89/42/39/24/45887001374753638083.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/22/51/77/21/82/03/89/42/39/24/45887001374753638083.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/22/51/77/21/82/03/89/42/39/24/45887001374753638083.png"
+    }
+  },
+  {
+    "gid_ref": 949547,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanz Orbit I-size Oto Koltuğu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768971923726,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/21/79/81/96/60/77/63/97/65/15/31649495802486502732.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 677530764,
+      "__unknown_productSubTitle": "Kanz Orbit I-size Oto Koltuğu Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8276512,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/21/79/81/96/60/77/63/97/65/15/31649495802486502732.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/21/79/81/96/60/77/63/97/65/15/31649495802486502732.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/21/79/81/96/60/77/63/97/65/15/31649495802486502732.png"
+    }
+  },
+  {
+    "gid_ref": 949548,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kanz Orbit I-size Oto Koltuğu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757573008712,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 677530764,
+      "__unknown_productSubTitle": "Kanz Orbit I-size Oto Koltuğu Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

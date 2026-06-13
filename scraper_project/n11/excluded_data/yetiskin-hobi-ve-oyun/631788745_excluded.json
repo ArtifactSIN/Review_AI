@@ -1,0 +1,154 @@
+[
+  {
+    "gid_ref": 1492796,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mangala- Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757510673686,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/10/69/70/72/56/60/37/94/84/87/85955480105476310825.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631788745,
+      "__unknown_productSubTitle": "Mangala- Kırmızı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7677505,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/10/53/77/98/57/23/04/44/48/52/95931088760834378336.jpg"
+        },
+        {
+          "id": 7677506,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/10/54/22/59/72/21/23/29/80/27/32062644569646514906.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/10/69/70/72/56/60/37/94/84/87/85955480105476310825.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/10/69/70/72/56/60/37/94/84/87/85955480105476310825.jpeg"
+    }
+  },
+  {
+    "gid_ref": 1492797,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mangala- Kırmızı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744909917701,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631788745,
+      "__unknown_productSubTitle": "Mangala- Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492798,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mangala- Kırmızı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1707080092238,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586454634,
+      "__unknown_productSubTitle": "Mangala- Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492799,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mangala- Kırmızı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1704914548905,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586454634,
+      "__unknown_productSubTitle": "Mangala- Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492800,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mangala- Kırmızı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1703665772209,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586454634,
+      "__unknown_productSubTitle": "Mangala- Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492801,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mangala- Kırmızı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1702677555092,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586454634,
+      "__unknown_productSubTitle": "Mangala- Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492802,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mangala- Kırmızı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1700942564378,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 586454634,
+      "__unknown_productSubTitle": "Mangala- Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

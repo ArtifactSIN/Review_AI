@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 836491,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Burt'S Bees Işıltılı Dudak Parlatıcı Caramel",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1722433717231,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 545148101,
+      "__unknown_productSubTitle": "Burt'S Bees Işıltılı Dudak Parlatıcı Caramel",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 836492,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Burt'S Bees Işıltılı Dudak Parlatıcı Caramel",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1712050649894,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 545148101,
+      "__unknown_productSubTitle": "Burt'S Bees Işıltılı Dudak Parlatıcı Caramel",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

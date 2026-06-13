@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 309015,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Caramell 7lı Agız Sılme Mendılı Mö234",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769895833942,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700078834,
+      "__unknown_productSubTitle": "Caramell 7lı Agız Sılme Mendılı Mö234 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 309016,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Caramell 7lı Agız Sılme Mendılı Mö234",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765836160068,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700078834,
+      "__unknown_productSubTitle": "Caramell 7lı Agız Sılme Mendılı Mö234 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 309017,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Caramell 7lı Agız Sılme Mendılı Mö234",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765216834153,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/08/63/48/85/38/50/98/08/99/95/58073844498493687690.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700078834,
+      "__unknown_productSubTitle": "Caramell 7lı Agız Sılme Mendılı Mö234 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8088765,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/08/63/48/85/38/50/98/08/99/95/58073844498493687690.jpg"
+        },
+        {
+          "id": 8088766,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/08/63/69/03/59/90/93/29/35/92/8964477282471464001.jpg"
+        },
+        {
+          "id": 8088767,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/08/60/53/02/64/68/90/11/79/78/24913128953119459849.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/08/63/48/85/38/50/98/08/99/95/58073844498493687690.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/08/63/48/85/38/50/98/08/99/95/58073844498493687690.jpg"
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 496643,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mycey Göğüs Pedi (40 Lı) 160 Adet (4PK*40)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727880218725,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 564282552,
+      "__unknown_productSubTitle": "Mycey Göğüs Pedi (40 Lı) 160 Adet (4PK*40)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 496644,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mycey Göğüs Pedi (40 Lı) 160 Adet (4PK*40)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726229075875,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/13/53/05/94/41/95/23/77/11/71/55025004926402577193.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 564282552,
+      "__unknown_productSubTitle": "Mycey Göğüs Pedi (40 Lı) 160 Adet (4PK*40)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5655076,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/13/53/05/94/41/95/23/77/11/71/55025004926402577193.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/13/53/05/94/41/95/23/77/11/71/55025004926402577193.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/13/53/05/94/41/95/23/77/11/71/55025004926402577193.png"
+    }
+  },
+  {
+    "gid_ref": 496645,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mycey Göğüs Pedi (40 Lı) 160 Adet (4PK*40)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1717133676303,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/31/54/05/92/42/83/58/53/41/93/74275523758728561260.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583639717,
+      "__unknown_productSubTitle": "Mycey Göğüs Pedi (40 Lı) 160 Adet (4PK*40)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4841917,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/31/54/05/92/42/83/58/53/41/93/74275523758728561260.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/31/54/05/92/42/83/58/53/41/93/74275523758728561260.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/31/54/05/92/42/83/58/53/41/93/74275523758728561260.png"
+    }
+  }
+]

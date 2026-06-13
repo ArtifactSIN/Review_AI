@@ -1,0 +1,105 @@
+[
+  {
+    "gid_ref": 960135,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lumberjack Ursa 4pr Erkek Outdoor Ayakkabısı 101782940 Siyah 101782940 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775333516731,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775333516731,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635956584,
+      "__unknown_productSubTitle": "Lumberjack Ursa 4pr Erkek Outdoor Ayakkabısı 101782940 Siyah 101782940 Siyah 41",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 960136,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lumberjack Ursa 4pr Erkek Outdoor Ayakkabısı 101782940 Siyah 101782940 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774019074456,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/20/67/97/70/81/75/66/59/34/89/71199661832116981083.jpg",
+      "__unknown_lastModifiedDate": 1774019074456,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635956584,
+      "__unknown_productSubTitle": "Lumberjack Ursa 4pr Erkek Outdoor Ayakkabısı 101782940 Siyah 101782940 Siyah 41",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8485294,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/20/67/97/70/81/75/66/59/34/89/71199661832116981083.jpg"
+        },
+        {
+          "id": 8485295,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/20/51/90/14/89/80/85/72/33/04/76760684629377988089.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/20/67/97/70/81/75/66/59/34/89/71199661832116981083.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/20/67/97/70/81/75/66/59/34/89/71199661832116981083.jpg"
+    }
+  },
+  {
+    "gid_ref": 960137,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lumberjack Ursa 4pr Erkek Outdoor Ayakkabısı 101782940 Siyah 101782940 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765622364071,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635956579,
+      "__unknown_productSubTitle": "Lumberjack Ursa 4pr Erkek Outdoor Ayakkabısı 101782940 Siyah 101782940 Siyah 43",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 960138,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lumberjack Ursa 4pr Erkek Outdoor Ayakkabısı 101782940 Siyah 101782940 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733933032172,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/11/84/76/50/63/32/73/73/43/91/54503454063009090953.jpeg",
+      "__unknown_lastModifiedDate": 1750432834590,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635956579,
+      "__unknown_productSubTitle": "Lumberjack Ursa 4pr Erkek Outdoor Ayakkabısı 101782940 Siyah 101782940 Siyah 43",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6423573,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/11/84/76/50/63/32/73/73/43/91/54503454063009090953.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/11/84/76/50/63/32/73/73/43/91/54503454063009090953.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/11/84/76/50/63/32/73/73/43/91/54503454063009090953.jpeg"
+    }
+  }
+]

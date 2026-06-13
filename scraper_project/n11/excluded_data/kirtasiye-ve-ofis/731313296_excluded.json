@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 802185,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "A4 Fotokopi Kağıdı 1. Hamur 80 Gr. 50 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772990464871,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772990464871,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 731313296,
+      "__unknown_productSubTitle": "A4 Fotokopi Kağıdı 1. Hamur 80 Gr. 50 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802186,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "A4 Fotokopi Kağıdı 1. Hamur 80 Gr. 50 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772657706393,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 731313296,
+      "__unknown_productSubTitle": "A4 Fotokopi Kağıdı 1. Hamur 80 Gr. 50 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

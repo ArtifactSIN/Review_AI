@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 739658,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DNA Nutrition Big Pmp V2 Pre-Workout  240gr - Tropik Meyve Aromaı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774894543561,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/50/51/26/35/45/89/58/74/26/43375683265924347589.jpg",
+      "__unknown_lastModifiedDate": 1774894543561,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575386090,
+      "__unknown_productSubTitle": "DNA Nutrition Big Pmp V2 Pre-Workout  240gr - Tropik Meyve Aromaı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8532398,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/50/51/26/35/45/89/58/74/26/43375683265924347589.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/50/51/26/35/45/89/58/74/26/43375683265924347589.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/50/51/26/35/45/89/58/74/26/43375683265924347589.jpg"
+    }
+  },
+  {
+    "gid_ref": 739659,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "DNA Nutrition Big Pmp V2 Pre-Workout  240gr - Tropik Meyve Aromaı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765446431023,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 575386090,
+      "__unknown_productSubTitle": "DNA Nutrition Big Pmp V2 Pre-Workout  240gr - Tropik Meyve Aromaı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

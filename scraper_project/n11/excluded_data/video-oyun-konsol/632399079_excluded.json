@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 1339562,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shaun White Snowboarding PS3 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1760891645864,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/19/68/35/03/75/90/68/03/69/03/5938221568892845098.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682022701,
+      "__unknown_productSubTitle": "Shaun White Snowboarding PS3 Oyun",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7824110,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/19/68/35/03/75/90/68/03/69/03/5938221568892845098.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/19/68/35/03/75/90/68/03/69/03/5938221568892845098.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/19/68/35/03/75/90/68/03/69/03/5938221568892845098.png"
+    }
+  }
+]

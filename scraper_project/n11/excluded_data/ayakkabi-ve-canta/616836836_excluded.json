@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 130416,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mekap Sıyah Ayakkabı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774813565666,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774813565666,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 616836834,
+      "__unknown_productSubTitle": "Mekap Sıyah Ayakkabı-42",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 130417,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mekap Sıyah Ayakkabı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711547218568,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 551516006,
+      "__unknown_productSubTitle": "Mekap Sıyah Ayakkabı-40",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

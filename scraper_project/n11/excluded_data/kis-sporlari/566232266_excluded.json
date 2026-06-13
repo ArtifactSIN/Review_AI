@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 802795,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "THERMOFORM HEAVY İÇLİK SET SİYAH HZT1001 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734979699700,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750436288918,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642892157,
+      "__unknown_productSubTitle": "THERMOFORM HEAVY İÇLİK SET SİYAH HZT1001 Siyah XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802796,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "THERMOFORM HEAVY İÇLİK SET SİYAH HZT1001 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731146253280,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/09/54/62/39/25/04/78/18/29/30/013407113642986624.png",
+      "__unknown_lastModifiedDate": 1750436288918,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642892157,
+      "__unknown_productSubTitle": "THERMOFORM HEAVY İÇLİK SET SİYAH HZT1001 Siyah XL",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6175694,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/09/54/62/39/25/04/78/18/29/30/013407113642986624.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/09/54/62/39/25/04/78/18/29/30/013407113642986624.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/09/54/62/39/25/04/78/18/29/30/013407113642986624.png"
+    }
+  }
+]

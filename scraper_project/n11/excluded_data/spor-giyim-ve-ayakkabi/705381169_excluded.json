@@ -1,0 +1,80 @@
+[
+  {
+    "gid_ref": 1161558,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Estro 20 Short Adft6687 Kırmızı Erkek Futbol Şortu 001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1776009609289,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/12/81/44/78/73/57/69/02/47/64/78879953767920651687.jpg",
+      "__unknown_lastModifiedDate": 1776009609289,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705381035,
+      "__unknown_productSubTitle": "Adidas Estro 20 Short Adft6687 Kırmızı Erkek Futbol Şortu 001 Kırmızı L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8600314,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/12/81/44/78/73/57/69/02/47/64/78879953767920651687.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/12/81/44/78/73/57/69/02/47/64/78879953767920651687.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/12/81/44/78/73/57/69/02/47/64/78879953767920651687.jpg"
+    }
+  },
+  {
+    "gid_ref": 1161559,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Estro 20 Short Adft6687 Kırmızı Erkek Futbol Şortu 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768231347198,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647631539,
+      "__unknown_productSubTitle": "Adidas Estro 20 Short Adft6687 Kırmızı Erkek Futbol Şortu 001 Kırmızı M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161560,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Estro 20 Short Adft6687 Kırmızı Erkek Futbol Şortu 001",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764441889415,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/29/63/08/92/65/48/15/92/71/49/05281087927737143167.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705381077,
+      "__unknown_productSubTitle": "Adidas Estro 20 Short Adft6687 Kırmızı Erkek Futbol Şortu 001 Kırmızı XL",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8041542,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/29/63/08/92/65/48/15/92/71/49/05281087927737143167.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/29/63/08/92/65/48/15/92/71/49/05281087927737143167.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/29/63/08/92/65/48/15/92/71/49/05281087927737143167.png"
+    }
+  }
+]

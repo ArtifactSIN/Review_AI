@@ -1,0 +1,125 @@
+[
+  {
+    "gid_ref": 180811,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tommybaby Tornado Travel Sistem Bebek Arabası 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752742470158,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 611750270,
+      "__unknown_productSubTitle": "Tommybaby Tornado Travel Sistem Bebek Arabası 4'lü Kahverengi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 180812,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tommybaby Tornado Travel Sistem Bebek Arabası 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743136625824,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/28/67/40/39/22/48/55/59/39/99/75367778892582112868.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 527882383,
+      "__unknown_productSubTitle": "Tommybaby Tornado Travel Sistem Bebek Arabası 4'lü Antrasit",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7028314,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/28/67/40/39/22/48/55/59/39/99/75367778892582112868.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/28/67/40/39/22/48/55/59/39/99/75367778892582112868.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/28/67/40/39/22/48/55/59/39/99/75367778892582112868.jpg"
+    }
+  },
+  {
+    "gid_ref": 180813,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "çok kötü",
+      "productTitle": "Tommybaby Tornado Travel Sistem Bebek Arabası 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1668347730754,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 527882383,
+      "__unknown_productSubTitle": "Tommybaby Tornado Travel Sistem Bebek Arabası 4'lü Antrasit",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 180814,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "srby",
+      "productTitle": "Tommybaby Tornado Travel Sistem Bebek Arabası 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1661867544506,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/08/30/70/76/20/80/18/60/62/78/16/07135174988274290685.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 527882383,
+      "__unknown_productSubTitle": "Tommybaby Tornado Travel Sistem Bebek Arabası 4'lü Antrasit",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 969838,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/08/30/70/76/20/80/18/60/62/78/16/07135174988274290685.jpeg"
+        },
+        {
+          "id": 969839,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/08/30/64/28/00/92/84/91/16/78/05/92597641516813471618.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/08/30/70/76/20/80/18/60/62/78/16/07135174988274290685.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/08/30/70/76/20/80/18/60/62/78/16/07135174988274290685.jpeg"
+    }
+  },
+  {
+    "gid_ref": 180815,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel",
+      "productTitle": "Tommybaby Tornado Travel Sistem Bebek Arabası 4'lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1648838065062,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 527882383,
+      "__unknown_productSubTitle": "Tommybaby Tornado Travel Sistem Bebek Arabası 4'lü Antrasit",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

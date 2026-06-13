@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 298624,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Regal BT 14022 SK 121 LT Mini Buzdolabı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1759937409328,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/08/83/80/91/85/34/34/34/66/57/82808962503675101970.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600417851,
+      "__unknown_productSubTitle": "Regal BT 14022 SK 121 LT Mini Buzdolabı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7782207,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/08/83/80/91/85/34/34/34/66/57/82808962503675101970.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/08/83/80/91/85/34/34/34/66/57/82808962503675101970.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/08/83/80/91/85/34/34/34/66/57/82808962503675101970.jpeg"
+    }
+  },
+  {
+    "gid_ref": 298625,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Regal BT 14022 SK 121 LT Mini Buzdolabı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1753611485779,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/27/50/59/80/73/43/90/36/86/74/21524669574063043899.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600417851,
+      "__unknown_productSubTitle": "Regal BT 14022 SK 121 LT Mini Buzdolabı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7500251,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/27/50/59/80/73/43/90/36/86/74/21524669574063043899.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/27/50/59/80/73/43/90/36/86/74/21524669574063043899.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/27/50/59/80/73/43/90/36/86/74/21524669574063043899.png"
+    }
+  },
+  {
+    "gid_ref": 298626,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Regal BT 14022 SK 121 LT Mini Buzdolabı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740588004798,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652221238,
+      "__unknown_productSubTitle": "Regal BT 14022 SK 121 LT Mini Buzdolabı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

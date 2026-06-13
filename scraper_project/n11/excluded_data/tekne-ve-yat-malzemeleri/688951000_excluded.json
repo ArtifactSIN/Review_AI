@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 1251792,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Saray Radar Reflektörü Boy32 Cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774507655388,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/58/88/43/30/35/15/58/55/55/0483953962810427131.png",
+      "__unknown_lastModifiedDate": 1774507655388,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688951000,
+      "__unknown_productSubTitle": "Saray Radar Reflektörü Boy32 Cm",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8510003,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/58/88/43/30/35/15/58/55/55/0483953962810427131.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/58/88/43/30/35/15/58/55/55/0483953962810427131.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/58/88/43/30/35/15/58/55/55/0483953962810427131.png"
+    }
+  },
+  {
+    "gid_ref": 1251793,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün anlatıldı gibi",
+      "productTitle": "Saray Radar Reflektörü Boy32 Cm",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1637602142993,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 478172303,
+      "__unknown_productSubTitle": "Saray Radar Reflektörü Boy32 Cm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

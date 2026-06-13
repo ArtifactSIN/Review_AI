@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 254635,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tommybaby Çocuk Güvenlik Kapısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760551532551,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 506208158,
+      "__unknown_productSubTitle": "Tommybaby Çocuk Güvenlik Kapısı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 254636,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tommybaby Çocuk Güvenlik Kapısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756159156042,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 506208158,
+      "__unknown_productSubTitle": "Tommybaby Çocuk Güvenlik Kapısı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 254637,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tommybaby Çocuk Güvenlik Kapısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742662173300,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/22/80/28/38/96/56/04/82/30/19/17546380507877455914.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 506208158,
+      "__unknown_productSubTitle": "Tommybaby Çocuk Güvenlik Kapısı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7002286,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/22/80/28/38/96/56/04/82/30/19/17546380507877455914.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/22/80/28/38/96/56/04/82/30/19/17546380507877455914.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/22/80/28/38/96/56/04/82/30/19/17546380507877455914.png"
+    }
+  },
+  {
+    "gid_ref": 254638,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tommybaby Çocuk Güvenlik Kapısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729342272928,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 506208158,
+      "__unknown_productSubTitle": "Tommybaby Çocuk Güvenlik Kapısı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 254639,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tommybaby Çocuk Güvenlik Kapısı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1693723499810,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 506208158,
+      "__unknown_productSubTitle": "Tommybaby Çocuk Güvenlik Kapısı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

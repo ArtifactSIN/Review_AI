@@ -1,0 +1,106 @@
+[
+  {
+    "gid_ref": 754219,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tarko Hydra 2192 Saç Pensi 4'lü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1717689607062,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/06/76/74/23/54/43/20/36/25/86/02654457391108277828.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566124835,
+      "__unknown_productSubTitle": "Tarko Hydra 2192 Saç Pensi 4'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4890343,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/06/76/74/23/54/43/20/36/25/86/02654457391108277828.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/06/76/74/23/54/43/20/36/25/86/02654457391108277828.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/06/76/74/23/54/43/20/36/25/86/02654457391108277828.jpg"
+    }
+  },
+  {
+    "gid_ref": 754220,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tarko Hydra 2192 Saç Pensi 4'lü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1716750661762,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/26/48/45/82/88/18/94/24/13/98/85147975540919812041.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566124835,
+      "__unknown_productSubTitle": "Tarko Hydra 2192 Saç Pensi 4'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4790236,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/26/48/45/82/88/18/94/24/13/98/85147975540919812041.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/26/48/45/82/88/18/94/24/13/98/85147975540919812041.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/26/48/45/82/88/18/94/24/13/98/85147975540919812041.png"
+    }
+  },
+  {
+    "gid_ref": 754221,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tarko Hydra 2192 Saç Pensi 4'Lü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708518608365,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/21/51/51/80/89/78/97/35/31/58/58805975214645727081.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596594615,
+      "__unknown_productSubTitle": "Tarko Hydra 2192 Saç Pensi 4'lü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3951359,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/21/51/51/80/89/78/97/35/31/58/58805975214645727081.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/21/51/51/80/89/78/97/35/31/58/58805975214645727081.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/21/51/51/80/89/78/97/35/31/58/58805975214645727081.jpg"
+    }
+  },
+  {
+    "gid_ref": 754222,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tarko Hydra 2192 Saç Pensi 4'lü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1706270903721,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566124835,
+      "__unknown_productSubTitle": "Tarko Hydra 2192 Saç Pensi 4'lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

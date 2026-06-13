@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 562062,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tutku Erkek Gri Penye Düz Boxer 4'Lü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775061432171,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/53/67/74/40/60/94/40/09/87/188256031150590805.png",
+      "__unknown_lastModifiedDate": 1775061432171,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 620800628,
+      "__unknown_productSubTitle": "Tutku Erkek Gri Penye Düz Boxer 4'Lü XL Çok Renkli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8562760,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/53/67/74/40/60/94/40/09/87/188256031150590805.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/53/67/74/40/60/94/40/09/87/188256031150590805.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/53/67/74/40/60/94/40/09/87/188256031150590805.png"
+    }
+  },
+  {
+    "gid_ref": 562063,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Erkek Gri Penye Düz Boxer 4'Lü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1694525093503,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 553542844,
+      "__unknown_productSubTitle": "Erkek Gri Penye Düz Boxer 4'Lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 562064,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Erkek Gri Penye Düz Boxer 4'Lü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1694013059609,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 553542844,
+      "__unknown_productSubTitle": "Erkek Gri Penye Düz Boxer 4'Lü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

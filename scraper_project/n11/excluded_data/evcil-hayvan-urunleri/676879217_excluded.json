@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 716126,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Petkit Purobot Ultra Çöp Poşeti 3 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775068937621,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/01/70/19/78/52/08/35/44/14/64/26037815308497274732.jpg",
+      "__unknown_lastModifiedDate": 1775068937621,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 676879217,
+      "__unknown_productSubTitle": "Petkit Purobot Ultra Çöp Poşeti 3 Adet Bej",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8557420,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/01/70/19/78/52/08/35/44/14/64/26037815308497274732.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/01/70/19/78/52/08/35/44/14/64/26037815308497274732.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/01/70/19/78/52/08/35/44/14/64/26037815308497274732.jpg"
+    }
+  },
+  {
+    "gid_ref": 716127,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Petkit Purobot Ultra Çöp Poşeti 3 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769687550256,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 676879217,
+      "__unknown_productSubTitle": "Petkit Purobot Ultra Çöp Poşeti 3 Adet Bej",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 716128,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Petkit Purobot Ultra Çöp Poşeti 3 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767363632744,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 676879217,
+      "__unknown_productSubTitle": "Petkit Purobot Ultra Çöp Poşeti 3 Adet Bej",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

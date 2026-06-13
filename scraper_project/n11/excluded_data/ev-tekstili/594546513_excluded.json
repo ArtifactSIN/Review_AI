@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 613538,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yataş Morby Çift Kişilik Pamuk Yorgan Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1713957534515,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/24/90/95/46/01/19/92/46/41/74/67509814687659899050.jpg",
+      "__unknown_lastModifiedDate": 1752013833712,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594546513,
+      "__unknown_productSubTitle": "Yataş Morby Çift Kişilik Pamuk Yorgan Beyaz ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4495035,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/24/49/89/83/78/51/93/90/21/60/53937614931305021010.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/24/90/95/46/01/19/92/46/41/74/67509814687659899050.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/24/90/95/46/01/19/92/46/41/74/67509814687659899050.jpg"
+    }
+  },
+  {
+    "gid_ref": 613539,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yataş Morby Çift Kişilik Pamuk Yorgan Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1712611693603,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1752013833712,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594546513,
+      "__unknown_productSubTitle": "Yataş Morby Çift Kişilik Pamuk Yorgan Beyaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 613540,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yataş Morby Çift Kişilik Pamuk Yorgan Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1712611592568,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1752013833712,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594546513,
+      "__unknown_productSubTitle": "Yataş Morby Çift Kişilik Pamuk Yorgan Beyaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

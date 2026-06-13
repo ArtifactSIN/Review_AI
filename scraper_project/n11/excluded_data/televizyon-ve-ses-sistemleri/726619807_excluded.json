@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1330224,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LG XBoom XL9T Karaoke Bluetooth Hoparlör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1743822239977,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650748095,
+      "__unknown_productSubTitle": "LG XBoom XL9T Karaoke Bluetooth Hoparlör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1330225,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "LG XBoom XL9T Karaoke Bluetooth Hoparlör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733403874786,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632634264,
+      "__unknown_productSubTitle": "LG XBoom XL9T Karaoke Bluetooth Hoparlör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

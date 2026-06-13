@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 1159929,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nike Ts Galatasaray Eşofman Alt Cw6907-010 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775146623976,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775146623976,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638078716,
+      "__unknown_productSubTitle": "Nike Ts Galatasaray Eşofman Alt Cw6907-010 Siyah S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1159930,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nike Ts Galatasaray Eşofman Alt Cw6907-010 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770251821239,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/05/59/53/39/17/49/94/48/77/38/01316414760528529281.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638078715,
+      "__unknown_productSubTitle": "Nike Ts Galatasaray Eşofman Alt Cw6907-010 Siyah L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8323262,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/05/59/53/39/17/49/94/48/77/38/01316414760528529281.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/05/59/53/39/17/49/94/48/77/38/01316414760528529281.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/05/59/53/39/17/49/94/48/77/38/01316414760528529281.png"
+    }
+  }
+]

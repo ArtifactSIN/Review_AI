@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 123808,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blue Ocean 9x 150 M.yeşil İp Misina 0,16mm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767801022227,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630014184,
+      "__unknown_productSubTitle": "Blue Ocean 9x 150 M.yeşil İp Misina 0,16mm ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 123809,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blue Ocean 9x 150 M.yeşil İp Misina 0,16mm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766664867122,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630014184,
+      "__unknown_productSubTitle": "Blue Ocean 9x 150 M.yeşil İp Misina 0,16mm ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 123810,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blue Ocean 9x 150 M.yeşil İp Misina 0,16mm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733159527606,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630014184,
+      "__unknown_productSubTitle": "Blue Ocean 9x 150 M.yeşil İp Misina 0,16mm ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

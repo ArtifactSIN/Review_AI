@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 735723,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kick Ass 2 - Göster Gününü 2 Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732203855379,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 63706199,
+      "__unknown_productSubTitle": "Kick Ass 2 - Göster Gününü 2 Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735724,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kick Ass 2 - Göster Gününü 2 Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720534716860,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/09/60/25/76/87/88/26/12/37/27/52884389779049984775.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 63706199,
+      "__unknown_productSubTitle": "Kick Ass 2 - Göster Gününü 2 Blu-Ray",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5160395,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/09/60/25/76/87/88/26/12/37/27/52884389779049984775.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/09/60/25/76/87/88/26/12/37/27/52884389779049984775.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/09/60/25/76/87/88/26/12/37/27/52884389779049984775.png"
+    }
+  },
+  {
+    "gid_ref": 735725,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kick Ass 2 - Göster Gününü 2 Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1433768927280,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 63706199,
+      "__unknown_productSubTitle": "Kick Ass 2 - Göster Gününü 2 Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

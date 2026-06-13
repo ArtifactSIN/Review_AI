@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 778041,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mixray 6988 Kadın Asimetrik Rib Kesim Kayık Yaka Triko Kazak Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770137345585,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/03/59/25/51/88/56/87/23/95/89/2177729918583390748.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718357972,
+      "__unknown_productSubTitle": "Mixray 6988 Kadın Asimetrik Rib Kesim Kayık Yaka Triko Kazak Gri Standart",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8311070,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/03/59/25/51/88/56/87/23/95/89/2177729918583390748.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/03/59/25/51/88/56/87/23/95/89/2177729918583390748.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/03/59/25/51/88/56/87/23/95/89/2177729918583390748.jpg"
+    }
+  },
+  {
+    "gid_ref": 778042,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mixray 6988 Kadın Asimetrik Rib Kesim Kayık Yaka Triko Kazak Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769696677463,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718357972,
+      "__unknown_productSubTitle": "Mixray 6988 Kadın Asimetrik Rib Kesim Kayık Yaka Triko Kazak Gri Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 778043,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mixray 6988 Kadın Asimetrik Rib Kesim Kayık Yaka Triko Kazak Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769636788441,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718357972,
+      "__unknown_productSubTitle": "Mixray 6988 Kadın Asimetrik Rib Kesim Kayık Yaka Triko Kazak Gri Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

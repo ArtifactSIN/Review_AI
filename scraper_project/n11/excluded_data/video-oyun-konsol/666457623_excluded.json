@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 1341791,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "rezillik asla alışveriş yapmam",
+      "productTitle": "Xbox 360 Kinect Sensor Power Supply Xbox 360 Kinect Adaptor",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1594056315083,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 271532655,
+      "__unknown_productSubTitle": "Xbox 360 Kinect Sensor Power Supply Xbox 360 Kinect Adaptor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1341792,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kesinlikle buradan alışveriş yapmayın...",
+      "productTitle": "Xbox 360 Kinect Sensor Power Supply Xbox 360 Kinect Adaptor",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1592484848993,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 271532655,
+      "__unknown_productSubTitle": "Xbox 360 Kinect Sensor Power Supply Xbox 360 Kinect Adaptor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1341793,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xbox 360 Kinect Sensor Power Supply Xbox 360 Kinect Adaptor",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1592411147700,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 271532655,
+      "__unknown_productSubTitle": "Xbox 360 Kinect Sensor Power Supply Xbox 360 Kinect Adaptor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

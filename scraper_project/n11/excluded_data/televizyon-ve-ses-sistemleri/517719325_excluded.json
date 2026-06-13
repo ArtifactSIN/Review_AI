@@ -1,0 +1,94 @@
+[
+  {
+    "gid_ref": 1302257,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Varta 56703 800 mAh Blister AAA Ni-MH Şarj Edilebilir İnce Kalem Pil 2 x 5'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739886084446,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646859385,
+      "__unknown_productSubTitle": "Varta 56703 800 mAh Blister AAA Ni-MH Şarj Edilebilir İnce Kalem Pil 2 x 5'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1302258,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Varta 56703 800 mAh Blister AAA Ni-MH Şarj Edilebilir İnce Kalem Pil 2 x 5'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729197180078,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/17/88/47/71/81/52/98/05/99/17/34410746358429929344.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559369187,
+      "__unknown_productSubTitle": "Varta 56703 800 mAh Blister AAA Ni-MH Şarj Edilebilir İnce Kalem Pil 2 x 5'li",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5955501,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/17/88/47/71/81/52/98/05/99/17/34410746358429929344.png"
+        },
+        {
+          "id": 5955503,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/17/81/27/01/95/58/72/88/09/20/48051934469652171463.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/17/88/47/71/81/52/98/05/99/17/34410746358429929344.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/17/88/47/71/81/52/98/05/99/17/34410746358429929344.png"
+    }
+  },
+  {
+    "gid_ref": 1302259,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Varta 56703 800 mAh Blister AAA Ni-MH Şarj Edilebilir İnce Kalem Pil 2 x 5'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1683975819155,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559369187,
+      "__unknown_productSubTitle": "Varta 56703 800 mAh Blister AAA Ni-MH Şarj Edilebilir İnce Kalem Pil 2 x 5'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1302260,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Varta 56703 800 mAh Blister AAA Ni-MH Şarj Edilebilir İnce Kalem Pil 2 x 5'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1682450051858,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559369187,
+      "__unknown_productSubTitle": "Varta 56703 800 mAh Blister AAA Ni-MH Şarj Edilebilir İnce Kalem Pil 2 x 5'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

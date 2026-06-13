@@ -1,0 +1,39 @@
+[
+  {
+    "gid_ref": 817143,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sevimli Hayvan Öyküler 20 Kitap",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775558619784,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/07/88/40/13/79/13/04/84/42/69/93350164513336020763.jpg",
+      "__unknown_lastModifiedDate": 1775558619784,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724163103,
+      "__unknown_productSubTitle": "Sevimli Hayvan Öyküler 20 Kitap",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8574327,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/07/88/40/13/79/13/04/84/42/69/93350164513336020763.jpg"
+        },
+        {
+          "id": 8574328,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/07/55/16/46/65/99/66/08/52/35/961513199733458759.jpg"
+        },
+        {
+          "id": 8574329,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/07/69/65/53/94/29/94/28/67/37/52279517076641497400.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/07/88/40/13/79/13/04/84/42/69/93350164513336020763.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/07/88/40/13/79/13/04/84/42/69/93350164513336020763.jpg"
+    }
+  }
+]

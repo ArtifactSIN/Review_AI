@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 168411,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gömme Rezervuar İç Takım Seti Kale İntegra",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1703182770577,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/12/21/80/79/97/54/74/67/89/95/27/88790373148701311687.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578638969,
+      "__unknown_productSubTitle": "Gömme Rezervuar İç Takım Seti Kale İntegra",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2871621,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/21/80/79/97/54/74/67/89/95/27/88790373148701311687.png"
+        },
+        {
+          "id": 2871622,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/21/85/09/50/05/46/59/13/83/55/86417333764625680443.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/12/21/80/79/97/54/74/67/89/95/27/88790373148701311687.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/12/21/80/79/97/54/74/67/89/95/27/88790373148701311687.png"
+    }
+  },
+  {
+    "gid_ref": 168412,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gömme Rezervuar İç Takım Seti Kale İntegra",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1688649967456,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578638969,
+      "__unknown_productSubTitle": "Gömme Rezervuar İç Takım Seti Kale İntegra",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 168413,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gömme Rezervuar İç Takım Seti Kale İntegra",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1617884107915,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 458126662,
+      "__unknown_productSubTitle": "Gömme Rezervuar İç Takım Seti Kale İntegra",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

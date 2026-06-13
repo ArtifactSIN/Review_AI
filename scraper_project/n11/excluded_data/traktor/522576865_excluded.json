@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1335572,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yakıt Filtresi, Mazot Filtresi Cav, Fil101",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1681747364738,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 522576865,
+      "__unknown_productSubTitle": "Yakıt Filtresi, Mazot Filtresi Cav, Fil101",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1335573,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ekonomik ve kaliteli ",
+      "productTitle": "Yakıt Filtresi, Mazot Filtresi Cav, Fil101",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1662267415920,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 522576865,
+      "__unknown_productSubTitle": "Yakıt Filtresi, Mazot Filtresi Cav, Fil101",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

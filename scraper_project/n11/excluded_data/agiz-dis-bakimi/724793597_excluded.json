@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 30457,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Essential Floss Naneli ve Mumlu Diş İpi 50 M x 5 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771002051764,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/13/79/30/53/27/46/33/55/84/86/66113262677025469680.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724793597,
+      "__unknown_productSubTitle": "Oral-B Essential Floss Naneli ve Mumlu Diş İpi 50 M x 5 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8361216,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/13/79/30/53/27/46/33/55/84/86/66113262677025469680.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/13/79/30/53/27/46/33/55/84/86/66113262677025469680.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/13/79/30/53/27/46/33/55/84/86/66113262677025469680.png"
+    }
+  },
+  {
+    "gid_ref": 30458,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Essential Floss Naneli ve Mumlu Diş İpi 50 M x 5 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766239421997,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724793597,
+      "__unknown_productSubTitle": "Oral-B Essential Floss Naneli ve Mumlu Diş İpi 50 M x 5 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 30459,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Essential Floss Naneli ve Mumlu Diş İpi 50 M x 5 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724703936587,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577140787,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 30460,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Oral-B Essential Floss Naneli ve Mumlu Diş İpi 50 M x 5 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721830991333,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 608351240,
+      "__unknown_productSubTitle": "Oral-B Essential Floss Naneli ve Mumlu Diş İpi 50 M x 5 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

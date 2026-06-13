@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 789443,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP OneShred 15CC Evrak İmha Makinesi / Kağıt Kırpma Makinesi - Çapraz /Parçacık kesim-4mm x 35mm-20lt",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747897326723,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572015455,
+      "__unknown_productSubTitle": "HP OneShred 15CC Evrak İmha Makinesi / Kağıt Kırpma Makinesi - Çapraz /Parçacık kesim-4mm x 35mm-20lt ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 789444,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP OneShred 15CC Evrak İmha Makinesi / Kağıt Kırpma Makinesi - Çapraz /Parçacık kesim-4mm x 35mm-20lt",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739622422898,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/15/79/17/36/06/56/49/28/03/64/1476171883977722226.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572015455,
+      "__unknown_productSubTitle": "HP OneShred 15CC Evrak İmha Makinesi / Kağıt Kırpma Makinesi - Çapraz /Parçacık kesim-4mm x 35mm-20lt ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6838660,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/15/79/17/36/06/56/49/28/03/64/1476171883977722226.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/15/79/17/36/06/56/49/28/03/64/1476171883977722226.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/15/79/17/36/06/56/49/28/03/64/1476171883977722226.jpg"
+    }
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "gid_ref": 1162545,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Asics Asıcs Gel-cumulus 27 Erkek Siyah Koşu Ayakkabısı 1011b960-002 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774782043009,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/29/58/42/16/36/61/96/05/02/54/15005391406961115062.png",
+      "__unknown_lastModifiedDate": 1774782043009,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665549514,
+      "__unknown_productSubTitle": "Asics Asıcs Gel-cumulus 27 Erkek Siyah Koşu Ayakkabısı 1011b960-002 Siyah 46",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8535360,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/29/58/42/16/36/61/96/05/02/54/15005391406961115062.png"
+        },
+        {
+          "id": 8535361,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/29/70/76/81/84/86/85/17/86/07/03750587536468624818.png"
+        },
+        {
+          "id": 8535362,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/29/81/81/16/76/27/19/26/62/46/65598082072732614265.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/29/58/42/16/36/61/96/05/02/54/15005391406961115062.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/29/58/42/16/36/61/96/05/02/54/15005391406961115062.png"
+    }
+  },
+  {
+    "gid_ref": 1162546,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Asics Asıcs Gel-cumulus 27 Erkek Siyah Koşu Ayakkabısı 1011b960-002 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772441154038,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665549482,
+      "__unknown_productSubTitle": "Asics Asıcs Gel-cumulus 27 Erkek Siyah Koşu Ayakkabısı 1011b960-002 Siyah 44.5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1162547,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Asics Asıcs Gel-cumulus 27 Erkek Siyah Koşu Ayakkabısı 1011b960-002 Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770812487341,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665549449,
+      "__unknown_productSubTitle": "Asics Asıcs Gel-cumulus 27 Erkek Siyah Koşu Ayakkabısı 1011b960-002 Siyah 42",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

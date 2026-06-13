@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 1509790,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Venatura Vitamin C Serum 30 ML + Hyaluronic Acid 30 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1748499423816,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/29/77/72/91/13/89/70/64/41/28/3561085051531969134.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601541306,
+      "__unknown_productSubTitle": "Venatura Vitamin C Serum 30 ML + Hyaluronic Acid 30 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7273871,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/29/77/72/91/13/89/70/64/41/28/3561085051531969134.jpg"
+        },
+        {
+          "id": 7273872,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/29/52/44/82/85/01/70/88/10/39/4271565035051765525.jpg"
+        },
+        {
+          "id": 7273873,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/29/67/60/13/21/22/55/21/27/65/57104391046870812168.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/29/77/72/91/13/89/70/64/41/28/3561085051531969134.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/29/77/72/91/13/89/70/64/41/28/3561085051531969134.jpg"
+    }
+  },
+  {
+    "gid_ref": 1509791,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Venatura Vitamin C Serum 30 ML + Hyaluronic Acid 30 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733391947022,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600461999,
+      "__unknown_productSubTitle": "Venatura Vitamin C Serum 30 ML + Hyaluronic Acid 30 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1509792,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Venatura Vitamin C Serum 30 ML + Hyaluronic Acid 30 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715452124824,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589424715,
+      "__unknown_productSubTitle": "Venatura Vitamin C Serum 30 ML + Hyaluronic Acid 30 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

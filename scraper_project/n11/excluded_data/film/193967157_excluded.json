@@ -1,0 +1,82 @@
+[
+  {
+    "gid_ref": 735247,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-The Bfg / Big Friendly Giant",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730387631551,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 193967157,
+      "__unknown_productSubTitle": "Dvd-The Bfg / Big Friendly Giant",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735248,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-The Bfg / Big Friendly Giant",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729510663762,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 193967157,
+      "__unknown_productSubTitle": "Dvd-The Bfg / Big Friendly Giant",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735249,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-The Bfg / Big Friendly Giant",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729099608650,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 193967157,
+      "__unknown_productSubTitle": "Dvd-The Bfg / Big Friendly Giant",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735250,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-The Bfg / Big Friendly Giant",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1645350403350,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 193967157,
+      "__unknown_productSubTitle": "Dvd-The Bfg / Big Friendly Giant",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

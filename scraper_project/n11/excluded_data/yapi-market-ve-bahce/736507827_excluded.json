@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1415253,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Best-9900S 6 Parça Profesyonel Tornavida Tamir Seti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1753008875315,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646571380,
+      "__unknown_productSubTitle": "Best-9900S 6 Parça Profesyonel Tornavida Tamir Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1415254,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Best-9900S 6 Parça Profesyonel Tornavida Tamir Seti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1714674077515,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/02/82/33/01/56/65/90/53/51/49/02389660560813242802.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559314705,
+      "__unknown_productSubTitle": "Best-9900S 6 Parça Profesyonel Tornavida Tamir Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4575151,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/02/82/33/01/56/65/90/53/51/49/02389660560813242802.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/02/82/33/01/56/65/90/53/51/49/02389660560813242802.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/02/82/33/01/56/65/90/53/51/49/02389660560813242802.png"
+    }
+  }
+]

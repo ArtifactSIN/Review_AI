@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 746956,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Multipower Creatine Powder 500 Gr Aromasız",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763569618309,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675194244,
+      "__unknown_productSubTitle": "Multipower Creatine Powder 500 Gr Aromasız",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 746957,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Multipower Creatine Powder 500 Gr Aromasız",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731318844813,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 492433058,
+      "__unknown_productSubTitle": "Multipower Creatine Powder 500 Gr Aromasız",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

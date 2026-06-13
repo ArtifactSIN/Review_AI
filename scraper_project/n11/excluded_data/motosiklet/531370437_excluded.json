@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 881889,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mondial Kt 150 Kilometre Km Saati Dijital",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771587512787,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 531370437,
+      "__unknown_productSubTitle": "Mondial Kt 150 Kilometre Km Saati Dijital",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 881890,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mondial Kt 150 Kilometre Km Saati Dijital",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764255460741,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/27/77/35/69/93/96/07/73/25/20/84488509956621224293.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 531370437,
+      "__unknown_productSubTitle": "Mondial Kt 150 Kilometre Km Saati Dijital",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8026137,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/27/77/35/69/93/96/07/73/25/20/84488509956621224293.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/27/77/35/69/93/96/07/73/25/20/84488509956621224293.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/27/77/35/69/93/96/07/73/25/20/84488509956621224293.png"
+    }
+  },
+  {
+    "gid_ref": 881891,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mondial Kt 150 Kilometre Km Saati Dijital",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724496325763,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 531370437,
+      "__unknown_productSubTitle": "Mondial Kt 150 Kilometre Km Saati Dijital",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

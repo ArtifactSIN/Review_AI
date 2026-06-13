@@ -1,0 +1,46 @@
+[
+  {
+    "gid_ref": 254073,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "İlgili satıcı ve kaliteli ürün",
+      "productTitle": "Çok Amaçlı Ayarlanabilir Kilit-Mavi Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1635581919049,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750689159766,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 328582810,
+      "__unknown_productSubTitle": "Çok Amaçlı Ayarlanabilir Kilit-Mavi Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 254074,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ürün kullanışsız",
+      "productTitle": "Çok Amaçlı Ayarlanabilir Kilit-Mavi Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1577278717176,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750689159766,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 328582810,
+      "__unknown_productSubTitle": "Çok Amaçlı Ayarlanabilir Kilit-Mavi Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

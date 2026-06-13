@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 257579,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sail Cam Kablolu Priz Kamera",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747070889167,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/12/75/83/47/22/32/14/77/04/22/94874010779027458460.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661406936,
+      "__unknown_productSubTitle": "Sail Cam Kablolu Priz Kamera",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7212263,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/12/75/83/47/22/32/14/77/04/22/94874010779027458460.png"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/12/75/83/47/22/32/14/77/04/22/94874010779027458460.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/12/75/83/47/22/32/14/77/04/22/94874010779027458460.png"
+    }
+  }
+]

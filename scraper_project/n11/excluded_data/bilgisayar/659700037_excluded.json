@@ -1,0 +1,803 @@
+[
+  {
+    "gid_ref": 347330,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775079901541,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775079901541,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688675508,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347331,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772968617275,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772968617275,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700037,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347332,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772142847787,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688675508,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347333,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769592884691,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/28/66/07/38/41/31/31/64/44/45/14478773290905091051.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700037,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8302203,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/28/66/07/38/41/31/31/64/44/45/14478773290905091051.png"
+        },
+        {
+          "id": 8302204,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/28/68/40/36/43/51/54/02/11/33/74098595430316095334.png"
+        },
+        {
+          "id": 8302205,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/28/46/48/95/93/18/36/95/59/33/05673075488983921366.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/28/66/07/38/41/31/31/64/44/45/14478773290905091051.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/28/66/07/38/41/31/31/64/44/45/14478773290905091051.png"
+    }
+  },
+  {
+    "gid_ref": 347334,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766221720160,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700037,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347335,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766185987587,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700037,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347336,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764977588387,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688675508,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347337,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764933774628,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/05/54/69/02/80/16/06/04/76/23/07277546557395219165.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700037,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8074754,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/05/54/69/02/80/16/06/04/76/23/07277546557395219165.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/05/54/69/02/80/16/06/04/76/23/07277546557395219165.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/05/54/69/02/80/16/06/04/76/23/07277546557395219165.jpeg"
+    }
+  },
+  {
+    "gid_ref": 347338,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764933275720,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/05/91/30/68/29/37/42/91/26/82/06859642242906604733.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688675508,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8075554,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/05/91/30/68/29/37/42/91/26/82/06859642242906604733.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/05/91/30/68/29/37/42/91/26/82/06859642242906604733.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/05/91/30/68/29/37/42/91/26/82/06859642242906604733.jpeg"
+    }
+  },
+  {
+    "gid_ref": 347339,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763293649968,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/16/55/54/13/02/70/39/42/54/42/12415592565560490768.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688675508,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7966372,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/16/55/54/13/02/70/39/42/54/42/12415592565560490768.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/16/55/54/13/02/70/39/42/54/42/12415592565560490768.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/16/55/54/13/02/70/39/42/54/42/12415592565560490768.jpeg"
+    }
+  },
+  {
+    "gid_ref": 347340,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763062890223,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/13/60/07/56/60/13/54/93/92/95/54516622903105664731.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700037,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7960948,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/13/60/07/56/60/13/54/93/92/95/54516622903105664731.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/13/60/07/56/60/13/54/93/92/95/54516622903105664731.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/13/60/07/56/60/13/54/93/92/95/54516622903105664731.png"
+    }
+  },
+  {
+    "gid_ref": 347341,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762947913021,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700037,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347342,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762786476885,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700037,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347343,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762341412367,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582107452,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347344,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761812300870,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700037,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347345,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761812245048,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700037,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347346,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761592400771,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700037,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347347,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760431155597,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700037,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347348,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758565392410,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700037,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347349,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753790080649,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653134849,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347350,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1751317770626,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659700037,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347351,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733918746726,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 607482156,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347352,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732472136632,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583398687,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347353,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732467958119,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583398687,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347354,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725484457386,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 534285229,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347355,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724998035009,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/30/78/19/50/44/15/97/88/29/30/05894653061004703862.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 607482156,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5535770,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/30/78/19/50/44/15/97/88/29/30/05894653061004703862.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/30/78/19/50/44/15/97/88/29/30/05894653061004703862.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/30/78/19/50/44/15/97/88/29/30/05894653061004703862.png"
+    }
+  },
+  {
+    "gid_ref": 347356,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1723029628419,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/07/71/43/82/18/40/07/05/92/09/47659187090513836298.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 607482156,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5362166,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/07/71/43/82/18/40/07/05/92/09/47659187090513836298.png"
+        },
+        {
+          "id": 5362167,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/07/70/59/35/72/85/66/10/37/52/69001439272127281224.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/07/71/43/82/18/40/07/05/92/09/47659187090513836298.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/07/71/43/82/18/40/07/05/92/09/47659187090513836298.png"
+    }
+  },
+  {
+    "gid_ref": 347357,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1722856806511,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/05/54/40/98/40/53/18/46/45/12/14182525717793454298.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 607482156,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5344830,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/05/54/40/98/40/53/18/46/45/12/14182525717793454298.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/05/54/40/98/40/53/18/46/45/12/14182525717793454298.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/05/54/40/98/40/53/18/46/45/12/14182525717793454298.png"
+    }
+  },
+  {
+    "gid_ref": 347358,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1714749351595,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599867616,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347359,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1711903226445,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583398687,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347360,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1672666156301,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558722764,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347361,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kaliteli sorunsuz ürün",
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1650539619754,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 516488220,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347362,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün farklı Geldi",
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1649398506975,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 516554448,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347363,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Yıpranmış Kutu ve Kullanılmış Maus",
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1648893308624,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 533415523,
+      "__unknown_productSubTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347364,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "GÜZEL BİR ÜRÜN TAVSİYE EDERİM",
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1645260882032,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 517840910,
+      "__unknown_productSubTitle": "STOKTAN AYNI GÜN KARGO! ORJİNAL GARANTİLİ FATURALI !",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 347365,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "HP S500 Kablosuz Optik Mouse",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1641986742434,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 517840910,
+      "__unknown_productSubTitle": "STOKTAN AYNI GÜN KARGO! ORJİNAL GARANTİLİ FATURALI !",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

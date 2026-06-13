@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 201109,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Hydra Bebe Body Lotion Vücut Losyonu 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769631817804,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649242023,
+      "__unknown_productSubTitle": "Mustela Hydra Bebe Body Lotion Vücut Losyonu 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 201110,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Hydra Bebe Body Lotion Vücut Losyonu 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764609145064,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649242023,
+      "__unknown_productSubTitle": "Mustela Hydra Bebe Body Lotion Vücut Losyonu 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 201111,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Hydra Bebe Body Lotion Vücut Losyonu 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719570019890,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/28/90/98/28/05/62/61/31/99/20/45152204286532274130.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 489802989,
+      "__unknown_productSubTitle": "Mustela Hydra Bebe Body Lotion Vücut Losyonu 50 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5083024,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/28/90/98/28/05/62/61/31/99/20/45152204286532274130.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/28/90/98/28/05/62/61/31/99/20/45152204286532274130.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/28/90/98/28/05/62/61/31/99/20/45152204286532274130.png"
+    }
+  },
+  {
+    "gid_ref": 201112,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Hydra Bebe Body Lotion Vücut Losyonu 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1716198894337,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 489802989,
+      "__unknown_productSubTitle": "Mustela Hydra Bebe Body Lotion Vücut Losyonu 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 201113,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Mustela Hydra Bebe Body Lotion Vücut Losyonu 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715442796978,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 489802989,
+      "__unknown_productSubTitle": "Mustela Hydra Bebe Body Lotion Vücut Losyonu 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

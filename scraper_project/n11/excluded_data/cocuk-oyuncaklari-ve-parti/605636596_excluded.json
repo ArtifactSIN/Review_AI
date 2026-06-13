@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 395603,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Eğitici Öğretici Architecto Zeka Oyunu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729680915885,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605636596,
+      "__unknown_productSubTitle": "Eğitici Öğretici Architecto Zeka Oyunu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 395604,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Eğitici Öğretici Architecto Zeka Oyunu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708370388408,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/19/70/52/98/89/95/83/82/50/30/22156571434621514339.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597936403,
+      "__unknown_productSubTitle": "Eğitici Öğretici Architecto Zeka Oyunu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3932166,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/19/70/52/98/89/95/83/82/50/30/22156571434621514339.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/19/70/52/98/89/95/83/82/50/30/22156571434621514339.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/19/70/52/98/89/95/83/82/50/30/22156571434621514339.png"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 521402,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun 10B 20B Traş Makinası Elek + Plastik Kafa",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725640861571,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 600094151,
+      "__unknown_productSubTitle": "Braun 10B 20B Traş Makinası Elek + Plastik Kafa",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 521403,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun 10B 20B Traş Makinası Elek + Plastik Kafa",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1711692602877,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598237444,
+      "__unknown_productSubTitle": "Braun 10B 20B Traş Makinası Elek + Plastik Kafa",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 940356,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karaca Swan 6 Kişilik Kahve Fincan Takımı Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775589740524,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/07/85/65/97/87/43/67/27/48/19/06888491609399050747.jpg",
+      "__unknown_lastModifiedDate": 1775589740524,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 729950946,
+      "__unknown_productSubTitle": "Karaca Swan 6 Kişilik Kahve Fincan Takımı Beyaz ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8575777,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/07/85/65/97/87/43/67/27/48/19/06888491609399050747.jpg"
+        },
+        {
+          "id": 8575778,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/07/46/45/35/45/77/42/60/33/59/7457632738391772703.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/07/85/65/97/87/43/67/27/48/19/06888491609399050747.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/07/85/65/97/87/43/67/27/48/19/06888491609399050747.jpg"
+    }
+  },
+  {
+    "gid_ref": 940357,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karaca Swan 6 Kişilik Kahve Fincan Takımı Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772419483793,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/02/82/34/29/11/53/64/93/51/59/28752292386416250110.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 729950946,
+      "__unknown_productSubTitle": "Karaca Swan 6 Kişilik Kahve Fincan Takımı Beyaz ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8424671,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/02/82/34/29/11/53/64/93/51/59/28752292386416250110.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/02/82/34/29/11/53/64/93/51/59/28752292386416250110.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/02/82/34/29/11/53/64/93/51/59/28752292386416250110.jpg"
+    }
+  }
+]

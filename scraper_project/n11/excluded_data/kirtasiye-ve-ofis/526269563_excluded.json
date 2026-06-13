@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 785505,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gülpaş Ziyaretçi Defteri Suni Deri 21X30 100 Yaprak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1720127930782,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/05/74/70/65/87/27/10/47/04/20/66883697764172778547.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 526269563,
+      "__unknown_productSubTitle": "Gülpaş Ziyaretçi Defteri Suni Deri 21X30 100 Yaprak",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5135396,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/05/74/70/65/87/27/10/47/04/20/66883697764172778547.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/05/74/70/65/87/27/10/47/04/20/66883697764172778547.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/05/74/70/65/87/27/10/47/04/20/66883697764172778547.png"
+    }
+  },
+  {
+    "gid_ref": 785506,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gülpaş Ziyaretçi Defteri Suni Deri 21X30 100 Yaprak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1670078544902,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 526269563,
+      "__unknown_productSubTitle": "Gülpaş Ziyaretçi Defteri Suni Deri 21X30 100 Yaprak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 785507,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "tesekkürler",
+      "productTitle": "Gülpaş Ziyaretçi Defteri Suni Deri 21X30 100 Yaprak",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1668665429072,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 526269563,
+      "__unknown_productSubTitle": "Gülpaş Ziyaretçi Defteri Suni Deri 21X30 100 Yaprak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 498605,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyjem Destekli Dantelli Emzirme Sütyeni 80 Beden Beyaz 2227",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1716401968550,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587462121,
+      "__unknown_productSubTitle": "Babyjem Destekli Dantelli Emzirme Sütyeni 80 Beden Beyaz 2227 80D",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 498606,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyjem Destekli Dantelli Emzirme Sütyeni 80 Beden Beyaz 2227",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1710319944654,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/13/71/83/45/47/76/37/12/98/77/78158345600701149538.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587462121,
+      "__unknown_productSubTitle": "Babyjem Destekli Dantelli Emzirme Sütyeni 80 Beden Beyaz 2227 80D",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4118609,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/13/71/83/45/47/76/37/12/98/77/78158345600701149538.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/13/71/83/45/47/76/37/12/98/77/78158345600701149538.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/13/71/83/45/47/76/37/12/98/77/78158345600701149538.jpg"
+    }
+  }
+]

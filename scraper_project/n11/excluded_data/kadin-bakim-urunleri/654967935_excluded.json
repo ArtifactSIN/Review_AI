@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 762397,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Epify Tüy Azaltıcı Papaya Sütü 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772551318127,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654967935,
+      "__unknown_productSubTitle": "Epify Tüy Azaltıcı Papaya Sütü 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 762398,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Epify Tüy Azaltıcı Papaya Sütü 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756228894952,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654967935,
+      "__unknown_productSubTitle": "Epify Tüy Azaltıcı Papaya Sütü 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 762399,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Epify Tüy Azaltıcı Papaya Sütü 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744667393596,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654967935,
+      "__unknown_productSubTitle": "Epify Tüy Azaltıcı Papaya Sütü 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

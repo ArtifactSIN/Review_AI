@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 846964,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Golden Rose Perfect Lashes Eyeliner",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727390023363,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/27/50/56/29/72/74/07/30/00/45/06091487809615543692.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 495490352,
+      "__unknown_productSubTitle": "Golden Rose Perfect Lashes Eyeliner",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5760691,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/27/50/56/29/72/74/07/30/00/45/06091487809615543692.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/27/50/56/29/72/74/07/30/00/45/06091487809615543692.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/27/50/56/29/72/74/07/30/00/45/06091487809615543692.png"
+    }
+  },
+  {
+    "gid_ref": 846965,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "rezillik",
+      "productTitle": "Golden Rose Perfect Lashes Eyeliner",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1593274287525,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 400957596,
+      "__unknown_productSubTitle": "Golden Rose perfect lashes siyah eyeliner",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

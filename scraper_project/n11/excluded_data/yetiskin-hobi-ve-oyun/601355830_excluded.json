@@ -1,0 +1,127 @@
+[
+  {
+    "gid_ref": 1492632,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "1:24 Bmw M3 1998 Model Araba - Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774969359930,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774969359930,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601355830,
+      "__unknown_productSubTitle": "1:24 Bmw M3 1998 Model Araba - Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492633,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "1:24 Bmw M3 1998 Model Araba - Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762438276448,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601355830,
+      "__unknown_productSubTitle": "1:24 Bmw M3 1998 Model Araba - Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492634,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "1:24 Bmw M3 1998 Model Araba - Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760545770587,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601355830,
+      "__unknown_productSubTitle": "1:24 Bmw M3 1998 Model Araba - Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492635,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "1:24 Bmw M3 1998 Model Araba - Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760388247845,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/13/65/02/15/99/97/49/61/77/93/86236251536831132967.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601355830,
+      "__unknown_productSubTitle": "1:24 Bmw M3 1998 Model Araba - Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7797714,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/13/65/02/15/99/97/49/61/77/93/86236251536831132967.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/13/65/02/15/99/97/49/61/77/93/86236251536831132967.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/13/65/02/15/99/97/49/61/77/93/86236251536831132967.jpg"
+    }
+  },
+  {
+    "gid_ref": 1492636,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "1:24 Bmw M3 1998 Model Araba - Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744634160590,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/14/73/71/67/82/96/11/17/87/29/64103933334548885585.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 601355830,
+      "__unknown_productSubTitle": "1:24 Bmw M3 1998 Model Araba - Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7102312,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/14/73/71/67/82/96/11/17/87/29/64103933334548885585.png"
+        },
+        {
+          "id": 7102313,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/14/89/37/32/14/74/92/14/19/70/48116304229475762334.png"
+        },
+        {
+          "id": 7102314,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/14/69/00/78/18/61/68/88/62/86/25458599317534783778.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/14/73/71/67/82/96/11/17/87/29/64103933334548885585.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/14/73/71/67/82/96/11/17/87/29/64103933334548885585.png"
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 574730,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Süvari Ekru Slim Fit Armürlü Bisiklet Yaka Tişört-37260 Ekru",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773591207012,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773591207012,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675525283,
+      "__unknown_productSubTitle": "Süvari Ekru Slim Fit Armürlü Bisiklet Yaka Tişört-37260 Ekru 2XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 574731,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Süvari Ekru Slim Fit Armürlü Bisiklet Yaka Tişört-37260 Ekru",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762451060253,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/06/54/01/45/22/99/42/81/63/05/62634675858831786469.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 675525273,
+      "__unknown_productSubTitle": "Süvari Ekru Slim Fit Armürlü Bisiklet Yaka Tişört-37260 Ekru L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7908624,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/06/84/88/74/06/46/01/46/89/59/27779987062579051216.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/06/54/01/45/22/99/42/81/63/05/62634675858831786469.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/06/54/01/45/22/99/42/81/63/05/62634675858831786469.jpg"
+    }
+  }
+]

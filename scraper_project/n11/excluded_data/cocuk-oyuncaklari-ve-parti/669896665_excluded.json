@@ -1,0 +1,34 @@
+[
+  {
+    "gid_ref": 399317,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Globber Bisiklet Uyumlu Sepet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756390417107,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/28/70/80/29/18/67/89/57/98/43/93980215214994207394.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 669896665,
+      "__unknown_productSubTitle": "Globber Bisiklet Uyumlu Sepet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7608279,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/28/70/80/29/18/67/89/57/98/43/93980215214994207394.jpg"
+        },
+        {
+          "id": 7608280,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/28/49/34/88/46/80/95/21/01/83/67118646981378290443.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/28/70/80/29/18/67/89/57/98/43/93980215214994207394.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/28/70/80/29/18/67/89/57/98/43/93980215214994207394.jpg"
+    }
+  }
+]

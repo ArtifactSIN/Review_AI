@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 536250,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aprilla Ahc-5019 Erkek Bakım Seti Mavi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769456968179,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 711026197,
+      "__unknown_productSubTitle": "Aprilla Ahc-5019 Erkek Bakım Seti Mavi Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 536251,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Aprilla Ahc-5019 Erkek Bakım Seti Mavi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745859900690,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 591988684,
+      "__unknown_productSubTitle": "Aprilla Ahc-5019 Erkek Bakım Seti Mavi Mavi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

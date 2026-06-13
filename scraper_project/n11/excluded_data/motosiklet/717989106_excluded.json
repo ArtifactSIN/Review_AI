@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 901447,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Petrol Ofisi Motosiklet Zincir Temizleme Spreyi 500 ML Po-051",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774449748068,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774449748068,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717989106,
+      "__unknown_productSubTitle": "Petrol Ofisi Motosiklet Zincir Temizleme Spreyi 500 ML Po-051",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 901448,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Petrol Ofisi Motosiklet Zincir Temizleme Spreyi 500 ML Po-051",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1759491667355,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 704689650,
+      "__unknown_productSubTitle": "Petrol Ofisi Motosiklet Zincir Temizleme Spreyi 500 ML Po-051",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

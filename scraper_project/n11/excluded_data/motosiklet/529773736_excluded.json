@@ -1,0 +1,76 @@
+[
+  {
+    "gid_ref": 881858,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bws 100 Kumanda Kütük Sağ Ys (529773736)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775122249088,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775122249088,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 529773736,
+      "__unknown_productSubTitle": "Bws 100 Kumanda Kütük Sağ Ys (529773736)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 881859,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bws 100 Kumanda Kütük Sağ Ys (529773736)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1716476788748,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/23/90/49/63/88/07/48/64/55/34/43614010627898716639.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 529773736,
+      "__unknown_productSubTitle": "Bws 100 Kumanda Kütük Sağ Ys (529773736)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4766450,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/23/90/49/63/88/07/48/64/55/34/43614010627898716639.png"
+        },
+        {
+          "id": 4766451,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/23/58/77/62/89/59/05/86/64/29/82139276955970157767.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/23/90/49/63/88/07/48/64/55/34/43614010627898716639.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/23/90/49/63/88/07/48/64/55/34/43614010627898716639.png"
+    }
+  },
+  {
+    "gid_ref": 881860,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "orjinal değil",
+      "productTitle": "Bws 100 Kumanda Kütük Sağ Ys (529773736)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1667475910274,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 529773736,
+      "__unknown_productSubTitle": "Bws 100 Kumanda Kütük Sağ Ys (529773736)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

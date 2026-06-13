@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 911768,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karaca  Elegance New Liza Platin 12 Kişilik 84 Parça Çatal Kaşık Bıçak Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762012181607,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 548154122,
+      "__unknown_productSubTitle": "Karaca  Elegance New Liza Platin 12 Kişilik 84 Parça Çatal Kaşık Bıçak Takımı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 911769,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karaca  Elegance New Liza Platin 12 Kişilik 84 Parça Çatal Kaşık Bıçak Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761679057097,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/28/68/14/46/61/16/45/21/45/59/47745170759894087554.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 548154122,
+      "__unknown_productSubTitle": "Karaca  Elegance New Liza Platin 12 Kişilik 84 Parça Çatal Kaşık Bıçak Takımı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7865676,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/28/68/14/46/61/16/45/21/45/59/47745170759894087554.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/28/68/14/46/61/16/45/21/45/59/47745170759894087554.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/28/68/14/46/61/16/45/21/45/59/47745170759894087554.png"
+    }
+  },
+  {
+    "gid_ref": 911770,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karaca  Elegance New Liza Platin 12 Kişilik 84 Parça Çatal Kaşık Bıçak Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761309887581,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/24/89/38/30/89/44/33/51/17/03/75957221715999766667.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 548154122,
+      "__unknown_productSubTitle": "Karaca  Elegance New Liza Platin 12 Kişilik 84 Parça Çatal Kaşık Bıçak Takımı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7845626,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/24/89/38/30/89/44/33/51/17/03/75957221715999766667.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/24/89/38/30/89/44/33/51/17/03/75957221715999766667.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/24/89/38/30/89/44/33/51/17/03/75957221715999766667.png"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 749887,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ilford Kentmere Pan 100 36 Pozluk Siyah Beyaz Film 35 MM (1Adet)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756747533729,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588219866,
+      "__unknown_productSubTitle": "Ilford Kentmere Pan 100 36 Pozluk Siyah Beyaz Film 35 MM (1Adet)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 749888,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ilford Kentmere Pan 100 36 Pozluk Siyah Beyaz Film 35 MM (1Adet)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1675947102042,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 543279309,
+      "__unknown_productSubTitle": "Ilford Kentmere Pan 100 36 Pozluk Siyah Beyaz Film 35 MM (1Adet)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

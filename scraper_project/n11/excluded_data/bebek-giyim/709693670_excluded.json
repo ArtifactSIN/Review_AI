@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 253120,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cigit Nakışlı Sweatshirt 1-7 Yaş Antrasit Antrasit",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774625747317,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774625747317,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 709693725,
+      "__unknown_productSubTitle": "Cigit Nakışlı Sweatshirt 1-7 Yaş Antrasit Antrasit 6 - 7 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 253121,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cigit Nakışlı Sweatshirt 1-7 Yaş Antrasit Antrasit",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774187843579,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/22/81/13/22/87/83/58/53/79/15/27207267956810992389.png",
+      "__unknown_lastModifiedDate": 1774187843579,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 709693725,
+      "__unknown_productSubTitle": "Cigit Nakışlı Sweatshirt 1-7 Yaş Antrasit Antrasit 6 - 7 Yaş",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8485693,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/22/81/13/22/87/83/58/53/79/15/27207267956810992389.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/22/81/13/22/87/83/58/53/79/15/27207267956810992389.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/22/81/13/22/87/83/58/53/79/15/27207267956810992389.png"
+    }
+  },
+  {
+    "gid_ref": 253122,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Cigit Nakışlı Sweatshirt 1-7 Yaş Antrasit Antrasit",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765271830124,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 709693722,
+      "__unknown_productSubTitle": "Cigit Nakışlı Sweatshirt 1-7 Yaş Antrasit Antrasit 5 - 6 Yaş",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

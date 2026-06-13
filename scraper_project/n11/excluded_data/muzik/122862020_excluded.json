@@ -1,0 +1,85 @@
+[
+  {
+    "gid_ref": 943340,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alice Ap-100g 100'lü Pena",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774292033491,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774292033491,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 122862020,
+      "__unknown_productSubTitle": "Alice Ap-100g 100'lü Pena",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 943341,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alice Ap-100g 100'lü Pena",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773292299192,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773292299192,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 122862020,
+      "__unknown_productSubTitle": "Alice Ap-100g 100'lü Pena",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 943342,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Penalar çok ince",
+      "productTitle": "Alice Ap-100g 100'lü Pena",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1590841038014,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 122862020,
+      "__unknown_productSubTitle": "Alice Ap-100g 100'lü Pena",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 943343,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alice Ap-100g 100'lü Pena",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1521665772118,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 122862020,
+      "__unknown_productSubTitle": "Alice Ap-100g 100'lü Pena",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

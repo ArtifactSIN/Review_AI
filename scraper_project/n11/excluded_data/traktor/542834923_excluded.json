@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1335630,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 135 /148 Orta Kol kalın Dişli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765284710508,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 542834923,
+      "__unknown_productSubTitle": "Massey Ferguson 135 /148 Orta Kol kalın Dişli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1335631,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 135 /148 Orta Kol kalın Dişli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1674258007768,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 542834923,
+      "__unknown_productSubTitle": "Massey Ferguson 135 /148 Orta Kol kalın Dişli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

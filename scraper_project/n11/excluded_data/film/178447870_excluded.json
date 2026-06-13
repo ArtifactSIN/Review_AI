@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 735195,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-Frekans - Cell",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760445377416,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 178447870,
+      "__unknown_productSubTitle": "Dvd-Frekans - Cell",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735196,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-Frekans - Cell",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728313440571,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 178447870,
+      "__unknown_productSubTitle": "Dvd-Frekans - Cell",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735197,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-Frekans - Cell",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1679317042713,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 178447870,
+      "__unknown_productSubTitle": "Dvd-Frekans - Cell",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

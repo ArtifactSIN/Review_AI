@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 949421,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ezh 8010 Puset ve Oto Koltuğu Minderi Beyaz-Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765484221335,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/11/46/44/64/01/27/84/03/05/54/82313779684042755865.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 554031328,
+      "__unknown_productSubTitle": "Ezh 8010 Puset ve Oto Koltuğu Minderi Beyaz-Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8105618,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/11/46/44/64/01/27/84/03/05/54/82313779684042755865.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/11/46/44/64/01/27/84/03/05/54/82313779684042755865.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/11/46/44/64/01/27/84/03/05/54/82313779684042755865.png"
+    }
+  },
+  {
+    "gid_ref": 949422,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ezh 8010 Puset ve Oto Koltuğu Minderi Beyaz-Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758952431642,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/27/81/27/29/01/46/39/71/54/53/24042574576250995918.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647618128,
+      "__unknown_productSubTitle": "Ezh 8010 Puset ve Oto Koltuğu Minderi Beyaz-Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7721689,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/27/81/27/29/01/46/39/71/54/53/24042574576250995918.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/27/81/27/29/01/46/39/71/54/53/24042574576250995918.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/27/81/27/29/01/46/39/71/54/53/24042574576250995918.png"
+    }
+  }
+]

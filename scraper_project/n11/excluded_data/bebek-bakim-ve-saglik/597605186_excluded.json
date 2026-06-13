@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 194859,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bgt Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası 150Ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767554549732,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597605186,
+      "__unknown_productSubTitle": "Bgt Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası 150Ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 194860,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bgt Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası 150Ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762602970639,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/08/80/84/49/97/25/91/65/15/66/9387954764378386840.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597605186,
+      "__unknown_productSubTitle": "Bgt Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası 150Ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7938233,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/08/80/84/49/97/25/91/65/15/66/9387954764378386840.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/08/80/84/49/97/25/91/65/15/66/9387954764378386840.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/08/80/84/49/97/25/91/65/15/66/9387954764378386840.jpg"
+    }
+  },
+  {
+    "gid_ref": 194861,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bgt Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası 150Ml",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709902887493,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/08/84/54/72/02/03/67/41/97/80/14528411990265908847.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597605186,
+      "__unknown_productSubTitle": "Bgt Eyüp Sabri Tuncer Baby Pink Bebek Kolonyası 150Ml",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4080110,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/08/84/54/72/02/03/67/41/97/80/14528411990265908847.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/08/84/54/72/02/03/67/41/97/80/14528411990265908847.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/08/84/54/72/02/03/67/41/97/80/14528411990265908847.jpg"
+    }
+  }
+]

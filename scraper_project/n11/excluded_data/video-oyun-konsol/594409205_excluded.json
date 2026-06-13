@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 1338760,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Batman Arkham Asylum PS3 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708847935210,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594409205,
+      "__unknown_productSubTitle": "Batman Arkham Asylum PS3 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1338761,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "orta",
+      "productTitle": "Batman Arkham Asylum PS3 Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1613658628164,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 213826212,
+      "__unknown_productSubTitle": "Batman Arkham Asylum PS3 Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

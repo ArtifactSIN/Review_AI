@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 1335885,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İlaçlama Holder Tekeri 120 Mm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774467668508,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/70/08/69/54/69/50/51/86/03/15237215746980360412.png",
+      "__unknown_lastModifiedDate": 1774467668508,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718946291,
+      "__unknown_productSubTitle": "İlaçlama Holder Tekeri 120 Mm ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8504522,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/70/08/69/54/69/50/51/86/03/15237215746980360412.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/70/08/69/54/69/50/51/86/03/15237215746980360412.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/70/08/69/54/69/50/51/86/03/15237215746980360412.png"
+    }
+  },
+  {
+    "gid_ref": 1335886,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İlaçlama Holder Tekeri 120 Mm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772903487789,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/07/54/04/61/95/04/28/80/45/72/58708140205362952778.png",
+      "__unknown_lastModifiedDate": 1772903487789,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718946291,
+      "__unknown_productSubTitle": "İlaçlama Holder Tekeri 120 Mm ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8440272,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/07/54/04/61/95/04/28/80/45/72/58708140205362952778.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/07/54/04/61/95/04/28/80/45/72/58708140205362952778.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/07/54/04/61/95/04/28/80/45/72/58708140205362952778.png"
+    }
+  }
+]

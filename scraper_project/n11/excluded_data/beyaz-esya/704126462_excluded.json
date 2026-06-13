@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 302024,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Awox Rosso Pure SS505 Arıtmalı Sıcak Soğuk Su Sebili",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747423815828,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642519347,
+      "__unknown_productSubTitle": "Awox Rosso Pure SS505 Arıtmalı Sıcak Soğuk Su Sebili",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 302025,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Awox Rosso Pure SS505 Arıtmalı Sıcak Soğuk Su Sebili",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726554363033,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 608633304,
+      "__unknown_productSubTitle": "Awox Rosso Pure SS505 Arıtmalı Sıcak Soğuk Su Sebili",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 302026,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Awox Rosso Pure SS505 Arıtmalı Sıcak Soğuk Su Sebili",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1720763853953,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/12/66/64/52/75/73/25/02/04/73/9501814778906391154.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 608633304,
+      "__unknown_productSubTitle": "Awox Rosso Pure SS505 Arıtmalı Sıcak Soğuk Su Sebili",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5188634,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/12/78/80/12/21/37/89/01/19/75/76353120006422482877.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/12/66/64/52/75/73/25/02/04/73/9501814778906391154.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/12/66/64/52/75/73/25/02/04/73/9501814778906391154.png"
+    }
+  }
+]

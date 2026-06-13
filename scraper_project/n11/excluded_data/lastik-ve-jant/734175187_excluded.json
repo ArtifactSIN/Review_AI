@@ -1,0 +1,120 @@
+[
+  {
+    "gid_ref": 835043,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toyota Yaris Jant Kapağı 15 İnç 4 Adet Kırılmaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775422299252,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775422299252,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734175187,
+      "__unknown_productSubTitle": "Toyota Yaris Jant Kapağı 15 İnç 4 Adet Kırılmaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 835044,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toyota Yaris Jant Kapağı 15 İnç 4 Adet Kırılmaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773731650001,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773731650001,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734175187,
+      "__unknown_productSubTitle": "Toyota Yaris Jant Kapağı 15 İnç 4 Adet Kırılmaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 835045,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toyota Yaris Jant Kapağı 15 İnç 4 Adet Kırılmaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758199540346,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/18/72/66/64/92/51/34/29/43/04/55206678875674723378.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599405572,
+      "__unknown_productSubTitle": "Toyota Yaris Jant Kapağı 15 İnç 4 Adet Kırılmaz ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7704019,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/18/72/66/64/92/51/34/29/43/04/55206678875674723378.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/18/72/66/64/92/51/34/29/43/04/55206678875674723378.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/18/72/66/64/92/51/34/29/43/04/55206678875674723378.jpg"
+    }
+  },
+  {
+    "gid_ref": 835046,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toyota Yaris Jant Kapağı 15 İnç 4 Adet Kırılmaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1720994810136,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/15/70/82/17/94/42/83/35/68/34/75660464793258115883.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599405572,
+      "__unknown_productSubTitle": "Toyota Yaris Jant Kapağı 15 İnç 4 Adet Kırılmaz ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5206404,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/15/49/64/11/14/01/65/48/03/93/22348342380326110881.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/15/70/82/17/94/42/83/35/68/34/75660464793258115883.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/15/70/82/17/94/42/83/35/68/34/75660464793258115883.jpg"
+    }
+  },
+  {
+    "gid_ref": 835047,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Toyota Yaris Jant Kapağı 15 İnç 4 Adet Kırılmaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715209700098,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 599405572,
+      "__unknown_productSubTitle": "Toyota Yaris Jant Kapağı 15 İnç 4 Adet Kırılmaz ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

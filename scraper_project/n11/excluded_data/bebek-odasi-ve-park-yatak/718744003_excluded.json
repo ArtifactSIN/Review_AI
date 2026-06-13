@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 264431,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Holmen Şelale Ahşap Çocuk Salıncağı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729616274001,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 568283853,
+      "__unknown_productSubTitle": "Holmen Şelale Ahşap Çocuk Salıncağı Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 264432,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün çok güzel kızımız çok beğendi",
+      "productTitle": "Holmen Şelale Ahşap Çocuk Salıncağı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1643349768102,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 106932800,
+      "__unknown_productSubTitle": "Holmen Şelale Ahşap Çocuk Salıncağı Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 264433,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Harika",
+      "productTitle": "Holmen Şelale Ahşap Çocuk Salıncağı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1475484347695,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 106932800,
+      "__unknown_productSubTitle": "Holmen Şelale Ahşap Çocuk Salıncağı Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

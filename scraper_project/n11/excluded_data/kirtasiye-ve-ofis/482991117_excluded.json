@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 784462,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tanex Tw-2040 52.5X29.7MM Laser Etiket",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771850159033,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 482991117,
+      "__unknown_productSubTitle": "Tanex Tw-2040 52.5X29.7MM Laser Etiket",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 784463,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tanex Tw-2040 52.5X29.7MM Laser Etiket",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1749727308960,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 482991117,
+      "__unknown_productSubTitle": "Tanex Tw-2040 52.5X29.7MM Laser Etiket",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

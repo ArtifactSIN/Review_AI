@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 1335524,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 165 Kaborta Brandası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1747169035176,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 508523630,
+      "__unknown_productSubTitle": "Massey Ferguson 165 Kaborta Brandası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1335525,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 165 Kaborta Brandası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1678864988775,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 508523630,
+      "__unknown_productSubTitle": "Massey Ferguson 165 Kaborta Brandası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1335526,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Massey Ferguson 165 Kaborta Brandası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1647452778200,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 508523630,
+      "__unknown_productSubTitle": "Massey Ferguson 165 Kaborta Brandası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

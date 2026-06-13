@@ -1,0 +1,76 @@
+[
+  {
+    "gid_ref": 802692,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "😡",
+      "productTitle": "Ahşap Alman Kar Kızağı Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1642651065672,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1749510622026,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 469948315,
+      "__unknown_productSubTitle": "Ahşap Alman Kar Kızağı Çok Renkli Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802693,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Sağlam ve kullanışlı",
+      "productTitle": "Ahşap Alman Kar Kızağı Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1640613644266,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/21/12/27/66/14/81/26/87/11/61/55/93/28253978677603188396.jpeg",
+      "__unknown_lastModifiedDate": 1749510622026,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 469948315,
+      "__unknown_productSubTitle": "Ahşap Alman Kar Kızağı Çok Renkli Standart",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3270271,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/21/12/27/66/14/81/26/87/11/61/55/93/28253978677603188396.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/21/12/27/66/14/81/26/87/11/61/55/93/28253978677603188396.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/21/12/27/66/14/81/26/87/11/61/55/93/28253978677603188396.jpeg"
+    }
+  },
+  {
+    "gid_ref": 802694,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "tasarımı güzel",
+      "productTitle": "Ahşap Alman Kar Kızağı Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1616130409284,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1749510622026,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 469948315,
+      "__unknown_productSubTitle": "Ahşap Alman Kar Kızağı Çok Renkli Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

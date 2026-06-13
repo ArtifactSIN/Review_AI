@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 576808,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Koyu Bej Basic Sweatshirt 50315941-VR088",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772537843016,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705462099,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Koyu Bej Basic Sweatshirt 50315941-VR088 3XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 576809,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Koyu Bej Basic Sweatshirt 50315941-VR088",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767989724972,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705514347,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Koyu Bej Basic Sweatshirt 50315941-VR088  S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 576810,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Koyu Bej Basic Sweatshirt 50315941-VR088",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765514496674,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705514387,
+      "__unknown_productSubTitle": "U.S. Polo Assn. Erkek Regular Fit Polo Yaka Koyu Bej Basic Sweatshirt 50315941-VR088  M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

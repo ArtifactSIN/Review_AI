@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 1155603,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jbl Club 64fsl 16 Cm 165 Watt 2 Yollu Oto Hoparlör Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770831072621,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690110388,
+      "__unknown_productSubTitle": "Jbl Club 64fsl 16 Cm 165 Watt 2 Yollu Oto Hoparlör Takımı ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1155604,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jbl Club 64fsl 16 Cm 165 Watt 2 Yollu Oto Hoparlör Takımı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765393776924,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/10/63/37/02/84/22/00/49/36/02/01588856665351961776.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 690110388,
+      "__unknown_productSubTitle": "Jbl Club 64fsl 16 Cm 165 Watt 2 Yollu Oto Hoparlör Takımı ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8100618,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/10/63/37/02/84/22/00/49/36/02/01588856665351961776.png"
+        },
+        {
+          "id": 8100619,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/10/48/18/57/17/29/48/50/93/55/97142661642100099579.png"
+        },
+        {
+          "id": 8100620,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/10/85/90/88/23/12/45/25/52/05/32856924591860201533.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/10/63/37/02/84/22/00/49/36/02/01588856665351961776.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/10/63/37/02/84/22/00/49/36/02/01588856665351961776.png"
+    }
+  }
+]

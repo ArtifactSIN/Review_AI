@@ -1,0 +1,153 @@
+[
+  {
+    "gid_ref": 505618,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Remington PG4000 Graphite G4 Erkek Bakım Kiti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726092354483,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597990367,
+      "__unknown_productSubTitle": "Remington PG4000 Graphite G4 Erkek Bakım Kiti Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 505619,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Remington PG4000 Graphite G4 Erkek Bakım Kiti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724668875735,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597990367,
+      "__unknown_productSubTitle": "Remington PG4000 Graphite G4 Erkek Bakım Kiti Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 505620,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Remington PG4000 Graphite G4 Erkek Bakım Kiti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1712586116363,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/08/49/86/26/08/97/25/56/77/78/87301768660688876753.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 422105433,
+      "__unknown_productSubTitle": "Remington PG4000 Graphite G4 Erkek Bakım Kiti Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4340622,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/08/49/86/26/08/97/25/56/77/78/87301768660688876753.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/08/49/86/26/08/97/25/56/77/78/87301768660688876753.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/08/49/86/26/08/97/25/56/77/78/87301768660688876753.jpg"
+    }
+  },
+  {
+    "gid_ref": 505621,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Remington PG4000 Graphite G4 Erkek Bakım Kiti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1650376848022,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 434269054,
+      "__unknown_productSubTitle": "Remington PG4000 Graphite G4 Erkek Bakım Kiti Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 505622,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Fena değil",
+      "productTitle": "Remington PG4000 Graphite G4 Erkek Bakım Kiti",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1639532960214,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 439558983,
+      "__unknown_productSubTitle": "Remington PG4000 Graphite G4 Erkek Bakım Kiti Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 505623,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün güzel",
+      "productTitle": "Remington PG4000 Graphite G4 Erkek Bakım Kiti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1607106600391,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 422105433,
+      "__unknown_productSubTitle": "Remington PG4000 Graphite G4 Erkek Bakım Kiti Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 505624,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Süper",
+      "productTitle": "Remington PG4000 Graphite G4 Erkek Bakım Kiti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1587635159379,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 422105433,
+      "__unknown_productSubTitle": "Remington PG4000 Graphite G4 Erkek Bakım Kiti Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 777185,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Defacto Kayık Yaka Triko Kazak D7670ax25wner105 Ekru",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1776027589439,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1776027589439,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 697547219,
+      "__unknown_productSubTitle": "Defacto Kayık Yaka Triko Kazak D7670ax25wner105 Ekru S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 777186,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Defacto Kayık Yaka Triko Kazak D7670ax25wner105 Ekru",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775564112764,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/07/48/81/40/92/02/43/86/82/64/88575411600823400586.png",
+      "__unknown_lastModifiedDate": 1775564112764,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 697547267,
+      "__unknown_productSubTitle": "Defacto Kayık Yaka Triko Kazak D7670ax25wner105 Ekru XL",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8577515,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/07/48/81/40/92/02/43/86/82/64/88575411600823400586.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/07/48/81/40/92/02/43/86/82/64/88575411600823400586.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/07/48/81/40/92/02/43/86/82/64/88575411600823400586.png"
+    }
+  },
+  {
+    "gid_ref": 777187,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Defacto Kayık Yaka Triko Kazak D7670ax25wner105 Ekru",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774957265398,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774957265398,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 697547018,
+      "__unknown_productSubTitle": "Defacto Kayık Yaka Triko Kazak D7670ax25wner105 Ekru M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

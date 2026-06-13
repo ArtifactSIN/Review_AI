@@ -1,0 +1,49 @@
+[
+  {
+    "gid_ref": 762583,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sesu Isıtılıcılı Set Roll On Ağda Makinesi Seti Soft",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759770836975,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/06/69/35/91/02/00/08/77/13/00/16753288888994807374.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645406860,
+      "__unknown_productSubTitle": "Sesu Isıtılıcılı Set Roll On Ağda Makinesi Seti Soft",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7770319,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/06/69/35/91/02/00/08/77/13/00/16753288888994807374.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/06/69/35/91/02/00/08/77/13/00/16753288888994807374.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/06/69/35/91/02/00/08/77/13/00/16753288888994807374.jpg"
+    }
+  },
+  {
+    "gid_ref": 762584,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sesu Isıtılıcılı Set Roll On Ağda Makinesi Seti Soft",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1685996637827,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578050839,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1492708,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Solo Toys SoloTwist Twister Denge Oyunu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768994058729,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603492625,
+      "__unknown_productSubTitle": "Solo Toys SoloTwist Twister Denge Oyunu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492709,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Solo Toys SoloTwist Twister Denge Oyunu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766736918554,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603492625,
+      "__unknown_productSubTitle": "Solo Toys SoloTwist Twister Denge Oyunu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492710,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Solo Toys SoloTwist Twister Denge Oyunu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724314448469,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603492625,
+      "__unknown_productSubTitle": "Solo Toys SoloTwist Twister Denge Oyunu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

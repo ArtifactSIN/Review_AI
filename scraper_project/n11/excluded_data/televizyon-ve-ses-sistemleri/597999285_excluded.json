@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 1314731,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yesmed Extra Power 312 No Kulak Pili 5 Paketx6adet 30 Adet Pil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771633803338,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/21/64/76/25/12/08/76/43/32/52/14389077751220844756.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597999285,
+      "__unknown_productSubTitle": "Yesmed Extra Power 312 No Kulak Pili 5 Paketx6adet 30 Adet Pil",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8400311,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/21/64/76/25/12/08/76/43/32/52/14389077751220844756.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/21/64/76/25/12/08/76/43/32/52/14389077751220844756.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/21/64/76/25/12/08/76/43/32/52/14389077751220844756.png"
+    }
+  },
+  {
+    "gid_ref": 1314732,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yesmed Extra Power 312 No Kulak Pili 5 Paketx6adet 30 Adet Pil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763478927545,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597999285,
+      "__unknown_productSubTitle": "Yesmed Extra Power 312 No Kulak Pili 5 Paketx6adet 30 Adet Pil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 1291078,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "beğendim",
+      "productTitle": "Next Ye-10/24 Sonlu Santral Multiswitch",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1611948530568,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 189979489,
+      "__unknown_productSubTitle": "Next Ye-10/24 Sonlu Santral Multiswitch",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1291079,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ne de olsa next",
+      "productTitle": "Next Ye-10/24 Sonlu Santral Multiswitch",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1567514811142,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/19/09/03/60/72/23/44/23/22/69/16/24/44871180494541965315.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 189979489,
+      "__unknown_productSubTitle": "Next Ye-10/24 Sonlu Santral Multiswitch",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3152774,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/19/09/03/60/72/23/44/23/22/69/16/24/44871180494541965315.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/19/09/03/60/72/23/44/23/22/69/16/24/44871180494541965315.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/19/09/03/60/72/23/44/23/22/69/16/24/44871180494541965315.jpg"
+    }
+  }
+]

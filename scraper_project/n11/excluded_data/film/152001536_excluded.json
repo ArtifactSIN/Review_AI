@@ -1,0 +1,92 @@
+[
+  {
+    "gid_ref": 734977,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Everest - Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1722676887157,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/03/51/44/47/02/85/56/65/53/53/86409018362422772121.png",
+      "__unknown_lastModifiedDate": 1722677497260,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 152001536,
+      "__unknown_productSubTitle": "Everest - Dvd",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5340264,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/03/51/44/47/02/85/56/65/53/53/86409018362422772121.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/03/51/44/47/02/85/56/65/53/53/86409018362422772121.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/03/51/44/47/02/85/56/65/53/53/86409018362422772121.png"
+    }
+  },
+  {
+    "gid_ref": 734978,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Everest - Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1642240075708,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 152001536,
+      "__unknown_productSubTitle": "Everest - Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734979,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Everest - Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1639242730245,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 152001536,
+      "__unknown_productSubTitle": "Everest - Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734980,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "orj ürün",
+      "productTitle": "Everest - Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1578731365691,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 152001536,
+      "__unknown_productSubTitle": "Everest - Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

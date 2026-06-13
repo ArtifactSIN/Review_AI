@@ -1,0 +1,130 @@
+[
+  {
+    "gid_ref": 1412093,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karcher WV 2 Black Edition EU Cam Temizleyici",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762711472954,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 534154746,
+      "__unknown_productSubTitle": "Karcher WV 2 Black Edition EU Cam Temizleyici",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1412094,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karcher WV 2 Black Edition EU Cam Temizleyici",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739015208645,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/08/64/85/12/07/29/60/56/54/27/87219657534786548241.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569234173,
+      "__unknown_productSubTitle": "Karcher WV 2 Black Edition EU Cam Temizleyici",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6814478,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/08/64/85/12/07/29/60/56/54/27/87219657534786548241.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/08/64/85/12/07/29/60/56/54/27/87219657534786548241.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/08/64/85/12/07/29/60/56/54/27/87219657534786548241.jpg"
+    }
+  },
+  {
+    "gid_ref": 1412095,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karcher WV 2 Black Edition EU Cam Temizleyici",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719386379411,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578983236,
+      "__unknown_productSubTitle": "Karcher WV 2 Black Edition EU Cam Temizleyici",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1412096,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karcher WV 2 Black Edition EU Cam Temizleyici",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714379002540,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 534154746,
+      "__unknown_productSubTitle": "Karcher WV 2 Black Edition EU Cam Temizleyici",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1412097,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karcher WV 2 Black Edition EU Cam Temizleyici",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713470033987,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 539880454,
+      "__unknown_productSubTitle": "Karcher WV 2 Black Edition EU Cam Temizleyici",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1412098,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karcher WV 2 Black Edition EU Cam Temizleyici",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1701218459483,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 534154746,
+      "__unknown_productSubTitle": "Karcher WV 2 Black Edition EU Cam Temizleyici",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

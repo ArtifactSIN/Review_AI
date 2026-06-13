@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 1057883,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Elidor 7/24 Güçlü ve Parlak Şekillendirici Saç Bakım Kremi 240 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774638945330,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/56/94/22/73/09/04/10/76/48/52795096605394123679.jpg",
+      "__unknown_lastModifiedDate": 1774638945330,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645406766,
+      "__unknown_productSubTitle": "Elidor 7/24 Güçlü ve Parlak Şekillendirici Saç Bakım Kremi 240 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8524276,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/56/94/22/73/09/04/10/76/48/52795096605394123679.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/56/94/22/73/09/04/10/76/48/52795096605394123679.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/56/94/22/73/09/04/10/76/48/52795096605394123679.jpg"
+    }
+  },
+  {
+    "gid_ref": 1057884,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Elidor 7/24 Güçlü ve Parlak Şekillendirici Saç Bakım Kremi 240 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768107928180,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645406766,
+      "__unknown_productSubTitle": "Elidor 7/24 Güçlü ve Parlak Şekillendirici Saç Bakım Kremi 240 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1057885,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Elidor 7/24 Güçlü ve Parlak Şekillendirici Saç Bakım Kremi 240 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766512320673,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645406766,
+      "__unknown_productSubTitle": "Elidor 7/24 Güçlü ve Parlak Şekillendirici Saç Bakım Kremi 240 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

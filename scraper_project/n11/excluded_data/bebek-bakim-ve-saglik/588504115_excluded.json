@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 192297,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Anchor Bebek Tırnak Makası 605",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772631489167,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588504115,
+      "__unknown_productSubTitle": "Anchor Bebek Tırnak Makası 605 Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 192298,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Anchor Bebek Tırnak Makası 605",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763211426108,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/15/86/24/80/11/22/48/74/29/24/3578109437712878695.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588504115,
+      "__unknown_productSubTitle": "Anchor Bebek Tırnak Makası 605 Çok Renkli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7976280,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/15/86/24/80/11/22/48/74/29/24/3578109437712878695.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/15/86/24/80/11/22/48/74/29/24/3578109437712878695.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/15/86/24/80/11/22/48/74/29/24/3578109437712878695.png"
+    }
+  },
+  {
+    "gid_ref": 192299,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Anchor Bebek Tırnak Makası 605",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728716998885,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603105650,
+      "__unknown_productSubTitle": "Anchor Bebek Tırnak Makası 605 Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

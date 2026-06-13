@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 287155,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "E.C.A. Arceus EK 18 MT ERP 18 kW 15.480 Kcal/h Elektrikli Kombi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775674076387,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775674076387,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 672971578,
+      "__unknown_productSubTitle": "E.C.A. Arceus EK 18 MT ERP 18 kW 15.480 Kcal/h Elektrikli Kombi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 287156,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "E.C.A. Arceus EK 18 MT ERP 18 kW 15.480 Kcal/h Elektrikli Kombi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1748116640608,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652449811,
+      "__unknown_productSubTitle": "E.C.A. Arceus EK 18 MT ERP 18 kW 15.480 Kcal/h Elektrikli Kombi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

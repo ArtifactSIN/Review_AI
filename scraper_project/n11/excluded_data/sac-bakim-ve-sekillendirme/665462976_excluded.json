@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1062048,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Phyto Phytocolor 8.3 Light Golden Blonde",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719654633239,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 369278530,
+      "__unknown_productSubTitle": "Phyto Phytocolor 8.3 Light Golden Blonde 8.3 Sarı Dore",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1062049,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Phyto Phytocolor 8.3 Light Golden Blonde",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1710951901760,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 369278530,
+      "__unknown_productSubTitle": "Phyto Phytocolor 8.3 Light Golden Blonde 8.3 Sarı Dore",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

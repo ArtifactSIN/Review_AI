@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 423633,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Levora Antrasit Renk Modern Tasarım - Salon - Mutfak - Yatak Odası Beyaz Işıklı Led Avize Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768918943048,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 714882391,
+      "__unknown_productSubTitle": "Levora Antrasit Renk Modern Tasarım - Salon - Mutfak - Yatak Odası Beyaz Işıklı Led Avize Antrasit ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 423634,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Levora Antrasit Renk Modern Tasarım - Salon - Mutfak - Yatak Odası Beyaz Işıklı Led Avize Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765007888312,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/06/82/46/66/06/35/13/21/87/65/36581709902675686455.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 714882391,
+      "__unknown_productSubTitle": "Levora Antrasit Renk Modern Tasarım - Salon - Mutfak - Yatak Odası Beyaz Işıklı Led Avize Antrasit ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8069445,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/06/82/46/66/06/35/13/21/87/65/36581709902675686455.png"
+        },
+        {
+          "id": 8069446,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/06/78/57/48/61/03/99/39/11/94/68215550137939378076.png"
+        },
+        {
+          "id": 8069447,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/06/60/14/37/93/81/13/98/24/56/14257780666711127703.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/06/82/46/66/06/35/13/21/87/65/36581709902675686455.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/06/82/46/66/06/35/13/21/87/65/36581709902675686455.png"
+    }
+  }
+]

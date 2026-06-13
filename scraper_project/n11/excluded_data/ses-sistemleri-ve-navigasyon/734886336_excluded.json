@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 1157221,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Renault Dacia Radyo Usb Bluetooth Teyp 281159146R",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775359325340,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775359325340,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734886336,
+      "__unknown_productSubTitle": "Renault Dacia Radyo Usb Bluetooth Teyp 281159146R",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1157222,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Renault Dacia Radyo Usb Bluetooth Teyp 281159146R",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773466820960,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/14/48/71/64/77/65/72/36/08/92/69132240654077807386.jpg",
+      "__unknown_lastModifiedDate": 1773466820960,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734886336,
+      "__unknown_productSubTitle": "Renault Dacia Radyo Usb Bluetooth Teyp 281159146R",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8462742,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/14/48/71/64/77/65/72/36/08/92/69132240654077807386.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/14/48/71/64/77/65/72/36/08/92/69132240654077807386.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/14/48/71/64/77/65/72/36/08/92/69132240654077807386.jpg"
+    }
+  }
+]

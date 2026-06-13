@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 572509,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "George Henry 3'Lü Çekmeyen Pamuklu Kumaş Slim Fit Dar Kesim Kıvrılmaz Polo Yaka Tişört Paketi Siyah-K.Gri-Gri Siyah-Koyu Gri-Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775793424795,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/10/91/91/78/06/84/17/47/81/87/97443549935770683523.jpg",
+      "__unknown_lastModifiedDate": 1775793424795,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646323593,
+      "__unknown_productSubTitle": "George Henry 3'Lü Çekmeyen Pamuklu Kumaş Slim Fit Dar Kesim Kıvrılmaz Polo Yaka Tişört Paketi Siyah-K.Gri-Gri Siyah-Koyu Gri-Gri L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8592101,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/10/91/91/78/06/84/17/47/81/87/97443549935770683523.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/10/91/91/78/06/84/17/47/81/87/97443549935770683523.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/10/91/91/78/06/84/17/47/81/87/97443549935770683523.jpg"
+    }
+  },
+  {
+    "gid_ref": 572510,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "George Henry 3'Lü Çekmeyen Pamuklu Kumaş Slim Fit Dar Kesim Kıvrılmaz Polo Yaka Tişört Paketi Siyah-K.Gri-Gri Siyah-Koyu Gri-Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775592401967,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775592401967,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646323540,
+      "__unknown_productSubTitle": "George Henry 3'Lü Çekmeyen Pamuklu Kumaş Slim Fit Dar Kesim Kıvrılmaz Polo Yaka Tişört Paketi Siyah-K.Gri-Gri Siyah-Koyu Gri-Gri XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

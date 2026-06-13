@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 279231,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sma Optipro 2 Devam Sütü 900 G 6 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731152700510,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/09/57/80/13/98/41/68/21/29/83/45514850579540624743.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638653333,
+      "__unknown_productSubTitle": "Sma Optipro 2 Devam Sütü 900 G 6 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6180554,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/09/57/80/13/98/41/68/21/29/83/45514850579540624743.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/09/57/80/13/98/41/68/21/29/83/45514850579540624743.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/09/57/80/13/98/41/68/21/29/83/45514850579540624743.jpg"
+    }
+  },
+  {
+    "gid_ref": 279232,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sma Optipro 2 Devam Sütü 900 G 6 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730820278042,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638653333,
+      "__unknown_productSubTitle": "Sma Optipro 2 Devam Sütü 900 G 6 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 279233,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sma Optipro 2 Devam Sütü 900 G 6 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730799705853,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638653333,
+      "__unknown_productSubTitle": "Sma Optipro 2 Devam Sütü 900 G 6 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

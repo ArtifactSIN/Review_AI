@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 885540,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shell Advance 4t Ax5 15W50 Motosiklet Motor Yağı 1 L",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725652480538,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 543440393,
+      "__unknown_productSubTitle": "Kampanyalı Fiyatlar... %100 Müşteri Memnuniyeti...",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 885541,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shell Advance 4t Ax5 15W50 Motosiklet Motor Yağı 1 L",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725652474256,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 543440393,
+      "__unknown_productSubTitle": "Kampanyalı Fiyatlar... %100 Müşteri Memnuniyeti...",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 885542,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shell Advance 4t Ax5 15W50 Motosiklet Motor Yağı 1 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1713371008946,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/17/79/33/48/38/24/49/45/37/56/93016413481058155719.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578197202,
+      "__unknown_productSubTitle": "Shell Advance 4t Ax5 15W50 Motosiklet Motor Yağı 1 L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4435927,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/17/79/33/48/38/24/49/45/37/56/93016413481058155719.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/17/79/33/48/38/24/49/45/37/56/93016413481058155719.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/17/79/33/48/38/24/49/45/37/56/93016413481058155719.jpg"
+    }
+  },
+  {
+    "gid_ref": 885543,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shell Advance 4t Ax5 15W50 Motosiklet Motor Yağı 1 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1693465492247,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 578197202,
+      "__unknown_productSubTitle": "Shell Advance 4t Ax5 15W50 Motosiklet Motor Yağı 1 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

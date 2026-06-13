@@ -1,0 +1,119 @@
+[
+  {
+    "gid_ref": 886555,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bajaj Rs 200 Kayar Sinyalli Ayna Takımı Karbon",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769903160539,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590965883,
+      "__unknown_productSubTitle": "Bajaj Rs 200 Kayar Sinyalli Ayna Takımı Karbon ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 886556,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bajaj Rs 200 Kayar Sinyalli Ayna Takımı Karbon",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736925932648,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/15/62/32/93/92/92/35/69/08/96/74471947685706092183.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590965883,
+      "__unknown_productSubTitle": "Bajaj Rs 200 Kayar Sinyalli Ayna Takımı Karbon ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6710750,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/15/62/32/93/92/92/35/69/08/96/74471947685706092183.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/15/62/32/93/92/92/35/69/08/96/74471947685706092183.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/15/62/32/93/92/92/35/69/08/96/74471947685706092183.jpg"
+    }
+  },
+  {
+    "gid_ref": 886557,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bajaj Rs 200 Kayar Sinyalli Ayna Takımı Karbon",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729535687452,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590965883,
+      "__unknown_productSubTitle": "Bajaj Rs 200 Kayar Sinyalli Ayna Takımı Karbon ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 886558,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bajaj Rs 200 Kayar Sinyalli Ayna Takımı Karbon",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726009966476,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590965883,
+      "__unknown_productSubTitle": "Bajaj Rs 200 Kayar Sinyalli Ayna Takımı Karbon ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 886559,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bajaj Rs 200 Kayar Sinyalli Ayna Takımı Karbon",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1712145960516,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/03/84/28/04/16/21/33/57/98/78/55256649678218480509.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590965883,
+      "__unknown_productSubTitle": "Bajaj Rs 200 Kayar Sinyalli Ayna Takımı Karbon ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4337517,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/03/84/28/04/16/21/33/57/98/78/55256649678218480509.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/03/84/28/04/16/21/33/57/98/78/55256649678218480509.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/03/84/28/04/16/21/33/57/98/78/55256649678218480509.png"
+    }
+  }
+]

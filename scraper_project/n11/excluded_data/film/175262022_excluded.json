@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 735161,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rooster Cogburn Horoz Cogburn Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743812923556,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 175262022,
+      "__unknown_productSubTitle": "Rooster Cogburn Horoz Cogburn Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735162,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "film western",
+      "productTitle": "Rooster Cogburn Horoz Cogburn Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1500379936788,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 175262022,
+      "__unknown_productSubTitle": "Rooster Cogburn Horoz Cogburn Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

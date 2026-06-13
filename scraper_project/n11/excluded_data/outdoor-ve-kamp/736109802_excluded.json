@@ -1,0 +1,123 @@
+[
+  {
+    "gid_ref": 966959,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lumberjack 4W URSA 4PR Erkek  Siyah Outdoor",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770271163596,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 728734840,
+      "__unknown_productSubTitle": "Lumberjack 4W URSA 4PR Erkek  Siyah Outdoor   44",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 966960,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lumberjack 4W URSA 4PR Erkek  Siyah Outdoor",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1739024415622,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750436326946,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630156927,
+      "__unknown_productSubTitle": "Lumberjack 4W URSA 4PR Erkek  Siyah Outdoor   42",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 966961,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lumberjack 4W URSA 4PR Erkek  Siyah Outdoor",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734875895590,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/22/58/57/04/16/22/93/74/57/08/88643824900606701757.png",
+      "__unknown_lastModifiedDate": 1750436332487,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630156928,
+      "__unknown_productSubTitle": "Lumberjack 4W URSA 4PR Erkek  Siyah Outdoor   40",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6545844,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/22/58/57/04/16/22/93/74/57/08/88643824900606701757.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/22/58/57/04/16/22/93/74/57/08/88643824900606701757.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/22/58/57/04/16/22/93/74/57/08/88643824900606701757.png"
+    }
+  },
+  {
+    "gid_ref": 966962,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lumberjack 4W URSA 4PR Erkek  Siyah Outdoor",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1734875872162,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/22/60/49/27/73/96/14/37/98/23/91853114022943505965.png",
+      "__unknown_lastModifiedDate": 1750436326946,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630156927,
+      "__unknown_productSubTitle": "Lumberjack 4W URSA 4PR Erkek  Siyah Outdoor   42",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6552809,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/22/60/49/27/73/96/14/37/98/23/91853114022943505965.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/22/60/49/27/73/96/14/37/98/23/91853114022943505965.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/22/60/49/27/73/96/14/37/98/23/91853114022943505965.png"
+    }
+  },
+  {
+    "gid_ref": 966963,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Lumberjack 4W URSA 4PR Erkek  Siyah Outdoor",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731789317580,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750436340577,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630156924,
+      "__unknown_productSubTitle": "Lumberjack 4W URSA 4PR Erkek  Siyah Outdoor   43",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

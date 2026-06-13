@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 630099,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Fonte Halı Bej Bej",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767783273149,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 644732045,
+      "__unknown_productSubTitle": "Madame Coco Fonte Halı Bej Bej 160 x 230",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 630100,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Fonte Halı Bej Bej",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765306579056,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/09/68/08/90/92/64/67/12/87/67/77013766122433301878.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 644732045,
+      "__unknown_productSubTitle": "Madame Coco Fonte Halı Bej Bej 160 x 230",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8096469,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/09/68/08/90/92/64/67/12/87/67/77013766122433301878.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/09/68/08/90/92/64/67/12/87/67/77013766122433301878.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/09/68/08/90/92/64/67/12/87/67/77013766122433301878.png"
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 1517387,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hunca At Kestanesi Jel Krem 6 x 500 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773761035153,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773761035153,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 716684311,
+      "__unknown_productSubTitle": "Hunca At Kestanesi Jel Krem 6 x 500 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1517388,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hunca At Kestanesi Jel Krem 6 x 500 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1690141898498,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 341397008,
+      "__unknown_productSubTitle": "Hunca At Kestanesi Jel Krem 6 x 500 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1517389,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "mükemmel",
+      "productTitle": "Hunca At Kestanesi Jel Krem 6 x 500 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1562159550161,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 341397008,
+      "__unknown_productSubTitle": "Hunca At Kestanesi Jel Krem 6 x 500 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

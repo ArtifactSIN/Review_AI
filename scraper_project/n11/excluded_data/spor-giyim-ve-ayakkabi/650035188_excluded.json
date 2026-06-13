@@ -1,0 +1,92 @@
+[
+  {
+    "gid_ref": 1160274,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Günlük Şapka Daily Cap Ht6356",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774887089413,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/47/09/14/36/49/06/93/06/57/36044192391801910787.png",
+      "__unknown_lastModifiedDate": 1774887089413,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650035188,
+      "__unknown_productSubTitle": "Adidas Günlük Şapka Daily Cap Ht6356 Siyah - Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8542206,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/47/09/14/36/49/06/93/06/57/36044192391801910787.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/47/09/14/36/49/06/93/06/57/36044192391801910787.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/47/09/14/36/49/06/93/06/57/36044192391801910787.png"
+    }
+  },
+  {
+    "gid_ref": 1160275,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Günlük Şapka Daily Cap Ht6356",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773309200861,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773309200861,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635820952,
+      "__unknown_productSubTitle": "Adidas Günlük Şapka Daily Cap Ht6356 Siyah - Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1160276,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Günlük Şapka Daily Cap Ht6356",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764928828027,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577144294,
+      "__unknown_productSubTitle": "Adidas Günlük Şapka Daily Cap Ht6356 Siyah - Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1160277,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Günlük Şapka Daily Cap Ht6356",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763308205463,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577144294,
+      "__unknown_productSubTitle": "Adidas Günlük Şapka Daily Cap Ht6356 Siyah - Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

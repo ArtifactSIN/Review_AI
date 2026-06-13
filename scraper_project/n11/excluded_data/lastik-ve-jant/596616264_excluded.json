@@ -1,0 +1,75 @@
+[
+  {
+    "gid_ref": 825361,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bmw Jant Göbeği- 3 Serisi E36 E46 E90 E92 Made İn Germany-4 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774626233924,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/78/24/39/59/49/86/92/19/51/44516386085073537928.png",
+      "__unknown_lastModifiedDate": 1774626233924,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596616264,
+      "__unknown_productSubTitle": "Bmw Jant Göbeği- 3 Serisi E36 E46 E90 E92 Made İn Germany-4 Adet",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8526863,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/78/24/39/59/49/86/92/19/51/44516386085073537928.png"
+        },
+        {
+          "id": 8526864,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/69/83/53/75/40/41/61/57/07/71104759612803166679.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/78/24/39/59/49/86/92/19/51/44516386085073537928.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/78/24/39/59/49/86/92/19/51/44516386085073537928.png"
+    }
+  },
+  {
+    "gid_ref": 825362,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bmw Jant Göbeği- 3 Serisi E36 E46 E90 E92 Made İn Germany-4 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725275171572,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 596616264,
+      "__unknown_productSubTitle": "Bmw Jant Göbeği- 3 Serisi E36 E46 E90 E92 Made İn Germany-4 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 825363,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bmw Jant Göbeği- 3 Serisi E36 E46 E90 E92 Made İn Germany-4 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1661322648794,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 504143751,
+      "__unknown_productSubTitle": "Bmw Jant Göbeği- 3 Serisi E36 E46 E90 E92 Made İn Germany-4 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

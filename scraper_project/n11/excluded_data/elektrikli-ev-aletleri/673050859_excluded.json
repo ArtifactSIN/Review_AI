@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 473460,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arçelik KO 9420 Kahve Öğütücü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775591861094,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/07/48/16/70/84/66/87/70/12/36/32476088942468053261.png",
+      "__unknown_lastModifiedDate": 1775591861094,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 673050859,
+      "__unknown_productSubTitle": "Arçelik KO 9420 Kahve Öğütücü Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8575379,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/07/48/16/70/84/66/87/70/12/36/32476088942468053261.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/07/48/16/70/84/66/87/70/12/36/32476088942468053261.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/07/48/16/70/84/66/87/70/12/36/32476088942468053261.png"
+    }
+  },
+  {
+    "gid_ref": 473461,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arçelik KO 9420 Kahve Öğütücü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748451750453,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 673050859,
+      "__unknown_productSubTitle": "Arçelik KO 9420 Kahve Öğütücü Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

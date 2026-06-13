@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 500214,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ships  Ships Baby  Bebek Emzirme Önlüğü / My Friend Pembe",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1686249015004,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 92574701,
+      "__unknown_productSubTitle": "Ships  Ships Baby  Bebek Emzirme Önlüğü / My Friend Pembe Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 500215,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün hakkında",
+      "productTitle": "Ships  Ships Baby  Bebek Emzirme Önlüğü / My Friend Pembe",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1455702632200,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 92574701,
+      "__unknown_productSubTitle": "Ships  Ships Baby  Bebek Emzirme Önlüğü / My Friend Pembe Standart",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

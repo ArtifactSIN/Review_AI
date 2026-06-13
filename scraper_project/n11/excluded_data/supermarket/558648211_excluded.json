@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1199612,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çaykur Rize Hediyelik Siyah Dökme Çay 15 x 500 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738504434327,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558648211,
+      "__unknown_productSubTitle": "Çaykur Rize Hediyelik Siyah Dökme Çay 15 x 500 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1199613,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Çaykur Rize Hediyelik Siyah Dökme Çay 15 x 500 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726569460715,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/17/92/06/67/82/53/61/97/30/94/68433075805118155227.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558648211,
+      "__unknown_productSubTitle": "Çaykur Rize Hediyelik Siyah Dökme Çay 15 x 500 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5683691,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/17/92/06/67/82/53/61/97/30/94/68433075805118155227.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/17/92/06/67/82/53/61/97/30/94/68433075805118155227.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/17/92/06/67/82/53/61/97/30/94/68433075805118155227.png"
+    }
+  },
+  {
+    "gid_ref": 1199614,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kargo dışında her şey iyiydi.",
+      "productTitle": "Çaykur Rize Hediyelik Siyah Dökme Çay 15 x 500 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1585559630923,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 387279618,
+      "__unknown_productSubTitle": "Çaykur Rize Hediyelik Çayı 500 gr x 15 Adet",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

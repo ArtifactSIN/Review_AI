@@ -1,0 +1,72 @@
+[
+  {
+    "gid_ref": 761302,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Veet Hassas Ciltler İçin Tüy Dökücü Krem Sprey 3 x 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774531360535,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/58/88/17/98/36/51/53/84/49/09210123234242872600.jpg",
+      "__unknown_lastModifiedDate": 1774531360535,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639827970,
+      "__unknown_productSubTitle": "Veet Hassas Ciltler İçin Tüy Dökücü Krem Sprey 3 x 150 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8518304,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/58/88/17/98/36/51/53/84/49/09210123234242872600.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/58/88/17/98/36/51/53/84/49/09210123234242872600.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/58/88/17/98/36/51/53/84/49/09210123234242872600.jpg"
+    }
+  },
+  {
+    "gid_ref": 761303,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Veet Hassas Ciltler İçin Tüy Dökücü Krem Sprey 3 x 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772198490190,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639827970,
+      "__unknown_productSubTitle": "Veet Hassas Ciltler İçin Tüy Dökücü Krem Sprey 3 x 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 761304,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Veet Hassas Ciltler İçin Tüy Dökücü Krem Sprey 3 x 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761149574939,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 637099269,
+      "__unknown_productSubTitle": "Veet Hassas Ciltler İçin Tüy Dökücü Krem Sprey 3 x 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

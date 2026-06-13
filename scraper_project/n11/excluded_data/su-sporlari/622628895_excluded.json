@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1163881,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apnea Sırt Ağırlık Yeleği (509991343)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1756760624811,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 622628830,
+      "__unknown_productSubTitle": "Apnea Sırt Ağırlık Yeleği (509991343) Siyah 5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1163882,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Apnea Sırt Ağırlık Yeleği (509991343)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1716025465365,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 509991343,
+      "__unknown_productSubTitle": "Apnea Sırt Ağırlık Yeleği (509991343) Kamuflaj 5",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

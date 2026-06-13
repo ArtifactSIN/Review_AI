@@ -1,0 +1,91 @@
+[
+  {
+    "gid_ref": 815678,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zeduva Yayınları Türkçe Saati Tyt Dil Bilgisi 1 Kitap 3 Kamp Soru",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769506810332,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 680322895,
+      "__unknown_productSubTitle": "Zeduva Yayınları Türkçe Saati Tyt Dil Bilgisi 1 Kitap 3 Kamp Soru",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 815679,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zeduva Yayınları Türkçe Saati Tyt Dil Bilgisi 1 Kitap 3 Kamp Soru",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763743667473,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 680322895,
+      "__unknown_productSubTitle": "Zeduva Yayınları Türkçe Saati Tyt Dil Bilgisi 1 Kitap 3 Kamp Soru",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 815680,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zeduva Yayınları Türkçe Saati Tyt Dil Bilgisi 1 Kitap 3 Kamp Soru",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763102638800,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/14/87/35/59/98/36/08/05/47/85/6999048551373453900.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 680322895,
+      "__unknown_productSubTitle": "Zeduva Yayınları Türkçe Saati Tyt Dil Bilgisi 1 Kitap 3 Kamp Soru",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7967907,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/14/87/35/59/98/36/08/05/47/85/6999048551373453900.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/14/87/35/59/98/36/08/05/47/85/6999048551373453900.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/14/87/35/59/98/36/08/05/47/85/6999048551373453900.png"
+    }
+  },
+  {
+    "gid_ref": 815681,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Zeduva Yayınları Türkçe Saati Tyt Dil Bilgisi 1 Kitap 3 Kamp Soru",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760609076371,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 680322895,
+      "__unknown_productSubTitle": "Zeduva Yayınları Türkçe Saati Tyt Dil Bilgisi 1 Kitap 3 Kamp Soru",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

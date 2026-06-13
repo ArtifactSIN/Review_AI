@@ -1,0 +1,80 @@
+[
+  {
+    "gid_ref": 261212,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hugoy Fitilli Sünger Yatak 10 x 70 x 160 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709742507721,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/06/61/37/74/34/42/34/18/34/02/04781670752432311796.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 463202223,
+      "__unknown_productSubTitle": "Hugoy Fitilli Sünger Yatak 10 x 70 x 160 CM",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4063517,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/06/61/37/74/34/42/34/18/34/02/04781670752432311796.jpg"
+        },
+        {
+          "id": 4063518,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/06/86/95/17/54/90/21/86/26/85/43434167446163703140.jpg"
+        },
+        {
+          "id": 4063519,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/06/50/26/37/00/14/67/75/75/91/23966075324981886342.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/06/61/37/74/34/42/34/18/34/02/04781670752432311796.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/06/61/37/74/34/42/34/18/34/02/04781670752432311796.jpg"
+    }
+  },
+  {
+    "gid_ref": 261213,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün sıradan sünger",
+      "productTitle": "Hugoy Fitilli Sünger Yatak 10 x 70 x 160 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1636477855152,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 463202223,
+      "__unknown_productSubTitle": "Hugoy Fitilli Sünger Yatak 10 x 70 x 160 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 261214,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Yeterli",
+      "productTitle": "Hugoy Fitilli Sünger Yatak 10 x 70 x 160 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1628759175016,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 463202223,
+      "__unknown_productSubTitle": "Hugoy Fitilli Sünger Yatak 10 x 70 x 160 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

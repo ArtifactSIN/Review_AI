@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 371924,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Altis Bs20 Badminton Raket Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748013807478,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/23/57/23/29/13/10/89/85/07/13/46934519169776504146.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 654471187,
+      "__unknown_productSubTitle": "Altis Bs20 Badminton Raket Seti",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7258352,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/23/57/23/29/13/10/89/85/07/13/46934519169776504146.jpg"
+        },
+        {
+          "id": 7258353,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/23/48/23/91/04/16/74/16/75/06/22577563617589640574.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/23/57/23/29/13/10/89/85/07/13/46934519169776504146.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/23/57/23/29/13/10/89/85/07/13/46934519169776504146.jpg"
+    }
+  },
+  {
+    "gid_ref": 371925,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Altis Bs20 Badminton Raket Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732205347079,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 459086181,
+      "__unknown_productSubTitle": "Altis Bs20 Badminton Raket Seti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

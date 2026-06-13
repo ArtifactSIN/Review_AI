@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 735343,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-Hustle - Cinayet Bulmacası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739567565679,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 264428697,
+      "__unknown_productSubTitle": "Dvd-Hustle - Cinayet Bulmacası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735344,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "teşekkür ederim ",
+      "productTitle": "Dvd-Hustle - Cinayet Bulmacası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1545157514217,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 264428697,
+      "__unknown_productSubTitle": "Dvd-Hustle - Cinayet Bulmacası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

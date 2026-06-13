@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 488867,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İhlas Aura AU3001 Kıvam 1.8 L Çay Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775856327836,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775856327836,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 734851982,
+      "__unknown_productSubTitle": "İhlas Aura AU3001 Kıvam 1.8 L Çay Makinesi Inox",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 488868,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İhlas Aura AU3001 Kıvam 1.8 L Çay Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731441481610,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/12/53/66/70/82/09/08/55/34/45/57084112110393212570.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640567614,
+      "__unknown_productSubTitle": "İhlas Aura AU3001 Kıvam 1.8 L Çay Makinesi Inox",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6208808,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/12/53/66/70/82/09/08/55/34/45/57084112110393212570.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/12/53/66/70/82/09/08/55/34/45/57084112110393212570.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/12/53/66/70/82/09/08/55/34/45/57084112110393212570.jpg"
+    }
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "gid_ref": 1223862,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tchibo Gold Çözünebilir Kahve 4 x 150 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766475388385,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/23/54/13/05/33/67/29/05/04/48/62755540459888554246.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632293940,
+      "__unknown_productSubTitle": "Tchibo Gold Çözünebilir Kahve 4 x 150 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8156436,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/23/54/13/05/33/67/29/05/04/48/62755540459888554246.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/23/54/13/05/33/67/29/05/04/48/62755540459888554246.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/23/54/13/05/33/67/29/05/04/48/62755540459888554246.png"
+    }
+  },
+  {
+    "gid_ref": 1223863,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tchibo Gold Çözünebilir Kahve 4 x 150 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755797081199,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632293940,
+      "__unknown_productSubTitle": "Tchibo Gold Çözünebilir Kahve 4 x 150 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1223864,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tchibo Gold Çözünebilir Kahve 4 x 150 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1745232961431,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632293940,
+      "__unknown_productSubTitle": "Tchibo Gold Çözünebilir Kahve 4 x 150 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1223865,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tchibo Gold Çözünebilir Kahve 4 x 150 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733252164053,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/03/76/70/76/88/66/76/93/61/76/27567686804648344654.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632293940,
+      "__unknown_productSubTitle": "Tchibo Gold Çözünebilir Kahve 4 x 150 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6405588,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/03/76/70/76/88/66/76/93/61/76/27567686804648344654.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/03/76/70/76/88/66/76/93/61/76/27567686804648344654.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/03/76/70/76/88/66/76/93/61/76/27567686804648344654.jpg"
+    }
+  },
+  {
+    "gid_ref": 1223866,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tchibo Gold Çözünebilir Kahve 4 x 150 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732723497429,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632293940,
+      "__unknown_productSubTitle": "Tchibo Gold Çözünebilir Kahve 4 x 150 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "gid_ref": 108309,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İsme Özel Plakalık Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775232882714,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/03/70/30/12/62/96/53/07/28/81/01667004700903912260.png",
+      "__unknown_lastModifiedDate": 1775232882714,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727671269,
+      "__unknown_productSubTitle": "İsme Özel Plakalık Seti Diğer Diğer",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8564272,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/03/70/30/12/62/96/53/07/28/81/01667004700903912260.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/03/70/30/12/62/96/53/07/28/81/01667004700903912260.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/03/70/30/12/62/96/53/07/28/81/01667004700903912260.png"
+    }
+  },
+  {
+    "gid_ref": 108310,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İsme Özel Plakalık Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774358731482,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/24/79/78/26/45/22/97/13/49/55/84625080842681598427.jpg",
+      "__unknown_lastModifiedDate": 1774358731482,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727671269,
+      "__unknown_productSubTitle": "İsme Özel Plakalık Seti Diğer Diğer",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8497673,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/24/79/78/26/45/22/97/13/49/55/84625080842681598427.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/24/79/78/26/45/22/97/13/49/55/84625080842681598427.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/24/79/78/26/45/22/97/13/49/55/84625080842681598427.jpg"
+    }
+  },
+  {
+    "gid_ref": 108311,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İsme Özel Plakalık Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773691879567,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773691879567,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727671269,
+      "__unknown_productSubTitle": "İsme Özel Plakalık Seti Diğer Diğer",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 108312,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İsme Özel Plakalık Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773062103637,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773062103637,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727671269,
+      "__unknown_productSubTitle": "İsme Özel Plakalık Seti Diğer Diğer",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 108313,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "İsme Özel Plakalık Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772889345996,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772889345996,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727671269,
+      "__unknown_productSubTitle": "İsme Özel Plakalık Seti Diğer Diğer",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

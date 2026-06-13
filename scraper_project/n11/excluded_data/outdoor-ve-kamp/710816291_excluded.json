@@ -1,0 +1,55 @@
+[
+  {
+    "gid_ref": 964348,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The North Face Glenclyffe Urban Unisex Beyaz Outdoor Ayakkabı Düz Nf0a83njrou1 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769248111497,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/24/73/88/94/20/72/84/29/80/60/12274184762309914684.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 710816256,
+      "__unknown_productSubTitle": "The North Face Glenclyffe Urban Unisex Beyaz Outdoor Ayakkabı Düz Nf0a83njrou1 Beyaz 39",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8288323,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/24/75/87/95/03/31/31/40/84/41/51008851254688564681.png"
+        },
+        {
+          "id": 8288324,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/24/51/02/06/04/61/34/79/02/24/91722726388243281478.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/24/73/88/94/20/72/84/29/80/60/12274184762309914684.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/24/73/88/94/20/72/84/29/80/60/12274184762309914684.png"
+    }
+  },
+  {
+    "gid_ref": 964349,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The North Face Glenclyffe Urban Unisex Beyaz Outdoor Ayakkabı Düz Nf0a83njrou1 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763654270813,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 710816256,
+      "__unknown_productSubTitle": "The North Face Glenclyffe Urban Unisex Beyaz Outdoor Ayakkabı Düz Nf0a83njrou1 Beyaz 39",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

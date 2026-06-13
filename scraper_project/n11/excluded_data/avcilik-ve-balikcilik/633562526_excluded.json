@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 123939,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hedyex 5kg Sazan Küspesi Delikli Küp Mısır Küspesi Kare",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771167127024,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/15/84/62/22/87/39/79/85/79/82/327963634318553759.jpg",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633562526,
+      "__unknown_productSubTitle": "Hedyex 5kg Sazan Küspesi Delikli Küp Mısır Küspesi Kare 5 Kg",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8363639,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/15/84/62/22/87/39/79/85/79/82/327963634318553759.jpg"
+        }
+      ],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/15/84/62/22/87/39/79/85/79/82/327963634318553759.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/15/84/62/22/87/39/79/85/79/82/327963634318553759.jpg"
+    }
+  }
+]

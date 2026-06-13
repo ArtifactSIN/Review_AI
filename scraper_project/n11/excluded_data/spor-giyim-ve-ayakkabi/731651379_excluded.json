@@ -1,0 +1,60 @@
+[
+  {
+    "gid_ref": 1161874,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Runblaze M Erkek Koşu Ayakkabısı Kı6134 Siyah Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774386460188,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774386460188,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 731651379,
+      "__unknown_productSubTitle": "Adidas Runblaze M Erkek Koşu Ayakkabısı Kı6134 Siyah Siyah 48",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161875,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Runblaze M Erkek Koşu Ayakkabısı Kı6134 Siyah Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772538293308,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/03/84/08/11/19/40/86/52/51/71/41555310414480457463.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 731651379,
+      "__unknown_productSubTitle": "Adidas Runblaze M Erkek Koşu Ayakkabısı Kı6134 Siyah Siyah 48",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8424346,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/03/84/08/11/19/40/86/52/51/71/41555310414480457463.png"
+        },
+        {
+          "id": 8424347,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/03/71/46/62/80/14/68/02/44/41/34063291767649946937.png"
+        },
+        {
+          "id": 8424348,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/03/60/24/27/23/78/14/48/50/79/68099480855553589339.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/03/84/08/11/19/40/86/52/51/71/41555310414480457463.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/03/84/08/11/19/40/86/52/51/71/41555310414480457463.png"
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 949256,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Huggy Rockie Ana Kucağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769356222644,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/25/78/24/18/52/51/52/72/45/97/0561408636151314396.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640968100,
+      "__unknown_productSubTitle": "Huggy Rockie Ana Kucağı Antrasit",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8285935,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/25/78/24/18/52/51/52/72/45/97/0561408636151314396.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/25/78/24/18/52/51/52/72/45/97/0561408636151314396.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/25/78/24/18/52/51/52/72/45/97/0561408636151314396.png"
+    }
+  },
+  {
+    "gid_ref": 949257,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Huggy Rockie Ana Kucağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755977114921,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640968100,
+      "__unknown_productSubTitle": "Huggy Rockie Ana Kucağı Antrasit",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 949258,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Huggy Rockie Ana Kucağı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736687779394,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 640968100,
+      "__unknown_productSubTitle": "Huggy Rockie Ana Kucağı Antrasit",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

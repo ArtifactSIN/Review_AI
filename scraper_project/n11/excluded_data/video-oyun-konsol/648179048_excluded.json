@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 1340073,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Minecraft Bedrock Edition Nintendo Switch Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1725449426311,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 355983293,
+      "__unknown_productSubTitle": "Minecraft Bedrock Edition Nintendo Switch Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1340074,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Çok güzel mükemmel",
+      "productTitle": "Minecraft Bedrock Edition Nintendo Switch Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1564305377099,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 355983293,
+      "__unknown_productSubTitle": "Minecraft Bedrock Edition Nintendo Switch Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1340075,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Orijinal",
+      "productTitle": "Minecraft Bedrock Edition Nintendo Switch Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1550068059628,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 267930060,
+      "__unknown_productSubTitle": "Minecraft Bedrock Edition Nintendo Switch Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

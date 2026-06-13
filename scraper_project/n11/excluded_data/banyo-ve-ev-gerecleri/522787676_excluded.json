@@ -1,0 +1,101 @@
+[
+  {
+    "gid_ref": 144882,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bien Ferra Eviye Bataryası Mafsallı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774617882427,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/27/57/97/24/45/01/58/62/75/73/778747969893976478.jpg",
+      "__unknown_lastModifiedDate": 1774617882427,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 522787676,
+      "__unknown_productSubTitle": "Bien Ferra Eviye Bataryası Mafsallı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8528461,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/27/57/97/24/45/01/58/62/75/73/778747969893976478.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/27/57/97/24/45/01/58/62/75/73/778747969893976478.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/27/57/97/24/45/01/58/62/75/73/778747969893976478.jpg"
+    }
+  },
+  {
+    "gid_ref": 144883,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bien Ferra Eviye Bataryası Mafsallı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769159918850,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 522787676,
+      "__unknown_productSubTitle": "Bien Ferra Eviye Bataryası Mafsallı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 144884,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bien Ferra Eviye Bataryası Mafsallı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769159613519,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 522787676,
+      "__unknown_productSubTitle": "Bien Ferra Eviye Bataryası Mafsallı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 144885,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bien Ferra Eviye Bataryası Mafsallı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1694877955860,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/09/16/86/02/80/77/69/15/49/02/31/35063772109959807271.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 522787676,
+      "__unknown_productSubTitle": "Bien Ferra Eviye Bataryası Mafsallı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2412253,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/09/16/86/02/80/77/69/15/49/02/31/35063772109959807271.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/09/16/86/02/80/77/69/15/49/02/31/35063772109959807271.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/09/16/86/02/80/77/69/15/49/02/31/35063772109959807271.jpg"
+    }
+  }
+]

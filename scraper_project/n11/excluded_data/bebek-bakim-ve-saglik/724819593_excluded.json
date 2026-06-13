@@ -1,0 +1,138 @@
+[
+  {
+    "gid_ref": 208720,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyton Bebek ve Çocuklar İçin Doğal Saç Kremi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742993219443,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589684414,
+      "__unknown_productSubTitle": "Babyton Bebek ve Çocuklar İçin Doğal Saç Kremi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 208721,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyton Bebek ve Çocuklar İçin Doğal Saç Kremi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742993055825,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589684414,
+      "__unknown_productSubTitle": "Babyton Bebek ve Çocuklar İçin Doğal Saç Kremi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 208722,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyton Bebek ve Çocuklar İçin Doğal Saç Kremi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733659740827,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605663054,
+      "__unknown_productSubTitle": "Babyton Bebek ve Çocuklar İçin Doğal Saç Kremi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 208723,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyton Bebek ve Çocuklar İçin Doğal Saç Kremi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727205400742,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/24/46/74/60/93/48/76/05/62/39/76992326804743371557.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589684414,
+      "__unknown_productSubTitle": "Babyton Bebek ve Çocuklar İçin Doğal Saç Kremi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5743526,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/24/46/74/60/93/48/76/05/62/39/76992326804743371557.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/24/46/74/60/93/48/76/05/62/39/76992326804743371557.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/24/46/74/60/93/48/76/05/62/39/76992326804743371557.jpg"
+    }
+  },
+  {
+    "gid_ref": 208724,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyton Bebek ve Çocuklar İçin Doğal Saç Kremi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1719213157431,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/24/83/79/99/49/08/79/94/15/98/63556633917865439354.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 605663054,
+      "__unknown_productSubTitle": "Babyton Bebek ve Çocuklar İçin Doğal Saç Kremi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5034437,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/24/83/79/99/49/08/79/94/15/98/63556633917865439354.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/24/83/79/99/49/08/79/94/15/98/63556633917865439354.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/24/83/79/99/49/08/79/94/15/98/63556633917865439354.png"
+    }
+  },
+  {
+    "gid_ref": 208725,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyton Bebek ve Çocuklar İçin Doğal Saç Kremi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1700672565461,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589684414,
+      "__unknown_productSubTitle": "Babyton Bebek ve Çocuklar İçin Doğal Saç Kremi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

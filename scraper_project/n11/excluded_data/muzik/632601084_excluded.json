@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 946421,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "400 Serisi Darbuka Kılıfı Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774868809432,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/65/14/37/79/30/61/99/63/86/71053765404747478826.jpeg",
+      "__unknown_lastModifiedDate": 1774868809432,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632601084,
+      "__unknown_productSubTitle": "400 Serisi Darbuka Kılıfı Siyah ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8535475,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/65/14/37/79/30/61/99/63/86/71053765404747478826.jpeg"
+        },
+        {
+          "id": 8535476,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/80/02/26/43/33/07/21/55/79/08151430346633790866.jpeg"
+        },
+        {
+          "id": 8535477,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/65/11/25/45/99/76/26/43/11/74905592051032110616.jpeg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/65/14/37/79/30/61/99/63/86/71053765404747478826.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/65/14/37/79/30/61/99/63/86/71053765404747478826.jpeg"
+    }
+  },
+  {
+    "gid_ref": 946422,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "400 Serisi Darbuka Kılıfı Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766650938435,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632601084,
+      "__unknown_productSubTitle": "400 Serisi Darbuka Kılıfı Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946423,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "400 Serisi Darbuka Kılıfı Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758579700502,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632601084,
+      "__unknown_productSubTitle": "400 Serisi Darbuka Kılıfı Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946424,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "400 Serisi Darbuka Kılıfı Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1741025791134,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632601084,
+      "__unknown_productSubTitle": "400 Serisi Darbuka Kılıfı Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

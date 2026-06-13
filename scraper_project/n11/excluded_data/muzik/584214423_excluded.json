@@ -1,0 +1,122 @@
+[
+  {
+    "gid_ref": 946137,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Presto Piyano Taburesi Siyah Metal",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763413309724,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584214423,
+      "__unknown_productSubTitle": "Presto Piyano Taburesi Siyah Metal ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946138,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Presto Piyano Taburesi Siyah Metal",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759197554415,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584214423,
+      "__unknown_productSubTitle": "Presto Piyano Taburesi Siyah Metal ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946139,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Presto Piyano Taburesi Siyah Metal",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742035809373,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584214423,
+      "__unknown_productSubTitle": "Presto Piyano Taburesi Siyah Metal ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 946140,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Presto Piyano Taburesi Siyah Metal",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729363468449,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/19/65/64/94/79/42/18/05/14/01/75834941470715788552.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584214423,
+      "__unknown_productSubTitle": "Presto Piyano Taburesi Siyah Metal ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5975065,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/19/65/64/94/79/42/18/05/14/01/75834941470715788552.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/19/65/64/94/79/42/18/05/14/01/75834941470715788552.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/19/65/64/94/79/42/18/05/14/01/75834941470715788552.jpg"
+    }
+  },
+  {
+    "gid_ref": 946141,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Presto Piyano Taburesi Siyah Metal",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1718463268588,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/06/15/91/51/63/26/64/21/57/04/12/17426157452579914379.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 584214423,
+      "__unknown_productSubTitle": "Presto Piyano Taburesi Siyah Metal ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4987874,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/15/91/51/63/26/64/21/57/04/12/17426157452579914379.png"
+        },
+        {
+          "id": 4987875,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/06/15/71/25/05/37/92/61/30/30/94/32138088884585121538.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/06/15/91/51/63/26/64/21/57/04/12/17426157452579914379.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/06/15/91/51/63/26/64/21/57/04/12/17426157452579914379.png"
+    }
+  }
+]

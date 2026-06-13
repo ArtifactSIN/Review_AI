@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 124874,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Savage Gear Orange Ltd 4000 Fd 8+1bb Olta Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766194862586,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 704709179,
+      "__unknown_productSubTitle": "Savage Gear Orange Ltd 4000 Fd 8+1bb Olta Makinesi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 124875,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Savage Gear Orange Ltd 4000 Fd 8+1bb Olta Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765442681736,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 704709179,
+      "__unknown_productSubTitle": "Savage Gear Orange Ltd 4000 Fd 8+1bb Olta Makinesi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

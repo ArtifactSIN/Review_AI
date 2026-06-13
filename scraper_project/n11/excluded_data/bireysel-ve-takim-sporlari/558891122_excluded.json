@@ -1,0 +1,34 @@
+[
+  {
+    "gid_ref": 368597,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tryon FT180 3 No Futbol Topu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719945896932,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/07/02/78/20/39/87/64/97/95/55/11/03994642432696077824.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 558891122,
+      "__unknown_productSubTitle": "Tryon FT180 3 No Futbol Topu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5121121,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/02/78/20/39/87/64/97/95/55/11/03994642432696077824.png"
+        },
+        {
+          "id": 5121122,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/07/02/75/05/46/98/48/41/52/07/81/34224928826586383757.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/07/02/78/20/39/87/64/97/95/55/11/03994642432696077824.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/07/02/78/20/39/87/64/97/95/55/11/03994642432696077824.png"
+    }
+  }
+]

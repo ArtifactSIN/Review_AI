@@ -1,0 +1,84 @@
+[
+  {
+    "gid_ref": 1264817,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Huawei Mate 20 Lite Ekran Dokunmatik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772607216450,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 636977093,
+      "__unknown_productSubTitle": "Huawei Mate 20 Lite Ekran Dokunmatik Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1264818,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Huawei Mate 20 Lite Ekran Dokunmatik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771957284659,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 636977093,
+      "__unknown_productSubTitle": "Huawei Mate 20 Lite Ekran Dokunmatik Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1264819,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Huawei Mate 20 Lite Ekran Dokunmatik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1743519070509,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 636977093,
+      "__unknown_productSubTitle": "Huawei Mate 20 Lite Ekran Dokunmatik Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1264820,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Huawei Mate 20 Lite Ekran Dokunmatik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740605750304,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 636977093,
+      "__unknown_productSubTitle": "Huawei Mate 20 Lite Ekran Dokunmatik Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

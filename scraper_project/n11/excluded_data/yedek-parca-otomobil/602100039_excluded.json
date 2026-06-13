@@ -1,0 +1,113 @@
+[
+  {
+    "gid_ref": 1462125,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fiat Palio Albea Siena Iç Güneşlik Takımı Açık Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1776119140463,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/14/75/87/02/86/73/80/30/36/00/14133060693620604366.png",
+      "__unknown_lastModifiedDate": 1776119140463,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602100039,
+      "__unknown_productSubTitle": "Fiat Palio Albea Siena Iç Güneşlik Takımı Açık Gri ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8601590,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/14/75/87/02/86/73/80/30/36/00/14133060693620604366.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/14/75/87/02/86/73/80/30/36/00/14133060693620604366.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/14/75/87/02/86/73/80/30/36/00/14133060693620604366.png"
+    }
+  },
+  {
+    "gid_ref": 1462126,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fiat Palio Albea Siena Iç Güneşlik Takımı Açık Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1776069432021,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1776069432021,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602100039,
+      "__unknown_productSubTitle": "Fiat Palio Albea Siena Iç Güneşlik Takımı Açık Gri ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1462127,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fiat Palio Albea Siena Iç Güneşlik Takımı Açık Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775069589506,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775069589506,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602100039,
+      "__unknown_productSubTitle": "Fiat Palio Albea Siena Iç Güneşlik Takımı Açık Gri ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1462128,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fiat Palio Albea Siena Iç Güneşlik Takımı Açık Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758949114454,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602100039,
+      "__unknown_productSubTitle": "Fiat Palio Albea Siena Iç Güneşlik Takımı Açık Gri ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1462129,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fiat Palio Albea Siena Iç Güneşlik Takımı Açık Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740677135220,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602100039,
+      "__unknown_productSubTitle": "Fiat Palio Albea Siena Iç Güneşlik Takımı Açık Gri ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

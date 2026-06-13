@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 785099,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Noki Büro Bandı 12 Mm X 66 M Bant",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760634543400,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 526196858,
+      "__unknown_productSubTitle": "Noki Büro Bandı 12 Mm X 66 M Bant",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 785100,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Noki Büro Bandı 12 Mm X 66 M Bant",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730962513703,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/07/69/38/85/13/21/05/41/20/45/95463118289749917433.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 526196858,
+      "__unknown_productSubTitle": "Noki Büro Bandı 12 Mm X 66 M Bant",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6151697,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/07/69/38/85/13/21/05/41/20/45/95463118289749917433.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/07/69/38/85/13/21/05/41/20/45/95463118289749917433.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/07/69/38/85/13/21/05/41/20/45/95463118289749917433.png"
+    }
+  },
+  {
+    "gid_ref": 785101,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Noki Büro Bandı 12 Mm X 66 M Bant",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730070018367,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/28/89/65/78/25/21/45/53/99/96/41681211403460326394.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 526196858,
+      "__unknown_productSubTitle": "Noki Büro Bandı 12 Mm X 66 M Bant",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6040794,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/28/89/65/78/25/21/45/53/99/96/41681211403460326394.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/28/89/65/78/25/21/45/53/99/96/41681211403460326394.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/28/89/65/78/25/21/45/53/99/96/41681211403460326394.jpg"
+    }
+  }
+]

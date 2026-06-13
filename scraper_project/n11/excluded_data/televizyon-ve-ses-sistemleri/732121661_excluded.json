@@ -1,0 +1,59 @@
+[
+  {
+    "gid_ref": 1332395,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "G10 Universal Tv Box Uzaktan Kumanda Ses Kontrollü Air Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768079197544,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 504448213,
+      "__unknown_productSubTitle": "G10 Universal Tv Box Uzaktan Kumanda Ses Kontrollü Air Mouse",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1332396,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "G10 Universal Tv Box Uzaktan Kumanda Ses Kontrollü Air Mouse",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1735314184536,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/27/56/70/87/68/68/22/82/61/50/36819896884821015149.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 504448213,
+      "__unknown_productSubTitle": "G10 Universal Tv Box Uzaktan Kumanda Ses Kontrollü Air Mouse",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6589400,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/27/56/70/87/68/68/22/82/61/50/36819896884821015149.png"
+        },
+        {
+          "id": 6589401,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/27/69/84/02/16/56/03/92/77/30/11003259398016155909.png"
+        },
+        {
+          "id": 6589402,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/27/71/31/09/44/78/67/24/56/05/91547518921697675614.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/27/56/70/87/68/68/22/82/61/50/36819896884821015149.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/27/56/70/87/68/68/22/82/61/50/36819896884821015149.png"
+    }
+  }
+]

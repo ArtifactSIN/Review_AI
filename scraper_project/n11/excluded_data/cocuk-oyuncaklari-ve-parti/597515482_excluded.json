@@ -1,0 +1,119 @@
+[
+  {
+    "gid_ref": 395370,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dolu Maxi Kamyon 7112 Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770290992263,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597515482,
+      "__unknown_productSubTitle": "Dolu Maxi Kamyon 7112 Sarı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 395371,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dolu Maxi Kamyon 7112 Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766005814278,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597515482,
+      "__unknown_productSubTitle": "Dolu Maxi Kamyon 7112 Sarı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 395372,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dolu Maxi Kamyon 7112 Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766005794589,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597515482,
+      "__unknown_productSubTitle": "Dolu Maxi Kamyon 7112 Sarı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 395373,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dolu Maxi Kamyon 7112 Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760323305261,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/13/86/08/51/49/77/36/74/90/08/56015066233237229343.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597515482,
+      "__unknown_productSubTitle": "Dolu Maxi Kamyon 7112 Sarı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7798507,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/13/86/08/51/49/77/36/74/90/08/56015066233237229343.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/13/86/08/51/49/77/36/74/90/08/56015066233237229343.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/13/86/08/51/49/77/36/74/90/08/56015066233237229343.jpg"
+    }
+  },
+  {
+    "gid_ref": 395374,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dolu Maxi Kamyon 7112 Sarı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731221086127,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/10/48/33/31/24/85/08/63/08/76/13971361038702822078.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 597515482,
+      "__unknown_productSubTitle": "Dolu Maxi Kamyon 7112 Sarı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6185370,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/10/48/33/31/24/85/08/63/08/76/13971361038702822078.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/10/48/33/31/24/85/08/63/08/76/13971361038702822078.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/10/48/33/31/24/85/08/63/08/76/13971361038702822078.png"
+    }
+  }
+]

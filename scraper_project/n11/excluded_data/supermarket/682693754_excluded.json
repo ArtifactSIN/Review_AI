@@ -1,0 +1,81 @@
+[
+  {
+    "gid_ref": 1237829,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Ocean Yüzey Temizlik Havlusu Mendili Okyanus Tazeliği 6x100 (600 Yaprak)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775556157784,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775556157784,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682693754,
+      "__unknown_productSubTitle": "Sleepy Ocean Yüzey Temizlik Havlusu Mendili Okyanus Tazeliği 6x100 (600 Yaprak)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1237830,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Ocean Yüzey Temizlik Havlusu Mendili Okyanus Tazeliği 6x100 (600 Yaprak)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775283344663,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/04/87/12/58/43/17/65/96/40/79/73722707937549635397.jpg",
+      "__unknown_lastModifiedDate": 1775283344663,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682693754,
+      "__unknown_productSubTitle": "Sleepy Ocean Yüzey Temizlik Havlusu Mendili Okyanus Tazeliği 6x100 (600 Yaprak)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8568912,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/04/87/12/58/43/17/65/96/40/79/73722707937549635397.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/04/87/12/58/43/17/65/96/40/79/73722707937549635397.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/04/87/12/58/43/17/65/96/40/79/73722707937549635397.jpg"
+    }
+  },
+  {
+    "gid_ref": 1237831,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sleepy Ocean Yüzey Temizlik Havlusu Mendili Okyanus Tazeliği 6x100 (600 Yaprak)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774800804049,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/29/82/29/12/28/77/20/57/66/65/03995102847111217875.jpg",
+      "__unknown_lastModifiedDate": 1774800804049,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682693754,
+      "__unknown_productSubTitle": "Sleepy Ocean Yüzey Temizlik Havlusu Mendili Okyanus Tazeliği 6x100 (600 Yaprak)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8538458,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/29/82/29/12/28/77/20/57/66/65/03995102847111217875.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/29/82/29/12/28/77/20/57/66/65/03995102847111217875.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/29/82/29/12/28/77/20/57/66/65/03995102847111217875.jpg"
+    }
+  }
+]

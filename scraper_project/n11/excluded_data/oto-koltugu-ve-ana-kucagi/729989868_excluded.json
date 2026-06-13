@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 949843,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Süper",
+      "productTitle": "Disney 0-13 KG Ana Kucağı - Oto Koltuğu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1628945282367,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/21/08/14/86/87/77/94/85/69/09/86/50/32988217973915272292.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 475896302,
+      "__unknown_productSubTitle": "Disney 0-13 KG Ana Kucağı - Oto Koltuğu Kırmızı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3179773,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/21/08/14/86/87/77/94/85/69/09/86/50/32988217973915272292.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/21/08/14/86/87/77/94/85/69/09/86/50/32988217973915272292.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/21/08/14/86/87/77/94/85/69/09/86/50/32988217973915272292.jpg"
+    }
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 200142,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Johnson's Baby Işıldayan Parlaklık Bebek Kolay Tarama Spreyi 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774197571957,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774197571957,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653167593,
+      "__unknown_productSubTitle": "Johnson's Baby Işıldayan Parlaklık Bebek Kolay Tarama Spreyi 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 200143,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Johnson's Baby Işıldayan Parlaklık Bebek Kolay Tarama Spreyi 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761546177969,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/27/73/25/67/63/81/00/44/61/41/76969375862545858697.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645393619,
+      "__unknown_productSubTitle": "Johnson's Baby Işıldayan Parlaklık Bebek Kolay Tarama Spreyi 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7860059,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/27/73/25/67/63/81/00/44/61/41/76969375862545858697.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/27/73/25/67/63/81/00/44/61/41/76969375862545858697.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/27/73/25/67/63/81/00/44/61/41/76969375862545858697.jpg"
+    }
+  },
+  {
+    "gid_ref": 200144,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Johnson's Baby Işıldayan Parlaklık Bebek Kolay Tarama Spreyi 200 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741347345528,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/03/07/48/58/45/92/48/44/26/15/69/61527648634186084712.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645393619,
+      "__unknown_productSubTitle": "Johnson's Baby Işıldayan Parlaklık Bebek Kolay Tarama Spreyi 200 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6938822,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/03/07/48/58/45/92/48/44/26/15/69/61527648634186084712.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/03/07/48/58/45/92/48/44/26/15/69/61527648634186084712.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/03/07/48/58/45/92/48/44/26/15/69/61527648634186084712.png"
+    }
+  },
+  {
+    "gid_ref": 200145,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Johnson's Baby Işıldayan Parlaklık Bebek Kolay Tarama Spreyi 200 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1723713356861,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 484119598,
+      "__unknown_productSubTitle": "Johnson's Baby Işıldayan Parlaklık Bebek Kolay Tarama Spreyi 200 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

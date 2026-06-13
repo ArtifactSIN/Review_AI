@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 735105,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Debt - Sır Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758118600134,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 338443388,
+      "__unknown_productSubTitle": "The Debt - Sır Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735106,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Debt - Sır Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757974532546,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 338443388,
+      "__unknown_productSubTitle": "The Debt - Sır Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735107,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Debt - Sır Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725373829759,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 338443388,
+      "__unknown_productSubTitle": "The Debt - Sır Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735108,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Debt - Sır Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1707505982065,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/09/71/39/14/48/83/43/03/96/09/08261689800998930609.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 338443388,
+      "__unknown_productSubTitle": "The Debt - Sır Blu-Ray",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3861286,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/09/71/39/14/48/83/43/03/96/09/08261689800998930609.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/09/71/39/14/48/83/43/03/96/09/08261689800998930609.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/09/71/39/14/48/83/43/03/96/09/08261689800998930609.png"
+    }
+  },
+  {
+    "gid_ref": 735109,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "orjinal ürünler",
+      "productTitle": "The Debt - Sır Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1618570274105,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 166684397,
+      "__unknown_productSubTitle": "The Debt - Sır Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

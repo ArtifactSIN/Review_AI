@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 1325727,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Osawa OSW-618 Trafolu Tavan Hoparlörü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768232438605,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 556995326,
+      "__unknown_productSubTitle": "Osawa OSW-618 Trafolu Tavan Hoparlörü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1325728,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Osawa OSW-618 Trafolu Tavan Hoparlörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762377166234,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/06/47/04/06/48/79/58/73/64/58/21505598357951067746.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 677539824,
+      "__unknown_productSubTitle": "Osawa OSW-618 Trafolu Tavan Hoparlörü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7924018,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/06/47/04/06/48/79/58/73/64/58/21505598357951067746.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/06/47/04/06/48/79/58/73/64/58/21505598357951067746.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/06/47/04/06/48/79/58/73/64/58/21505598357951067746.jpg"
+    }
+  },
+  {
+    "gid_ref": 1325729,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Osawa OSW-618 Trafolu Tavan Hoparlörü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762377137937,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/06/86/12/80/05/86/57/12/58/40/34343532874135785382.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 677539824,
+      "__unknown_productSubTitle": "Osawa OSW-618 Trafolu Tavan Hoparlörü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7924825,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/06/86/12/80/05/86/57/12/58/40/34343532874135785382.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/06/86/12/80/05/86/57/12/58/40/34343532874135785382.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/06/86/12/80/05/86/57/12/58/40/34343532874135785382.jpg"
+    }
+  }
+]

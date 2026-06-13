@@ -1,0 +1,56 @@
+[
+  {
+    "gid_ref": 1302262,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sharp An-3Dg20B Aktif 3D Şarjlı Gözlük",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1676789933280,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 557149517,
+      "__unknown_productSubTitle": "Sharp An-3D",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1302263,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "SHARP 3D GÖZLÜK",
+      "productTitle": "Sharp AN-3DG20B Aktif 3D Şarjlı Gözlük",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1642515914305,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/01/18/75/07/71/24/80/53/64/17/41/37165795571906361601.jpg",
+      "__unknown_lastModifiedDate": 1642515949462,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 517988005,
+      "__unknown_productSubTitle": "Sharp AN-3DG20B Aktif 3D Şarjlı Gözlük",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 258217,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/01/18/75/07/71/24/80/53/64/17/41/37165795571906361601.jpg"
+        },
+        {
+          "id": 258218,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/01/18/79/45/87/68/02/34/34/35/92/61187531547792224969.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/01/18/75/07/71/24/80/53/64/17/41/37165795571906361601.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/01/18/75/07/71/24/80/53/64/17/41/37165795571906361601.jpg"
+    }
+  }
+]

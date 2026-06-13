@@ -1,0 +1,64 @@
+[
+  {
+    "gid_ref": 734970,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bizans Oyunları DVD",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1691656522021,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 151940943,
+      "__unknown_productSubTitle": "Bizans Oyunları DVD",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734971,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "DVD - Bizans Oyunları",
+      "productTitle": "Bizans Oyunları DVD",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1623659967645,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 151940943,
+      "__unknown_productSubTitle": "Bizans Oyunları DVD",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734972,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel Bir Komedi.",
+      "productTitle": "Bizans Oyunları DVD",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1615036314497,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 151940943,
+      "__unknown_productSubTitle": "Bizans Oyunları DVD",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "gid_ref": 757064,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kuaf Mango Ağda Sonrası Temizleme Yağı 750 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769945585355,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 385121154,
+      "__unknown_productSubTitle": "Kuaf Mango Ağda Sonrası Temizleme Yağı 750 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 757065,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kuaf Mango Ağda Sonrası Temizleme Yağı 750 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734116078524,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/13/65/07/02/52/89/05/14/09/10/59097532222464280919.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 459370286,
+      "__unknown_productSubTitle": "Kuaf Mango Ağda Sonrası Temizleme Yağı 750 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6490401,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/13/65/07/02/52/89/05/14/09/10/59097532222464280919.png"
+        },
+        {
+          "id": 6490402,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/13/91/86/17/24/91/86/68/08/81/33494033176969494786.png"
+        },
+        {
+          "id": 6490403,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/13/69/82/34/66/26/43/99/13/71/24692643289352418494.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/13/65/07/02/52/89/05/14/09/10/59097532222464280919.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/13/65/07/02/52/89/05/14/09/10/59097532222464280919.png"
+    }
+  },
+  {
+    "gid_ref": 757066,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kuaf Mango Ağda Sonrası Temizleme Yağı 750 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1729756561313,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/24/57/75/64/84/57/23/86/86/42/67934610718667160546.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 598371906,
+      "__unknown_productSubTitle": "Kuaf Mango Ağda Sonrası Temizleme Yağı 750 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6004113,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/24/57/75/64/84/57/23/86/86/42/67934610718667160546.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/24/57/75/64/84/57/23/86/86/42/67934610718667160546.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/24/57/75/64/84/57/23/86/86/42/67934610718667160546.jpg"
+    }
+  },
+  {
+    "gid_ref": 757067,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kuaf Mango Ağda Sonrası Temizleme Yağı 750 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1724159635924,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 460844638,
+      "__unknown_productSubTitle": "Kuaf Mango Ağda Sonrası Temizleme Yağı 750 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 757068,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kuaf Mango Ağda Sonrası Temizleme Yağı 750 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1664799857529,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 522083978,
+      "__unknown_productSubTitle": "Kuaf Mango Ağda Sonrası Temizleme Yağı 750 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

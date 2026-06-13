@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 744735,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hıq High Pro+ 900gr Chocolate&coconut Flavored",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765638339898,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651283965,
+      "__unknown_productSubTitle": "Hıq High Pro+ 900gr Chocolate&coconut Flavored",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 744736,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hıq High Pro+ 900gr Chocolate&coconut Flavored",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758901343315,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/26/54/14/18/43/57/79/57/16/82/97611515110725402889.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 651283965,
+      "__unknown_productSubTitle": "Hıq High Pro+ 900gr Chocolate&coconut Flavored",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7726780,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/26/54/14/18/43/57/79/57/16/82/97611515110725402889.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/26/54/14/18/43/57/79/57/16/82/97611515110725402889.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/26/54/14/18/43/57/79/57/16/82/97611515110725402889.jpg"
+    }
+  }
+]

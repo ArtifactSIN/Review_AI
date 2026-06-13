@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 827327,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hankook 215/60 R17 96V Ventus Prime4 K135A Yaz Lastiği 2025",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764326455588,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/28/89/91/70/32/27/19/98/74/60/65354234545494445763.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 653164455,
+      "__unknown_productSubTitle": "Hankook 215/60 R17 96V Ventus Prime4 K135A Yaz Lastiği 2025 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8037812,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/91/67/78/92/47/09/66/47/95/35992817222912002032.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/28/89/91/70/32/27/19/98/74/60/65354234545494445763.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/28/89/91/70/32/27/19/98/74/60/65354234545494445763.jpg"
+    }
+  },
+  {
+    "gid_ref": 827328,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hankook 215/60 R17 96V Ventus Prime4 K135A Yaz Lastiği 2025",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740590467592,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652698658,
+      "__unknown_productSubTitle": "Hankook 215/60 R17 96V Ventus Prime4 K135A Yaz Lastiği 2025 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

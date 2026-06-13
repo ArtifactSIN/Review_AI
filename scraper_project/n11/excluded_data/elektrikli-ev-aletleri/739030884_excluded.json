@@ -1,0 +1,107 @@
+[
+  {
+    "gid_ref": 493666,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips  XC6453/00 6000 Serisi Dikey Şarjlı Süpürge",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770356409509,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719729954,
+      "__unknown_productSubTitle": "Philips  XC6453/00 6000 Serisi Dikey Şarjlı Süpürge Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 493667,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips  XC6453/00 6000 Serisi Dikey Şarjlı Süpürge",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765203205434,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/08/47/99/14/02/55/63/06/93/60/85731376127514229982.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719729954,
+      "__unknown_productSubTitle": "Philips  XC6453/00 6000 Serisi Dikey Şarjlı Süpürge Mor",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8086383,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/08/47/99/14/02/55/63/06/93/60/85731376127514229982.png"
+        },
+        {
+          "id": 8086384,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/08/89/03/04/85/98/11/42/49/59/74460049746487394130.png"
+        },
+        {
+          "id": 8086385,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/08/58/22/64/10/18/19/30/39/33/43505871135783666118.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/08/47/99/14/02/55/63/06/93/60/85731376127514229982.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/08/47/99/14/02/55/63/06/93/60/85731376127514229982.png"
+    }
+  },
+  {
+    "gid_ref": 493668,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips  XC6453/00 6000 Serisi Dikey Şarjlı Süpürge",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1764495712327,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719880848,
+      "__unknown_productSubTitle": "Philips  XC6453/00 6000 Serisi Dikey Şarjlı Süpürge Mor",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 493669,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips  XC6453/00 6000 Serisi Dikey Şarjlı Süpürge",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763808828168,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/22/83/87/28/09/05/75/43/78/30/75367934079080578104.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 719729954,
+      "__unknown_productSubTitle": "Philips  XC6453/00 6000 Serisi Dikey Şarjlı Süpürge Mor",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8002017,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/22/83/87/28/09/05/75/43/78/30/75367934079080578104.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/22/83/87/28/09/05/75/43/78/30/75367934079080578104.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/22/83/87/28/09/05/75/43/78/30/75367934079080578104.png"
+    }
+  }
+]

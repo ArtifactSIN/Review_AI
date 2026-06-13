@@ -1,0 +1,56 @@
+[
+  {
+    "gid_ref": 307860,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sıvı Geçirmez Çift Kat Müslin Mama Ve Salya Önlüğü, %100 Pamuk Alezli - Açık Mavi Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1715761447436,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/15/62/87/57/51/33/85/14/00/84/85934062021116710475.png",
+      "__unknown_lastModifiedDate": 1750710366592,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588476140,
+      "__unknown_productSubTitle": "Sıvı Geçirmez Çift Kat Müslin Mama Ve Salya Önlüğü, %100 Pamuk Alezli - Açık Mavi Çok Renkli ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4685089,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/15/62/87/57/51/33/85/14/00/84/85934062021116710475.png"
+        },
+        {
+          "id": 4685090,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/15/71/38/05/55/42/18/31/17/21/76556137827027762070.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/15/62/87/57/51/33/85/14/00/84/85934062021116710475.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/15/62/87/57/51/33/85/14/00/84/85934062021116710475.png"
+    }
+  },
+  {
+    "gid_ref": 307861,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sıvı Geçirmez Çift Kat Müslin Mama Ve Salya Önlüğü, %100 Pamuk Alezli - Açık Mavi Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714455405740,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750710366592,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588476140,
+      "__unknown_productSubTitle": "Sıvı Geçirmez Çift Kat Müslin Mama Ve Salya Önlüğü, %100 Pamuk Alezli - Açık Mavi Çok Renkli ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

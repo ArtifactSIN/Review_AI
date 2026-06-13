@@ -1,0 +1,56 @@
+[
+  {
+    "gid_ref": 1341768,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Platoon PS4 Uyumlu Kol Joystıck Controller Gamepad V2 Turuncu",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769785315058,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/30/52/62/51/40/99/18/58/38/51/13179816053166065406.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 666456391,
+      "__unknown_productSubTitle": "Platoon PS4 Uyumlu Kol Joystıck Controller Gamepad V2 Turuncu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8304272,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/30/52/62/51/40/99/18/58/38/51/13179816053166065406.png"
+        },
+        {
+          "id": 8304273,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/30/89/99/12/06/33/39/25/36/57/68767490619815671936.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/30/52/62/51/40/99/18/58/38/51/13179816053166065406.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/30/52/62/51/40/99/18/58/38/51/13179816053166065406.png"
+    }
+  },
+  {
+    "gid_ref": 1341769,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Apple tv uyumu",
+      "productTitle": "Platoon PS4 Uyumlu Kol Joystıck Controller Gamepad V2 Turuncu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1577258240319,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 392418814,
+      "__unknown_productSubTitle": "Platoon PS4 Uyumlu Kol Joystıck Controller Gamepad V2 Turuncu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

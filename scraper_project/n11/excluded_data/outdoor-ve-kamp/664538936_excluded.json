@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 963077,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Galaksi Serisi 13.68 Metrekare Otomatik Şişme Çadır 380 360 220cm Bej",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767213562047,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/31/90/23/97/37/27/18/74/60/58/52183905040997265855.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664538936,
+      "__unknown_productSubTitle": "Galaksi Serisi 13.68 Metrekare Otomatik Şişme Çadır 380 360 220cm Bej ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8200912,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/31/90/23/97/37/27/18/74/60/58/52183905040997265855.png"
+        },
+        {
+          "id": 8200913,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/31/59/97/21/74/96/02/01/96/23/61274953143252334801.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/31/90/23/97/37/27/18/74/60/58/52183905040997265855.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/31/90/23/97/37/27/18/74/60/58/52183905040997265855.png"
+    }
+  },
+  {
+    "gid_ref": 963078,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Galaksi Serisi 13.68 Metrekare Otomatik Şişme Çadır 380 360 220cm Bej",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753785782746,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664538936,
+      "__unknown_productSubTitle": "Galaksi Serisi 13.68 Metrekare Otomatik Şişme Çadır 380 360 220cm Bej ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 525944,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arko Cool Tıraş Kremi 12 x 100 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1736012758348,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639210051,
+      "__unknown_productSubTitle": "Arko Cool Tıraş Kremi 12 x 100 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 525945,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arko Cool Tıraş Kremi 12 x 100 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732025449930,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/19/86/13/93/05/70/00/91/15/71/05158800705165244831.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 639210051,
+      "__unknown_productSubTitle": "Arko Cool Tıraş Kremi 12 x 100 G",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6277155,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/19/86/13/93/05/70/00/91/15/71/05158800705165244831.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/19/86/13/93/05/70/00/91/15/71/05158800705165244831.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/19/86/13/93/05/70/00/91/15/71/05158800705165244831.png"
+    }
+  },
+  {
+    "gid_ref": 525946,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Arko Cool Tıraş Kremi 12 x 100 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727453512287,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 587924008,
+      "__unknown_productSubTitle": "Arko Cool Tıraş Kremi 12 x 100 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

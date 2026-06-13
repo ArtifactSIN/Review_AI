@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 817246,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gıcıkgiller Apartmanı 2 - İnsanlığı Kurtarmak - Yusuf Asal - Genç Nesil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774638286631,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774638286631,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724201157,
+      "__unknown_productSubTitle": "Gıcıkgiller Apartmanı 2 - İnsanlığı Kurtarmak - Yusuf Asal - Genç Nesil",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 817247,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gıcıkgiller Apartmanı 2 - İnsanlığı Kurtarmak - Yusuf Asal - Genç Nesil",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727872000065,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/02/59/54/88/02/68/87/11/53/26/25349845283060730908.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 565834363,
+      "__unknown_productSubTitle": "Gıcıkgiller Apartmanı 2 - İnsanlığı Kurtarmak - Yusuf Asal - Genç Nesil",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5812494,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/02/59/54/88/02/68/87/11/53/26/25349845283060730908.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/02/59/54/88/02/68/87/11/53/26/25349845283060730908.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/02/59/54/88/02/68/87/11/53/26/25349845283060730908.png"
+    }
+  },
+  {
+    "gid_ref": 817248,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gıcıkgiller Apartmanı 2 - İnsanlığı Kurtarmak - Yusuf Asal - Genç Nesil",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1709453762576,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/03/61/46/80/72/09/78/64/54/38/6316137361376562810.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577273466,
+      "__unknown_productSubTitle": "Gıcıkgiller Apartmanı 2 - İnsanlığı Kurtarmak - Yusuf Asal - Genç Nesil",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4036057,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/03/61/46/80/72/09/78/64/54/38/6316137361376562810.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/03/61/46/80/72/09/78/64/54/38/6316137361376562810.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/03/61/46/80/72/09/78/64/54/38/6316137361376562810.png"
+    }
+  }
+]

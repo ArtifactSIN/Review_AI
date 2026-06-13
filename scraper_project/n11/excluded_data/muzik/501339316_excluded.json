@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 945074,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fender Rumble Lt25 Bas Gitar Amfisi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755867620581,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 501339316,
+      "__unknown_productSubTitle": "Fender Rumble Lt25 Bas Gitar Amfisi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 945075,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fender Rumble Lt25 Bas Gitar Amfisi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727530053713,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/28/69/41/73/99/93/15/30/25/77/53880601793547909990.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 501339316,
+      "__unknown_productSubTitle": "Fender Rumble Lt25 Bas Gitar Amfisi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5784775,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/28/69/41/73/99/93/15/30/25/77/53880601793547909990.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/28/69/41/73/99/93/15/30/25/77/53880601793547909990.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/28/69/41/73/99/93/15/30/25/77/53880601793547909990.jpg"
+    }
+  }
+]

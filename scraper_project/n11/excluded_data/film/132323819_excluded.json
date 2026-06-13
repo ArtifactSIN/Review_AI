@@ -1,0 +1,85 @@
+[
+  {
+    "gid_ref": 734840,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "5.ci takımım",
+      "productTitle": "Dvd-30 Rock 1-5 Sezon Box Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1575471168010,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 132323819,
+      "__unknown_productSubTitle": "Dvd-30 Rock 1-5 Sezon Box Set",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734841,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dvd-30 Rock 1-5 Sezon Box Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1552477055332,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 132323819,
+      "__unknown_productSubTitle": "Dvd-30 Rock 1-5 Sezon Box Set",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734842,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Gerçekten Süper Ötesi Bir Ürün Çok TŞK Ederim",
+      "productTitle": "Dvd-30 Rock 1-5 Sezon Box Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1489432277818,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 132323819,
+      "__unknown_productSubTitle": "Dvd-30 Rock 1-5 Sezon Box Set",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734843,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "SÜPER ÜRÜN SÜPER FİYAT",
+      "productTitle": "Dvd-30 Rock 1-5 Sezon Box Set",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1486484024909,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 132323819,
+      "__unknown_productSubTitle": "Dvd-30 Rock 1-5 Sezon Box Set",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

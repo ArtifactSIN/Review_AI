@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 1049634,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "John Frieda Go Blonder Lightining Işıltı Veren Şampuan 2 x 250 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775125020975,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775125020975,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593776000,
+      "__unknown_productSubTitle": "John Frieda Go Blonder Lightining Işıltı Veren Şampuan 2 x 250 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1049635,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "John Frieda Go Blonder Lightining Işıltı Veren Şampuan 2 x 250 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731518318782,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/13/68/94/51/75/35/08/46/31/52/61625471990631777493.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 593776000,
+      "__unknown_productSubTitle": "John Frieda Go Blonder Lightining Işıltı Veren Şampuan 2 x 250 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6209193,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/13/68/94/51/75/35/08/46/31/52/61625471990631777493.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/13/68/94/51/75/35/08/46/31/52/61625471990631777493.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/13/68/94/51/75/35/08/46/31/52/61625471990631777493.png"
+    }
+  }
+]

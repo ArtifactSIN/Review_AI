@@ -1,0 +1,94 @@
+[
+  {
+    "gid_ref": 1066517,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'oréal Paris Excellence Creme Saç Boyası 6.54 Açık Kızıl Kahve",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758823371858,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 671442713,
+      "__unknown_productSubTitle": "L'oréal Paris Excellence Creme Saç Boyası 6.54 Açık Kızıl Kahve Allow Custom",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1066518,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'oréal Paris Excellence Creme Saç Boyası 6.54 Açık Kızıl Kahve",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758553518238,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/22/53/75/10/58/66/30/30/06/11/47211259936962951100.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 671442713,
+      "__unknown_productSubTitle": "L'oréal Paris Excellence Creme Saç Boyası 6.54 Açık Kızıl Kahve Allow Custom",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7720210,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/22/53/75/10/58/66/30/30/06/11/47211259936962951100.png"
+        },
+        {
+          "id": 7720211,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/22/52/95/45/91/96/37/63/10/20/94247374638452027794.png"
+        },
+        {
+          "id": 7720212,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/22/66/24/71/97/94/68/68/14/70/75751358552845600139.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/22/53/75/10/58/66/30/30/06/11/47211259936962951100.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/22/53/75/10/58/66/30/30/06/11/47211259936962951100.png"
+    }
+  },
+  {
+    "gid_ref": 1066519,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'oréal Paris Excellence Creme Saç Boyası 6.54 Açık Kızıl Kahve",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752851816064,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/18/78/85/54/99/39/36/69/31/18/82898613626809106522.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 671442713,
+      "__unknown_productSubTitle": "L'oréal Paris Excellence Creme Saç Boyası 6.54 Açık Kızıl Kahve Allow Custom",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7463713,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/18/78/85/54/99/39/36/69/31/18/82898613626809106522.png"
+        },
+        {
+          "id": 7463714,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/18/69/15/83/22/27/77/65/53/95/65580013950263968637.png"
+        },
+        {
+          "id": 7463715,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/18/87/11/54/18/35/58/43/96/42/4646091668978054139.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/18/78/85/54/99/39/36/69/31/18/82898613626809106522.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/18/78/85/54/99/39/36/69/31/18/82898613626809106522.png"
+    }
+  }
+]

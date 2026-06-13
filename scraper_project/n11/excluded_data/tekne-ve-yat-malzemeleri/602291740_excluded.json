@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1251561,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dan Fender B-40 Balon Usturmaça Beyaz 32x48 Cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755477381538,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602291740,
+      "__unknown_productSubTitle": "Dan Fender B-40 Balon Usturmaça Beyaz 32x48 Cm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1251562,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dan Fender B-40 Balon Usturmaça Beyaz 32x48 Cm",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753269811448,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602291740,
+      "__unknown_productSubTitle": "Dan Fender B-40 Balon Usturmaça Beyaz 32x48 Cm",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

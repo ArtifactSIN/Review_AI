@@ -1,0 +1,92 @@
+[
+  {
+    "gid_ref": 344540,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Intel Core Ultra 7 265KF 3.3 GHz LGA1851 30 MB Cache 125 W Tray İşlemci",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770898275706,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646443873,
+      "__unknown_productSubTitle": "Intel Core Ultra 7 265KF 3.3 GHz LGA1851 30 MB Cache 125 W Tray İşlemci",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 344541,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Intel Core Ultra 7 265KF 3.3 GHz LGA1851 30 MB Cache 125 W Tray İşlemci",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1770049968697,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/02/63/44/12/64/89/00/93/54/71/63087246002122373201.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646443873,
+      "__unknown_productSubTitle": "Intel Core Ultra 7 265KF 3.3 GHz LGA1851 30 MB Cache 125 W Tray İşlemci",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8310476,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/02/60/51/92/18/44/37/99/05/17/48016610806647181046.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/02/63/44/12/64/89/00/93/54/71/63087246002122373201.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/02/63/44/12/64/89/00/93/54/71/63087246002122373201.png"
+    }
+  },
+  {
+    "gid_ref": 344542,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Intel Core Ultra 7 265KF 3.3 GHz LGA1851 30 MB Cache 125 W Tray İşlemci",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757871674278,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646443873,
+      "__unknown_productSubTitle": "Intel Core Ultra 7 265KF 3.3 GHz LGA1851 30 MB Cache 125 W Tray İşlemci",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 344543,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Intel Core Ultra 7 265KF 3.3 GHz LGA1851 30 MB Cache 125 W Tray İşlemci",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1757144861649,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 692803794,
+      "__unknown_productSubTitle": "Intel Core Ultra 7 265KF 3.3 GHz LGA1851 30 MB Cache 125 W Tray İşlemci",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

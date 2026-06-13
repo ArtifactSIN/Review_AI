@@ -1,0 +1,93 @@
+[
+  {
+    "gid_ref": 132086,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Slazenger ALASTAR I Kadın Günlük Ayakkabı Beyaz / Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775203814418,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775203814418,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634962289,
+      "__unknown_productSubTitle": "Slazenger ALASTAR I Kadın Günlük Ayakkabı Beyaz / Gri   39",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 132087,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Slazenger ALASTAR I Kadın Günlük Ayakkabı Beyaz / Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772127096086,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634962311,
+      "__unknown_productSubTitle": "Slazenger ALASTAR I Kadın Günlük Ayakkabı Beyaz / Gri   38",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 132088,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Slazenger ALASTAR I Kadın Günlük Ayakkabı Beyaz / Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762596355319,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/08/53/28/22/09/91/94/36/38/58/32183379657647803756.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634962287,
+      "__unknown_productSubTitle": "Slazenger ALASTAR I Kadın Günlük Ayakkabı Beyaz / Gri   37",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7934223,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/08/53/28/22/09/91/94/36/38/58/32183379657647803756.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/08/53/28/22/09/91/94/36/38/58/32183379657647803756.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/08/53/28/22/09/91/94/36/38/58/32183379657647803756.png"
+    }
+  },
+  {
+    "gid_ref": 132089,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Slazenger ALASTAR I Kadın Günlük Ayakkabı Beyaz / Gri",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730756918076,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1748261034269,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 634962311,
+      "__unknown_productSubTitle": "Slazenger ALASTAR I Kadın Günlük Ayakkabı Beyaz / Gri   38",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

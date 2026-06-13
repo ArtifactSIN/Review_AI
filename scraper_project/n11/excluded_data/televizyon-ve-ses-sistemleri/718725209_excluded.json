@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1328644,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung 65Q7F5 65\" 4K Ultra HD QLED TV",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1761059174723,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 689009755,
+      "__unknown_productSubTitle": "Samsung 65Q7F5 65\" 4K Ultra HD QLED TV",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1328645,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Samsung 65Q7F5 65\" 4K Ultra HD QLED TV",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1759735439361,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700888273,
+      "__unknown_productSubTitle": "Samsung 65Q7F5 65\" 4K Ultra HD QLED TV",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "gid_ref": 944508,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dut Ağacı Özel Yapım Horlatmalı Orta Boy Dilli Çoban Kavalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753773540772,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 429563630,
+      "__unknown_productSubTitle": "Dut Ağacı Özel Yapım Horlatmalı Orta Boy Dilli Çoban Kavalı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 944509,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dut Ağacı Özel Yapım Horlatmalı Orta Boy Dilli Çoban Kavalı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1703619060538,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/12/26/61/90/93/54/90/11/35/40/75/3754668826493207263.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 429563630,
+      "__unknown_productSubTitle": "Dut Ağacı Özel Yapım Horlatmalı Orta Boy Dilli Çoban Kavalı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2885619,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/26/61/90/93/54/90/11/35/40/75/3754668826493207263.png"
+        },
+        {
+          "id": 2885620,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/26/88/44/96/87/02/37/35/12/76/41791719991374659971.png"
+        },
+        {
+          "id": 2885621,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/26/71/14/81/42/98/51/29/60/55/38213957214030219165.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/12/26/61/90/93/54/90/11/35/40/75/3754668826493207263.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/12/26/61/90/93/54/90/11/35/40/75/3754668826493207263.png"
+    }
+  }
+]

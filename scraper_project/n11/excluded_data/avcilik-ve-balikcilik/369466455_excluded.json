@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 115712,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "tüm ihtiyacınızı görecek kalitede bir makine",
+      "productTitle": "Okuma 8K Carp Olta Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1664436585878,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 369466455,
+      "__unknown_productSubTitle": "Okuma 8K Carp Olta Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 115713,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Okuma 8K Carp Olta Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1640086470649,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 446949245,
+      "__unknown_productSubTitle": "57739",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

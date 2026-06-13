@@ -1,0 +1,102 @@
+[
+  {
+    "gid_ref": 1399977,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hyundai HYX65 Pro Motorlu Yan Tip Tırpan 62 CC",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1754166455738,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661657529,
+      "__unknown_productSubTitle": "Hyundai HYX65 Pro Motorlu Yan Tip Tırpan 62 CC",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1399978,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hyundai HYX65 Pro Motorlu Yan Tip Tırpan 62 CC",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752002184849,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661657529,
+      "__unknown_productSubTitle": "Hyundai HYX65 Pro Motorlu Yan Tip Tırpan 62 CC",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1399979,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hyundai HYX65 Pro Motorlu Yan Tip Tırpan 62 CC",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750424004157,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/20/82/86/10/97/28/71/45/66/28/4417158836307381060.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661657529,
+      "__unknown_productSubTitle": "Hyundai HYX65 Pro Motorlu Yan Tip Tırpan 62 CC",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7362454,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/20/69/80/35/30/23/54/54/93/32/47375292458329459886.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/20/82/86/10/97/28/71/45/66/28/4417158836307381060.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/20/82/86/10/97/28/71/45/66/28/4417158836307381060.png"
+    }
+  },
+  {
+    "gid_ref": 1399980,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hyundai HYX65 Pro Motorlu Yan Tip Tırpan 62 CC",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748007810165,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/23/74/37/33/82/43/92/29/12/60/23809197204713946743.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 661657529,
+      "__unknown_productSubTitle": "Hyundai HYX65 Pro Motorlu Yan Tip Tırpan 62 CC",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7250320,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/23/74/37/33/82/43/92/29/12/60/23809197204713946743.png"
+        },
+        {
+          "id": 7250321,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/23/63/38/95/38/55/45/12/65/20/55033871887935293302.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/23/74/37/33/82/43/92/29/12/60/23809197204713946743.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/23/74/37/33/82/43/92/29/12/60/23809197204713946743.png"
+    }
+  }
+]

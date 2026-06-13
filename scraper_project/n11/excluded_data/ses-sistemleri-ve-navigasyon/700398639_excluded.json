@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1155843,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Niken 4'' - 10cm Oto Araç Hoparlörü 12V 80Watt (1Adet)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763314253412,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700398639,
+      "__unknown_productSubTitle": "Niken 4'' - 10cm Oto Araç Hoparlörü 12V 80Watt (1Adet)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1155844,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Niken 4'' - 10cm Oto Araç Hoparlörü 12V 80Watt (1Adet)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1752052321982,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/09/75/32/30/69/52/72/45/40/86/21183034363657957441.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569615556,
+      "__unknown_productSubTitle": "Niken 4'' - 10cm Oto Araç Hoparlörü 12V 80Watt (1Adet)",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7426955,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/09/75/32/30/69/52/72/45/40/86/21183034363657957441.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/09/75/32/30/69/52/72/45/40/86/21183034363657957441.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/09/75/32/30/69/52/72/45/40/86/21183034363657957441.png"
+    }
+  },
+  {
+    "gid_ref": 1155845,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Niken 4'' - 10cm Oto Araç Hoparlörü 12V 80Watt (1Adet)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1705588464938,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 569615556,
+      "__unknown_productSubTitle": "Niken 4'' - 10cm Oto Araç Hoparlörü 12V 80Watt (1Adet)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

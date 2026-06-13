@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 1337168,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Memnun kalmadım",
+      "productTitle": "Xbox One Şarj Kiti Batarya + Şarj Kablosu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1663578135444,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 536773158,
+      "__unknown_productSubTitle": "Xbox One Şarj Kiti Batarya + Şarj Kablosu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337169,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün çok güzel",
+      "productTitle": "Xbox One Şarj Kiti Batarya + Şarj Kablosu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1607970906821,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 531282586,
+      "__unknown_productSubTitle": "Xbox One Şarj Kiti Batarya + Şarj Kablosu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

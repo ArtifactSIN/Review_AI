@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 836188,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tca Studio Make-Up Ruj Lipstick 006",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1713965784935,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 427244276,
+      "__unknown_productSubTitle": "Tca Studio Make-Up Ruj Lipstick 006",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 836189,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tca Studio Make-Up Ruj Lipstick 006",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1701287178550,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 427244276,
+      "__unknown_productSubTitle": "Tca Studio Make-Up Ruj Lipstick 006",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

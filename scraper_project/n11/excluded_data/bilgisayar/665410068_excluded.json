@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 349245,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "MYQW3TU/A 1.Nesil Tablet Kalemi Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774881593847,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/46/66/22/19/61/32/30/43/10/86637687561237843682.jpg",
+      "__unknown_lastModifiedDate": 1774881593847,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665410068,
+      "__unknown_productSubTitle": "MYQW3TU/A 1.Nesil Tablet Kalemi Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8539627,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/46/66/22/19/61/32/30/43/10/86637687561237843682.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/46/66/22/19/61/32/30/43/10/86637687561237843682.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/46/66/22/19/61/32/30/43/10/86637687561237843682.jpg"
+    }
+  },
+  {
+    "gid_ref": 349246,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "MYQW3TU/A 1.Nesil Tablet Kalemi Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771103338944,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665410068,
+      "__unknown_productSubTitle": "MYQW3TU/A 1.Nesil Tablet Kalemi Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

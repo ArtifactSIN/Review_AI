@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1337038,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "8Bit Super Oyun Konsolu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771671147698,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581423294,
+      "__unknown_productSubTitle": "8Bit Super Oyun Konsolu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337039,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "8Bit Super Oyun Konsolu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726811697777,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581423294,
+      "__unknown_productSubTitle": "8Bit Super Oyun Konsolu",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1337040,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "8Bit Super Oyun Konsolu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708733168481,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/02/24/64/18/46/67/87/59/86/27/90/41632830526514378738.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 536662619,
+      "__unknown_productSubTitle": "8Bit Super Oyun Konsolu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3969627,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/02/24/64/18/46/67/87/59/86/27/90/41632830526514378738.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/02/24/64/18/46/67/87/59/86/27/90/41632830526514378738.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/02/24/64/18/46/67/87/59/86/27/90/41632830526514378738.jpg"
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 797665,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Işıklı Görünmez Kalem 6 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771099472041,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638553894,
+      "__unknown_productSubTitle": "Işıklı Görünmez Kalem 6 Adet ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 797666,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Işıklı Görünmez Kalem 6 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764066334814,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638553894,
+      "__unknown_productSubTitle": "Işıklı Görünmez Kalem 6 Adet ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 797667,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Işıklı Görünmez Kalem 6 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763128599883,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638553894,
+      "__unknown_productSubTitle": "Işıklı Görünmez Kalem 6 Adet ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 797668,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Işıklı Görünmez Kalem 6 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759775503789,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/06/81/95/00/03/99/28/40/24/28/18365428361831691445.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638553894,
+      "__unknown_productSubTitle": "Işıklı Görünmez Kalem 6 Adet ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7774707,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/06/81/95/00/03/99/28/40/24/28/18365428361831691445.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/06/81/95/00/03/99/28/40/24/28/18365428361831691445.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/06/81/95/00/03/99/28/40/24/28/18365428361831691445.png"
+    }
+  },
+  {
+    "gid_ref": 797669,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Işıklı Görünmez Kalem 6 Adet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1737691988075,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638553894,
+      "__unknown_productSubTitle": "Işıklı Görünmez Kalem 6 Adet ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

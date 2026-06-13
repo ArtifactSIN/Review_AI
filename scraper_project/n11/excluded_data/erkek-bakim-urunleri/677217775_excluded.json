@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 530676,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin PC-A31201 Retro Saç Sakal Tıraş Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766069352593,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700584818,
+      "__unknown_productSubTitle": "Pierre Cardin PC-A31201 Retro Saç Sakal Tıraş Makinesi Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 530677,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin PC-A31201 Retro Saç Sakal Tıraş Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758131714957,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/17/78/10/23/01/81/96/01/84/07/23820092052344160280.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700584818,
+      "__unknown_productSubTitle": "Pierre Cardin PC-A31201 Retro Saç Sakal Tıraş Makinesi Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7699216,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/17/78/10/23/01/81/96/01/84/07/23820092052344160280.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/17/78/10/23/01/81/96/01/84/07/23820092052344160280.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/17/78/10/23/01/81/96/01/84/07/23820092052344160280.png"
+    }
+  },
+  {
+    "gid_ref": 530678,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pierre Cardin PC-A31201 Retro Saç Sakal Tıraş Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757167726479,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647807052,
+      "__unknown_productSubTitle": "Pierre Cardin PC-A31201 Retro Saç Sakal Tıraş Makinesi Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

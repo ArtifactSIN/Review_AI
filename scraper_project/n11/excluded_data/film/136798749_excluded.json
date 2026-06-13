@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 734864,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Dvd",
+      "productTitle": "Çöküş - Downfall Dvd",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1610968958298,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 136798749,
+      "__unknown_productSubTitle": "Çöküş - Downfall Dvd",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

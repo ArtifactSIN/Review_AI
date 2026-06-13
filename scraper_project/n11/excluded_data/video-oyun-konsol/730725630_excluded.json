@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 1343322,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Microsoft Xbox Series S 512 GB SSD Oyun Konsolu (Teşhir)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1736614326445,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594000675,
+      "__unknown_productSubTitle": "Microsoft Xbox Series S 512 GB SSD Oyun Konsolu (Teşhir)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1343323,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Microsoft Xbox Series S 512 GB SSD Oyun Konsolu (Teşhir)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1728766308529,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594000675,
+      "__unknown_productSubTitle": "Microsoft Xbox Series S 512 GB SSD Oyun Konsolu (Teşhir)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1343324,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Microsoft Xbox Series S 512 GB SSD Oyun Konsolu (Teşhir)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1704904279259,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594000675,
+      "__unknown_productSubTitle": "Microsoft Xbox Series S 512 GB SSD Oyun Konsolu (Teşhir)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

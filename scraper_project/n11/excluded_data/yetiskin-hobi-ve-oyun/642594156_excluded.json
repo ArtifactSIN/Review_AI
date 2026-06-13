@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 1493226,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "iyi",
+      "productTitle": "Mikado Çubukları",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1646846830658,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 419020860,
+      "__unknown_productSubTitle": "Mikado Çubukları",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1493227,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kırık",
+      "productTitle": "Mikado Oyun Çubukları.",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1586193194751,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 397520697,
+      "__unknown_productSubTitle": "Mikado Oyun Çubukları.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

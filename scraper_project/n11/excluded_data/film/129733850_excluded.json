@@ -1,0 +1,30 @@
+[
+  {
+    "gid_ref": 734835,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Blu Ray-Hugo-Spy Kids 4-Asteriks Oburiks Gizli Görevde",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760796129366,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/18/49/39/76/61/86/45/92/27/22/15207316086543829001.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 129733850,
+      "__unknown_productSubTitle": "Blu Ray-Hugo-Spy Kids 4-Asteriks Oburiks Gizli Görevde",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7804743,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/18/49/39/76/61/86/45/92/27/22/15207316086543829001.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/18/49/39/76/61/86/45/92/27/22/15207316086543829001.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/18/49/39/76/61/86/45/92/27/22/15207316086543829001.png"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 276998,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Evolvia Nutripro Plus 2 Devam Sütü 6+ Ay 2 x 800 G",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1771718267797,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 554111033,
+      "__unknown_productSubTitle": "Evolvia Nutripro Plus 2 Devam Sütü 6+ Ay 2 x 800 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 276999,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Evolvia Nutripro Plus 2 Devam Sütü 6+ Ay 2 x 800 G",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1741334409568,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 482214391,
+      "__unknown_productSubTitle": "Evolvia Nutripro Plus 2 Devam Sütü 6+ Ay 2 x 800 G",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

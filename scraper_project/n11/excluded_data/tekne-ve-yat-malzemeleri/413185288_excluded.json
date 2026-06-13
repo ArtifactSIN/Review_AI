@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 1250344,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "70A Akü tam sığdı",
+      "productTitle": "Akü Kutusu Büyük Boy Tekne Karavan Vs.",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1625767391603,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 413185288,
+      "__unknown_productSubTitle": "Akü Kutusu Büyük Boy Tekne Karavan Vs.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1250345,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "güzel",
+      "productTitle": "Akü Kutusu Büyük Boy Tekne Karavan Vs.",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1588149359456,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 413185288,
+      "__unknown_productSubTitle": "Akü Kutusu Büyük Boy Tekne Karavan Vs.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

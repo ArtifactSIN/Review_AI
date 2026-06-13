@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 124876,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Okuma Salina Sa 8000a Blue 6 1bb Olta Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763146892157,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/14/56/19/77/43/54/16/45/99/56/68199947807141940946.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 684239254,
+      "__unknown_productSubTitle": "Okuma Salina Sa 8000a Blue 6 1bb Olta Makinesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7975011,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/14/56/19/77/43/54/16/45/99/56/68199947807141940946.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/14/56/19/77/43/54/16/45/99/56/68199947807141940946.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/14/56/19/77/43/54/16/45/99/56/68199947807141940946.png"
+    }
+  },
+  {
+    "gid_ref": 124877,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Okuma Salina Sa 8000a Blue 6 1bb Olta Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1715315485075,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/05/10/51/22/67/04/32/76/90/67/88/02241194617650199482.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 590846522,
+      "__unknown_productSubTitle": "Okuma Salina Sa 8000a Blue 6 1bb Olta Makinesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4641203,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/05/10/70/97/55/01/09/19/27/93/27/17218241603538760096.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/05/10/51/22/67/04/32/76/90/67/88/02241194617650199482.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/05/10/51/22/67/04/32/76/90/67/88/02241194617650199482.png"
+    }
+  },
+  {
+    "gid_ref": 124878,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Okuma Salina Sa 8000a Blue 6 1bb Olta Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711817934382,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/30/71/95/51/72/62/89/34/05/21/1861152074966480583.jpg",
+      "__unknown_lastModifiedDate": 1711818440740,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588400601,
+      "__unknown_productSubTitle": "Okuma Salina Sa 8000a Blue 6 1bb Olta Makinesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4281278,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/30/89/97/11/64/70/25/57/47/30/65193269517183174969.jpeg"
+        },
+        {
+          "id": 4281279,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/30/59/27/86/34/36/41/97/64/57/15604727622682297243.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/30/71/95/51/72/62/89/34/05/21/1861152074966480583.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/30/71/95/51/72/62/89/34/05/21/1861152074966480583.jpg"
+    }
+  },
+  {
+    "gid_ref": 124879,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Okuma Salina Sa 8000a Blue 6 1bb Olta Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1700843421296,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588047668,
+      "__unknown_productSubTitle": "Okuma Salina Sa 8000a Blue 6 1bb Olta Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

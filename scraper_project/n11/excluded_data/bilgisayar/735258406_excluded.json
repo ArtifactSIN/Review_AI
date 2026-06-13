@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 362754,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Seagate SKYHAWK ST8000VX009 3.5\" 8 TB  5400 RPM 256 MB HDD",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773440984351,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773440984351,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 735258406,
+      "__unknown_productSubTitle": "Seagate SKYHAWK ST8000VX009 3.5\" 8 TB  5400 RPM 256 MB HDD",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

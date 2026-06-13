@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 735421,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "The Bourne Identity - Geçmişi Olmayan Adam Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1735398274241,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 322347004,
+      "__unknown_productSubTitle": "The Bourne Identity - Geçmişi Olmayan Adam Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 735422,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Harika",
+      "productTitle": "The Bourne Identity - Geçmişi Olmayan Adam Blu-Ray",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1641422566747,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 140206144,
+      "__unknown_productSubTitle": "The Bourne Identity - Geçmişi Olmayan Adam Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

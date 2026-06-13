@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 963905,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Browning X 49 Çakı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755767688601,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/21/67/12/62/18/01/44/58/37/90/51387371120620423087.png",
+      "__unknown_lastModifiedDate": 1755768202911,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 693444205,
+      "__unknown_productSubTitle": "Browning X 49 Çakı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7589655,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/21/67/12/62/18/01/44/58/37/90/51387371120620423087.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/21/67/12/62/18/01/44/58/37/90/51387371120620423087.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/21/67/12/62/18/01/44/58/37/90/51387371120620423087.png"
+    }
+  }
+]

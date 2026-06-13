@@ -1,0 +1,94 @@
+[
+  {
+    "gid_ref": 161581,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gpd Gpd Mar70 Arıtma Çıkışlı Eviye Bataryası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757448799143,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655589313,
+      "__unknown_productSubTitle": "Gpd Gpd Mar70 Arıtma Çıkışlı Eviye Bataryası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 161582,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gpd Gpd Mar70 Arıtma Çıkışlı Eviye Bataryası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755071047141,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 655589313,
+      "__unknown_productSubTitle": "Gpd Gpd Mar70 Arıtma Çıkışlı Eviye Bataryası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 161583,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gpd Gpd Mar70 Arıtma Çıkışlı Eviye Bataryası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750971922640,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/27/69/25/46/01/33/16/92/03/58/11561428902992787549.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649001966,
+      "__unknown_productSubTitle": "Gpd Gpd Mar70 Arıtma Çıkışlı Eviye Bataryası",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7389807,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/27/53/61/71/66/32/96/69/65/59/63448713650672716789.png"
+        },
+        {
+          "id": 7389808,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/27/66/58/85/51/42/87/11/78/80/71438438838132949029.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/27/69/25/46/01/33/16/92/03/58/11561428902992787549.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/27/69/25/46/01/33/16/92/03/58/11561428902992787549.png"
+    }
+  },
+  {
+    "gid_ref": 161584,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gpd Gpd Mar70 Arıtma Çıkışlı Eviye Bataryası",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744200153876,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 649001966,
+      "__unknown_productSubTitle": "Gpd Gpd Mar70 Arıtma Çıkışlı Eviye Bataryası",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

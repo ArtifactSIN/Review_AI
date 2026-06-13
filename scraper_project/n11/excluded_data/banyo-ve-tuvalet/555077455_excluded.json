@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 173582,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yeşilmarka Doğal Bebek Şampuanı - Karpuz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774824188673,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/30/79/29/70/92/94/93/00/86/82/28824764897879478196.png",
+      "__unknown_lastModifiedDate": 1774824188673,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 555077455,
+      "__unknown_productSubTitle": "Yeşilmarka Doğal Bebek Şampuanı - Karpuz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8532813,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/30/79/29/70/92/94/93/00/86/82/28824764897879478196.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/30/79/29/70/92/94/93/00/86/82/28824764897879478196.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/30/79/29/70/92/94/93/00/86/82/28824764897879478196.png"
+    }
+  },
+  {
+    "gid_ref": 173583,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yeşilmarka Doğal Bebek Şampuanı - Karpuz",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1697894784617,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 577094886,
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

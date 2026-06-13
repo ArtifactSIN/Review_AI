@@ -1,0 +1,101 @@
+[
+  {
+    "gid_ref": 838294,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Neutrogena Lipcare Dudak Nemlendiricisi 4.8 Gr",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775599055401,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775599055401,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645391210,
+      "__unknown_productSubTitle": "Neutrogena Lipcare Dudak Nemlendiricisi 4.8 Gr",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 838295,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Neutrogena Lipcare Dudak Nemlendiricisi 4.8 Gr",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774961246646,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/31/78/99/66/17/95/76/03/48/41/78093562792213892344.jpg",
+      "__unknown_lastModifiedDate": 1774961246646,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645391210,
+      "__unknown_productSubTitle": "Neutrogena Lipcare Dudak Nemlendiricisi 4.8 Gr",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8542657,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/31/78/99/66/17/95/76/03/48/41/78093562792213892344.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/31/78/99/66/17/95/76/03/48/41/78093562792213892344.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/31/78/99/66/17/95/76/03/48/41/78093562792213892344.jpg"
+    }
+  },
+  {
+    "gid_ref": 838296,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Neutrogena Lipcare Dudak Nemlendiricisi 4.8 Gr",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774656583202,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/28/74/47/73/46/09/60/40/87/14/181624154685684314.png",
+      "__unknown_lastModifiedDate": 1774656583202,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645391210,
+      "__unknown_productSubTitle": "Neutrogena Lipcare Dudak Nemlendiricisi 4.8 Gr",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8528377,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/74/47/73/46/09/60/40/87/14/181624154685684314.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/28/74/47/73/46/09/60/40/87/14/181624154685684314.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/28/74/47/73/46/09/60/40/87/14/181624154685684314.png"
+    }
+  },
+  {
+    "gid_ref": 838297,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Neutrogena Lipcare Dudak Nemlendiricisi 4.8 Gr",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744050109804,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645391210,
+      "__unknown_productSubTitle": "Neutrogena Lipcare Dudak Nemlendiricisi 4.8 Gr",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

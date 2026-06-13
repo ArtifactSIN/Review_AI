@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 278399,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips Avent Ultra Air Emzik 0-6 Ay Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765717057043,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 718992993,
+      "__unknown_productSubTitle": "Philips Avent Ultra Air Emzik 0-6 Ay Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 278400,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips Avent Ultra Air Emzik 0-6 Ay Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732538124165,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642211079,
+      "__unknown_productSubTitle": "Philips Avent Ultra Air Emzik 0-6 Ay Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 278401,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Philips Avent Ultra Air Emzik 0-6 Ay Çok Renkli",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732533289015,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 642211079,
+      "__unknown_productSubTitle": "Philips Avent Ultra Air Emzik 0-6 Ay Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

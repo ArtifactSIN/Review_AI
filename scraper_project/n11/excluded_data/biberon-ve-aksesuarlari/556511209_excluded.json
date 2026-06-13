@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 307100,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tommee Tippee Devrilmez Süper Bardak 300 ML Yeşil Köpekli Yeşil",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1704782999759,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750708046259,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 428352960,
+      "__unknown_productSubTitle": "Tommee Tippee Devrilmez Süper Bardak 300 ML Yeşil Köpekli Yeşil ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 307101,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tommee Tippee Devrilmez Süper Bardak 300 ML Yeşil Köpekli Yeşil",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1680365770915,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750708046259,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 426944335,
+      "__unknown_productSubTitle": "Tommee Tippee Devrilmez Süper Bardak 300 ML Yeşil Köpekli Yeşil ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 307102,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tommee Tippee Devrilmez Süper Bardak 300 ML Yeşil Köpekli Yeşil",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1675442268719,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/02/03/62/74/86/42/02/43/71/33/18/76601413197234484892.png",
+      "__unknown_lastModifiedDate": 1750708046259,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 426944335,
+      "__unknown_productSubTitle": "Tommee Tippee Devrilmez Süper Bardak 300 ML Yeşil Köpekli Yeşil ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1565715,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/02/03/62/74/86/42/02/43/71/33/18/76601413197234484892.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/02/03/62/74/86/42/02/43/71/33/18/76601413197234484892.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/02/03/62/74/86/42/02/43/71/33/18/76601413197234484892.png"
+    }
+  }
+]

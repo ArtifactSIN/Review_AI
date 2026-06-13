@@ -1,0 +1,102 @@
+[
+  {
+    "gid_ref": 752765,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alüminyum Işık Standı 2M.",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1735481009409,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/29/51/94/47/38/84/10/11/02/73/01297477893464177157.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 83661523,
+      "__unknown_productSubTitle": "Alüminyum Işık Standı 2M.",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6597974,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/29/51/94/47/38/84/10/11/02/73/01297477893464177157.png"
+        },
+        {
+          "id": 6597975,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/29/70/37/28/85/65/51/81/06/18/03752706358583278931.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/29/51/94/47/38/84/10/11/02/73/01297477893464177157.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/29/51/94/47/38/84/10/11/02/73/01297477893464177157.png"
+    }
+  },
+  {
+    "gid_ref": 752766,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alüminyum Işık Standı 2M.",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734648737193,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/12/20/68/47/62/88/60/56/71/61/04/82007985035203360536.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 83661523,
+      "__unknown_productSubTitle": "Alüminyum Işık Standı 2M.",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6529939,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/12/20/68/47/62/88/60/56/71/61/04/82007985035203360536.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/12/20/68/47/62/88/60/56/71/61/04/82007985035203360536.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/12/20/68/47/62/88/60/56/71/61/04/82007985035203360536.png"
+    }
+  },
+  {
+    "gid_ref": 752767,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alüminyum Işık Standı 2M.",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734184735860,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 83661523,
+      "__unknown_productSubTitle": "Alüminyum Işık Standı 2M.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 752768,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Alüminyum Işık Standı 2M.",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730193356621,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 83661523,
+      "__unknown_productSubTitle": "Alüminyum Işık Standı 2M.",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

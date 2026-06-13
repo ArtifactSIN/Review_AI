@@ -1,0 +1,113 @@
+[
+  {
+    "gid_ref": 934244,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karaca Massimo Bambu Ekmek Kutusu Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774424284928,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774424284928,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717147488,
+      "__unknown_productSubTitle": "Karaca Massimo Bambu Ekmek Kutusu Kahverengi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 934245,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karaca Massimo Bambu Ekmek Kutusu Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773936192753,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/19/52/89/50/55/19/10/16/21/44/57264822405841010635.png",
+      "__unknown_lastModifiedDate": 1773936192753,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717147488,
+      "__unknown_productSubTitle": "Karaca Massimo Bambu Ekmek Kutusu Kahverengi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8481296,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/19/52/89/50/55/19/10/16/21/44/57264822405841010635.png"
+        },
+        {
+          "id": 8481297,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/19/55/91/07/69/52/56/21/43/33/94128412157614638465.png"
+        },
+        {
+          "id": 8481298,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/19/64/43/10/70/15/24/46/25/64/97819066976988056080.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/19/52/89/50/55/19/10/16/21/44/57264822405841010635.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/19/52/89/50/55/19/10/16/21/44/57264822405841010635.png"
+    }
+  },
+  {
+    "gid_ref": 934246,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karaca Massimo Bambu Ekmek Kutusu Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772723054425,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717147488,
+      "__unknown_productSubTitle": "Karaca Massimo Bambu Ekmek Kutusu Kahverengi ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 934247,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karaca Massimo Bambu Ekmek Kutusu Kahverengi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764098909965,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/25/68/43/75/88/37/47/13/61/74/2808007291397060971.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717147488,
+      "__unknown_productSubTitle": "Karaca Massimo Bambu Ekmek Kutusu Kahverengi ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8019678,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/25/68/43/75/88/37/47/13/61/74/2808007291397060971.jpg"
+        },
+        {
+          "id": 8019679,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/25/48/04/30/51/24/21/38/86/52/51814666079281301528.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/25/68/43/75/88/37/47/13/61/74/2808007291397060971.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/25/68/43/75/88/37/47/13/61/74/2808007291397060971.jpg"
+    }
+  }
+]

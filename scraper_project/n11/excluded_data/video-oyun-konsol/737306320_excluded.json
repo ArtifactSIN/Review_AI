@@ -1,0 +1,92 @@
+[
+  {
+    "gid_ref": 1345530,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps Vita Micro Sd Adaptör 5.0 -  Ürün",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774445468193,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/25/90/05/43/41/14/05/37/10/25/59095446020816222039.png",
+      "__unknown_lastModifiedDate": 1774445468193,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 737306320,
+      "__unknown_productSubTitle": "Ps Vita Micro Sd Adaptör 5.0 -  Ürün",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8506956,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/25/90/05/43/41/14/05/37/10/25/59095446020816222039.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/25/90/05/43/41/14/05/37/10/25/59095446020816222039.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/25/90/05/43/41/14/05/37/10/25/59095446020816222039.png"
+    }
+  },
+  {
+    "gid_ref": 1345531,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps Vita Micro Sd Adaptör 5.0 -  Ürün",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1676640557546,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 344069789,
+      "__unknown_productSubTitle": "Ps Vita Micro Sd Adaptör 5.0 -  Ürün",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1345532,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ps Vita Micro Sd Adaptör 5.0 -  Ürün",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1592545800791,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 344069789,
+      "__unknown_productSubTitle": "Ps Vita Micro Sd Adaptör 5.0 -  Ürün",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1345533,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "S2dVita",
+      "productTitle": "Ps Vita Micro Sd Adaptör 5.0 -  Ürün",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1567496691596,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 344069789,
+      "__unknown_productSubTitle": "Ps Vita Micro Sd Adaptör 5.0 -  Ürün",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

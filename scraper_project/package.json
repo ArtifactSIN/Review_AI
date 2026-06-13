@@ -27,6 +27,7 @@
     "scrape_ty_failed": "node trendyol/collection_auto_rawData.js --failed-only",
     "scrape_ty_partial": "node trendyol/collection_auto_rawData.js --partial-only",
     "transform_n11": "node pipeline/transform_n11.js",
+    "transform_n11_run": "node pipeline/transform_n11_run.js",
     "merge_reviews": "node pipeline/merge.js",
     "to_parquet": "python3 pipeline/to_parquet.py"
   },

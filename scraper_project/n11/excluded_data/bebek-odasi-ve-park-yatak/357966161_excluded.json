@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 260063,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "120 x 200 Heyner Ortopedik Yaylı Yatak 120*200 Soft Ortopedik Yatak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1615227635974,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 357966161,
+      "__unknown_productSubTitle": "120 x 200 Heyner Ortopedik Yaylı Yatak 120*200 Soft Ortopedik Yatak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 260064,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Kullanılabilir",
+      "productTitle": "120 x 200 Heyner Ortopedik Yaylı Yatak 120*200 Soft Ortopedik Yatak",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1568653493173,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 357966161,
+      "__unknown_productSubTitle": "120 x 200 Heyner Ortopedik Yaylı Yatak 120*200 Soft Ortopedik Yatak",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

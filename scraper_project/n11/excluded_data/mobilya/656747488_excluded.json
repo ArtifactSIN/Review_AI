@@ -1,0 +1,88 @@
+[
+  {
+    "gid_ref": 869875,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Türksit Ofis Koltuğu Yedek Parça Beşik Mekanizmalı Şase Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775645164034,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/08/51/61/07/89/64/31/41/91/62/6678629396630618487.png",
+      "__unknown_lastModifiedDate": 1775645164034,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 656747488,
+      "__unknown_productSubTitle": "Türksit Ofis Koltuğu Yedek Parça Beşik Mekanizmalı Şase Siyah ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8583657,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/08/51/61/07/89/64/31/41/91/62/6678629396630618487.png"
+        },
+        {
+          "id": 8583658,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/08/52/50/51/15/93/41/90/44/90/65063310064747693526.png"
+        },
+        {
+          "id": 8583659,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/08/86/83/87/66/40/94/84/58/10/97008849796987402304.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/08/51/61/07/89/64/31/41/91/62/6678629396630618487.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/08/51/61/07/89/64/31/41/91/62/6678629396630618487.png"
+    }
+  },
+  {
+    "gid_ref": 869876,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Türksit Ofis Koltuğu Yedek Parça Beşik Mekanizmalı Şase Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772116120499,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 656747488,
+      "__unknown_productSubTitle": "Türksit Ofis Koltuğu Yedek Parça Beşik Mekanizmalı Şase Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 869877,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Türksit Ofis Koltuğu Yedek Parça Beşik Mekanizmalı Şase Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764009237422,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/24/83/77/75/87/05/64/88/11/44/63007564461323563273.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 656747488,
+      "__unknown_productSubTitle": "Türksit Ofis Koltuğu Yedek Parça Beşik Mekanizmalı Şase Siyah ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8017218,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/24/83/77/75/87/05/64/88/11/44/63007564461323563273.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/24/83/77/75/87/05/64/88/11/44/63007564461323563273.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/24/83/77/75/87/05/64/88/11/44/63007564461323563273.jpg"
+    }
+  }
+]

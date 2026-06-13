@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 1159528,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nike Everyday Cush Ankle Sports Socks 3 Pack Sx7667-010 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725780736734,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/08/55/81/69/25/84/00/23/48/08/45053930475683692195.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 623118731,
+      "__unknown_productSubTitle": "Nike Everyday Cush Ankle Sports Socks 3 Pack Sx7667-010 Siyah 38 - 42",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5607503,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/08/55/81/69/25/84/00/23/48/08/45053930475683692195.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/08/55/81/69/25/84/00/23/48/08/45053930475683692195.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/08/55/81/69/25/84/00/23/48/08/45053930475683692195.png"
+    }
+  },
+  {
+    "gid_ref": 1159529,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nike Everyday Cush Ankle Sports Socks 3 Pack Sx7667-010 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1700143144601,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/11/16/91/24/12/76/80/18/96/29/94/23487735957322091312.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581987732,
+      "__unknown_productSubTitle": "Nike Everyday Cush Ankle Sports Socks 3 Pack Sx7667-010 Siyah 42 - 46",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2726367,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/11/16/64/15/10/36/89/64/59/41/13/21718420127631429054.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/11/16/91/24/12/76/80/18/96/29/94/23487735957322091312.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/11/16/91/24/12/76/80/18/96/29/94/23487735957322091312.png"
+    }
+  },
+  {
+    "gid_ref": 1159530,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nike Everyday Cush Ankle Sports Socks 3 Pack Sx7667-010 Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1697359906581,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 581987732,
+      "__unknown_productSubTitle": "Nike Everyday Cush Ankle Sports Socks 3 Pack Sx7667-010 Siyah 42 - 46",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

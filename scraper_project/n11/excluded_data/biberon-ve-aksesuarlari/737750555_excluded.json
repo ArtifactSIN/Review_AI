@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 310508,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Tavsiye ederim",
+      "productTitle": "Tommee Tippee Closer To Nature 0+ Ay Cam Biberon 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1662726658717,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 515954278,
+      "__unknown_productSubTitle": "Tommee Tippee Closer To Nature 0+ Ay Cam Biberon 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 310509,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tommee Tippee Closer To Nature 0+ Ay Cam Biberon 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1652347246811,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 515954206,
+      "__unknown_productSubTitle": "Tommee Tippee Closer To Nature 0+ Ay Cam Biberon 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

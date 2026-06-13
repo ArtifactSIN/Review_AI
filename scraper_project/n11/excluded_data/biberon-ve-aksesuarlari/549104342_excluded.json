@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 306825,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Siparişim gelmedi",
+      "productTitle": "Lansinoh Cam Biberon 160 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1588987242365,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 425591497,
+      "__unknown_productSubTitle": "LSI-0680",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

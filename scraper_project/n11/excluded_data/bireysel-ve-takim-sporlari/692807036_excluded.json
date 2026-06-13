@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 372142,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wilson Comfort Bowl O'Grips 3 Adet Grip Tenis Gribi Kiremit Renk Kiremit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769794742899,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 692807036,
+      "__unknown_productSubTitle": "Wilson Comfort Bowl O'Grips 3 Adet Grip Tenis Gribi Kiremit Renk Kiremit ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 372143,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Wilson Comfort Bowl O'Grips 3 Adet Grip Tenis Gribi Kiremit Renk Kiremit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730361158566,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/31/53/26/03/94/50/58/05/78/93/99210181155984525514.jpg",
+      "__unknown_lastModifiedDate": 1750436820248,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 523232826,
+      "__unknown_productSubTitle": "Wilson Comfort Bowl O'Grips 3 Adet Grip Tenis Gribi Kiremit Renk Kiremit ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6037395,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/31/53/26/03/94/50/58/05/78/93/99210181155984525514.jpg"
+        },
+        {
+          "id": 6037396,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/31/54/11/13/11/97/38/87/41/39/03442662955230971347.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/31/53/26/03/94/50/58/05/78/93/99210181155984525514.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/31/53/26/03/94/50/58/05/78/93/99210181155984525514.jpg"
+    }
+  },
+  {
+    "gid_ref": 372144,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Bilinen marka",
+      "productTitle": "Wilson Comfort Bowl O'Grips 3 Adet Grip Tenis Gribi Kiremit Renk Kiremit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1665403793655,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1750436820248,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 523232826,
+      "__unknown_productSubTitle": "Wilson Comfort Bowl O'Grips 3 Adet Grip Tenis Gribi Kiremit Renk Kiremit ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

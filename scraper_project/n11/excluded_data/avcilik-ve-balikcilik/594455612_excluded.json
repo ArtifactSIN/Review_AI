@@ -1,0 +1,107 @@
+[
+  {
+    "gid_ref": 119897,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ryuji Sparrow 170m 15-200 gr Bot Kamışı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767470595167,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594455612,
+      "__unknown_productSubTitle": "Ryuji Sparrow 170m 15-200 gr Bot Kamışı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 119898,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ryuji Sparrow 170m 15-200 gr Bot Kamışı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733490785033,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552240004,
+      "__unknown_productSubTitle": "Ryuji Sparrow 170m 15-200 gr Bot Kamışı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 119899,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ryuji Sparrow 170m 15-200 gr Bot Kamışı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1686841501197,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/06/15/82/23/72/66/32/19/14/17/36/54469181768689864295.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594455612,
+      "__unknown_productSubTitle": "Ryuji Sparrow 170m 15-200 gr Bot Kamışı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2110554,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/06/15/82/23/72/66/32/19/14/17/36/54469181768689864295.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/06/15/82/23/72/66/32/19/14/17/36/54469181768689864295.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/06/15/82/23/72/66/32/19/14/17/36/54469181768689864295.jpg"
+    }
+  },
+  {
+    "gid_ref": 119900,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ryuji Sparrow 170m 15-200 gr Bot Kamışı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1674591516174,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/01/24/74/00/90/56/66/18/90/86/08/67852780431185130220.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 594455612,
+      "__unknown_productSubTitle": "Ryuji Sparrow 170m 15-200 gr Bot Kamışı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1512576,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/24/74/00/90/56/66/18/90/86/08/67852780431185130220.png"
+        },
+        {
+          "id": 1512577,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/24/48/02/22/72/54/37/13/45/33/88017994997984608979.png"
+        },
+        {
+          "id": 1512578,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/01/24/74/18/27/91/84/91/60/81/49/58626258090417762888.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/01/24/74/00/90/56/66/18/90/86/08/67852780431185130220.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/01/24/74/00/90/56/66/18/90/86/08/67852780431185130220.png"
+    }
+  }
+]

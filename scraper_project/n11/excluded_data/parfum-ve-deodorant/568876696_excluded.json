@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 996896,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bargello 609 Fresh Erkek Parfüm EDP 2 x 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763109144333,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 568876696,
+      "__unknown_productSubTitle": "Bargello 609 Fresh Erkek Parfüm EDP 2 x 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 996897,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bargello 609 Fresh Erkek Parfüm EDP 2 x 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731701320123,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 568876696,
+      "__unknown_productSubTitle": "Bargello 609 Fresh Erkek Parfüm EDP 2 x 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 996898,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bargello 609 Fresh Erkek Parfüm EDP 2 x 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729520120644,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/21/75/79/33/21/64/99/30/56/04/57742051819494657959.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 568876696,
+      "__unknown_productSubTitle": "Bargello 609 Fresh Erkek Parfüm EDP 2 x 50 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5987852,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/21/75/79/33/21/64/99/30/56/04/57742051819494657959.jpg"
+        },
+        {
+          "id": 5987853,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/21/61/42/20/46/61/67/61/72/02/16391641579480370868.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/21/75/79/33/21/64/99/30/56/04/57742051819494657959.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/21/75/79/33/21/64/99/30/56/04/57742051819494657959.jpg"
+    }
+  }
+]

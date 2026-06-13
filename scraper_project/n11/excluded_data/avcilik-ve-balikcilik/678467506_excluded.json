@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 124593,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fujin Sniper 4000 Spin Olta Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760366970593,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 678467506,
+      "__unknown_productSubTitle": "Fujin Sniper 4000 Spin Olta Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 124594,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fujin Sniper 4000 Spin Olta Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757093646771,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 678467506,
+      "__unknown_productSubTitle": "Fujin Sniper 4000 Spin Olta Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

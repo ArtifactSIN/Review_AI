@@ -1,0 +1,81 @@
+[
+  {
+    "gid_ref": 1161516,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Je3228 Adıdas 3bar Bag Bel Çantası Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1776032084698,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1776032084698,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705347630,
+      "__unknown_productSubTitle": "Adidas Je3228 Adıdas 3bar Bag Bel Çantası Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161517,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Je3228 Adıdas 3bar Bag Bel Çantası Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774702748315,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/28/82/05/85/22/84/41/05/93/71/34691486934223401971.jpg",
+      "__unknown_lastModifiedDate": 1774702748315,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705347630,
+      "__unknown_productSubTitle": "Adidas Je3228 Adıdas 3bar Bag Bel Çantası Siyah ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8523499,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/28/82/05/85/22/84/41/05/93/71/34691486934223401971.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/28/82/05/85/22/84/41/05/93/71/34691486934223401971.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/28/82/05/85/22/84/41/05/93/71/34691486934223401971.jpg"
+    }
+  },
+  {
+    "gid_ref": 1161518,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Je3228 Adıdas 3bar Bag Bel Çantası Siyah",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773308089426,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/12/55/16/16/29/66/57/64/38/90/54953197812210712502.jpg",
+      "__unknown_lastModifiedDate": 1773308089426,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 705347630,
+      "__unknown_productSubTitle": "Adidas Je3228 Adıdas 3bar Bag Bel Çantası Siyah ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8459253,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/12/55/16/16/29/66/57/64/38/90/54953197812210712502.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/12/55/16/16/29/66/57/64/38/90/54953197812210712502.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/12/55/16/16/29/66/57/64/38/90/54953197812210712502.jpg"
+    }
+  }
+]

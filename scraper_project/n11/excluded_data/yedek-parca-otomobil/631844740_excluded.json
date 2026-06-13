@@ -1,0 +1,90 @@
+[
+  {
+    "gid_ref": 1467635,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Renault Megane 2 Kasa Kapı Fitili - 4 Kapı Takım Lastik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740929310061,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631844740,
+      "__unknown_productSubTitle": "Renault Megane 2 Kasa Kapı Fitili - 4 Kapı Takım Lastik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1467636,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Renault Megane 2 Kasa Kapı Fitili - 4 Kapı Takım Lastik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740659665243,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/27/84/02/96/92/00/37/52/42/87/85062161515893798075.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631844740,
+      "__unknown_productSubTitle": "Renault Megane 2 Kasa Kapı Fitili - 4 Kapı Takım Lastik",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6903207,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/27/84/02/96/92/00/37/52/42/87/85062161515893798075.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/27/84/02/96/92/00/37/52/42/87/85062161515893798075.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/27/84/02/96/92/00/37/52/42/87/85062161515893798075.png"
+    }
+  },
+  {
+    "gid_ref": 1467637,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Renault Megane 2 Kasa Kapı Fitili - 4 Kapı Takım Lastik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739894090168,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631844740,
+      "__unknown_productSubTitle": "Renault Megane 2 Kasa Kapı Fitili - 4 Kapı Takım Lastik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1467638,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Renault Megane 2 Kasa Kapı Fitili - 4 Kapı Takım Lastik",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730016600642,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631844740,
+      "__unknown_productSubTitle": "Renault Megane 2 Kasa Kapı Fitili - 4 Kapı Takım Lastik",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

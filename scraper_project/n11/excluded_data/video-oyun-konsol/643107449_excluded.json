@@ -1,0 +1,142 @@
+[
+  {
+    "gid_ref": 1340045,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xbox Series Uyumlu Wireless Controller Xbox Series X S / Xbox O",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764264972789,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643107449,
+      "__unknown_productSubTitle": "Xbox Series Uyumlu Wireless Controller Xbox Series X S / Xbox O ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1340046,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xbox Series Uyumlu Wireless Controller Xbox Series X S / Xbox O",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759055381155,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/28/67/33/30/92/41/53/20/31/12/43453248571820099458.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643107449,
+      "__unknown_productSubTitle": "Xbox Series Uyumlu Wireless Controller Xbox Series X S / Xbox O ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7705086,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/28/56/62/22/81/41/30/34/93/40/09197655131621314234.jpeg"
+        },
+        {
+          "id": 7705087,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/28/66/86/19/17/87/83/49/86/51/65213850194865701695.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/28/67/33/30/92/41/53/20/31/12/43453248571820099458.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/28/67/33/30/92/41/53/20/31/12/43453248571820099458.jpg"
+    }
+  },
+  {
+    "gid_ref": 1340047,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xbox Series Uyumlu Wireless Controller Xbox Series X S / Xbox O",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759055233380,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/28/77/55/35/44/43/13/31/31/26/16957996943908817102.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643107449,
+      "__unknown_productSubTitle": "Xbox Series Uyumlu Wireless Controller Xbox Series X S / Xbox O ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7705084,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/28/90/63/21/39/48/87/51/70/95/18588808401417094384.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/28/77/55/35/44/43/13/31/31/26/16957996943908817102.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/28/77/55/35/44/43/13/31/31/26/16957996943908817102.jpg"
+    }
+  },
+  {
+    "gid_ref": 1340048,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xbox Series Uyumlu Wireless Controller Xbox Series X S / Xbox O",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1755839549984,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643107449,
+      "__unknown_productSubTitle": "Xbox Series Uyumlu Wireless Controller Xbox Series X S / Xbox O ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1340049,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xbox Series Uyumlu Wireless Controller Xbox Series X S / Xbox O",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742583622898,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643107449,
+      "__unknown_productSubTitle": "Xbox Series Uyumlu Wireless Controller Xbox Series X S / Xbox O ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1340050,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Xbox Series Uyumlu Wireless Controller Xbox Series X S / Xbox O",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739986529848,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 643107449,
+      "__unknown_productSubTitle": "Xbox Series Uyumlu Wireless Controller Xbox Series X S / Xbox O ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

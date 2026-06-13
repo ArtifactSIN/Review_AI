@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 301158,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bosch SMS6EKW63T 6 Programlı 13 Kişilik Bulaşık Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762790833444,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/10/61/09/06/45/31/63/03/43/92/79019267482940754020.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 681382543,
+      "__unknown_productSubTitle": "Bosch Sms6ekw63t 6 Programlı 13 Kişilik Bulaşık Makinesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7944692,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/10/61/09/06/45/31/63/03/43/92/79019267482940754020.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/10/61/09/06/45/31/63/03/43/92/79019267482940754020.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/10/61/09/06/45/31/63/03/43/92/79019267482940754020.png"
+    }
+  },
+  {
+    "gid_ref": 301159,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bosch SMS6EKW63T 6 Programlı 13 Kişilik Bulaşık Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1761134793229,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 681382543,
+      "__unknown_productSubTitle": "Bosch Sms6ekw63t 6 Programlı 13 Kişilik Bulaşık Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 301160,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bosch SMS6EKW63T 6 Programlı 13 Kişilik Bulaşık Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759594237598,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 681382543,
+      "__unknown_productSubTitle": "Bosch Sms6ekw63t 6 Programlı 13 Kişilik Bulaşık Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

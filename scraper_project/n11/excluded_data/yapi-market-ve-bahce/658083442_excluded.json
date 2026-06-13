@@ -1,0 +1,108 @@
+[
+  {
+    "gid_ref": 1399633,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kaan CP-26S 7 HP Benzinli Çapa Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775308633268,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775308633268,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 658083442,
+      "__unknown_productSubTitle": "Kaan CP-26S 7 HP Benzinli Çapa Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1399634,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kaan CP-26S 7 HP Benzinli Çapa Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713773545534,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1713775728501,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589793020,
+      "__unknown_productSubTitle": "Kaan CP-26S 7 HP Benzinli Çapa Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1399635,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kaan CP-26S 7 HP Benzinli Çapa Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713728382053,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/21/78/58/03/62/44/44/97/86/13/87970888601500535527.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589128182,
+      "__unknown_productSubTitle": "Kaan CP-26S 7 HP Benzinli Çapa Makinesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4478118,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/21/77/08/44/56/77/96/89/25/74/72229103746367732178.png"
+        },
+        {
+          "id": 4478119,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/21/83/12/02/20/52/78/70/63/86/04393252683837098746.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/21/78/58/03/62/44/44/97/86/13/87970888601500535527.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/21/78/58/03/62/44/44/97/86/13/87970888601500535527.png"
+    }
+  },
+  {
+    "gid_ref": 1399636,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kaan CP-26S 7 HP Benzinli Çapa Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1711456941529,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/26/54/29/82/19/32/49/06/35/28/0355591684413700217.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 589793020,
+      "__unknown_productSubTitle": "Kaan CP-26S 7 HP Benzinli Çapa Makinesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4240439,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/26/54/29/82/19/32/49/06/35/28/0355591684413700217.png"
+        },
+        {
+          "id": 4240440,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/26/72/83/82/86/23/70/92/71/50/82874412467179600157.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/26/54/29/82/19/32/49/06/35/28/0355591684413700217.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/26/54/29/82/19/32/49/06/35/28/0355591684413700217.png"
+    }
+  }
+]

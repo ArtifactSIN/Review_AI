@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1087251,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Breathe Right Şeffaf Burun Bandı 10'lu x 6 Paket",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733905361393,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 521395490,
+      "__unknown_productSubTitle": "Breathe Right Şeffaf Burun Bandı 10'lu x 6 Paket",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1087252,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Breathe Right Şeffaf Burun Bandı 10'lu x 6 Paket",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729667751563,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 521395490,
+      "__unknown_productSubTitle": "Breathe Right Şeffaf Burun Bandı 10'lu x 6 Paket",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

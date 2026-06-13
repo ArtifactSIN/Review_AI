@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 135196,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Crocs Bayaband Clog Erkek Terlik 205089-0GX Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732457110315,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 612476946,
+      "__unknown_productSubTitle": "Crocs Bayaband Clog Erkek Terlik 205089-0GX Gri 45 - 46",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 135197,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Crocs Bayaband Clog Erkek Terlik 205089-0GX Gri",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1721328377423,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 619754095,
+      "__unknown_productSubTitle": "Crocs Bayaband Clog Erkek Terlik 205089-0GX Gri 41 - 42",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 135198,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Crocs Bayaband Clog Unisex Terlik 205089-0GX",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713881496613,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/23/66/08/30/50/82/24/09/77/84/05791192398288566034.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 588923482,
+      "__unknown_productSubTitle": "Crocs Bayaband Clog Unisex Terlik 205089-0GX 48 - 49",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4487776,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/23/66/08/30/50/82/24/09/77/84/05791192398288566034.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/23/66/08/30/50/82/24/09/77/84/05791192398288566034.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/23/66/08/30/50/82/24/09/77/84/05791192398288566034.jpg"
+    }
+  }
+]

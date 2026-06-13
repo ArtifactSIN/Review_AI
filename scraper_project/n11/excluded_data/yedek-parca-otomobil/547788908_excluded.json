@@ -1,0 +1,71 @@
+[
+  {
+    "gid_ref": 1446126,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford Ranger Stop Lambası 2012-Sonrası Sol Duylu Sisli Tip Sol Şöför Taraf",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759401371691,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/10/02/66/89/86/99/89/86/22/92/29/72919801251046901174.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 547788908,
+      "__unknown_productSubTitle": "Ford Ranger Stop Lambası 2012-Sonrası Sol Duylu Sisli Tip Sol Şöför Taraf",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7751065,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/10/02/66/89/86/99/89/86/22/92/29/72919801251046901174.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/10/02/66/89/86/99/89/86/22/92/29/72919801251046901174.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/10/02/66/89/86/99/89/86/22/92/29/72919801251046901174.jpg"
+    }
+  },
+  {
+    "gid_ref": 1446127,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "minik kırık",
+      "productTitle": "Ford Ranger Stop Lambası 2012-Sonrası Sol Duylu Sisli Tip Sol Şöför Taraf",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1639387805668,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 444035018,
+      "__unknown_productSubTitle": "Sıfır Ürün Kampanyalı Fiyatlardan Satış %100 Müşteri Memnuniyeti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1446128,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford Ranger Stop Lambası 2012-Sonrası Sol Duylu Sisli Tip Sol Şöför Taraf",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1627910362730,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 444035018,
+      "__unknown_productSubTitle": "Sıfır Ürün Kampanyalı Fiyatlardan Satış %100 Müşteri Memnuniyeti",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

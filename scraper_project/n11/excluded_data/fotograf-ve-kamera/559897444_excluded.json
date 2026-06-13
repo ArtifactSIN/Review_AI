@@ -1,0 +1,84 @@
+[
+  {
+    "gid_ref": 751139,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fujifilm Instax Mini Film (Twin)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1726877876498,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 295272120,
+      "__unknown_productSubTitle": "Fujifilm Instax Mini Film (Twin)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751140,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fujifilm Instax Mini Film (Twin)",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1672773643453,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 559897444,
+      "__unknown_productSubTitle": "Fujifilm Instax Mini Film (Twin)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751141,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürünün son kullanma tarihi eski değildi.",
+      "productTitle": "Fujifilm Instax Mini Film (Twin)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1653218958725,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 295272120,
+      "__unknown_productSubTitle": "Fujifilm Instax Mini Film (Twin)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 751142,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel",
+      "productTitle": "Fujifilm Instax Mini Film (Twin)",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1623577748787,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 295272120,
+      "__unknown_productSubTitle": "Fujifilm Instax Mini Film (Twin)",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "gid_ref": 392212,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hayalini Anlat dixit Eğitsel Oyun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744221145177,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/09/86/71/31/91/92/50/46/29/10/05256146752972604380.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 492082425,
+      "__unknown_productSubTitle": "Hayalini Anlat dixit Eğitsel Oyun",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7077508,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/09/75/55/20/82/12/52/00/07/02/68550864960349946218.jpg"
+        },
+        {
+          "id": 7077509,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/09/90/58/62/73/51/91/15/07/75/92390975893396305704.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/09/86/71/31/91/92/50/46/29/10/05256146752972604380.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/09/86/71/31/91/92/50/46/29/10/05256146752972604380.jpg"
+    }
+  },
+  {
+    "gid_ref": 392213,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Hayalini Anlat dixit Eğitsel Oyun",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711268143516,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 492082425,
+      "__unknown_productSubTitle": "Hayalini Anlat dixit Eğitsel Oyun",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

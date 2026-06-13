@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 930303,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nehir Begonvil Porselen Kahve Fincan Takımı 12 Parça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775905593877,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775905593877,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659644223,
+      "__unknown_productSubTitle": "Nehir Begonvil Porselen Kahve Fincan Takımı 12 Parça ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 930304,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nehir Begonvil Porselen Kahve Fincan Takımı 12 Parça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746758094043,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 659644223,
+      "__unknown_productSubTitle": "Nehir Begonvil Porselen Kahve Fincan Takımı 12 Parça ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 135754,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Günlük Erkek Sneaker Bağcıklı Dikişli Hafif Rahat Yürüyüş Spor Ayakkabı 013c Siyah- Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774796344749,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774796344749,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702311610,
+      "__unknown_productSubTitle": "Günlük Erkek Sneaker Bağcıklı Dikişli Hafif Rahat Yürüyüş Spor Ayakkabı 013c Siyah- Beyaz 44",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 135755,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Günlük Erkek Sneaker Bağcıklı Dikişli Hafif Rahat Yürüyüş Spor Ayakkabı 013c Siyah- Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774519687174,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/26/74/70/80/41/78/45/77/05/12/46384452717208161305.jpg",
+      "__unknown_lastModifiedDate": 1774519687174,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 702311610,
+      "__unknown_productSubTitle": "Günlük Erkek Sneaker Bağcıklı Dikişli Hafif Rahat Yürüyüş Spor Ayakkabı 013c Siyah- Beyaz 44",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8519202,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/26/74/70/80/41/78/45/77/05/12/46384452717208161305.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/26/74/70/80/41/78/45/77/05/12/46384452717208161305.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/26/74/70/80/41/78/45/77/05/12/46384452717208161305.jpg"
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 802706,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nehirin Erkek Çocuk İki İplik İçlik Takım Antrasit",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1758652359987,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 622910163,
+      "__unknown_productSubTitle": "Nehirin Erkek Çocuk İki İplik İçlik Takım Antrasit-Siyah-152-11-12",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802707,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nehirin Erkek Çocuk İki İplik İçlik Takım Antrasit",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731160269887,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 622910247,
+      "__unknown_productSubTitle": "Nehirin Erkek Çocuk İki İplik İçlik Takım Antrasit-Siyah-176-9-10",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802708,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Nehirin Erkek Çocuk İki İplik İçlik Takım Antrasit",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1727855597316,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/02/85/55/62/48/05/60/22/81/61/74512019085879230488.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 622910247,
+      "__unknown_productSubTitle": "Nehirin Erkek Çocuk İki İplik İçlik Takım Antrasit-Siyah-176-9-10",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5813594,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/02/85/55/62/48/05/60/22/81/61/74512019085879230488.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/02/85/55/62/48/05/60/22/81/61/74512019085879230488.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/02/85/55/62/48/05/60/22/81/61/74512019085879230488.jpg"
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1514918,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Biorichi Çay Ağacı Merhemi 250 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766898700981,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 439321225,
+      "__unknown_productSubTitle": "Biorichi Çay Ağacı Merhemi 250 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1514919,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Biorichi Çay Ağacı Merhemi 250 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1651411319815,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 439321225,
+      "__unknown_productSubTitle": "Biorichi Çay Ağacı Merhemi 250 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1514920,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "orj ürün",
+      "productTitle": "Biorichi Çay Ağacı Merhemi 250 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1641001777259,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 439321225,
+      "__unknown_productSubTitle": "Biorichi Çay Ağacı Merhemi 250 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

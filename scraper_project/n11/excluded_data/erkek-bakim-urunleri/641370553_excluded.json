@@ -1,0 +1,74 @@
+[
+  {
+    "gid_ref": 526213,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-4300 Saç Sakal Kesme Traş Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744539269411,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641370553,
+      "__unknown_productSubTitle": "Powertec TR-4300 Saç Sakal Kesme Traş Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 526214,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-4300 Saç Sakal Kesme Traş Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1737974032855,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/01/27/77/34/49/91/92/13/64/05/97/25475476111208695626.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638804032,
+      "__unknown_productSubTitle": "Powertec TR-4300 Saç Sakal Kesme Traş Makinesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6757217,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/27/77/34/49/91/92/13/64/05/97/25475476111208695626.jpg"
+        },
+        {
+          "id": 6757219,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/01/27/77/08/73/70/72/40/16/05/15/62664001348117940666.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/01/27/77/34/49/91/92/13/64/05/97/25475476111208695626.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/01/27/77/34/49/91/92/13/64/05/97/25475476111208695626.jpg"
+    }
+  },
+  {
+    "gid_ref": 526215,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Powertec TR-4300 Saç Sakal Kesme Traş Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1733243561976,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 638804032,
+      "__unknown_productSubTitle": "Powertec TR-4300 Saç Sakal Kesme Traş Makinesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "gid_ref": 815627,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kolay Piyano 2 - Sevinç Ereren - Alfa Yayıncılık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1733172902321,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572522179,
+      "__unknown_productSubTitle": "Kolay Piyano 2 - Sevinç Ereren - Alfa Yayıncılık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 815628,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kolay Piyano 2 - Sevinç Ereren - Alfa Yayıncılık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1717138555784,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572522179,
+      "__unknown_productSubTitle": "Kolay Piyano 2 - Sevinç Ereren - Alfa Yayıncılık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 815629,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kolay Piyano 2 - Sevinç Ereren - Alfa Yayıncılık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714232620689,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1753566966759,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572522179,
+      "__unknown_productSubTitle": "Kolay Piyano 2 - Sevinç Ereren - Alfa Yayıncılık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 815630,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kolay Piyano 2 - Sevinç Ereren - Alfa Yayıncılık",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714042954487,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 572522179,
+      "__unknown_productSubTitle": "Kolay Piyano 2 - Sevinç Ereren - Alfa Yayıncılık",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

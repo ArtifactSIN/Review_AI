@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 1161216,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Black/whıte Sq25 Tr Pnt Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774808709733,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774808709733,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 698320273,
+      "__unknown_productSubTitle": "Adidas Black/whıte Sq25 Tr Pnt Siyah S",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1161217,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Adidas Black/whıte Sq25 Tr Pnt Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769011255681,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 698320272,
+      "__unknown_productSubTitle": "Adidas Black/whıte Sq25 Tr Pnt Siyah M",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

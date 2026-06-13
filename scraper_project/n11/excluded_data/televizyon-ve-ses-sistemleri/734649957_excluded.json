@@ -1,0 +1,119 @@
+[
+  {
+    "gid_ref": 1333118,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Harman Kardon Go Play 3 Bluetooth Hoparlör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772810065622,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632632750,
+      "__unknown_productSubTitle": "Harman Kardon Go Play 3 Bluetooth Hoparlör Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1333119,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Harman Kardon Go Play 3 Bluetooth Hoparlör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765951908269,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632632750,
+      "__unknown_productSubTitle": "Harman Kardon Go Play 3 Bluetooth Hoparlör Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1333120,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Harman Kardon Go Play 3 Bluetooth Hoparlör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756581561717,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/30/87/27/33/27/22/95/97/23/43/96931544148671119241.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628811290,
+      "__unknown_productSubTitle": "Harman Kardon Go Play 3 Bluetooth Hoparlör Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7623366,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/30/87/27/33/27/22/95/97/23/43/96931544148671119241.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/30/87/27/33/27/22/95/97/23/43/96931544148671119241.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/30/87/27/33/27/22/95/97/23/43/96931544148671119241.png"
+    }
+  },
+  {
+    "gid_ref": 1333121,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Harman Kardon Go Play 3 Bluetooth Hoparlör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1756125026446,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/25/66/86/34/08/20/45/27/84/21/72286598833428676318.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 632632750,
+      "__unknown_productSubTitle": "Harman Kardon Go Play 3 Bluetooth Hoparlör Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7595745,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/25/66/86/34/08/20/45/27/84/21/72286598833428676318.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/25/66/86/34/08/20/45/27/84/21/72286598833428676318.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/25/66/86/34/08/20/45/27/84/21/72286598833428676318.jpg"
+    }
+  },
+  {
+    "gid_ref": 1333122,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Harman Kardon Go Play 3 Bluetooth Hoparlör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1753860914702,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 628811290,
+      "__unknown_productSubTitle": "Harman Kardon Go Play 3 Bluetooth Hoparlör Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

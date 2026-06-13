@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 812955,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "8.sınıf Matematik Haftalık Deneme",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740722474558,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635148863,
+      "__unknown_productSubTitle": "8.sınıf Matematik Haftalık Deneme",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 812956,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "8.sınıf Matematik Haftalık Deneme",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1730750446395,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635148863,
+      "__unknown_productSubTitle": "8.sınıf Matematik Haftalık Deneme",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 812957,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "8.sınıf Matematik Haftalık Deneme",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1728306354085,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/07/48/67/10/06/30/12/01/60/46/68569059105701476927.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635148863,
+      "__unknown_productSubTitle": "8.sınıf Matematik Haftalık Deneme",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5861926,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/07/48/67/10/06/30/12/01/60/46/68569059105701476927.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/07/48/67/10/06/30/12/01/60/46/68569059105701476927.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/07/48/67/10/06/30/12/01/60/46/68569059105701476927.png"
+    }
+  },
+  {
+    "gid_ref": 812958,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "8.sınıf Matematik Haftalık Deneme",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1727862358388,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/02/50/56/22/88/31/73/31/26/47/71123647427725931045.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 635148863,
+      "__unknown_productSubTitle": "8.sınıf Matematik Haftalık Deneme",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5813040,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/02/50/56/22/88/31/73/31/26/47/71123647427725931045.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/02/50/56/22/88/31/73/31/26/47/71123647427725931045.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/02/50/56/22/88/31/73/31/26/47/71123647427725931045.png"
+    }
+  }
+]

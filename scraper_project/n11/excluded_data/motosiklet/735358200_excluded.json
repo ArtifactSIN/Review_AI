@@ -1,0 +1,35 @@
+[
+  {
+    "gid_ref": 903421,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Prosev 4350 Deri Motosiklet Eldiveni Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775219432422,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/03/88/29/28/01/84/08/38/19/75/83481163358121343693.png",
+      "__unknown_lastModifiedDate": 1775219432422,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 735358198,
+      "__unknown_productSubTitle": "Prosev 4350 Deri Motosiklet Eldiveni Siyah L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8561796,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/03/88/29/28/01/84/08/38/19/75/83481163358121343693.png"
+        },
+        {
+          "id": 8561797,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/03/70/61/38/96/19/86/28/82/67/24318074491104048903.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/03/88/29/28/01/84/08/38/19/75/83481163358121343693.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/03/88/29/28/01/84/08/38/19/75/83481163358121343693.png"
+    }
+  }
+]

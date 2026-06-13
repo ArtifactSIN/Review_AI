@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 475241,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kiwi KIM-4792S 12 KG Kapasiteli Çelik Buz Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1760102572211,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682386242,
+      "__unknown_productSubTitle": "Kiwi KIM-4792S 12 KG Kapasiteli Çelik Buz Makinesi Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 475242,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kiwi KIM-4792S 12 KG Kapasiteli Çelik Buz Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1753174440503,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 682386242,
+      "__unknown_productSubTitle": "Kiwi KIM-4792S 12 KG Kapasiteli Çelik Buz Makinesi Gri",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 475243,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kiwi KIM-4792S 12 KG Kapasiteli Çelik Buz Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1750749257354,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/06/24/88/95/35/02/69/71/95/62/74/86093416298121154336.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 674063419,
+      "__unknown_productSubTitle": "Kiwi KIM-4792S 12 KG Kapasiteli Çelik Buz Makinesi Gri",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7363129,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/24/88/95/35/02/69/71/95/62/74/86093416298121154336.png"
+        },
+        {
+          "id": 7363130,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/24/52/38/38/52/17/42/07/93/88/08475035545064619326.png"
+        },
+        {
+          "id": 7363131,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/06/24/84/31/46/21/60/22/68/14/30/87401004303427090180.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/06/24/88/95/35/02/69/71/95/62/74/86093416298121154336.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/06/24/88/95/35/02/69/71/95/62/74/86093416298121154336.png"
+    }
+  }
+]

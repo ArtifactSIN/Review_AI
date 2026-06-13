@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 30684,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tepe Blister 0.45 Mm - Turuncu Diş Arayüz Fırçası 1 X 6 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1773664816774,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/16/63/08/17/27/08/81/63/80/43/41514170398626958570.png",
+      "__unknown_lastModifiedDate": 1773664816774,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700915786,
+      "__unknown_productSubTitle": "Tepe Blister 0.45 Mm - Turuncu Diş Arayüz Fırçası 1 X 6 Adet Çok Renkli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8478251,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/16/63/08/17/27/08/81/63/80/43/41514170398626958570.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/16/63/08/17/27/08/81/63/80/43/41514170398626958570.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/16/63/08/17/27/08/81/63/80/43/41514170398626958570.png"
+    }
+  },
+  {
+    "gid_ref": 30685,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Tepe Blister 0.45 Mm - Turuncu Diş Arayüz Fırçası 1 X 6 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772552394849,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700915786,
+      "__unknown_productSubTitle": "Tepe Blister 0.45 Mm - Turuncu Diş Arayüz Fırçası 1 X 6 Adet Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

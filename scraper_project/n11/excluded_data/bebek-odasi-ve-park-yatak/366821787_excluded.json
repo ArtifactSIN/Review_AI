@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 260123,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Fena değil daha iyisi alınabilir",
+      "productTitle": "Heyner Bamboo Ortopedik Yaylı Yatak Bebek Yatağı 70 x 130 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1569823986254,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 366821787,
+      "__unknown_productSubTitle": "Heyner Bamboo Ortopedik Yaylı Yatak Bebek Yatağı 70 x 130 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 260124,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "iş görür",
+      "productTitle": "Heyner Bamboo Ortopedik Yaylı Yatak Bebek Yatağı 70 x 130 CM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1568995343596,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 366821787,
+      "__unknown_productSubTitle": "Heyner Bamboo Ortopedik Yaylı Yatak Bebek Yatağı 70 x 130 CM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

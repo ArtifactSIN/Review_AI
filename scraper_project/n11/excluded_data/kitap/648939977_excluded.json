@@ -1,0 +1,100 @@
+[
+  {
+    "gid_ref": 814676,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yuva 1. Sınıf Hikaye Seti 7 Kutu 70 Kitap",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775453282215,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775453282215,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648939977,
+      "__unknown_productSubTitle": "Yuva 1. Sınıf Hikaye Seti 7 Kutu 70 Kitap",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 814677,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yuva 1. Sınıf Hikaye Seti 7 Kutu 70 Kitap",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765311521786,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/09/89/76/39/75/39/91/72/86/14/05275974957585381123.jpg",
+      "__unknown_lastModifiedDate": 1765911497980,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 511197238,
+      "__unknown_productSubTitle": "Yuva 1. Sınıf Hikaye Seti 7 Kutu 70 Kitap",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8097610,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/09/89/76/39/75/39/91/72/86/14/05275974957585381123.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/09/89/76/39/75/39/91/72/86/14/05275974957585381123.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/09/89/76/39/75/39/91/72/86/14/05275974957585381123.jpg"
+    }
+  },
+  {
+    "gid_ref": 814678,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yuva 1. Sınıf Hikaye Seti 7 Kutu 70 Kitap",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763307503018,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 511197238,
+      "__unknown_productSubTitle": "Yuva 1. Sınıf Hikaye Seti 7 Kutu 70 Kitap",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 814679,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yuva 1. Sınıf Hikaye Seti 7 Kutu 70 Kitap",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1711448842764,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/26/77/66/63/01/51/96/57/00/34/97846805925549001808.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595352165,
+      "__unknown_productSubTitle": "Yuva 1. Sınıf Hikaye Seti 7 Kutu 70 Kitap",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4237946,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/26/77/66/63/01/51/96/57/00/34/97846805925549001808.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/26/77/66/63/01/51/96/57/00/34/97846805925549001808.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/26/77/66/63/01/51/96/57/00/34/97846805925549001808.png"
+    }
+  }
+]

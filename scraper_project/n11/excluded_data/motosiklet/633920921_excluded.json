@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 892630,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kawasaki Ninja 250r 12 Volt 7 Amper Akü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772288156433,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/02/28/65/88/13/11/87/22/83/27/51/16571410991198089470.png",
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633920921,
+      "__unknown_productSubTitle": "Kawasaki Ninja 250r 12 Volt 7 Amper Akü ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8418636,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/02/28/65/88/13/11/87/22/83/27/51/16571410991198089470.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/02/28/65/88/13/11/87/22/83/27/51/16571410991198089470.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/02/28/65/88/13/11/87/22/83/27/51/16571410991198089470.png"
+    }
+  },
+  {
+    "gid_ref": 892631,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kawasaki Ninja 250r 12 Volt 7 Amper Akü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772270670454,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 633920921,
+      "__unknown_productSubTitle": "Kawasaki Ninja 250r 12 Volt 7 Amper Akü ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 892632,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kawasaki Ninja 250r 12 Volt 7 Amper Akü",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1769847352876,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 674937474,
+      "__unknown_productSubTitle": "Kawasaki Ninja 250r 12 Volt 7 Amper Akü ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

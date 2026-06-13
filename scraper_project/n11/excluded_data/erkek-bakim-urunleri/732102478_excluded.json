@@ -1,0 +1,66 @@
+[
+  {
+    "gid_ref": 540357,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dıngılg RD-128 Tıraş Makinesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764359630371,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/28/90/17/69/71/06/20/36/90/27/82659100476684483545.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 683015917,
+      "__unknown_productSubTitle": "Dıngılg RD-128 Tıraş Makinesi Altın",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8043378,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/90/17/69/71/06/20/36/90/27/82659100476684483545.png"
+        },
+        {
+          "id": 8043379,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/28/53/64/18/30/74/91/99/69/74/92520394187950243425.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/28/90/17/69/71/06/20/36/90/27/82659100476684483545.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/28/90/17/69/71/06/20/36/90/27/82659100476684483545.png"
+    }
+  },
+  {
+    "gid_ref": 540358,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dıngılg RD-128 Tıraş Makinesi",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1671048443971,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/12/14/59/02/68/46/76/33/62/91/39/13814525527579802168.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 540738485,
+      "__unknown_productSubTitle": "Dingilg Rd-128 Traş Makinesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1393655,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/12/14/68/84/21/50/88/81/40/84/11/24471598631469007517.jpg"
+        },
+        {
+          "id": 1393656,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/12/14/83/07/38/60/70/59/83/51/93/24071216009572956066.jpg"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/12/14/59/02/68/46/76/33/62/91/39/13814525527579802168.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/12/14/59/02/68/46/76/33/62/91/39/13814525527579802168.jpg"
+    }
+  }
+]

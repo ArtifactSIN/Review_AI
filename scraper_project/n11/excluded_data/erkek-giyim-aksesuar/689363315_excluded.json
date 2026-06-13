@@ -1,0 +1,51 @@
+[
+  {
+    "gid_ref": 575220,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Beau 6'lı Erkek Patik - Beyaz 8684427228005 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775333378365,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775333378365,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 689363315,
+      "__unknown_productSubTitle": "Madame Coco Beau 6'lı Erkek Patik - Beyaz 8684427228005 Beyaz 40 - 45",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 575221,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Madame Coco Beau 6'lı Erkek Patik - Beyaz 8684427228005 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766258311164,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/20/52/04/07/00/57/76/47/00/66/6134551500098781439.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 689363315,
+      "__unknown_productSubTitle": "Madame Coco Beau 6'lı Erkek Patik - Beyaz 8684427228005 Beyaz 40 - 45",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8142079,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/20/52/04/07/00/57/76/47/00/66/6134551500098781439.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/20/52/04/07/00/57/76/47/00/66/6134551500098781439.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/20/52/04/07/00/57/76/47/00/66/6134551500098781439.jpg"
+    }
+  }
+]

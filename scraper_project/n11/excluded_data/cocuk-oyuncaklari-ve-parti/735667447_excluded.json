@@ -1,0 +1,143 @@
+[
+  {
+    "gid_ref": 403127,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pilsan Big Trolley Power Pedalli Traktör",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772177928366,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646990071,
+      "__unknown_productSubTitle": "Pilsan Big Trolley Power Pedalli Traktör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 403128,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pilsan Big Trolley Power Pedalli Traktör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763615960921,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 644958975,
+      "__unknown_productSubTitle": "Pilsan Big Trolley Power Pedalli Traktör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 403129,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pilsan Big Trolley Power Pedalli Traktör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1745563497064,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 644958975,
+      "__unknown_productSubTitle": "Pilsan Big Trolley Power Pedalli Traktör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 403130,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pilsan Big Trolley Power Pedalli Traktör",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1741286751437,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 644958975,
+      "__unknown_productSubTitle": "Pilsan Big Trolley Power Pedalli Traktör",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 403131,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pilsan Big Trolley Power Pedalli Traktör",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740226482112,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/22/84/54/36/29/51/50/40/19/01/17022520715188127091.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646990071,
+      "__unknown_productSubTitle": "Pilsan Big Trolley Power Pedalli Traktör",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6875182,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/22/84/54/36/29/51/50/40/19/01/17022520715188127091.jpg"
+        },
+        {
+          "id": 6875183,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/22/88/47/90/03/01/38/10/00/59/14666275667030983595.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/22/84/54/36/29/51/50/40/19/01/17022520715188127091.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/22/84/54/36/29/51/50/40/19/01/17022520715188127091.jpg"
+    }
+  },
+  {
+    "gid_ref": 403132,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Pilsan Big Trolley Power Pedalli Traktör",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738776419774,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/05/70/28/27/84/62/11/60/84/83/82210655179961093252.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 646990071,
+      "__unknown_productSubTitle": "Pilsan Big Trolley Power Pedalli Traktör",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6802554,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/05/66/36/60/43/41/60/27/01/25/44609789872089644651.jpg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/05/70/28/27/84/62/11/60/84/83/82210655179961093252.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/05/70/28/27/84/62/11/60/84/83/82210655179961093252.jpg"
+    }
+  }
+]

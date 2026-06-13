@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 812849,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Okulda Bir Gün - Cırt Cırtlı Etkinlik Kitabım - Ayşenur K. Peltek - Bi Kutu Oyun Yayınevi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1759238160685,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630517598,
+      "__unknown_productSubTitle": "Okulda Bir Gün - Cırt Cırtlı Etkinlik Kitabım - Ayşenur K. Peltek - Bi Kutu Oyun Yayınevi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 812850,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Okulda Bir Gün - Cırt Cırtlı Etkinlik Kitabım - Ayşenur K. Peltek - Bi Kutu Oyun Yayınevi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740758600585,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630517598,
+      "__unknown_productSubTitle": "Okulda Bir Gün - Cırt Cırtlı Etkinlik Kitabım - Ayşenur K. Peltek - Bi Kutu Oyun Yayınevi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 812851,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Okulda Bir Gün - Cırt Cırtlı Etkinlik Kitabım - Ayşenur K. Peltek - Bi Kutu Oyun Yayınevi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1738912460771,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/07/60/52/97/10/01/72/82/32/93/06404672978738328416.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 630517598,
+      "__unknown_productSubTitle": "Okulda Bir Gün - Cırt Cırtlı Etkinlik Kitabım - Ayşenur K. Peltek - Bi Kutu Oyun Yayınevi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6812406,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/07/60/52/97/10/01/72/82/32/93/06404672978738328416.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/07/60/52/97/10/01/72/82/32/93/06404672978738328416.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/07/60/52/97/10/01/72/82/32/93/06404672978738328416.png"
+    }
+  }
+]

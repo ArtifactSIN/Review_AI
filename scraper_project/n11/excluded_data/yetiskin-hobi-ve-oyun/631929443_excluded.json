@@ -1,0 +1,76 @@
+[
+  {
+    "gid_ref": 1492803,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Art Kırmızı Eski Değirmen Puzzle - 1000 Parça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1775833539818,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775833539818,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631929443,
+      "__unknown_productSubTitle": "Art Kırmızı Eski Değirmen Puzzle - 1000 Parça",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1492804,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Art Kırmızı Eski Değirmen Puzzle - 1000 Parça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774039084695,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/20/87/74/55/18/32/63/19/22/67/94300382336103134289.png",
+      "__unknown_lastModifiedDate": 1774039084695,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 631929443,
+      "__unknown_productSubTitle": "Art Kırmızı Eski Değirmen Puzzle - 1000 Parça",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8484387,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/20/87/74/55/18/32/63/19/22/67/94300382336103134289.png"
+        },
+        {
+          "id": 8484388,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/20/60/07/14/17/17/16/52/63/37/76641899991894178952.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/20/87/74/55/18/32/63/19/22/67/94300382336103134289.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/20/87/74/55/18/32/63/19/22/67/94300382336103134289.png"
+    }
+  },
+  {
+    "gid_ref": 1492805,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Art Kırmızı Eski Değirmen Puzzle - 1000 Parça",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1585217449548,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 412041482,
+      "__unknown_productSubTitle": "Art Puzzle Kırmızı Eski Değirmen 1000 Parça Puzzle",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 754159,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "ürün güzel",
+      "productTitle": "Üreticiden 500 Çift Tek Kullanımlık Terlik Otel Hastane Terliği",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1626962775523,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 347818338,
+      "__unknown_productSubTitle": "Üreticiden 500 Çift Tek Kullanımlık Terlik Otel Hastane Terliği",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 754160,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Üreticiden 500 Çift Tek Kullanımlık Terlik Otel Hastane Terliği",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1582875331851,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 347818338,
+      "__unknown_productSubTitle": "Üreticiden 500 Çift Tek Kullanımlık Terlik Otel Hastane Terliği",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

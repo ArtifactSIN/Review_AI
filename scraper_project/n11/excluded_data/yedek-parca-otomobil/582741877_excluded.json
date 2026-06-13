@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 1458032,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford Kuga Silecek Takımı 2020-2022 Bosch Aerotwin Plus",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1748439484881,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582741877,
+      "__unknown_productSubTitle": "Ford Kuga Silecek Takımı 2020-2022 Bosch Aerotwin Plus",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1458033,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Ford Kuga Silecek Takımı 2020-2022 Bosch Aerotwin Plus",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1716642302153,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 582741877,
+      "__unknown_productSubTitle": "Ford Kuga Silecek Takımı 2020-2022 Bosch Aerotwin Plus",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

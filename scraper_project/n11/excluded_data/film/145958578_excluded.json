@@ -1,0 +1,125 @@
+[
+  {
+    "gid_ref": 734905,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Weird Science - Tuhaf Bilim Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773155790979,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773155790979,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 145958578,
+      "__unknown_productSubTitle": "Weird Science - Tuhaf Bilim Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734906,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Weird Science - Tuhaf Bilim Blu-Ray",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762074592375,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 169986881,
+      "__unknown_productSubTitle": "Weird Science - Tuhaf Bilim Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734907,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Weird Science - Tuhaf Bilim Blu-Ray",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1759511969022,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 169986881,
+      "__unknown_productSubTitle": "Weird Science - Tuhaf Bilim Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734908,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Weird Science - Tuhaf Bilim Blu-Ray",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1708611136372,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 169986881,
+      "__unknown_productSubTitle": "Weird Science - Tuhaf Bilim Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734909,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Güzel film",
+      "productTitle": "Weird Science - Tuhaf Bilim Blu-Ray",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1646865814897,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 169986881,
+      "__unknown_productSubTitle": "Weird Science - Tuhaf Bilim Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 734910,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Süper",
+      "productTitle": "Weird Science - Tuhaf Bilim Blu-Ray",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1507376473355,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 145958578,
+      "__unknown_productSubTitle": "Weird Science - Tuhaf Bilim Blu-Ray",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

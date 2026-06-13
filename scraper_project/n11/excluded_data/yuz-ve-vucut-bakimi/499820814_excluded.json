@@ -1,0 +1,99 @@
+[
+  {
+    "gid_ref": 1500201,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Elzey K101 Sıvı El Yıkama Sabunu 5 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769764069175,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/01/30/61/30/05/71/30/25/40/74/10/58910451090987699371.png",
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 499820814,
+      "__unknown_productSubTitle": "Elzey K101 Sıvı El Yıkama Sabunu 5 L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8302573,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/01/30/58/85/62/94/39/18/37/62/27/22844512586992599439.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/01/30/61/30/05/71/30/25/40/74/10/58910451090987699371.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/01/30/61/30/05/71/30/25/40/74/10/58910451090987699371.png"
+    }
+  },
+  {
+    "gid_ref": 1500202,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Elzey K101 Sıvı El Yıkama Sabunu 5 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766956471026,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 499820814,
+      "__unknown_productSubTitle": "Elzey K101 Sıvı El Yıkama Sabunu 5 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1500203,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Elzey K101 Sıvı El Yıkama Sabunu 5 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1763148972808,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/14/76/63/47/72/55/11/81/48/05/07401068981264336854.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 499820814,
+      "__unknown_productSubTitle": "Elzey K101 Sıvı El Yıkama Sabunu 5 L",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7970720,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/14/67/53/80/82/83/60/60/63/66/97933772088863444853.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/14/76/63/47/72/55/11/81/48/05/07401068981264336854.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/14/76/63/47/72/55/11/81/48/05/07401068981264336854.png"
+    }
+  },
+  {
+    "gid_ref": 1500204,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Elzey K101 Sıvı El Yıkama Sabunu 5 L",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1712190988369,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 499820814,
+      "__unknown_productSubTitle": "Elzey K101 Sıvı El Yıkama Sabunu 5 L",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

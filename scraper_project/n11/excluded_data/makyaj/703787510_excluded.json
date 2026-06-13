@@ -1,0 +1,105 @@
+[
+  {
+    "gid_ref": 852030,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Paris Lumi Blush Likit Allık Glowy Gold Pink",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1770141760949,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 703787510,
+      "__unknown_productSubTitle": "L'Oréal Paris Lumi Blush Likit Allık Glowy Gold Pink",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 852031,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Paris Lumi Blush Likit Allık Glowy Gold Pink",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1768517118282,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 703787510,
+      "__unknown_productSubTitle": "L'Oréal Paris Lumi Blush Likit Allık Glowy Gold Pink",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 852032,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Paris Lumi Blush Likit Allık Glowy Gold Pink",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1765312059784,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 703787510,
+      "__unknown_productSubTitle": "L'Oréal Paris Lumi Blush Likit Allık Glowy Gold Pink",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 852033,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Paris Lumi Blush Likit Allık Glowy Gold Pink",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1760296462726,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652009821,
+      "__unknown_productSubTitle": "L'Oréal Paris Lumi Blush Likit Allık Glowy Gold Pink",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 852034,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oréal Paris Lumi Blush Likit Allık Glowy Gold Pink",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752905951588,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1752906096494,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 652009821,
+      "__unknown_productSubTitle": "L'Oréal Paris Lumi Blush Likit Allık Glowy Gold Pink",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

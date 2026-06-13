@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 420959,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yapay Ağaç 4 Gövdeli Palmiye Ağacı 180 Cm 1.Kalite Yapay Çiçek",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732999605491,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664448114,
+      "__unknown_productSubTitle": "Yapay Ağaç 4 Gövdeli Palmiye Ağacı 180 Cm 1.Kalite Yapay Çiçek",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 420960,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yapay Ağaç 4 Gövdeli Palmiye Ağacı 180 Cm 1.Kalite Yapay Çiçek",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1732618490455,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/26/49/70/72/46/15/08/34/56/93/03950500685170718497.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664448114,
+      "__unknown_productSubTitle": "Yapay Ağaç 4 Gövdeli Palmiye Ağacı 180 Cm 1.Kalite Yapay Çiçek",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6331457,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/26/49/70/72/46/15/08/34/56/93/03950500685170718497.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/26/49/70/72/46/15/08/34/56/93/03950500685170718497.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/26/49/70/72/46/15/08/34/56/93/03950500685170718497.jpg"
+    }
+  },
+  {
+    "gid_ref": 420961,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Yapay Ağaç 4 Gövdeli Palmiye Ağacı 180 Cm 1.Kalite Yapay Çiçek",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1729355861097,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/10/19/78/56/99/60/90/48/74/45/72/41732541041367957253.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 664448114,
+      "__unknown_productSubTitle": "Yapay Ağaç 4 Gövdeli Palmiye Ağacı 180 Cm 1.Kalite Yapay Çiçek",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5974960,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/10/19/78/56/99/60/90/48/74/45/72/41732541041367957253.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/10/19/78/56/99/60/90/48/74/45/72/41732541041367957253.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/10/19/78/56/99/60/90/48/74/45/72/41732541041367957253.jpg"
+    }
+  }
+]

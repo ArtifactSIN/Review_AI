@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 396771,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Scoot And Ride Highwaykick 1 Oturaklı Çocuk Scooter Olive 160629-00001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1744744343977,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/15/78/72/32/45/00/61/19/25/85/53796854274161787768.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650293406,
+      "__unknown_productSubTitle": "Scoot And Ride Highwaykick 1 Oturaklı Çocuk Scooter Olive 160629-00001 ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7106705,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/15/78/72/32/45/00/61/19/25/85/53796854274161787768.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/15/78/72/32/45/00/61/19/25/85/53796854274161787768.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/15/78/72/32/45/00/61/19/25/85/53796854274161787768.png"
+    }
+  },
+  {
+    "gid_ref": 396772,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Scoot And Ride Highwaykick 1 Oturaklı Çocuk Scooter Olive 160629-00001",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1742053757707,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 650293406,
+      "__unknown_productSubTitle": "Scoot And Ride Highwaykick 1 Oturaklı Çocuk Scooter Olive 160629-00001 ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

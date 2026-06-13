@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 529862,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun Series 3 MGK3410 Hepsi Bir Arada Şekillendirme Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719206444484,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585499023,
+      "__unknown_productSubTitle": "Braun Series 3 MGK3410 Hepsi Bir Arada Şekillendirme Seti Siyah",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 529863,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Braun Series 3 MGK3410 Hepsi Bir Arada Şekillendirme Seti",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1714137845815,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/26/64/13/29/20/52/46/51/09/81/65014697156263525039.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 585499023,
+      "__unknown_productSubTitle": "Braun Series 3 MGK3410 Hepsi Bir Arada Şekillendirme Seti Siyah",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4518912,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/26/64/13/29/20/52/46/51/09/81/65014697156263525039.png"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/26/64/13/29/20/52/46/51/09/81/65014697156263525039.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/26/64/13/29/20/52/46/51/09/81/65014697156263525039.png"
+    }
+  }
+]

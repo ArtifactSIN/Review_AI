@@ -1,0 +1,52 @@
+[
+  {
+    "gid_ref": 1071805,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Croc Su03 Siyah Saç Kesim Usturası -jiletli Tarak +10 Adet Jilet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774425053106,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774425053106,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732053078,
+      "__unknown_productSubTitle": "Croc Su03 Siyah Saç Kesim Usturası -jiletli Tarak +10 Adet Jilet ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1071806,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Croc Su03 Siyah Saç Kesim Usturası -jiletli Tarak +10 Adet Jilet",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774081433591,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/03/21/50/10/88/78/27/61/57/12/52/8320611931473069218.jpg",
+      "__unknown_lastModifiedDate": 1774081433591,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 732053078,
+      "__unknown_productSubTitle": "Croc Su03 Siyah Saç Kesim Usturası -jiletli Tarak +10 Adet Jilet ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8485729,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/03/21/50/10/88/78/27/61/57/12/52/8320611931473069218.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/03/21/50/10/88/78/27/61/57/12/52/8320611931473069218.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/03/21/50/10/88/78/27/61/57/12/52/8320611931473069218.jpg"
+    }
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "gid_ref": 777942,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.s. Polo Assn. Kadın Kaban 50312015-vr256 İnci",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1776186953164,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/26/04/14/48/00/62/21/47/11/61/36/12/06189359872539511975.png",
+      "__unknown_lastModifiedDate": 1776186953164,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712830434,
+      "__unknown_productSubTitle": "U.s. Polo Assn. Kadın Kaban 50312015-vr256 İnci 40",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8602494,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/26/04/14/48/00/62/21/47/11/61/36/12/06189359872539511975.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/26/04/14/48/00/62/21/47/11/61/36/12/06189359872539511975.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/26/04/14/48/00/62/21/47/11/61/36/12/06189359872539511975.png"
+    }
+  },
+  {
+    "gid_ref": 777943,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.s. Polo Assn. Kadın Kaban 50312015-vr256 İnci",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767465708276,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712830468,
+      "__unknown_productSubTitle": "U.s. Polo Assn. Kadın Kaban 50312015-vr256 İnci 44",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 777944,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "U.s. Polo Assn. Kadın Kaban 50312015-vr256 İnci",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1767462138914,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 712830418,
+      "__unknown_productSubTitle": "U.s. Polo Assn. Kadın Kaban 50312015-vr256 İnci 34",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

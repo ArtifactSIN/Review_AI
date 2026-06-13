@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 1514255,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "La Roche Posay Anthelios Uvmune 400 Fluid Tinted Renkli Güneş Kremi SPF50+ 2 x 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1714720259143,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579543147,
+      "__unknown_productSubTitle": "La Roche Posay Anthelios Uvmune 400 Fluid Tinted Renkli Güneş Kremi SPF50+ 2 x 50 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1514256,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "La Roche Posay Anthelios Uvmune 400 Fluid Tinted Renkli Güneş Kremi SPF50+ 2 x 50 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1713344250333,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/04/17/61/69/14/54/27/43/03/46/08/24551074418586662244.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579543147,
+      "__unknown_productSubTitle": "La Roche Posay Anthelios Uvmune 400 Fluid Tinted Renkli Güneş Kremi SPF50+ 2 x 50 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4430858,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/04/17/61/69/14/54/27/43/03/46/08/24551074418586662244.png"
+        }
+      ],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/04/17/61/69/14/54/27/43/03/46/08/24551074418586662244.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/04/17/61/69/14/54/27/43/03/46/08/24551074418586662244.png"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 735192,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Fiyat/performans filmi",
+      "productTitle": "Dvd- Kasabadaki Ölü - Dead On Tombstone",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1641303340792,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 178431227,
+      "__unknown_productSubTitle": "Dvd- Kasabadaki Ölü - Dead On Tombstone",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

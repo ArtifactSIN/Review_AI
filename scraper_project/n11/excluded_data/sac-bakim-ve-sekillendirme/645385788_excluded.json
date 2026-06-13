@@ -1,0 +1,78 @@
+[
+  {
+    "gid_ref": 1056202,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Koleston Naturals Boya 6/73 Ayışığı Kahvesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762840250512,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645385788,
+      "__unknown_productSubTitle": "Koleston Naturals Boya 6/73 Ayışığı Kahvesi 6.73 Ay Işığı Kahvesi",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1056203,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Koleston Naturals Boya 6/73 Ayışığı Kahvesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1762198921662,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/03/70/76/57/20/93/76/05/78/57/3307831925439220341.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645385788,
+      "__unknown_productSubTitle": "Koleston Naturals Boya 6/73 Ayışığı Kahvesi 6.73 Ay Işığı Kahvesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7912150,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/03/70/76/57/20/93/76/05/78/57/3307831925439220341.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/03/70/76/57/20/93/76/05/78/57/3307831925439220341.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/03/70/76/57/20/93/76/05/78/57/3307831925439220341.png"
+    }
+  },
+  {
+    "gid_ref": 1056204,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Koleston Naturals Boya 6/73 Ayışığı Kahvesi",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1753726585293,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/07/28/72/23/31/90/41/55/39/67/51/19136781196992101894.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 645385788,
+      "__unknown_productSubTitle": "Koleston Naturals Boya 6/73 Ayışığı Kahvesi 6.73 Ay Işığı Kahvesi",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7501315,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/07/28/72/23/31/90/41/55/39/67/51/19136781196992101894.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/07/28/72/23/31/90/41/55/39/67/51/19136781196992101894.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/07/28/72/23/31/90/41/55/39/67/51/19136781196992101894.png"
+    }
+  }
+]

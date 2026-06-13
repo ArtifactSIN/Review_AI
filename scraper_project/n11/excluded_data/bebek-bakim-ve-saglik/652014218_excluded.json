@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 201445,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "La Roche Posay Anthelios Dermo Pediatrics Uvmune 400 Invisible Fluid Yüz Güneş Kremi SPF50+ 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1750594261326,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602012544,
+      "__unknown_productSubTitle": "La Roche Posay Anthelios Dermo Pediatrics Uvmune 400 Invisible Fluid Yüz Güneş Kremi Spf50+ 50ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 201446,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "La Roche Posay Anthelios Dermo Pediatrics Uvmune 400 Invisible Fluid Yüz Güneş Kremi SPF50+ 50 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740423479976,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 602012544,
+      "__unknown_productSubTitle": "La Roche Posay Anthelios Dermo Pediatrics Uvmune 400 Invisible Fluid Yüz Güneş Kremi Spf50+ 50ml",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

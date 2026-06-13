@@ -1,0 +1,111 @@
+[
+  {
+    "gid_ref": 512217,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permasharp Jilet 5 x 5'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1710416547200,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/03/14/62/40/51/78/81/46/24/17/65/92461499806671258882.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 542755264,
+      "__unknown_productSubTitle": "Gillette Permasharp Jilet 5 x 5'li",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 4131554,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/03/14/62/40/51/78/81/46/24/17/65/92461499806671258882.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/03/14/62/40/51/78/81/46/24/17/65/92461499806671258882.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/03/14/62/40/51/78/81/46/24/17/65/92461499806671258882.png"
+    }
+  },
+  {
+    "gid_ref": 512218,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permasharp Jilet 5 x 5'li",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1701181072521,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 541444595,
+      "__unknown_productSubTitle": "Gillette Permasharp Jilet 5 x 5'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 512219,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permasharp Jilet 5 x 5'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1678278177820,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 542755264,
+      "__unknown_productSubTitle": "Gillette Permasharp Jilet 5 x 5'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 512220,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Gillette Permasharp Jilet 5 x 5'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1669220309282,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 542755264,
+      "__unknown_productSubTitle": "Gillette Permasharp Jilet 5 x 5'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 512221,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "denemedim",
+      "productTitle": "Gillette Permasharp Jilet 5 x 5'li",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1657203954964,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 542755264,
+      "__unknown_productSubTitle": "Gillette Permasharp Jilet 5 x 5'li",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

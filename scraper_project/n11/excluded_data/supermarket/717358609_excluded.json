@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 1239243,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jacobs Lungo 6 Classic Nespresso Uyumlu Kapsül Kahve 10 Lu X 10 PKT.JACOBS.021 Kapsül Kahve",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773781644051,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773781644051,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717358609,
+      "__unknown_productSubTitle": "Jacobs Lungo 6 Classic Nespresso Uyumlu Kapsül Kahve 10 Lu X 10 PKT.JACOBS.021 Kapsül Kahve ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1239244,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Jacobs Lungo 6 Classic Nespresso Uyumlu Kapsül Kahve 10 Lu X 10 PKT.JACOBS.021 Kapsül Kahve",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773781162739,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773781162739,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 717358609,
+      "__unknown_productSubTitle": "Jacobs Lungo 6 Classic Nespresso Uyumlu Kapsül Kahve 10 Lu X 10 PKT.JACOBS.021 Kapsül Kahve ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

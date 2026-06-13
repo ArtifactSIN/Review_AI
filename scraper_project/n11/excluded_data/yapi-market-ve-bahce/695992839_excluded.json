@@ -1,0 +1,44 @@
+[
+  {
+    "gid_ref": 1404440,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dawreek Havalı Polisaj ve Zımparalama Makinesi 150 MM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1773961852631,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1773961852631,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695992839,
+      "__unknown_productSubTitle": "Dawreek Havalı Polisaj ve Zımparalama Makinesi 150 MM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1404441,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Dawreek Havalı Polisaj ve Zımparalama Makinesi 150 MM",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1772797915274,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 695992839,
+      "__unknown_productSubTitle": "Dawreek Havalı Polisaj ve Zımparalama Makinesi 150 MM",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 1337277,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Ürün hala teslim olmadı ",
+      "productTitle": "PS4 Uyumlu V2 Gamepad Kol Crystal Red Kırmızı",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1618969248230,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 433417183,
+      "__unknown_productSubTitle": "PS4 Uyumlu V2 Gamepad Kol Crystal Red Kırmızı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

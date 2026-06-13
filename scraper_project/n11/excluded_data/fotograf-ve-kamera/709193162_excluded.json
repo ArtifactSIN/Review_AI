@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 752441,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "yanıltıcı resim",
+      "productTitle": "Duracell Şarjlı 2500 Mah Kalem Pil Aa Hr6 2Li Blis",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1642774160882,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/01/21/66/66/08/55/98/63/95/29/45/74299578592814255076.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 519490807,
+      "__unknown_productSubTitle": "Duracell Şarjlı 2500 Mah Kalem Pil Aa Hr6 2Li Blis",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 267163,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/01/21/66/66/08/55/98/63/95/29/45/74299578592814255076.jpg"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/01/21/66/66/08/55/98/63/95/29/45/74299578592814255076.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/01/21/66/66/08/55/98/63/95/29/45/74299578592814255076.jpg"
+    }
+  }
+]

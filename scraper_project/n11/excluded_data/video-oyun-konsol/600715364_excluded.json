@@ -1,0 +1,31 @@
+[
+  {
+    "gid_ref": 1339351,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "GTA Trilogy",
+      "productTitle": "Grand Theft Auto The Trilogy The Definitive Edition Nintendo Switch Oyun",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1651034356101,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/22/04/27/60/86/85/74/36/98/91/15/19/41443000632000297386.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 531930792,
+      "__unknown_productSubTitle": "Aynı Gün Stoktan Hızlı ve Ücretsiz Kargo",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 584602,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/22/04/27/60/86/85/74/36/98/91/15/19/41443000632000297386.jpeg"
+        }
+      ],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/22/04/27/60/86/85/74/36/98/91/15/19/41443000632000297386.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/22/04/27/60/86/85/74/36/98/91/15/19/41443000632000297386.jpeg"
+    }
+  }
+]

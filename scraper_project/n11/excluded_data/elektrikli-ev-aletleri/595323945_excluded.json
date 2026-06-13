@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 450571,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Domel 458.3.303-32 Elektrikli Süpürge Motoru 850W",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774342055446,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774342055446,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 595323945,
+      "__unknown_productSubTitle": "Domel 458.3.303-32 Elektrikli Süpürge Motoru 850W",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 450572,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Domel 458.3.303-32 Elektrikli Süpürge Motoru 850W",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1694587124031,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566861287,
+      "__unknown_productSubTitle": "Domel 458.3.303-32 Elektrikli Süpürge Motoru 850W",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 450573,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Domel 458.3.303-32 Elektrikli Süpürge Motoru 850W",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1685108205565,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 566861287,
+      "__unknown_productSubTitle": "Domel 458.3.303-32 Elektrikli Süpürge Motoru 850W",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

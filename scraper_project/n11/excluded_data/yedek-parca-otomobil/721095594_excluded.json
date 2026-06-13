@@ -1,0 +1,62 @@
+[
+  {
+    "gid_ref": 1484934,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vestel EVC04 AC22SW-T2P OPT1 TR Elektrikli Araç Şarj İstasyonu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1763645730101,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/11/20/78/98/38/39/04/49/81/25/92/5351968802198827743.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665454763,
+      "__unknown_productSubTitle": "Vestel EVC04 AC22SW-T2P OPT1 TR Elektrikli Araç Şarj İstasyonu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7990797,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/11/20/78/98/38/39/04/49/81/25/92/5351968802198827743.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/11/20/78/98/38/39/04/49/81/25/92/5351968802198827743.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/11/20/78/98/38/39/04/49/81/25/92/5351968802198827743.jpg"
+    }
+  },
+  {
+    "gid_ref": 1484935,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Vestel EVC04 AC22SW-T2P OPT1 TR Elektrikli Araç Şarj İstasyonu",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747483298628,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/05/17/46/46/50/04/83/52/29/03/29/62616284253439374979.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 665454763,
+      "__unknown_productSubTitle": "Vestel EVC04 AC22SW-T2P OPT1 TR Elektrikli Araç Şarj İstasyonu",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7227347,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/17/46/46/50/04/83/52/29/03/29/62616284253439374979.jpg"
+        },
+        {
+          "id": 7227348,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/05/17/79/02/69/49/20/52/24/68/10/4287454377786885862.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/05/17/46/46/50/04/83/52/29/03/29/62616284253439374979.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/05/17/46/46/50/04/83/52/29/03/29/62616284253439374979.jpg"
+    }
+  }
+]

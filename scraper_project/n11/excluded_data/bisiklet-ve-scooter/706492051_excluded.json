@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 385062,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Hidrolik Fren Yağı Mineral 500ml Siyah",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766670911498,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 706492051,
+      "__unknown_productSubTitle": "Shimano Hidrolik Fren Yağı Mineral 500ML Siyah ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 385063,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Hidrolik Fren Yağı Mineral 500ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1678795679232,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/03/14/58/12/16/25/10/09/11/49/76/6706314831366344151.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552957096,
+      "__unknown_productSubTitle": "Shimano Hidrolik Fren Yağı Mineral 500ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1734870,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/03/14/58/12/16/25/10/09/11/49/76/6706314831366344151.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/03/14/58/12/16/25/10/09/11/49/76/6706314831366344151.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/03/14/58/12/16/25/10/09/11/49/76/6706314831366344151.png"
+    }
+  },
+  {
+    "gid_ref": 385064,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Shimano Hidrolik Fren Yağı Mineral 500ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1673693629640,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552957096,
+      "__unknown_productSubTitle": "Shimano Hidrolik Fren Yağı Mineral 500ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

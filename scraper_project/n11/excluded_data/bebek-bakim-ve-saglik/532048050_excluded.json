@@ -1,0 +1,98 @@
+[
+  {
+    "gid_ref": 186121,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bioderma Abcderm Change Intensive Pişik Kremi 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1739705555476,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/16/67/79/68/65/58/07/01/42/06/35055098951387955142.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 532048050,
+      "__unknown_productSubTitle": "Bioderma Abcderm Change Intensive Pişik Kremi 75 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6857713,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/16/67/79/68/65/58/07/01/42/06/35055098951387955142.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/16/67/79/68/65/58/07/01/42/06/35055098951387955142.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/16/67/79/68/65/58/07/01/42/06/35055098951387955142.jpg"
+    }
+  },
+  {
+    "gid_ref": 186122,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bioderma Abcderm Change Intensive Pişik Kremi 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1725697650238,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/07/64/61/96/31/93/36/51/34/67/5615562414959801856.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 532048050,
+      "__unknown_productSubTitle": "Bioderma Abcderm Change Intensive Pişik Kremi 75 ML",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5596129,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/07/64/61/96/31/93/36/51/34/67/5615562414959801856.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/07/64/61/96/31/93/36/51/34/67/5615562414959801856.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/07/64/61/96/31/93/36/51/34/67/5615562414959801856.png"
+    }
+  },
+  {
+    "gid_ref": 186123,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bioderma Abcderm Change Intensive Pişik Kremi 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1703280796322,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 532048050,
+      "__unknown_productSubTitle": "Bioderma Abcderm Change Intensive Pişik Kremi 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 186124,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Bioderma Abcderm Change Intensive Pişik Kremi 75 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1694887194318,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 532048050,
+      "__unknown_productSubTitle": "Bioderma Abcderm Change Intensive Pişik Kremi 75 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

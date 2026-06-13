@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 794485,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rich Hayalet Boya Naturel Yeşil 50Cc",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767043556309,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/30/46/44/86/49/33/13/12/00/78/78734794499949968526.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 603212425,
+      "__unknown_productSubTitle": "Rich Hayalet Boya Naturel Yeşil 50Cc",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8177792,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/30/46/44/86/49/33/13/12/00/78/78734794499949968526.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/30/46/44/86/49/33/13/12/00/78/78734794499949968526.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/30/46/44/86/49/33/13/12/00/78/78734794499949968526.png"
+    }
+  },
+  {
+    "gid_ref": 794486,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rich Hayalet Boya Naturel Yeşil 50Cc",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1766686117731,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 723719455,
+      "__unknown_productSubTitle": "Rich Hayalet Boya Naturel Yeşil 50Cc",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 794487,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Rich Hayalet Boya Naturel Yeşil 50Cc",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1747764602891,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 641497502,
+      "__unknown_productSubTitle": "Rich Hayalet Boya Naturel Yeşil 50Cc",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

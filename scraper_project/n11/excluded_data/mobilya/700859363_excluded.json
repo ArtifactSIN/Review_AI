@@ -1,0 +1,96 @@
+[
+  {
+    "gid_ref": 871649,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "5 Raflı Kitaplık Dekoratif Raf 180x90x30 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1771008027855,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700859363,
+      "__unknown_productSubTitle": "5 Raflı Kitaplık Dekoratif Raf 180x90x30 Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 871650,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "5 Raflı Kitaplık Dekoratif Raf 180x90x30 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1768848972014,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700859363,
+      "__unknown_productSubTitle": "5 Raflı Kitaplık Dekoratif Raf 180x90x30 Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 871651,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "5 Raflı Kitaplık Dekoratif Raf 180x90x30 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1765923942169,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/12/17/62/01/23/29/40/46/01/80/95/38874387777630550874.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700859363,
+      "__unknown_productSubTitle": "5 Raflı Kitaplık Dekoratif Raf 180x90x30 Beyaz",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 8121694,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/17/62/01/23/29/40/46/01/80/95/38874387777630550874.png"
+        },
+        {
+          "id": 8121695,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/12/17/77/90/61/90/63/76/59/04/99/83577821435823606306.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/12/17/62/01/23/29/40/46/01/80/95/38874387777630550874.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/12/17/62/01/23/29/40/46/01/80/95/38874387777630550874.png"
+    }
+  },
+  {
+    "gid_ref": 871652,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "5 Raflı Kitaplık Dekoratif Raf 180x90x30 Beyaz",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764977219032,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700859363,
+      "__unknown_productSubTitle": "5 Raflı Kitaplık Dekoratif Raf 180x90x30 Beyaz",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

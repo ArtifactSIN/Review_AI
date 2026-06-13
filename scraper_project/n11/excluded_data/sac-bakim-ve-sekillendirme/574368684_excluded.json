@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1045392,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kerastase Genesis Homme Spray De Force Épaississant Sprey 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1772540406660,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870271767,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 696117585,
+      "__unknown_productSubTitle": "Kerastase Genesis Homme Spray De Force Épaississant Sprey 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1045393,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kerastase Genesis Homme Spray De Force Épaississant Sprey 150 ML",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766508162937,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 696117585,
+      "__unknown_productSubTitle": "Kerastase Genesis Homme Spray De Force Épaississant Sprey 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1045394,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Kerastase Genesis Homme Spray De Force Épaississant Sprey 150 ML",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1718916430104,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 547134043,
+      "__unknown_productSubTitle": "Kerastase Genesis Homme Spray De Force Épaississant Sprey 150 ML",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

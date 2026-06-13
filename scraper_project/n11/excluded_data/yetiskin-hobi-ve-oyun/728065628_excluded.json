@@ -1,0 +1,23 @@
+[
+  {
+    "gid_ref": 1495085,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Sam Games Çark Show",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1774544140567,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774544140567,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700362457,
+      "__unknown_productSubTitle": "Sam Games Çark Show ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

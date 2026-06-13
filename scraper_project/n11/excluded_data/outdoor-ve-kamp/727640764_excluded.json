@@ -1,0 +1,43 @@
+[
+  {
+    "gid_ref": 965109,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Berg Seguam Erkek Ceket",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1775233178033,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1775233178033,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 727640762,
+      "__unknown_productSubTitle": "Berg Seguam Erkek Ceket Mavi XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 965110,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Berg Seguam Erkek Ceket",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1681380579628,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 455513041,
+      "__unknown_productSubTitle": "Berg Seguam Erkek Ceket Mavi XL",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

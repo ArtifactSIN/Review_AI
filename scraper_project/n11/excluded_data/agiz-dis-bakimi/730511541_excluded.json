@@ -1,0 +1,86 @@
+[
+  {
+    "gid_ref": 30760,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Eyüp Sabri Tuncer Doğal Misvak Özlü Diş Macunu 90 Ml - 6 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1766167552258,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 673791636,
+      "__unknown_productSubTitle": "Eyüp Sabri Tuncer Doğal Misvak Özlü Diş Macunu 90 Ml - 6 Adet ",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 30761,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Eyüp Sabri Tuncer Doğal Misvak Özlü Diş Macunu 90 Ml - 6 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1758283152076,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/09/19/80/31/35/34/81/72/43/02/83/03465105445689277455.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688999205,
+      "__unknown_productSubTitle": "Eyüp Sabri Tuncer Doğal Misvak Özlü Diş Macunu 90 Ml - 6 Adet ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7700530,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/19/65/53/19/96/28/56/01/63/68/06810832002402466868.png"
+        },
+        {
+          "id": 7700531,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/09/19/87/10/76/52/34/89/57/73/80/96862230136782537722.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/09/19/80/31/35/34/81/72/43/02/83/03465105445689277455.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/09/19/80/31/35/34/81/72/43/02/83/03465105445689277455.png"
+    }
+  },
+  {
+    "gid_ref": 30762,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Eyüp Sabri Tuncer Doğal Misvak Özlü Diş Macunu 90 Ml - 6 Adet",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1755364563693,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/08/16/55/74/52/96/55/28/81/19/33/35939647556921833938.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 688999205,
+      "__unknown_productSubTitle": "Eyüp Sabri Tuncer Doğal Misvak Özlü Diş Macunu 90 Ml - 6 Adet ",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7568359,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/16/83/96/87/68/82/08/63/05/53/93054349933138720923.png"
+        },
+        {
+          "id": 7568360,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/08/16/73/50/48/73/66/66/04/49/97/52452623123284211381.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/08/16/55/74/52/96/55/28/81/19/33/35939647556921833938.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/08/16/55/74/52/96/55/28/81/19/33/35939647556921833938.png"
+    }
+  }
+]

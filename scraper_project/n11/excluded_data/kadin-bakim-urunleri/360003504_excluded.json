@@ -1,0 +1,125 @@
+[
+  {
+    "gid_ref": 756489,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "AllMatters Model A Adet Regl Kabı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1746030229489,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 360003504,
+      "__unknown_productSubTitle": "AllMatters Model A Adet Regl Kabı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 756490,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "AllMatters Model A Adet Regl Kabı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1731942855814,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/18/91/15/90/07/62/85/07/92/57/12771359869636556321.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 360003504,
+      "__unknown_productSubTitle": "AllMatters Model A Adet Regl Kabı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6267952,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/18/91/15/90/07/62/85/07/92/57/12771359869636556321.png"
+        },
+        {
+          "id": 6267953,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/18/63/62/81/13/77/33/49/36/94/91814454504745253832.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/18/91/15/90/07/62/85/07/92/57/12771359869636556321.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/18/91/15/90/07/62/85/07/92/57/12771359869636556321.png"
+    }
+  },
+  {
+    "gid_ref": 756491,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "AllMatters Model A Adet Regl Kabı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1709581272578,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 360003504,
+      "__unknown_productSubTitle": "AllMatters Model A Adet Regl Kabı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 756492,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "Sıfır atık önderi",
+      "productTitle": "AllMatters Model A Adet Regl Kabı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1637666667777,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/21/11/23/75/62/04/15/56/05/03/66/82/28949894796737072473.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 360003504,
+      "__unknown_productSubTitle": "AllMatters Model A Adet Regl Kabı",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 3272590,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/21/11/23/75/62/04/15/56/05/03/66/82/28949894796737072473.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/21/11/23/75/62/04/15/56/05/03/66/82/28949894796737072473.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/21/11/23/75/62/04/15/56/05/03/66/82/28949894796737072473.jpg"
+    }
+  },
+  {
+    "gid_ref": 756493,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "title": "lütfen oku",
+      "productTitle": "AllMatters Model A Adet Regl Kabı",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1610577306014,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1636612033070,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 360003504,
+      "__unknown_productSubTitle": "AllMatters Model A Adet Regl Kabı",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

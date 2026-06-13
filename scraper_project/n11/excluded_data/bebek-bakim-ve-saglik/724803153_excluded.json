@@ -1,0 +1,79 @@
+[
+  {
+    "gid_ref": 208713,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyton İkili Silikon Parmak Fırça",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1769715440376,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1772870269278,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 724803153,
+      "__unknown_productSubTitle": "Babyton İkili Silikon Parmak Fırça",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 208714,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyton İkili Silikon Parmak Fırça",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1732604664657,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/11/26/57/60/01/86/00/32/93/52/84/22346713360889200148.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604768887,
+      "__unknown_productSubTitle": "Babyton İkili Silikon Parmak Fırça",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6330419,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/11/26/57/60/01/86/00/32/93/52/84/22346713360889200148.png"
+        }
+      ],
+      "__unknown_score": "60",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/11/26/57/60/01/86/00/32/93/52/84/22346713360889200148.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/11/26/57/60/01/86/00/32/93/52/84/22346713360889200148.png"
+    }
+  },
+  {
+    "gid_ref": 208715,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Babyton İkili Silikon Parmak Fırça",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1724820538758,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/08/28/64/10/61/73/17/45/94/75/59/28068137038238993345.jpg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 604768887,
+      "__unknown_productSubTitle": "Babyton İkili Silikon Parmak Fırça",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5511865,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/08/28/64/10/61/73/17/45/94/75/59/28068137038238993345.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/08/28/64/10/61/73/17/45/94/75/59/28068137038238993345.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/08/28/64/10/61/73/17/45/94/75/59/28068137038238993345.jpg"
+    }
+  }
+]

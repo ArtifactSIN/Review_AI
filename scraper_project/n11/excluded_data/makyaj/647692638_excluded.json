@@ -1,0 +1,110 @@
+[
+  {
+    "gid_ref": 846681,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Infaillible 24H Fresh Wear Pudra Fondöten 120 Vanilla",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1762457308956,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 564552128,
+      "__unknown_productSubTitle": "L'Oreal Paris Infaillible 24H Fresh Wear Pudra Fondöten 120 Vanilla",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 846682,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Infaillible 24H Fresh Wear Pudra Fondöten 120 Vanilla",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1752523396199,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 647692638,
+      "__unknown_productSubTitle": "L'Oreal Paris Infaillible 24H Fresh Wear Pudra Fondöten 120 Vanilla",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 846683,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Infaillible 24H Fresh Wear Pudra Fondöten 120 Vanilla",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1744481678328,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/04/12/80/20/91/89/20/28/50/17/19/28417945018847216462.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 564552128,
+      "__unknown_productSubTitle": "L'Oreal Paris Infaillible 24H Fresh Wear Pudra Fondöten 120 Vanilla",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 7095954,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/04/12/80/20/91/89/20/28/50/17/19/28417945018847216462.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/04/12/80/20/91/89/20/28/50/17/19/28417945018847216462.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/04/12/80/20/91/89/20/28/50/17/19/28417945018847216462.png"
+    }
+  },
+  {
+    "gid_ref": 846684,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Infaillible 24H Fresh Wear Pudra Fondöten 120 Vanilla",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1731323701912,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 533689775,
+      "__unknown_productSubTitle": "L'Oreal Paris Infaillible 24H Fresh Wear Pudra Fondöten 120 Vanilla",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 846685,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "L'Oreal Paris Infaillible 24H Fresh Wear Pudra Fondöten 120 Vanilla",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1692459284806,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 533689775,
+      "__unknown_productSubTitle": "L'Oreal Paris Infaillible 24H Fresh Wear Pudra Fondöten 120 Vanilla",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

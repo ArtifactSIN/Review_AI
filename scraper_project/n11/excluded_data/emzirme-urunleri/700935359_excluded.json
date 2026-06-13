@@ -1,0 +1,42 @@
+[
+  {
+    "gid_ref": 498507,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Chicco Wellbeing Tekli Manuel Göğüs Pompası CHI-5740100150",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1764311413964,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 700935359,
+      "__unknown_productSubTitle": "Chicco Wellbeing Tekli Manuel Göğüs Pompası CHI-5740100150",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 498508,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Chicco Wellbeing Tekli Manuel Göğüs Pompası CHI-5740100150",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1736065156309,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 592999637,
+      "__unknown_productSubTitle": "Chicco Wellbeing Tekli Manuel Göğüs Pompası CHI-5740100150",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

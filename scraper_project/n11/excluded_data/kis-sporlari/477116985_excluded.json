@@ -1,0 +1,85 @@
+[
+  {
+    "gid_ref": 802695,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karkay Şişme Kar Kızağı Karda Kayma Botu 3 Adet Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1740334309916,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/25/02/23/70/53/59/55/45/89/03/12/74/04856817752407060652.jpg",
+      "__unknown_lastModifiedDate": 1749508868904,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 477116985,
+      "__unknown_productSubTitle": "Karkay Şişme Kar Kızağı Karda Kayma Botu 3 Adet Çok Renkli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 6883375,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/23/70/53/59/55/45/89/03/12/74/04856817752407060652.jpg"
+        },
+        {
+          "id": 6883376,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/25/02/23/59/43/41/95/66/25/93/44/44/5850758079547421526.jpg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/25/02/23/70/53/59/55/45/89/03/12/74/04856817752407060652.jpg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/25/02/23/70/53/59/55/45/89/03/12/74/04856817752407060652.jpg"
+    }
+  },
+  {
+    "gid_ref": 802696,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karkay Şişme Kar Kızağı Karda Kayma Botu 3 Adet Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1734617245804,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1749508868904,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 477116985,
+      "__unknown_productSubTitle": "Karkay Şişme Kar Kızağı Karda Kayma Botu 3 Adet Çok Renkli",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 802697,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Karkay Şişme Kar Kızağı Karda Kayma Botu 3 Adet Çok Renkli",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1702453006658,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/12/13/86/29/20/38/30/21/23/82/89/35038682384562603872.png",
+      "__unknown_lastModifiedDate": 1749508868904,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 477116985,
+      "__unknown_productSubTitle": "Karkay Şişme Kar Kızağı Karda Kayma Botu 3 Adet Çok Renkli",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 2835883,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/12/13/86/29/20/38/30/21/23/82/89/35038682384562603872.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/12/13/86/29/20/38/30/21/23/82/89/35038682384562603872.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/12/13/86/29/20/38/30/21/23/82/89/35038682384562603872.png"
+    }
+  }
+]

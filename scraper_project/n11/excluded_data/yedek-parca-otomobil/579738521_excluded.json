@@ -1,0 +1,70 @@
+[
+  {
+    "gid_ref": 1457069,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fıat Egea Cam İndirme Ve Kaldırma Modülü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1751270944812,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 648463983,
+      "__unknown_productSubTitle": "Fıat Egea Cam İndirme Ve Kaldırma Modülü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1457070,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fıat Egea Cam İndirme Ve Kaldırma Modülü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1726721485459,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/24/09/19/57/42/21/15/35/74/18/41/89/46548730585949750371.jpeg",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579738521,
+      "__unknown_productSubTitle": "Fıat Egea Cam İndirme Ve Kaldırma Modülü",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 5664068,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/24/09/19/57/42/21/15/35/74/18/41/89/46548730585949750371.jpeg"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/24/09/19/57/42/21/15/35/74/18/41/89/46548730585949750371.jpeg",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/24/09/19/57/42/21/15/35/74/18/41/89/46548730585949750371.jpeg"
+    }
+  },
+  {
+    "gid_ref": 1457071,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "Fıat Egea Cam İndirme Ve Kaldırma Modülü",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1719344784355,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 579738521,
+      "__unknown_productSubTitle": "Fıat Egea Cam İndirme Ve Kaldırma Modülü",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

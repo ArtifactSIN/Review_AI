@@ -1,0 +1,63 @@
+[
+  {
+    "gid_ref": 1334478,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "TCL 75C6K 4K UHD QD-MINILED 75\" GOOGLE TV",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1774447214864,
+      "__unknown_getirSeller": false,
+      "__unknown_lastModifiedDate": 1774447214864,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 696206936,
+      "__unknown_productSubTitle": "TCL 75C6K 4K UHD QD-MINILED 75\" GOOGLE TV",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "80",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1334479,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "TCL 75C6K 4K UHD QD-MINILED 75\" GOOGLE TV",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1767084750174,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 696206936,
+      "__unknown_productSubTitle": "TCL 75C6K 4K UHD QD-MINILED 75\" GOOGLE TV",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "20",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 1334480,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "TCL 75C6K 4K UHD QD-MINILED 75\" GOOGLE TV",
+      "__unknown_availableToBuy": true,
+      "__unknown_createDate": 1757768163797,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 696206936,
+      "__unknown_productSubTitle": "TCL 75C6K 4K UHD QD-MINILED 75\" GOOGLE TV",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "40",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  }
+]

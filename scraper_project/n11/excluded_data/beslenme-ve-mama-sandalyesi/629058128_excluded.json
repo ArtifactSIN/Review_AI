@@ -1,0 +1,50 @@
+[
+  {
+    "gid_ref": 272727,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "BabyDoor Çalışma Masalı Pedli Mama Sandalyesi Somon",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1704447707279,
+      "__unknown_getirSeller": false,
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 583432412,
+      "__unknown_productSubTitle": "BabyDoor Çalışma Masalı Pedli Mama Sandalyesi Somon Somon",
+      "__unknown_reviewImageDtos": [],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      }
+    }
+  },
+  {
+    "gid_ref": 272728,
+    "reason": "excluded_fields",
+    "platform": "n11",
+    "data": {
+      "productTitle": "BabyDoor Çalışma Masalı Pedli Mama Sandalyesi Somon",
+      "__unknown_availableToBuy": false,
+      "__unknown_createDate": 1679489910215,
+      "__unknown_getirSeller": false,
+      "__unknown_imageFilePath": "https://n11scdn.akamaized.net/a1/{0}/23/03/22/76/10/93/17/65/42/26/66/38/31414176168518698654.png",
+      "__unknown_oldScore": 0,
+      "__unknown_productId": 552050980,
+      "__unknown_productSubTitle": "BabyDoor Çalışma Masalı Pedli Mama Sandalyesi Somon Somon",
+      "__unknown_reviewImageDtos": [
+        {
+          "id": 1783704,
+          "imageUrl": "https://n11scdn.akamaized.net/a1/org/23/03/22/76/10/93/17/65/42/26/66/38/31414176168518698654.png"
+        }
+      ],
+      "__unknown_score": "100",
+      "__unknown_vote": {
+        "up": false,
+        "down": false
+      },
+      "__unknown_imageFilePathSD": "https://n11scdn.akamaized.net/a1/94/23/03/22/76/10/93/17/65/42/26/66/38/31414176168518698654.png",
+      "__unknown_imageFilePathHD": "https://n11scdn.akamaized.net/a1/org/23/03/22/76/10/93/17/65/42/26/66/38/31414176168518698654.png"
+    }
+  }
+]
