@@ -26,6 +26,8 @@
     "scrape_ty_havvagul": "node trendyol/collection_auto_rawData.js --user=havvagul --team=havvagul",
     "scrape_ty_failed": "node trendyol/collection_auto_rawData.js --failed-only",
     "scrape_ty_partial": "node trendyol/collection_auto_rawData.js --partial-only",
+    "partition_trendyol": "node trendyol/collect_category_ids.js --partition-only",
+    "scrape_ty_ids": "node trendyol/collect_category_ids.js",
     "transform_n11": "node pipeline/transform_n11.js",
     "transform_n11_run": "node pipeline/transform_n11_run.js",
     "merge_reviews": "node pipeline/merge.js",

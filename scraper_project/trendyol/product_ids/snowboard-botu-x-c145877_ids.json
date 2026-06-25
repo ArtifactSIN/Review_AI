@@ -1,8 +1,8 @@
 {
   "categoryUrl": "https://www.trendyol.com/snowboard-botu-x-c145877",
   "slug": "snowboard-botu-x-c145877",
-  "collectedAt": "2026-05-13T21:56:36.662Z",
-  "uniqueCount": 65,
+  "collectedAt": "2026-06-14T01:41:52.021Z",
+  "uniqueCount": 67,
   "products": [
     {
       "id": "412033901",
@@ -328,6 +328,16 @@
       "id": "2461279",
       "url": "/rome/sentry-boa-kadin-snowboard-botu-p-2461279?boutiqueId=61&merchantId=4546",
       "name": "Sentry Boa Kadın Snowboard Botu"
+    },
+    {
+      "id": "1148156325",
+      "url": "/yakupoglu-yds/yds-astor-gtx-goreteks-su-gecirmez-siyah-bot-p-1148156325?boutiqueId=61&merchantId=1066550",
+      "name": "YDS ASTOR GTX ( GORETEKS ) SU GEÇİRMEZ SİYAH BOT"
+    },
+    {
+      "id": "872524840",
+      "url": "/burton/coco-kadin-snowboard-botu-gri-kadin-snowboard-botu-106441-p-872524840?boutiqueId=61&merchantId=2763",
+      "name": "Coco Kadın Snowboard Botu Gri KADIN SNOWBOARD BOTU 106441"
     }
   ]
 }

@@ -595,6 +595,19 @@ def run_dashboard(concurrency=3, min_products=0, target=0, fix_names=False):
             except Exception:
                 pass
 
+    from datetime import timedelta
+    elapsed = int(time.time() - state.started_at) if hasattr(state, "started_at") else 0
+    cats = state.categories
+    done_n  = sum(1 for c in cats.values() if c.status == "done")
+    total_n = len(cats)
+    seen_n  = sum(c.total for c in cats.values())
+    console.print()
+    console.print(f"[bold]Run finished[/bold]  elapsed={timedelta(seconds=elapsed)}  "
+                  f"done={done_n}/{total_n}  products_seen={seen_n:,}")
+    rc = node_proc.returncode
+    if rc is not None and rc != 0:
+        console.print(f"[red]Node exited with code {rc}[/red]")
+    time.sleep(1.5)
     show_status()
 
 # ─── status mode ──────────────────────────────────────────────────────────────

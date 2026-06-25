@@ -23,7 +23,7 @@ META_FILE   = LOGS_DIR / "shared_meta.json"
 
 GIT_SYNC_FILES = [
     "trendyol/logs/shared_meta.json",
-    "trendyol/logs/gid_counter.json",
+    "logs/gid_counter.json",
 ]
 GIT_SYNC_INTERVAL  = 300    # seconds
 REFRESH_INTERVAL   = 3000   # ms
@@ -52,18 +52,18 @@ THEMES = {
     "tugce": {
         "mode":      "light",
         "label":     "Tugçe",
-        "nav_bg":    "#ffe4ec",
-        "main_bg":   "#fff8f5",
-        "card_bg":   "#fff0f4",
-        "accent":    "#ffd6e0",
-        "highlight": "#e8758a",
-        "dot":       "#ffe066",
-        "btn_run":   "#d95f7a",
-        "btn_run_h": "#c04a65",
-        "btn_stop":  "#cc4040",
-        "btn_stop_h":"#aa2828",
-        "tag_color": "#c0005a",
-        "subtext":   "#8a4060",
+        "nav_bg":    "#ede9f8",
+        "main_bg":   "#f7f5ff",
+        "card_bg":   "#eee9fb",
+        "accent":    "#d8d0f5",
+        "highlight": "#7c5cbf",
+        "dot":       "#9d7fd4",
+        "btn_run":   "#6d48b8",
+        "btn_run_h": "#5a3a9e",
+        "btn_stop":  "#b84040",
+        "btn_stop_h":"#963030",
+        "tag_color": "#5a3a9e",
+        "subtext":   "#7060a0",
     },
     "havvagul": {
         "mode":      "light",
@@ -119,24 +119,24 @@ class UserCard(ctk.CTkFrame):
     HOVER = "#1e2d42"
 
     def __init__(self, parent, key, initial, name, circle_color, hint, on_click):
-        super().__init__(parent, width=200, height=290,
-                         corner_radius=20, fg_color=self.BASE, cursor="hand2")
+        super().__init__(parent, width=200, height=280,
+                         corner_radius=18, fg_color=self.BASE, cursor="hand2")
         self.pack_propagate(False)
         self._on_click = lambda: on_click(key)
 
-        canvas = tk.Canvas(self, width=100, height=100,
+        canvas = tk.Canvas(self, width=90, height=90,
                            bg=self.BASE, highlightthickness=0)
-        canvas.pack(pady=(36, 10))
-        canvas.create_oval(5, 5, 95, 95, fill=circle_color, outline="")
-        canvas.create_text(50, 50, text=initial,
-                           font=("Helvetica", 34, "bold"), fill="white")
+        canvas.pack(pady=(32, 10))
+        canvas.create_oval(5, 5, 85, 85, fill=circle_color, outline="")
+        canvas.create_text(45, 45, text=initial,
+                           font=("Helvetica", 30, "bold"), fill="white")
 
         ctk.CTkLabel(self, text=name,
-                     font=ctk.CTkFont(size=16, weight="bold"),
+                     font=ctk.CTkFont(size=17, weight="bold"),
                      text_color="#e8edf4").pack()
         ctk.CTkLabel(self, text=hint,
-                     font=ctk.CTkFont(size=11),
-                     text_color="#4a5a6e").pack(pady=(5, 0))
+                     font=ctk.CTkFont(size=12),
+                     text_color="#4a5a6e").pack(pady=(5, 14))
 
         self._bind_recursive(self)
 
@@ -157,31 +157,31 @@ class UserCard(ctk.CTkFrame):
 
 # ─── PROGRESS CARD ───────────────────────────────────────────────────────────
 
-def make_card(parent, name, color, done=0, total=0, reviews=0, card_bg="#1e2a3a"):
-    frame = ctk.CTkFrame(parent, corner_radius=14, fg_color=card_bg)
+def make_card(parent, name, color, done=0, total=0, reviews=0, card_bg="#1e2a3a", bar_track="#2a2a3a"):
+    frame = ctk.CTkFrame(parent, corner_radius=16, fg_color=card_bg)
 
     hdr = ctk.CTkFrame(frame, fg_color="transparent")
-    hdr.pack(fill="x", padx=14, pady=(10, 2))
+    hdr.pack(fill="x", padx=18, pady=(12, 3))
 
     ctk.CTkLabel(hdr, text="●", text_color=color,
-                 font=ctk.CTkFont(size=13)).pack(side="left")
+                 font=ctk.CTkFont(size=14)).pack(side="left")
     ctk.CTkLabel(hdr, text=f"  {name}",
-                 font=ctk.CTkFont(size=12, weight="bold")).pack(side="left")
+                 font=ctk.CTkFont(size=13, weight="bold")).pack(side="left")
 
     pct_val = (done / total * 100) if total else 0.0
     pct_lbl = ctk.CTkLabel(hdr, text=f"{pct_val:.1f}%",
-                            font=ctk.CTkFont(size=12, weight="bold"),
+                            font=ctk.CTkFont(size=13, weight="bold"),
                             text_color=color)
     pct_lbl.pack(side="right")
 
-    bar = ctk.CTkProgressBar(frame, height=8, progress_color=color, fg_color="#2a2a3a")
+    bar = ctk.CTkProgressBar(frame, height=10, progress_color=color, fg_color=bar_track)
     bar.set(pct_val / 100)
-    bar.pack(fill="x", padx=14, pady=(2, 4))
+    bar.pack(fill="x", padx=18, pady=(3, 5))
 
     sub = ctk.CTkLabel(frame,
                        text=f"{fmt(done)} / {fmt(total)} products   ·   {fmt(reviews)} reviews",
-                       font=ctk.CTkFont(size=10), text_color="#888")
-    sub.pack(anchor="w", padx=14, pady=(0, 10))
+                       font=ctk.CTkFont(size=11), text_color="#888")
+    sub.pack(anchor="w", padx=18, pady=(0, 12))
 
     return {"frame": frame, "bar": bar, "pct": pct_lbl, "sub": sub}
 
@@ -201,7 +201,7 @@ class App(ctk.CTk):
         ctk.set_appearance_mode("dark")
         ctk.set_default_color_theme("blue")
         self.title("Trendyol Review Dashboard")
-        self.geometry("840x480")
+        self.geometry("900x520")
         self.resizable(False, False)
         self.configure(fg_color="#0f1420")
 
@@ -261,8 +261,8 @@ class App(ctk.CTk):
         for w in self.winfo_children():
             w.destroy()
 
-        self.geometry("1360x880")
-        self.minsize(1020, 700)
+        self.geometry("1280x820")
+        self.minsize(1000, 680)
         self.resizable(True, True)
         self.configure(fg_color=theme["main_bg"])
         self.title(f"Trendyol Review Dashboard  ·  {theme['label']}")
@@ -293,14 +293,14 @@ class App(ctk.CTk):
 
     def _build_nav(self):
         t = self._theme
-        nav = ctk.CTkFrame(self, height=54, corner_radius=0, fg_color=t["nav_bg"])
+        nav = ctk.CTkFrame(self, height=58, corner_radius=0, fg_color=t["nav_bg"])
         nav.pack(fill="x", side="top")
 
         ctk.CTkLabel(nav, text="●", text_color=t["highlight"],
-                     font=ctk.CTkFont(size=16)).pack(side="left", padx=(16, 3), pady=14)
+                     font=ctk.CTkFont(size=17)).pack(side="left", padx=(18, 4), pady=16)
         ctk.CTkLabel(nav, text=f"Trendyol Reviews  ·  {t['label']}",
-                     font=ctk.CTkFont(size=15, weight="bold"),
-                     text_color=t["tag_color"]).pack(side="left", pady=14)
+                     font=ctk.CTkFont(size=16, weight="bold"),
+                     text_color=t["tag_color"]).pack(side="left", pady=16)
 
         self._status_lbl = ctk.CTkLabel(nav, text="● Idle",
                                         font=ctk.CTkFont(size=12), text_color="#888")
@@ -354,30 +354,30 @@ class App(ctk.CTk):
         failed = info.get("failed", 0)
         pct    = done / total if total else 0.0
 
-        row = ctk.CTkFrame(self._cat_scroll, fg_color="transparent", height=26)
+        row = ctk.CTkFrame(self._cat_scroll, fg_color="transparent", height=30)
         row.pack(fill="x", padx=6, pady=1)
 
         ctk.CTkLabel(row, text="●", text_color=color,
-                     width=12, font=ctk.CTkFont(size=9)).pack(side="left")
+                     width=12, font=ctk.CTkFont(size=10)).pack(side="left")
 
         display = slug[:26] + "…" if len(slug) > 27 else slug
-        ctk.CTkLabel(row, text=display, font=ctk.CTkFont(size=10),
-                     width=206, anchor="w").pack(side="left", padx=(3, 5))
+        ctk.CTkLabel(row, text=display, font=ctk.CTkFont(size=11),
+                     width=200, anchor="w").pack(side="left", padx=(3, 5))
 
-        bar = ctk.CTkProgressBar(row, width=88, height=6,
+        bar = ctk.CTkProgressBar(row, width=96, height=7,
                                  progress_color=color, fg_color="#333")
         bar.set(pct)
         bar.pack(side="left", padx=(0, 4))
 
         count_lbl = ctk.CTkLabel(row, text=f"{fmt(done)}/{fmt(total)}",
-                                 font=ctk.CTkFont(size=9), text_color="#999",
-                                 width=68, anchor="w")
+                                 font=ctk.CTkFont(size=10), text_color="#999",
+                                 width=72, anchor="w")
         count_lbl.pack(side="left")
 
         fail_lbl = None
         if failed > 0:
             fail_lbl = ctk.CTkLabel(row, text=f"⚠{failed}",
-                                    font=ctk.CTkFont(size=9, weight="bold"),
+                                    font=ctk.CTkFont(size=10, weight="bold"),
                                     text_color="#ff6b6b", width=34)
             fail_lbl.pack(side="left")
 
@@ -397,7 +397,7 @@ class App(ctk.CTk):
             if ref["fail_lbl"] is None:
                 ref["fail_lbl"] = ctk.CTkLabel(
                     ref["row"], text=f"⚠{failed}",
-                    font=ctk.CTkFont(size=9, weight="bold"),
+                    font=ctk.CTkFont(size=10, weight="bold"),
                     text_color="#ff6b6b", width=34)
                 ref["fail_lbl"].pack(side="left")
             else:
@@ -437,7 +437,7 @@ class App(ctk.CTk):
     def _build_runner_panel(self, parent):
         t = self._theme
 
-        ctrl = ctk.CTkFrame(parent, fg_color=t["card_bg"], corner_radius=16)
+        ctrl = ctk.CTkFrame(parent, fg_color=t["card_bg"], corner_radius=18)
         ctrl.pack(fill="x", padx=12, pady=(14, 6))
 
         ctk.CTkLabel(ctrl, text="Run Settings",
@@ -503,7 +503,7 @@ class App(ctk.CTk):
         self._cont_btn.pack(side="left", padx=(0, 6))
 
         self._cmd_lbl = ctk.CTkLabel(ctrl, text="", anchor="w",
-                                     font=ctk.CTkFont(family="Courier", size=10),
+                                     font=ctk.CTkFont(family="Courier", size=11),
                                      text_color=t["subtext"])
         self._cmd_lbl.grid(row=5, column=0, columnspan=4, padx=18, pady=(0, 12), sticky="w")
 
@@ -519,7 +519,7 @@ class App(ctk.CTk):
 
         self._console = tk.Text(wrap, bg="#0d0d0d", fg="#cccccc",
                                 insertbackground="#cccccc", selectbackground="#333",
-                                font=("Courier", 11), wrap="word",
+                                font=("Courier", 12), wrap="word",
                                 relief="flat", state="disabled", padx=10, pady=8)
         self._console.pack(fill="both", expand=True, side="left")
 
@@ -537,28 +537,28 @@ class App(ctk.CTk):
 
     def _build_bottom_bar(self):
         t = self._theme
-        bar = ctk.CTkFrame(self, height=46, corner_radius=0, fg_color=t["nav_bg"])
+        bar = ctk.CTkFrame(self, height=50, corner_radius=0, fg_color=t["nav_bg"])
         bar.pack(fill="x", side="bottom")
 
-        ctk.CTkButton(bar, text="⚠ Run Failed", width=110, height=32,
+        ctk.CTkButton(bar, text="⚠ Run Failed", width=110, height=34,
                       fg_color=t["btn_stop"], hover_color=t["btn_stop_h"],
                       font=ctk.CTkFont(size=11),
-                      command=self._run_failed).pack(side="left", padx=(10, 4), pady=7)
+                      command=self._run_failed).pack(side="left", padx=(10, 4), pady=8)
 
-        ctk.CTkButton(bar, text="◑ Run Partial", width=110, height=32,
+        ctk.CTkButton(bar, text="◑ Run Partial", width=110, height=34,
                       fg_color=t["accent"], hover_color=t["highlight"],
                       font=ctk.CTkFont(size=11),
-                      command=self._run_partial).pack(side="left", padx=4, pady=7)
+                      command=self._run_partial).pack(side="left", padx=4, pady=8)
 
-        ctk.CTkButton(bar, text="↑ Sync Now", width=100, height=32,
+        ctk.CTkButton(bar, text="↑ Sync Now", width=100, height=34,
                       fg_color=t["accent"], hover_color=t["highlight"],
                       font=ctk.CTkFont(size=11),
-                      command=self._trigger_sync).pack(side="left", padx=4, pady=7)
+                      command=self._trigger_sync).pack(side="left", padx=4, pady=8)
 
-        ctk.CTkButton(bar, text="Clear", width=70, height=32,
+        ctk.CTkButton(bar, text="Clear", width=70, height=34,
                       fg_color="#333", hover_color="#444",
                       font=ctk.CTkFont(size=11),
-                      command=self._clear_console).pack(side="right", padx=10, pady=7)
+                      command=self._clear_console).pack(side="right", padx=10, pady=8)
 
         self._lines_lbl = ctk.CTkLabel(bar, text="0 lines",
                                        font=ctk.CTkFont(size=11), text_color="#666")
@@ -571,8 +571,55 @@ class App(ctk.CTk):
 
     def _fetch_stats(self):
         meta = read_json(META_FILE)
-        if meta:
-            self.after(0, lambda m=meta: self._apply_stats(m))
+        if not meta:
+            meta = {
+                "totals": {t: {"done": 0, "total": 0, "reviews": 0, "failed": 0}
+                           for t in ["arda", "tugce", "havvagul"]},
+                "categories": {},
+            }
+        totals = meta.get("totals", {})
+        if all(totals.get(t, {}).get("total", 0) == 0 for t in ["arda", "tugce", "havvagul"]):
+            assignments = (meta.get("assignments")
+                           or read_json(LOGS_DIR / "team_assignments.json"))
+            if assignments:
+                meta = self._build_stats_from_fs(meta, assignments)
+        self.after(0, lambda m=meta: self._apply_stats(m))
+
+    def _build_stats_from_fs(self, meta: dict, assignments: dict) -> dict:
+        cache = getattr(self, "_fs_stats_cache", None)
+        if cache:
+            return cache
+        ids_dir = SCRIPT_DIR / "product_ids"
+        raw_dir = SCRIPT_DIR / "raw_data"
+        cats = dict(meta.get("categories", {}))
+        totals = {}
+        for team in ["arda", "tugce", "havvagul"]:
+            slugs = assignments.get(team, [])
+            team_total, team_done = 0, 0
+            for slug in slugs:
+                ids_file = ids_dir / f"{slug}_ids.json"
+                product_count = 0
+                if ids_file.exists():
+                    d = read_json(str(ids_file))
+                    if d:
+                        product_count = d.get("uniqueCount", len(d.get("products", [])))
+                team_total += product_count
+                cat_raw = raw_dir / slug
+                done_count = (len(list(cat_raw.glob("*_reviews.json")))
+                              if cat_raw.exists() else 0)
+                team_done += done_count
+                if slug not in cats:
+                    cats[slug] = {
+                        "team": team, "productCount": product_count,
+                        "done": done_count, "reviews": 0, "failed": 0,
+                    }
+            totals[team] = {"done": team_done, "total": team_total,
+                            "reviews": 0, "failed": 0}
+        result = dict(meta)
+        result["totals"] = totals
+        result["categories"] = cats
+        self._fs_stats_cache = result
+        return result
 
     def _apply_stats(self, meta: dict):
         totals = meta.get("totals", {})
@@ -692,6 +739,7 @@ class App(ctk.CTk):
         self._console_write(f"\n[{ts_now()}] ■  Stop requested.\n", "warn")
 
     def _on_finished(self):
+        self._fs_stats_cache = None  # invalidate so next refresh rescans
         self._run_btn.configure(state="normal")
         self._cont_btn.configure(state="normal")
         self._stop_btn.configure(state="disabled")
@@ -799,7 +847,7 @@ class App(ctk.CTk):
                     return subprocess.run(list(args), capture_output=True,
                                          cwd=str(REPO_ROOT), timeout=30)
                 run("git", "pull", "--rebase", "--quiet")
-                run("git", "add", *GIT_SYNC_FILES)
+                run("git", "add", "-f", *GIT_SYNC_FILES)
                 diff = run("git", "diff", "--cached", "--quiet")
                 if diff.returncode != 0:
                     msg = f"meta: sync {self._user} {datetime.now().strftime('%Y-%m-%dT%H:%M')}"

@@ -2,12 +2,13 @@
 
 const fs = require("fs");
 const path = require("path");
-const { chromium } = require("playwright");
+// playwright loaded lazily so --partition-only works without a browser
+let chromium;
 
 const INPUT_FILE = path.join(__dirname, "categories.txt");
 const OUTPUT_DIR = path.join(__dirname, "product_ids");
 
-const TARGET_UNIQUE_IDS = 1000;
+const TARGET_UNIQUE_IDS = 0; // 0 = unlimited; use --target=<n> to set a cap
 const DELAY_MS = 400;
 const MAX_TASKS_PER_PAGE = 10;
 const MAX_CONSECUTIVE_WORKER_ERRORS = 3;
@@ -25,6 +26,7 @@ function parseArgs() {
   let minProducts = 0;
   let target = 0;
   let fixNames = false;
+  let partitionOnly = false;
   for (const arg of process.argv.slice(2)) {
     const mConc = arg.match(/^--concurrency=(\d+)$/);
     if (mConc) concurrency = parseInt(mConc[1], 10);
@@ -35,16 +37,18 @@ function parseArgs() {
     if (arg === "--status") status = true;
     if (arg === "--audit") audit = true;
     if (arg === "--fix-names") fixNames = true;
+    if (arg === "--partition-only") partitionOnly = true;
   }
-  return { concurrency, status, audit, minProducts, target, fixNames };
+  return { concurrency, status, audit, minProducts, target, fixNames, partitionOnly };
 }
 
-const { concurrency: CONCURRENCY, status: SHOW_STATUS, audit: SHOW_AUDIT, minProducts: MIN_PRODUCTS, target: _TARGET_ARG, fixNames: FIX_NAMES } = parseArgs();
-const EFFECTIVE_TARGET = _TARGET_ARG > 0 ? _TARGET_ARG : TARGET_UNIQUE_IDS;
+const { concurrency: CONCURRENCY, status: SHOW_STATUS, audit: SHOW_AUDIT, minProducts: MIN_PRODUCTS, target: _TARGET_ARG, fixNames: FIX_NAMES, partitionOnly: PARTITION_ONLY } = parseArgs();
+const EFFECTIVE_TARGET = _TARGET_ARG > 0 ? _TARGET_ARG : TARGET_UNIQUE_IDS; // 0 = no cap
 
 // ─── state ────────────────────────────────────────────────────────────────────
 
 let isShuttingDown = false;
+let newIdsSaved = 0; // incremented each time saveCategoryResult writes a file
 // categoryUrl → { seen: Map<id, product>, lastPage: number }
 const activeCategoryRuns = new Map();
 
@@ -320,16 +324,47 @@ async function collectProductsForCategory(page, categoryUrl, resumeData) {
   const runInfo = { seen, lastPage: 0, nextUrl: null };
   activeCategoryRuns.set(categoryUrl, runInfo);
 
-  // Navigate once to seed cookies; detect redirect-resolved pathModel for y-s categories
+  // Navigate once to seed cookies and detect real pathModel.
+  // For y-s URLs (e.g. sarjli-dis-fircasi-y-s6592), page.url() doesn't change after navigation
+  // but the page's JS makes an API call with a different resolved pathModel.
+  // Intercept that response to capture the correct first-page URL.
   let canonicalPathModel = pathModelFromCategoryUrl(categoryUrl);
+  let interceptedFirstUrl = null;
+
+  const onApiResponse = (response) => {
+    if (interceptedFirstUrl) return;
+    const u = response.url();
+    if (u.includes("discovery-sfint-search-service") && u.includes("pi=1")) {
+      interceptedFirstUrl = u;
+    }
+  };
+
+  if (!resumeData?.nextUrl) page.on("response", onApiResponse);
+
   try {
     await page.goto(categoryUrl, { waitUntil: "domcontentloaded", timeout: 30000 });
-    canonicalPathModel = await detectCanonicalPathModel(page, categoryUrl);
-    if (canonicalPathModel !== pathModelFromCategoryUrl(categoryUrl)) {
-      console.log(`[${slug}] pathModel remapped → ${canonicalPathModel}`);
+    // Wait up to 2s for the page's first search API call to fire
+    if (!resumeData?.nextUrl) {
+      for (let i = 0; i < 10 && !interceptedFirstUrl; i++) await sleep(200);
+    }
+
+    if (interceptedFirstUrl) {
+      const pm = new URL(interceptedFirstUrl).searchParams.get("pathModel");
+      if (pm && pm !== pathModelFromCategoryUrl(categoryUrl)) {
+        console.log(`[${slug}] pathModel intercepted → ${pm}`);
+        canonicalPathModel = pm;
+      }
+    } else {
+      // Fallback: check if the URL itself redirected
+      canonicalPathModel = await detectCanonicalPathModel(page, categoryUrl);
+      if (canonicalPathModel !== pathModelFromCategoryUrl(categoryUrl)) {
+        console.log(`[${slug}] pathModel remapped → ${canonicalPathModel}`);
+      }
     }
   } catch {
     console.log(`[${slug}] nav timeout, continuing with fetch`);
+  } finally {
+    if (!resumeData?.nextUrl) page.off("response", onApiResponse);
   }
 
   if (resumeData) {
@@ -338,11 +373,12 @@ async function collectProductsForCategory(page, categoryUrl, resumeData) {
     console.log(`\n[START] ${slug}`);
   }
 
-  // Start from saved nextUrl if resuming, otherwise build page-1 URL from canonical pathModel
-  let nextUrl = resumeData?.nextUrl || buildFirstPageUrlFromPathModel(canonicalPathModel);
+  // Resuming: use saved nextUrl. Fresh start: prefer intercepted URL (captures real pathModel for y-s),
+  // fall back to constructed URL from canonical pathModel.
+  let nextUrl = resumeData?.nextUrl || interceptedFirstUrl || buildFirstPageUrlFromPathModel(canonicalPathModel);
   let pageNum = resumeData?.lastPage || 0;
 
-  while (nextUrl && !isShuttingDown && seen.size < EFFECTIVE_TARGET) {
+  while (nextUrl && !isShuttingDown && (EFFECTIVE_TARGET === 0 || seen.size < EFFECTIVE_TARGET)) {
     pageNum++;
 
     let payload;
@@ -379,7 +415,7 @@ async function collectProductsForCategory(page, categoryUrl, resumeData) {
     runInfo.nextUrl  = nextUrl; // saved in partial so resume can continue from here
     console.log(`[${slug}] pi=${pageNum} +${addedThisPage} new, total=${seen.size}`);
 
-    if (seen.size >= EFFECTIVE_TARGET) {
+    if (EFFECTIVE_TARGET > 0 && seen.size >= EFFECTIVE_TARGET) {
       console.log(`[${slug}] reached target ${EFFECTIVE_TARGET}.`);
       break;
     }
@@ -388,7 +424,7 @@ async function collectProductsForCategory(page, categoryUrl, resumeData) {
   }
 
   if (isShuttingDown) console.log(`[${slug}] interrupt, stopping.`);
-  else if (!nextUrl && seen.size < TARGET_UNIQUE_IDS) console.log(`[${slug}] catalog exhausted (${seen.size} products).`);
+  else if (!nextUrl) console.log(`[${slug}] catalog exhausted (${seen.size} products).`);
 
   activeCategoryRuns.delete(categoryUrl);
 
@@ -407,6 +443,7 @@ function saveCategoryResult(result) {
   const fileName = `${result.slug}_ids.json`;
   const outputPath = path.join(OUTPUT_DIR, fileName);
   fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), "utf8");
+  newIdsSaved++;
   console.log(`[SAVED] ${outputPath} (${result.uniqueCount} products)`);
 }
 
@@ -436,6 +473,45 @@ function saveAllActivePartials() {
       console.error(err);
     }
   }
+}
+
+// ─── team partition ───────────────────────────────────────────────────────────
+
+function safeReadJson(p) {
+  try { return JSON.parse(fs.readFileSync(p, "utf8")); } catch { return null; }
+}
+
+function regenerateAssignments() {
+  const teams = ["arda", "tugce", "havvagul"];
+  if (!fs.existsSync(OUTPUT_DIR)) {
+    console.log("[PARTITION] No product_ids/ dir, skipping.");
+    return;
+  }
+  const files = fs.readdirSync(OUTPUT_DIR).filter(f => f.endsWith("_ids.json") && !f.includes(".partial."));
+  const cats = files.flatMap(f => {
+    const d = safeReadJson(path.join(OUTPUT_DIR, f));
+    if (!d) return [];
+    const slug  = d.slug || f.replace(/_ids\.json$/, "");
+    const count = d.uniqueCount || (Array.isArray(d.products) ? d.products.length : 0);
+    return count > 0 ? [{ slug, count }] : [];
+  });
+  cats.sort((a, b) => b.count - a.count); // heaviest first → better balance
+
+  const loads  = Object.fromEntries(teams.map(t => [t, 0]));
+  const result = Object.fromEntries(teams.map(t => [t, []]));
+  for (const cat of cats) {
+    const lightest = [...teams].sort((a, b) => loads[a] - loads[b])[0];
+    result[lightest].push(cat.slug);
+    loads[lightest] += cat.count;
+  }
+
+  const logsDir = path.join(__dirname, "logs");
+  if (!fs.existsSync(logsDir)) fs.mkdirSync(logsDir, { recursive: true });
+  const outPath = path.join(logsDir, "team_assignments.json");
+  fs.writeFileSync(outPath, JSON.stringify({ generatedAt: new Date().toISOString(), ...result }, null, 2), "utf8");
+  console.log(`[PARTITION] Written → ${outPath}`);
+  console.log(`[PARTITION] arda=${result.arda.length} tugce=${result.tugce.length} havvagul=${result.havvagul.length} categories`);
+  console.log(`[PARTITION] product-load: arda=${loads.arda} tugce=${loads.tugce} havvagul=${loads.havvagul}`);
 }
 
 // ─── fix-names mode ───────────────────────────────────────────────────────────
@@ -629,6 +705,11 @@ process.on("SIGINT", () => {
 // ─── entry point ──────────────────────────────────────────────────────────────
 
 (async () => {
+  if (PARTITION_ONLY) {
+    regenerateAssignments();
+    process.exit(0);
+  }
+
   const categoryUrls = readCategoryUrls();
 
   if (SHOW_STATUS) {
@@ -648,6 +729,7 @@ process.on("SIGINT", () => {
     console.log(`[INFO] --target=${EFFECTIVE_TARGET}: collecting up to ${EFFECTIVE_TARGET} products per category`);
   }
 
+  ({ chromium } = require("playwright"));
   const context = await chromium.launchPersistentContext(
     path.join(__dirname, ".pw-user"),
     {
@@ -687,4 +769,8 @@ process.on("SIGINT", () => {
   }
 
   console.log("\nAll categories finished.");
+  if (newIdsSaved > 0) {
+    console.log(`\n[PARTITION] ${newIdsSaved} categor${newIdsSaved === 1 ? "y" : "ies"} updated — regenerating team assignments...`);
+    regenerateAssignments();
+  }
 })();

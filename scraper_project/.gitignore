@@ -7,6 +7,11 @@ n11/logs/
 n11/.pw-user/
 trendyol/logs/
 trendyol/.pw-user/
+trendyol/.pw-user-reviews/
+trendyol/raw_data/
+trendyol/excluded_data/
+
+graphify-out/
 
 # Claude Code — local tooling (CLAUDE.md at root is committed separately)
 .claude/

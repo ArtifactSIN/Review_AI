@@ -160,6 +160,16 @@ function generateTeamAssignments() {
 }
 
 function getOrCreateAssignments(meta) {
+  // Prefer pre-generated partition from collect_category_ids (written to team_assignments.json
+  // whenever new product IDs are saved). This keeps assignments fresh without manual steps.
+  const pregenPath = path.join(LOGS_DIR, "team_assignments.json");
+  if (fs.existsSync(pregenPath)) {
+    const pregen = safeReadJson(pregenPath);
+    if (pregen && TEAMS.every(t => Array.isArray(pregen[t]))) {
+      _log("[ASSIGNMENTS] Loaded pre-generated partition from team_assignments.json");
+      return { arda: pregen.arda, tugce: pregen.tugce, havvagul: pregen.havvagul };
+    }
+  }
   if (meta.assignments && TEAMS.every(t => Array.isArray(meta.assignments[t]))) {
     return meta.assignments;
   }
